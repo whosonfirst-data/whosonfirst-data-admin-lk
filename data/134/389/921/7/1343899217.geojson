@@ -1,0 +1,67 @@
+{
+  "id": 1343899217,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"81.3378,6.2642,81.3378,6.2642",
+    "geom:latitude":6.2642,
+    "geom:longitude":81.3378,
+    "gn:admin1_code":"34.0",
+    "gn:asciiname":"Korakahaulpotha",
+    "gn:country_code":"LK",
+    "gn:dem":37,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7625630,
+    "gn:latitude":6.2642,
+    "gn:longitude":81.3378,
+    "gn:modification_date":"2010-12-04",
+    "gn:name":"Korakahaulpotha",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632313,
+        85673791,
+        1092066869
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7625630
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"5f696238de00c54d9336746d79e81753",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "county_id":1092066869,
+            "locality_id":1343899217,
+            "region_id":85673791
+        }
+    ],
+    "wof:id":1343899217,
+    "wof:lastmodified":1536607849,
+    "wof:name":"Korakahaulpotha",
+    "wof:parent_id":1092066869,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    81.3378,
+    6.2642,
+    81.3378,
+    6.2642
+],
+  "geometry": {"coordinates":[81.3378,6.2642],"type":"Point"}
+}

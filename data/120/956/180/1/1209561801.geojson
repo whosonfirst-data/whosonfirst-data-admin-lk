@@ -1,0 +1,61 @@
+{
+  "id": 1209561801,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"80.6394,8.6443,80.6394,8.6443",
+    "geom:latitude":8.6443,
+    "geom:longitude":80.6394,
+    "gn:admin1_code":"30.0",
+    "gn:asciiname":"Pinchawa",
+    "gn:country_code":"LK",
+    "gn:dem":118,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7440054,
+    "gn:latitude":8.6443,
+    "gn:longitude":80.6394,
+    "gn:modification_date":"2010-08-07",
+    "gn:name":"Pinchawa",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632313
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7440054
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"f6ba537d7dac6052a680e01dd9fad73a",
+    "wof:hierarchy":[
+        {
+            "country_id":85632313,
+            "locality_id":1209561801
+        }
+    ],
+    "wof:id":1209561801,
+    "wof:lastmodified":1536283366,
+    "wof:name":"Pinchawa",
+    "wof:parent_id":85632313,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    80.6394,
+    8.6443,
+    80.6394,
+    8.6443
+],
+  "geometry": {"coordinates":[80.63939999999999,8.6443],"type":"Point"}
+}

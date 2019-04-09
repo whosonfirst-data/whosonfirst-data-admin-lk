@@ -1,0 +1,67 @@
+{
+  "id": 1293041881,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"80.7681,6.1315,80.7681,6.1315",
+    "geom:latitude":6.1315,
+    "geom:longitude":80.7681,
+    "gn:admin1_code":"34.0",
+    "gn:asciiname":"Potuwewa",
+    "gn:country_code":"LK",
+    "gn:dem":69,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7624665,
+    "gn:latitude":6.1315,
+    "gn:longitude":80.7681,
+    "gn:modification_date":"2010-12-04",
+    "gn:name":"Potuwewa",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632313,
+        85673791,
+        1092067739
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7624665
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"41405214dfec0abd1e2b02ef29d99c9a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "county_id":1092067739,
+            "locality_id":1293041881,
+            "region_id":85673791
+        }
+    ],
+    "wof:id":1293041881,
+    "wof:lastmodified":1536933286,
+    "wof:name":"Potuwewa",
+    "wof:parent_id":1092067739,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    80.7681,
+    6.1315,
+    80.7681,
+    6.1315
+],
+  "geometry": {"coordinates":[80.7681,6.1315],"type":"Point"}
+}

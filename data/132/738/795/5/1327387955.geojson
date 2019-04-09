@@ -1,0 +1,71 @@
+{
+  "id": 1327387955,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"80.7112,6.1257,80.7112,6.1257",
+    "geom:latitude":6.1257,
+    "geom:longitude":80.7112,
+    "gn:admin1_code":"34.0",
+    "gn:asciiname":"Modarawana",
+    "gn:country_code":"LK",
+    "gn:dem":51,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1234863,
+    "gn:latitude":6.1257,
+    "gn:longitude":80.7112,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Modarawana",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Moderawana",
+        "Modarawana"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632313,
+        85673791,
+        1092064463
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1234863
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"8ca94caa849703af0c46df9aec22562a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "county_id":1092064463,
+            "locality_id":1327387955,
+            "region_id":85673791
+        }
+    ],
+    "wof:id":1327387955,
+    "wof:lastmodified":1537661453,
+    "wof:name":"Modarawana",
+    "wof:parent_id":1092064463,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    80.7112,
+    6.1257,
+    80.7112,
+    6.1257
+],
+  "geometry": {"coordinates":[80.71120000000001,6.1257],"type":"Point"}
+}

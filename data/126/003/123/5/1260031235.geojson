@@ -1,0 +1,68 @@
+{
+  "id": 1260031235,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"80.33333,9.6,80.33333,9.6",
+    "geom:latitude":9.6,
+    "geom:longitude":80.33333,
+    "gn:admin1_code":"38.0",
+    "gn:asciiname":"Vannankeni",
+    "gn:country_code":"LK",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1225105,
+    "gn:latitude":9.6,
+    "gn:longitude":80.33333,
+    "gn:modification_date":"2012-04-05",
+    "gn:name":"Vannankeni",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632313,
+        85673773,
+        1092064543
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1225105,
+        "wk:page":"Vannankeni"
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"d4acdab6d51fa4137738e671687aea27",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "county_id":1092064543,
+            "locality_id":1260031235,
+            "region_id":85673773
+        }
+    ],
+    "wof:id":1260031235,
+    "wof:lastmodified":1537567964,
+    "wof:name":"Vannankeni",
+    "wof:parent_id":1092064543,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    80.33333,
+    9.6,
+    80.33333,
+    9.6
+],
+  "geometry": {"coordinates":[80.33333,9.6],"type":"Point"}
+}

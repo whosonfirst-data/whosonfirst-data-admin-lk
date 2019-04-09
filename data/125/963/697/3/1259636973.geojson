@@ -1,0 +1,67 @@
+{
+  "id": 1259636973,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"81.2139,6.7414,81.2139,6.7414",
+    "geom:latitude":6.7414,
+    "geom:longitude":81.2139,
+    "gn:admin1_code":"35.0",
+    "gn:asciiname":"Veheragala Gemunugama",
+    "gn:country_code":"LK",
+    "gn:dem":165,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7442019,
+    "gn:latitude":6.7414,
+    "gn:longitude":81.2139,
+    "gn:modification_date":"2010-08-07",
+    "gn:name":"Veheragala Gemunugama",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632313,
+        85673803,
+        1092057329
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7442019
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"6eec6d11d3e88b346836d144ae2161aa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "county_id":1092057329,
+            "locality_id":1259636973,
+            "region_id":85673803
+        }
+    ],
+    "wof:id":1259636973,
+    "wof:lastmodified":1536636554,
+    "wof:name":"Veheragala Gemunugama",
+    "wof:parent_id":1092057329,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    81.2139,
+    6.7414,
+    81.2139,
+    6.7414
+],
+  "geometry": {"coordinates":[81.2139,6.7414],"type":"Point"}
+}

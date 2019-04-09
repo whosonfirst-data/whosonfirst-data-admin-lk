@@ -1,0 +1,67 @@
+{
+  "id": 1259427947,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"80.3812,5.9679,80.3812,5.9679",
+    "geom:latitude":5.9679,
+    "geom:longitude":80.3812,
+    "gn:admin1_code":"34.0",
+    "gn:asciiname":"Goiyapana",
+    "gn:country_code":"LK",
+    "gn:dem":6,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1245499,
+    "gn:latitude":5.9679,
+    "gn:longitude":80.3812,
+    "gn:modification_date":"1994-01-08",
+    "gn:name":"Goiyapana",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632313,
+        85673789,
+        1092058935
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1245499
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"dd0dad545eff253469b10a634192388a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "county_id":1092058935,
+            "locality_id":1259427947,
+            "region_id":85673789
+        }
+    ],
+    "wof:id":1259427947,
+    "wof:lastmodified":1536939337,
+    "wof:name":"Goiyapana",
+    "wof:parent_id":1092058935,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    80.3812,
+    5.9679,
+    80.3812,
+    5.9679
+],
+  "geometry": {"coordinates":[80.38120000000001,5.9679],"type":"Point"}
+}

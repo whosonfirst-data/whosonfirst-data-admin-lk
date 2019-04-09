@@ -1,0 +1,66 @@
+{
+  "id": 1209144657,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"80.9,8.63333,80.9,8.63333",
+    "geom:latitude":8.63333,
+    "geom:longitude":80.9,
+    "gn:admin1_code":"37.0",
+    "gn:asciiname":"Ettabendiwewa",
+    "gn:country_code":"LK",
+    "gn:dem":55,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1246753,
+    "gn:latitude":8.63333,
+    "gn:longitude":80.9,
+    "gn:modification_date":"2012-04-05",
+    "gn:name":"Ettabendiwewa",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Etabendewa",
+        "Ettapahitiyavai",
+        "Ettabendiwewa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632313
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1246753
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"416e5e4802b35673f75884427b02f307",
+    "wof:hierarchy":[
+        {
+            "country_id":85632313,
+            "locality_id":1209144657
+        }
+    ],
+    "wof:id":1209144657,
+    "wof:lastmodified":1537661559,
+    "wof:name":"Ettabendiwewa",
+    "wof:parent_id":85632313,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    80.9,
+    8.63333,
+    80.9,
+    8.63333
+],
+  "geometry": {"coordinates":[80.90000000000001,8.63333],"type":"Point"}
+}

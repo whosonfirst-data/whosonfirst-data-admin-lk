@@ -1,0 +1,67 @@
+{
+  "id": 1226584859,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"80.565,6.226,80.565,6.226",
+    "geom:latitude":6.226,
+    "geom:longitude":80.565,
+    "gn:admin1_code":"34.0",
+    "gn:asciiname":"Budugala",
+    "gn:country_code":"LK",
+    "gn:dem":109,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7624471,
+    "gn:latitude":6.226,
+    "gn:longitude":80.565,
+    "gn:modification_date":"2010-12-04",
+    "gn:name":"Budugala",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632313,
+        85673795,
+        1092065159
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7624471
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"106eb70d679a340a0e3c07c8055ff30f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "county_id":1092065159,
+            "locality_id":1226584859,
+            "region_id":85673795
+        }
+    ],
+    "wof:id":1226584859,
+    "wof:lastmodified":1536944335,
+    "wof:name":"Budugala",
+    "wof:parent_id":1092065159,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    80.565,
+    6.226,
+    80.565,
+    6.226
+],
+  "geometry": {"coordinates":[80.565,6.226],"type":"Point"}
+}

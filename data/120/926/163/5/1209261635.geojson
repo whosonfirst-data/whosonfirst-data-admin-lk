@@ -1,0 +1,62 @@
+{
+  "id": 1209261635,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"80.5476,7.2139,80.5476,7.2139",
+    "geom:latitude":7.2139,
+    "geom:longitude":80.5476,
+    "gn:admin1_code":"29.0",
+    "gn:asciiname":"Werawala",
+    "gn:country_code":"LK",
+    "gn:dem":588,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1223443,
+    "gn:latitude":7.2139,
+    "gn:longitude":80.5476,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Werawala",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632313
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1223443,
+        "wk:page":"Werawala"
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"c6b2c574b54148a3c7cdfb274b0e7f44",
+    "wof:hierarchy":[
+        {
+            "country_id":85632313,
+            "locality_id":1209261635
+        }
+    ],
+    "wof:id":1209261635,
+    "wof:lastmodified":1537567959,
+    "wof:name":"Werawala",
+    "wof:parent_id":85632313,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    80.5476,
+    7.2139,
+    80.5476,
+    7.2139
+],
+  "geometry": {"coordinates":[80.5476,7.2139],"type":"Point"}
+}

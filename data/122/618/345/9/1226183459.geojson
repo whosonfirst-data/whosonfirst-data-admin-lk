@@ -1,0 +1,67 @@
+{
+  "id": 1226183459,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"80.5097,6.1642,80.5097,6.1642",
+    "geom:latitude":6.1642,
+    "geom:longitude":80.5097,
+    "gn:admin1_code":"34.0",
+    "gn:asciiname":"Kehelwala",
+    "gn:country_code":"LK",
+    "gn:dem":135,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1240699,
+    "gn:latitude":6.1642,
+    "gn:longitude":80.5097,
+    "gn:modification_date":"1994-01-08",
+    "gn:name":"Kehelwala",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632313,
+        85673795,
+        1092056719
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1240699
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"de0e936f609b849a30b5618039948363",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "county_id":1092056719,
+            "locality_id":1226183459,
+            "region_id":85673795
+        }
+    ],
+    "wof:id":1226183459,
+    "wof:lastmodified":1537022290,
+    "wof:name":"Kehelwala",
+    "wof:parent_id":1092056719,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    80.5097,
+    6.1642,
+    80.5097,
+    6.1642
+],
+  "geometry": {"coordinates":[80.5097,6.1642],"type":"Point"}
+}

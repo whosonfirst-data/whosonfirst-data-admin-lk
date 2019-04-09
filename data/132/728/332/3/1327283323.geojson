@@ -1,0 +1,67 @@
+{
+  "id": 1327283323,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"79.86667,8.01667,79.86667,8.01667",
+    "geom:latitude":8.01667,
+    "geom:longitude":79.86667,
+    "gn:admin1_code":"32.0",
+    "gn:asciiname":"Arachchivillu",
+    "gn:country_code":"LK",
+    "gn:dem":33,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1251051,
+    "gn:latitude":8.01667,
+    "gn:longitude":79.86667,
+    "gn:modification_date":"1994-01-08",
+    "gn:name":"Arachchivillu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632313,
+        85673779,
+        1092065617
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1251051
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"1142eccab86994ee3c1ced8c754af35d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "county_id":1092065617,
+            "locality_id":1327283323,
+            "region_id":85673779
+        }
+    ],
+    "wof:id":1327283323,
+    "wof:lastmodified":1536896081,
+    "wof:name":"Arachchivillu",
+    "wof:parent_id":1092065617,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    79.86667,
+    8.01667,
+    79.86667,
+    8.01667
+],
+  "geometry": {"coordinates":[79.86667,8.01667],"type":"Point"}
+}

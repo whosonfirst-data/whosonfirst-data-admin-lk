@@ -1,0 +1,67 @@
+{
+  "id": 1293251905,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"80.0494,7.5207,80.0494,7.5207",
+    "geom:latitude":7.5207,
+    "geom:longitude":80.0494,
+    "gn:admin1_code":"32.0",
+    "gn:asciiname":"Hidiyamulla",
+    "gn:country_code":"LK",
+    "gn:dem":42,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1244193,
+    "gn:latitude":7.5207,
+    "gn:longitude":80.0494,
+    "gn:modification_date":"1994-01-08",
+    "gn:name":"Hidiyamulla",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632313,
+        85673777,
+        1092064771
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1244193
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"2cd4b57a4cf25696c430901ea7891feb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "county_id":1092064771,
+            "locality_id":1293251905,
+            "region_id":85673777
+        }
+    ],
+    "wof:id":1293251905,
+    "wof:lastmodified":1536627975,
+    "wof:name":"Hidiyamulla",
+    "wof:parent_id":1092064771,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    80.0494,
+    7.5207,
+    80.0494,
+    7.5207
+],
+  "geometry": {"coordinates":[80.04940000000001,7.5207],"type":"Point"}
+}

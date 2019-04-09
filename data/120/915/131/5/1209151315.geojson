@@ -1,0 +1,61 @@
+{
+  "id": 1209151315,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"81.3718,7.5451,81.3718,7.5451",
+    "geom:latitude":7.5451,
+    "geom:longitude":81.3718,
+    "gn:admin1_code":"37.0",
+    "gn:asciiname":"Hettanamaya Junction",
+    "gn:country_code":"LK",
+    "gn:dem":45,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7420208,
+    "gn:latitude":7.5451,
+    "gn:longitude":81.3718,
+    "gn:modification_date":"2012-04-06",
+    "gn:name":"Hettanamaya Junction",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632313
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7420208
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"4dbdb1e8c8abcf7fe93cb61b93270df5",
+    "wof:hierarchy":[
+        {
+            "country_id":85632313,
+            "locality_id":1209151315
+        }
+    ],
+    "wof:id":1209151315,
+    "wof:lastmodified":1536296193,
+    "wof:name":"Hettanamaya Junction",
+    "wof:parent_id":85632313,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    81.3718,
+    7.5451,
+    81.3718,
+    7.5451
+],
+  "geometry": {"coordinates":[81.37179999999999,7.5451],"type":"Point"}
+}

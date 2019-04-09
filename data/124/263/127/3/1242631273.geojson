@@ -1,0 +1,67 @@
+{
+  "id": 1242631273,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"81.3089,6.3248,81.3089,6.3248",
+    "geom:latitude":6.3248,
+    "geom:longitude":81.3089,
+    "gn:admin1_code":"34.0",
+    "gn:asciiname":"Kohombagahapelessa",
+    "gn:country_code":"LK",
+    "gn:dem":37,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1239788,
+    "gn:latitude":6.3248,
+    "gn:longitude":81.3089,
+    "gn:modification_date":"1994-01-08",
+    "gn:name":"Kohombagahapelessa",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632313,
+        85673791,
+        1092066869
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1239788
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"d7ce76417e508678755b04e9da20d9a2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "county_id":1092066869,
+            "locality_id":1242631273,
+            "region_id":85673791
+        }
+    ],
+    "wof:id":1242631273,
+    "wof:lastmodified":1536985828,
+    "wof:name":"Kohombagahapelessa",
+    "wof:parent_id":1092066869,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    81.3089,
+    6.3248,
+    81.3089,
+    6.3248
+],
+  "geometry": {"coordinates":[81.30889999999999,6.3248],"type":"Point"}
+}

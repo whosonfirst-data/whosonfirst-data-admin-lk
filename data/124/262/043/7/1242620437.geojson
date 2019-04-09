@@ -1,0 +1,73 @@
+{
+  "id": 1242620437,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"81.1623,8.7353,81.1623,8.7353",
+    "geom:latitude":8.7353,
+    "geom:longitude":81.1623,
+    "gn:admin1_code":"37.0",
+    "gn:asciiname":"Kumburupiddy",
+    "gn:country_code":"LK",
+    "gn:dem":7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1238227,
+    "gn:latitude":8.7353,
+    "gn:longitude":81.1623,
+    "gn:modification_date":"2012-04-05",
+    "gn:name":"Kumburupiddy",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kumpiripiddi",
+        "Kumburupiddi",
+        "Kumburupiddy",
+        "Kumpurupiddi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632313,
+        85673747,
+        1092061479
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1238227
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"c975abed161da57a454d5276e142bcbc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "county_id":1092061479,
+            "locality_id":1242620437,
+            "region_id":85673747
+        }
+    ],
+    "wof:id":1242620437,
+    "wof:lastmodified":1537661485,
+    "wof:name":"Kumburupiddy",
+    "wof:parent_id":1092061479,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    81.1623,
+    8.7353,
+    81.1623,
+    8.7353
+],
+  "geometry": {"coordinates":[81.1623,8.7353],"type":"Point"}
+}

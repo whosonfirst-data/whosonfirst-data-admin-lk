@@ -1,0 +1,67 @@
+{
+  "id": 1243309201,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"79.9519,7.8423,79.9519,7.8423",
+    "geom:latitude":7.8423,
+    "geom:longitude":79.9519,
+    "gn:admin1_code":"32.0",
+    "gn:asciiname":"Kumbukewatta",
+    "gn:country_code":"LK",
+    "gn:dem":51,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1238356,
+    "gn:latitude":7.8423,
+    "gn:longitude":79.9519,
+    "gn:modification_date":"1994-01-08",
+    "gn:name":"Kumbukewatta",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632313,
+        85673779,
+        1092062091
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1238356
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"7207896250e223bdec72c5049aeec1b4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "county_id":1092062091,
+            "locality_id":1243309201,
+            "region_id":85673779
+        }
+    ],
+    "wof:id":1243309201,
+    "wof:lastmodified":1537002691,
+    "wof:name":"Kumbukewatta",
+    "wof:parent_id":1092062091,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    79.9519,
+    7.8423,
+    79.9519,
+    7.8423
+],
+  "geometry": {"coordinates":[79.95189999999999,7.8423],"type":"Point"}
+}

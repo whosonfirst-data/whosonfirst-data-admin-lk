@@ -1,0 +1,71 @@
+{
+  "id": 1343369307,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"81.5038,7.1455,81.5038,7.1455",
+    "geom:latitude":7.1455,
+    "geom:longitude":81.5038,
+    "gn:admin1_code":"31.0",
+    "gn:asciiname":"Kossapola",
+    "gn:country_code":"LK",
+    "gn:dem":97,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1239190,
+    "gn:latitude":7.1455,
+    "gn:longitude":81.5038,
+    "gn:modification_date":"2010-08-03",
+    "gn:name":"Kossapola",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kosgahapola",
+        "Kossapola"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632313,
+        85673803,
+        1092066203
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1239190
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"b1ca20ce944ad28fd7bf3f28b8f9d693",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "county_id":1092066203,
+            "locality_id":1343369307,
+            "region_id":85673803
+        }
+    ],
+    "wof:id":1343369307,
+    "wof:lastmodified":1537661492,
+    "wof:name":"Kossapola",
+    "wof:parent_id":1092066203,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    81.5038,
+    7.1455,
+    81.5038,
+    7.1455
+],
+  "geometry": {"coordinates":[81.5038,7.1455],"type":"Point"}
+}

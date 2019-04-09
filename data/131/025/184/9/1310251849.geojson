@@ -1,0 +1,67 @@
+{
+  "id": 1310251849,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"80.678,7.3023,80.678,7.3023",
+    "geom:latitude":7.3023,
+    "geom:longitude":80.678,
+    "gn:admin1_code":"29.0",
+    "gn:asciiname":"Dambarawa",
+    "gn:country_code":"LK",
+    "gn:dem":497,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1248775,
+    "gn:latitude":7.3023,
+    "gn:longitude":80.678,
+    "gn:modification_date":"1994-01-08",
+    "gn:name":"Dambarawa",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632313,
+        85673719,
+        1092061615
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1248775
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"0c4d560eecef6d2e6f12482b1e331dd8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "county_id":1092061615,
+            "locality_id":1310251849,
+            "region_id":85673719
+        }
+    ],
+    "wof:id":1310251849,
+    "wof:lastmodified":1536785855,
+    "wof:name":"Dambarawa",
+    "wof:parent_id":1092061615,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    80.678,
+    7.3023,
+    80.678,
+    7.3023
+],
+  "geometry": {"coordinates":[80.678,7.3023],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1360028559,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"81.41667,8.23333,81.41667,8.23333",
+    "geom:latitude":8.23333,
+    "geom:longitude":81.41667,
+    "gn:admin1_code":"37.0",
+    "gn:asciiname":"Kathiraveli-Putur",
+    "gn:country_code":"LK",
+    "gn:dem":-9999,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1241061,
+    "gn:latitude":8.23333,
+    "gn:longitude":81.41667,
+    "gn:modification_date":"2012-04-05",
+    "gn:name":"Kathiraveli-Putur",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Katiraveli-Putur",
+        "Kathiraveli-Putur"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1241061
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"f32d608540c59427f0df2a542fb7c710",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":-1,
+            "locality_id":1360028559,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1360028559,
+    "wof:lastmodified":1537661508,
+    "wof:name":"Kathiraveli-Putur",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    81.41667,
+    8.23333,
+    81.41667,
+    8.23333
+],
+  "geometry": {"coordinates":[81.41667,8.23333],"type":"Point"}
+}

@@ -1,0 +1,61 @@
+{
+  "id": 1209359485,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"81.1589,6.9893,81.1589,6.9893",
+    "geom:latitude":6.9893,
+    "geom:longitude":81.1589,
+    "gn:admin1_code":"35.0",
+    "gn:asciiname":"Dayanawatta",
+    "gn:country_code":"LK",
+    "gn:dem":923,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7618362,
+    "gn:latitude":6.9893,
+    "gn:longitude":81.1589,
+    "gn:modification_date":"2010-12-04",
+    "gn:name":"Dayanawatta",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632313
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7618362
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"9618f6255ccc6e00ba118577fb6223a2",
+    "wof:hierarchy":[
+        {
+            "country_id":85632313,
+            "locality_id":1209359485
+        }
+    ],
+    "wof:id":1209359485,
+    "wof:lastmodified":1536289474,
+    "wof:name":"Dayanawatta",
+    "wof:parent_id":85632313,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    81.1589,
+    6.9893,
+    81.1589,
+    6.9893
+],
+  "geometry": {"coordinates":[81.1589,6.9893],"type":"Point"}
+}

@@ -1,0 +1,90 @@
+{
+  "id": 890450151,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"79.9181,6.8964,79.9181,6.8964",
+    "geom:latitude":6.8964,
+    "geom:longitude":79.9181,
+    "gn:country":"LK",
+    "gn:fcode":"PPL",
+    "gn:pop":75633,
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:dut_x_preferred":[
+        "Battaramulla"
+    ],
+    "name:eng_x_preferred":[
+        "Battaramulla"
+    ],
+    "name:sin_x_preferred":[
+        "\u0db6\u0dad\u0dca\u0dad\u0dbb\u0db8\u0dd4\u0dbd\u0dca\u0dbd"
+    ],
+    "name:spa_x_preferred":[
+        "Battaramulla"
+    ],
+    "name:swe_x_preferred":[
+        "Battaramulla South"
+    ],
+    "name:tam_x_preferred":[
+        "\u0baa\u0ba4\u0bcd\u0ba4\u0bb0\u0bae\u0bc1\u0bb2\u0bcd\u0bb2\u0bc8"
+    ],
+    "name:unk_x_variant":[
+        "Battaramulla"
+    ],
+    "qs:name":"Battaramulla South",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"8",
+    "src:population":"geonames",
+    "wd:wordcount":1431,
+    "wof:belongsto":[
+        102191569,
+        85632313,
+        85673811,
+        1092059875
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1250164,
+        "gp:id":2174478,
+        "qs:id":84432,
+        "wd:id":"Q4869689",
+        "wk:page":"Battaramulla"
+    },
+    "wof:country":"LK",
+    "wof:created":1469052727,
+    "wof:geomhash":"73d7abfced15310917b0feac226257eb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "county_id":1092059875,
+            "locality_id":890450151,
+            "region_id":85673811
+        }
+    ],
+    "wof:id":890450151,
+    "wof:lastmodified":1527792959,
+    "wof:name":"Battaramulla South",
+    "wof:parent_id":1092059875,
+    "wof:placetype":"locality",
+    "wof:population":75633,
+    "wof:population_rank":8,
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    79.9181,
+    6.8964,
+    79.9181,
+    6.8964
+],
+  "geometry": {"coordinates":[79.9181,6.8964],"type":"Point"}
+}

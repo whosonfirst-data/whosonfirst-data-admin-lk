@@ -1,0 +1,67 @@
+{
+  "id": 1226703599,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"81.0581,7.006,81.0581,7.006",
+    "geom:latitude":7.006,
+    "geom:longitude":81.0581,
+    "gn:admin1_code":"35.0",
+    "gn:asciiname":"Karunagama",
+    "gn:country_code":"LK",
+    "gn:dem":719,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7474991,
+    "gn:latitude":7.006,
+    "gn:longitude":81.0581,
+    "gn:modification_date":"2010-08-08",
+    "gn:name":"Karunagama",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632313,
+        85673801,
+        1092056843
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7474991
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"d5ade8fbe6419a6f5530e47cd33e89a5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "county_id":1092056843,
+            "locality_id":1226703599,
+            "region_id":85673801
+        }
+    ],
+    "wof:id":1226703599,
+    "wof:lastmodified":1536777027,
+    "wof:name":"Karunagama",
+    "wof:parent_id":1092056843,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    81.0581,
+    7.006,
+    81.0581,
+    7.006
+],
+  "geometry": {"coordinates":[81.0581,7.006],"type":"Point"}
+}

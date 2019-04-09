@@ -1,0 +1,71 @@
+{
+  "id": 1259530001,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"80.4542,8.5007,80.4542,8.5007",
+    "geom:latitude":8.5007,
+    "geom:longitude":80.4542,
+    "gn:admin1_code":"30.0",
+    "gn:asciiname":"Rillakadawela",
+    "gn:country_code":"LK",
+    "gn:dem":77,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":1228579,
+    "gn:latitude":8.5007,
+    "gn:longitude":80.4542,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Rillakadawela",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:und_x_variant":[
+        "Rila Kadawala",
+        "Rillakadawela"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632313,
+        85673751,
+        1092063139
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1228579
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"fdf4d1b7e28ec0167a7494550692bee9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "county_id":1092063139,
+            "locality_id":1259530001,
+            "region_id":85673751
+        }
+    ],
+    "wof:id":1259530001,
+    "wof:lastmodified":1537661393,
+    "wof:name":"Rillakadawela",
+    "wof:parent_id":1092063139,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    80.4542,
+    8.5007,
+    80.4542,
+    8.5007
+],
+  "geometry": {"coordinates":[80.4542,8.5007],"type":"Point"}
+}

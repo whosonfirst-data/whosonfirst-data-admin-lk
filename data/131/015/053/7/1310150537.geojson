@@ -1,0 +1,68 @@
+{
+  "id": 1310150537,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"80.86389,6.86306,80.86389,6.86306",
+    "geom:latitude":6.86306,
+    "geom:longitude":80.86389,
+    "gn:admin1_code":"35.0",
+    "gn:asciiname":"Bogahakumbura",
+    "gn:country_code":"LK",
+    "gn:dem":1316,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1249810,
+    "gn:latitude":6.86306,
+    "gn:longitude":80.86389,
+    "gn:modification_date":"2013-04-03",
+    "gn:name":"Bogahakumbura",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632313,
+        85673801,
+        1092067933
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1249810,
+        "wk:page":"Bogahakumbura"
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"74c6b5430506fb132bef907f00a544e0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "county_id":1092067933,
+            "locality_id":1310150537,
+            "region_id":85673801
+        }
+    ],
+    "wof:id":1310150537,
+    "wof:lastmodified":1537568021,
+    "wof:name":"Bogahakumbura",
+    "wof:parent_id":1092067933,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    80.86389,
+    6.86306,
+    80.86389,
+    6.86306
+],
+  "geometry": {"coordinates":[80.86389,6.86306],"type":"Point"}
+}

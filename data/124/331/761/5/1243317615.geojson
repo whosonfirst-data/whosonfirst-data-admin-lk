@@ -1,0 +1,70 @@
+{
+  "id": 1243317615,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"80.7066,6.707,80.7066,6.707",
+    "geom:latitude":6.707,
+    "geom:longitude":80.7066,
+    "gn:admin1_code":"33.0",
+    "gn:asciiname":"Atawakwala",
+    "gn:country_code":"LK",
+    "gn:dem":586,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1246820,
+    "gn:latitude":6.707,
+    "gn:longitude":80.7066,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Atawakwala",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Etawakwala"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632313,
+        85673785,
+        1092059597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1246820
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"7dcf41dac15633bf500816adaf754d47",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "county_id":1092059597,
+            "locality_id":1243317615,
+            "region_id":85673785
+        }
+    ],
+    "wof:id":1243317615,
+    "wof:lastmodified":1537661560,
+    "wof:name":"Atawakwala",
+    "wof:parent_id":1092059597,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    80.7066,
+    6.707,
+    80.7066,
+    6.707
+],
+  "geometry": {"coordinates":[80.70659999999999,6.707],"type":"Point"}
+}

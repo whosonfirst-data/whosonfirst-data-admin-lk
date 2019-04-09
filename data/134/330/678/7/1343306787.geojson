@@ -1,0 +1,67 @@
+{
+  "id": 1343306787,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"81.1266,6.9563,81.1266,6.9563",
+    "geom:latitude":6.9563,
+    "geom:longitude":81.1266,
+    "gn:admin1_code":"35.0",
+    "gn:asciiname":"Galakumbura",
+    "gn:country_code":"LK",
+    "gn:dem":1117,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7616633,
+    "gn:latitude":6.9563,
+    "gn:longitude":81.1266,
+    "gn:modification_date":"2010-12-04",
+    "gn:name":"Galakumbura",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632313,
+        85673801,
+        1092065181
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7616633
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"e17ba8464f440762c0dc2ab9ba353551",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "county_id":1092065181,
+            "locality_id":1343306787,
+            "region_id":85673801
+        }
+    ],
+    "wof:id":1343306787,
+    "wof:lastmodified":1536967817,
+    "wof:name":"Galakumbura",
+    "wof:parent_id":1092065181,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    81.1266,
+    6.9563,
+    81.1266,
+    6.9563
+],
+  "geometry": {"coordinates":[81.1266,6.9563],"type":"Point"}
+}

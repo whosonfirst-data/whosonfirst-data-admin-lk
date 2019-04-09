@@ -1,0 +1,67 @@
+{
+  "id": 1243499077,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"81.0345,7.0372,81.0345,7.0372",
+    "geom:latitude":7.0372,
+    "geom:longitude":81.0345,
+    "gn:admin1_code":"35.0",
+    "gn:asciiname":"Rathanawatta",
+    "gn:country_code":"LK",
+    "gn:dem":903,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7474815,
+    "gn:latitude":7.0372,
+    "gn:longitude":81.0345,
+    "gn:modification_date":"2010-08-08",
+    "gn:name":"Rathanawatta",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632313,
+        85673801,
+        1092066285
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7474815
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"755fe9ab881057a58cdfe0792ab6d0b7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "county_id":1092066285,
+            "locality_id":1243499077,
+            "region_id":85673801
+        }
+    ],
+    "wof:id":1243499077,
+    "wof:lastmodified":1536730095,
+    "wof:name":"Rathanawatta",
+    "wof:parent_id":1092066285,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    81.0345,
+    7.0372,
+    81.0345,
+    7.0372
+],
+  "geometry": {"coordinates":[81.03449999999999,7.0372],"type":"Point"}
+}

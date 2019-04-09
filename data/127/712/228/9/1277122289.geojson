@@ -1,0 +1,67 @@
+{
+  "id": 1277122289,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"79.8242,7.544,79.8242,7.544",
+    "geom:latitude":7.544,
+    "geom:longitude":79.8242,
+    "gn:admin1_code":"32.0",
+    "gn:asciiname":"Inginiwatta",
+    "gn:country_code":"LK",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1243027,
+    "gn:latitude":7.544,
+    "gn:longitude":79.8242,
+    "gn:modification_date":"1994-01-08",
+    "gn:name":"Inginiwatta",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632313,
+        85673779,
+        1092057373
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1243027
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"a17f7bcdb97fcab5e9fe665145d82371",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "county_id":1092057373,
+            "locality_id":1277122289,
+            "region_id":85673779
+        }
+    ],
+    "wof:id":1277122289,
+    "wof:lastmodified":1536710976,
+    "wof:name":"Inginiwatta",
+    "wof:parent_id":1092057373,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    79.8242,
+    7.544,
+    79.8242,
+    7.544
+],
+  "geometry": {"coordinates":[79.8242,7.544],"type":"Point"}
+}

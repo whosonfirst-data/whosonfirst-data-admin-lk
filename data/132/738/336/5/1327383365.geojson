@@ -1,0 +1,67 @@
+{
+  "id": 1327383365,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"80.0511,7.3872,80.0511,7.3872",
+    "geom:latitude":7.3872,
+    "geom:longitude":80.0511,
+    "gn:admin1_code":"32.0",
+    "gn:asciiname":"Mettagama",
+    "gn:country_code":"LK",
+    "gn:dem":53,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1235238,
+    "gn:latitude":7.3872,
+    "gn:longitude":80.0511,
+    "gn:modification_date":"1994-01-08",
+    "gn:name":"Mettagama",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632313,
+        85673777,
+        1092065035
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1235238
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"d4dac3e571eb3e9021136200ab5c1d74",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "county_id":1092065035,
+            "locality_id":1327383365,
+            "region_id":85673777
+        }
+    ],
+    "wof:id":1327383365,
+    "wof:lastmodified":1536751635,
+    "wof:name":"Mettagama",
+    "wof:parent_id":1092065035,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    80.0511,
+    7.3872,
+    80.0511,
+    7.3872
+],
+  "geometry": {"coordinates":[80.05110000000001,7.3872],"type":"Point"}
+}

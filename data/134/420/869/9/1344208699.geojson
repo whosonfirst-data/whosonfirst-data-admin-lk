@@ -1,0 +1,68 @@
+{
+  "id": 1344208699,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"80.0082,9.7685,80.0082,9.7685",
+    "geom:latitude":9.7685,
+    "geom:longitude":80.0082,
+    "gn:admin1_code":"38.0",
+    "gn:asciiname":"Alaveddi",
+    "gn:country_code":"LK",
+    "gn:dem":12,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1252009,
+    "gn:latitude":9.7685,
+    "gn:longitude":80.0082,
+    "gn:modification_date":"2012-04-05",
+    "gn:name":"Alaveddi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632313,
+        85673769,
+        1092067143
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1252009,
+        "wk:page":"Alaveddi"
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"ab1549431739b8f6e2041984fa0d596b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "county_id":1092067143,
+            "locality_id":1344208699,
+            "region_id":85673769
+        }
+    ],
+    "wof:id":1344208699,
+    "wof:lastmodified":1537568025,
+    "wof:name":"Alaveddi",
+    "wof:parent_id":1092067143,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    80.0082,
+    9.7685,
+    80.0082,
+    9.7685
+],
+  "geometry": {"coordinates":[80.0082,9.7685],"type":"Point"}
+}

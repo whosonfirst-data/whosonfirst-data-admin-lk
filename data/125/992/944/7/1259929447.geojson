@@ -1,0 +1,70 @@
+{
+  "id": 1259929447,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"80.0795,7.3532,80.0795,7.3532",
+    "geom:latitude":7.3532,
+    "geom:longitude":80.0795,
+    "gn:admin1_code":"32.0",
+    "gn:asciiname":"Dodampotta",
+    "gn:country_code":"LK",
+    "gn:dem":49,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1247688,
+    "gn:latitude":7.3532,
+    "gn:longitude":80.0795,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Dodampotta",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Dodanpotta"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632313,
+        85673777,
+        1092065035
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1247688
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"ab5669719ac982423248f914ce1f0b61",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "county_id":1092065035,
+            "locality_id":1259929447,
+            "region_id":85673777
+        }
+    ],
+    "wof:id":1259929447,
+    "wof:lastmodified":1537661568,
+    "wof:name":"Dodampotta",
+    "wof:parent_id":1092065035,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    80.0795,
+    7.3532,
+    80.0795,
+    7.3532
+],
+  "geometry": {"coordinates":[80.0795,7.3532],"type":"Point"}
+}

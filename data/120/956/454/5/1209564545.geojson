@@ -1,0 +1,61 @@
+{
+  "id": 1209564545,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"80.3,7.81667,80.3,7.81667",
+    "geom:latitude":7.81667,
+    "geom:longitude":80.3,
+    "gn:admin1_code":"32.0",
+    "gn:asciiname":"Dunupothagama",
+    "gn:country_code":"LK",
+    "gn:dem":104,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1247460,
+    "gn:latitude":7.81667,
+    "gn:longitude":80.3,
+    "gn:modification_date":"1994-01-08",
+    "gn:name":"Dunupothagama",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632313
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1247460
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"57efda3270803fc43f87445f45518c89",
+    "wof:hierarchy":[
+        {
+            "country_id":85632313,
+            "locality_id":1209564545
+        }
+    ],
+    "wof:id":1209564545,
+    "wof:lastmodified":1536283286,
+    "wof:name":"Dunupothagama",
+    "wof:parent_id":85632313,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    80.3,
+    7.8166699999999985,
+    80.3,
+    7.8166699999999985
+],
+  "geometry": {"coordinates":[80.3,7.81667],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1276606375,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"79.9064,7.2301,79.9064,7.2301",
+    "geom:latitude":7.2301,
+    "geom:longitude":79.9064,
+    "gn:admin1_code":"36.0",
+    "gn:asciiname":"Miriswatta",
+    "gn:country_code":"LK",
+    "gn:dem":25,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1234938,
+    "gn:latitude":7.2301,
+    "gn:longitude":79.9064,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Miriswatta",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Miriswatte",
+        "Miriswatta"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632313,
+        85673815,
+        1092060643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1234938
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"6d0ebad58be7d99033903bee9bcbbb77",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "county_id":1092060643,
+            "locality_id":1276606375,
+            "region_id":85673815
+        }
+    ],
+    "wof:id":1276606375,
+    "wof:lastmodified":1537661454,
+    "wof:name":"Miriswatta",
+    "wof:parent_id":1092060643,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    79.9064,
+    7.2301,
+    79.9064,
+    7.2301
+],
+  "geometry": {"coordinates":[79.9064,7.2301],"type":"Point"}
+}

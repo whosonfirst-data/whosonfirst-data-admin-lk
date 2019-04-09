@@ -1,0 +1,68 @@
+{
+  "id": 1327374475,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"80.9141,6.8085,80.9141,6.8085",
+    "geom:latitude":6.8085,
+    "geom:longitude":80.9141,
+    "gn:admin1_code":"35.0",
+    "gn:asciiname":"Rathkarawwa",
+    "gn:country_code":"LK",
+    "gn:dem":1199,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7616587,
+    "gn:latitude":6.8085,
+    "gn:longitude":80.9141,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Rathkarawwa",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632313,
+        85673801,
+        1092067933
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7616587,
+        "wk:page":"Rathkarawwa"
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"d5373a6736f61fe48791a4672954f5a6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "county_id":1092067933,
+            "locality_id":1327374475,
+            "region_id":85673801
+        }
+    ],
+    "wof:id":1327374475,
+    "wof:lastmodified":1537568027,
+    "wof:name":"Rathkarawwa",
+    "wof:parent_id":1092067933,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    80.9141,
+    6.8085,
+    80.9141,
+    6.8085
+],
+  "geometry": {"coordinates":[80.9141,6.8085],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1343900865,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"79.9592,8.7573,79.9592,8.7573",
+    "geom:latitude":8.7573,
+    "geom:longitude":79.9592,
+    "gn:admin1_code":"38.0",
+    "gn:asciiname":"Kulankulam",
+    "gn:country_code":"LK",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1238453,
+    "gn:latitude":8.7573,
+    "gn:longitude":79.9592,
+    "gn:modification_date":"2012-04-05",
+    "gn:name":"Kulankulam",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632313,
+        85673761,
+        1092063647
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1238453
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"e1139a9fc6842b9b60a169c7ad7ad1e6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "county_id":1092063647,
+            "locality_id":1343900865,
+            "region_id":85673761
+        }
+    ],
+    "wof:id":1343900865,
+    "wof:lastmodified":1536605332,
+    "wof:name":"Kulankulam",
+    "wof:parent_id":1092063647,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    79.9592,
+    8.7573,
+    79.9592,
+    8.7573
+],
+  "geometry": {"coordinates":[79.9592,8.7573],"type":"Point"}
+}

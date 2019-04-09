@@ -1,0 +1,72 @@
+{
+  "id": 1193075485,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"80.2,9.78333,80.2,9.78333",
+    "geom:latitude":9.78333,
+    "geom:longitude":80.2,
+    "gn:admin1_code":"38.0",
+    "gn:asciiname":"Tunnalai North",
+    "gn:country_code":"LK",
+    "gn:dem":11,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1226183,
+    "gn:latitude":9.78333,
+    "gn:longitude":80.2,
+    "gn:modification_date":"2012-04-05",
+    "gn:name":"Tunnalai North",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tunnalai",
+        "Thunnalai North",
+        "Tunnalai North"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632313,
+        85673769,
+        1092067125
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1226183
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"02a4597c3873ddc0e139c1cd69775662",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "county_id":1092067125,
+            "locality_id":1193075485,
+            "region_id":85673769
+        }
+    ],
+    "wof:id":1193075485,
+    "wof:lastmodified":1537661363,
+    "wof:name":"Tunnalai North",
+    "wof:parent_id":1092067125,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    80.2,
+    9.78333,
+    80.2,
+    9.78333
+],
+  "geometry": {"coordinates":[80.2,9.78333],"type":"Point"}
+}

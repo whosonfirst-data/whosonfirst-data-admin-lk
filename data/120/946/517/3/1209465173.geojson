@@ -1,0 +1,61 @@
+{
+  "id": 1209465173,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"80.2902,8.1492,80.2902,8.1492",
+    "geom:latitude":8.1492,
+    "geom:longitude":80.2902,
+    "gn:admin1_code":"30.0",
+    "gn:asciiname":"Radagama",
+    "gn:country_code":"LK",
+    "gn:dem":90,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7577175,
+    "gn:latitude":8.1492,
+    "gn:longitude":80.2902,
+    "gn:modification_date":"2010-11-05",
+    "gn:name":"Radagama",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632313
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7577175
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"0dc6a18788e2169dd3c81fc00ed764db",
+    "wof:hierarchy":[
+        {
+            "country_id":85632313,
+            "locality_id":1209465173
+        }
+    ],
+    "wof:id":1209465173,
+    "wof:lastmodified":1536286258,
+    "wof:name":"Radagama",
+    "wof:parent_id":85632313,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    80.2902,
+    8.1492,
+    80.2902,
+    8.1492
+],
+  "geometry": {"coordinates":[80.2902,8.1492],"type":"Point"}
+}

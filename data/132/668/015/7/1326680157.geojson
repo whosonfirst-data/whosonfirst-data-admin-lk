@@ -1,0 +1,67 @@
+{
+  "id": 1326680157,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"80.6529,8.4692,80.6529,8.4692",
+    "geom:latitude":8.4692,
+    "geom:longitude":80.6529,
+    "gn:admin1_code":"30.0",
+    "gn:asciiname":"Puliyankulama",
+    "gn:country_code":"LK",
+    "gn:dem":128,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7438641,
+    "gn:latitude":8.4692,
+    "gn:longitude":80.6529,
+    "gn:modification_date":"2010-08-07",
+    "gn:name":"Puliyankulama",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632313,
+        85673751,
+        1092065687
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7438641
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"af3de55420825f8fdcd637d384af8708",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "county_id":1092065687,
+            "locality_id":1326680157,
+            "region_id":85673751
+        }
+    ],
+    "wof:id":1326680157,
+    "wof:lastmodified":1536771533,
+    "wof:name":"Puliyankulama",
+    "wof:parent_id":1092065687,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    80.6529,
+    8.4692,
+    80.6529,
+    8.4692
+],
+  "geometry": {"coordinates":[80.6529,8.4692],"type":"Point"}
+}

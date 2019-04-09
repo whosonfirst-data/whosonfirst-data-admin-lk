@@ -1,0 +1,67 @@
+{
+  "id": 1344207503,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"80.7967,8.9032,80.7967,8.9032",
+    "geom:latitude":8.9032,
+    "geom:longitude":80.7967,
+    "gn:admin1_code":"30.0",
+    "gn:asciiname":"Allwanguwa",
+    "gn:country_code":"LK",
+    "gn:dem":39,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7610167,
+    "gn:latitude":8.9032,
+    "gn:longitude":80.7967,
+    "gn:modification_date":"2010-12-04",
+    "gn:name":"Allwanguwa",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632313,
+        85673751,
+        1092064619
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7610167
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"7a89a8a48bb2dd9a8e976bd4882dfcfa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "county_id":1092064619,
+            "locality_id":1344207503,
+            "region_id":85673751
+        }
+    ],
+    "wof:id":1344207503,
+    "wof:lastmodified":1536663570,
+    "wof:name":"Allwanguwa",
+    "wof:parent_id":1092064619,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    80.7967,
+    8.9032,
+    80.7967,
+    8.9032
+],
+  "geometry": {"coordinates":[80.7967,8.9032],"type":"Point"}
+}

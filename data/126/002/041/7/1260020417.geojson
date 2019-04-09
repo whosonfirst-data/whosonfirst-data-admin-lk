@@ -1,0 +1,67 @@
+{
+  "id": 1260020417,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"81.3436,6.927,81.3436,6.927",
+    "geom:latitude":6.927,
+    "geom:longitude":81.3436,
+    "gn:admin1_code":"35.0",
+    "gn:asciiname":"Bulathwatta",
+    "gn:country_code":"LK",
+    "gn:dem":167,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7617938,
+    "gn:latitude":6.927,
+    "gn:longitude":81.3436,
+    "gn:modification_date":"2010-12-04",
+    "gn:name":"Bulathwatta",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632313,
+        85673803,
+        1092062005
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7617938
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"0382434e913a3ea7e5e46217f137a0c9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "county_id":1092062005,
+            "locality_id":1260020417,
+            "region_id":85673803
+        }
+    ],
+    "wof:id":1260020417,
+    "wof:lastmodified":1537075696,
+    "wof:name":"Bulathwatta",
+    "wof:parent_id":1092062005,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    81.3436,
+    6.927,
+    81.3436,
+    6.927
+],
+  "geometry": {"coordinates":[81.3436,6.927],"type":"Point"}
+}

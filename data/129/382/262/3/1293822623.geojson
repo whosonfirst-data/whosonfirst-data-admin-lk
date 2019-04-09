@@ -1,0 +1,72 @@
+{
+  "id": 1293822623,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"80.5404,8.9584,80.5404,8.9584",
+    "geom:latitude":8.9584,
+    "geom:longitude":80.5404,
+    "gn:admin1_code":"38.0",
+    "gn:asciiname":"Kallolunkanpuliyankulam",
+    "gn:country_code":"LK",
+    "gn:dem":86,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1242123,
+    "gn:latitude":8.9584,
+    "gn:longitude":80.5404,
+    "gn:modification_date":"2012-04-05",
+    "gn:name":"Kallolunkanpuliyankulam",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Puliyankulam",
+        "Kallolunganpuliyankulam",
+        "Kallolunkanpuliyankulam"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632313,
+        85673757,
+        1092067297
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1242123
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"723ea72e4243b06ea635ed360ca8e063",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "county_id":1092067297,
+            "locality_id":1293822623,
+            "region_id":85673757
+        }
+    ],
+    "wof:id":1293822623,
+    "wof:lastmodified":1537661517,
+    "wof:name":"Kallolunkanpuliyankulam",
+    "wof:parent_id":1092067297,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    80.5404,
+    8.9584,
+    80.5404,
+    8.9584
+],
+  "geometry": {"coordinates":[80.54040000000001,8.9584],"type":"Point"}
+}

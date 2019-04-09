@@ -1,0 +1,74 @@
+{
+  "id": 1259735055,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"81.36667,8.3,81.36667,8.3",
+    "geom:latitude":8.3,
+    "geom:longitude":81.36667,
+    "gn:admin1_code":"37.0",
+    "gn:asciiname":"Ichchilampattai",
+    "gn:country_code":"LK",
+    "gn:dem":7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1243674,
+    "gn:latitude":8.3,
+    "gn:longitude":81.36667,
+    "gn:modification_date":"2012-04-05",
+    "gn:name":"Ichchilampattai",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Echalampattu",
+        "Ighilampattai",
+        "Iccilampattai",
+        "Ichchilanipattai",
+        "Ichchilampattai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632313,
+        85673747,
+        1092067467
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1243674
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"c2c17393142bde2facffcea228a3caff",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "county_id":1092067467,
+            "locality_id":1259735055,
+            "region_id":85673747
+        }
+    ],
+    "wof:id":1259735055,
+    "wof:lastmodified":1537661532,
+    "wof:name":"Ichchilampattai",
+    "wof:parent_id":1092067467,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    81.36667,
+    8.3,
+    81.36667,
+    8.3
+],
+  "geometry": {"coordinates":[81.36667,8.3],"type":"Point"}
+}

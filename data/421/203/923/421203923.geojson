@@ -1,0 +1,118 @@
+{
+  "id": 421203923,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"79.922,6.9553,79.922,6.9553",
+    "geom:latitude":6.9553,
+    "geom:longitude":79.922,
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:cat_x_preferred":[
+        "Kelaniya"
+    ],
+    "name:chi_x_preferred":[
+        "\u7d66\u62c9\u5c3c\u4e9e"
+    ],
+    "name:dut_x_preferred":[
+        "Kelaniya"
+    ],
+    "name:eng_x_preferred":[
+        "Kelaniya"
+    ],
+    "name:fas_x_preferred":[
+        "\u06a9\u0644\u0627\u0646\u06cc\u06cc\u0627"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30ad\u30e3\u30e9\u30cb\u30e4"
+    ],
+    "name:mal_x_preferred":[
+        "\u0d15\u0d46\u0d32\u0d3e\u0d28\u0d3f\u0d2f"
+    ],
+    "name:per_x_preferred":[
+        "\u06a9\u0644\u0627\u0646\u06cc\u06cc\u0627"
+    ],
+    "name:sin_x_preferred":[
+        "\u0d9a\u0dd0\u0dbd\u0dab\u0dd2\u0dba"
+    ],
+    "name:spa_x_preferred":[
+        "Kelaniya"
+    ],
+    "name:tam_x_preferred":[
+        "\u0b95\u0bb3\u0ba9\u0bbf"
+    ],
+    "name:unk_x_variant":[
+        "Kelanai"
+    ],
+    "qs:gn_country":"LK",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":1240622,
+    "qs:gn_pop":28846,
+    "qs:name":"Kelaniya",
+    "qs:name_adm0":"Sri Lanka",
+    "qs:name_adm1":"Western",
+    "qs:photos":314,
+    "qs:photos_1k":64,
+    "qs:photos_9k":1,
+    "qs:photos_9r":5,
+    "qs:photos_all":314,
+    "qs:photos_sr":5,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"7",
+    "qs:qs_id":235501,
+    "qs:woe_adm0":23424778,
+    "qs:woe_id":2179792,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wd:wordcount":447,
+    "wof:belongsto":[
+        102191569,
+        85632313,
+        85673815,
+        1092060843
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1240622,
+        "gp:id":2179792,
+        "qs:id":235501,
+        "wd:id":"Q3522428",
+        "wk:page":"Kelaniya"
+    },
+    "wof:country":"LK",
+    "wof:created":1459010168,
+    "wof:geomhash":"b1efa83c3ec5a2b31486f6af35bfac15",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "county_id":1092060843,
+            "locality_id":421203923,
+            "region_id":85673815
+        }
+    ],
+    "wof:id":421203923,
+    "wof:lastmodified":1527716195,
+    "wof:name":"Kelaniya",
+    "wof:parent_id":1092060843,
+    "wof:placetype":"locality",
+    "wof:population":28846,
+    "wof:population_rank":7,
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    79.922,
+    6.9553,
+    79.922,
+    6.9553
+],
+  "geometry": {"coordinates":[79.922,6.9553],"type":"Point"}
+}

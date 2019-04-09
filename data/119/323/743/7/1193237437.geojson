@@ -1,0 +1,67 @@
+{
+  "id": 1193237437,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"80.3817,6.7366,80.3817,6.7366",
+    "geom:latitude":6.7366,
+    "geom:longitude":80.3817,
+    "gn:admin1_code":"33.0",
+    "gn:asciiname":"Kosgoda",
+    "gn:country_code":"LK",
+    "gn:dem":33,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1239235,
+    "gn:latitude":6.7366,
+    "gn:longitude":80.3817,
+    "gn:modification_date":"1994-01-08",
+    "gn:name":"Kosgoda",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632313,
+        85673785,
+        1092061795
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1239235
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"8b7f7bb9fda0a31026d7dc331932ff47",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "county_id":1092061795,
+            "locality_id":1193237437,
+            "region_id":85673785
+        }
+    ],
+    "wof:id":1193237437,
+    "wof:lastmodified":1536382074,
+    "wof:name":"Kosgoda",
+    "wof:parent_id":1092061795,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    80.3817,
+    6.7366,
+    80.3817,
+    6.7366
+],
+  "geometry": {"coordinates":[80.3817,6.7366],"type":"Point"}
+}

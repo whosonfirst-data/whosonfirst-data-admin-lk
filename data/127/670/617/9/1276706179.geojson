@@ -1,0 +1,67 @@
+{
+  "id": 1276706179,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"79.7774,7.8573,79.7774,7.8573",
+    "geom:latitude":7.8573,
+    "geom:longitude":79.7774,
+    "gn:admin1_code":"32.0",
+    "gn:asciiname":"Kandalai",
+    "gn:country_code":"LK",
+    "gn:dem":13,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1241764,
+    "gn:latitude":7.8573,
+    "gn:longitude":79.7774,
+    "gn:modification_date":"1994-01-08",
+    "gn:name":"Kandalai",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632313,
+        85673779,
+        1092063613
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1241764
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"9d2a9f0b650d2c9b11e1e67573b45b2d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "county_id":1092063613,
+            "locality_id":1276706179,
+            "region_id":85673779
+        }
+    ],
+    "wof:id":1276706179,
+    "wof:lastmodified":1536776803,
+    "wof:name":"Kandalai",
+    "wof:parent_id":1092063613,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    79.7774,
+    7.8573,
+    79.7774,
+    7.8573
+],
+  "geometry": {"coordinates":[79.7774,7.8573],"type":"Point"}
+}

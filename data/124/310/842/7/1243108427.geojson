@@ -1,0 +1,72 @@
+{
+  "id": 1243108427,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"80.6,7.71667,80.6,7.71667",
+    "geom:latitude":7.71667,
+    "geom:longitude":80.6,
+    "gn:admin1_code":"34.0",
+    "gn:asciiname":"Palapatwela",
+    "gn:cc2":"LK",
+    "gn:country_code":"LK",
+    "gn:dem":437,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1231931,
+    "gn:latitude":7.71667,
+    "gn:longitude":80.6,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Palapatwela",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Palapatwala",
+        "Palapatwela"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632313,
+        85673723,
+        1092058513
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1231931
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"70e852866492d26b39c7f5797cb18425",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "county_id":1092058513,
+            "locality_id":1243108427,
+            "region_id":85673723
+        }
+    ],
+    "wof:id":1243108427,
+    "wof:lastmodified":1537661424,
+    "wof:name":"Palapatwela",
+    "wof:parent_id":1092058513,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    80.6,
+    7.71667,
+    80.6,
+    7.71667
+],
+  "geometry": {"coordinates":[80.59999999999999,7.71667],"type":"Point"}
+}

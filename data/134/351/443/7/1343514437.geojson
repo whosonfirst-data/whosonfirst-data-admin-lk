@@ -1,0 +1,67 @@
+{
+  "id": 1343514437,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"80.0882,7.1389,80.0882,7.1389",
+    "geom:latitude":7.1389,
+    "geom:longitude":80.0882,
+    "gn:admin1_code":"36.0",
+    "gn:asciiname":"Horagolla Model Village",
+    "gn:country_code":"LK",
+    "gn:dem":45,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7544311,
+    "gn:latitude":7.1389,
+    "gn:longitude":80.0882,
+    "gn:modification_date":"2010-10-09",
+    "gn:name":"Horagolla Model Village",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632313,
+        85673815,
+        1092056721
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7544311
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"82c2ca4feb36e940da208ff9d7dba4cd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "county_id":1092056721,
+            "locality_id":1343514437,
+            "region_id":85673815
+        }
+    ],
+    "wof:id":1343514437,
+    "wof:lastmodified":1536668465,
+    "wof:name":"Horagolla Model Village",
+    "wof:parent_id":1092056721,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    80.0882,
+    7.1389,
+    80.0882,
+    7.1389
+],
+  "geometry": {"coordinates":[80.0882,7.1389],"type":"Point"}
+}

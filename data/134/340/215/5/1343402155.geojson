@@ -1,0 +1,67 @@
+{
+  "id": 1343402155,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"80.3589,6.0744,80.3589,6.0744",
+    "geom:latitude":6.0744,
+    "geom:longitude":80.3589,
+    "gn:admin1_code":"34.0",
+    "gn:asciiname":"Manakandura",
+    "gn:country_code":"LK",
+    "gn:dem":32,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7438812,
+    "gn:latitude":6.0744,
+    "gn:longitude":80.3589,
+    "gn:modification_date":"2010-08-07",
+    "gn:name":"Manakandura",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632313,
+        85673789,
+        1092068203
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7438812
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"67ead1b8ff15bf3b09e533487f88fb8b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "county_id":1092068203,
+            "locality_id":1343402155,
+            "region_id":85673789
+        }
+    ],
+    "wof:id":1343402155,
+    "wof:lastmodified":1536829362,
+    "wof:name":"Manakandura",
+    "wof:parent_id":1092068203,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    80.3589,
+    6.0744,
+    80.3589,
+    6.0744
+],
+  "geometry": {"coordinates":[80.35890000000001,6.0744],"type":"Point"}
+}

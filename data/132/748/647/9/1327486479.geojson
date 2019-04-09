@@ -1,0 +1,63 @@
+{
+  "id": 1327486479,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"79.8486,7.0785,79.8486,7.0785",
+    "geom:latitude":7.0785,
+    "geom:longitude":79.8486,
+    "gn:admin1_code":"36.0",
+    "gn:asciiname":"Epamulla",
+    "gn:country_code":"LK",
+    "gn:dem":-9999,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1246969,
+    "gn:latitude":7.0785,
+    "gn:longitude":79.8486,
+    "gn:modification_date":"1994-01-08",
+    "gn:name":"Epamulla",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1246969
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"537171fc1fcd1a63c686cc9a7def12ce",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":-1,
+            "locality_id":1327486479,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1327486479,
+    "wof:lastmodified":1537097057,
+    "wof:name":"Epamulla",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    79.8486,
+    7.0785,
+    79.8486,
+    7.0785
+],
+  "geometry": {"coordinates":[79.8486,7.0785],"type":"Point"}
+}

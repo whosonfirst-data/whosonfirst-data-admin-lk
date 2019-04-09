@@ -1,0 +1,67 @@
+{
+  "id": 1360039235,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"80.3813,5.97,80.3813,5.97",
+    "geom:latitude":5.97,
+    "geom:longitude":80.3813,
+    "gn:admin1_code":"34.0",
+    "gn:asciiname":"Gurubebila",
+    "gn:country_code":"LK",
+    "gn:dem":15,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7439152,
+    "gn:latitude":5.97,
+    "gn:longitude":80.3813,
+    "gn:modification_date":"2010-08-07",
+    "gn:name":"Gurubebila",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632313,
+        85673789,
+        1092058935
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7439152
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"6f7ecafdc95ae87fe931dfaf2b9c043c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "county_id":1092058935,
+            "locality_id":1360039235,
+            "region_id":85673789
+        }
+    ],
+    "wof:id":1360039235,
+    "wof:lastmodified":1537011224,
+    "wof:name":"Gurubebila",
+    "wof:parent_id":1092058935,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    80.3813,
+    5.97,
+    80.3813,
+    5.97
+],
+  "geometry": {"coordinates":[80.3813,5.97],"type":"Point"}
+}

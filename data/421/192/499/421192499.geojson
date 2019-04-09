@@ -1,0 +1,79 @@
+{
+  "id": 421192499,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"80.3004,6.9396,80.3004,6.9396",
+    "geom:latitude":6.9396,
+    "geom:longitude":80.3004,
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "qs:gn_country":"LK",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":7474022,
+    "qs:gn_pop":0,
+    "qs:name":"Modera",
+    "qs:name_adm0":"Sri Lanka",
+    "qs:name_adm1":"Western",
+    "qs:photos":2,
+    "qs:photos_1k":1,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":2,
+    "qs:photos_sr":1,
+    "qs:placetype":"Suburb",
+    "qs:pop_sr":"0",
+    "qs:qs_id":1168354,
+    "qs:woe_adm0":23424778,
+    "qs:woe_id":2182993,
+    "src:geom":"quattroshapes",
+    "wd:wordcount":55,
+    "wof:belongsto":[
+        102191569,
+        85632313,
+        1092057621,
+        85673807
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7474022,
+        "gp:id":2182993,
+        "qs:id":1168354,
+        "wd:id":"Q6888043"
+    },
+    "wof:country":"LK",
+    "wof:created":1459009739,
+    "wof:geomhash":"5c0d6cb04a165c75891ada0659ca8418",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "county_id":1092057621,
+            "locality_id":-1,
+            "neighbourhood_id":421192499,
+            "region_id":85673807
+        }
+    ],
+    "wof:id":421192499,
+    "wof:lastmodified":1531858688,
+    "wof:name":"Modera",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    80.3004,
+    6.9396,
+    80.3004,
+    6.9396
+],
+  "geometry": {"coordinates":[80.3004,6.9396],"type":"Point"}
+}

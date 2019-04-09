@@ -1,0 +1,67 @@
+{
+  "id": 1344097985,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"80.3598,6.8166,80.3598,6.8166",
+    "geom:latitude":6.8166,
+    "geom:longitude":80.3598,
+    "gn:admin1_code":"33.0",
+    "gn:asciiname":"Thebuwana",
+    "gn:country_code":"LK",
+    "gn:dem":196,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7474213,
+    "gn:latitude":6.8166,
+    "gn:longitude":80.3598,
+    "gn:modification_date":"2010-08-08",
+    "gn:name":"Thebuwana",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632313,
+        85673785,
+        1092061795
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7474213
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"ea928c65a178a79d85a7064a54f5453e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "county_id":1092061795,
+            "locality_id":1344097985,
+            "region_id":85673785
+        }
+    ],
+    "wof:id":1344097985,
+    "wof:lastmodified":1536820550,
+    "wof:name":"Thebuwana",
+    "wof:parent_id":1092061795,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    80.3598,
+    6.8166,
+    80.3598,
+    6.8166
+],
+  "geometry": {"coordinates":[80.35980000000001,6.8166],"type":"Point"}
+}

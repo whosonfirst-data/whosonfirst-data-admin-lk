@@ -1,0 +1,67 @@
+{
+  "id": 1293330697,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"79.8719,6.953,79.8719,6.953",
+    "geom:latitude":6.953,
+    "geom:longitude":79.8719,
+    "gn:admin1_code":"36.0",
+    "gn:asciiname":"Sedawatta",
+    "gn:country_code":"LK",
+    "gn:dem":5,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1228203,
+    "gn:latitude":6.953,
+    "gn:longitude":79.8719,
+    "gn:modification_date":"2000-07-11",
+    "gn:name":"Sedawatta",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632313,
+        85673811,
+        1092057419
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1228203
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"45f9bde863760378c68d3c3c8b36536f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "county_id":1092057419,
+            "locality_id":1293330697,
+            "region_id":85673811
+        }
+    ],
+    "wof:id":1293330697,
+    "wof:lastmodified":1537012284,
+    "wof:name":"Sedawatta",
+    "wof:parent_id":1092057419,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    79.8719,
+    6.953,
+    79.8719,
+    6.953
+],
+  "geometry": {"coordinates":[79.8719,6.953],"type":"Point"}
+}

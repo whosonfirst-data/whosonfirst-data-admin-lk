@@ -1,0 +1,73 @@
+{
+  "id": 1193076953,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"79.99972,6.43333,79.99972,6.43333",
+    "geom:latitude":6.43333,
+    "geom:longitude":79.99972,
+    "gn:admin1_code":"36.0",
+    "gn:asciiname":"Aluthgama",
+    "gn:cc2":"LK",
+    "gn:country_code":"LK",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1462579,
+    "gn:latitude":6.43333,
+    "gn:longitude":79.99972,
+    "gn:modification_date":"2010-08-10",
+    "gn:name":"Aluthgama",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Alutgama",
+        "Aluthgama"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632313,
+        85673789,
+        1092057133
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1462579,
+        "wk:page":"Aluthgama"
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"ddb6de9d145b989d86fc46f9d1138496",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "county_id":1092057133,
+            "locality_id":1193076953,
+            "region_id":85673789
+        }
+    ],
+    "wof:id":1193076953,
+    "wof:lastmodified":1537661607,
+    "wof:name":"Aluthgama",
+    "wof:parent_id":1092057133,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    79.99972,
+    6.43333,
+    79.99972,
+    6.43333
+],
+  "geometry": {"coordinates":[79.99972,6.43333],"type":"Point"}
+}

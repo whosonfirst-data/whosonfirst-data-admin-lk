@@ -1,0 +1,67 @@
+{
+  "id": 1327475165,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"80.4506,7.25,80.4506,7.25",
+    "geom:latitude":7.25,
+    "geom:longitude":80.4506,
+    "gn:admin1_code":"33.0",
+    "gn:asciiname":"Kiringadeniya",
+    "gn:country_code":"LK",
+    "gn:dem":216,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1240082,
+    "gn:latitude":7.25,
+    "gn:longitude":80.4506,
+    "gn:modification_date":"1994-01-08",
+    "gn:name":"Kiringadeniya",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632313,
+        85673807,
+        1092062987
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1240082
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"4eae90dc04e972c1abcf5a83029816b0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "county_id":1092062987,
+            "locality_id":1327475165,
+            "region_id":85673807
+        }
+    ],
+    "wof:id":1327475165,
+    "wof:lastmodified":1536616696,
+    "wof:name":"Kiringadeniya",
+    "wof:parent_id":1092062987,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    80.4506,
+    7.25,
+    80.4506,
+    7.25
+],
+  "geometry": {"coordinates":[80.45059999999999,7.25],"type":"Point"}
+}

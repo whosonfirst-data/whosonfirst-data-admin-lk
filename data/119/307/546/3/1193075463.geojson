@@ -1,0 +1,67 @@
+{
+  "id": 1193075463,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"80.3724,8.7164,80.3724,8.7164",
+    "geom:latitude":8.7164,
+    "geom:longitude":80.3724,
+    "gn:admin1_code":"38.0",
+    "gn:asciiname":"Parasangaswewa",
+    "gn:country_code":"LK",
+    "gn:dem":72,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8225155,
+    "gn:latitude":8.7164,
+    "gn:longitude":80.3724,
+    "gn:modification_date":"2012-04-06",
+    "gn:name":"Parasangaswewa",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632313,
+        85673757,
+        1092067431
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8225155
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"f11f54d87ed980dde77f820c39dead3f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "county_id":1092067431,
+            "locality_id":1193075463,
+            "region_id":85673757
+        }
+    ],
+    "wof:id":1193075463,
+    "wof:lastmodified":1536364610,
+    "wof:name":"Parasangaswewa",
+    "wof:parent_id":1092067431,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    80.3724,
+    8.7164,
+    80.3724,
+    8.7164
+],
+  "geometry": {"coordinates":[80.3724,8.7164],"type":"Point"}
+}

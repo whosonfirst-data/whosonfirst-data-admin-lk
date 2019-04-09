@@ -1,0 +1,72 @@
+{
+  "id": 1259633643,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"80.61667,7.88333,80.61667,7.88333",
+    "geom:latitude":7.88333,
+    "geom:longitude":80.61667,
+    "gn:admin1_code":"30.0",
+    "gn:asciiname":"Timbiriwala",
+    "gn:cc2":"LK",
+    "gn:country_code":"LK",
+    "gn:dem":155,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1226484,
+    "gn:latitude":7.88333,
+    "gn:longitude":80.61667,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Timbiriwala",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Thimbiriwala",
+        "Timbiriwala"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632313,
+        85673751,
+        1092064793
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1226484
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"91e0b76026223fa788970c531af33367",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "county_id":1092064793,
+            "locality_id":1259633643,
+            "region_id":85673751
+        }
+    ],
+    "wof:id":1259633643,
+    "wof:lastmodified":1537661369,
+    "wof:name":"Timbiriwala",
+    "wof:parent_id":1092064793,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    80.61667,
+    7.88333,
+    80.61667,
+    7.88333
+],
+  "geometry": {"coordinates":[80.61667,7.88333],"type":"Point"}
+}

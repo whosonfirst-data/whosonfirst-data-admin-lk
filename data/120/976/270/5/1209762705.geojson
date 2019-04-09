@@ -1,0 +1,67 @@
+{
+  "id": 1209762705,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"80.6244,7.5411,80.6244,7.5411",
+    "geom:latitude":7.5411,
+    "geom:longitude":80.6244,
+    "gn:admin1_code":"29.0",
+    "gn:asciiname":"Wawinna",
+    "gn:country_code":"LK",
+    "gn:dem":409,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1223972,
+    "gn:latitude":7.5411,
+    "gn:longitude":80.6244,
+    "gn:modification_date":"1998-03-18",
+    "gn:name":"Wawinna",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632313,
+        85673723,
+        1092062869
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1223972
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"52eb089fcb0e452403ad6e2535fc55d5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "county_id":1092062869,
+            "locality_id":1209762705,
+            "region_id":85673723
+        }
+    ],
+    "wof:id":1209762705,
+    "wof:lastmodified":1536387795,
+    "wof:name":"Wawinna",
+    "wof:parent_id":1092062869,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    80.6244,
+    7.5411,
+    80.6244,
+    7.5411
+],
+  "geometry": {"coordinates":[80.62439999999999,7.5411],"type":"Point"}
+}

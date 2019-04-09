@@ -1,0 +1,70 @@
+{
+  "id": 1242726631,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"80.692,6.7106,80.692,6.7106",
+    "geom:latitude":6.7106,
+    "geom:longitude":80.692,
+    "gn:admin1_code":"33.0",
+    "gn:asciiname":"Menerikumbura",
+    "gn:country_code":"LK",
+    "gn:dem":530,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1235039,
+    "gn:latitude":6.7106,
+    "gn:longitude":80.692,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Menerikumbura",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Minerikumbura"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632313,
+        85673785,
+        1092059597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1235039
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"e9f1b016fe4ec18126ed373d6a53e63f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "county_id":1092059597,
+            "locality_id":1242726631,
+            "region_id":85673785
+        }
+    ],
+    "wof:id":1242726631,
+    "wof:lastmodified":1537661456,
+    "wof:name":"Menerikumbura",
+    "wof:parent_id":1092059597,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    80.692,
+    6.7106,
+    80.692,
+    6.7106
+],
+  "geometry": {"coordinates":[80.69199999999999,6.7106],"type":"Point"}
+}

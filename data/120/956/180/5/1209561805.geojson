@@ -1,0 +1,61 @@
+{
+  "id": 1209561805,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"80.26667,8.13333,80.26667,8.13333",
+    "geom:latitude":8.13333,
+    "geom:longitude":80.26667,
+    "gn:admin1_code":"30.0",
+    "gn:asciiname":"Keditakkuwa",
+    "gn:country_code":"LK",
+    "gn:dem":76,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1240750,
+    "gn:latitude":8.13333,
+    "gn:longitude":80.26667,
+    "gn:modification_date":"1994-01-08",
+    "gn:name":"Keditakkuwa",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632313
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1240750
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"a4dbfe4d8a1d87cb84f251b51b8418e7",
+    "wof:hierarchy":[
+        {
+            "country_id":85632313,
+            "locality_id":1209561805
+        }
+    ],
+    "wof:id":1209561805,
+    "wof:lastmodified":1536283366,
+    "wof:name":"Keditakkuwa",
+    "wof:parent_id":85632313,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    80.26666999999998,
+    8.13333,
+    80.26666999999998,
+    8.13333
+],
+  "geometry": {"coordinates":[80.26666999999998,8.13333],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1276166359,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"80.664,9.0231,80.664,9.0231",
+    "geom:latitude":9.0231,
+    "geom:longitude":80.664,
+    "gn:admin1_code":"38.0",
+    "gn:asciiname":"Olumadu",
+    "gn:country_code":"LK",
+    "gn:dem":58,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1232643,
+    "gn:latitude":9.0231,
+    "gn:longitude":80.664,
+    "gn:modification_date":"2012-04-05",
+    "gn:name":"Olumadu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632313,
+        85673757,
+        1092067297
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1232643
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"2b02146c1b57609f79fb955768b9cd68",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "county_id":1092067297,
+            "locality_id":1276166359,
+            "region_id":85673757
+        }
+    ],
+    "wof:id":1276166359,
+    "wof:lastmodified":1537001791,
+    "wof:name":"Olumadu",
+    "wof:parent_id":1092067297,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    80.664,
+    9.0231,
+    80.664,
+    9.0231
+],
+  "geometry": {"coordinates":[80.664,9.0231],"type":"Point"}
+}

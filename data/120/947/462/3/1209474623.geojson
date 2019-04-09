@@ -1,0 +1,61 @@
+{
+  "id": 1209474623,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"79.9874,7.659,79.9874,7.659",
+    "geom:latitude":7.659,
+    "geom:longitude":79.9874,
+    "gn:admin1_code":"32.0",
+    "gn:asciiname":"Puwakgahakadawela",
+    "gn:country_code":"LK",
+    "gn:dem":41,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1229229,
+    "gn:latitude":7.659,
+    "gn:longitude":79.9874,
+    "gn:modification_date":"1994-01-08",
+    "gn:name":"Puwakgahakadawela",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632313
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1229229
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"d9a1d5cd6a9415db095e7d8eb7acbb9c",
+    "wof:hierarchy":[
+        {
+            "country_id":85632313,
+            "locality_id":1209474623
+        }
+    ],
+    "wof:id":1209474623,
+    "wof:lastmodified":1536285975,
+    "wof:name":"Puwakgahakadawela",
+    "wof:parent_id":85632313,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    79.9874,
+    7.659,
+    79.9874,
+    7.659
+],
+  "geometry": {"coordinates":[79.98739999999999,7.659],"type":"Point"}
+}

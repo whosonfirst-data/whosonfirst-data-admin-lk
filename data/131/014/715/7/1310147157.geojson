@@ -1,0 +1,67 @@
+{
+  "id": 1310147157,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"80.603,6.628,80.603,6.628",
+    "geom:latitude":6.628,
+    "geom:longitude":80.603,
+    "gn:admin1_code":"33.0",
+    "gn:asciiname":"Gallenakanda",
+    "gn:country_code":"LK",
+    "gn:dem":196,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7546980,
+    "gn:latitude":6.628,
+    "gn:longitude":80.603,
+    "gn:modification_date":"2010-10-09",
+    "gn:name":"Gallenakanda",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632313,
+        85673785,
+        1092064505
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7546980
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"a0be739dd7d7f8200084c1b824b4b46a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "county_id":1092064505,
+            "locality_id":1310147157,
+            "region_id":85673785
+        }
+    ],
+    "wof:id":1310147157,
+    "wof:lastmodified":1536937202,
+    "wof:name":"Gallenakanda",
+    "wof:parent_id":1092064505,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    80.60300000000002,
+    6.628,
+    80.60300000000002,
+    6.628
+],
+  "geometry": {"coordinates":[80.60300000000002,6.628],"type":"Point"}
+}

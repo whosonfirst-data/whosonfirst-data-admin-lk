@@ -1,0 +1,77 @@
+{
+  "id": 421167945,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"81.6888,7.7074,81.6888,7.7074",
+    "geom:latitude":7.7074,
+    "geom:longitude":81.6888,
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "qs:gn_country":"LK",
+    "qs:gn_fcode":"PPLX",
+    "qs:gn_id":1228003,
+    "qs:gn_pop":0,
+    "qs:name":"Sinhalavadi",
+    "qs:name_adm0":"Sri Lanka",
+    "qs:name_adm1":"North Eastern",
+    "qs:photos":1,
+    "qs:photos_1k":1,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":1,
+    "qs:photos_sr":1,
+    "qs:placetype":"Suburb",
+    "qs:pop_sr":"0",
+    "qs:qs_id":387869,
+    "qs:woe_adm0":23424778,
+    "qs:woe_id":2186567,
+    "src:geom":"quattroshapes",
+    "wof:belongsto":[
+        102191569,
+        85632313,
+        1092062477,
+        85673737
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1228003,
+        "gp:id":2186567,
+        "qs:id":387869
+    },
+    "wof:country":"LK",
+    "wof:created":1459008749,
+    "wof:geomhash":"ef96b817b0f04f804e90be423c21fedc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "county_id":1092062477,
+            "locality_id":-1,
+            "neighbourhood_id":421167945,
+            "region_id":85673737
+        }
+    ],
+    "wof:id":421167945,
+    "wof:lastmodified":1531858299,
+    "wof:name":"Sinhalavadi",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    81.6888,
+    7.7074,
+    81.6888,
+    7.7074
+],
+  "geometry": {"coordinates":[81.6888,7.7074],"type":"Point"}
+}

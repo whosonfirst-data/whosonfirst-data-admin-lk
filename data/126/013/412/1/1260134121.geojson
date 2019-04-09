@@ -1,0 +1,67 @@
+{
+  "id": 1260134121,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"80.4495,7.2353,80.4495,7.2353",
+    "geom:latitude":7.2353,
+    "geom:longitude":80.4495,
+    "gn:admin1_code":"33.0",
+    "gn:asciiname":"Nankurugama",
+    "gn:country_code":"LK",
+    "gn:dem":201,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7433689,
+    "gn:latitude":7.2353,
+    "gn:longitude":80.4495,
+    "gn:modification_date":"2010-08-07",
+    "gn:name":"Nankurugama",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632313,
+        85673807,
+        1092062987
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7433689
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"ce44d74e165823aac6cf9ab5fd3eeb44",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "county_id":1092062987,
+            "locality_id":1260134121,
+            "region_id":85673807
+        }
+    ],
+    "wof:id":1260134121,
+    "wof:lastmodified":1536916011,
+    "wof:name":"Nankurugama",
+    "wof:parent_id":1092062987,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    80.4495,
+    7.2353,
+    80.4495,
+    7.2353
+],
+  "geometry": {"coordinates":[80.4495,7.2353],"type":"Point"}
+}

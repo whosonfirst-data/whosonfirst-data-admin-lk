@@ -1,0 +1,67 @@
+{
+  "id": 1343504283,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"81.61667,7.61667,81.61667,7.61667",
+    "geom:latitude":7.61667,
+    "geom:longitude":81.61667,
+    "gn:admin1_code":"37.0",
+    "gn:asciiname":"Nedunchenai",
+    "gn:country_code":"LK",
+    "gn:dem":22,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1233413,
+    "gn:latitude":7.61667,
+    "gn:longitude":81.61667,
+    "gn:modification_date":"2012-04-05",
+    "gn:name":"Nedunchenai",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632313,
+        85673737,
+        1092062635
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1233413
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"da57a6190d39316a1fedd3d7bfa178a4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "county_id":1092062635,
+            "locality_id":1343504283,
+            "region_id":85673737
+        }
+    ],
+    "wof:id":1343504283,
+    "wof:lastmodified":1536682964,
+    "wof:name":"Nedunchenai",
+    "wof:parent_id":1092062635,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    81.61667,
+    7.61667,
+    81.61667,
+    7.61667
+],
+  "geometry": {"coordinates":[81.61667,7.61667],"type":"Point"}
+}

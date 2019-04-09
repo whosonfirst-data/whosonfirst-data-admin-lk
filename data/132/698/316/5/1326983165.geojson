@@ -1,0 +1,67 @@
+{
+  "id": 1326983165,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"79.9578,7.0727,79.9578,7.0727",
+    "geom:latitude":7.0727,
+    "geom:longitude":79.9578,
+    "gn:admin1_code":"36.0",
+    "gn:asciiname":"Sabaragama",
+    "gn:country_code":"LK",
+    "gn:dem":34,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7542766,
+    "gn:latitude":7.0727,
+    "gn:longitude":79.9578,
+    "gn:modification_date":"2010-10-09",
+    "gn:name":"Sabaragama",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632313,
+        85673815,
+        1092058643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7542766
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"43aeea7dd3dc06d3c165680657cac37d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "county_id":1092058643,
+            "locality_id":1326983165,
+            "region_id":85673815
+        }
+    ],
+    "wof:id":1326983165,
+    "wof:lastmodified":1536830627,
+    "wof:name":"Sabaragama",
+    "wof:parent_id":1092058643,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    79.9578,
+    7.0727,
+    79.9578,
+    7.0727
+],
+  "geometry": {"coordinates":[79.95780000000001,7.0727],"type":"Point"}
+}

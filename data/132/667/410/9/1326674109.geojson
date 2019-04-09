@@ -1,0 +1,67 @@
+{
+  "id": 1326674109,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"80.0348,7.1347,80.0348,7.1347",
+    "geom:latitude":7.1347,
+    "geom:longitude":80.0348,
+    "gn:admin1_code":"36.0",
+    "gn:asciiname":"Magalegoda",
+    "gn:country_code":"LK",
+    "gn:dem":28,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1237228,
+    "gn:latitude":7.1347,
+    "gn:longitude":80.0348,
+    "gn:modification_date":"1994-01-08",
+    "gn:name":"Magalegoda",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632313,
+        85673815,
+        1092056721
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1237228
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"dfd9d99ba0a0c1879e5a4381b2401ebe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "county_id":1092056721,
+            "locality_id":1326674109,
+            "region_id":85673815
+        }
+    ],
+    "wof:id":1326674109,
+    "wof:lastmodified":1536780084,
+    "wof:name":"Magalegoda",
+    "wof:parent_id":1092056721,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    80.0348,
+    7.1347,
+    80.0348,
+    7.1347
+],
+  "geometry": {"coordinates":[80.0348,7.1347],"type":"Point"}
+}

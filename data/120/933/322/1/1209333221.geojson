@@ -1,0 +1,60 @@
+{
+  "id": 1209333221,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"80.7625,8.845,80.7625,8.845",
+    "geom:latitude":8.845,
+    "geom:longitude":80.7625,
+    "gn:asciiname":"Padaviya Divisional Secretariat",
+    "gn:country_code":"LK",
+    "gn:dem":48,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA3",
+    "gn:geonameid":8714432,
+    "gn:latitude":8.845,
+    "gn:longitude":80.7625,
+    "gn:modification_date":"2014-02-24",
+    "gn:name":"Padaviya Divisional Secretariat",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632313
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8714432
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"584efbf7ab4a455b9fe18818b2d240a3",
+    "wof:hierarchy":[
+        {
+            "country_id":85632313,
+            "locality_id":1209333221
+        }
+    ],
+    "wof:id":1209333221,
+    "wof:lastmodified":1536290306,
+    "wof:name":"Padaviya Divisional Secretariat",
+    "wof:parent_id":85632313,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    80.7625,
+    8.845,
+    80.7625,
+    8.845
+],
+  "geometry": {"coordinates":[80.7625,8.845],"type":"Point"}
+}

@@ -1,0 +1,78 @@
+{
+  "id": 1242616103,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"80.0271,9.7456,80.0271,9.7456",
+    "geom:latitude":9.7456,
+    "geom:longitude":80.0271,
+    "gn:admin1_code":"38.0",
+    "gn:asciiname":"Chunnakam",
+    "gn:country_code":"LK",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1249037,
+    "gn:latitude":9.7456,
+    "gn:longitude":80.0271,
+    "gn:modification_date":"2012-04-05",
+    "gn:name":"Chunnakam",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:sin_x_preferred":[
+        "\u0dc4\u0dd4\u0dab\u0dd4\u0d9c\u0db8"
+    ],
+    "name:tam_x_preferred":[
+        "\u0b9a\u0bc1\u0ba9\u0bcd\u0ba9\u0bbe\u0b95\u0bae\u0bcd"
+    ],
+    "name:und_x_variant":[
+        "Chunakam",
+        "Chunnakam"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632313,
+        85673769,
+        1092067185
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1249037,
+        "wk:page":"Chunnakam"
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"e9baa58e9d796db194beb71f4ff5acd6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "county_id":1092067185,
+            "locality_id":1242616103,
+            "region_id":85673769
+        }
+    ],
+    "wof:id":1242616103,
+    "wof:lastmodified":1537661580,
+    "wof:name":"Chunnakam",
+    "wof:parent_id":1092067185,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    80.0271,
+    9.7456,
+    80.0271,
+    9.7456
+],
+  "geometry": {"coordinates":[80.0271,9.7456],"type":"Point"}
+}

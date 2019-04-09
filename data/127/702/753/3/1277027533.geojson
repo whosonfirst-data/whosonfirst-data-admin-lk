@@ -1,0 +1,67 @@
+{
+  "id": 1277027533,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"81.0357,6.8885,81.0357,6.8885",
+    "geom:latitude":6.8885,
+    "geom:longitude":81.0357,
+    "gn:admin1_code":"35.0",
+    "gn:asciiname":"Helahalpe",
+    "gn:country_code":"LK",
+    "gn:dem":1004,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7616664,
+    "gn:latitude":6.8885,
+    "gn:longitude":81.0357,
+    "gn:modification_date":"2010-12-04",
+    "gn:name":"Helahalpe",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632313,
+        85673801,
+        1092058259
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7616664
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"ff8facdd61c88658f015a2626c4917a5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "county_id":1092058259,
+            "locality_id":1277027533,
+            "region_id":85673801
+        }
+    ],
+    "wof:id":1277027533,
+    "wof:lastmodified":1536842168,
+    "wof:name":"Helahalpe",
+    "wof:parent_id":1092058259,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    81.0357,
+    6.8885,
+    81.0357,
+    6.8885
+],
+  "geometry": {"coordinates":[81.03570000000001,6.8885],"type":"Point"}
+}

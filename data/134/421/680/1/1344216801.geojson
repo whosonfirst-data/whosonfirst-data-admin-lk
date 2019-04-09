@@ -1,0 +1,71 @@
+{
+  "id": 1344216801,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"79.9701,7.6121,79.9701,7.6121",
+    "geom:latitude":7.6121,
+    "geom:longitude":79.9701,
+    "gn:admin1_code":"32.0",
+    "gn:asciiname":"Anumetigama",
+    "gn:country_code":"LK",
+    "gn:dem":29,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1251082,
+    "gn:latitude":7.6121,
+    "gn:longitude":79.9701,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Anumetigama",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Anumethigama",
+        "Anumetigama"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632313,
+        85673777,
+        1092057161
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1251082
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"b60e71b960f1256e039450dc43730031",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "county_id":1092057161,
+            "locality_id":1344216801,
+            "region_id":85673777
+        }
+    ],
+    "wof:id":1344216801,
+    "wof:lastmodified":1537661598,
+    "wof:name":"Anumetigama",
+    "wof:parent_id":1092057161,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    79.9701,
+    7.6121,
+    79.9701,
+    7.6121
+],
+  "geometry": {"coordinates":[79.9701,7.6121],"type":"Point"}
+}

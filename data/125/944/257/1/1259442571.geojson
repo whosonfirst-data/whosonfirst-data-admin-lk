@@ -1,0 +1,67 @@
+{
+  "id": 1259442571,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"80.11667,7.75,80.11667,7.75",
+    "geom:latitude":7.75,
+    "geom:longitude":80.11667,
+    "gn:admin1_code":"32.0",
+    "gn:asciiname":"Samaderapitiyal",
+    "gn:country_code":"LK",
+    "gn:dem":62,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1228352,
+    "gn:latitude":7.75,
+    "gn:longitude":80.11667,
+    "gn:modification_date":"1994-01-08",
+    "gn:name":"Samaderapitiyal",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632313,
+        85673777,
+        1092064137
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1228352
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"3811e24cce091c24dcf995d1320c1826",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "county_id":1092064137,
+            "locality_id":1259442571,
+            "region_id":85673777
+        }
+    ],
+    "wof:id":1259442571,
+    "wof:lastmodified":1536918334,
+    "wof:name":"Samaderapitiyal",
+    "wof:parent_id":1092064137,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    80.11667,
+    7.75,
+    80.11667,
+    7.75
+],
+  "geometry": {"coordinates":[80.11667,7.75],"type":"Point"}
+}

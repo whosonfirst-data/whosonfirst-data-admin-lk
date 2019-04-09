@@ -1,0 +1,67 @@
+{
+  "id": 1242728655,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"80.7323,7.2482,80.7323,7.2482",
+    "geom:latitude":7.2482,
+    "geom:longitude":80.7323,
+    "gn:admin1_code":"29.0",
+    "gn:asciiname":"Haragamawatta Colony",
+    "gn:country_code":"LK",
+    "gn:dem":488,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7433669,
+    "gn:latitude":7.2482,
+    "gn:longitude":80.7323,
+    "gn:modification_date":"2010-08-07",
+    "gn:name":"Haragamawatta Colony",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632313,
+        85673719,
+        1092065263
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7433669
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"cef417cce114910a36864fa68d3c75a0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "county_id":1092065263,
+            "locality_id":1242728655,
+            "region_id":85673719
+        }
+    ],
+    "wof:id":1242728655,
+    "wof:lastmodified":1536845246,
+    "wof:name":"Haragamawatta Colony",
+    "wof:parent_id":1092065263,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    80.7323,
+    7.2482,
+    80.7323,
+    7.2482
+],
+  "geometry": {"coordinates":[80.7323,7.2482],"type":"Point"}
+}

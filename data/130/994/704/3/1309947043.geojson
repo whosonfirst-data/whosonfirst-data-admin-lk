@@ -1,0 +1,67 @@
+{
+  "id": 1309947043,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"80.1197,6.3132,80.1197,6.3132",
+    "geom:latitude":6.3132,
+    "geom:longitude":80.1197,
+    "gn:admin1_code":"34.0",
+    "gn:asciiname":"Diyapitagallana",
+    "gn:country_code":"LK",
+    "gn:dem":16,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7623018,
+    "gn:latitude":6.3132,
+    "gn:longitude":80.1197,
+    "gn:modification_date":"2010-12-04",
+    "gn:name":"Diyapitagallana",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632313,
+        85673789,
+        1092060579
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7623018
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"43622a7e24a9799be19d8a90449d59ab",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "county_id":1092060579,
+            "locality_id":1309947043,
+            "region_id":85673789
+        }
+    ],
+    "wof:id":1309947043,
+    "wof:lastmodified":1536727961,
+    "wof:name":"Diyapitagallana",
+    "wof:parent_id":1092060579,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    80.1197,
+    6.3132,
+    80.1197,
+    6.3132
+],
+  "geometry": {"coordinates":[80.11969999999999,6.3132],"type":"Point"}
+}

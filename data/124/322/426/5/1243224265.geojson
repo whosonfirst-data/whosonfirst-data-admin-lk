@@ -1,0 +1,67 @@
+{
+  "id": 1243224265,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"80.18333,8.18333,80.18333,8.18333",
+    "geom:latitude":8.18333,
+    "geom:longitude":80.18333,
+    "gn:admin1_code":"30.0",
+    "gn:asciiname":"Rambawewa",
+    "gn:country_code":"LK",
+    "gn:dem":53,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1229043,
+    "gn:latitude":8.18333,
+    "gn:longitude":80.18333,
+    "gn:modification_date":"1994-01-08",
+    "gn:name":"Rambawewa",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632313,
+        85673751,
+        1092065663
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1229043
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"382bb23d7782df527823ca35fb4fd642",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "county_id":1092065663,
+            "locality_id":1243224265,
+            "region_id":85673751
+        }
+    ],
+    "wof:id":1243224265,
+    "wof:lastmodified":1536627185,
+    "wof:name":"Rambawewa",
+    "wof:parent_id":1092065663,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    80.18333,
+    8.18333,
+    80.18333,
+    8.18333
+],
+  "geometry": {"coordinates":[80.18333,8.18333],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1243499081,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"81.0725,7.1543,81.0725,7.1543",
+    "geom:latitude":7.1543,
+    "geom:longitude":81.0725,
+    "gn:admin1_code":"35.0",
+    "gn:asciiname":"Karandagahamada",
+    "gn:country_code":"LK",
+    "gn:dem":174,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1241258,
+    "gn:latitude":7.1543,
+    "gn:longitude":81.0725,
+    "gn:modification_date":"1994-01-08",
+    "gn:name":"Karandagahamada",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632313,
+        85673801,
+        1092063223
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1241258
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"7eb8d2ccfea05475a02f4479f1b55d2f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "county_id":1092063223,
+            "locality_id":1243499081,
+            "region_id":85673801
+        }
+    ],
+    "wof:id":1243499081,
+    "wof:lastmodified":1536730089,
+    "wof:name":"Karandagahamada",
+    "wof:parent_id":1092063223,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    81.0725,
+    7.1543,
+    81.0725,
+    7.1543
+],
+  "geometry": {"coordinates":[81.07250000000001,7.1543],"type":"Point"}
+}

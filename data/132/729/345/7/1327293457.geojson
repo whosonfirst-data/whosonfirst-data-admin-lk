@@ -1,0 +1,67 @@
+{
+  "id": 1327293457,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"79.9798,7.4281,79.9798,7.4281",
+    "geom:latitude":7.4281,
+    "geom:longitude":79.9798,
+    "gn:admin1_code":"32.0",
+    "gn:asciiname":"Walpitagama",
+    "gn:country_code":"LK",
+    "gn:dem":34,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1224353,
+    "gn:latitude":7.4281,
+    "gn:longitude":79.9798,
+    "gn:modification_date":"1994-01-08",
+    "gn:name":"Walpitagama",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632313,
+        85673777,
+        1092066989
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1224353
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"3dc27a9ee03aabbcae900d142a7d2bf8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "county_id":1092066989,
+            "locality_id":1327293457,
+            "region_id":85673777
+        }
+    ],
+    "wof:id":1327293457,
+    "wof:lastmodified":1536880890,
+    "wof:name":"Walpitagama",
+    "wof:parent_id":1092066989,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    79.9798,
+    7.4281,
+    79.9798,
+    7.4281
+],
+  "geometry": {"coordinates":[79.9798,7.4281],"type":"Point"}
+}

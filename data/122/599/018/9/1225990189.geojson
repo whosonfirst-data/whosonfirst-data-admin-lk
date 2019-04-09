@@ -1,0 +1,67 @@
+{
+  "id": 1225990189,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"79.974,7.4952,79.974,7.4952",
+    "geom:latitude":7.4952,
+    "geom:longitude":79.974,
+    "gn:admin1_code":"32.0",
+    "gn:asciiname":"Kahadenigama",
+    "gn:country_code":"LK",
+    "gn:dem":29,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1242508,
+    "gn:latitude":7.4952,
+    "gn:longitude":79.974,
+    "gn:modification_date":"1994-01-08",
+    "gn:name":"Kahadenigama",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632313,
+        85673777,
+        1092066989
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1242508
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"9b7436991ad722ddd1eef5d3ba451dce",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "county_id":1092066989,
+            "locality_id":1225990189,
+            "region_id":85673777
+        }
+    ],
+    "wof:id":1225990189,
+    "wof:lastmodified":1536805110,
+    "wof:name":"Kahadenigama",
+    "wof:parent_id":1092066989,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    79.97399999999998,
+    7.4952,
+    79.97399999999998,
+    7.4952
+],
+  "geometry": {"coordinates":[79.97399999999998,7.4952],"type":"Point"}
+}

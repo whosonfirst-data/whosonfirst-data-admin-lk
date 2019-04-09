@@ -1,0 +1,67 @@
+{
+  "id": 1192968533,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"80.6573,8.5313,80.6573,8.5313",
+    "geom:latitude":8.5313,
+    "geom:longitude":80.6573,
+    "gn:admin1_code":"30.0",
+    "gn:asciiname":"Bogahawila",
+    "gn:country_code":"LK",
+    "gn:dem":117,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1249772,
+    "gn:latitude":8.5313,
+    "gn:longitude":80.6573,
+    "gn:modification_date":"1994-01-08",
+    "gn:name":"Bogahawila",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632313,
+        85673751,
+        1092065687
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1249772
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"8bba8e9a1d59a1e307ba0568734812bb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "county_id":1092065687,
+            "locality_id":1192968533,
+            "region_id":85673751
+        }
+    ],
+    "wof:id":1192968533,
+    "wof:lastmodified":1536380846,
+    "wof:name":"Bogahawila",
+    "wof:parent_id":1092065687,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    80.6573,
+    8.5313,
+    80.6573,
+    8.5313
+],
+  "geometry": {"coordinates":[80.65730000000001,8.5313],"type":"Point"}
+}

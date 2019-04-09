@@ -1,0 +1,67 @@
+{
+  "id": 1343714847,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"79.9972,6.6353,79.9972,6.6353",
+    "geom:latitude":6.6353,
+    "geom:longitude":79.9972,
+    "gn:admin1_code":"36.0",
+    "gn:asciiname":"Paraduwa",
+    "gn:country_code":"LK",
+    "gn:dem":5,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1231051,
+    "gn:latitude":6.6353,
+    "gn:longitude":79.9972,
+    "gn:modification_date":"1994-01-08",
+    "gn:name":"Paraduwa",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632313,
+        85673819,
+        1092060239
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1231051
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"fc82a3f36ebade00ec01f876e3799786",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "county_id":1092060239,
+            "locality_id":1343714847,
+            "region_id":85673819
+        }
+    ],
+    "wof:id":1343714847,
+    "wof:lastmodified":1536875890,
+    "wof:name":"Paraduwa",
+    "wof:parent_id":1092060239,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    79.9972,
+    6.6353,
+    79.9972,
+    6.6353
+],
+  "geometry": {"coordinates":[79.99720000000001,6.6353],"type":"Point"}
+}

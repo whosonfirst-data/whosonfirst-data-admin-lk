@@ -1,0 +1,71 @@
+{
+  "id": 1343313521,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"79.7632,9.6021,79.7632,9.6021",
+    "geom:latitude":9.6021,
+    "geom:longitude":79.7632,
+    "gn:admin1_code":"38.0",
+    "gn:asciiname":"Nainativu",
+    "gn:country_code":"LK",
+    "gn:dem":4,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1233436,
+    "gn:latitude":9.6021,
+    "gn:longitude":79.7632,
+    "gn:modification_date":"2012-04-05",
+    "gn:name":"Nainativu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Nayinativu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632313,
+        85673769,
+        1092059807
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1233436,
+        "wk:page":"Nainativu"
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"ede091ec7b80a57721b30d555fd79601",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "county_id":1092059807,
+            "locality_id":1343313521,
+            "region_id":85673769
+        }
+    ],
+    "wof:id":1343313521,
+    "wof:lastmodified":1537661440,
+    "wof:name":"Nainativu",
+    "wof:parent_id":1092059807,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    79.7632,
+    9.6021,
+    79.7632,
+    9.6021
+],
+  "geometry": {"coordinates":[79.7632,9.6021],"type":"Point"}
+}

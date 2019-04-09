@@ -1,0 +1,67 @@
+{
+  "id": 1226387211,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"81.0814,7.0968,81.0814,7.0968",
+    "geom:latitude":7.0968,
+    "geom:longitude":81.0814,
+    "gn:admin1_code":"35.0",
+    "gn:asciiname":"Kalawelruppa",
+    "gn:country_code":"LK",
+    "gn:dem":496,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7474935,
+    "gn:latitude":7.0968,
+    "gn:longitude":81.0814,
+    "gn:modification_date":"2010-08-08",
+    "gn:name":"Kalawelruppa",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632313,
+        85673801,
+        1092063223
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7474935
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"752a2a0d34096b8cf595ec34140a2a6f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "county_id":1092063223,
+            "locality_id":1226387211,
+            "region_id":85673801
+        }
+    ],
+    "wof:id":1226387211,
+    "wof:lastmodified":1536730241,
+    "wof:name":"Kalawelruppa",
+    "wof:parent_id":1092063223,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    81.0814,
+    7.0968,
+    81.0814,
+    7.0968
+],
+  "geometry": {"coordinates":[81.0814,7.0968],"type":"Point"}
+}

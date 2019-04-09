@@ -1,0 +1,67 @@
+{
+  "id": 1276816991,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"80.6706,6.4161,80.6706,6.4161",
+    "geom:latitude":6.4161,
+    "geom:longitude":80.6706,
+    "gn:admin1_code":"33.0",
+    "gn:asciiname":"Ereporuwa",
+    "gn:country_code":"LK",
+    "gn:dem":366,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1246910,
+    "gn:latitude":6.4161,
+    "gn:longitude":80.6706,
+    "gn:modification_date":"1994-01-08",
+    "gn:name":"Ereporuwa",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632313,
+        85673785,
+        1092061085
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1246910
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"89b057f2c8b66c159352af21ff55f529",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "county_id":1092061085,
+            "locality_id":1276816991,
+            "region_id":85673785
+        }
+    ],
+    "wof:id":1276816991,
+    "wof:lastmodified":1536626099,
+    "wof:name":"Ereporuwa",
+    "wof:parent_id":1092061085,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    80.6706,
+    6.4161,
+    80.6706,
+    6.4161
+],
+  "geometry": {"coordinates":[80.67059999999999,6.4161],"type":"Point"}
+}

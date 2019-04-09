@@ -1,0 +1,71 @@
+{
+  "id": 1327472753,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"81.6125,7.788,81.6125,7.788",
+    "geom:latitude":7.788,
+    "geom:longitude":81.6125,
+    "gn:admin1_code":"37.0",
+    "gn:asciiname":"Aiyankerni",
+    "gn:country_code":"LK",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1252188,
+    "gn:latitude":7.788,
+    "gn:longitude":81.6125,
+    "gn:modification_date":"2012-04-05",
+    "gn:name":"Aiyankerni",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Aiyakerni",
+        "Aiyankerni"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632313,
+        85673737,
+        1092058375
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1252188
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"e566b5de095d2156ab56db9d7cf36626",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "county_id":1092058375,
+            "locality_id":1327472753,
+            "region_id":85673737
+        }
+    ],
+    "wof:id":1327472753,
+    "wof:lastmodified":1537661606,
+    "wof:name":"Aiyankerni",
+    "wof:parent_id":1092058375,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    81.6125,
+    7.788,
+    81.6125,
+    7.788
+],
+  "geometry": {"coordinates":[81.6125,7.788],"type":"Point"}
+}

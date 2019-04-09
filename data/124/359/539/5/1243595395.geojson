@@ -1,0 +1,67 @@
+{
+  "id": 1243595395,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"80.6418,6.4194,80.6418,6.4194",
+    "geom:latitude":6.4194,
+    "geom:longitude":80.6418,
+    "gn:admin1_code":"33.0",
+    "gn:asciiname":"Poddana",
+    "gn:country_code":"LK",
+    "gn:dem":636,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1230018,
+    "gn:latitude":6.4194,
+    "gn:longitude":80.6418,
+    "gn:modification_date":"1994-01-08",
+    "gn:name":"Poddana",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632313,
+        85673785,
+        1092061085
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1230018
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"2136c8582eb5e471a9aa8d552fdbc1cc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "county_id":1092061085,
+            "locality_id":1243595395,
+            "region_id":85673785
+        }
+    ],
+    "wof:id":1243595395,
+    "wof:lastmodified":1537084552,
+    "wof:name":"Poddana",
+    "wof:parent_id":1092061085,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    80.6418,
+    6.4194,
+    80.6418,
+    6.4194
+],
+  "geometry": {"coordinates":[80.6418,6.4194],"type":"Point"}
+}

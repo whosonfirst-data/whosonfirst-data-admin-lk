@@ -1,0 +1,67 @@
+{
+  "id": 1343407927,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"80.2737,8.5195,80.2737,8.5195",
+    "geom:latitude":8.5195,
+    "geom:longitude":80.2737,
+    "gn:admin1_code":"30.0",
+    "gn:asciiname":"Madangaswewa",
+    "gn:country_code":"LK",
+    "gn:dem":68,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7440570,
+    "gn:latitude":8.5195,
+    "gn:longitude":80.2737,
+    "gn:modification_date":"2010-08-07",
+    "gn:name":"Madangaswewa",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632313,
+        85673751,
+        1092062291
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7440570
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"d76ba095af67888d6b24655a0b6f17cc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "county_id":1092062291,
+            "locality_id":1343407927,
+            "region_id":85673751
+        }
+    ],
+    "wof:id":1343407927,
+    "wof:lastmodified":1536821234,
+    "wof:name":"Madangaswewa",
+    "wof:parent_id":1092062291,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    80.2737,
+    8.5195,
+    80.2737,
+    8.5195
+],
+  "geometry": {"coordinates":[80.27370000000001,8.5195],"type":"Point"}
+}

@@ -1,0 +1,85 @@
+{
+  "id": 421168309,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"80.6,6.8713,80.6,6.8713",
+    "geom:latitude":6.8713,
+    "geom:longitude":80.6,
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:tam_x_preferred":[
+        "\u0b9f\u0bbf\u0b95\u0bcd\u0b95\u0bcb\u0baf\u0bbe"
+    ],
+    "name:unk_x_variant":[
+        "Dickoya"
+    ],
+    "qs:gn_country":"LK",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":1247985,
+    "qs:gn_pop":0,
+    "qs:name":"Dikoya",
+    "qs:name_adm0":"Sri Lanka",
+    "qs:name_adm1":"Central",
+    "qs:photos":399,
+    "qs:photos_1k":81,
+    "qs:photos_9k":2,
+    "qs:photos_9r":5,
+    "qs:photos_all":399,
+    "qs:photos_sr":6,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":1117320,
+    "qs:woe_adm0":23424778,
+    "qs:woe_id":2175562,
+    "src:geom":"quattroshapes",
+    "wd:wordcount":45,
+    "wof:belongsto":[
+        102191569,
+        85632313,
+        85673731,
+        1092056403
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1247985,
+        "gp:id":2175562,
+        "qs:id":1117320,
+        "wd:id":"Q5276565",
+        "wk:page":"Dikoya"
+    },
+    "wof:country":"LK",
+    "wof:created":1459008761,
+    "wof:geomhash":"418029643905fa3320c30ee9439b3954",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "county_id":1092056403,
+            "locality_id":421168309,
+            "region_id":85673731
+        }
+    ],
+    "wof:id":421168309,
+    "wof:lastmodified":1527716089,
+    "wof:name":"Dikoya",
+    "wof:parent_id":1092056403,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    80.6,
+    6.8713,
+    80.6,
+    6.8713
+],
+  "geometry": {"coordinates":[80.59999999999999,6.8713],"type":"Point"}
+}

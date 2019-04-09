@@ -1,0 +1,68 @@
+{
+  "id": 1343808715,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"80.7484,7.3729,80.7484,7.3729",
+    "geom:latitude":7.3729,
+    "geom:longitude":80.7484,
+    "gn:admin1_code":"29.0",
+    "gn:asciiname":"Elliyadda",
+    "gn:country_code":"LK",
+    "gn:dem":540,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1247078,
+    "gn:latitude":7.3729,
+    "gn:longitude":80.7484,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Elliyadda",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632313,
+        85673719,
+        1092063065
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1247078,
+        "wk:page":"Elliyadda"
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"f3b4722b061af6fd228f55111a6b25aa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "county_id":1092063065,
+            "locality_id":1343808715,
+            "region_id":85673719
+        }
+    ],
+    "wof:id":1343808715,
+    "wof:lastmodified":1537568014,
+    "wof:name":"Elliyadda",
+    "wof:parent_id":1092063065,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    80.7484,
+    7.3729,
+    80.7484,
+    7.3729
+],
+  "geometry": {"coordinates":[80.7484,7.3729],"type":"Point"}
+}

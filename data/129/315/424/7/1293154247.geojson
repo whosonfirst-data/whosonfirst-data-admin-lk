@@ -1,0 +1,67 @@
+{
+  "id": 1293154247,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"81.2396,6.8981,81.2396,6.8981",
+    "geom:latitude":6.8981,
+    "geom:longitude":81.2396,
+    "gn:admin1_code":"35.0",
+    "gn:asciiname":"Parana Alupotha",
+    "gn:country_code":"LK",
+    "gn:dem":376,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7618166,
+    "gn:latitude":6.8981,
+    "gn:longitude":81.2396,
+    "gn:modification_date":"2010-12-04",
+    "gn:name":"Parana Alupotha",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632313,
+        85673803,
+        1092056763
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7618166
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"a6c6638b1f4cec05e970a905ea1fc46c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "county_id":1092056763,
+            "locality_id":1293154247,
+            "region_id":85673803
+        }
+    ],
+    "wof:id":1293154247,
+    "wof:lastmodified":1536771181,
+    "wof:name":"Parana Alupotha",
+    "wof:parent_id":1092056763,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    81.2396,
+    6.8981,
+    81.2396,
+    6.8981
+],
+  "geometry": {"coordinates":[81.2396,6.8981],"type":"Point"}
+}

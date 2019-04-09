@@ -1,0 +1,67 @@
+{
+  "id": 1225998545,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"81.4338,6.2915,81.4338,6.2915",
+    "geom:latitude":6.2915,
+    "geom:longitude":81.4338,
+    "gn:admin1_code":"34.0",
+    "gn:asciiname":"Mahasilawa Bungalow",
+    "gn:country_code":"LK",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7625616,
+    "gn:latitude":6.2915,
+    "gn:longitude":81.4338,
+    "gn:modification_date":"2010-12-04",
+    "gn:name":"Mahasilawa Bungalow",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632313,
+        85673791,
+        1092066869
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7625616
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"e8a3c7983f1b99c5f3e6240e32fab690",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "county_id":1092066869,
+            "locality_id":1225998545,
+            "region_id":85673791
+        }
+    ],
+    "wof:id":1225998545,
+    "wof:lastmodified":1536793619,
+    "wof:name":"Mahasilawa Bungalow",
+    "wof:parent_id":1092066869,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    81.4338,
+    6.2915,
+    81.4338,
+    6.2915
+],
+  "geometry": {"coordinates":[81.43380000000001,6.2915],"type":"Point"}
+}

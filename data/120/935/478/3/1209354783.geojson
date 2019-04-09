@@ -1,0 +1,61 @@
+{
+  "id": 1209354783,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"80.1428,6.9213,80.1428,6.9213",
+    "geom:latitude":6.9213,
+    "geom:longitude":80.1428,
+    "gn:admin1_code":"36.0",
+    "gn:asciiname":"Kadugoda South",
+    "gn:country_code":"LK",
+    "gn:dem":57,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7474045,
+    "gn:latitude":6.9213,
+    "gn:longitude":80.1428,
+    "gn:modification_date":"2010-08-08",
+    "gn:name":"Kadugoda South",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632313
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7474045
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"e6e673b8d327388963f27e7a13290c0f",
+    "wof:hierarchy":[
+        {
+            "country_id":85632313,
+            "locality_id":1209354783
+        }
+    ],
+    "wof:id":1209354783,
+    "wof:lastmodified":1536289623,
+    "wof:name":"Kadugoda South",
+    "wof:parent_id":85632313,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    80.1428,
+    6.9213,
+    80.1428,
+    6.9213
+],
+  "geometry": {"coordinates":[80.14279999999999,6.9213],"type":"Point"}
+}

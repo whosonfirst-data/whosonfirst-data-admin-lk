@@ -1,0 +1,67 @@
+{
+  "id": 1326570755,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"80.9171,6.1072,80.9171,6.1072",
+    "geom:latitude":6.1072,
+    "geom:longitude":80.9171,
+    "gn:admin1_code":"34.0",
+    "gn:asciiname":"Bata-ata",
+    "gn:country_code":"LK",
+    "gn:dem":12,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1250232,
+    "gn:latitude":6.1072,
+    "gn:longitude":80.9171,
+    "gn:modification_date":"1994-01-08",
+    "gn:name":"Bata-ata",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632313,
+        85673791,
+        1092056491
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1250232
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"e181f3059162f2b989882d12f7fc0ae8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "county_id":1092056491,
+            "locality_id":1326570755,
+            "region_id":85673791
+        }
+    ],
+    "wof:id":1326570755,
+    "wof:lastmodified":1536929171,
+    "wof:name":"Bata-ata",
+    "wof:parent_id":1092056491,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    80.9171,
+    6.1072,
+    80.9171,
+    6.1072
+],
+  "geometry": {"coordinates":[80.9171,6.1072],"type":"Point"}
+}

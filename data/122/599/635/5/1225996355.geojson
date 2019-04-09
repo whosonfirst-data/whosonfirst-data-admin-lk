@@ -1,0 +1,70 @@
+{
+  "id": 1225996355,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"81.6313,7.2171,81.6313,7.2171",
+    "geom:latitude":7.2171,
+    "geom:longitude":81.6313,
+    "gn:admin1_code":"37.0",
+    "gn:asciiname":"Berawa",
+    "gn:country_code":"LK",
+    "gn:dem":42,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1249948,
+    "gn:latitude":7.2171,
+    "gn:longitude":81.6313,
+    "gn:modification_date":"2012-04-05",
+    "gn:name":"Berawa",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Berawa Munmari"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632313,
+        85673733,
+        1092057459
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1249948
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"d9aa059e0fc92c73c696c386e4c10e6a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "county_id":1092057459,
+            "locality_id":1225996355,
+            "region_id":85673733
+        }
+    ],
+    "wof:id":1225996355,
+    "wof:lastmodified":1537661587,
+    "wof:name":"Berawa",
+    "wof:parent_id":1092057459,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    81.6313,
+    7.2171,
+    81.6313,
+    7.2171
+],
+  "geometry": {"coordinates":[81.6313,7.2171],"type":"Point"}
+}

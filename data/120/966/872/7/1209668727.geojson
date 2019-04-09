@@ -1,0 +1,61 @@
+{
+  "id": 1209668727,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"81.0,7.4,81.0,7.4",
+    "geom:latitude":7.4,
+    "geom:longitude":81.0,
+    "gn:admin1_code":"35.0",
+    "gn:asciiname":"Aluttarama",
+    "gn:country_code":"LK",
+    "gn:dem":237,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1251772,
+    "gn:latitude":7.4,
+    "gn:longitude":81.0,
+    "gn:modification_date":"1994-01-08",
+    "gn:name":"Aluttarama",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632313
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1251772
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"fb961a2edb21d4cfb38ff6663c845338",
+    "wof:hierarchy":[
+        {
+            "country_id":85632313,
+            "locality_id":1209668727
+        }
+    ],
+    "wof:id":1209668727,
+    "wof:lastmodified":1536280002,
+    "wof:name":"Aluttarama",
+    "wof:parent_id":85632313,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    81.0,
+    7.4,
+    81.0,
+    7.4
+],
+  "geometry": {"coordinates":[81.0,7.4],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1193216773,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"80.2151,8.7368,80.2151,8.7368",
+    "geom:latitude":8.7368,
+    "geom:longitude":80.2151,
+    "gn:admin1_code":"38.0",
+    "gn:asciiname":"Periyakaddu",
+    "gn:country_code":"LK",
+    "gn:dem":38,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1230508,
+    "gn:latitude":8.7368,
+    "gn:longitude":80.2151,
+    "gn:modification_date":"2012-04-05",
+    "gn:name":"Periyakaddu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Periyakaddo",
+        "Periyakaddu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632313,
+        85673757,
+        1092067431
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1230508
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"980cd2e4a01929edd35d4ebadc048f83",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "county_id":1092067431,
+            "locality_id":1193216773,
+            "region_id":85673757
+        }
+    ],
+    "wof:id":1193216773,
+    "wof:lastmodified":1537661412,
+    "wof:name":"Periyakaddu",
+    "wof:parent_id":1092067431,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    80.2151,
+    8.7368,
+    80.2151,
+    8.7368
+],
+  "geometry": {"coordinates":[80.21510000000001,8.7368],"type":"Point"}
+}

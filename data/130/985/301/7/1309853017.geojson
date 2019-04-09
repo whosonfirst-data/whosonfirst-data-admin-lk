@@ -1,0 +1,67 @@
+{
+  "id": 1309853017,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"80.5229,7.2861,80.5229,7.2861",
+    "geom:latitude":7.2861,
+    "geom:longitude":80.5229,
+    "gn:admin1_code":"29.0",
+    "gn:asciiname":"Waharakgoda",
+    "gn:country_code":"LK",
+    "gn:dem":528,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1224578,
+    "gn:latitude":7.2861,
+    "gn:longitude":80.5229,
+    "gn:modification_date":"1994-01-08",
+    "gn:name":"Waharakgoda",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632313,
+        85673719,
+        1092068267
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1224578
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"e8970d2ca1a36e67e02b81df4eec9f58",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "county_id":1092068267,
+            "locality_id":1309853017,
+            "region_id":85673719
+        }
+    ],
+    "wof:id":1309853017,
+    "wof:lastmodified":1536861712,
+    "wof:name":"Waharakgoda",
+    "wof:parent_id":1092068267,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    80.5229,
+    7.2861,
+    80.5229,
+    7.2861
+],
+  "geometry": {"coordinates":[80.52290000000001,7.2861],"type":"Point"}
+}

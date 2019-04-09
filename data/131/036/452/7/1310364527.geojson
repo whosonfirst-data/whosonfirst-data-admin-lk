@@ -1,0 +1,67 @@
+{
+  "id": 1310364527,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"80.4798,7.1755,80.4798,7.1755",
+    "geom:latitude":7.1755,
+    "geom:longitude":80.4798,
+    "gn:admin1_code":"33.0",
+    "gn:asciiname":"Habalakkawa",
+    "gn:country_code":"LK",
+    "gn:dem":235,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1245175,
+    "gn:latitude":7.1755,
+    "gn:longitude":80.4798,
+    "gn:modification_date":"1994-01-08",
+    "gn:name":"Habalakkawa",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632313,
+        85673807,
+        1092056717
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1245175
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"9ce8979d7e9becf8a28c21c92b93b1bd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "county_id":1092056717,
+            "locality_id":1310364527,
+            "region_id":85673807
+        }
+    ],
+    "wof:id":1310364527,
+    "wof:lastmodified":1536620933,
+    "wof:name":"Habalakkawa",
+    "wof:parent_id":1092056717,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    80.4798,
+    7.1755,
+    80.4798,
+    7.1755
+],
+  "geometry": {"coordinates":[80.4798,7.1755],"type":"Point"}
+}

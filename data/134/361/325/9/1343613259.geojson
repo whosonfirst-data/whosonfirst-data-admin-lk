@@ -1,0 +1,71 @@
+{
+  "id": 1343613259,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"81.5,7.93333,81.5,7.93333",
+    "geom:latitude":7.93333,
+    "geom:longitude":81.5,
+    "gn:admin1_code":"37.0",
+    "gn:asciiname":"Veddukkadduveli",
+    "gn:country_code":"LK",
+    "gn:dem":16,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1224998,
+    "gn:latitude":7.93333,
+    "gn:longitude":81.5,
+    "gn:modification_date":"2012-04-05",
+    "gn:name":"Veddukkadduveli",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Vedukkadduveli",
+        "Veddukkadduveli"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632313,
+        85673737,
+        1092061217
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1224998
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"f7d3e7b70a386f8c10e05c5576c3dfa6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "county_id":1092061217,
+            "locality_id":1343613259,
+            "region_id":85673737
+        }
+    ],
+    "wof:id":1343613259,
+    "wof:lastmodified":1537661350,
+    "wof:name":"Veddukkadduveli",
+    "wof:parent_id":1092061217,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    81.5,
+    7.93333,
+    81.5,
+    7.93333
+],
+  "geometry": {"coordinates":[81.5,7.93333],"type":"Point"}
+}

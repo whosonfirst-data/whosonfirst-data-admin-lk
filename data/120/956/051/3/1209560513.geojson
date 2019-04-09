@@ -1,0 +1,61 @@
+{
+  "id": 1209560513,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"80.6616,6.1412,80.6616,6.1412",
+    "geom:latitude":6.1412,
+    "geom:longitude":80.6616,
+    "gn:admin1_code":"34.0",
+    "gn:asciiname":"Beddahena West",
+    "gn:country_code":"LK",
+    "gn:dem":94,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7624592,
+    "gn:latitude":6.1412,
+    "gn:longitude":80.6616,
+    "gn:modification_date":"2010-12-04",
+    "gn:name":"Beddahena West",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632313
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7624592
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"9d789094f12238281863495535ba307f",
+    "wof:hierarchy":[
+        {
+            "country_id":85632313,
+            "locality_id":1209560513
+        }
+    ],
+    "wof:id":1209560513,
+    "wof:lastmodified":1536283406,
+    "wof:name":"Beddahena West",
+    "wof:parent_id":85632313,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    80.6616,
+    6.1412,
+    80.6616,
+    6.1412
+],
+  "geometry": {"coordinates":[80.66160000000001,6.1412],"type":"Point"}
+}

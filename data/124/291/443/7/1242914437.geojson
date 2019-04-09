@@ -1,0 +1,67 @@
+{
+  "id": 1242914437,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"80.0453,6.399,80.0453,6.399",
+    "geom:latitude":6.399,
+    "geom:longitude":80.0453,
+    "gn:admin1_code":"34.0",
+    "gn:asciiname":"Elekaka",
+    "gn:country_code":"LK",
+    "gn:dem":5,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1247187,
+    "gn:latitude":6.399,
+    "gn:longitude":80.0453,
+    "gn:modification_date":"1994-01-08",
+    "gn:name":"Elekaka",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632313,
+        85673789,
+        1092057133
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1247187
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"09ca4584ee1f02652a32f1ccf3b439c7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "county_id":1092057133,
+            "locality_id":1242914437,
+            "region_id":85673789
+        }
+    ],
+    "wof:id":1242914437,
+    "wof:lastmodified":1537072418,
+    "wof:name":"Elekaka",
+    "wof:parent_id":1092057133,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    80.0453,
+    6.399,
+    80.0453,
+    6.399
+],
+  "geometry": {"coordinates":[80.0453,6.399],"type":"Point"}
+}

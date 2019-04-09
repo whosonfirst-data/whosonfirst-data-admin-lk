@@ -1,0 +1,66 @@
+{
+  "id": 1242796539,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"80.94525,6.79438,80.94525,6.79438",
+    "geom:latitude":6.79438,
+    "geom:longitude":80.94525,
+    "gn:asciiname":"Werellapathana",
+    "gn:country_code":"LK",
+    "gn:dem":1236,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10226994,
+    "gn:latitude":6.79438,
+    "gn:longitude":80.94525,
+    "gn:modification_date":"2015-04-11",
+    "gn:name":"Werellapathana",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632313,
+        85673801,
+        1092059183
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10226994
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"7ca31f27966ae13d4ee503b978313cd7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "county_id":1092059183,
+            "locality_id":1242796539,
+            "region_id":85673801
+        }
+    ],
+    "wof:id":1242796539,
+    "wof:lastmodified":1536748117,
+    "wof:name":"Werellapathana",
+    "wof:parent_id":1092059183,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    80.94525,
+    6.79438,
+    80.94525,
+    6.79438
+],
+  "geometry": {"coordinates":[80.94525,6.79438],"type":"Point"}
+}

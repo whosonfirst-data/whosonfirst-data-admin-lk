@@ -1,0 +1,71 @@
+{
+  "id": 1293534723,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"80.2494,6.0148,80.2494,6.0148",
+    "geom:latitude":6.0148,
+    "geom:longitude":80.2494,
+    "gn:admin1_code":"34.0",
+    "gn:asciiname":"Ilukpitiya",
+    "gn:country_code":"LK",
+    "gn:dem":12,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1243176,
+    "gn:latitude":6.0148,
+    "gn:longitude":80.2494,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Ilukpitiya",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Illukpitiya",
+        "Ilukpitiya"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632313,
+        85673789,
+        1092058935
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1243176
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"f3391b013a7d50b037d8a44b72883711",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "county_id":1092058935,
+            "locality_id":1293534723,
+            "region_id":85673789
+        }
+    ],
+    "wof:id":1293534723,
+    "wof:lastmodified":1537661527,
+    "wof:name":"Ilukpitiya",
+    "wof:parent_id":1092058935,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    80.2494,
+    6.0148,
+    80.2494,
+    6.0148
+],
+  "geometry": {"coordinates":[80.24939999999999,6.0148],"type":"Point"}
+}

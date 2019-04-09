@@ -1,0 +1,61 @@
+{
+  "id": 1326984073,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"80.65,5.95,80.65,5.95",
+    "geom:latitude":5.95,
+    "geom:longitude":80.65,
+    "gn:admin1_code":"34.0",
+    "gn:asciiname":"Godauda",
+    "gn:country_code":"LK",
+    "gn:dem":-9999,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1245553,
+    "gn:latitude":5.95,
+    "gn:longitude":80.65,
+    "gn:modification_date":"1994-01-08",
+    "gn:name":"Godauda",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1245553
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"c6ffd61da520e2e7d2f77a7b40e416db",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1326984073,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1326984073,
+    "wof:lastmodified":1536829323,
+    "wof:name":"Godauda",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    80.65,
+    5.95,
+    80.65,
+    5.95
+],
+  "geometry": {"coordinates":[80.65000000000001,5.95],"type":"Point"}
+}

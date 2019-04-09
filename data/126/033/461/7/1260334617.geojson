@@ -1,0 +1,67 @@
+{
+  "id": 1260334617,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"80.1654,8.5027,80.1654,8.5027",
+    "geom:latitude":8.5027,
+    "geom:longitude":80.1654,
+    "gn:admin1_code":"30.0",
+    "gn:asciiname":"Track Four",
+    "gn:country_code":"LK",
+    "gn:dem":47,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7440550,
+    "gn:latitude":8.5027,
+    "gn:longitude":80.1654,
+    "gn:modification_date":"2010-08-07",
+    "gn:name":"Track Four",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632313,
+        85673751,
+        1092062291
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7440550
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"b52f70b13c4c76ef5cf087a12cb25611",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "county_id":1092062291,
+            "locality_id":1260334617,
+            "region_id":85673751
+        }
+    ],
+    "wof:id":1260334617,
+    "wof:lastmodified":1536642779,
+    "wof:name":"Track Four",
+    "wof:parent_id":1092062291,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    80.1654,
+    8.5027,
+    80.1654,
+    8.5027
+],
+  "geometry": {"coordinates":[80.16540000000001,8.5027],"type":"Point"}
+}

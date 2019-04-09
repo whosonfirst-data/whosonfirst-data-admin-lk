@@ -1,0 +1,70 @@
+{
+  "id": 1310245467,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"81.2132,7.1085,81.2132,7.1085",
+    "geom:latitude":7.1085,
+    "geom:longitude":81.2132,
+    "gn:admin1_code":"35.0",
+    "gn:asciiname":"Itanawatte",
+    "gn:country_code":"LK",
+    "gn:dem":298,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1242891,
+    "gn:latitude":7.1085,
+    "gn:longitude":81.2132,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Itanawatte",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Itanawatte Megodagama"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632313,
+        85673803,
+        1092057159
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1242891
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"c7f57f69d5c5dce4638d6f10aba0360b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "county_id":1092057159,
+            "locality_id":1310245467,
+            "region_id":85673803
+        }
+    ],
+    "wof:id":1310245467,
+    "wof:lastmodified":1537661525,
+    "wof:name":"Itanawatte",
+    "wof:parent_id":1092057159,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    81.2132,
+    7.1085,
+    81.2132,
+    7.1085
+],
+  "geometry": {"coordinates":[81.2132,7.1085],"type":"Point"}
+}

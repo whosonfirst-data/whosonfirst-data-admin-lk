@@ -1,0 +1,65 @@
+{
+  "id": 1209255315,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"81.3703,7.0532,81.3703,7.0532",
+    "geom:latitude":7.0532,
+    "geom:longitude":81.3703,
+    "gn:admin1_code":"35.0",
+    "gn:asciiname":"Panguwa",
+    "gn:country_code":"LK",
+    "gn:dem":146,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1231233,
+    "gn:latitude":7.0532,
+    "gn:longitude":81.3703,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Panguwa",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Pangura",
+        "Panguwa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632313
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1231233
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"be9aad213f08b345daaabc4afd6cdb11",
+    "wof:hierarchy":[
+        {
+            "country_id":85632313,
+            "locality_id":1209255315
+        }
+    ],
+    "wof:id":1209255315,
+    "wof:lastmodified":1537661418,
+    "wof:name":"Panguwa",
+    "wof:parent_id":85632313,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    81.3703,
+    7.0532,
+    81.3703,
+    7.0532
+],
+  "geometry": {"coordinates":[81.3703,7.0532],"type":"Point"}
+}

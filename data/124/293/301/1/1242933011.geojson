@@ -1,0 +1,72 @@
+{
+  "id": 1242933011,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"79.8685,7.5969,79.8685,7.5969",
+    "geom:latitude":7.5969,
+    "geom:longitude":79.8685,
+    "gn:admin1_code":"32.0",
+    "gn:asciiname":"Paruppanmulla",
+    "gn:country_code":"LK",
+    "gn:dem":20,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1230878,
+    "gn:latitude":7.5969,
+    "gn:longitude":79.8685,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Paruppanmulla",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Parupanmulla",
+        "Parappamulla",
+        "Paruppanmulla"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632313,
+        85673779,
+        1092057373
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1230878
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"73a9ede7738de1c6ccda7f9e7772931d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "county_id":1092057373,
+            "locality_id":1242933011,
+            "region_id":85673779
+        }
+    ],
+    "wof:id":1242933011,
+    "wof:lastmodified":1537661415,
+    "wof:name":"Paruppanmulla",
+    "wof:parent_id":1092057373,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    79.8685,
+    7.5969,
+    79.8685,
+    7.5969
+],
+  "geometry": {"coordinates":[79.8685,7.5969],"type":"Point"}
+}

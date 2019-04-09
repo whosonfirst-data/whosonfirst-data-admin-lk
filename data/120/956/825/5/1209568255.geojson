@@ -1,0 +1,61 @@
+{
+  "id": 1209568255,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"79.9314,6.8546,79.9314,6.8546",
+    "geom:latitude":6.8546,
+    "geom:longitude":79.9314,
+    "gn:admin1_code":"36.0",
+    "gn:asciiname":"Pamunuwa",
+    "gn:country_code":"LK",
+    "gn:dem":15,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1231421,
+    "gn:latitude":6.8546,
+    "gn:longitude":79.9314,
+    "gn:modification_date":"1994-01-08",
+    "gn:name":"Pamunuwa",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632313
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1231421
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"3e585b388bc181f5e266271c90329f3e",
+    "wof:hierarchy":[
+        {
+            "country_id":85632313,
+            "locality_id":1209568255
+        }
+    ],
+    "wof:id":1209568255,
+    "wof:lastmodified":1536283168,
+    "wof:name":"Pamunuwa",
+    "wof:parent_id":85632313,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    79.9314,
+    6.8546,
+    79.9314,
+    6.8546
+],
+  "geometry": {"coordinates":[79.9314,6.8546],"type":"Point"}
+}

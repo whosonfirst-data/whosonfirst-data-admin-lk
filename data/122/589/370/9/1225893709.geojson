@@ -1,0 +1,67 @@
+{
+  "id": 1225893709,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"80.1938,8.1201,80.1938,8.1201",
+    "geom:latitude":8.1201,
+    "geom:longitude":80.1938,
+    "gn:admin1_code":"32.0",
+    "gn:asciiname":"Rajanganaya Track One",
+    "gn:country_code":"LK",
+    "gn:dem":76,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7435978,
+    "gn:latitude":8.1201,
+    "gn:longitude":80.1938,
+    "gn:modification_date":"2010-08-07",
+    "gn:name":"Rajanganaya Track One",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632313,
+        85673777,
+        1092058781
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7435978
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"37c83066a319ecc1fb5f1cec75307006",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "county_id":1092058781,
+            "locality_id":1225893709,
+            "region_id":85673777
+        }
+    ],
+    "wof:id":1225893709,
+    "wof:lastmodified":1536945111,
+    "wof:name":"Rajanganaya Track One",
+    "wof:parent_id":1092058781,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    80.1938,
+    8.1201,
+    80.1938,
+    8.1201
+],
+  "geometry": {"coordinates":[80.1938,8.1201],"type":"Point"}
+}

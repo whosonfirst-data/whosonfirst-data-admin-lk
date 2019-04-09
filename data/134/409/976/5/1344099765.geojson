@@ -1,0 +1,67 @@
+{
+  "id": 1344099765,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"81.28333,8.4,81.28333,8.4",
+    "geom:latitude":8.4,
+    "geom:longitude":81.28333,
+    "gn:admin1_code":"37.0",
+    "gn:asciiname":"Padditidal",
+    "gn:country_code":"LK",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1232431,
+    "gn:latitude":8.4,
+    "gn:longitude":81.28333,
+    "gn:modification_date":"2012-04-05",
+    "gn:name":"Padditidal",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632313,
+        85673747,
+        1092063685
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1232431
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"2190e128b4f5e724c870dcc2e4bff7e5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "county_id":1092063685,
+            "locality_id":1344099765,
+            "region_id":85673747
+        }
+    ],
+    "wof:id":1344099765,
+    "wof:lastmodified":1536818061,
+    "wof:name":"Padditidal",
+    "wof:parent_id":1092063685,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    81.28333,
+    8.4,
+    81.28333,
+    8.4
+],
+  "geometry": {"coordinates":[81.28333000000001,8.4],"type":"Point"}
+}

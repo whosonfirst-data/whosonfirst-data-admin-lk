@@ -1,0 +1,67 @@
+{
+  "id": 1343908671,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"80.8338,7.1575,80.8338,7.1575",
+    "geom:latitude":7.1575,
+    "geom:longitude":80.8338,
+    "gn:admin1_code":"29.0",
+    "gn:asciiname":"Endiribedda",
+    "gn:country_code":"LK",
+    "gn:dem":423,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7474444,
+    "gn:latitude":7.1575,
+    "gn:longitude":80.8338,
+    "gn:modification_date":"2010-08-08",
+    "gn:name":"Endiribedda",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632313,
+        85673731,
+        1092059139
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7474444
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"43236a73b8c6883617ff99e046614e1e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "county_id":1092059139,
+            "locality_id":1343908671,
+            "region_id":85673731
+        }
+    ],
+    "wof:id":1343908671,
+    "wof:lastmodified":1537091646,
+    "wof:name":"Endiribedda",
+    "wof:parent_id":1092059139,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    80.8338,
+    7.1575,
+    80.8338,
+    7.1575
+],
+  "geometry": {"coordinates":[80.8338,7.1575],"type":"Point"}
+}

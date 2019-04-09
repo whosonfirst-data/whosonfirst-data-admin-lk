@@ -1,0 +1,72 @@
+{
+  "id": 1327185707,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"79.75,9.1,79.75,9.1",
+    "geom:latitude":9.1,
+    "geom:longitude":79.75,
+    "gn:admin1_code":"38.0",
+    "gn:asciiname":"Upputtaravai",
+    "gn:country_code":"LK",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1225439,
+    "gn:latitude":9.1,
+    "gn:longitude":79.75,
+    "gn:modification_date":"2012-04-05",
+    "gn:name":"Upputtaravai",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Upputharavai",
+        "Upputtaravai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632313,
+        85673761,
+        1092062683
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1225439,
+        "wk:page":"Upputtaravai"
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"a79e59e00dd61c961b02d78ad0680716",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "county_id":1092062683,
+            "locality_id":1327185707,
+            "region_id":85673761
+        }
+    ],
+    "wof:id":1327185707,
+    "wof:lastmodified":1537661354,
+    "wof:name":"Upputtaravai",
+    "wof:parent_id":1092062683,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    79.75,
+    9.1,
+    79.75,
+    9.1
+],
+  "geometry": {"coordinates":[79.75,9.1],"type":"Point"}
+}

@@ -1,0 +1,65 @@
+{
+  "id": 1209157599,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"81.6715,7.738,81.6715,7.738",
+    "geom:latitude":7.738,
+    "geom:longitude":81.6715,
+    "gn:admin1_code":"37.0",
+    "gn:asciiname":"Kokkuvil",
+    "gn:country_code":"LK",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1239706,
+    "gn:latitude":7.738,
+    "gn:longitude":81.6715,
+    "gn:modification_date":"2012-04-05",
+    "gn:name":"Kokkuvil",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kokuvil",
+        "Kokkuvil"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632313
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1239706
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"e4feec9588928b301b345ef1298b43e5",
+    "wof:hierarchy":[
+        {
+            "country_id":85632313,
+            "locality_id":1209157599
+        }
+    ],
+    "wof:id":1209157599,
+    "wof:lastmodified":1537661497,
+    "wof:name":"Kokkuvil",
+    "wof:parent_id":85632313,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    81.6715,
+    7.738,
+    81.6715,
+    7.738
+],
+  "geometry": {"coordinates":[81.67149999999999,7.738],"type":"Point"}
+}

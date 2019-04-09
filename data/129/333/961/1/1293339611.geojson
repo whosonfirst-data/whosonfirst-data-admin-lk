@@ -1,0 +1,67 @@
+{
+  "id": 1293339611,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"80.2174,7.6702,80.2174,7.6702",
+    "geom:latitude":7.6702,
+    "geom:longitude":80.2174,
+    "gn:admin1_code":"32.0",
+    "gn:asciiname":"Heratgama",
+    "gn:country_code":"LK",
+    "gn:dem":77,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1244309,
+    "gn:latitude":7.6702,
+    "gn:longitude":80.2174,
+    "gn:modification_date":"1994-01-08",
+    "gn:name":"Heratgama",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632313,
+        85673777,
+        1092067685
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1244309
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"fa0a279c34a0170eb7fd964b390361bd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "county_id":1092067685,
+            "locality_id":1293339611,
+            "region_id":85673777
+        }
+    ],
+    "wof:id":1293339611,
+    "wof:lastmodified":1536999605,
+    "wof:name":"Heratgama",
+    "wof:parent_id":1092067685,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    80.2174,
+    7.6702,
+    80.2174,
+    7.6702
+],
+  "geometry": {"coordinates":[80.2174,7.6702],"type":"Point"}
+}

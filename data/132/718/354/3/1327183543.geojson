@@ -1,0 +1,71 @@
+{
+  "id": 1327183543,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"79.9651,7.9007,79.9651,7.9007",
+    "geom:latitude":7.9007,
+    "geom:longitude":79.9651,
+    "gn:admin1_code":"32.0",
+    "gn:asciiname":"Naikkulama",
+    "gn:country_code":"LK",
+    "gn:dem":52,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1233920,
+    "gn:latitude":7.9007,
+    "gn:longitude":79.9651,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Naikkulama",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Nayikkulama",
+        "Naikkulama"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632313,
+        85673779,
+        1092056611
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1233920
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"605c1ae3ce0f0e8e98a550d01fb6f70b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "county_id":1092056611,
+            "locality_id":1327183543,
+            "region_id":85673779
+        }
+    ],
+    "wof:id":1327183543,
+    "wof:lastmodified":1537661445,
+    "wof:name":"Naikkulama",
+    "wof:parent_id":1092056611,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    79.9651,
+    7.9007,
+    79.9651,
+    7.9007
+],
+  "geometry": {"coordinates":[79.96510000000001,7.9007],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1192958395,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"79.9016,7.261,79.9016,7.261",
+    "geom:latitude":7.261,
+    "geom:longitude":79.9016,
+    "gn:admin1_code":"36.0",
+    "gn:asciiname":"Duriyangashandiya",
+    "gn:country_code":"LK",
+    "gn:dem":18,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7437657,
+    "gn:latitude":7.261,
+    "gn:longitude":79.9016,
+    "gn:modification_date":"2010-08-07",
+    "gn:name":"Duriyangashandiya",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632313,
+        85673815,
+        1092060643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7437657
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"185e305c2b32c2ed1f9853814d579ea9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "county_id":1092060643,
+            "locality_id":1192958395,
+            "region_id":85673815
+        }
+    ],
+    "wof:id":1192958395,
+    "wof:lastmodified":1536367811,
+    "wof:name":"Duriyangashandiya",
+    "wof:parent_id":1092060643,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    79.9016,
+    7.261,
+    79.9016,
+    7.261
+],
+  "geometry": {"coordinates":[79.9016,7.261],"type":"Point"}
+}

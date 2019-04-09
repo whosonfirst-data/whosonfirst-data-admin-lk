@@ -1,0 +1,67 @@
+{
+  "id": 1326791173,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-07",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"80.4401,8.5152,80.4401,8.5152",
+    "geom:latitude":8.5152,
+    "geom:longitude":80.4401,
+    "gn:admin1_code":"30.0",
+    "gn:asciiname":"Migahawewa",
+    "gn:country_code":"LK",
+    "gn:dem":69,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":1235159,
+    "gn:latitude":8.5152,
+    "gn:longitude":80.4401,
+    "gn:modification_date":"1994-01-08",
+    "gn:name":"Migahawewa",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632313,
+        85673751,
+        1092063139
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1235159
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"ea8cc7d4a930aeb7b2a636eb4cdfdfae",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "county_id":1092063139,
+            "locality_id":1326791173,
+            "region_id":85673751
+        }
+    ],
+    "wof:id":1326791173,
+    "wof:lastmodified":1536608150,
+    "wof:name":"Migahawewa",
+    "wof:parent_id":1092063139,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    80.4401,
+    8.5152,
+    80.4401,
+    8.5152
+],
+  "geometry": {"coordinates":[80.4401,8.5152],"type":"Point"}
+}

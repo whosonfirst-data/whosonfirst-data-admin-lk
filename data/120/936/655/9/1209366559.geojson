@@ -1,0 +1,65 @@
+{
+  "id": 1209366559,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"81.28333,8.45,81.28333,8.45",
+    "geom:latitude":8.45,
+    "geom:longitude":81.28333,
+    "gn:admin1_code":"37.0",
+    "gn:asciiname":"Kaddaiparichchan",
+    "gn:country_code":"LK",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1242635,
+    "gn:latitude":8.45,
+    "gn:longitude":81.28333,
+    "gn:modification_date":"2012-04-05",
+    "gn:name":"Kaddaiparichchan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kaddaiparichan",
+        "Kaddaiparichchan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632313
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1242635
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"5a7fcd16c86397a5ba8ceed6921fe262",
+    "wof:hierarchy":[
+        {
+            "country_id":85632313,
+            "locality_id":1209366559
+        }
+    ],
+    "wof:id":1209366559,
+    "wof:lastmodified":1537661523,
+    "wof:name":"Kaddaiparichchan",
+    "wof:parent_id":85632313,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    81.28333,
+    8.45,
+    81.28333,
+    8.45
+],
+  "geometry": {"coordinates":[81.28333000000001,8.45],"type":"Point"}
+}

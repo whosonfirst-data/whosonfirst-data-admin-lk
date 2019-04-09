@@ -1,0 +1,67 @@
+{
+  "id": 1327070829,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"81.049,6.5716,81.049,6.5716",
+    "geom:latitude":6.5716,
+    "geom:longitude":81.049,
+    "gn:admin1_code":"35.0",
+    "gn:asciiname":"Balaharuwa",
+    "gn:country_code":"LK",
+    "gn:dem":124,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1250515,
+    "gn:latitude":6.5716,
+    "gn:longitude":81.049,
+    "gn:modification_date":"1994-01-08",
+    "gn:name":"Balaharuwa",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632313,
+        85673803,
+        1092068087
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1250515
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"73d19e13ca57f20eddd292175456a1ca",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "county_id":1092068087,
+            "locality_id":1327070829,
+            "region_id":85673803
+        }
+    ],
+    "wof:id":1327070829,
+    "wof:lastmodified":1536705231,
+    "wof:name":"Balaharuwa",
+    "wof:parent_id":1092068087,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    81.04899999999998,
+    6.5716,
+    81.04899999999998,
+    6.5716
+],
+  "geometry": {"coordinates":[81.04899999999998,6.5716],"type":"Point"}
+}

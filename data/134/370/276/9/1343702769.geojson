@@ -1,0 +1,67 @@
+{
+  "id": 1343702769,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"80.5844,6.103,80.5844,6.103",
+    "geom:latitude":6.103,
+    "geom:longitude":80.5844,
+    "gn:admin1_code":"34.0",
+    "gn:asciiname":"Iriyatota",
+    "gn:country_code":"LK",
+    "gn:dem":80,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1242921,
+    "gn:latitude":6.103,
+    "gn:longitude":80.5844,
+    "gn:modification_date":"1994-01-08",
+    "gn:name":"Iriyatota",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632313,
+        85673795,
+        1092060281
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1242921
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"a2ffa3803b08dc838f701c48c65b4cc5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "county_id":1092060281,
+            "locality_id":1343702769,
+            "region_id":85673795
+        }
+    ],
+    "wof:id":1343702769,
+    "wof:lastmodified":1536893784,
+    "wof:name":"Iriyatota",
+    "wof:parent_id":1092060281,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    80.5844,
+    6.103,
+    80.5844,
+    6.103
+],
+  "geometry": {"coordinates":[80.5844,6.103],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1226502131,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"79.8699,7.4243,79.8699,7.4243",
+    "geom:latitude":7.4243,
+    "geom:longitude":79.8699,
+    "gn:admin1_code":"32.0",
+    "gn:asciiname":"Uldiyakanatta",
+    "gn:country_code":"LK",
+    "gn:dem":23,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7437642,
+    "gn:latitude":7.4243,
+    "gn:longitude":79.8699,
+    "gn:modification_date":"2010-08-07",
+    "gn:name":"Uldiyakanatta",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632313,
+        85673779,
+        1092063911
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7437642
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"5b9eab5d3228f59a1bd0bc7b27b61f87",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "county_id":1092063911,
+            "locality_id":1226502131,
+            "region_id":85673779
+        }
+    ],
+    "wof:id":1226502131,
+    "wof:lastmodified":1537058491,
+    "wof:name":"Uldiyakanatta",
+    "wof:parent_id":1092063911,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    79.8699,
+    7.4243,
+    79.8699,
+    7.4243
+],
+  "geometry": {"coordinates":[79.8699,7.4243],"type":"Point"}
+}

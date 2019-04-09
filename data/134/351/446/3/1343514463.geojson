@@ -1,0 +1,70 @@
+{
+  "id": 1343514463,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"79.9211,6.8218,79.9211,6.8218",
+    "geom:latitude":6.8218,
+    "geom:longitude":79.9211,
+    "gn:admin1_code":"36.0",
+    "gn:asciiname":"Kaliyammahara",
+    "gn:country_code":"LK",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1242215,
+    "gn:latitude":6.8218,
+    "gn:longitude":79.9211,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Kaliyammahara",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kaliammahara"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632313,
+        85673811,
+        1092060885
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1242215
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"8333d7ba803b3720ba4e86a11c9794e5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "county_id":1092060885,
+            "locality_id":1343514463,
+            "region_id":85673811
+        }
+    ],
+    "wof:id":1343514463,
+    "wof:lastmodified":1537661518,
+    "wof:name":"Kaliyammahara",
+    "wof:parent_id":1092060885,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    79.9211,
+    6.8218,
+    79.9211,
+    6.8218
+],
+  "geometry": {"coordinates":[79.9211,6.8218],"type":"Point"}
+}

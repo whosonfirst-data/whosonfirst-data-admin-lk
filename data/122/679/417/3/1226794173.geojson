@@ -1,0 +1,67 @@
+{
+  "id": 1226794173,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"81.1692,7.1561,81.1692,7.1561",
+    "geom:latitude":7.1561,
+    "geom:longitude":81.1692,
+    "gn:admin1_code":"35.0",
+    "gn:asciiname":"Kanulawa",
+    "gn:country_code":"LK",
+    "gn:dem":293,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7441127,
+    "gn:latitude":7.1561,
+    "gn:longitude":81.1692,
+    "gn:modification_date":"2010-08-07",
+    "gn:name":"Kanulawa",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632313,
+        85673803,
+        1092057159
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7441127
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"36d5a8155e47d9dbdbb71d2329094ebe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "county_id":1092057159,
+            "locality_id":1226794173,
+            "region_id":85673803
+        }
+    ],
+    "wof:id":1226794173,
+    "wof:lastmodified":1536645312,
+    "wof:name":"Kanulawa",
+    "wof:parent_id":1092057159,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    81.1692,
+    7.1561,
+    81.1692,
+    7.1561
+],
+  "geometry": {"coordinates":[81.1692,7.1561],"type":"Point"}
+}

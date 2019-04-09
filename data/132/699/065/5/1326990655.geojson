@@ -1,0 +1,70 @@
+{
+  "id": 1326990655,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"80.634,8.0022,80.634,8.0022",
+    "geom:latitude":8.0022,
+    "geom:longitude":80.634,
+    "gn:admin1_code":"30.0",
+    "gn:asciiname":"Uda Korasagolla",
+    "gn:country_code":"LK",
+    "gn:dem":164,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1226012,
+    "gn:latitude":8.0022,
+    "gn:longitude":80.634,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Uda Korasagolla",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Uda Korasagalla"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632313,
+        85673751,
+        1092060793
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1226012
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"3b71d2c121ebf9d03e613145e405e55c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "county_id":1092060793,
+            "locality_id":1326990655,
+            "region_id":85673751
+        }
+    ],
+    "wof:id":1326990655,
+    "wof:lastmodified":1537661361,
+    "wof:name":"Uda Korasagolla",
+    "wof:parent_id":1092060793,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    80.634,
+    8.0022,
+    80.634,
+    8.0022
+],
+  "geometry": {"coordinates":[80.634,8.0022],"type":"Point"}
+}

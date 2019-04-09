@@ -1,0 +1,61 @@
+{
+  "id": 1209254851,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"79.889,6.9458,79.889,6.9458",
+    "geom:latitude":6.9458,
+    "geom:longitude":79.889,
+    "gn:admin1_code":"36.0",
+    "gn:asciiname":"Kotuwila",
+    "gn:country_code":"LK",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1238951,
+    "gn:latitude":6.9458,
+    "gn:longitude":79.889,
+    "gn:modification_date":"2000-07-11",
+    "gn:name":"Kotuwila",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632313
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1238951
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"fb44b559ecd65df765fd355cf63acfd0",
+    "wof:hierarchy":[
+        {
+            "country_id":85632313,
+            "locality_id":1209254851
+        }
+    ],
+    "wof:id":1209254851,
+    "wof:lastmodified":1536292886,
+    "wof:name":"Kotuwila",
+    "wof:parent_id":85632313,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    79.889,
+    6.9458,
+    79.889,
+    6.9458
+],
+  "geometry": {"coordinates":[79.889,6.9458],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1226488813,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"80.7447,8.3949,80.7447,8.3949",
+    "geom:latitude":8.3949,
+    "geom:longitude":80.7447,
+    "gn:admin1_code":"30.0",
+    "gn:asciiname":"Hettuwewa",
+    "gn:country_code":"LK",
+    "gn:dem":97,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1244250,
+    "gn:latitude":8.3949,
+    "gn:longitude":80.7447,
+    "gn:modification_date":"1994-01-08",
+    "gn:name":"Hettuwewa",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632313,
+        85673751,
+        1092060031
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1244250
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"461a5fd79e23caac2ea594ba36e2e7d9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "county_id":1092060031,
+            "locality_id":1226488813,
+            "region_id":85673751
+        }
+    ],
+    "wof:id":1226488813,
+    "wof:lastmodified":1537077010,
+    "wof:name":"Hettuwewa",
+    "wof:parent_id":1092060031,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    80.7447,
+    8.3949,
+    80.7447,
+    8.3949
+],
+  "geometry": {"coordinates":[80.74469999999999,8.3949],"type":"Point"}
+}

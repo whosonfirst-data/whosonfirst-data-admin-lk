@@ -1,0 +1,72 @@
+{
+  "id": 1276810631,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"80.815,9.268,80.815,9.268",
+    "geom:latitude":9.268,
+    "geom:longitude":80.815,
+    "gn:admin1_code":"38.0",
+    "gn:asciiname":"Mullaittivu",
+    "gn:country_code":"LK",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1234393,
+    "gn:latitude":9.268,
+    "gn:longitude":80.815,
+    "gn:modification_date":"2012-04-05",
+    "gn:name":"Mullaittivu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mullaitivu",
+        "Mullaittivu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632313,
+        85673765,
+        1092062793
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1234393,
+        "wk:page":"Mullaitivu"
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"0a6993e82f1d2a76fd9c5cf140c7e940",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "county_id":1092062793,
+            "locality_id":1276810631,
+            "region_id":85673765
+        }
+    ],
+    "wof:id":1276810631,
+    "wof:lastmodified":1537661450,
+    "wof:name":"Mullaittivu",
+    "wof:parent_id":1092062793,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    80.815,
+    9.268,
+    80.815,
+    9.268
+],
+  "geometry": {"coordinates":[80.815,9.268],"type":"Point"}
+}

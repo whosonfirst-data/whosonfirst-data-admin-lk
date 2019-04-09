@@ -1,0 +1,71 @@
+{
+  "id": 1243110333,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"81.6586,7.6788,81.6586,7.6788",
+    "geom:latitude":7.6788,
+    "geom:longitude":81.6586,
+    "gn:admin1_code":"37.0",
+    "gn:asciiname":"Kayanmadukandam",
+    "gn:country_code":"LK",
+    "gn:dem":6,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1240791,
+    "gn:latitude":7.6788,
+    "gn:longitude":81.6586,
+    "gn:modification_date":"2012-04-05",
+    "gn:name":"Kayanmadukandam",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kayanmadukkandam",
+        "Kayanmadukandam"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632313,
+        85673737,
+        1092062635
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1240791
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"9408d79ab8642926f9acb3db78bd5dac",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "county_id":1092062635,
+            "locality_id":1243110333,
+            "region_id":85673737
+        }
+    ],
+    "wof:id":1243110333,
+    "wof:lastmodified":1537661506,
+    "wof:name":"Kayanmadukandam",
+    "wof:parent_id":1092062635,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    81.6586,
+    7.6788,
+    81.6586,
+    7.6788
+],
+  "geometry": {"coordinates":[81.65860000000001,7.6788],"type":"Point"}
+}

@@ -1,0 +1,120 @@
+{
+  "id": 85772761,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-15",
+    "edtf:inception":"uuuu",
+    "edtf:superseded":"2018-08-15",
+    "geom:area":0.0,
+    "geom:area_square_m":5001634.455826,
+    "geom:bbox":"79.871427,6.937125,79.871427,6.937125",
+    "geom:latitude":6.937125,
+    "geom:longitude":79.871427,
+    "gn:latitude":6.9271,
+    "gn:longitude":79.8665,
+    "iso:country":"LK",
+    "lbl:latitude":6.937125,
+    "lbl:longitude":79.871427,
+    "mps:latitude":6.937923,
+    "mps:longitude":79.872641,
+    "mz:hierarchy_label":0,
+    "mz:is_current":0,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":13.0,
+    "mz:tier_locality":2,
+    "name:eng_x_preferred":[
+        "Maradana"
+    ],
+    "name:sin_x_preferred":[
+        "\u0db8\u0dbb\u0daf\u0dcf\u0db1"
+    ],
+    "name:tam_x_preferred":[
+        "\u0bae\u0bb0\u0bc1\u0ba4\u0bbe\u0ba9\u0bc8"
+    ],
+    "name:unk_x_variant":[
+        "Maradana"
+    ],
+    "qs:gn_adm0_cc":"LK",
+    "qs:gn_fcode":"PPLX",
+    "qs:gn_local":1248991,
+    "qs:gn_nam_loc":"Colombo, Colombo, Western, LK",
+    "qs:gn_namadm1":"36",
+    "qs:gn_name":"Maradana",
+    "qs:local_max":2559,
+    "qs:local_sum":8835,
+    "qs:localhoods":10,
+    "qs:name":"Maradana",
+    "qs:name_adm0":"Sri Lanka",
+    "qs:name_adm1":"Western",
+    "qs:name_adm2":"Colombo",
+    "qs:name_local":"Colombo",
+    "qs:photo_max":225,
+    "qs:photo_sum":329,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":14,
+    "qs:woe_adm0":23424778,
+    "qs:woe_adm1":2344966,
+    "qs:woe_adm2":23706493,
+    "qs:woe_lau":0,
+    "qs:woe_local":2189783,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"mz",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"yerbashapes",
+    "wd:wordcount":230,
+    "wof:belongsto":[
+        85673811,
+        102191569,
+        85632313,
+        1092057419
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1236097,
+        "gp:id":2182276,
+        "qs:id":222738,
+        "wd:id":"Q6754586",
+        "wk:page":"Maradana"
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"b10aa9ea3a1f8ca640302dbe5b1127f3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "county_id":1092057419,
+            "locality_id":-1,
+            "neighbourhood_id":85772761,
+            "region_id":85673811
+        }
+    ],
+    "wof:id":85772761,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1534379377,
+    "wof:name":"Maradana",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[
+        1126093157
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    79.871427,
+    6.937125,
+    79.871427,
+    6.937125
+],
+  "geometry": {"coordinates":[79.871427,6.937125],"type":"Point"}
+}

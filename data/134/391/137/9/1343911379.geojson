@@ -1,0 +1,71 @@
+{
+  "id": 1343911379,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"80.8761,6.7662,80.8761,6.7662",
+    "geom:latitude":6.7662,
+    "geom:longitude":80.8761,
+    "gn:admin1_code":"35.0",
+    "gn:asciiname":"Ginigatgala",
+    "gn:country_code":"LK",
+    "gn:dem":1167,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1245710,
+    "gn:latitude":6.7662,
+    "gn:longitude":80.8761,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Ginigatgala",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ginigathgala",
+        "Ginigatgala"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632313,
+        85673801,
+        1092058997
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1245710
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"b37d78eae8f005a9cbcd2a67c7209b4a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "county_id":1092058997,
+            "locality_id":1343911379,
+            "region_id":85673801
+        }
+    ],
+    "wof:id":1343911379,
+    "wof:lastmodified":1537661550,
+    "wof:name":"Ginigatgala",
+    "wof:parent_id":1092058997,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    80.8761,
+    6.7662,
+    80.8761,
+    6.7662
+],
+  "geometry": {"coordinates":[80.87609999999999,6.7662],"type":"Point"}
+}

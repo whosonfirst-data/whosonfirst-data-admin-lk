@@ -1,0 +1,70 @@
+{
+  "id": 1344097227,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"81.1831,6.8578,81.1831,6.8578",
+    "geom:latitude":6.8578,
+    "geom:longitude":81.1831,
+    "gn:admin1_code":"35.0",
+    "gn:asciiname":"Palleranugolla",
+    "gn:country_code":"LK",
+    "gn:dem":504,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1231703,
+    "gn:latitude":6.8578,
+    "gn:longitude":81.1831,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Palleranugolla",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Palle Ranugalla"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632313,
+        85673803,
+        1092056763
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1231703
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"1c2436f3994ce16c44412734cfd2fd00",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "county_id":1092056763,
+            "locality_id":1344097227,
+            "region_id":85673803
+        }
+    ],
+    "wof:id":1344097227,
+    "wof:lastmodified":1537661422,
+    "wof:name":"Palleranugolla",
+    "wof:parent_id":1092056763,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    81.1831,
+    6.8578,
+    81.1831,
+    6.8578
+],
+  "geometry": {"coordinates":[81.1831,6.8578],"type":"Point"}
+}

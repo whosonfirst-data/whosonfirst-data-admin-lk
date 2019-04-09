@@ -1,0 +1,67 @@
+{
+  "id": 1309757545,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"79.83333,9.08333,79.83333,9.08333",
+    "geom:latitude":9.08333,
+    "geom:longitude":79.83333,
+    "gn:admin1_code":"38.0",
+    "gn:asciiname":"Chiruttoppu",
+    "gn:country_code":"LK",
+    "gn:dem":6,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1249085,
+    "gn:latitude":9.08333,
+    "gn:longitude":79.83333,
+    "gn:modification_date":"2012-04-05",
+    "gn:name":"Chiruttoppu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632313,
+        85673761,
+        1092062683
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1249085
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"b7e0caff7d51b94cbc3c52ba45c886ea",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "county_id":1092062683,
+            "locality_id":1309757545,
+            "region_id":85673761
+        }
+    ],
+    "wof:id":1309757545,
+    "wof:lastmodified":1537000035,
+    "wof:name":"Chiruttoppu",
+    "wof:parent_id":1092062683,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    79.83333,
+    9.08333,
+    79.83333,
+    9.08333
+],
+  "geometry": {"coordinates":[79.83333,9.08333],"type":"Point"}
+}

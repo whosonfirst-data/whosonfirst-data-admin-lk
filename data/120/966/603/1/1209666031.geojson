@@ -1,0 +1,61 @@
+{
+  "id": 1209666031,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"80.5161,6.9003,80.5161,6.9003",
+    "geom:latitude":6.9003,
+    "geom:longitude":80.5161,
+    "gn:admin1_code":"29.0",
+    "gn:asciiname":"Laxapanagala Midford",
+    "gn:country_code":"LK",
+    "gn:dem":1040,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7546424,
+    "gn:latitude":6.9003,
+    "gn:longitude":80.5161,
+    "gn:modification_date":"2010-10-09",
+    "gn:name":"Laxapanagala Midford",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632313
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7546424
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"002c1b706e7a24ab8b7c5d72ef64d0a7",
+    "wof:hierarchy":[
+        {
+            "country_id":85632313,
+            "locality_id":1209666031
+        }
+    ],
+    "wof:id":1209666031,
+    "wof:lastmodified":1536280095,
+    "wof:name":"Laxapanagala Midford",
+    "wof:parent_id":85632313,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    80.5161,
+    6.9003,
+    80.5161,
+    6.9003
+],
+  "geometry": {"coordinates":[80.51609999999999,6.9003],"type":"Point"}
+}

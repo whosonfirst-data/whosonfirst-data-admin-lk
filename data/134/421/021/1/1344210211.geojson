@@ -1,0 +1,67 @@
+{
+  "id": 1344210211,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"79.9389,7.0768,79.9389,7.0768",
+    "geom:latitude":7.0768,
+    "geom:longitude":79.9389,
+    "gn:admin1_code":"36.0",
+    "gn:asciiname":"Kudabollate",
+    "gn:country_code":"LK",
+    "gn:dem":24,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7542745,
+    "gn:latitude":7.0768,
+    "gn:longitude":79.9389,
+    "gn:modification_date":"2010-10-09",
+    "gn:name":"Kudabollate",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632313,
+        85673815,
+        1092058643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7542745
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"84bfb627114b32e90eb4bf5c627ef29b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "county_id":1092058643,
+            "locality_id":1344210211,
+            "region_id":85673815
+        }
+    ],
+    "wof:id":1344210211,
+    "wof:lastmodified":1536659712,
+    "wof:name":"Kudabollate",
+    "wof:parent_id":1092058643,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    79.9389,
+    7.0768,
+    79.9389,
+    7.0768
+],
+  "geometry": {"coordinates":[79.9389,7.0768],"type":"Point"}
+}

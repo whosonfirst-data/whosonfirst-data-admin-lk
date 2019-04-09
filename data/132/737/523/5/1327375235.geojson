@@ -1,0 +1,72 @@
+{
+  "id": 1327375235,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"80.4549,7.2242,80.4549,7.2242",
+    "geom:latitude":7.2242,
+    "geom:longitude":80.4549,
+    "gn:admin1_code":"33.0",
+    "gn:asciiname":"Baminiwatta",
+    "gn:country_code":"LK",
+    "gn:dem":217,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1250001,
+    "gn:latitude":7.2242,
+    "gn:longitude":80.4549,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Baminiwatta",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Beminiwatte",
+        "Baminiwatta",
+        "Beminiwatta"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632313,
+        85673807,
+        1092056717
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1250001
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"71df263ccd46bf06d8f0ec5502a86264",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "county_id":1092056717,
+            "locality_id":1327375235,
+            "region_id":85673807
+        }
+    ],
+    "wof:id":1327375235,
+    "wof:lastmodified":1537661588,
+    "wof:name":"Baminiwatta",
+    "wof:parent_id":1092056717,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    80.4549,
+    7.2242,
+    80.4549,
+    7.2242
+],
+  "geometry": {"coordinates":[80.45489999999999,7.2242],"type":"Point"}
+}

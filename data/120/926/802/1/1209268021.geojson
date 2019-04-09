@@ -1,0 +1,61 @@
+{
+  "id": 1209268021,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"81.23333,6.9,81.23333,6.9",
+    "geom:latitude":6.9,
+    "geom:longitude":81.23333,
+    "gn:admin1_code":"35.0",
+    "gn:asciiname":"Talawatta",
+    "gn:country_code":"LK",
+    "gn:dem":372,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1227298,
+    "gn:latitude":6.9,
+    "gn:longitude":81.23333,
+    "gn:modification_date":"1994-01-08",
+    "gn:name":"Talawatta",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632313
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1227298
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"9ab5e82482af14cf4f0330fe713fb14b",
+    "wof:hierarchy":[
+        {
+            "country_id":85632313,
+            "locality_id":1209268021
+        }
+    ],
+    "wof:id":1209268021,
+    "wof:lastmodified":1536292459,
+    "wof:name":"Talawatta",
+    "wof:parent_id":85632313,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    81.23333000000002,
+    6.9,
+    81.23333000000002,
+    6.9
+],
+  "geometry": {"coordinates":[81.23333000000002,6.9],"type":"Point"}
+}

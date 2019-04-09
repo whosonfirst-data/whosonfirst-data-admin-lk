@@ -1,0 +1,466 @@
+{
+  "id": 421182301,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.00115,
+    "geom:area_square_m":14115820.69889,
+    "geom:bbox":"79.8814881228,6.86621452489,79.9200909718,6.92039926527",
+    "geom:latitude":6.892784,
+    "geom:longitude":79.897135,
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_approximate":1,
+    "mz:is_current":1,
+    "mz:min_zoom":5.6,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:ace_x_preferred":[
+        "Sri Jayawardenapura Kotte"
+    ],
+    "name:afr_x_preferred":[
+        "Sri Jayawardenepura"
+    ],
+    "name:ara_x_preferred":[
+        "\u0633\u0631\u064a \u062c\u0627\u064a\u0627\u0648\u0627\u0631\u062f\u0646\u0627\u0628\u0648\u0631\u0627 \u0643\u0648\u062a\u064a"
+    ],
+    "name:ava_x_preferred":[
+        "\u0428\u0440\u0438-\u0414\u0436\u0430\u044f\u0432\u0430\u0440\u0434\u0435\u043d\u0435\u043f\u0443\u0440\u0430-\u041a\u043e\u0442\u0442\u0435"
+    ],
+    "name:aze_x_preferred":[
+        "\u015eri Jayavardenapura Kotte"
+    ],
+    "name:bcl_x_preferred":[
+        "Sri Jayawardenapura Kotte"
+    ],
+    "name:bel_x_variant":[
+        "\u0428\u0440\u044b-\u0414\u0436\u0430\u044f\u0432\u0430\u0440\u0434\u044d\u043d\u044d\u043f\u0443\u0440\u0430-\u041a\u0430\u0442\u044d"
+    ],
+    "name:bos_x_preferred":[
+        "Sri Jayawardenepura Kotte"
+    ],
+    "name:bre_x_preferred":[
+        "Sri Jayawardenapura Kotte"
+    ],
+    "name:bul_x_preferred":[
+        "\u0428\u0440\u0438 \u0414\u0436\u0430\u044f\u0432\u0430\u0440\u0434\u0430\u043d\u0430\u043f\u0443\u0440\u0430 \u041a\u043e\u0442\u0435"
+    ],
+    "name:cat_x_preferred":[
+        "Sri Jayewardenepura"
+    ],
+    "name:ces_x_preferred":[
+        "\u0160r\u00ed D\u017eajavardanapura Kotte"
+    ],
+    "name:che_x_preferred":[
+        "\u0428\u0440\u0438-\u0414\u0436\u0430\u044f\u0432\u0430\u0440\u0434\u0435\u043d\u0435\u043f\u0443\u0440\u0430-\u041a\u043e\u0442\u0442\u0435"
+    ],
+    "name:ckb_x_preferred":[
+        "\u0633\u0631\u06cc \u062c\u0627\u06cc\u0627\u0648\u0627\u0631\u062f\u06ce\u0646\u0627\u067e\u0648\u0631\u0627 \u06a9\u06c6\u062a\u06ce"
+    ],
+    "name:cym_x_preferred":[
+        "Sri Jayawardenapura Kotte"
+    ],
+    "name:dan_x_preferred":[
+        "Sri Jayawardenapura-Kotte"
+    ],
+    "name:deu_x_preferred":[
+        "Sri Jayewardenepura"
+    ],
+    "name:deu_x_variant":[
+        "Sri Jayawardenepura"
+    ],
+    "name:ell_x_preferred":[
+        "\u039a\u03cc\u03c4\u03b5"
+    ],
+    "name:ell_x_variant":[
+        "\u039a\u03bf\u03bb\u03cc\u03bc\u03c0\u03bf"
+    ],
+    "name:eng_x_preferred":[
+        "Kotte"
+    ],
+    "name:eng_x_variant":[
+        "Sri Jayewardenepura Kotte",
+        "New Capital Territory"
+    ],
+    "name:epo_x_preferred":[
+        "Sri Jayawardenapura Kotte"
+    ],
+    "name:est_x_preferred":[
+        "Sri Jayewardenepura Kotte"
+    ],
+    "name:eus_x_preferred":[
+        "Sri Jayawardenapura Kotte"
+    ],
+    "name:fas_x_preferred":[
+        "\u0633\u0631\u06cc \u062c\u0627\u06cc\u0627\u0648\u0627\u0631\u062f\u0646\u067e\u0648\u0631\u0627 \u06a9\u0648\u062a\u0647"
+    ],
+    "name:fin_x_preferred":[
+        "Kotte"
+    ],
+    "name:fra_x_preferred":[
+        "Sri Jayawardenapura Kotte"
+    ],
+    "name:fry_x_preferred":[
+        "Sry Jayewardenapura Kotte"
+    ],
+    "name:gla_x_preferred":[
+        "Sri Jayawardenapura"
+    ],
+    "name:hat_x_preferred":[
+        "Sri Jayawardenapura"
+    ],
+    "name:hbs_x_preferred":[
+        "Sri Jayawardenepura Kotte"
+    ],
+    "name:hif_x_preferred":[
+        "Sri Jayawardenapura-Kotte"
+    ],
+    "name:hin_x_preferred":[
+        "\u0936\u094d\u0930\u0940 \u091c\u092f\u0935\u0930\u094d\u0927\u0928\u0947\u092a\u0941\u0930\u093e \u0915\u094b\u091f"
+    ],
+    "name:hrv_x_preferred":[
+        "Sri Jayawardenepura Kotte"
+    ],
+    "name:hun_x_preferred":[
+        "Sri Jayawardenapura Kotte"
+    ],
+    "name:hye_x_preferred":[
+        "\u0547\u0580\u056b \u054b\u0561\u0575\u0561\u057e\u0561\u0580\u0564\u0565\u0576\u0565\u057a\u0578\u0582\u0580\u0561 \u053f\u0578\u057f\u057f\u0565"
+    ],
+    "name:ilo_x_preferred":[
+        "Sri Jayawardenepura Kotte"
+    ],
+    "name:ind_x_preferred":[
+        "Sri Jayawardenapura Kotte"
+    ],
+    "name:ind_x_variant":[
+        "Kotte"
+    ],
+    "name:isl_x_preferred":[
+        "Sr\u00ed Jajevardenep\u00fara"
+    ],
+    "name:ita_x_preferred":[
+        "Sri Jayawardenapura Kotte"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30b9\u30ea\u30b8\u30e3\u30e4\u30ef\u30eb\u30c0\u30ca\u30d7\u30e9\u30b3\u30c3\u30c6"
+    ],
+    "name:kaa_x_preferred":[
+        "Shri-Jayavardenepura-Kotte"
+    ],
+    "name:kan_x_preferred":[
+        "\u0cb6\u0ccd\u0cb0\u0cc0 \u0c9c\u0caf\u0cb5\u0cb0\u0ccd\u0ca6\u0ca8\u0caa\u0cc1\u0cb0 \u0c95\u0cca\u0c9f\u0ccd\u0c9f\u0cc6"
+    ],
+    "name:kat_x_preferred":[
+        "\u10e8\u10e0\u10d8-\u10ef\u10d0\u10d8\u10d0\u10d5\u10d0\u10e0\u10d3\u10d4\u10dc\u10d4\u10de\u10e3\u10e0\u10d0-\u10d9\u10dd\u10e2\u10d4"
+    ],
+    "name:kir_x_preferred":[
+        "\u0428\u0440\u0438-\u0416\u0430\u044f\u0432\u0430\u0440\u0434\u0435\u043d\u0435\u043f\u0443\u0440\u0430-\u041a\u043e\u0442\u0442\u0435"
+    ],
+    "name:kor_x_preferred":[
+        "\uc2a4\ub9ac\uc790\uc57c\uc640\ub974\ub370\ub124\ud478\ub77c\ucf54\ud14c"
+    ],
+    "name:kor_x_variant":[
+        "\uc2a4\ub9ac\uc790\uc57c\uc640\ub974\ub2e4\ub098\ud478\ub77c"
+    ],
+    "name:lat_x_preferred":[
+        "Sri Jayawardenapura Kotte"
+    ],
+    "name:lav_x_preferred":[
+        "Kote"
+    ],
+    "name:lit_x_preferred":[
+        "\u0160ri D\u017eajavardenepura"
+    ],
+    "name:ltz_x_preferred":[
+        "Sri Jayawardenepura"
+    ],
+    "name:mai_x_preferred":[
+        "\u0936\u094d\u0930\u0940 \u091c\u092f\u0935\u0930\u094d\u0926\u0947\u0928\u093e\u092a\u0941\u0930\u093e \u0915\u094b\u091f\u094d\u091f\u0947"
+    ],
+    "name:mal_x_preferred":[
+        "\u0d36\u0d4d\u0d30\u0d40 \u0d1c\u0d2f\u0d35\u0d7c\u0d26\u0d28\u0d46\u0d2a\u0d41\u0d30\u0d46 \u0d15\u0d4b\u0d1f\u0d4d\u0d1f\u0d46"
+    ],
+    "name:mar_x_preferred":[
+        "\u0936\u094d\u0930\u0940 \u091c\u092f\u0935\u0930\u094d\u0927\u0928\u0947\u092a\u0941\u0930\u093e \u0915\u094b\u091f"
+    ],
+    "name:mkd_x_preferred":[
+        "\u0428\u0440\u0438 \u040f\u0430\u0458\u0430\u0432\u0430\u0440\u0434\u0435\u043d\u0430\u043f\u0443\u0440\u0430 \u041a\u043e\u0442\u0435"
+    ],
+    "name:msa_x_preferred":[
+        "Sri Jayawardenapura-Kotte"
+    ],
+    "name:nep_x_preferred":[
+        "\u0936\u094d\u0930\u0940 \u091c\u092f\u0935\u0930\u094d\u0926\u0928\u0947\u092a\u0941\u0930\u093e \u0915\u094b\u091f\u0947"
+    ],
+    "name:nld_x_preferred":[
+        "Sri Jayewardenapura Kotte"
+    ],
+    "name:nld_x_variant":[
+        "Kotte"
+    ],
+    "name:nno_x_preferred":[
+        "Kotte"
+    ],
+    "name:nor_x_preferred":[
+        "Kotte"
+    ],
+    "name:oci_x_preferred":[
+        "Sri Jayawardenepura"
+    ],
+    "name:oss_x_preferred":[
+        "\u0428\u0440\u0438-\u0414\u0436\u0430\u044f\u0432\u0430\u0440\u0434\u0435\u043d\u0435\u043f\u0443\u0440\u0430-\u041a\u043e\u0442\u0442\u0435"
+    ],
+    "name:pan_x_preferred":[
+        "\u0a38\u0a4d\u0a30\u0a40 \u0a1c\u0a48\u0a35\u0a30\u0a26\u0a28\u0a2a\u0a41\u0a30\u0a3e \u0a15\u0a4b\u0a1f\u0a47"
+    ],
+    "name:pnb_x_preferred":[
+        "\u0633\u0631\u06cc \u062c\u06d2 \u0648\u0631\u062f\u06be\u0646\u06d2 \u067e\u0648\u0631\u0627 \u06a9\u0648\u0679\u06d2"
+    ],
+    "name:pol_x_preferred":[
+        "Sri D\u017aajawardanapura Kotte"
+    ],
+    "name:pol_x_variant":[
+        "Kotte"
+    ],
+    "name:por_x_preferred":[
+        "Kotte"
+    ],
+    "name:ron_x_preferred":[
+        "Sri Jayewardanapura Kotte"
+    ],
+    "name:rus_x_preferred":[
+        "\u0428\u0440\u0438-\u0414\u0436\u0430\u044f\u0432\u0430\u0440\u0434\u0435\u043d\u0435\u043f\u0443\u0440\u0430-\u041a\u043e\u0442\u0442\u0435"
+    ],
+    "name:sco_x_preferred":[
+        "Sri Jayawardenapura Kotte"
+    ],
+    "name:sin_x_preferred":[
+        "\u0dc1\u0dca\u200d\u0dbb\u0dd3 \u0da2\u0dba\u0dc0\u0dbb\u0dca\u0db0\u0db1\u0db4\u0dd4\u0dbb \u0d9a\u0ddd\u0da7\u0dca\u0da7\u0dda"
+    ],
+    "name:slk_x_preferred":[
+        "Kotte"
+    ],
+    "name:spa_x_preferred":[
+        "Sri Jayawardenapura Kotte"
+    ],
+    "name:srp_x_preferred":[
+        "\u0421\u0440\u0438 \u040f\u0430\u0458\u0430\u0432\u0430\u0440\u0434\u0435\u043d\u0435\u043f\u0443\u0440\u0430 \u041a\u043e\u0442\u0435"
+    ],
+    "name:swa_x_preferred":[
+        "Sri Jayawardenapura"
+    ],
+    "name:swe_x_preferred":[
+        "Sri Jayawardenapura"
+    ],
+    "name:tam_x_preferred":[
+        "\u0b9a\u0bbf\u0bb1\u0bc0 \u0b9c\u0bc6\u0baf\u0bb5\u0bb0\u0bcd\u0ba4\u0ba9\u0baa\u0bc1\u0bb0 \u0b95\u0bcb\u0b9f\u0bcd\u0b9f\u0bc8"
+    ],
+    "name:tam_x_variant":[
+        "\u0b95\u0bcb\u0b9f\u0bcd\u0b9f\u0bc7"
+    ],
+    "name:tgk_x_preferred":[
+        "\u0428\u0440\u0438-\u04b6\u0430\u044f\u0432\u0430\u0440\u0434\u0435\u043d\u0435\u043f\u0443\u0440\u0430-\u041a\u043e\u0442\u0442\u0435"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e28\u0e23\u0e35\u0e0a\u0e31\u0e22\u0e27\u0e23\u0e40\u0e17\u0e19\u0e1b\u0e38\u0e23\u0e30-\u0e42\u0e01\u0e15\u0e40\u0e15"
+    ],
+    "name:tur_x_preferred":[
+        "Sri Jayawardenapura-Kotte"
+    ],
+    "name:udm_x_preferred":[
+        "\u0428\u0440\u0438-\u0414\u0436\u0430\u044f\u0432\u0430\u0440\u0434\u0435\u043d\u0435\u043f\u0443\u0440\u0430-\u041a\u043e\u0442\u0442\u0435"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0428\u0440\u0456-\u0414\u0436\u0430\u044f\u0432\u0430\u0440\u0434\u0435\u043d\u0435\u043f\u0443\u0440\u0430-\u041a\u043e\u0442\u0442\u0435"
+    ],
+    "name:unk_x_variant":[
+        "Kotte"
+    ],
+    "name:urd_x_preferred":[
+        "\u0633\u0631\u06cc \u062c\u06d2 \u0648\u0631\u062f\u06be\u0646\u06d2 \u067e\u0648\u0631\u0627 \u06a9\u0648\u0679\u06d2"
+    ],
+    "name:vep_x_preferred":[
+        "\u0160ri D\u017eajavardenepura Kotte"
+    ],
+    "name:vie_x_preferred":[
+        "Sri Jayawardenepura Kotte"
+    ],
+    "name:war_x_preferred":[
+        "Sri Jayawardenapura Kotte"
+    ],
+    "name:xmf_x_preferred":[
+        "\u10e8\u10e0\u10d8-\u10ef\u10d0\u10d8\u10d0\u10d5\u10d0\u10e0\u10d3\u10d4\u10dc\u10d4\u10de\u10e3\u10e0\u10d0-\u10d9\u10dd\u10e2\u10d4"
+    ],
+    "name:yor_x_preferred":[
+        "Kotte"
+    ],
+    "name:zho_min_nan_x_preferred":[
+        "Sri Jayawardenepura Kotte"
+    ],
+    "name:zho_x_preferred":[
+        "\u65af\u91cc\u8cc8\u4e9e\u74e6\u5fb7\u7d0d\u666e\u62c9\u79d1\u7279"
+    ],
+    "ne:ADM0CAP":0.0,
+    "ne:ADM0NAME":"Sri Lanka",
+    "ne:ADM0_A3":"LKA",
+    "ne:ADM1NAME":"Colombo",
+    "ne:ADMIN1_COD":36,
+    "ne:CAPALT":1,
+    "ne:CAPIN":"Legislative cap",
+    "ne:CHANGED":4,
+    "ne:CHECKME":0,
+    "ne:CITYALT":null,
+    "ne:COMPARE":1,
+    "ne:DIFFASCII":0,
+    "ne:DIFFNOTE":"Name changed.",
+    "ne:ELEVATION":0.0,
+    "ne:FEATURECLA":"Admin-0 capital alt",
+    "ne:FEATURE_CL":"P",
+    "ne:FEATURE_CO":"PPL",
+    "ne:GEONAMEID":1238992,
+    "ne:GEONAMESNO":"GeoNames rough area, rough name.",
+    "ne:GN_ASCII":"Sri Jayewardenepura Kotte",
+    "ne:GN_POP":115826,
+    "ne:GTOPO30":35.0,
+    "ne:ISO_A2":"LK",
+    "ne:LABELRANK":6,
+    "ne:LATITUDE":6.900004,
+    "ne:LONGITUDE":79.949993,
+    "ne:LS_MATCH":1,
+    "ne:LS_NAME":"Kotte",
+    "ne:MAX_AREAKM":2843.0,
+    "ne:MAX_AREAMI":1098.0,
+    "ne:MAX_BBXMAX":80.733333,
+    "ne:MAX_BBXMIN":79.883827,
+    "ne:MAX_BBYMAX":7.34579,
+    "ne:MAX_BBYMIN":6.708333,
+    "ne:MAX_NATSCA":50.0,
+    "ne:MAX_PERKM":2388.0,
+    "ne:MAX_PERMI":1484.0,
+    "ne:MAX_POP10":2189383,
+    "ne:MAX_POP20":3439184,
+    "ne:MAX_POP300":0,
+    "ne:MAX_POP310":0,
+    "ne:MAX_POP50":4689795,
+    "ne:MEAN_BBXC":80.0976,
+    "ne:MEAN_BBYC":6.842005,
+    "ne:MEGACITY":0,
+    "ne:MEGANAME":null,
+    "ne:MIN_AREAKM":1265.0,
+    "ne:MIN_AREAMI":488.0,
+    "ne:MIN_BBXMAX":80.366283,
+    "ne:MIN_BBXMIN":79.866667,
+    "ne:MIN_BBYMAX":7.34579,
+    "ne:MIN_BBYMIN":5.916667,
+    "ne:MIN_PERKM":1148.0,
+    "ne:MIN_PERMI":713.0,
+    "ne:NAME":"Sri Jawewardenepura Kotte",
+    "ne:NAMEALT":null,
+    "ne:NAMEASCII":"Sri Jawewardenepura Kotte",
+    "ne:NAMEDIFF":1,
+    "ne:NAMEPAR":null,
+    "ne:NATSCALE":50,
+    "ne:NOTE":null,
+    "ne:POP1950":0,
+    "ne:POP1955":0,
+    "ne:POP1960":0,
+    "ne:POP1965":0,
+    "ne:POP1970":0,
+    "ne:POP1975":0,
+    "ne:POP1980":0,
+    "ne:POP1985":0,
+    "ne:POP1990":0,
+    "ne:POP1995":0,
+    "ne:POP2000":0,
+    "ne:POP2005":0,
+    "ne:POP2010":0,
+    "ne:POP2015":0,
+    "ne:POP2020":0,
+    "ne:POP2025":0,
+    "ne:POP2050":0,
+    "ne:POP_MAX":115826,
+    "ne:POP_MIN":115826,
+    "ne:POP_OTHER":2456292,
+    "ne:RANK_MAX":9,
+    "ne:RANK_MIN":9,
+    "ne:SCALERANK":4,
+    "ne:SOV0NAME":"Sri Lanka",
+    "ne:SOV_A3":"LKA",
+    "ne:TIMEZONE":"Asia/Colombo",
+    "ne:UN_ADM0":null,
+    "ne:UN_FID":0,
+    "ne:UN_LAT":0.0,
+    "ne:UN_LONG":0.0,
+    "ne:WORLDCITY":0,
+    "qs:gn_country":"LK",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":1238992,
+    "qs:gn_pop":115826,
+    "qs:name":"Sri Jayewardenepura-Kotte",
+    "qs:name_adm0":"Sri Lanka",
+    "qs:name_adm1":"Western",
+    "qs:photos":393,
+    "qs:photos_1k":80,
+    "qs:photos_9k":2,
+    "qs:photos_9r":5,
+    "qs:photos_all":393,
+    "qs:photos_sr":6,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"9",
+    "qs:qs_id":898603,
+    "qs:woe_adm0":23424778,
+    "qs:woe_id":2186748,
+    "src:geom":"meso",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:population":"quattroshapes",
+    "wd:wordcount":1848,
+    "wof:belongsto":[
+        102191569,
+        85632313,
+        85673811,
+        1092059875
+    ],
+    "wof:breaches":[],
+    "wof:capital_of":85632313,
+    "wof:concordances":{
+        "gn:id":1238992,
+        "gp:id":2186748,
+        "qs:id":898603,
+        "wd:id":"Q41963",
+        "wk:page":"Sri Jayawardenepura Kotte"
+    },
+    "wof:country":"LK",
+    "wof:created":1459009325,
+    "wof:geomhash":"38a1f53e5b5ee5a6723aa08b3f7dd53e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "county_id":1092059875,
+            "locality_id":421182301,
+            "region_id":85673811
+        }
+    ],
+    "wof:id":421182301,
+    "wof:lastmodified":1553278376,
+    "wof:name":"Sri Jayewardenepura-Kotte",
+    "wof:parent_id":1092059875,
+    "wof:placetype":"locality",
+    "wof:population":115826,
+    "wof:population_rank":9,
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    79.88148812279837,
+    6.86621452489177,
+    79.9200909717587,
+    6.92039926526834
+],
+  "geometry": {"coordinates":[[[79.8894627689953,6.92039926526834],[79.90079483567325,6.91806523096402],[79.90306413141855,6.91517412405078],[79.90453202650806,6.90546797349334],[79.90676781640556,6.90319829188762],[79.90723522322787,6.90278519101444],[79.90862859333305,6.90083680443737],[79.91144403821542,6.89834337268084],[79.91449462463279,6.8958816944436],[79.91710017079696,6.89289982920445],[79.9192043169862,6.89085257725384],[79.9200909717587,6.88887323963591],[79.91987352974168,6.88638107171891],[79.91962201020603,6.88507255840458],[79.90486825446578,6.88233270277819],[79.90231764371295,6.87879890898102],[79.89927781616069,6.87100696637319],[79.89851246005924,6.86653499876957],[79.89434994884536,6.86621452489177],[79.88580680737209,6.87164914009134],[79.88254763848148,6.88564328354969],[79.88148812279837,6.88955737023587],[79.88162233189496,6.89341205437635],[79.88274069022253,6.89682212768464],[79.88353715775428,6.9016792340581],[79.8847034772966,6.90470347729516],[79.88603524505949,6.90594307907499],[79.88754596176659,6.90679987469109],[79.88889034888987,6.90857630484582],[79.8892626134482,6.91507073863238],[79.8894627689953,6.92039926526834]]],"type":"Polygon"}
+}

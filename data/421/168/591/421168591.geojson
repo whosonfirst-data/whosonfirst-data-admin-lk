@@ -1,0 +1,77 @@
+{
+  "id": 421168591,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"80.2276,6.0493,80.2276,6.0493",
+    "geom:latitude":6.0493,
+    "geom:longitude":80.2276,
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "qs:gn_country":"LK",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":1246741,
+    "qs:gn_pop":0,
+    "qs:name":"Ettiligoda",
+    "qs:name_adm0":"Sri Lanka",
+    "qs:name_adm1":"Southern",
+    "qs:photos":1,
+    "qs:photos_1k":1,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":1,
+    "qs:photos_sr":1,
+    "qs:placetype":"Suburb",
+    "qs:pop_sr":"0",
+    "qs:qs_id":387208,
+    "qs:woe_adm0":23424778,
+    "qs:woe_id":2176268,
+    "src:geom":"quattroshapes",
+    "wof:belongsto":[
+        102191569,
+        85632313,
+        1092058633,
+        85673789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1246741,
+        "gp:id":2176268,
+        "qs:id":387208
+    },
+    "wof:country":"LK",
+    "wof:created":1459008770,
+    "wof:geomhash":"8a4734abbf175e0908e2a3c32d0f8d4a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "county_id":1092058633,
+            "locality_id":-1,
+            "neighbourhood_id":421168591,
+            "region_id":85673789
+        }
+    ],
+    "wof:id":421168591,
+    "wof:lastmodified":1531858302,
+    "wof:name":"Ettiligoda",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    80.2276,
+    6.0493,
+    80.2276,
+    6.0493
+],
+  "geometry": {"coordinates":[80.2276,6.0493],"type":"Point"}
+}

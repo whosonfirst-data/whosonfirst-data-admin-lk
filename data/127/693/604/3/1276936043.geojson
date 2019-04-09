@@ -1,0 +1,67 @@
+{
+  "id": 1276936043,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"80.3351,6.5935,80.3351,6.5935",
+    "geom:latitude":6.5935,
+    "geom:longitude":80.3351,
+    "gn:admin1_code":"33.0",
+    "gn:asciiname":"Paragala",
+    "gn:country_code":"LK",
+    "gn:dem":435,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1231034,
+    "gn:latitude":6.5935,
+    "gn:longitude":80.3351,
+    "gn:modification_date":"1994-01-08",
+    "gn:name":"Paragala",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632313,
+        85673785,
+        1092056723
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1231034
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"27cee2fd12b9c813569155e44842f3c4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "county_id":1092056723,
+            "locality_id":1276936043,
+            "region_id":85673785
+        }
+    ],
+    "wof:id":1276936043,
+    "wof:lastmodified":1536965910,
+    "wof:name":"Paragala",
+    "wof:parent_id":1092056723,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    80.3351,
+    6.5935,
+    80.3351,
+    6.5935
+],
+  "geometry": {"coordinates":[80.3351,6.5935],"type":"Point"}
+}

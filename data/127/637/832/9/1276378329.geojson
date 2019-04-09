@@ -1,0 +1,67 @@
+{
+  "id": 1276378329,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"81.0669,6.9974,81.0669,6.9974",
+    "geom:latitude":6.9974,
+    "geom:longitude":81.0669,
+    "gn:admin1_code":"35.0",
+    "gn:asciiname":"Andeniya",
+    "gn:country_code":"LK",
+    "gn:dem":760,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1251257,
+    "gn:latitude":6.9974,
+    "gn:longitude":81.0669,
+    "gn:modification_date":"1994-01-08",
+    "gn:name":"Andeniya",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632313,
+        85673801,
+        1092056843
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1251257
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"97381976b72d470909403cbd934845b1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "county_id":1092056843,
+            "locality_id":1276378329,
+            "region_id":85673801
+        }
+    ],
+    "wof:id":1276378329,
+    "wof:lastmodified":1536718542,
+    "wof:name":"Andeniya",
+    "wof:parent_id":1092056843,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    81.0669,
+    6.9974,
+    81.0669,
+    6.9974
+],
+  "geometry": {"coordinates":[81.0669,6.9974],"type":"Point"}
+}

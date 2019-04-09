@@ -1,0 +1,68 @@
+{
+  "id": 1344005159,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"80.799,7.0987,80.799,7.0987",
+    "geom:latitude":7.0987,
+    "geom:longitude":80.799,
+    "gn:admin1_code":"29.0",
+    "gn:asciiname":"Napatawela",
+    "gn:country_code":"LK",
+    "gn:dem":651,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1233737,
+    "gn:latitude":7.0987,
+    "gn:longitude":80.799,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Napatawela",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632313,
+        85673731,
+        1092059139
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1233737,
+        "wk:page":"Napatawela"
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"ac423ba3965b13b8ddc8dcbb18c364d1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "county_id":1092059139,
+            "locality_id":1344005159,
+            "region_id":85673731
+        }
+    ],
+    "wof:id":1344005159,
+    "wof:lastmodified":1537567986,
+    "wof:name":"Napatawela",
+    "wof:parent_id":1092059139,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    80.79899999999998,
+    7.0987,
+    80.79899999999998,
+    7.0987
+],
+  "geometry": {"coordinates":[80.79899999999998,7.0987],"type":"Point"}
+}

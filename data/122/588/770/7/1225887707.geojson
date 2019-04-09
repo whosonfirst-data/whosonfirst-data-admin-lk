@@ -1,0 +1,67 @@
+{
+  "id": 1225887707,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"81.66667,7.38333,81.66667,7.38333",
+    "geom:latitude":7.38333,
+    "geom:longitude":81.66667,
+    "gn:admin1_code":"37.0",
+    "gn:asciiname":"Komariya",
+    "gn:country_code":"LK",
+    "gn:dem":37,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1239577,
+    "gn:latitude":7.38333,
+    "gn:longitude":81.66667,
+    "gn:modification_date":"2012-04-05",
+    "gn:name":"Komariya",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632313,
+        85673733,
+        1092066997
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1239577
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"0d37522fd826a7f68680fc267964554d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "county_id":1092066997,
+            "locality_id":1225887707,
+            "region_id":85673733
+        }
+    ],
+    "wof:id":1225887707,
+    "wof:lastmodified":1536953360,
+    "wof:name":"Komariya",
+    "wof:parent_id":1092066997,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    81.66667,
+    7.38333,
+    81.66667,
+    7.38333
+],
+  "geometry": {"coordinates":[81.66667,7.38333],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 1226187493,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"80.45,6.01667,80.45,6.01667",
+    "geom:latitude":6.01667,
+    "geom:longitude":80.45,
+    "gn:admin1_code":"34.0",
+    "gn:asciiname":"Sahabandukokmaduwa",
+    "gn:country_code":"LK",
+    "gn:dem":17,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1228426,
+    "gn:latitude":6.01667,
+    "gn:longitude":80.45,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Sahabandukokmaduwa",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632313,
+        85673795,
+        1092068003
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1228426,
+        "wk:page":"Sahabandukokmaduwa"
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"a1c1b8d825de099804617624729002c3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "county_id":1092068003,
+            "locality_id":1226187493,
+            "region_id":85673795
+        }
+    ],
+    "wof:id":1226187493,
+    "wof:lastmodified":1537567974,
+    "wof:name":"Sahabandukokmaduwa",
+    "wof:parent_id":1092068003,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    80.45,
+    6.01667,
+    80.45,
+    6.01667
+],
+  "geometry": {"coordinates":[80.45,6.01667],"type":"Point"}
+}

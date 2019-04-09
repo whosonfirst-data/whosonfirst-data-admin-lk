@@ -1,0 +1,72 @@
+{
+  "id": 1243013903,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"79.9962,7.6824,79.9962,7.6824",
+    "geom:latitude":7.6824,
+    "geom:longitude":79.9962,
+    "gn:admin1_code":"32.0",
+    "gn:asciiname":"Thalangpola Ihala",
+    "gn:country_code":"LK",
+    "gn:dem":38,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1226742,
+    "gn:latitude":7.6824,
+    "gn:longitude":79.9962,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Thalangpola Ihala",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Rada Talanpola",
+        "Talanpola Ihala",
+        "Thalangpola Ihala"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632313,
+        85673777,
+        1092057161
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1226742
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"ac103faf07d23c2c601f5304609ce087",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "county_id":1092057161,
+            "locality_id":1243013903,
+            "region_id":85673777
+        }
+    ],
+    "wof:id":1243013903,
+    "wof:lastmodified":1537661372,
+    "wof:name":"Thalangpola Ihala",
+    "wof:parent_id":1092057161,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    79.9962,
+    7.6824,
+    79.9962,
+    7.6824
+],
+  "geometry": {"coordinates":[79.9962,7.6824],"type":"Point"}
+}

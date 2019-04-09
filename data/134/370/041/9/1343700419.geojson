@@ -1,0 +1,61 @@
+{
+  "id": 1343700419,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"79.9,9.0,79.9,9.0",
+    "geom:latitude":9.0,
+    "geom:longitude":79.9,
+    "gn:admin1_code":"38.0",
+    "gn:asciiname":"Painters Street",
+    "gn:country_code":"LK",
+    "gn:dem":-9999,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1232037,
+    "gn:latitude":9.0,
+    "gn:longitude":79.9,
+    "gn:modification_date":"2012-04-05",
+    "gn:name":"Painters Street",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1232037
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"55f8c0b8a72fe699332db6452ecceea3",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1343700419,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1343700419,
+    "wof:lastmodified":1536897340,
+    "wof:name":"Painters Street",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    79.9,
+    9.0,
+    79.9,
+    9.0
+],
+  "geometry": {"coordinates":[79.90000000000001,9.0],"type":"Point"}
+}

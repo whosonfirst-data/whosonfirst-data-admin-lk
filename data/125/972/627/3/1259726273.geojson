@@ -1,0 +1,67 @@
+{
+  "id": 1259726273,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"80.81667,9.15,80.81667,9.15",
+    "geom:latitude":9.15,
+    "geom:longitude":80.81667,
+    "gn:admin1_code":"38.0",
+    "gn:asciiname":"Kumulamunai",
+    "gn:country_code":"LK",
+    "gn:dem":16,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1238226,
+    "gn:latitude":9.15,
+    "gn:longitude":80.81667,
+    "gn:modification_date":"2012-04-05",
+    "gn:name":"Kumulamunai",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632313,
+        85673765,
+        1092062793
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1238226
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"c596bc5e7c056c29635df75473d9396c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "county_id":1092062793,
+            "locality_id":1259726273,
+            "region_id":85673765
+        }
+    ],
+    "wof:id":1259726273,
+    "wof:lastmodified":1537004771,
+    "wof:name":"Kumulamunai",
+    "wof:parent_id":1092062793,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    80.81667,
+    9.15,
+    80.81667,
+    9.15
+],
+  "geometry": {"coordinates":[80.81667,9.15],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1277121827,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"81.284,6.33,81.284,6.33",
+    "geom:latitude":6.33,
+    "geom:longitude":81.284,
+    "gn:admin1_code":"34.0",
+    "gn:asciiname":"Colony Number Five",
+    "gn:country_code":"LK",
+    "gn:dem":47,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7622627,
+    "gn:latitude":6.33,
+    "gn:longitude":81.284,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Colony Number Five",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Colony No. 5"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632313,
+        85673791,
+        1092061903
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7622627
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"2fd89ab52526e8724cadd0a059921691",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "county_id":1092061903,
+            "locality_id":1277121827,
+            "region_id":85673791
+        }
+    ],
+    "wof:id":1277121827,
+    "wof:lastmodified":1537661610,
+    "wof:name":"Colony Number Five",
+    "wof:parent_id":1092061903,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    81.28399999999998,
+    6.33,
+    81.28399999999998,
+    6.33
+],
+  "geometry": {"coordinates":[81.28399999999998,6.33],"type":"Point"}
+}

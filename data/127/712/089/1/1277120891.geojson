@@ -1,0 +1,67 @@
+{
+  "id": 1277120891,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"79.9305,6.7063,79.9305,6.7063",
+    "geom:latitude":6.7063,
+    "geom:longitude":79.9305,
+    "gn:admin1_code":"36.0",
+    "gn:asciiname":"Mahawila",
+    "gn:country_code":"LK",
+    "gn:dem":13,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1236717,
+    "gn:latitude":6.7063,
+    "gn:longitude":79.9305,
+    "gn:modification_date":"1994-01-08",
+    "gn:name":"Mahawila",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632313,
+        85673819,
+        1092064987
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1236717
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"541b1608fcbf4185ab7e9f6e31ac8be6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "county_id":1092064987,
+            "locality_id":1277120891,
+            "region_id":85673819
+        }
+    ],
+    "wof:id":1277120891,
+    "wof:lastmodified":1536712988,
+    "wof:name":"Mahawila",
+    "wof:parent_id":1092064987,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    79.9305,
+    6.7063,
+    79.9305,
+    6.7063
+],
+  "geometry": {"coordinates":[79.93049999999999,6.7063],"type":"Point"}
+}

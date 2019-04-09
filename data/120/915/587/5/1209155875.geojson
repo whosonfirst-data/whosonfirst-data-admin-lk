@@ -1,0 +1,61 @@
+{
+  "id": 1209155875,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"80.2193,6.9052,80.2193,6.9052",
+    "geom:latitude":6.9052,
+    "geom:longitude":80.2193,
+    "gn:admin1_code":"33.0",
+    "gn:asciiname":"Getahetta",
+    "gn:country_code":"LK",
+    "gn:dem":67,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1245770,
+    "gn:latitude":6.9052,
+    "gn:longitude":80.2193,
+    "gn:modification_date":"1998-03-18",
+    "gn:name":"Getahetta",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632313
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1245770
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"604455df2d6d56e6569e0b4efe9911af",
+    "wof:hierarchy":[
+        {
+            "country_id":85632313,
+            "locality_id":1209155875
+        }
+    ],
+    "wof:id":1209155875,
+    "wof:lastmodified":1536296055,
+    "wof:name":"Getahetta",
+    "wof:parent_id":85632313,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    80.2193,
+    6.9052,
+    80.2193,
+    6.9052
+],
+  "geometry": {"coordinates":[80.2193,6.9052],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1226590657,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"80.6,8.18333,80.6,8.18333",
+    "geom:latitude":8.18333,
+    "geom:longitude":80.6,
+    "gn:admin1_code":"30.0",
+    "gn:asciiname":"Ittikattiya",
+    "gn:country_code":"LK",
+    "gn:dem":129,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1242864,
+    "gn:latitude":8.18333,
+    "gn:longitude":80.6,
+    "gn:modification_date":"1994-01-08",
+    "gn:name":"Ittikattiya",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632313,
+        85673751,
+        1092066739
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1242864
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"64062799a6c93610b1dfc0a1817364fc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "county_id":1092066739,
+            "locality_id":1226590657,
+            "region_id":85673751
+        }
+    ],
+    "wof:id":1226590657,
+    "wof:lastmodified":1536936749,
+    "wof:name":"Ittikattiya",
+    "wof:parent_id":1092066739,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    80.6,
+    8.18333,
+    80.6,
+    8.18333
+],
+  "geometry": {"coordinates":[80.59999999999999,8.18333],"type":"Point"}
+}

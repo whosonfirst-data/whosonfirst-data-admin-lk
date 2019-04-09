@@ -1,0 +1,73 @@
+{
+  "id": 1292951607,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"80.5794,7.5384,80.5794,7.5384",
+    "geom:latitude":7.5384,
+    "geom:longitude":80.5794,
+    "gn:admin1_code":"29.0",
+    "gn:asciiname":"Ethipallawela",
+    "gn:country_code":"LK",
+    "gn:dem":462,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1246739,
+    "gn:latitude":7.5384,
+    "gn:longitude":80.5794,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Ethipallawela",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Etipallawela",
+        "Ethipallawela",
+        "Etipallewela",
+        "Ettipallawela"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632313,
+        85673723,
+        1092068243
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1246739
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"a3c669d1555d65ff9a951d6e8a15de53",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "county_id":1092068243,
+            "locality_id":1292951607,
+            "region_id":85673723
+        }
+    ],
+    "wof:id":1292951607,
+    "wof:lastmodified":1537661559,
+    "wof:name":"Ethipallawela",
+    "wof:parent_id":1092068243,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    80.5794,
+    7.5384,
+    80.5794,
+    7.5384
+],
+  "geometry": {"coordinates":[80.57940000000001,7.5384],"type":"Point"}
+}

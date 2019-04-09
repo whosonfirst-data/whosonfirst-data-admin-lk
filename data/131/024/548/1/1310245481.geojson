@@ -1,0 +1,67 @@
+{
+  "id": 1310245481,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"80.9667,6.8397,80.9667,6.8397",
+    "geom:latitude":6.8397,
+    "geom:longitude":80.9667,
+    "gn:admin1_code":"35.0",
+    "gn:asciiname":"Metipimbiya",
+    "gn:country_code":"LK",
+    "gn:dem":1149,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1235257,
+    "gn:latitude":6.8397,
+    "gn:longitude":80.9667,
+    "gn:modification_date":"1994-01-08",
+    "gn:name":"Metipimbiya",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632313,
+        85673801,
+        1092057059
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1235257
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"df5b52ad77db67acc033e95e5ab665b9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "county_id":1092057059,
+            "locality_id":1310245481,
+            "region_id":85673801
+        }
+    ],
+    "wof:id":1310245481,
+    "wof:lastmodified":1536794717,
+    "wof:name":"Metipimbiya",
+    "wof:parent_id":1092057059,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    80.9667,
+    6.8397,
+    80.9667,
+    6.8397
+],
+  "geometry": {"coordinates":[80.9667,6.8397],"type":"Point"}
+}

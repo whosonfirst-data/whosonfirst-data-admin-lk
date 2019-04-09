@@ -1,0 +1,68 @@
+{
+  "id": 1226283895,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"80.3068,7.1369,80.3068,7.1369",
+    "geom:latitude":7.1369,
+    "geom:longitude":80.3068,
+    "gn:admin1_code":"33.0",
+    "gn:asciiname":"Yatapana",
+    "gn:country_code":"LK",
+    "gn:dem":264,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1222856,
+    "gn:latitude":7.1369,
+    "gn:longitude":80.3068,
+    "gn:modification_date":"2012-05-05",
+    "gn:name":"Yatapana",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632313,
+        85673807,
+        1092058595
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1222856,
+        "wk:page":"Yatapana"
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"13d8fe65a18de154a2ec0354754e1db4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "county_id":1092058595,
+            "locality_id":1226283895,
+            "region_id":85673807
+        }
+    ],
+    "wof:id":1226283895,
+    "wof:lastmodified":1537567958,
+    "wof:name":"Yatapana",
+    "wof:parent_id":1092058595,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    80.3068,
+    7.1369,
+    80.3068,
+    7.1369
+],
+  "geometry": {"coordinates":[80.3068,7.1369],"type":"Point"}
+}

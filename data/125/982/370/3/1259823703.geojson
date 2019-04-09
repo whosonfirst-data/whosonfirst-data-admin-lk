@@ -1,0 +1,67 @@
+{
+  "id": 1259823703,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"80.1746,6.8121,80.1746,6.8121",
+    "geom:latitude":6.8121,
+    "geom:longitude":80.1746,
+    "gn:admin1_code":"36.0",
+    "gn:asciiname":"Madakada",
+    "gn:country_code":"LK",
+    "gn:dem":240,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1237491,
+    "gn:latitude":6.8121,
+    "gn:longitude":80.1746,
+    "gn:modification_date":"1994-01-08",
+    "gn:name":"Madakada",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632313,
+        85673819,
+        1092059643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1237491
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"5d8096d907a2f398685ff1d274b8116b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "county_id":1092059643,
+            "locality_id":1259823703,
+            "region_id":85673819
+        }
+    ],
+    "wof:id":1259823703,
+    "wof:lastmodified":1536864027,
+    "wof:name":"Madakada",
+    "wof:parent_id":1092059643,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    80.1746,
+    6.8121,
+    80.1746,
+    6.8121
+],
+  "geometry": {"coordinates":[80.1746,6.8121],"type":"Point"}
+}

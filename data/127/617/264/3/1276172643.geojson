@@ -1,0 +1,67 @@
+{
+  "id": 1276172643,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"80.5417,6.7232,80.5417,6.7232",
+    "geom:latitude":6.7232,
+    "geom:longitude":80.5417,
+    "gn:admin1_code":"33.0",
+    "gn:asciiname":"Dehenakanda",
+    "gn:country_code":"LK",
+    "gn:dem":662,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1248475,
+    "gn:latitude":6.7232,
+    "gn:longitude":80.5417,
+    "gn:modification_date":"1994-01-08",
+    "gn:name":"Dehenakanda",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632313,
+        85673785,
+        1092065839
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1248475
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"1b54bb3accdca77e02ef1e32f86f4ce9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "county_id":1092065839,
+            "locality_id":1276172643,
+            "region_id":85673785
+        }
+    ],
+    "wof:id":1276172643,
+    "wof:lastmodified":1536993424,
+    "wof:name":"Dehenakanda",
+    "wof:parent_id":1092065839,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    80.5417,
+    6.7232,
+    80.5417,
+    6.7232
+],
+  "geometry": {"coordinates":[80.54170000000001,6.7232],"type":"Point"}
+}

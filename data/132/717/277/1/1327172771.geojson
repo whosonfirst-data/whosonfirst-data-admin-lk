@@ -1,0 +1,67 @@
+{
+  "id": 1327172771,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"80.6661,9.1521,80.6661,9.1521",
+    "geom:latitude":9.1521,
+    "geom:longitude":80.6661,
+    "gn:admin1_code":"38.0",
+    "gn:asciiname":"Putukkulam",
+    "gn:country_code":"LK",
+    "gn:dem":33,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1229270,
+    "gn:latitude":9.1521,
+    "gn:longitude":80.6661,
+    "gn:modification_date":"2012-04-05",
+    "gn:name":"Putukkulam",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632313,
+        85673765,
+        1092064421
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1229270
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"77b209c5edc7e2e13a1b28f11ae4cc3b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "county_id":1092064421,
+            "locality_id":1327172771,
+            "region_id":85673765
+        }
+    ],
+    "wof:id":1327172771,
+    "wof:lastmodified":1537053386,
+    "wof:name":"Putukkulam",
+    "wof:parent_id":1092064421,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    80.6661,
+    9.1521,
+    80.6661,
+    9.1521
+],
+  "geometry": {"coordinates":[80.6661,9.1521],"type":"Point"}
+}

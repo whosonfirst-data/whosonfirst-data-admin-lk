@@ -1,0 +1,67 @@
+{
+  "id": 1326773597,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"81.53333,7.96667,81.53333,7.96667",
+    "geom:latitude":7.96667,
+    "geom:longitude":81.53333,
+    "gn:admin1_code":"37.0",
+    "gn:asciiname":"Periya Kayankerni",
+    "gn:country_code":"LK",
+    "gn:dem":4,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1230487,
+    "gn:latitude":7.96667,
+    "gn:longitude":81.53333,
+    "gn:modification_date":"2012-04-05",
+    "gn:name":"Periya Kayankerni",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632313,
+        85673737,
+        1092061255
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1230487
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"59e7d856eeadca01a31a4b5cd0c42c7e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "county_id":1092061255,
+            "locality_id":1326773597,
+            "region_id":85673737
+        }
+    ],
+    "wof:id":1326773597,
+    "wof:lastmodified":1536634812,
+    "wof:name":"Periya Kayankerni",
+    "wof:parent_id":1092061255,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    81.53333,
+    7.96667,
+    81.53333,
+    7.96667
+],
+  "geometry": {"coordinates":[81.53333000000001,7.96667],"type":"Point"}
+}

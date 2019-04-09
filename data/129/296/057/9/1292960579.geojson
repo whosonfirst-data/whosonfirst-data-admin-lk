@@ -1,0 +1,67 @@
+{
+  "id": 1292960579,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"80.3432,7.6323,80.3432,7.6323",
+    "geom:latitude":7.6323,
+    "geom:longitude":80.3432,
+    "gn:admin1_code":"32.0",
+    "gn:asciiname":"Galhinna",
+    "gn:country_code":"LK",
+    "gn:dem":93,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7432344,
+    "gn:latitude":7.6323,
+    "gn:longitude":80.3432,
+    "gn:modification_date":"2010-08-07",
+    "gn:name":"Galhinna",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632313,
+        85673777,
+        1092058689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7432344
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"dda7af92a4f0158e8cf3928f99b496a5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "county_id":1092058689,
+            "locality_id":1292960579,
+            "region_id":85673777
+        }
+    ],
+    "wof:id":1292960579,
+    "wof:lastmodified":1537047729,
+    "wof:name":"Galhinna",
+    "wof:parent_id":1092058689,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    80.3432,
+    7.6323,
+    80.3432,
+    7.6323
+],
+  "geometry": {"coordinates":[80.3432,7.6323],"type":"Point"}
+}

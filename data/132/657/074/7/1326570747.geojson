@@ -1,0 +1,67 @@
+{
+  "id": 1326570747,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"80.1305,6.1779,80.1305,6.1779",
+    "geom:latitude":6.1779,
+    "geom:longitude":80.1305,
+    "gn:admin1_code":"34.0",
+    "gn:asciiname":"Mahagoda",
+    "gn:country_code":"LK",
+    "gn:dem":14,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7624045,
+    "gn:latitude":6.1779,
+    "gn:longitude":80.1305,
+    "gn:modification_date":"2010-12-04",
+    "gn:name":"Mahagoda",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632313,
+        85673789,
+        1092058887
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7624045
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"da7350e766180282b81cd24e62b688d3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "county_id":1092058887,
+            "locality_id":1326570747,
+            "region_id":85673789
+        }
+    ],
+    "wof:id":1326570747,
+    "wof:lastmodified":1536929185,
+    "wof:name":"Mahagoda",
+    "wof:parent_id":1092058887,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    80.1305,
+    6.1779,
+    80.1305,
+    6.1779
+],
+  "geometry": {"coordinates":[80.1305,6.1779],"type":"Point"}
+}

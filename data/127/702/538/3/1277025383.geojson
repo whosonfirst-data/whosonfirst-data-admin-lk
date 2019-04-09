@@ -1,0 +1,72 @@
+{
+  "id": 1277025383,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"80.0055,9.7175,80.0055,9.7175",
+    "geom:latitude":9.7175,
+    "geom:longitude":80.0055,
+    "gn:admin1_code":"38.0",
+    "gn:asciiname":"Suthumalai",
+    "gn:country_code":"LK",
+    "gn:dem":13,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1227490,
+    "gn:latitude":9.7175,
+    "gn:longitude":80.0055,
+    "gn:modification_date":"2012-04-05",
+    "gn:name":"Suthumalai",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Chutumalai",
+        "Suthumalai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632313,
+        85673769,
+        1092067213
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1227490,
+        "wk:page":"Suthumalai"
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"ba4298b2cf8e000ee35d854d128ce81d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "county_id":1092067213,
+            "locality_id":1277025383,
+            "region_id":85673769
+        }
+    ],
+    "wof:id":1277025383,
+    "wof:lastmodified":1537661385,
+    "wof:name":"Suthumalai",
+    "wof:parent_id":1092067213,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    80.0055,
+    9.7175,
+    80.0055,
+    9.7175
+],
+  "geometry": {"coordinates":[80.0055,9.7175],"type":"Point"}
+}

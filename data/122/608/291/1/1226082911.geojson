@@ -1,0 +1,68 @@
+{
+  "id": 1226082911,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"80.0927,6.3429,80.0927,6.3429",
+    "geom:latitude":6.3429,
+    "geom:longitude":80.0927,
+    "gn:admin1_code":"34.0",
+    "gn:asciiname":"Uragasmanhandiya",
+    "gn:country_code":"LK",
+    "gn:dem":29,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1225428,
+    "gn:latitude":6.3429,
+    "gn:longitude":80.0927,
+    "gn:modification_date":"2013-04-03",
+    "gn:name":"Uragasmanhandiya",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632313,
+        85673789,
+        1092060579
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1225428,
+        "wk:page":"Uragasmanhandiya"
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"02443d9369f0ec6a6ad132b850b77d0b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "county_id":1092060579,
+            "locality_id":1226082911,
+            "region_id":85673789
+        }
+    ],
+    "wof:id":1226082911,
+    "wof:lastmodified":1537567965,
+    "wof:name":"Uragasmanhandiya",
+    "wof:parent_id":1092060579,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    80.0927,
+    6.3429,
+    80.0927,
+    6.3429
+],
+  "geometry": {"coordinates":[80.09269999999999,6.3429],"type":"Point"}
+}

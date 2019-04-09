@@ -1,0 +1,67 @@
+{
+  "id": 1209968637,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"81.117,8.4831,81.117,8.4831",
+    "geom:latitude":8.4831,
+    "geom:longitude":81.117,
+    "gn:admin1_code":"37.0",
+    "gn:asciiname":"Karaichchitidal",
+    "gn:country_code":"LK",
+    "gn:dem":4,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1241378,
+    "gn:latitude":8.4831,
+    "gn:longitude":81.117,
+    "gn:modification_date":"2012-04-05",
+    "gn:name":"Karaichchitidal",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632313,
+        85673747,
+        1092066463
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1241378
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"5761ee1cd3458618e878a0e4ba2bcc71",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "county_id":1092066463,
+            "locality_id":1209968637,
+            "region_id":85673747
+        }
+    ],
+    "wof:id":1209968637,
+    "wof:lastmodified":1536396053,
+    "wof:name":"Karaichchitidal",
+    "wof:parent_id":1092066463,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    81.117,
+    8.4831,
+    81.117,
+    8.4831
+],
+  "geometry": {"coordinates":[81.117,8.4831],"type":"Point"}
+}

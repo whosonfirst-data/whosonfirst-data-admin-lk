@@ -1,0 +1,67 @@
+{
+  "id": 1209756793,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"81.3256,6.2186,81.3256,6.2186",
+    "geom:latitude":6.2186,
+    "geom:longitude":81.3256,
+    "gn:admin1_code":"34.0",
+    "gn:asciiname":"Kirinda",
+    "gn:country_code":"LK",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1240114,
+    "gn:latitude":6.2186,
+    "gn:longitude":81.3256,
+    "gn:modification_date":"1994-01-08",
+    "gn:name":"Kirinda",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632313,
+        85673791,
+        1092066869
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1240114
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"404b611c22a98bb6d366661262d0eb93",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "county_id":1092066869,
+            "locality_id":1209756793,
+            "region_id":85673791
+        }
+    ],
+    "wof:id":1209756793,
+    "wof:lastmodified":1536390297,
+    "wof:name":"Kirinda",
+    "wof:parent_id":1092066869,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    81.3256,
+    6.2186,
+    81.3256,
+    6.2186
+],
+  "geometry": {"coordinates":[81.32559999999999,6.2186],"type":"Point"}
+}

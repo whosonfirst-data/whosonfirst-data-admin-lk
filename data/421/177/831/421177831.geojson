@@ -1,0 +1,84 @@
+{
+  "id": 421177831,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"80.6061,6.9284,80.6061,6.9284",
+    "geom:latitude":6.9284,
+    "geom:longitude":80.6061,
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:tam_x_preferred":[
+        "\u0b95\u0bca\u0b9f\u0bcd\u0b9f\u0b95\u0bb2\u0bc8"
+    ],
+    "name:unk_x_variant":[
+        "Kotagala Town"
+    ],
+    "qs:gn_country":"LK",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":1239148,
+    "qs:gn_pop":0,
+    "qs:name":"Kotagala",
+    "qs:name_adm0":"Sri Lanka",
+    "qs:name_adm1":"Central",
+    "qs:photos":51,
+    "qs:photos_1k":10,
+    "qs:photos_9k":1,
+    "qs:photos_9r":2,
+    "qs:photos_all":51,
+    "qs:photos_sr":2,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":1354032,
+    "qs:woe_adm0":23424778,
+    "qs:woe_id":2180662,
+    "src:geom":"quattroshapes",
+    "wd:wordcount":28,
+    "wof:belongsto":[
+        102191569,
+        85632313,
+        85673731,
+        1092064313
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1239148,
+        "gp:id":2180662,
+        "qs:id":1354032,
+        "wd:id":"Q6433837"
+    },
+    "wof:country":"LK",
+    "wof:created":1459009162,
+    "wof:geomhash":"42b53c18aa75630d1414d0deeb63303c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "county_id":1092064313,
+            "locality_id":421177831,
+            "region_id":85673731
+        }
+    ],
+    "wof:id":421177831,
+    "wof:lastmodified":1527716484,
+    "wof:name":"Kotagala",
+    "wof:parent_id":1092064313,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    80.6061,
+    6.9284,
+    80.6061,
+    6.9284
+],
+  "geometry": {"coordinates":[80.6061,6.9284],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1259626335,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"81.8475,7.1954,81.8475,7.1954",
+    "geom:latitude":7.1954,
+    "geom:longitude":81.8475,
+    "gn:admin1_code":"37.0",
+    "gn:asciiname":"Kolavil",
+    "gn:country_code":"LK",
+    "gn:dem":4,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1239654,
+    "gn:latitude":7.1954,
+    "gn:longitude":81.8475,
+    "gn:modification_date":"2012-04-05",
+    "gn:name":"Kolavil",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kolavi",
+        "Kolavil"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632313,
+        85673733,
+        1092056377
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1239654
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"ae4567e19cc81d1f0992775c3fcc58ea",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "county_id":1092056377,
+            "locality_id":1259626335,
+            "region_id":85673733
+        }
+    ],
+    "wof:id":1259626335,
+    "wof:lastmodified":1537661496,
+    "wof:name":"Kolavil",
+    "wof:parent_id":1092056377,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    81.8475,
+    7.1954,
+    81.8475,
+    7.1954
+],
+  "geometry": {"coordinates":[81.8475,7.1954],"type":"Point"}
+}

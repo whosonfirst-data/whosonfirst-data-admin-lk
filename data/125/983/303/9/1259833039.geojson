@@ -1,0 +1,67 @@
+{
+  "id": 1259833039,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"81.0528,7.0171,81.0528,7.0171",
+    "geom:latitude":7.0171,
+    "geom:longitude":81.0528,
+    "gn:admin1_code":"35.0",
+    "gn:asciiname":"Meditale",
+    "gn:country_code":"LK",
+    "gn:dem":749,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1235443,
+    "gn:latitude":7.0171,
+    "gn:longitude":81.0528,
+    "gn:modification_date":"1994-01-08",
+    "gn:name":"Meditale",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632313,
+        85673801,
+        1092066285
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1235443
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"2d7987db6c5bac3be3db8401dc8e74ef",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "county_id":1092066285,
+            "locality_id":1259833039,
+            "region_id":85673801
+        }
+    ],
+    "wof:id":1259833039,
+    "wof:lastmodified":1536850879,
+    "wof:name":"Meditale",
+    "wof:parent_id":1092066285,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    81.0528,
+    7.0171,
+    81.0528,
+    7.0171
+],
+  "geometry": {"coordinates":[81.0528,7.0171],"type":"Point"}
+}

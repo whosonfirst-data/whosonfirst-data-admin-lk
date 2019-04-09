@@ -1,0 +1,72 @@
+{
+  "id": 1259422935,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"79.93333,6.96667,79.93333,6.96667",
+    "geom:latitude":6.96667,
+    "geom:longitude":79.93333,
+    "gn:admin1_code":"36.0",
+    "gn:asciiname":"Talawatuhenpita South",
+    "gn:cc2":"LK",
+    "gn:country_code":"LK",
+    "gn:dem":11,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1227291,
+    "gn:latitude":6.96667,
+    "gn:longitude":79.93333,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Talawatuhenpita South",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Talawatuhenpita",
+        "Talawatuhenpita South"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632313,
+        85673815,
+        1092057163
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1227291
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"555d6e18cf9170322cccb85ee0593ea3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "county_id":1092057163,
+            "locality_id":1259422935,
+            "region_id":85673815
+        }
+    ],
+    "wof:id":1259422935,
+    "wof:lastmodified":1537661382,
+    "wof:name":"Talawatuhenpita South",
+    "wof:parent_id":1092057163,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    79.93333,
+    6.96667,
+    79.93333,
+    6.96667
+],
+  "geometry": {"coordinates":[79.93333,6.96667],"type":"Point"}
+}

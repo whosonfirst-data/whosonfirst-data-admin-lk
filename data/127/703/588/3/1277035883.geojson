@@ -1,0 +1,68 @@
+{
+  "id": 1277035883,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"80.63333,7.8,80.63333,7.8",
+    "geom:latitude":7.8,
+    "geom:longitude":80.63333,
+    "gn:admin1_code":"29.0",
+    "gn:asciiname":"Embulambe",
+    "gn:country_code":"LK",
+    "gn:dem":236,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1247010,
+    "gn:latitude":7.8,
+    "gn:longitude":80.63333,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Embulambe",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632313,
+        85673723,
+        1092057503
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1247010,
+        "wk:page":"Embulambe"
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"e15abac21a0fb83f9d16f0f3b1fa4575",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "county_id":1092057503,
+            "locality_id":1277035883,
+            "region_id":85673723
+        }
+    ],
+    "wof:id":1277035883,
+    "wof:lastmodified":1537568014,
+    "wof:name":"Embulambe",
+    "wof:parent_id":1092057503,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    80.63333,
+    7.8,
+    80.63333,
+    7.8
+],
+  "geometry": {"coordinates":[80.63333,7.8],"type":"Point"}
+}

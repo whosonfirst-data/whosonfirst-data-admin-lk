@@ -1,0 +1,70 @@
+{
+  "id": 1243413821,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"80.2959,7.4154,80.2959,7.4154",
+    "geom:latitude":7.4154,
+    "geom:longitude":80.2959,
+    "gn:admin1_code":"32.0",
+    "gn:asciiname":"Hathgama",
+    "gn:country_code":"LK",
+    "gn:dem":126,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1244655,
+    "gn:latitude":7.4154,
+    "gn:longitude":80.2959,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Hathgama",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Hatagama"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632313,
+        85673777,
+        1092065381
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1244655
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"dcf1187a47fc50c1d631ff6a39472a3a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "county_id":1092065381,
+            "locality_id":1243413821,
+            "region_id":85673777
+        }
+    ],
+    "wof:id":1243413821,
+    "wof:lastmodified":1537661541,
+    "wof:name":"Hathgama",
+    "wof:parent_id":1092065381,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    80.2959,
+    7.4154,
+    80.2959,
+    7.4154
+],
+  "geometry": {"coordinates":[80.2959,7.4154],"type":"Point"}
+}

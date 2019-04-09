@@ -1,0 +1,67 @@
+{
+  "id": 1310245489,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"81.0933,7.0879,81.0933,7.0879",
+    "geom:latitude":7.0879,
+    "geom:longitude":81.0933,
+    "gn:admin1_code":"35.0",
+    "gn:asciiname":"Dehithenna",
+    "gn:country_code":"LK",
+    "gn:dem":393,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7474880,
+    "gn:latitude":7.0879,
+    "gn:longitude":81.0933,
+    "gn:modification_date":"2010-08-08",
+    "gn:name":"Dehithenna",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632313,
+        85673801,
+        1092063223
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7474880
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"63006748de78b426d7350f789d53c22d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "county_id":1092063223,
+            "locality_id":1310245489,
+            "region_id":85673801
+        }
+    ],
+    "wof:id":1310245489,
+    "wof:lastmodified":1536794707,
+    "wof:name":"Dehithenna",
+    "wof:parent_id":1092063223,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    81.0933,
+    7.0879,
+    81.0933,
+    7.0879
+],
+  "geometry": {"coordinates":[81.0933,7.0879],"type":"Point"}
+}

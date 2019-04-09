@@ -1,0 +1,73 @@
+{
+  "id": 1343608597,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"80.82139,7.28611,80.82139,7.28611",
+    "geom:latitude":7.28611,
+    "geom:longitude":80.82139,
+    "gn:admin1_code":"29.0",
+    "gn:asciiname":"Urugala",
+    "gn:cc2":"LK",
+    "gn:country_code":"LK",
+    "gn:dem":692,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1225360,
+    "gn:latitude":7.28611,
+    "gn:longitude":80.82139,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Urugala",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Urugalakadawidiya",
+        "Urugala"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632313,
+        85673719,
+        1092063065
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1225360,
+        "wk:page":"Urugalakadawidiya"
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"3fd4a4128b16ceffbf390921caa8a9d8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "county_id":1092063065,
+            "locality_id":1343608597,
+            "region_id":85673719
+        }
+    ],
+    "wof:id":1343608597,
+    "wof:lastmodified":1537661353,
+    "wof:name":"Urugala",
+    "wof:parent_id":1092063065,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    80.82139000000002,
+    7.28611,
+    80.82139000000002,
+    7.28611
+],
+  "geometry": {"coordinates":[80.82139000000002,7.28611],"type":"Point"}
+}

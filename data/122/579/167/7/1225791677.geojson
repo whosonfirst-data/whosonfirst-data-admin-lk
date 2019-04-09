@@ -1,0 +1,67 @@
+{
+  "id": 1225791677,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"80.5833,8.0584,80.5833,8.0584",
+    "geom:latitude":8.0584,
+    "geom:longitude":80.5833,
+    "gn:admin1_code":"30.0",
+    "gn:asciiname":"Kekitawa",
+    "gn:country_code":"LK",
+    "gn:dem":147,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7612450,
+    "gn:latitude":8.0584,
+    "gn:longitude":80.5833,
+    "gn:modification_date":"2010-12-04",
+    "gn:name":"Kekitawa",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632313,
+        85673751,
+        1092060793
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7612450
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"7cdafa71b12169d51fd94fb32f731257",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "county_id":1092060793,
+            "locality_id":1225791677,
+            "region_id":85673751
+        }
+    ],
+    "wof:id":1225791677,
+    "wof:lastmodified":1537088516,
+    "wof:name":"Kekitawa",
+    "wof:parent_id":1092060793,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    80.5833,
+    8.0584,
+    80.5833,
+    8.0584
+],
+  "geometry": {"coordinates":[80.58329999999999,8.0584],"type":"Point"}
+}

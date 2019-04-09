@@ -1,0 +1,72 @@
+{
+  "id": 1343420589,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"80.11667,7.7,80.11667,7.7",
+    "geom:latitude":7.7,
+    "geom:longitude":80.11667,
+    "gn:admin1_code":"32.0",
+    "gn:asciiname":"Alawwegama",
+    "gn:cc2":"LK",
+    "gn:country_code":"LK",
+    "gn:dem":53,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1251986,
+    "gn:latitude":7.7,
+    "gn:longitude":80.11667,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Alawwegama",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Alauwegama",
+        "Alawwegama"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632313,
+        85673777,
+        1092061057
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1251986
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"9556e1b9119bba13046feabf450c2934",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "county_id":1092061057,
+            "locality_id":1343420589,
+            "region_id":85673777
+        }
+    ],
+    "wof:id":1343420589,
+    "wof:lastmodified":1537661604,
+    "wof:name":"Alawwegama",
+    "wof:parent_id":1092061057,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    80.11667,
+    7.7,
+    80.11667,
+    7.7
+],
+  "geometry": {"coordinates":[80.11667,7.7],"type":"Point"}
+}

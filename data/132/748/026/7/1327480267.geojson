@@ -1,0 +1,67 @@
+{
+  "id": 1327480267,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"80.21667,8.43333,80.21667,8.43333",
+    "geom:latitude":8.43333,
+    "geom:longitude":80.21667,
+    "gn:admin1_code":"30.0",
+    "gn:asciiname":"Maha Puliyankulama",
+    "gn:country_code":"LK",
+    "gn:dem":59,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1236859,
+    "gn:latitude":8.43333,
+    "gn:longitude":80.21667,
+    "gn:modification_date":"1994-01-08",
+    "gn:name":"Maha Puliyankulama",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632313,
+        85673751,
+        1092062291
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1236859
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"7fa0c58d57708c0be941c2616eb90c8b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "county_id":1092062291,
+            "locality_id":1327480267,
+            "region_id":85673751
+        }
+    ],
+    "wof:id":1327480267,
+    "wof:lastmodified":1536608948,
+    "wof:name":"Maha Puliyankulama",
+    "wof:parent_id":1092062291,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    80.21667,
+    8.43333,
+    80.21667,
+    8.43333
+],
+  "geometry": {"coordinates":[80.21666999999999,8.43333],"type":"Point"}
+}

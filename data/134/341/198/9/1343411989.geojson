@@ -1,0 +1,68 @@
+{
+  "id": 1343411989,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"80.6808,7.3493,80.6808,7.3493",
+    "geom:latitude":7.3493,
+    "geom:longitude":80.6808,
+    "gn:admin1_code":"29.0",
+    "gn:asciiname":"Wattegama",
+    "gn:country_code":"LK",
+    "gn:dem":479,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1224059,
+    "gn:latitude":7.3493,
+    "gn:longitude":80.6808,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Wattegama",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632313,
+        85673719,
+        1092065219
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1224059,
+        "wk:page":"Wattegama"
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"1b2f0bfbd18fc590d75a4b6b08393eb2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "county_id":1092065219,
+            "locality_id":1343411989,
+            "region_id":85673719
+        }
+    ],
+    "wof:id":1343411989,
+    "wof:lastmodified":1537567961,
+    "wof:name":"Wattegama",
+    "wof:parent_id":1092065219,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    80.6808,
+    7.3493,
+    80.6808,
+    7.3493
+],
+  "geometry": {"coordinates":[80.6808,7.3493],"type":"Point"}
+}

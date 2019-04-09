@@ -1,0 +1,67 @@
+{
+  "id": 1259727749,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"80.0519,6.734,80.0519,6.734",
+    "geom:latitude":6.734,
+    "geom:longitude":80.0519,
+    "gn:admin1_code":"36.0",
+    "gn:asciiname":"Owitiyagala",
+    "gn:country_code":"LK",
+    "gn:dem":26,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1232481,
+    "gn:latitude":6.734,
+    "gn:longitude":80.0519,
+    "gn:modification_date":"1994-01-08",
+    "gn:name":"Owitiyagala",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632313,
+        85673819,
+        1092059431
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1232481
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"eadd052ca8cd06ed543be292dccb580d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "county_id":1092059431,
+            "locality_id":1259727749,
+            "region_id":85673819
+        }
+    ],
+    "wof:id":1259727749,
+    "wof:lastmodified":1537002600,
+    "wof:name":"Owitiyagala",
+    "wof:parent_id":1092059431,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    80.0519,
+    6.734,
+    80.0519,
+    6.734
+],
+  "geometry": {"coordinates":[80.0519,6.734],"type":"Point"}
+}

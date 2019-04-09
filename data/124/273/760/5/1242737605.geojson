@@ -1,0 +1,67 @@
+{
+  "id": 1242737605,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"80.3702,8.0116,80.3702,8.0116",
+    "geom:latitude":8.0116,
+    "geom:longitude":80.3702,
+    "gn:admin1_code":"32.0",
+    "gn:asciiname":"Karuwalagaswewa",
+    "gn:country_code":"LK",
+    "gn:dem":106,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1241127,
+    "gn:latitude":8.0116,
+    "gn:longitude":80.3702,
+    "gn:modification_date":"1994-01-08",
+    "gn:name":"Karuwalagaswewa",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632313,
+        85673777,
+        1092058131
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1241127
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"56a40f2d7cece5aacfd844078ce788be",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "county_id":1092058131,
+            "locality_id":1242737605,
+            "region_id":85673777
+        }
+    ],
+    "wof:id":1242737605,
+    "wof:lastmodified":1536832399,
+    "wof:name":"Karuwalagaswewa",
+    "wof:parent_id":1092058131,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    80.3702,
+    8.0116,
+    80.3702,
+    8.0116
+],
+  "geometry": {"coordinates":[80.3702,8.0116],"type":"Point"}
+}

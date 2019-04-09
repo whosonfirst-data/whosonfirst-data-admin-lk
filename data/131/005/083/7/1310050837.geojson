@@ -1,0 +1,67 @@
+{
+  "id": 1310050837,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"80.7048,6.3022,80.7048,6.3022",
+    "geom:latitude":6.3022,
+    "geom:longitude":80.7048,
+    "gn:admin1_code":"34.0",
+    "gn:asciiname":"Alupotdeniya",
+    "gn:country_code":"LK",
+    "gn:dem":360,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1251855,
+    "gn:latitude":6.3022,
+    "gn:longitude":80.7048,
+    "gn:modification_date":"1994-01-08",
+    "gn:name":"Alupotdeniya",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632313,
+        85673791,
+        1092060721
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1251855
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"f15d9504306f9ec7bd98baca710cb186",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "county_id":1092060721,
+            "locality_id":1310050837,
+            "region_id":85673791
+        }
+    ],
+    "wof:id":1310050837,
+    "wof:lastmodified":1537072270,
+    "wof:name":"Alupotdeniya",
+    "wof:parent_id":1092060721,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    80.7048,
+    6.3022,
+    80.7048,
+    6.3022
+],
+  "geometry": {"coordinates":[80.70480000000001,6.3022],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1293435503,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"80.2668,7.5378,80.2668,7.5378",
+    "geom:latitude":7.5378,
+    "geom:longitude":80.2668,
+    "gn:admin1_code":"32.0",
+    "gn:asciiname":"Pahalabingkumbura",
+    "gn:country_code":"LK",
+    "gn:dem":82,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7432680,
+    "gn:latitude":7.5378,
+    "gn:longitude":80.2668,
+    "gn:modification_date":"2010-08-07",
+    "gn:name":"Pahalabingkumbura",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632313,
+        85673777,
+        1092056961
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7432680
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"69562c72892b8319bec2cbeca3f3cbdc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "county_id":1092056961,
+            "locality_id":1293435503,
+            "region_id":85673777
+        }
+    ],
+    "wof:id":1293435503,
+    "wof:lastmodified":1536860645,
+    "wof:name":"Pahalabingkumbura",
+    "wof:parent_id":1092056961,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    80.2668,
+    7.5378,
+    80.2668,
+    7.5378
+],
+  "geometry": {"coordinates":[80.2668,7.5378],"type":"Point"}
+}

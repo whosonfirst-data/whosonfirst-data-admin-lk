@@ -1,0 +1,67 @@
+{
+  "id": 1193081663,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"81.2628,6.8977,81.2628,6.8977",
+    "geom:latitude":6.8977,
+    "geom:longitude":81.2628,
+    "gn:admin1_code":"35.0",
+    "gn:asciiname":"Sapugasdowa",
+    "gn:country_code":"LK",
+    "gn:dem":304,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7618163,
+    "gn:latitude":6.8977,
+    "gn:longitude":81.2628,
+    "gn:modification_date":"2010-12-04",
+    "gn:name":"Sapugasdowa",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632313,
+        85673803,
+        1092056763
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7618163
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"a6dd47f9143865379c400d95b8099592",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "county_id":1092056763,
+            "locality_id":1193081663,
+            "region_id":85673803
+        }
+    ],
+    "wof:id":1193081663,
+    "wof:lastmodified":1536380101,
+    "wof:name":"Sapugasdowa",
+    "wof:parent_id":1092056763,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    81.2628,
+    6.8977,
+    81.2628,
+    6.8977
+],
+  "geometry": {"coordinates":[81.2628,6.8977],"type":"Point"}
+}

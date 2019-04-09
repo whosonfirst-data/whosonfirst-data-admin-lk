@@ -1,0 +1,67 @@
+{
+  "id": 1310258595,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"80.252,6.0856,80.252,6.0856",
+    "geom:latitude":6.0856,
+    "geom:longitude":80.252,
+    "gn:admin1_code":"34.0",
+    "gn:asciiname":"Ganhawagoda",
+    "gn:country_code":"LK",
+    "gn:dem":13,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7438854,
+    "gn:latitude":6.0856,
+    "gn:longitude":80.252,
+    "gn:modification_date":"2010-08-07",
+    "gn:name":"Ganhawagoda",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632313,
+        85673789,
+        1092056215
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7438854
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"c3730ef7f6a53081d6da498c7b97e280",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "county_id":1092056215,
+            "locality_id":1310258595,
+            "region_id":85673789
+        }
+    ],
+    "wof:id":1310258595,
+    "wof:lastmodified":1536776303,
+    "wof:name":"Ganhawagoda",
+    "wof:parent_id":1092056215,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    80.252,
+    6.0856,
+    80.252,
+    6.0856
+],
+  "geometry": {"coordinates":[80.252,6.0856],"type":"Point"}
+}

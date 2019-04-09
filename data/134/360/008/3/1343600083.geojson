@@ -1,0 +1,67 @@
+{
+  "id": 1343600083,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"80.3016,8.6685,80.3016,8.6685",
+    "geom:latitude":8.6685,
+    "geom:longitude":80.3016,
+    "gn:admin1_code":"38.0",
+    "gn:asciiname":"Veokalachcheddikulam",
+    "gn:country_code":"LK",
+    "gn:dem":58,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7431475,
+    "gn:latitude":8.6685,
+    "gn:longitude":80.3016,
+    "gn:modification_date":"2012-04-06",
+    "gn:name":"Veokalachcheddikulam",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632313,
+        85673757,
+        1092067431
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7431475
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"8541f0f5bbea9c4955f83748bcf02a95",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "county_id":1092067431,
+            "locality_id":1343600083,
+            "region_id":85673757
+        }
+    ],
+    "wof:id":1343600083,
+    "wof:lastmodified":1537040421,
+    "wof:name":"Veokalachcheddikulam",
+    "wof:parent_id":1092067431,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    80.3016,
+    8.6685,
+    80.3016,
+    8.6685
+],
+  "geometry": {"coordinates":[80.30159999999999,8.6685],"type":"Point"}
+}

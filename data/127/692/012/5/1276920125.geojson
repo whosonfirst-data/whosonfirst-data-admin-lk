@@ -1,0 +1,67 @@
+{
+  "id": 1276920125,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"79.9706,7.0865,79.9706,7.0865",
+    "geom:latitude":7.0865,
+    "geom:longitude":79.9706,
+    "gn:admin1_code":"36.0",
+    "gn:asciiname":"Kekulangoda",
+    "gn:country_code":"LK",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1240647,
+    "gn:latitude":7.0865,
+    "gn:longitude":79.9706,
+    "gn:modification_date":"1994-01-08",
+    "gn:name":"Kekulangoda",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632313,
+        85673815,
+        1092058643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1240647
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"e100024b974bf7b256dc3c4c9465bc2d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "county_id":1092058643,
+            "locality_id":1276920125,
+            "region_id":85673815
+        }
+    ],
+    "wof:id":1276920125,
+    "wof:lastmodified":1536986542,
+    "wof:name":"Kekulangoda",
+    "wof:parent_id":1092058643,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    79.9706,
+    7.0865,
+    79.9706,
+    7.0865
+],
+  "geometry": {"coordinates":[79.9706,7.0865],"type":"Point"}
+}

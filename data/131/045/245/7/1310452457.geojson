@@ -1,0 +1,68 @@
+{
+  "id": 1310452457,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"80.73333,7.96667,80.73333,7.96667",
+    "geom:latitude":7.96667,
+    "geom:longitude":80.73333,
+    "gn:admin1_code":"29.0",
+    "gn:asciiname":"Nagalawewa",
+    "gn:country_code":"LK",
+    "gn:dem":199,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1234003,
+    "gn:latitude":7.96667,
+    "gn:longitude":80.73333,
+    "gn:modification_date":"2013-11-02",
+    "gn:name":"Nagalawewa",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632313,
+        85673723,
+        1092057503
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1234003,
+        "wk:page":"Nagalawewa"
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"7925ec6f8aec5426a219fe7fc440d202",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "county_id":1092057503,
+            "locality_id":1310452457,
+            "region_id":85673723
+        }
+    ],
+    "wof:id":1310452457,
+    "wof:lastmodified":1537567987,
+    "wof:name":"Nagalawewa",
+    "wof:parent_id":1092057503,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    80.73333000000002,
+    7.96667,
+    80.73333000000002,
+    7.96667
+],
+  "geometry": {"coordinates":[80.73333000000002,7.96667],"type":"Point"}
+}

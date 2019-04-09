@@ -1,0 +1,70 @@
+{
+  "id": 1344208683,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"80.6454,9.1202,80.6454,9.1202",
+    "geom:latitude":9.1202,
+    "geom:longitude":80.6454,
+    "gn:admin1_code":"38.0",
+    "gn:asciiname":"Katallyarsamalankulam",
+    "gn:country_code":"LK",
+    "gn:dem":47,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1241089,
+    "gn:latitude":9.1202,
+    "gn:longitude":80.6454,
+    "gn:modification_date":"2012-04-05",
+    "gn:name":"Katallyarsamalankulam",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kataliyarsamalankulam"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632313,
+        85673765,
+        1092064421
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1241089
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"076cbfb5af19ee49f9d5c13072ba9106",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "county_id":1092064421,
+            "locality_id":1344208683,
+            "region_id":85673765
+        }
+    ],
+    "wof:id":1344208683,
+    "wof:lastmodified":1537661508,
+    "wof:name":"Katallyarsamalankulam",
+    "wof:parent_id":1092064421,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    80.6454,
+    9.1202,
+    80.6454,
+    9.1202
+],
+  "geometry": {"coordinates":[80.6454,9.1202],"type":"Point"}
+}

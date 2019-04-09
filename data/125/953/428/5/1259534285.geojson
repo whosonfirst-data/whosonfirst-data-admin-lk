@@ -1,0 +1,71 @@
+{
+  "id": 1259534285,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"80.524,7.3508,80.524,7.3508",
+    "geom:latitude":7.3508,
+    "geom:longitude":80.524,
+    "gn:admin1_code":"29.0",
+    "gn:asciiname":"Pelanegama",
+    "gn:country_code":"LK",
+    "gn:dem":299,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1230622,
+    "gn:latitude":7.3508,
+    "gn:longitude":80.524,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Pelanegama",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Pelenegama"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632313,
+        85673719,
+        1092066809
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1230622,
+        "wk:page":"Pelenegama"
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"82ab9f2d7dba9b052d49e5e490d0de96",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "county_id":1092066809,
+            "locality_id":1259534285,
+            "region_id":85673719
+        }
+    ],
+    "wof:id":1259534285,
+    "wof:lastmodified":1537661413,
+    "wof:name":"Pelanegama",
+    "wof:parent_id":1092066809,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    80.524,
+    7.3508,
+    80.524,
+    7.3508
+],
+  "geometry": {"coordinates":[80.524,7.3508],"type":"Point"}
+}

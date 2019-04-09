@@ -1,0 +1,67 @@
+{
+  "id": 1276376457,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"81.7886,6.7464,81.7886,6.7464",
+    "geom:latitude":6.7464,
+    "geom:longitude":81.7886,
+    "gn:admin1_code":"37.0",
+    "gn:asciiname":"Panakala",
+    "gn:country_code":"LK",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8225292,
+    "gn:latitude":6.7464,
+    "gn:longitude":81.7886,
+    "gn:modification_date":"2012-04-06",
+    "gn:name":"Panakala",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632313,
+        85673733,
+        1092061831
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8225292
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"221befcf4429d89058a482fc8761488f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "county_id":1092061831,
+            "locality_id":1276376457,
+            "region_id":85673733
+        }
+    ],
+    "wof:id":1276376457,
+    "wof:lastmodified":1536721078,
+    "wof:name":"Panakala",
+    "wof:parent_id":1092061831,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    81.7886,
+    6.7464,
+    81.7886,
+    6.7464
+],
+  "geometry": {"coordinates":[81.7886,6.7464],"type":"Point"}
+}

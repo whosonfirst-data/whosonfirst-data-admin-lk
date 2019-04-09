@@ -1,0 +1,67 @@
+{
+  "id": 1259939739,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"79.8387,7.531,79.8387,7.531",
+    "geom:latitude":7.531,
+    "geom:longitude":79.8387,
+    "gn:admin1_code":"32.0",
+    "gn:asciiname":"Pitawalayagama",
+    "gn:country_code":"LK",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1230073,
+    "gn:latitude":7.531,
+    "gn:longitude":79.8387,
+    "gn:modification_date":"1994-01-08",
+    "gn:name":"Pitawalayagama",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632313,
+        85673779,
+        1092061929
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1230073
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"d988d85de4924de2f8a2bc5bd87a7b0c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "county_id":1092061929,
+            "locality_id":1259939739,
+            "region_id":85673779
+        }
+    ],
+    "wof:id":1259939739,
+    "wof:lastmodified":1536698559,
+    "wof:name":"Pitawalayagama",
+    "wof:parent_id":1092061929,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    79.8387,
+    7.531,
+    79.8387,
+    7.531
+],
+  "geometry": {"coordinates":[79.8387,7.531],"type":"Point"}
+}

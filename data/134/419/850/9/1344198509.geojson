@@ -1,0 +1,67 @@
+{
+  "id": 1344198509,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"80.1076,6.2914,80.1076,6.2914",
+    "geom:latitude":6.2914,
+    "geom:longitude":80.1076,
+    "gn:admin1_code":"34.0",
+    "gn:asciiname":"Mulleketiyatota",
+    "gn:country_code":"LK",
+    "gn:dem":18,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7623787,
+    "gn:latitude":6.2914,
+    "gn:longitude":80.1076,
+    "gn:modification_date":"2010-12-04",
+    "gn:name":"Mulleketiyatota",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632313,
+        85673789,
+        1092060579
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7623787
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"1bdb1b2e88d125b709bded6c67bd5dc3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "county_id":1092060579,
+            "locality_id":1344198509,
+            "region_id":85673789
+        }
+    ],
+    "wof:id":1344198509,
+    "wof:lastmodified":1536676382,
+    "wof:name":"Mulleketiyatota",
+    "wof:parent_id":1092060579,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    80.1076,
+    6.2914,
+    80.1076,
+    6.2914
+],
+  "geometry": {"coordinates":[80.10760000000001,6.2914],"type":"Point"}
+}

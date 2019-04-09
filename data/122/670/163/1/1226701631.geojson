@@ -1,0 +1,75 @@
+{
+  "id": 1226701631,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"79.97171,8.83635,79.97171,8.83635",
+    "geom:latitude":8.83635,
+    "geom:longitude":79.97171,
+    "gn:admin1_code":"38.0",
+    "gn:admin2_code":"1236148.0",
+    "gn:asciiname":"Nanaddan",
+    "gn:country_code":"LK",
+    "gn:dem":12,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1233774,
+    "gn:latitude":8.83635,
+    "gn:longitude":79.97171,
+    "gn:modification_date":"2012-12-26",
+    "gn:name":"Nanaddan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Nanadden",
+        "Nanattan",
+        "Nanatan",
+        "Nanaddan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632313,
+        85673761,
+        1092063841
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1233774,
+        "wk:page":"Nanaddan"
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"f9e73351a9556b3fae339a3cb83b6ae0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "county_id":1092063841,
+            "locality_id":1226701631,
+            "region_id":85673761
+        }
+    ],
+    "wof:id":1226701631,
+    "wof:lastmodified":1537661444,
+    "wof:name":"Nanaddan",
+    "wof:parent_id":1092063841,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    79.97171,
+    8.83635,
+    79.97171,
+    8.83635
+],
+  "geometry": {"coordinates":[79.97171,8.83635],"type":"Point"}
+}

@@ -1,0 +1,61 @@
+{
+  "id": 1209458023,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"81.26667,7.61667,81.26667,7.61667",
+    "geom:latitude":7.61667,
+    "geom:longitude":81.26667,
+    "gn:admin1_code":"37.0",
+    "gn:asciiname":"Omuna",
+    "gn:country_code":"LK",
+    "gn:dem":108,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1232614,
+    "gn:latitude":7.61667,
+    "gn:longitude":81.26667,
+    "gn:modification_date":"2012-04-05",
+    "gn:name":"Omuna",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632313
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1232614
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"a6a15ae41a442b6a1380f2ca507b7ab2",
+    "wof:hierarchy":[
+        {
+            "country_id":85632313,
+            "locality_id":1209458023
+        }
+    ],
+    "wof:id":1209458023,
+    "wof:lastmodified":1536286474,
+    "wof:name":"Omuna",
+    "wof:parent_id":85632313,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    81.26666999999998,
+    7.61667,
+    81.26666999999998,
+    7.61667
+],
+  "geometry": {"coordinates":[81.26666999999998,7.61667],"type":"Point"}
+}

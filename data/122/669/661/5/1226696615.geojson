@@ -1,0 +1,67 @@
+{
+  "id": 1226696615,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"80.2573,8.2011,80.2573,8.2011",
+    "geom:latitude":8.2011,
+    "geom:longitude":80.2573,
+    "gn:admin1_code":"30.0",
+    "gn:asciiname":"Siyambalagahagama",
+    "gn:country_code":"LK",
+    "gn:dem":84,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1227827,
+    "gn:latitude":8.2011,
+    "gn:longitude":80.2573,
+    "gn:modification_date":"1994-01-08",
+    "gn:name":"Siyambalagahagama",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632313,
+        85673751,
+        1092064279
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1227827
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"2794c4269f739b592a1df6bbd7a14da6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "county_id":1092064279,
+            "locality_id":1226696615,
+            "region_id":85673751
+        }
+    ],
+    "wof:id":1226696615,
+    "wof:lastmodified":1536786888,
+    "wof:name":"Siyambalagahagama",
+    "wof:parent_id":1092064279,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    80.2573,
+    8.2011,
+    80.2573,
+    8.2011
+],
+  "geometry": {"coordinates":[80.2573,8.2011],"type":"Point"}
+}

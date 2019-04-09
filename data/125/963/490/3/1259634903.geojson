@@ -1,0 +1,68 @@
+{
+  "id": 1259634903,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"80.4721,9.4428,80.4721,9.4428",
+    "geom:latitude":9.4428,
+    "geom:longitude":80.4721,
+    "gn:admin1_code":"38.0",
+    "gn:asciiname":"Velikkandal",
+    "gn:country_code":"LK",
+    "gn:dem":11,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1224922,
+    "gn:latitude":9.4428,
+    "gn:longitude":80.4721,
+    "gn:modification_date":"2012-04-05",
+    "gn:name":"Velikkandal",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632313,
+        85673773,
+        1092060355
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1224922,
+        "wk:page":"Velikkandal"
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"352dab531ebd0d78cc2ae52e25163424",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "county_id":1092060355,
+            "locality_id":1259634903,
+            "region_id":85673773
+        }
+    ],
+    "wof:id":1259634903,
+    "wof:lastmodified":1537567963,
+    "wof:name":"Velikkandal",
+    "wof:parent_id":1092060355,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    80.4721,
+    9.4428,
+    80.4721,
+    9.4428
+],
+  "geometry": {"coordinates":[80.4721,9.4428],"type":"Point"}
+}

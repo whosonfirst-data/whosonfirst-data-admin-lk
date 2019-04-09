@@ -1,0 +1,67 @@
+{
+  "id": 1242823017,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"80.3675,6.7886,80.3675,6.7886",
+    "geom:latitude":6.7886,
+    "geom:longitude":80.3675,
+    "gn:admin1_code":"33.0",
+    "gn:asciiname":"Udakada",
+    "gn:country_code":"LK",
+    "gn:dem":32,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1226033,
+    "gn:latitude":6.7886,
+    "gn:longitude":80.3675,
+    "gn:modification_date":"1994-01-08",
+    "gn:name":"Udakada",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632313,
+        85673785,
+        1092061795
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1226033
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"5007cf9a9da99eeb1dc8a58364706538",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "county_id":1092061795,
+            "locality_id":1242823017,
+            "region_id":85673785
+        }
+    ],
+    "wof:id":1242823017,
+    "wof:lastmodified":1536710623,
+    "wof:name":"Udakada",
+    "wof:parent_id":1092061795,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    80.3675,
+    6.7886,
+    80.3675,
+    6.7886
+],
+  "geometry": {"coordinates":[80.36750000000001,6.7886],"type":"Point"}
+}

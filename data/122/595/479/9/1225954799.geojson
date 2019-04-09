@@ -1,0 +1,71 @@
+{
+  "id": 1225954799,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"81.53333,7.11667,81.53333,7.11667",
+    "geom:latitude":7.11667,
+    "geom:longitude":81.53333,
+    "gn:admin1_code":"31.0",
+    "gn:asciiname":"Wadinagala",
+    "gn:cc2":"LK",
+    "gn:country_code":"LK",
+    "gn:dem":73,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1224680,
+    "gn:latitude":7.11667,
+    "gn:longitude":81.53333,
+    "gn:modification_date":"1994-01-08",
+    "gn:name":"Wadinagala",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Vadinagala"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632313,
+        85673733,
+        1092057459
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1224680
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"adc0e9218e182d25b08bba1d23b93b4a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "county_id":1092057459,
+            "locality_id":1225954799,
+            "region_id":85673733
+        }
+    ],
+    "wof:id":1225954799,
+    "wof:lastmodified":1537661347,
+    "wof:name":"Wadinagala",
+    "wof:parent_id":1092057459,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    81.53333,
+    7.11667,
+    81.53333,
+    7.11667
+],
+  "geometry": {"coordinates":[81.53333000000001,7.11667],"type":"Point"}
+}

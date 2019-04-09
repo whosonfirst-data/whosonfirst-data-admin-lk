@@ -1,0 +1,67 @@
+{
+  "id": 1243013407,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"80.156,6.1686,80.156,6.1686",
+    "geom:latitude":6.1686,
+    "geom:longitude":80.156,
+    "gn:admin1_code":"34.0",
+    "gn:asciiname":"Halpatota",
+    "gn:country_code":"LK",
+    "gn:dem":16,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1244974,
+    "gn:latitude":6.1686,
+    "gn:longitude":80.156,
+    "gn:modification_date":"1994-01-08",
+    "gn:name":"Halpatota",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632313,
+        85673789,
+        1092056807
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1244974
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"dbb494105b6b54bf552035c6a6d1ada3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "county_id":1092056807,
+            "locality_id":1243013407,
+            "region_id":85673789
+        }
+    ],
+    "wof:id":1243013407,
+    "wof:lastmodified":1536933543,
+    "wof:name":"Halpatota",
+    "wof:parent_id":1092056807,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    80.156,
+    6.1686,
+    80.156,
+    6.1686
+],
+  "geometry": {"coordinates":[80.15600000000001,6.1686],"type":"Point"}
+}

@@ -1,0 +1,115 @@
+{
+  "id": 85772795,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":17145891.687621,
+    "geom:bbox":"79.864449,6.855668,79.864449,6.855668",
+    "geom:latitude":6.855668,
+    "geom:longitude":79.864449,
+    "gn:latitude":6.1447,
+    "gn:longitude":80.0986,
+    "iso:country":"LK",
+    "lbl:latitude":6.855668,
+    "lbl:longitude":79.864449,
+    "mps:latitude":6.855498,
+    "mps:longitude":79.862478,
+    "mz:hierarchy_label":0,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":13.0,
+    "mz:tier_locality":2,
+    "name:eng_x_preferred":[
+        "Wellawatta"
+    ],
+    "name:sin_x_preferred":[
+        "\u0dc0\u0dd0\u0dbd\u0dca\u0dbd\u0dc0\u0dad\u0dca\u0dad"
+    ],
+    "name:tam_x_preferred":[
+        "\u0bb5\u0bc6\u0bb3\u0bcd\u0bb3\u0bb5\u0ba4\u0bcd\u0ba4\u0bc8"
+    ],
+    "name:unk_x_variant":[
+        "Wellawatta"
+    ],
+    "qs:gn_adm0_cc":"LK",
+    "qs:gn_fcode":"PPLX",
+    "qs:gn_local":1248991,
+    "qs:gn_nam_loc":"Colombo, Colombo, Western, LK",
+    "qs:gn_namadm1":"34",
+    "qs:gn_name":"Wellawatta",
+    "qs:local_max":2559,
+    "qs:local_sum":8835,
+    "qs:localhoods":10,
+    "qs:name":"Wellawatta",
+    "qs:name_adm0":"Sri Lanka",
+    "qs:name_adm1":"Western",
+    "qs:name_adm2":"Colombo",
+    "qs:name_local":"Colombo",
+    "qs:photo_max":259,
+    "qs:photo_sum":590,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":29,
+    "qs:woe_adm0":23424778,
+    "qs:woe_adm1":2344966,
+    "qs:woe_adm2":23706493,
+    "qs:woe_lau":0,
+    "qs:woe_local":2189783,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"mz",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"yerbashapes",
+    "wd:wordcount":356,
+    "wof:belongsto":[
+        102191569,
+        85632313,
+        1092057657,
+        85673811
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1223576,
+        "gp:id":2188995,
+        "qs:id":894785,
+        "wd:id":"Q7981177"
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"f01643738ef71301d2dc9d446e8eef6b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "county_id":1092057657,
+            "locality_id":-1,
+            "neighbourhood_id":85772795,
+            "region_id":85673811
+        }
+    ],
+    "wof:id":85772795,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1531859575,
+    "wof:name":"Wellawatta",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    79.864449,
+    6.855668,
+    79.864449,
+    6.855668
+],
+  "geometry": {"coordinates":[79.86444899999999,6.855668],"type":"Point"}
+}

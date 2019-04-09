@@ -1,0 +1,86 @@
+{
+  "id": 421192531,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"79.8757,6.8928,79.8757,6.8928",
+    "geom:latitude":6.8928,
+    "geom:longitude":79.8757,
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:sin_x_preferred":[
+        "\u0db1\u0dcf\u0dbb\u0dcf\u0dc4\u0dda\u0db1\u0dca\u0db4\u0dd2\u0da7"
+    ],
+    "name:unk_x_variant":[
+        "Narahenpitiya"
+    ],
+    "qs:gn_country":"LK",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":1233723,
+    "qs:gn_pop":0,
+    "qs:name":"Narahenpita",
+    "qs:name_adm0":"Sri Lanka",
+    "qs:name_adm1":"Western",
+    "qs:photos":2,
+    "qs:photos_1k":1,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":2,
+    "qs:photos_sr":1,
+    "qs:placetype":"Suburb",
+    "qs:pop_sr":"0",
+    "qs:qs_id":1168362,
+    "qs:woe_adm0":23424778,
+    "qs:woe_id":2183548,
+    "src:geom":"quattroshapes",
+    "wd:wordcount":90,
+    "wof:belongsto":[
+        102191569,
+        85632313,
+        1092066701,
+        85673811
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1233723,
+        "gp:id":2183548,
+        "qs:id":1168362,
+        "wd:id":"Q6965279",
+        "wk:page":"Narahenpita"
+    },
+    "wof:country":"LK",
+    "wof:created":1459009740,
+    "wof:geomhash":"487865c382b3decda7a2d1f61c2908e8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "county_id":1092066701,
+            "locality_id":-1,
+            "neighbourhood_id":421192531,
+            "region_id":85673811
+        }
+    ],
+    "wof:id":421192531,
+    "wof:lastmodified":1531858692,
+    "wof:name":"Narahenpita",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    79.8757,
+    6.8928,
+    79.8757,
+    6.8928
+],
+  "geometry": {"coordinates":[79.87569999999999,6.8928],"type":"Point"}
+}

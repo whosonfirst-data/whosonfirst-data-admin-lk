@@ -1,0 +1,99 @@
+{
+  "id": 421179015,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"80.0322,6.3136,80.0322,6.3136",
+    "geom:latitude":6.3136,
+    "geom:longitude":80.0322,
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:bul_x_preferred":[
+        "\u0410\u0445\u0443\u043d\u0433\u0430\u043b\u0430"
+    ],
+    "name:deu_x_preferred":[
+        "Ahungalla"
+    ],
+    "name:dut_x_preferred":[
+        "Ahungalla"
+    ],
+    "name:eng_x_preferred":[
+        "Ahungalla"
+    ],
+    "name:ger_x_preferred":[
+        "Ahungalla"
+    ],
+    "name:spa_x_preferred":[
+        "Ahungalla"
+    ],
+    "name:swe_x_preferred":[
+        "Ahungalla"
+    ],
+    "qs:gn_country":"LK",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":1252196,
+    "qs:gn_pop":0,
+    "qs:name":"Ahungalla",
+    "qs:name_adm0":"Sri Lanka",
+    "qs:name_adm1":"Southern",
+    "qs:photos":111,
+    "qs:photos_1k":22,
+    "qs:photos_9k":1,
+    "qs:photos_9r":3,
+    "qs:photos_all":111,
+    "qs:photos_sr":3,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":479361,
+    "qs:woe_adm0":23424778,
+    "qs:woe_id":2173320,
+    "src:geom":"quattroshapes",
+    "wd:wordcount":221,
+    "wof:belongsto":[
+        102191569,
+        85632313,
+        85673789,
+        1092056933
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1252196,
+        "gp:id":2173320,
+        "qs:id":479361,
+        "wd:id":"Q403028"
+    },
+    "wof:country":"LK",
+    "wof:created":1459009201,
+    "wof:geomhash":"ff286b056d2e6d41ab38216957ee15e8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "county_id":1092056933,
+            "locality_id":421179015,
+            "region_id":85673789
+        }
+    ],
+    "wof:id":421179015,
+    "wof:lastmodified":1527717703,
+    "wof:name":"Ahungalla",
+    "wof:parent_id":1092056933,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    80.0322,
+    6.3136,
+    80.0322,
+    6.3136
+],
+  "geometry": {"coordinates":[80.0322,6.3136],"type":"Point"}
+}

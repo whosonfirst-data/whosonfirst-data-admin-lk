@@ -1,0 +1,67 @@
+{
+  "id": 1260139933,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"80.4904,7.4551,80.4904,7.4551",
+    "geom:latitude":7.4551,
+    "geom:longitude":80.4904,
+    "gn:admin1_code":"32.0",
+    "gn:asciiname":"Erepolakanda",
+    "gn:country_code":"LK",
+    "gn:dem":402,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1246911,
+    "gn:latitude":7.4551,
+    "gn:longitude":80.4904,
+    "gn:modification_date":"1994-01-08",
+    "gn:name":"Erepolakanda",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632313,
+        85673777,
+        1092065951
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1246911
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"90bb88eeeac9440c1c60f3a7a046fb32",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "county_id":1092065951,
+            "locality_id":1260139933,
+            "region_id":85673777
+        }
+    ],
+    "wof:id":1260139933,
+    "wof:lastmodified":1536908014,
+    "wof:name":"Erepolakanda",
+    "wof:parent_id":1092065951,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    80.4904,
+    7.4551,
+    80.4904,
+    7.4551
+],
+  "geometry": {"coordinates":[80.49039999999999,7.4551],"type":"Point"}
+}

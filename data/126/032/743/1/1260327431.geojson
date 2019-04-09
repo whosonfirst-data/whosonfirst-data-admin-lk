@@ -1,0 +1,67 @@
+{
+  "id": 1260327431,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"80.2344,6.4943,80.2344,6.4943",
+    "geom:latitude":6.4943,
+    "geom:longitude":80.2344,
+    "gn:admin1_code":"36.0",
+    "gn:asciiname":"Magura",
+    "gn:country_code":"LK",
+    "gn:dem":79,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7556902,
+    "gn:latitude":6.4943,
+    "gn:longitude":80.2344,
+    "gn:modification_date":"2010-10-09",
+    "gn:name":"Magura",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632313,
+        85673819,
+        1092064831
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7556902
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"35bf567921ffc6d40e6917276d063b29",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "county_id":1092064831,
+            "locality_id":1260327431,
+            "region_id":85673819
+        }
+    ],
+    "wof:id":1260327431,
+    "wof:lastmodified":1536652860,
+    "wof:name":"Magura",
+    "wof:parent_id":1092064831,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    80.2344,
+    6.4943,
+    80.2344,
+    6.4943
+],
+  "geometry": {"coordinates":[80.23439999999999,6.4943],"type":"Point"}
+}

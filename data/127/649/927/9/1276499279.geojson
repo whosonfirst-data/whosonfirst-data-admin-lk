@@ -1,0 +1,67 @@
+{
+  "id": 1276499279,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"80.1675,6.8629,80.1675,6.8629",
+    "geom:latitude":6.8629,
+    "geom:longitude":80.1675,
+    "gn:admin1_code":"36.0",
+    "gn:asciiname":"Thummodara",
+    "gn:country_code":"LK",
+    "gn:dem":67,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7474138,
+    "gn:latitude":6.8629,
+    "gn:longitude":80.1675,
+    "gn:modification_date":"2010-08-08",
+    "gn:name":"Thummodara",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632313,
+        85673811,
+        1092064693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7474138
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"f2bd384dab6cd7b857e229135f96b005",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "county_id":1092064693,
+            "locality_id":1276499279,
+            "region_id":85673811
+        }
+    ],
+    "wof:id":1276499279,
+    "wof:lastmodified":1537051637,
+    "wof:name":"Thummodara",
+    "wof:parent_id":1092064693,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    80.1675,
+    6.8629,
+    80.1675,
+    6.8629
+],
+  "geometry": {"coordinates":[80.1675,6.8629],"type":"Point"}
+}

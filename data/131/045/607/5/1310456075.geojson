@@ -1,0 +1,70 @@
+{
+  "id": 1310456075,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"80.6181,6.6081,80.6181,6.6081",
+    "geom:latitude":6.6081,
+    "geom:longitude":80.6181,
+    "gn:admin1_code":"33.0",
+    "gn:asciiname":"Opanayaka",
+    "gn:country_code":"LK",
+    "gn:dem":150,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1232592,
+    "gn:latitude":6.6081,
+    "gn:longitude":80.6181,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Opanayaka",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Opanake"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632313,
+        85673785,
+        1092064505
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1232592
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"97a56523de196aba59f7d379849918ab",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "county_id":1092064505,
+            "locality_id":1310456075,
+            "region_id":85673785
+        }
+    ],
+    "wof:id":1310456075,
+    "wof:lastmodified":1537661432,
+    "wof:name":"Opanayaka",
+    "wof:parent_id":1092064505,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    80.6181,
+    6.6081,
+    80.6181,
+    6.6081
+],
+  "geometry": {"coordinates":[80.6181,6.6081],"type":"Point"}
+}

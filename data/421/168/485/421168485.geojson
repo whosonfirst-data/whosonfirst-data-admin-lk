@@ -1,0 +1,100 @@
+{
+  "id": 421168485,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"79.8899,6.8735,79.8899,6.8735",
+    "geom:latitude":6.8735,
+    "geom:longitude":79.8899,
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:dut_x_preferred":[
+        "Nugegoda"
+    ],
+    "name:eng_x_preferred":[
+        "Nugegoda"
+    ],
+    "name:fra_x_preferred":[
+        "Nugegoda"
+    ],
+    "name:fre_x_preferred":[
+        "Nugegoda"
+    ],
+    "name:sin_x_preferred":[
+        "\u0db1\u0dd4\u0d9c\u0dda\u0d9c\u0ddc\u0da9"
+    ],
+    "name:tam_x_preferred":[
+        "\u0ba8\u0bc1\u0b95\u0bc7\u0b95\u0bca\u0b9f\u0bc8"
+    ],
+    "name:unk_x_variant":[
+        "Nugeoda"
+    ],
+    "qs:gn_country":"LK",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":1232807,
+    "qs:gn_pop":0,
+    "qs:name":"Nugegoda",
+    "qs:name_adm0":"Sri Lanka",
+    "qs:name_adm1":"Western",
+    "qs:photos":299,
+    "qs:photos_1k":61,
+    "qs:photos_9k":1,
+    "qs:photos_9r":4,
+    "qs:photos_all":299,
+    "qs:photos_sr":5,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":894797,
+    "qs:woe_adm0":23424778,
+    "qs:woe_id":2184042,
+    "src:geom":"quattroshapes",
+    "wd:wordcount":544,
+    "wof:belongsto":[
+        102191569,
+        85632313,
+        85673811,
+        1092066319
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1232807,
+        "gp:id":2184042,
+        "qs:id":894797,
+        "wd:id":"Q7068738",
+        "wk:page":"Nugegoda"
+    },
+    "wof:country":"LK",
+    "wof:created":1459008766,
+    "wof:geomhash":"200f4257cab2726694b481a23997e3be",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "county_id":1092066319,
+            "locality_id":421168485,
+            "region_id":85673811
+        }
+    ],
+    "wof:id":421168485,
+    "wof:lastmodified":1527716091,
+    "wof:name":"Nugegoda",
+    "wof:parent_id":1092066319,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    79.8899,
+    6.8735,
+    79.8899,
+    6.8735
+],
+  "geometry": {"coordinates":[79.8899,6.8735],"type":"Point"}
+}

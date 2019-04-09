@@ -1,0 +1,67 @@
+{
+  "id": 1292953737,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"79.9678,6.6246,79.9678,6.6246",
+    "geom:latitude":6.6246,
+    "geom:longitude":79.9678,
+    "gn:admin1_code":"36.0",
+    "gn:asciiname":"Rannungala",
+    "gn:country_code":"LK",
+    "gn:dem":22,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1228874,
+    "gn:latitude":6.6246,
+    "gn:longitude":79.9678,
+    "gn:modification_date":"1994-01-08",
+    "gn:name":"Rannungala",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632313,
+        85673819,
+        1092060239
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1228874
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"49b0ca5961b653afceb631f23c926f85",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "county_id":1092060239,
+            "locality_id":1292953737,
+            "region_id":85673819
+        }
+    ],
+    "wof:id":1292953737,
+    "wof:lastmodified":1537057067,
+    "wof:name":"Rannungala",
+    "wof:parent_id":1092060239,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    79.9678,
+    6.6246,
+    79.9678,
+    6.6246
+],
+  "geometry": {"coordinates":[79.9678,6.6246],"type":"Point"}
+}

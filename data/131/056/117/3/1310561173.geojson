@@ -1,0 +1,67 @@
+{
+  "id": 1310561173,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"80.5323,7.4371,80.5323,7.4371",
+    "geom:latitude":7.4371,
+    "geom:longitude":80.5323,
+    "gn:admin1_code":"32.0",
+    "gn:asciiname":"Walawwatta",
+    "gn:country_code":"LK",
+    "gn:dem":194,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7433706,
+    "gn:latitude":7.4371,
+    "gn:longitude":80.5323,
+    "gn:modification_date":"2010-08-07",
+    "gn:name":"Walawwatta",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632313,
+        85673777,
+        1092065951
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7433706
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"fde956c9281b653d0d1418c6ae74953b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "county_id":1092065951,
+            "locality_id":1310561173,
+            "region_id":85673777
+        }
+    ],
+    "wof:id":1310561173,
+    "wof:lastmodified":1536835736,
+    "wof:name":"Walawwatta",
+    "wof:parent_id":1092065951,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    80.5323,
+    7.4371,
+    80.5323,
+    7.4371
+],
+  "geometry": {"coordinates":[80.53230000000001,7.4371],"type":"Point"}
+}

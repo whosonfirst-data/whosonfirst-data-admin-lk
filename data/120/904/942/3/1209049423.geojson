@@ -1,0 +1,61 @@
+{
+  "id": 1209049423,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"79.9763,8.7577,79.9763,8.7577",
+    "geom:latitude":8.7577,
+    "geom:longitude":79.9763,
+    "gn:admin1_code":"38.0",
+    "gn:asciiname":"Akattimurippu",
+    "gn:country_code":"LK",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1252166,
+    "gn:latitude":8.7577,
+    "gn:longitude":79.9763,
+    "gn:modification_date":"2012-04-05",
+    "gn:name":"Akattimurippu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632313
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1252166
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"fdf51e68e134af40fe1f264e224f16f4",
+    "wof:hierarchy":[
+        {
+            "country_id":85632313,
+            "locality_id":1209049423
+        }
+    ],
+    "wof:id":1209049423,
+    "wof:lastmodified":1536299299,
+    "wof:name":"Akattimurippu",
+    "wof:parent_id":85632313,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    79.9763,
+    8.7577,
+    79.9763,
+    8.7577
+],
+  "geometry": {"coordinates":[79.97629999999999,8.7577],"type":"Point"}
+}

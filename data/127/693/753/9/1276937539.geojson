@@ -1,0 +1,67 @@
+{
+  "id": 1276937539,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"80.4884,8.3945,80.4884,8.3945",
+    "geom:latitude":8.3945,
+    "geom:longitude":80.4884,
+    "gn:admin1_code":"30.0",
+    "gn:asciiname":"Pudukkulama",
+    "gn:country_code":"LK",
+    "gn:dem":112,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1229635,
+    "gn:latitude":8.3945,
+    "gn:longitude":80.4884,
+    "gn:modification_date":"1994-01-08",
+    "gn:name":"Pudukkulama",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632313,
+        85673751,
+        1092063257
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1229635
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"d57887a5de0eac74199a0e6042eee177",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "county_id":1092063257,
+            "locality_id":1276937539,
+            "region_id":85673751
+        }
+    ],
+    "wof:id":1276937539,
+    "wof:lastmodified":1536963957,
+    "wof:name":"Pudukkulama",
+    "wof:parent_id":1092063257,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    80.4884,
+    8.3945,
+    80.4884,
+    8.3945
+],
+  "geometry": {"coordinates":[80.4884,8.3945],"type":"Point"}
+}

@@ -1,0 +1,61 @@
+{
+  "id": 1209363437,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"80.71667,6.55,80.71667,6.55",
+    "geom:latitude":6.55,
+    "geom:longitude":80.71667,
+    "gn:admin1_code":"33.0",
+    "gn:asciiname":"Kanda",
+    "gn:country_code":"LK",
+    "gn:dem":317,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1241788,
+    "gn:latitude":6.55,
+    "gn:longitude":80.71667,
+    "gn:modification_date":"1994-01-08",
+    "gn:name":"Kanda",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632313
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1241788
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"2eb604a6f08c7095b464082d86bddaf7",
+    "wof:hierarchy":[
+        {
+            "country_id":85632313,
+            "locality_id":1209363437
+        }
+    ],
+    "wof:id":1209363437,
+    "wof:lastmodified":1536289352,
+    "wof:name":"Kanda",
+    "wof:parent_id":85632313,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    80.71667,
+    6.55,
+    80.71667,
+    6.55
+],
+  "geometry": {"coordinates":[80.71666999999999,6.55],"type":"Point"}
+}

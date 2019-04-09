@@ -1,0 +1,89 @@
+{
+  "id": 1092060179,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000815,
+    "geom:area_square_m":9988657.089824,
+    "geom:bbox":"81.8085906794,7.3928930737,81.8469966677,7.44262065605",
+    "geom:latitude":7.413193,
+    "geom:longitude":81.827652,
+    "iso:country":"LK",
+    "lbl:latitude":7.410756,
+    "lbl:longitude":81.829544,
+    "meso:admin_1":"Ampara",
+    "meso:admin_1r":"Eastern",
+    "meso:dissme":"KalmunaiAmparaEastern",
+    "meso:gadm_admin":"Sainthamarathu",
+    "meso:gadm_hasc2":"LK.AP.SI",
+    "meso:mps_x":81.829544,
+    "meso:mps_y":7.410756,
+    "meso:name_en":"Kalmunai",
+    "meso:source":"AOTM",
+    "mps:latitude":7.410756,
+    "mps:longitude":81.829544,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Kalmunai"
+    ],
+    "name:eng_x_variant":[
+        "Sainthamarathu"
+    ],
+    "src:geom":"meso",
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"statoids",
+    "src:population:date":"2012-03-20",
+    "statoids:area_km":"22",
+    "statoids:as_of_date":"2012-03-20",
+    "statoids:capital":"Kalmunai",
+    "statoids:country":"LK",
+    "statoids:hasc":"LK.AP",
+    "statoids:name":"Kalmunai",
+    "statoids:population":"44632",
+    "statoids:statoid":"LK.AP.KL",
+    "statoids:timezone":"+5:30",
+    "statoids:type":"division",
+    "wof:belongsto":[
+        102191569,
+        85632313,
+        85673733
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "hasc:id":"LK.AP.KL"
+    },
+    "wof:country":"LK",
+    "wof:created":1473898906,
+    "wof:geomhash":"4f3b1bfc5eff04755f6c84fb31557a52",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "county_id":1092060179,
+            "region_id":85673733
+        }
+    ],
+    "wof:id":1092060179,
+    "wof:lastmodified":1536615144,
+    "wof:name":"Kalmunai",
+    "wof:parent_id":85673733,
+    "wof:placetype":"county",
+    "wof:placetype_local":"division",
+    "wof:population":44632,
+    "wof:population_rank":7,
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:shortcode":"KL",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    81.808590679354,
+    7.39289307369722,
+    81.84699666772163,
+    7.44262065605153
+],
+  "geometry": {"coordinates":[[[81.81162951670443,7.43984872151871],[81.82197075440071,7.44262065605153],[81.82202911400003,7.44250011400004],[81.82202911400003,7.44077777900003],[81.82289123500004,7.43997240100003],[81.82375335700004,7.43499994300004],[81.82788848900003,7.42663908000003],[81.82955932600004,7.42497205700005],[81.82955932600004,7.42411088900008],[81.83166503900003,7.42205572100005],[81.83247375500008,7.42205572100005],[81.83705902100007,7.41750001900004],[81.83705902100007,7.41663885100007],[81.84038543700007,7.41416645100003],[81.83958435100004,7.41330575900002],[81.84205627400007,7.40997219100007],[81.84205627400007,7.40830564500004],[81.84371948200004,7.40583324400006],[81.84371948200004,7.40330553100006],[81.84539032000004,7.39997243900007],[81.84539032000004,7.39830541600003],[81.84699666772163,7.39514427429162],[81.8443765982706,7.39370185057602],[81.82644174281046,7.39289307369722],[81.82450397630824,7.39737745415492],[81.82265660324865,7.4030309725447],[81.8137847558131,7.41064832377627],[81.81017330431979,7.41807959095689],[81.81094575411984,7.42241065714125],[81.81603694047685,7.41596310955564],[81.82113920182823,7.4157136267872],[81.82602555547635,7.42451684202825],[81.82493048158858,7.42975036227443],[81.808590679354,7.42990122531608],[81.81162951670443,7.43984872151871]]],"type":"Polygon"}
+}

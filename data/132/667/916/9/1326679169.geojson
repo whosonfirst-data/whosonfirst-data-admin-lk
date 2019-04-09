@@ -1,0 +1,67 @@
+{
+  "id": 1326679169,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"80.1966,7.5963,80.1966,7.5963",
+    "geom:latitude":7.5963,
+    "geom:longitude":80.1966,
+    "gn:admin1_code":"32.0",
+    "gn:asciiname":"Wegolla",
+    "gn:country_code":"LK",
+    "gn:dem":77,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1223880,
+    "gn:latitude":7.5963,
+    "gn:longitude":80.1966,
+    "gn:modification_date":"1994-01-08",
+    "gn:name":"Wegolla",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632313,
+        85673777,
+        1092064733
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1223880
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"c0a7d25862b9649d4de33ecad8b92b0a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "county_id":1092064733,
+            "locality_id":1326679169,
+            "region_id":85673777
+        }
+    ],
+    "wof:id":1326679169,
+    "wof:lastmodified":1536773020,
+    "wof:name":"Wegolla",
+    "wof:parent_id":1092064733,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    80.1966,
+    7.5963,
+    80.1966,
+    7.5963
+],
+  "geometry": {"coordinates":[80.1966,7.5963],"type":"Point"}
+}

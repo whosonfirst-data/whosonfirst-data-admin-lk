@@ -1,0 +1,67 @@
+{
+  "id": 1360230465,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"80.2187,7.57,80.2187,7.57",
+    "geom:latitude":7.57,
+    "geom:longitude":80.2187,
+    "gn:admin1_code":"32.0",
+    "gn:asciiname":"Waduressapitiya",
+    "gn:country_code":"LK",
+    "gn:dem":79,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1224637,
+    "gn:latitude":7.57,
+    "gn:longitude":80.2187,
+    "gn:modification_date":"1994-01-08",
+    "gn:name":"Waduressapitiya",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632313,
+        85673777,
+        1092056961
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1224637
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"4c9f4d2e8470d89e950fff624826f4d1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "county_id":1092056961,
+            "locality_id":1360230465,
+            "region_id":85673777
+        }
+    ],
+    "wof:id":1360230465,
+    "wof:lastmodified":1536736028,
+    "wof:name":"Waduressapitiya",
+    "wof:parent_id":1092056961,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    80.2187,
+    7.57,
+    80.2187,
+    7.57
+],
+  "geometry": {"coordinates":[80.2187,7.57],"type":"Point"}
+}

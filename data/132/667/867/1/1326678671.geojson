@@ -1,0 +1,67 @@
+{
+  "id": 1326678671,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"80.5051,6.6476,80.5051,6.6476",
+    "geom:latitude":6.6476,
+    "geom:longitude":80.5051,
+    "gn:admin1_code":"33.0",
+    "gn:asciiname":"Dombagaswinna",
+    "gn:country_code":"LK",
+    "gn:dem":127,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1247655,
+    "gn:latitude":6.6476,
+    "gn:longitude":80.5051,
+    "gn:modification_date":"1994-01-08",
+    "gn:name":"Dombagaswinna",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632313,
+        85673785,
+        1092065303
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1247655
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"29823e78686a5bfa08b82cb25f6c29dc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "county_id":1092065303,
+            "locality_id":1326678671,
+            "region_id":85673785
+        }
+    ],
+    "wof:id":1326678671,
+    "wof:lastmodified":1536773768,
+    "wof:name":"Dombagaswinna",
+    "wof:parent_id":1092065303,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    80.5051,
+    6.6476,
+    80.5051,
+    6.6476
+],
+  "geometry": {"coordinates":[80.5051,6.6476],"type":"Point"}
+}

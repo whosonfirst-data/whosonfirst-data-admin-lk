@@ -1,0 +1,67 @@
+{
+  "id": 1310646269,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"79.9906,7.7511,79.9906,7.7511",
+    "geom:latitude":7.7511,
+    "geom:longitude":79.9906,
+    "gn:admin1_code":"32.0",
+    "gn:asciiname":"Ihalagama Demala",
+    "gn:country_code":"LK",
+    "gn:dem":43,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1243542,
+    "gn:latitude":7.7511,
+    "gn:longitude":79.9906,
+    "gn:modification_date":"1994-01-08",
+    "gn:name":"Ihalagama Demala",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632313,
+        85673779,
+        1092064867
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1243542
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"6afca65d85fc9c8d66a639936b531731",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "county_id":1092064867,
+            "locality_id":1310646269,
+            "region_id":85673779
+        }
+    ],
+    "wof:id":1310646269,
+    "wof:lastmodified":1536714182,
+    "wof:name":"Ihalagama Demala",
+    "wof:parent_id":1092064867,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    79.9906,
+    7.7511,
+    79.9906,
+    7.7511
+],
+  "geometry": {"coordinates":[79.9906,7.7511],"type":"Point"}
+}

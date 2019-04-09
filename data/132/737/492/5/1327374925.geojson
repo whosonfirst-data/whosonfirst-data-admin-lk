@@ -1,0 +1,70 @@
+{
+  "id": 1327374925,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"80.4668,6.1782,80.4668,6.1782",
+    "geom:latitude":6.1782,
+    "geom:longitude":80.4668,
+    "gn:admin1_code":"34.0",
+    "gn:asciiname":"Vikasithagama",
+    "gn:country_code":"LK",
+    "gn:dem":19,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7624361,
+    "gn:latitude":6.1782,
+    "gn:longitude":80.4668,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Vikasithagama",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Udagama"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632313,
+        85673795,
+        1092056289
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7624361
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"3cdeb780af5e78b6184b8450ffae15d1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "county_id":1092056289,
+            "locality_id":1327374925,
+            "region_id":85673795
+        }
+    ],
+    "wof:id":1327374925,
+    "wof:lastmodified":1537661610,
+    "wof:name":"Vikasithagama",
+    "wof:parent_id":1092056289,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    80.4668,
+    6.1782,
+    80.4668,
+    6.1782
+],
+  "geometry": {"coordinates":[80.46680000000001,6.1782],"type":"Point"}
+}

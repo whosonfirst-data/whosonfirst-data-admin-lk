@@ -1,0 +1,67 @@
+{
+  "id": 1327384805,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"80.7139,7.1786,80.7139,7.1786",
+    "geom:latitude":7.1786,
+    "geom:longitude":80.7139,
+    "gn:admin1_code":"29.0",
+    "gn:asciiname":"Bopitiya",
+    "gn:country_code":"LK",
+    "gn:dem":973,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1249622,
+    "gn:latitude":7.1786,
+    "gn:longitude":80.7139,
+    "gn:modification_date":"1994-01-08",
+    "gn:name":"Bopitiya",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632313,
+        85673719,
+        1092057737
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1249622
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"0c78656e08eb994ba2cf2418c4a45a41",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "county_id":1092057737,
+            "locality_id":1327384805,
+            "region_id":85673719
+        }
+    ],
+    "wof:id":1327384805,
+    "wof:lastmodified":1536749507,
+    "wof:name":"Bopitiya",
+    "wof:parent_id":1092057737,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    80.7139,
+    7.1786,
+    80.7139,
+    7.1786
+],
+  "geometry": {"coordinates":[80.7139,7.1786],"type":"Point"}
+}

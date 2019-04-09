@@ -1,0 +1,67 @@
+{
+  "id": 1226496271,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"80.0953,6.2924,80.0953,6.2924",
+    "geom:latitude":6.2924,
+    "geom:longitude":80.0953,
+    "gn:admin1_code":"34.0",
+    "gn:asciiname":"Paddawala",
+    "gn:country_code":"LK",
+    "gn:dem":18,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7623786,
+    "gn:latitude":6.2924,
+    "gn:longitude":80.0953,
+    "gn:modification_date":"2010-12-04",
+    "gn:name":"Paddawala",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632313,
+        85673789,
+        1092060579
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7623786
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"73ac2f34932f948f9f6cc2b486b90caa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "county_id":1092060579,
+            "locality_id":1226496271,
+            "region_id":85673789
+        }
+    ],
+    "wof:id":1226496271,
+    "wof:lastmodified":1537066542,
+    "wof:name":"Paddawala",
+    "wof:parent_id":1092060579,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    80.0953,
+    6.2924,
+    80.0953,
+    6.2924
+],
+  "geometry": {"coordinates":[80.09529999999999,6.2924],"type":"Point"}
+}

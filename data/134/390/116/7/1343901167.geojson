@@ -1,0 +1,71 @@
+{
+  "id": 1343901167,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"81.7,7.61667,81.7,7.61667",
+    "geom:latitude":7.61667,
+    "geom:longitude":81.7,
+    "gn:admin1_code":"37.0",
+    "gn:asciiname":"Munaikkadu",
+    "gn:country_code":"LK",
+    "gn:dem":15,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1234343,
+    "gn:latitude":7.61667,
+    "gn:longitude":81.7,
+    "gn:modification_date":"2012-04-05",
+    "gn:name":"Munaikkadu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Munaikadu",
+        "Munaikkadu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632313,
+        85673737,
+        1092062593
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1234343
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"b29041bcbabfbd4488d7d20da36a623c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "county_id":1092062593,
+            "locality_id":1343901167,
+            "region_id":85673737
+        }
+    ],
+    "wof:id":1343901167,
+    "wof:lastmodified":1537661449,
+    "wof:name":"Munaikkadu",
+    "wof:parent_id":1092062593,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    81.7,
+    7.61667,
+    81.7,
+    7.61667
+],
+  "geometry": {"coordinates":[81.7,7.61667],"type":"Point"}
+}

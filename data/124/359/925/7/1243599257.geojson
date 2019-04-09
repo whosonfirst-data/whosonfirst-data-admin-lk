@@ -1,0 +1,67 @@
+{
+  "id": 1243599257,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"80.241,6.0567,80.241,6.0567",
+    "geom:latitude":6.0567,
+    "geom:longitude":80.241,
+    "gn:admin1_code":"34.0",
+    "gn:asciiname":"Badungoda Colony",
+    "gn:country_code":"LK",
+    "gn:dem":15,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7438871,
+    "gn:latitude":6.0567,
+    "gn:longitude":80.241,
+    "gn:modification_date":"2010-08-07",
+    "gn:name":"Badungoda Colony",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632313,
+        85673789,
+        1092056215
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7438871
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"09be2b408d2b5d9d2ff39d073c297f6b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "county_id":1092056215,
+            "locality_id":1243599257,
+            "region_id":85673789
+        }
+    ],
+    "wof:id":1243599257,
+    "wof:lastmodified":1537079130,
+    "wof:name":"Badungoda Colony",
+    "wof:parent_id":1092056215,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    80.241,
+    6.0567,
+    80.241,
+    6.0567
+],
+  "geometry": {"coordinates":[80.241,6.0567],"type":"Point"}
+}

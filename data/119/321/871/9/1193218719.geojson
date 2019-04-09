@@ -1,0 +1,67 @@
+{
+  "id": 1193218719,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"80.95,6.96667,80.95,6.96667",
+    "geom:latitude":6.96667,
+    "geom:longitude":80.95,
+    "gn:admin1_code":"35.0",
+    "gn:asciiname":"Pillekumbura",
+    "gn:country_code":"LK",
+    "gn:dem":986,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1230212,
+    "gn:latitude":6.96667,
+    "gn:longitude":80.95,
+    "gn:modification_date":"1994-01-08",
+    "gn:name":"Pillekumbura",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632313,
+        85673801,
+        1092067051
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1230212
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"9bb53fab42b046f6125f69fd4ed747ef",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "county_id":1092067051,
+            "locality_id":1193218719,
+            "region_id":85673801
+        }
+    ],
+    "wof:id":1193218719,
+    "wof:lastmodified":1536377753,
+    "wof:name":"Pillekumbura",
+    "wof:parent_id":1092067051,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    80.95,
+    6.96667,
+    80.95,
+    6.96667
+],
+  "geometry": {"coordinates":[80.95,6.96667],"type":"Point"}
+}

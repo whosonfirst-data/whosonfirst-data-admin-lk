@@ -1,0 +1,67 @@
+{
+  "id": 1243014815,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"80.3588,8.2577,80.3588,8.2577",
+    "geom:latitude":8.2577,
+    "geom:longitude":80.3588,
+    "gn:admin1_code":"30.0",
+    "gn:asciiname":"Ihala Moragoda",
+    "gn:country_code":"LK",
+    "gn:dem":120,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8534641,
+    "gn:latitude":8.2577,
+    "gn:longitude":80.3588,
+    "gn:modification_date":"2013-06-05",
+    "gn:name":"Ihala Moragoda",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632313,
+        85673751,
+        1092066395
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8534641
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"81b70d3db759cf2f72136b6006aeab7a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "county_id":1092066395,
+            "locality_id":1243014815,
+            "region_id":85673751
+        }
+    ],
+    "wof:id":1243014815,
+    "wof:lastmodified":1536931507,
+    "wof:name":"Ihala Moragoda",
+    "wof:parent_id":1092066395,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    80.3588,
+    8.2577,
+    80.3588,
+    8.2577
+],
+  "geometry": {"coordinates":[80.3588,8.2577],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1276276101,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"79.83333,7.5,79.83333,7.5",
+    "geom:latitude":7.5,
+    "geom:longitude":79.83333,
+    "gn:admin1_code":"32.0",
+    "gn:asciiname":"Uraliya-agare",
+    "gn:country_code":"LK",
+    "gn:dem":14,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1225411,
+    "gn:latitude":7.5,
+    "gn:longitude":79.83333,
+    "gn:modification_date":"1994-01-08",
+    "gn:name":"Uraliya-agare",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632313,
+        85673779,
+        1092061929
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1225411
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"b9c6f97e5ea932e6f47c9c3432f3e0b9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "county_id":1092061929,
+            "locality_id":1276276101,
+            "region_id":85673779
+        }
+    ],
+    "wof:id":1276276101,
+    "wof:lastmodified":1536854267,
+    "wof:name":"Uraliya-agare",
+    "wof:parent_id":1092061929,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    79.83333,
+    7.5,
+    79.83333,
+    7.5
+],
+  "geometry": {"coordinates":[79.83333,7.5],"type":"Point"}
+}

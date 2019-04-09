@@ -1,0 +1,67 @@
+{
+  "id": 1343311257,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"80.2833,7.4627,80.2833,7.4627",
+    "geom:latitude":7.4627,
+    "geom:longitude":80.2833,
+    "gn:admin1_code":"32.0",
+    "gn:asciiname":"Bulupitiya",
+    "gn:country_code":"LK",
+    "gn:dem":101,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1249395,
+    "gn:latitude":7.4627,
+    "gn:longitude":80.2833,
+    "gn:modification_date":"1994-01-08",
+    "gn:name":"Bulupitiya",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632313,
+        85673777,
+        1092067783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1249395
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"049e85dcf47ac8419e323a48be4acada",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "county_id":1092067783,
+            "locality_id":1343311257,
+            "region_id":85673777
+        }
+    ],
+    "wof:id":1343311257,
+    "wof:lastmodified":1536961628,
+    "wof:name":"Bulupitiya",
+    "wof:parent_id":1092067783,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    80.2833,
+    7.4627,
+    80.2833,
+    7.4627
+],
+  "geometry": {"coordinates":[80.2833,7.4627],"type":"Point"}
+}

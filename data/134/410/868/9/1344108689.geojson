@@ -1,0 +1,67 @@
+{
+  "id": 1344108689,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"81.25,8.45,81.25,8.45",
+    "geom:latitude":8.45,
+    "geom:longitude":81.25,
+    "gn:admin1_code":"37.0",
+    "gn:asciiname":"Kuruvittivu",
+    "gn:country_code":"LK",
+    "gn:dem":3,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1237950,
+    "gn:latitude":8.45,
+    "gn:longitude":81.25,
+    "gn:modification_date":"2012-04-05",
+    "gn:name":"Kuruvittivu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632313,
+        85673747,
+        1092063685
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1237950
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"ac23a36b48b627e5e7c74cfc294d366e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "county_id":1092063685,
+            "locality_id":1344108689,
+            "region_id":85673747
+        }
+    ],
+    "wof:id":1344108689,
+    "wof:lastmodified":1536805974,
+    "wof:name":"Kuruvittivu",
+    "wof:parent_id":1092063685,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    81.25,
+    8.45,
+    81.25,
+    8.45
+],
+  "geometry": {"coordinates":[81.25,8.45],"type":"Point"}
+}

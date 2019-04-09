@@ -1,0 +1,67 @@
+{
+  "id": 1276711057,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"80.7247,8.0729,80.7247,8.0729",
+    "geom:latitude":8.0729,
+    "geom:longitude":80.7247,
+    "gn:admin1_code":"30.0",
+    "gn:asciiname":"Kuda Rambewa",
+    "gn:country_code":"LK",
+    "gn:dem":177,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1238633,
+    "gn:latitude":8.0729,
+    "gn:longitude":80.7247,
+    "gn:modification_date":"1994-01-08",
+    "gn:name":"Kuda Rambewa",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632313,
+        85673751,
+        1092064945
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1238633
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"bae13fa6ec9dd23be806d587e91b0a90",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "county_id":1092064945,
+            "locality_id":1276711057,
+            "region_id":85673751
+        }
+    ],
+    "wof:id":1276711057,
+    "wof:lastmodified":1536770289,
+    "wof:name":"Kuda Rambewa",
+    "wof:parent_id":1092064945,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    80.7247,
+    8.0729,
+    80.7247,
+    8.0729
+],
+  "geometry": {"coordinates":[80.7247,8.0729],"type":"Point"}
+}

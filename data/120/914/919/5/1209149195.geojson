@@ -1,0 +1,61 @@
+{
+  "id": 1209149195,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"80.1754,6.7466,80.1754,6.7466",
+    "geom:latitude":6.7466,
+    "geom:longitude":80.1754,
+    "gn:admin1_code":"36.0",
+    "gn:asciiname":"Jayalathgama",
+    "gn:country_code":"LK",
+    "gn:dem":25,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7437007,
+    "gn:latitude":6.7466,
+    "gn:longitude":80.1754,
+    "gn:modification_date":"2010-08-07",
+    "gn:name":"Jayalathgama",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632313
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7437007
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"66b4f2c3712a75e9c2a6c14cf2cbca59",
+    "wof:hierarchy":[
+        {
+            "country_id":85632313,
+            "locality_id":1209149195
+        }
+    ],
+    "wof:id":1209149195,
+    "wof:lastmodified":1536296256,
+    "wof:name":"Jayalathgama",
+    "wof:parent_id":85632313,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    80.1754,
+    6.7466,
+    80.1754,
+    6.7466
+],
+  "geometry": {"coordinates":[80.1754,6.7466],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1260023993,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"80.0864,6.7233,80.0864,6.7233",
+    "geom:latitude":6.7233,
+    "geom:longitude":80.0864,
+    "gn:admin1_code":"36.0",
+    "gn:asciiname":"Munagama",
+    "gn:country_code":"LK",
+    "gn:dem":26,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1234345,
+    "gn:latitude":6.7233,
+    "gn:longitude":80.0864,
+    "gn:modification_date":"1994-01-08",
+    "gn:name":"Munagama",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632313,
+        85673819,
+        1092059431
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1234345
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"38d87480fc8b8348167aa760b363403a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "county_id":1092059431,
+            "locality_id":1260023993,
+            "region_id":85673819
+        }
+    ],
+    "wof:id":1260023993,
+    "wof:lastmodified":1537070675,
+    "wof:name":"Munagama",
+    "wof:parent_id":1092059431,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    80.0864,
+    6.7233,
+    80.0864,
+    6.7233
+],
+  "geometry": {"coordinates":[80.0864,6.7233],"type":"Point"}
+}

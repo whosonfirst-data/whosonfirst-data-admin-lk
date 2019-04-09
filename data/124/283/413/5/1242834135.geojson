@@ -1,0 +1,71 @@
+{
+  "id": 1242834135,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"79.9696,7.467,79.9696,7.467",
+    "geom:latitude":7.467,
+    "geom:longitude":79.9696,
+    "gn:admin1_code":"32.0",
+    "gn:asciiname":"Udubaddawa Wattegedara",
+    "gn:country_code":"LK",
+    "gn:dem":35,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1225824,
+    "gn:latitude":7.467,
+    "gn:longitude":79.9696,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Udubaddawa Wattegedara",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Udubaddawe Wattegedare",
+        "Udubaddawa Wattegedara"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632313,
+        85673777,
+        1092066989
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1225824
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"2ab2cd525f28742d5aa0c67da951e595",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "county_id":1092066989,
+            "locality_id":1242834135,
+            "region_id":85673777
+        }
+    ],
+    "wof:id":1242834135,
+    "wof:lastmodified":1537661359,
+    "wof:name":"Udubaddawa Wattegedara",
+    "wof:parent_id":1092066989,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    79.9696,
+    7.467,
+    79.9696,
+    7.467
+],
+  "geometry": {"coordinates":[79.9696,7.467],"type":"Point"}
+}

@@ -1,0 +1,79 @@
+{
+  "id": 421189879,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"80.01667,6.43333,80.01667,6.43333",
+    "geom:latitude":6.43333,
+    "geom:longitude":80.01667,
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:unk_x_variant":[
+        "Hetiwatta"
+    ],
+    "qs:gn_country":"LK",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":1244257,
+    "qs:gn_pop":0,
+    "qs:name":"Hettiwatta",
+    "qs:name_adm0":"Sri Lanka",
+    "qs:name_adm1":"Western",
+    "qs:photos":255,
+    "qs:photos_1k":52,
+    "qs:photos_9k":1,
+    "qs:photos_9r":4,
+    "qs:photos_all":255,
+    "qs:photos_sr":5,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":1117323,
+    "qs:woe_adm0":23424778,
+    "qs:woe_id":2177701,
+    "src:geom":"quattroshapes",
+    "wof:belongsto":[
+        102191569,
+        85632313,
+        85673789,
+        1092057133
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1244257,
+        "gp:id":2177701,
+        "qs:id":1117323
+    },
+    "wof:country":"LK",
+    "wof:created":1459009639,
+    "wof:geomhash":"a225984c7e8c907ee01d14b2201462a1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "county_id":1092057133,
+            "locality_id":421189879,
+            "region_id":85673789
+        }
+    ],
+    "wof:id":421189879,
+    "wof:lastmodified":1501217337,
+    "wof:name":"Hettiwatta",
+    "wof:parent_id":1092057133,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    80.01667,
+    6.43333,
+    80.01667,
+    6.43333
+],
+  "geometry": {"coordinates":[80.01667,6.43333],"type":"Point"}
+}

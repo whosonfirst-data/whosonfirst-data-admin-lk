@@ -1,0 +1,68 @@
+{
+  "id": 1260227801,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"80.5462,7.4531,80.5462,7.4531",
+    "geom:latitude":7.4531,
+    "geom:longitude":80.5462,
+    "gn:admin1_code":"29.0",
+    "gn:asciiname":"Mirissala",
+    "gn:country_code":"LK",
+    "gn:dem":709,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1234950,
+    "gn:latitude":7.4531,
+    "gn:longitude":80.5462,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Mirissala",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632313,
+        85673777,
+        1092065951
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1234950,
+        "wk:page":"Mirissala"
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"e62b6fd4a18d75a7e1bc52b4f6cdbe71",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "county_id":1092065951,
+            "locality_id":1260227801,
+            "region_id":85673777
+        }
+    ],
+    "wof:id":1260227801,
+    "wof:lastmodified":1537567988,
+    "wof:name":"Mirissala",
+    "wof:parent_id":1092065951,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    80.5462,
+    7.4531,
+    80.5462,
+    7.4531
+],
+  "geometry": {"coordinates":[80.5462,7.4531],"type":"Point"}
+}

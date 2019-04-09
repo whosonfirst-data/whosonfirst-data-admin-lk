@@ -1,0 +1,67 @@
+{
+  "id": 1310251893,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"80.5862,7.0308,80.5862,7.0308",
+    "geom:latitude":7.0308,
+    "geom:longitude":80.5862,
+    "gn:admin1_code":"29.0",
+    "gn:asciiname":"Hunugaloya",
+    "gn:country_code":"LK",
+    "gn:dem":928,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7435726,
+    "gn:latitude":7.0308,
+    "gn:longitude":80.5862,
+    "gn:modification_date":"2010-08-07",
+    "gn:name":"Hunugaloya",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632313,
+        85673731,
+        1092061445
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7435726
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"7bdf32f4fdd1d7664391fc37b0424090",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "county_id":1092061445,
+            "locality_id":1310251893,
+            "region_id":85673731
+        }
+    ],
+    "wof:id":1310251893,
+    "wof:lastmodified":1536785796,
+    "wof:name":"Hunugaloya",
+    "wof:parent_id":1092061445,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    80.5862,
+    7.0308,
+    80.5862,
+    7.0308
+],
+  "geometry": {"coordinates":[80.58620000000001,7.0308],"type":"Point"}
+}

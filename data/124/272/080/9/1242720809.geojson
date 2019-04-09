@@ -1,0 +1,62 @@
+{
+  "id": 1242720809,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"79.9286,9.778,79.9286,9.778",
+    "geom:latitude":9.778,
+    "geom:longitude":79.9286,
+    "gn:admin1_code":"38.0",
+    "gn:asciiname":"Thiruvadinilayam",
+    "gn:country_code":"LK",
+    "gn:dem":-9999,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1226610,
+    "gn:latitude":9.778,
+    "gn:longitude":79.9286,
+    "gn:modification_date":"2012-04-05",
+    "gn:name":"Thiruvadinilayam",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1226610,
+        "wk:page":"Thiruvadinilayam"
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"9d1ff7fcc201e1d95687fd0649bcce4f",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1242720809,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1242720809,
+    "wof:lastmodified":1537567970,
+    "wof:name":"Thiruvadinilayam",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    79.9286,
+    9.778,
+    79.9286,
+    9.778
+],
+  "geometry": {"coordinates":[79.9286,9.778],"type":"Point"}
+}

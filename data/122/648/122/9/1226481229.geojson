@@ -1,0 +1,71 @@
+{
+  "id": 1226481229,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"81.43333,8.13333,81.43333,8.13333",
+    "geom:latitude":8.13333,
+    "geom:longitude":81.43333,
+    "gn:admin1_code":"37.0",
+    "gn:asciiname":"Vakarai",
+    "gn:country_code":"LK",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1225187,
+    "gn:latitude":8.13333,
+    "gn:longitude":81.43333,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Vakarai",
+    "gn:population":21000,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632313,
+        85673737,
+        1092061255
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1225187,
+        "wk:page":"Vakarai_%28Sri_Lanka%29"
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"bff46aaba10b2ba0ca25c50643548640",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "county_id":1092061255,
+            "locality_id":1226481229,
+            "region_id":85673737
+        }
+    ],
+    "wof:id":1226481229,
+    "wof:lastmodified":1537567964,
+    "wof:name":"Vakarai",
+    "wof:parent_id":1092061255,
+    "wof:placetype":"locality",
+    "wof:population":21000,
+    "wof:population_rank":7,
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    81.43333,
+    8.13333,
+    81.43333,
+    8.13333
+],
+  "geometry": {"coordinates":[81.43333,8.13333],"type":"Point"}
+}

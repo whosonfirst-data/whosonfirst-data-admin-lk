@@ -1,0 +1,67 @@
+{
+  "id": 1276172641,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"80.7156,6.6457,80.7156,6.6457",
+    "geom:latitude":6.6457,
+    "geom:longitude":80.7156,
+    "gn:admin1_code":"33.0",
+    "gn:asciiname":"Magunamale",
+    "gn:country_code":"LK",
+    "gn:dem":524,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7547158,
+    "gn:latitude":6.6457,
+    "gn:longitude":80.7156,
+    "gn:modification_date":"2010-10-09",
+    "gn:name":"Magunamale",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632313,
+        85673785,
+        1092056887
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7547158
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"c2dfe971d4af298225e69747ba557661",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "county_id":1092056887,
+            "locality_id":1276172641,
+            "region_id":85673785
+        }
+    ],
+    "wof:id":1276172641,
+    "wof:lastmodified":1536993427,
+    "wof:name":"Magunamale",
+    "wof:parent_id":1092056887,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    80.7156,
+    6.6457,
+    80.7156,
+    6.6457
+],
+  "geometry": {"coordinates":[80.71559999999999,6.6457],"type":"Point"}
+}

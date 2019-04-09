@@ -1,0 +1,71 @@
+{
+  "id": 1260232885,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"80.9296,8.6398,80.9296,8.6398",
+    "geom:latitude":8.6398,
+    "geom:longitude":80.9296,
+    "gn:admin1_code":"37.0",
+    "gn:asciiname":"Penikotiyawa",
+    "gn:country_code":"LK",
+    "gn:dem":56,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1230572,
+    "gn:latitude":8.6398,
+    "gn:longitude":80.9296,
+    "gn:modification_date":"2012-04-05",
+    "gn:name":"Penikotiyawa",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Panikattumurippu",
+        "Penikotiyawa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632313,
+        85673747,
+        1092063515
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1230572
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"6357866b330ece3a950d9d5b35d939a4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "county_id":1092063515,
+            "locality_id":1260232885,
+            "region_id":85673747
+        }
+    ],
+    "wof:id":1260232885,
+    "wof:lastmodified":1537661413,
+    "wof:name":"Penikotiyawa",
+    "wof:parent_id":1092063515,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    80.9296,
+    8.6398,
+    80.9296,
+    8.6398
+],
+  "geometry": {"coordinates":[80.92959999999999,8.6398],"type":"Point"}
+}

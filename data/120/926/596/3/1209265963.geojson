@@ -1,0 +1,61 @@
+{
+  "id": 1209265963,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"80.4968,8.7961,80.4968,8.7961",
+    "geom:latitude":8.7961,
+    "geom:longitude":80.4968,
+    "gn:admin1_code":"38.0",
+    "gn:asciiname":"Peyadikulankulam",
+    "gn:country_code":"LK",
+    "gn:dem":86,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7440068,
+    "gn:latitude":8.7961,
+    "gn:longitude":80.4968,
+    "gn:modification_date":"2012-04-06",
+    "gn:name":"Peyadikulankulam",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632313
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7440068
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"4b0dc5d6c4a31bba385e80d4571c292a",
+    "wof:hierarchy":[
+        {
+            "country_id":85632313,
+            "locality_id":1209265963
+        }
+    ],
+    "wof:id":1209265963,
+    "wof:lastmodified":1536292530,
+    "wof:name":"Peyadikulankulam",
+    "wof:parent_id":85632313,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    80.4968,
+    8.7961,
+    80.4968,
+    8.7961
+],
+  "geometry": {"coordinates":[80.49679999999999,8.7961],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1226808791,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"80.3337,7.4336,80.3337,7.4336",
+    "geom:latitude":7.4336,
+    "geom:longitude":80.3337,
+    "gn:admin1_code":"32.0",
+    "gn:asciiname":"Dambokka",
+    "gn:country_code":"LK",
+    "gn:dem":125,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1248752,
+    "gn:latitude":7.4336,
+    "gn:longitude":80.3337,
+    "gn:modification_date":"1999-08-03",
+    "gn:name":"Dambokka",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632313,
+        85673777,
+        1092065381
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1248752
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"a4e448bfd2f76b2fe3da3166be449343",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "county_id":1092065381,
+            "locality_id":1226808791,
+            "region_id":85673777
+        }
+    ],
+    "wof:id":1226808791,
+    "wof:lastmodified":1536622920,
+    "wof:name":"Dambokka",
+    "wof:parent_id":1092065381,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    80.3337,
+    7.4336,
+    80.3337,
+    7.4336
+],
+  "geometry": {"coordinates":[80.33369999999999,7.4336],"type":"Point"}
+}

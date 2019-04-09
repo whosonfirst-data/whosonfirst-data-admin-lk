@@ -1,0 +1,65 @@
+{
+  "id": 1226685041,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"79.85,9.71667,79.85,9.71667",
+    "geom:latitude":9.71667,
+    "geom:longitude":79.85,
+    "gn:admin1_code":"38.0",
+    "gn:asciiname":"Palaikkadu",
+    "gn:country_code":"LK",
+    "gn:dem":-9999,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1232005,
+    "gn:latitude":9.71667,
+    "gn:longitude":79.85,
+    "gn:modification_date":"2012-04-05",
+    "gn:name":"Palaikkadu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Palakadu",
+        "Palaikkadu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1232005
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"1d138f6a0894cec27998a8d689c47b3f",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1226685041,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1226685041,
+    "wof:lastmodified":1537661425,
+    "wof:name":"Palaikkadu",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    79.85,
+    9.71667,
+    79.85,
+    9.71667
+],
+  "geometry": {"coordinates":[79.84999999999999,9.71667],"type":"Point"}
+}

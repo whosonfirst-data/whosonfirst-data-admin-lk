@@ -1,0 +1,71 @@
+{
+  "id": 1243324047,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"81.0962,8.2359,81.0962,8.2359",
+    "geom:latitude":8.2359,
+    "geom:longitude":81.0962,
+    "gn:admin1_code":"30.0",
+    "gn:asciiname":"Wadigewewa",
+    "gn:country_code":"LK",
+    "gn:dem":29,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1224681,
+    "gn:latitude":8.2359,
+    "gn:longitude":81.0962,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Wadigewewa",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Wadigawewa",
+        "Wadigewewa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632313,
+        85673743,
+        1092063181
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1224681
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"4c7957c6aaf079acb1791e2724457997",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "county_id":1092063181,
+            "locality_id":1243324047,
+            "region_id":85673743
+        }
+    ],
+    "wof:id":1243324047,
+    "wof:lastmodified":1537661347,
+    "wof:name":"Wadigewewa",
+    "wof:parent_id":1092063181,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    81.0962,
+    8.2359,
+    81.0962,
+    8.2359
+],
+  "geometry": {"coordinates":[81.0962,8.2359],"type":"Point"}
+}

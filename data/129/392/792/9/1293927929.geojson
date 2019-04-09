@@ -1,0 +1,67 @@
+{
+  "id": 1293927929,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"80.123,6.9572,80.123,6.9572",
+    "geom:latitude":6.9572,
+    "geom:longitude":80.123,
+    "gn:admin1_code":"36.0",
+    "gn:asciiname":"Thalapathpitiya",
+    "gn:country_code":"LK",
+    "gn:dem":32,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7473963,
+    "gn:latitude":6.9572,
+    "gn:longitude":80.123,
+    "gn:modification_date":"2010-08-08",
+    "gn:name":"Thalapathpitiya",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632313,
+        85673811,
+        1092066109
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7473963
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"afffd8d04854bb0589be435fe4189fb9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "county_id":1092066109,
+            "locality_id":1293927929,
+            "region_id":85673811
+        }
+    ],
+    "wof:id":1293927929,
+    "wof:lastmodified":1536649039,
+    "wof:name":"Thalapathpitiya",
+    "wof:parent_id":1092066109,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    80.123,
+    6.9572,
+    80.123,
+    6.9572
+],
+  "geometry": {"coordinates":[80.123,6.9572],"type":"Point"}
+}

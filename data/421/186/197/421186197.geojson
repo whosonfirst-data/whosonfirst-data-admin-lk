@@ -1,0 +1,172 @@
+{
+  "id": 421186197,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-02-02",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"80.75,7.33333,80.75,7.33333",
+    "geom:latitude":7.33333,
+    "geom:longitude":80.75,
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:max_zoom":11.0,
+    "mz:min_zoom":8.7,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:bul_x_preferred":[
+        "\u0426\u0435\u043d\u0442\u0440\u0430\u043b\u043d\u0430 \u043f\u0440\u043e\u0432\u0438\u043d\u0446\u0438\u044f"
+    ],
+    "name:cat_x_preferred":[
+        "Prov\u00edncia Central"
+    ],
+    "name:deu_x_preferred":[
+        "Zentralprovinz"
+    ],
+    "name:eng_x_preferred":[
+        "Central"
+    ],
+    "name:epo_x_preferred":[
+        "Centra Provinco"
+    ],
+    "name:fas_x_preferred":[
+        "\u0627\u0633\u062a\u0627\u0646 \u0645\u0631\u06a9\u0632\u06cc"
+    ],
+    "name:fin_x_preferred":[
+        "Sri Lankan keskinen provinssi"
+    ],
+    "name:fra_x_preferred":[
+        "Province du Centre"
+    ],
+    "name:glg_x_preferred":[
+        "Provincia Central"
+    ],
+    "name:hin_x_preferred":[
+        "\u092e\u0927\u094d\u092f \u092a\u094d\u0930\u093e\u0928\u094d\u0924"
+    ],
+    "name:ita_x_preferred":[
+        "Provincia Centrale"
+    ],
+    "name:jpn_x_preferred":[
+        "\u4e2d\u90e8\u5dde"
+    ],
+    "name:kat_x_preferred":[
+        "\u10ea\u10d4\u10dc\u10e2\u10e0\u10d0\u10da\u10e3\u10e0\u10d8 \u10de\u10e0\u10dd\u10d5\u10d8\u10dc\u10ea\u10d8\u10d0"
+    ],
+    "name:kor_x_preferred":[
+        "\uc911\ubd80 \uc8fc"
+    ],
+    "name:mar_x_preferred":[
+        "\u092e\u0927\u094d\u092f \u092a\u094d\u0930\u093e\u0902\u0924"
+    ],
+    "name:new_x_preferred":[
+        "\u092e\u0927\u094d\u092f\u092e \u092a\u094d\u0930\u093e\u0928\u094d\u0924"
+    ],
+    "name:nld_x_preferred":[
+        "Centrale Provincie"
+    ],
+    "name:pol_x_preferred":[
+        "Prowincja \u015arodkowa"
+    ],
+    "name:por_x_preferred":[
+        "Prov\u00edncia Central"
+    ],
+    "name:rus_x_preferred":[
+        "\u0426\u0435\u043d\u0442\u0440\u0430\u043b\u044c\u043d\u0430\u044f \u043f\u0440\u043e\u0432\u0438\u043d\u0446\u0438\u044f"
+    ],
+    "name:sin_x_preferred":[
+        "\u0db8\u0db0\u0dca\u200d\u0dba\u0db8 \u0db4\u0dc5\u0dcf\u0dad"
+    ],
+    "name:spa_x_preferred":[
+        "Provincia Central"
+    ],
+    "name:swe_x_preferred":[
+        "Centralprovinsen"
+    ],
+    "name:tam_x_preferred":[
+        "\u0bae\u0ba4\u0bcd\u0ba4\u0bbf\u0baf \u0bae\u0bbe\u0b95\u0bbe\u0ba3\u0bae\u0bcd"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0426\u0435\u043d\u0442\u0440\u0430\u043b\u044c\u043d\u0430 \u043f\u0440\u043e\u0432\u0456\u043d\u0446\u0456\u044f"
+    ],
+    "name:unk_x_variant":[
+        "Central Province"
+    ],
+    "name:urd_x_preferred":[
+        "\u0648\u0633\u0637\u06cc \u0635\u0648\u0628\u06c1\u060c \u0633\u0631\u06cc \u0644\u0646\u06a9\u0627"
+    ],
+    "name:vie_x_preferred":[
+        "T\u1ec9nh Trung T\u00e2m"
+    ],
+    "name:zho_x_preferred":[
+        "\u4e2d\u592e\u7701"
+    ],
+    "qs:gn_country":"LK",
+    "qs:gn_fcode":"ADM1",
+    "qs:gn_id":1249296,
+    "qs:gn_pop":0,
+    "qs:name":"Central",
+    "qs:name_adm0":"Sri Lanka",
+    "qs:name_adm1":"Central",
+    "qs:photos":664,
+    "qs:photos_1k":135,
+    "qs:photos_9k":126,
+    "qs:photos_9r":22,
+    "qs:photos_all":28339,
+    "qs:photos_sr":8,
+    "qs:placetype":"State",
+    "qs:pop_sr":"0",
+    "qs:qs_id":913437,
+    "qs:woe_adm0":23424778,
+    "qs:woe_id":2344959,
+    "src:geom":"quattroshapes",
+    "wof:belongsto":[
+        102191569,
+        85632313
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1249296,
+        "gp:id":2344959,
+        "qs:id":913437,
+        "wd:id":"Q190716",
+        "wk:page":"Central Province, Sri Lanka"
+    },
+    "wof:country":"LK",
+    "wof:created":1459009473,
+    "wof:geomhash":"7e900fdb1757ef60416a1c50ad0fe912",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "region_id":421186197
+        }
+    ],
+    "wof:id":421186197,
+    "wof:lang_x_official":[
+        "sin",
+        "tam"
+    ],
+    "wof:lang_x_spoken":[
+        "sin",
+        "tam"
+    ],
+    "wof:lastmodified":1529541196,
+    "wof:name":"Central",
+    "wof:parent_id":85632313,
+    "wof:placetype":"region",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    80.75,
+    7.33333,
+    80.75,
+    7.33333
+],
+  "geometry": {"coordinates":[80.75,7.33333],"type":"Point"}
+}

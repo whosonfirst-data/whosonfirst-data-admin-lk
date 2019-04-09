@@ -1,0 +1,71 @@
+{
+  "id": 1276706147,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"79.9227,7.8905,79.9227,7.8905",
+    "geom:latitude":7.8905,
+    "geom:longitude":79.9227,
+    "gn:admin1_code":"32.0",
+    "gn:asciiname":"Dangaswewa",
+    "gn:country_code":"LK",
+    "gn:dem":62,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1248636,
+    "gn:latitude":7.8905,
+    "gn:longitude":79.9227,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Dangaswewa",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Dangassewa",
+        "Dangaswewa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632313,
+        85673779,
+        1092062091
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1248636
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"709e5c285233d8d4c794ab5f675bdb9a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "county_id":1092062091,
+            "locality_id":1276706147,
+            "region_id":85673779
+        }
+    ],
+    "wof:id":1276706147,
+    "wof:lastmodified":1537661578,
+    "wof:name":"Dangaswewa",
+    "wof:parent_id":1092062091,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    79.9227,
+    7.8905,
+    79.9227,
+    7.8905
+],
+  "geometry": {"coordinates":[79.92270000000001,7.8905],"type":"Point"}
+}

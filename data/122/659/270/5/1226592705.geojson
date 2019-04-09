@@ -1,0 +1,67 @@
+{
+  "id": 1226592705,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"80.2809,6.7398,80.2809,6.7398",
+    "geom:latitude":6.7398,
+    "geom:longitude":80.2809,
+    "gn:admin1_code":"33.0",
+    "gn:asciiname":"Narangashena",
+    "gn:country_code":"LK",
+    "gn:dem":58,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7437225,
+    "gn:latitude":6.7398,
+    "gn:longitude":80.2809,
+    "gn:modification_date":"2010-08-07",
+    "gn:name":"Narangashena",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632313,
+        85673785,
+        1092060969
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7437225
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"2c9810f7a3664e56f56afff524f3cb57",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "county_id":1092060969,
+            "locality_id":1226592705,
+            "region_id":85673785
+        }
+    ],
+    "wof:id":1226592705,
+    "wof:lastmodified":1536933875,
+    "wof:name":"Narangashena",
+    "wof:parent_id":1092060969,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    80.2809,
+    6.7398,
+    80.2809,
+    6.7398
+],
+  "geometry": {"coordinates":[80.2809,6.7398],"type":"Point"}
+}

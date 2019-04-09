@@ -1,0 +1,78 @@
+{
+  "id": 1125834115,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"81.84198,7.38216,81.84198,7.38216",
+    "geom:latitude":7.38216,
+    "geom:longitude":81.84198,
+    "gn:gn_country":"LK",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":20000,
+    "gn:population":20000,
+    "iso:country":"LK",
+    "lbl:latitude":7.38216,
+    "lbl:longitude":81.84198,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"LK",
+    "qs_pg:gn_country":"LK",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":8260318,
+    "qs_pg:gn_pop":20000,
+    "qs_pg:name":"Shanjeev Home",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":6,
+    "qs_pg:qs_id":760508,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632313,
+        85673733,
+        1092060545
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8260318,
+        "qs_pg:id":760508
+    },
+    "wof:country":"LK",
+    "wof:created":1497292635,
+    "wof:geomhash":"e0bf944ff50b303a96679fb938476f15",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "county_id":1092060545,
+            "locality_id":1125834115,
+            "region_id":85673733
+        }
+    ],
+    "wof:id":1125834115,
+    "wof:lastmodified":1509394881,
+    "wof:name":"Shanjeev Home",
+    "wof:parent_id":1092060545,
+    "wof:placetype":"locality",
+    "wof:population":20000,
+    "wof:population_rank":7,
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    81.84198,
+    7.38216,
+    81.84198,
+    7.38216
+],
+  "geometry": {"coordinates":[81.84198000000001,7.38216],"type":"Point"}
+}

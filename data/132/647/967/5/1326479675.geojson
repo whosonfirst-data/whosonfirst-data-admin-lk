@@ -1,0 +1,67 @@
+{
+  "id": 1326479675,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"80.1645,7.2966,80.1645,7.2966",
+    "geom:latitude":7.2966,
+    "geom:longitude":80.1645,
+    "gn:admin1_code":"32.0",
+    "gn:asciiname":"Bogahawatta",
+    "gn:country_code":"LK",
+    "gn:dem":70,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1249793,
+    "gn:latitude":7.2966,
+    "gn:longitude":80.1645,
+    "gn:modification_date":"2018-07-04",
+    "gn:name":"Bogahawatta",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632313,
+        85673777,
+        1092056335
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1249793
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"26dc596d557a8e0b1232116bb2a0b7bf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "county_id":1092056335,
+            "locality_id":1326479675,
+            "region_id":85673777
+        }
+    ],
+    "wof:id":1326479675,
+    "wof:lastmodified":1537057352,
+    "wof:name":"Bogahawatta",
+    "wof:parent_id":1092056335,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    80.1645,
+    7.2966,
+    80.1645,
+    7.2966
+],
+  "geometry": {"coordinates":[80.1645,7.2966],"type":"Point"}
+}

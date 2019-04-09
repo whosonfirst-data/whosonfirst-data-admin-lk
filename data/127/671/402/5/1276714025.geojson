@@ -1,0 +1,67 @@
+{
+  "id": 1276714025,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"80.1275,6.407,80.1275,6.407",
+    "geom:latitude":6.407,
+    "geom:longitude":80.1275,
+    "gn:admin1_code":"36.0",
+    "gn:asciiname":"Kuda",
+    "gn:country_code":"LK",
+    "gn:dem":15,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8355976,
+    "gn:latitude":6.407,
+    "gn:longitude":80.1275,
+    "gn:modification_date":"2012-08-05",
+    "gn:name":"Kuda",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632313,
+        85673819,
+        1092067493
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8355976
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"41d653efd9b04a957914b410e1bb0322",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "county_id":1092067493,
+            "locality_id":1276714025,
+            "region_id":85673819
+        }
+    ],
+    "wof:id":1276714025,
+    "wof:lastmodified":1536766212,
+    "wof:name":"Kuda",
+    "wof:parent_id":1092067493,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    80.1275,
+    6.407,
+    80.1275,
+    6.407
+],
+  "geometry": {"coordinates":[80.1275,6.407],"type":"Point"}
+}

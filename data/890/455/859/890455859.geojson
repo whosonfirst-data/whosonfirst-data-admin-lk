@@ -1,0 +1,71 @@
+{
+  "id": 890455859,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2016-09-15",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"80.40894,9.39487,80.40894,9.39487",
+    "geom:latitude":9.39487,
+    "geom:longitude":80.40894,
+    "gn:country":"LK",
+    "gn:fcode":"ADM2",
+    "gn:pop":118194,
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:unk_x_variant":[
+        "Kilinochichi"
+    ],
+    "qs:name":"Kilinochchi District",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"9",
+    "src:geom":"unknown",
+    "src:population":"geonames",
+    "wd:wordcount":745,
+    "wof:belongsto":[
+        102191569,
+        85632313,
+        85673773
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1240371,
+        "qs:id":555461,
+        "wd:id":"Q1584007",
+        "wk:page":"Kilinochchi District"
+    },
+    "wof:country":"LK",
+    "wof:created":1469052978,
+    "wof:geomhash":"48878709f93c811448c1a903fd0b20ed",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "county_id":890455859,
+            "region_id":85673773
+        }
+    ],
+    "wof:id":890455859,
+    "wof:lastmodified":1527734192,
+    "wof:name":"Kilinochchi District",
+    "wof:parent_id":85673773,
+    "wof:placetype":"county",
+    "wof:population":118194,
+    "wof:population_rank":9,
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    80.40894,
+    9.39487,
+    80.40894,
+    9.39487
+],
+  "geometry": {"coordinates":[80.40894,9.39487],"type":"Point"}
+}

@@ -1,0 +1,116 @@
+{
+  "id": 85772767,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":12050857.966637,
+    "geom:bbox":"79.866124,6.90306,79.866124,6.90306",
+    "geom:latitude":6.90306,
+    "geom:longitude":79.866124,
+    "gn:latitude":6.9747,
+    "gn:longitude":79.8738,
+    "iso:country":"LK",
+    "lbl:latitude":6.90306,
+    "lbl:longitude":79.866124,
+    "mps:latitude":6.900503,
+    "mps:longitude":79.878084,
+    "mz:hierarchy_label":0,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":13.0,
+    "mz:tier_locality":2,
+    "name:eng_x_preferred":[
+        "Mattakkuliya"
+    ],
+    "name:sin_x_preferred":[
+        "\u0db8\u0da7\u0dca\u0da7\u0d9a\u0dca\u0d9a\u0dd4\u0dbd\u0dd2\u0dba"
+    ],
+    "name:tam_x_preferred":[
+        "\u0bae\u0b9f\u0bcd\u0b9f\u0b95\u0bcd\u0b95\u0bc1\u0bb3\u0bbf"
+    ],
+    "name:unk_x_variant":[
+        "Mattakkuliya"
+    ],
+    "qs:gn_adm0_cc":"LK",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_local":1248991,
+    "qs:gn_nam_loc":"Colombo, Colombo, Western, LK",
+    "qs:gn_namadm1":"36",
+    "qs:gn_name":"Mattakkuliya",
+    "qs:local_max":2559,
+    "qs:local_sum":8835,
+    "qs:localhoods":10,
+    "qs:name":"Mattakkuliya",
+    "qs:name_adm0":"Sri Lanka",
+    "qs:name_adm1":"Western",
+    "qs:name_adm2":"Colombo",
+    "qs:name_local":"Colombo",
+    "qs:photo_max":278,
+    "qs:photo_sum":844,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":33,
+    "qs:woe_adm0":23424778,
+    "qs:woe_adm1":2344966,
+    "qs:woe_adm2":23706493,
+    "qs:woe_lau":0,
+    "qs:woe_local":2189783,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"mz",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"yerbashapes",
+    "wd:wordcount":30,
+    "wof:belongsto":[
+        102191569,
+        85632313,
+        1092066701,
+        85673811
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1235821,
+        "gp:id":2182410,
+        "qs:id":894789,
+        "wd:id":"Q6789595",
+        "wk:page":"Mattakkuliya"
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"cac36ced5a4f87eacf91f4479ce0c280",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "county_id":1092066701,
+            "locality_id":-1,
+            "neighbourhood_id":85772767,
+            "region_id":85673811
+        }
+    ],
+    "wof:id":85772767,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1531859570,
+    "wof:name":"Mattakkuliya",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    79.866124,
+    6.90306,
+    79.866124,
+    6.90306
+],
+  "geometry": {"coordinates":[79.866124,6.90306],"type":"Point"}
+}

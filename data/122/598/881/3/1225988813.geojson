@@ -1,0 +1,71 @@
+{
+  "id": 1225988813,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"80.1499,6.8864,80.1499,6.8864",
+    "geom:latitude":6.8864,
+    "geom:longitude":80.1499,
+    "gn:admin1_code":"36.0",
+    "gn:asciiname":"Welikanna",
+    "gn:country_code":"LK",
+    "gn:dem":41,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1223691,
+    "gn:latitude":6.8864,
+    "gn:longitude":80.1499,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Welikanna",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Welikane",
+        "Welikanna"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632313,
+        85673811,
+        1092066109
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1223691
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"ec586c79d2226191152e84f45fa0cbc4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "county_id":1092066109,
+            "locality_id":1225988813,
+            "region_id":85673811
+        }
+    ],
+    "wof:id":1225988813,
+    "wof:lastmodified":1537661337,
+    "wof:name":"Welikanna",
+    "wof:parent_id":1092066109,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    80.1499,
+    6.8864,
+    80.1499,
+    6.8864
+],
+  "geometry": {"coordinates":[80.1499,6.8864],"type":"Point"}
+}

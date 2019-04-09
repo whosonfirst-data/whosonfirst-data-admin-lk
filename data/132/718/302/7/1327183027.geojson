@@ -1,0 +1,67 @@
+{
+  "id": 1327183027,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"80.5374,6.4498,80.5374,6.4498",
+    "geom:latitude":6.4498,
+    "geom:longitude":80.5374,
+    "gn:admin1_code":"33.0",
+    "gn:asciiname":"Kopikella",
+    "gn:country_code":"LK",
+    "gn:dem":655,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7557546,
+    "gn:latitude":6.4498,
+    "gn:longitude":80.5374,
+    "gn:modification_date":"2010-10-09",
+    "gn:name":"Kopikella",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632313,
+        85673785,
+        1092060105
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7557546
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"aa3e7f93bcdd04c636c569ba1aecfebf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "county_id":1092060105,
+            "locality_id":1327183027,
+            "region_id":85673785
+        }
+    ],
+    "wof:id":1327183027,
+    "wof:lastmodified":1537039312,
+    "wof:name":"Kopikella",
+    "wof:parent_id":1092060105,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    80.5374,
+    6.4498,
+    80.5374,
+    6.4498
+],
+  "geometry": {"coordinates":[80.53740000000001,6.4498],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1259737071,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"80.6621,6.2726,80.6621,6.2726",
+    "geom:latitude":6.2726,
+    "geom:longitude":80.6621,
+    "gn:admin1_code":"34.0",
+    "gn:asciiname":"Galindamulla",
+    "gn:country_code":"LK",
+    "gn:dem":262,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1246244,
+    "gn:latitude":6.2726,
+    "gn:longitude":80.6621,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Galindamulla",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Gallindamulla"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632313,
+        85673791,
+        1092060721
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1246244
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"6f88f0736c38c2e1314141f355b2f534",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "county_id":1092060721,
+            "locality_id":1259737071,
+            "region_id":85673791
+        }
+    ],
+    "wof:id":1259737071,
+    "wof:lastmodified":1537661555,
+    "wof:name":"Galindamulla",
+    "wof:parent_id":1092060721,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    80.6621,
+    6.2726,
+    80.6621,
+    6.2726
+],
+  "geometry": {"coordinates":[80.6621,6.2726],"type":"Point"}
+}

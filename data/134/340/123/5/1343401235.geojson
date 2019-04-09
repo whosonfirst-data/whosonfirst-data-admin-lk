@@ -1,0 +1,67 @@
+{
+  "id": 1343401235,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"80.1492,6.8128,80.1492,6.8128",
+    "geom:latitude":6.8128,
+    "geom:longitude":80.1492,
+    "gn:admin1_code":"36.0",
+    "gn:asciiname":"Katugalgama",
+    "gn:country_code":"LK",
+    "gn:dem":32,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1241005,
+    "gn:latitude":6.8128,
+    "gn:longitude":80.1492,
+    "gn:modification_date":"1994-01-08",
+    "gn:name":"Katugalgama",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632313,
+        85673819,
+        1092059643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1241005
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"ad8ca4d30b8e7308c22f01546f2d313a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "county_id":1092059643,
+            "locality_id":1343401235,
+            "region_id":85673819
+        }
+    ],
+    "wof:id":1343401235,
+    "wof:lastmodified":1536830691,
+    "wof:name":"Katugalgama",
+    "wof:parent_id":1092059643,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    80.1492,
+    6.8128,
+    80.1492,
+    6.8128
+],
+  "geometry": {"coordinates":[80.14919999999999,6.8128],"type":"Point"}
+}

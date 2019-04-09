@@ -1,0 +1,61 @@
+{
+  "id": 1327274153,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"79.8395,6.9359,79.8395,6.9359",
+    "geom:latitude":6.9359,
+    "geom:longitude":79.8395,
+    "gn:admin1_code":"36.0",
+    "gn:asciiname":"Janadhipathy Medura",
+    "gn:country_code":"LK",
+    "gn:dem":-9999,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7545407,
+    "gn:latitude":6.9359,
+    "gn:longitude":79.8395,
+    "gn:modification_date":"2010-10-09",
+    "gn:name":"Janadhipathy Medura",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7545407
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"d3794d7304fc827ccdc55bbd3ec8521e",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1327274153,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1327274153,
+    "wof:lastmodified":1536909636,
+    "wof:name":"Janadhipathy Medura",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    79.8395,
+    6.9359,
+    79.8395,
+    6.9359
+],
+  "geometry": {"coordinates":[79.8395,6.9359],"type":"Point"}
+}

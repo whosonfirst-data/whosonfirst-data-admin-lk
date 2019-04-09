@@ -1,0 +1,67 @@
+{
+  "id": 1309851137,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"80.3895,6.0826,80.3895,6.0826",
+    "geom:latitude":6.0826,
+    "geom:longitude":80.3895,
+    "gn:admin1_code":"34.0",
+    "gn:asciiname":"Minuwandeniya",
+    "gn:country_code":"LK",
+    "gn:dem":77,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1235006,
+    "gn:latitude":6.0826,
+    "gn:longitude":80.3895,
+    "gn:modification_date":"1994-01-08",
+    "gn:name":"Minuwandeniya",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632313,
+        85673789,
+        1092068203
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1235006
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"e8a99b0ec07ed69b6784083089cd317e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "county_id":1092068203,
+            "locality_id":1309851137,
+            "region_id":85673789
+        }
+    ],
+    "wof:id":1309851137,
+    "wof:lastmodified":1536864491,
+    "wof:name":"Minuwandeniya",
+    "wof:parent_id":1092068203,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    80.3895,
+    6.0826,
+    80.3895,
+    6.0826
+],
+  "geometry": {"coordinates":[80.3895,6.0826],"type":"Point"}
+}

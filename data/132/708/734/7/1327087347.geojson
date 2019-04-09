@@ -1,0 +1,72 @@
+{
+  "id": 1327087347,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"79.9787,6.533,79.9787,6.533",
+    "geom:latitude":6.533,
+    "geom:longitude":79.9787,
+    "gn:admin1_code":"36.0",
+    "gn:asciiname":"Hettiweediya",
+    "gn:country_code":"LK",
+    "gn:dem":11,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1244256,
+    "gn:latitude":6.533,
+    "gn:longitude":79.9787,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Hettiweediya",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Radamulla",
+        "Hettiweediya",
+        "Hettiwidiya"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632313,
+        85673819,
+        1092057157
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1244256
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"dd5636130f2c46e8fa4827a99bbab3a6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "county_id":1092057157,
+            "locality_id":1327087347,
+            "region_id":85673819
+        }
+    ],
+    "wof:id":1327087347,
+    "wof:lastmodified":1537661538,
+    "wof:name":"Hettiweediya",
+    "wof:parent_id":1092057157,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    79.9787,
+    6.533,
+    79.9787,
+    6.533
+],
+  "geometry": {"coordinates":[79.9787,6.533],"type":"Point"}
+}

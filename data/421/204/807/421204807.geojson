@@ -1,0 +1,79 @@
+{
+  "id": 421204807,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"79.81667,9.6,79.81667,9.6",
+    "geom:latitude":9.6,
+    "geom:longitude":79.81667,
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:unk_x_variant":[
+        "Pungudutivu West"
+    ],
+    "qs:gn_country":"LK",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":1229381,
+    "qs:gn_pop":0,
+    "qs:name":"Punkudutivu West",
+    "qs:name_adm0":"Sri Lanka",
+    "qs:name_adm1":"North Eastern",
+    "qs:photos":34,
+    "qs:photos_1k":7,
+    "qs:photos_9k":1,
+    "qs:photos_9r":2,
+    "qs:photos_all":34,
+    "qs:photos_sr":2,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":249058,
+    "qs:woe_adm0":23424778,
+    "qs:woe_id":2185940,
+    "src:geom":"quattroshapes",
+    "wof:belongsto":[
+        102191569,
+        85632313,
+        85673769,
+        1092059807
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1229381,
+        "gp:id":2185940,
+        "qs:id":249058
+    },
+    "wof:country":"LK",
+    "wof:created":1459010198,
+    "wof:geomhash":"18ffa6d3415449ea7807f298c02c7d7a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "county_id":1092059807,
+            "locality_id":421204807,
+            "region_id":85673769
+        }
+    ],
+    "wof:id":421204807,
+    "wof:lastmodified":1501217335,
+    "wof:name":"Punkudutivu West",
+    "wof:parent_id":1092059807,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    79.81667,
+    9.6,
+    79.81667,
+    9.6
+],
+  "geometry": {"coordinates":[79.81667,9.6],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1276164123,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"81.08333,7.23333,81.08333,7.23333",
+    "geom:latitude":7.23333,
+    "geom:longitude":81.08333,
+    "gn:admin1_code":"35.0",
+    "gn:asciiname":"Ritigaha-arawa",
+    "gn:country_code":"LK",
+    "gn:dem":260,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1228574,
+    "gn:latitude":7.23333,
+    "gn:longitude":81.08333,
+    "gn:modification_date":"1994-01-08",
+    "gn:name":"Ritigaha-arawa",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632313,
+        85673801,
+        1092065929
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1228574
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"8efe6a254fb0b457b2b0edce39be49cb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "county_id":1092065929,
+            "locality_id":1276164123,
+            "region_id":85673801
+        }
+    ],
+    "wof:id":1276164123,
+    "wof:lastmodified":1537004772,
+    "wof:name":"Ritigaha-arawa",
+    "wof:parent_id":1092065929,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    81.08333,
+    7.23333,
+    81.08333,
+    7.23333
+],
+  "geometry": {"coordinates":[81.08333,7.23333],"type":"Point"}
+}

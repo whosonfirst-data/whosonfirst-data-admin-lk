@@ -1,0 +1,70 @@
+{
+  "id": 1310155897,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"80.1788,8.1976,80.1788,8.1976",
+    "geom:latitude":8.1976,
+    "geom:longitude":80.1788,
+    "gn:admin1_code":"30.0",
+    "gn:asciiname":"Melikewa",
+    "gn:country_code":"LK",
+    "gn:dem":61,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1235262,
+    "gn:latitude":8.1976,
+    "gn:longitude":80.1788,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Melikewa",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Metikewa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632313,
+        85673751,
+        1092065663
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1235262
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"b52f0da4e3ef3dabdd5582b30fb8c389",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "county_id":1092065663,
+            "locality_id":1310155897,
+            "region_id":85673751
+        }
+    ],
+    "wof:id":1310155897,
+    "wof:lastmodified":1537661458,
+    "wof:name":"Melikewa",
+    "wof:parent_id":1092065663,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    80.1788,
+    8.1976,
+    80.1788,
+    8.1976
+],
+  "geometry": {"coordinates":[80.1788,8.1976],"type":"Point"}
+}

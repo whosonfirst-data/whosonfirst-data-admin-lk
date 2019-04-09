@@ -1,0 +1,70 @@
+{
+  "id": 1327376663,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"80.3957,9.6225,80.3957,9.6225",
+    "geom:latitude":9.6225,
+    "geom:longitude":80.3957,
+    "gn:admin1_code":"38.0",
+    "gn:asciiname":"Maruthankerny",
+    "gn:country_code":"LK",
+    "gn:dem":7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1235905,
+    "gn:latitude":9.6225,
+    "gn:longitude":80.3957,
+    "gn:modification_date":"2012-04-05",
+    "gn:name":"Maruthankerny",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Marutankeni"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632313,
+        85673769,
+        1092067071
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1235905
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"efc475afbcf09fe195778c6af1656dad",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "county_id":1092067071,
+            "locality_id":1327376663,
+            "region_id":85673769
+        }
+    ],
+    "wof:id":1327376663,
+    "wof:lastmodified":1537661464,
+    "wof:name":"Maruthankerny",
+    "wof:parent_id":1092067071,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    80.3957,
+    9.6225,
+    80.3957,
+    9.6225
+],
+  "geometry": {"coordinates":[80.39570000000001,9.6225],"type":"Point"}
+}

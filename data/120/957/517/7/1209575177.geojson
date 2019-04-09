@@ -1,0 +1,61 @@
+{
+  "id": 1209575177,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"80.2386,7.5246,80.2386,7.5246",
+    "geom:latitude":7.5246,
+    "geom:longitude":80.2386,
+    "gn:admin1_code":"32.0",
+    "gn:asciiname":"Badahelagama",
+    "gn:country_code":"LK",
+    "gn:dem":80,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8301657,
+    "gn:latitude":7.5246,
+    "gn:longitude":80.2386,
+    "gn:modification_date":"2012-06-06",
+    "gn:name":"Badahelagama",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632313
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8301657
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"54108cff0affc7019282a7a097b4d6a1",
+    "wof:hierarchy":[
+        {
+            "country_id":85632313,
+            "locality_id":1209575177
+        }
+    ],
+    "wof:id":1209575177,
+    "wof:lastmodified":1536282961,
+    "wof:name":"Badahelagama",
+    "wof:parent_id":85632313,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    80.2386,
+    7.5246,
+    80.2386,
+    7.5246
+],
+  "geometry": {"coordinates":[80.23860000000001,7.5246],"type":"Point"}
+}

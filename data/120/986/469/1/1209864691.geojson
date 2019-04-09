@@ -1,0 +1,70 @@
+{
+  "id": 1209864691,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"80.4036,7.2622,80.4036,7.2622",
+    "geom:latitude":7.2622,
+    "geom:longitude":80.4036,
+    "gn:admin1_code":"33.0",
+    "gn:asciiname":"Dematapitiya",
+    "gn:country_code":"LK",
+    "gn:dem":164,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1248257,
+    "gn:latitude":7.2622,
+    "gn:longitude":80.4036,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Dematapitiya",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Dembatapitiya"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632313,
+        85673807,
+        1092065729
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1248257
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"c3ac86a46f5f26060b4a701102a6ec0a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "county_id":1092065729,
+            "locality_id":1209864691,
+            "region_id":85673807
+        }
+    ],
+    "wof:id":1209864691,
+    "wof:lastmodified":1537661574,
+    "wof:name":"Dematapitiya",
+    "wof:parent_id":1092065729,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    80.4036,
+    7.2622,
+    80.4036,
+    7.2622
+],
+  "geometry": {"coordinates":[80.4036,7.2622],"type":"Point"}
+}

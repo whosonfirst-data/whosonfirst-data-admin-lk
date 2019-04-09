@@ -1,0 +1,72 @@
+{
+  "id": 1326670989,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"80.0914,6.3637,80.0914,6.3637",
+    "geom:latitude":6.3637,
+    "geom:longitude":80.0914,
+    "gn:admin1_code":"34.0",
+    "gn:asciiname":"Galpottawala",
+    "gn:country_code":"LK",
+    "gn:dem":40,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1246158,
+    "gn:latitude":6.3637,
+    "gn:longitude":80.0914,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Galpottawala",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Galpottawella",
+        "Galpottawila",
+        "Galpottawala"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632313,
+        85673789,
+        1092060579
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1246158
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"234552cb9de8fd9d9a17f7bbb223f70c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "county_id":1092060579,
+            "locality_id":1326670989,
+            "region_id":85673789
+        }
+    ],
+    "wof:id":1326670989,
+    "wof:lastmodified":1537661554,
+    "wof:name":"Galpottawala",
+    "wof:parent_id":1092060579,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    80.0914,
+    6.3637,
+    80.0914,
+    6.3637
+],
+  "geometry": {"coordinates":[80.09139999999999,6.3637],"type":"Point"}
+}

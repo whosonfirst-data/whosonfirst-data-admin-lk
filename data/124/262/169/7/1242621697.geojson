@@ -1,0 +1,67 @@
+{
+  "id": 1242621697,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"79.9449,6.7999,79.9449,6.7999",
+    "geom:latitude":6.7999,
+    "geom:longitude":79.9449,
+    "gn:admin1_code":"36.0",
+    "gn:asciiname":"Mawittara",
+    "gn:country_code":"LK",
+    "gn:dem":21,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1235681,
+    "gn:latitude":6.7999,
+    "gn:longitude":79.9449,
+    "gn:modification_date":"1994-01-08",
+    "gn:name":"Mawittara",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632313,
+        85673811,
+        1092060885
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1235681
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"3d666aeb40b477572f7ca14db7b5a70d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "county_id":1092060885,
+            "locality_id":1242621697,
+            "region_id":85673811
+        }
+    ],
+    "wof:id":1242621697,
+    "wof:lastmodified":1536999541,
+    "wof:name":"Mawittara",
+    "wof:parent_id":1092060885,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    79.9449,
+    6.7999,
+    79.9449,
+    6.7999
+],
+  "geometry": {"coordinates":[79.9449,6.7999],"type":"Point"}
+}

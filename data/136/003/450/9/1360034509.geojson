@@ -1,0 +1,67 @@
+{
+  "id": 1360034509,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"79.76694,7.94472,79.76694,7.94472",
+    "geom:latitude":7.94472,
+    "geom:longitude":79.76694,
+    "gn:admin1_code":"32.0",
+    "gn:asciiname":"Palaichcholai North",
+    "gn:country_code":"LK",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1232008,
+    "gn:latitude":7.94472,
+    "gn:longitude":79.76694,
+    "gn:modification_date":"1999-06-17",
+    "gn:name":"Palaichcholai North",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632313,
+        85673779,
+        1092063613
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1232008
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"a925f5623d0c384cc0c400e1db95b380",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "county_id":1092063613,
+            "locality_id":1360034509,
+            "region_id":85673779
+        }
+    ],
+    "wof:id":1360034509,
+    "wof:lastmodified":1537018011,
+    "wof:name":"Palaichcholai North",
+    "wof:parent_id":1092063613,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    79.76694,
+    7.94472,
+    79.76694,
+    7.94472
+],
+  "geometry": {"coordinates":[79.76694000000001,7.94472],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1226597917,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"81.243,6.8675,81.243,6.8675",
+    "geom:latitude":6.8675,
+    "geom:longitude":81.243,
+    "gn:admin1_code":"35.0",
+    "gn:asciiname":"Athala",
+    "gn:country_code":"LK",
+    "gn:dem":304,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1250860,
+    "gn:latitude":6.8675,
+    "gn:longitude":81.243,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Athala",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Atale"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632313,
+        85673803,
+        1092056763
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1250860
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"33af7c3d4a332cc9281d57c9e9fbea9f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "county_id":1092056763,
+            "locality_id":1226597917,
+            "region_id":85673803
+        }
+    ],
+    "wof:id":1226597917,
+    "wof:lastmodified":1537661595,
+    "wof:name":"Athala",
+    "wof:parent_id":1092056763,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    81.243,
+    6.8675,
+    81.243,
+    6.8675
+],
+  "geometry": {"coordinates":[81.24299999999999,6.8675],"type":"Point"}
+}

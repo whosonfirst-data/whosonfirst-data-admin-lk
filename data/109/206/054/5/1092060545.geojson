@@ -1,0 +1,89 @@
+{
+  "id": 1092060545,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.00058,
+    "geom:area_square_m":7117195.809498,
+    "geom:bbox":"81.8214179349,7.35887251739,81.8545881925,7.39514427429",
+    "geom:latitude":7.372003,
+    "geom:longitude":81.839585,
+    "iso:country":"LK",
+    "lbl:latitude":7.370362,
+    "lbl:longitude":81.842599,
+    "meso:admin_1":"Ampara",
+    "meso:admin_1r":"Eastern",
+    "meso:dissme":"KaraitheevuAmparaEastern",
+    "meso:gadm_admin":"Karativu",
+    "meso:gadm_hasc2":"LK.AP.KR",
+    "meso:mps_x":81.842599,
+    "meso:mps_y":7.370362,
+    "meso:name_en":"Karaitheevu",
+    "meso:source":"AOTM",
+    "mps:latitude":7.370362,
+    "mps:longitude":81.842599,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Karaitheevu"
+    ],
+    "name:eng_x_variant":[
+        "Karativu"
+    ],
+    "src:geom":"meso",
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"statoids",
+    "src:population:date":"2012-03-20",
+    "statoids:area_km":"7",
+    "statoids:as_of_date":"2012-03-20",
+    "statoids:capital":"Karaitivu",
+    "statoids:country":"LK",
+    "statoids:hasc":"LK.AP",
+    "statoids:name":"Karaitheevu",
+    "statoids:population":"16839",
+    "statoids:statoid":"LK.AP.KR",
+    "statoids:timezone":"+5:30",
+    "statoids:type":"division",
+    "wof:belongsto":[
+        102191569,
+        85632313,
+        85673733
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "hasc:id":"LK.AP.KR"
+    },
+    "wof:country":"LK",
+    "wof:created":1473898922,
+    "wof:geomhash":"14a1d4ade4e3a3478ddbbc5717c77631",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "county_id":1092060545,
+            "region_id":85673733
+        }
+    ],
+    "wof:id":1092060545,
+    "wof:lastmodified":1536615144,
+    "wof:name":"Karaitheevu",
+    "wof:parent_id":85673733,
+    "wof:placetype":"county",
+    "wof:placetype_local":"division",
+    "wof:population":16839,
+    "wof:population_rank":6,
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:shortcode":"KR",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    81.82141793490717,
+    7.35887251739253,
+    81.85458819249598,
+    7.39514427429162
+],
+  "geometry": {"coordinates":[[[81.82212014588532,7.37278277479361],[81.82839010798324,7.37372142243616],[81.83554250981652,7.37554250981407],[81.8443765982706,7.39370185057602],[81.84699666772163,7.39514427429162],[81.84708404500003,7.39497232400004],[81.84708404500003,7.39163875600002],[81.84788513200004,7.39083337800002],[81.84794616700003,7.38663911800006],[81.84869384800004,7.38583326300005],[81.84952545200008,7.37911129000003],[81.85124969500004,7.37583351100005],[81.85124969500004,7.37330532100003],[81.85291290300006,7.37083339700007],[81.85377502400007,7.36583328200004],[81.85458819249598,7.36445353113289],[81.85341875660153,7.36411717452953],[81.84748634492578,7.36300101749352],[81.84385357771008,7.36065196329696],[81.84159420867076,7.35897780225205],[81.83961578744416,7.35891346765168],[81.83803037839195,7.35887251739253],[81.83522572541091,7.3590608129214],[81.8219144698279,7.36443730079308],[81.82141793490717,7.36699061663433],[81.82212014588532,7.37278277479361]]],"type":"Polygon"}
+}

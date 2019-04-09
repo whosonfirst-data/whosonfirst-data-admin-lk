@@ -1,0 +1,61 @@
+{
+  "id": 1209358999,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"80.016,7.1705,80.016,7.1705",
+    "geom:latitude":7.1705,
+    "geom:longitude":80.016,
+    "gn:admin1_code":"36.0",
+    "gn:asciiname":"Metikotumulla",
+    "gn:country_code":"LK",
+    "gn:dem":30,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1235261,
+    "gn:latitude":7.1705,
+    "gn:longitude":80.016,
+    "gn:modification_date":"1994-01-08",
+    "gn:name":"Metikotumulla",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632313
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1235261
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"b8d8ee6a24fbd4ef7b53faea43b6641a",
+    "wof:hierarchy":[
+        {
+            "country_id":85632313,
+            "locality_id":1209358999
+        }
+    ],
+    "wof:id":1209358999,
+    "wof:lastmodified":1536289490,
+    "wof:name":"Metikotumulla",
+    "wof:parent_id":85632313,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    80.016,
+    7.1705,
+    80.016,
+    7.1705
+],
+  "geometry": {"coordinates":[80.01600000000001,7.1705],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1260034007,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"80.4497,6.793,80.4497,6.793",
+    "geom:latitude":6.793,
+    "geom:longitude":80.4497,
+    "gn:admin1_code":"33.0",
+    "gn:asciiname":"Siripagama",
+    "gn:country_code":"LK",
+    "gn:dem":444,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7546374,
+    "gn:latitude":6.793,
+    "gn:longitude":80.4497,
+    "gn:modification_date":"2010-10-09",
+    "gn:name":"Siripagama",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632313,
+        85673785,
+        1092065839
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7546374
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"96f3e571fecf786746f6b2c3f46e6a57",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "county_id":1092065839,
+            "locality_id":1260034007,
+            "region_id":85673785
+        }
+    ],
+    "wof:id":1260034007,
+    "wof:lastmodified":1537056913,
+    "wof:name":"Siripagama",
+    "wof:parent_id":1092065839,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    80.4497,
+    6.793,
+    80.4497,
+    6.793
+],
+  "geometry": {"coordinates":[80.44970000000001,6.793],"type":"Point"}
+}

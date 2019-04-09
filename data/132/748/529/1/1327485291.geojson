@@ -1,0 +1,67 @@
+{
+  "id": 1327485291,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"81.53333,7.91667,81.53333,7.91667",
+    "geom:latitude":7.91667,
+    "geom:longitude":81.53333,
+    "gn:admin1_code":"37.0",
+    "gn:asciiname":"Brynthuraichenai",
+    "gn:country_code":"LK",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1249482,
+    "gn:latitude":7.91667,
+    "gn:longitude":81.53333,
+    "gn:modification_date":"2012-04-05",
+    "gn:name":"Brynthuraichenai",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632313,
+        85673737,
+        1092061175
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1249482
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"74c27b5e86b22b5df6d58e1af2df8ac4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "county_id":1092061175,
+            "locality_id":1327485291,
+            "region_id":85673737
+        }
+    ],
+    "wof:id":1327485291,
+    "wof:lastmodified":1536601261,
+    "wof:name":"Brynthuraichenai",
+    "wof:parent_id":1092061175,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    81.53333,
+    7.91667,
+    81.53333,
+    7.91667
+],
+  "geometry": {"coordinates":[81.53333000000001,7.91667],"type":"Point"}
+}

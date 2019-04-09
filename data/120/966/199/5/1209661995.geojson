@@ -1,0 +1,66 @@
+{
+  "id": 1209661995,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"80.45,8.36667,80.45,8.36667",
+    "geom:latitude":8.36667,
+    "geom:longitude":80.45,
+    "gn:admin1_code":"30.0",
+    "gn:asciiname":"Sirukkulama",
+    "gn:cc2":"LK",
+    "gn:country_code":"LK",
+    "gn:dem":92,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1227878,
+    "gn:latitude":8.36667,
+    "gn:longitude":80.45,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Sirukkulama",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sirukulama",
+        "Sirukkulama"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632313
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1227878
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"e7a20316ba6fbb53bc4d7e5239c43c8a",
+    "wof:hierarchy":[
+        {
+            "country_id":85632313,
+            "locality_id":1209661995
+        }
+    ],
+    "wof:id":1209661995,
+    "wof:lastmodified":1537661388,
+    "wof:name":"Sirukkulama",
+    "wof:parent_id":85632313,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    80.45,
+    8.36667,
+    80.45,
+    8.36667
+],
+  "geometry": {"coordinates":[80.45,8.36667],"type":"Point"}
+}

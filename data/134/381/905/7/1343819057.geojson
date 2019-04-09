@@ -1,0 +1,70 @@
+{
+  "id": 1343819057,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"80.7614,7.5609,80.7614,7.5609",
+    "geom:latitude":7.5609,
+    "geom:longitude":80.7614,
+    "gn:admin1_code":"29.0",
+    "gn:asciiname":"Patanegedara",
+    "gn:country_code":"LK",
+    "gn:dem":584,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1230826,
+    "gn:latitude":7.5609,
+    "gn:longitude":80.7614,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Patanegedara",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Patanegedera"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632313,
+        85673723,
+        1092061819
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1230826
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"4eea145c8015efa811af64960266457a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "county_id":1092061819,
+            "locality_id":1343819057,
+            "region_id":85673723
+        }
+    ],
+    "wof:id":1343819057,
+    "wof:lastmodified":1537661415,
+    "wof:name":"Patanegedara",
+    "wof:parent_id":1092061819,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    80.7614,
+    7.5609,
+    80.7614,
+    7.5609
+],
+  "geometry": {"coordinates":[80.76139999999999,7.5609],"type":"Point"}
+}

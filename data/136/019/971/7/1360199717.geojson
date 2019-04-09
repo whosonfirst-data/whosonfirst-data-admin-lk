@@ -1,0 +1,67 @@
+{
+  "id": 1360199717,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"79.86944,6.87734,79.86944,6.87734",
+    "geom:latitude":6.87734,
+    "geom:longitude":79.86944,
+    "gn:asciiname":"Pamankada",
+    "gn:country_code":"LK",
+    "gn:dem":16,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9165802,
+    "gn:latitude":6.87734,
+    "gn:longitude":79.86944,
+    "gn:modification_date":"2014-06-11",
+    "gn:name":"Pamankada",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632313,
+        85673811,
+        1092066701
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9165802,
+        "wk:page":"Pamankada"
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"a1106c11eaa2f9c0022a5a2add7426a7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "county_id":1092066701,
+            "locality_id":1360199717,
+            "region_id":85673811
+        }
+    ],
+    "wof:id":1360199717,
+    "wof:lastmodified":1537568028,
+    "wof:name":"Pamankada",
+    "wof:parent_id":1092066701,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    79.86944,
+    6.87734,
+    79.86944,
+    6.87734
+],
+  "geometry": {"coordinates":[79.86944,6.87734],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1343620731,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"80.4637,6.7003,80.4637,6.7003",
+    "geom:latitude":6.7003,
+    "geom:longitude":80.4637,
+    "gn:admin1_code":"33.0",
+    "gn:asciiname":"Mawalla North",
+    "gn:country_code":"LK",
+    "gn:dem":158,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7546847,
+    "gn:latitude":6.7003,
+    "gn:longitude":80.4637,
+    "gn:modification_date":"2010-10-09",
+    "gn:name":"Mawalla North",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632313,
+        85673785,
+        1092065303
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7546847
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"fcd916d185333fbe029a33337edb8358",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "county_id":1092065303,
+            "locality_id":1343620731,
+            "region_id":85673785
+        }
+    ],
+    "wof:id":1343620731,
+    "wof:lastmodified":1537011738,
+    "wof:name":"Mawalla North",
+    "wof:parent_id":1092065303,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    80.4637,
+    6.7003,
+    80.4637,
+    6.7003
+],
+  "geometry": {"coordinates":[80.4637,6.7003],"type":"Point"}
+}

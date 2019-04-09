@@ -1,0 +1,89 @@
+{
+  "id": 1092058421,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000273,
+    "geom:area_square_m":3339464.28119,
+    "geom:bbox":"81.5964548763,7.76241332959,81.6131663055,7.78478262278",
+    "geom:latitude":7.773981,
+    "geom:longitude":81.605278,
+    "iso:country":"LK",
+    "lbl:latitude":7.774409,
+    "lbl:longitude":81.605278,
+    "meso:admin_1":"Batticaloa",
+    "meso:admin_1r":"Eastern",
+    "meso:dissme":"Eravur TownBatticaloaEastern",
+    "meso:gadm_admin":"Eravur Pattu",
+    "meso:gadm_hasc2":"LK.BC.EP",
+    "meso:mps_x":81.605278,
+    "meso:mps_y":7.774409,
+    "meso:name_en":"Eravur Town",
+    "meso:source":"AOTM",
+    "mps:latitude":7.774409,
+    "mps:longitude":81.605278,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Eravur Town"
+    ],
+    "name:eng_x_variant":[
+        "Eravur Pattu"
+    ],
+    "src:geom":"meso",
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"statoids",
+    "src:population:date":"2012-03-20",
+    "statoids:area_km":"3",
+    "statoids:as_of_date":"2012-03-20",
+    "statoids:capital":"Erawur",
+    "statoids:country":"LK",
+    "statoids:hasc":"LK.BC",
+    "statoids:name":"Eravur Town",
+    "statoids:population":"24643",
+    "statoids:statoid":"LK.BC.ET",
+    "statoids:timezone":"+5:30",
+    "statoids:type":"division",
+    "wof:belongsto":[
+        102191569,
+        85632313,
+        85673737
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "hasc:id":"LK.BC.ET"
+    },
+    "wof:country":"LK",
+    "wof:created":1473898840,
+    "wof:geomhash":"241a1fafd0faeb32bb844423d160a887",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "county_id":1092058421,
+            "region_id":85673737
+        }
+    ],
+    "wof:id":1092058421,
+    "wof:lastmodified":1536615142,
+    "wof:name":"Eravur Town",
+    "wof:parent_id":85673737,
+    "wof:placetype":"county",
+    "wof:placetype_local":"division",
+    "wof:population":24643,
+    "wof:population_rank":7,
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:shortcode":"ET",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    81.59645487627186,
+    7.76241332959336,
+    81.61316630549001,
+    7.78478262278389
+],
+  "geometry": {"coordinates":[[[81.59695024640769,7.77260534887115],[81.59645487627186,7.77719703959785],[81.59910884520662,7.78219101123761],[81.60255347558663,7.78478262278389],[81.607782776242,7.78362896843044],[81.61309278289934,7.77891750177829],[81.61316630549001,7.77375159280016],[81.61152271957883,7.76440342171598],[81.60411142306276,7.76241332959336],[81.59695024640769,7.77260534887115]]],"type":"Polygon"}
+}

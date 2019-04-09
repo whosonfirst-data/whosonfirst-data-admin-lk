@@ -1,0 +1,67 @@
+{
+  "id": 1327187183,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"80.0584,6.8084,80.0584,6.8084",
+    "geom:latitude":6.8084,
+    "geom:longitude":80.0584,
+    "gn:admin1_code":"36.0",
+    "gn:asciiname":"Halbarawa Farm",
+    "gn:country_code":"LK",
+    "gn:dem":34,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7474181,
+    "gn:latitude":6.8084,
+    "gn:longitude":80.0584,
+    "gn:modification_date":"2010-08-08",
+    "gn:name":"Halbarawa Farm",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632313,
+        85673811,
+        1092064693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7474181
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"fb19649b1d8aba3f41b99a3958e56392",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "county_id":1092064693,
+            "locality_id":1327187183,
+            "region_id":85673811
+        }
+    ],
+    "wof:id":1327187183,
+    "wof:lastmodified":1537033554,
+    "wof:name":"Halbarawa Farm",
+    "wof:parent_id":1092064693,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    80.0584,
+    6.8084,
+    80.0584,
+    6.8084
+],
+  "geometry": {"coordinates":[80.05840000000001,6.8084],"type":"Point"}
+}

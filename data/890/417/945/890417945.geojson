@@ -1,0 +1,67 @@
+{
+  "id": 890417945,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"79.85338,6.92377,79.85338,6.92377",
+    "geom:latitude":6.92377,
+    "geom:longitude":79.85338,
+    "gn:country":"LK",
+    "gn:fcode":"BLDG",
+    "gn:pop":2000,
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:is_funky":1,
+    "qs:name":"National Insurance Cooperation",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"3",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632313,
+        85673811,
+        1092057419
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6285797,
+        "gp:id":2189783,
+        "qs:id":617158
+    },
+    "wof:country":"LK",
+    "wof:created":1469051227,
+    "wof:geomhash":"d312a331124449292485bfbab475b5fa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "county_id":1092057419,
+            "locality_id":890417945,
+            "region_id":85673811
+        }
+    ],
+    "wof:id":890417945,
+    "wof:lastmodified":1505343441,
+    "wof:name":"National Insurance Cooperation",
+    "wof:parent_id":1092057419,
+    "wof:placetype":"locality",
+    "wof:population":2000,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    79.85338,
+    6.92377,
+    79.85338,
+    6.92377
+],
+  "geometry": {"coordinates":[79.85338,6.92377],"type":"Point"}
+}

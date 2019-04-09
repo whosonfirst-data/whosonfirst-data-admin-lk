@@ -1,0 +1,67 @@
+{
+  "id": 1193231203,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"79.8933,6.927,79.8933,6.927",
+    "geom:latitude":6.927,
+    "geom:longitude":79.8933,
+    "gn:admin1_code":"36.0",
+    "gn:asciiname":"Salamulla",
+    "gn:country_code":"LK",
+    "gn:dem":5,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7545322,
+    "gn:latitude":6.927,
+    "gn:longitude":79.8933,
+    "gn:modification_date":"2010-10-09",
+    "gn:name":"Salamulla",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632313,
+        85673811,
+        1092061133
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7545322
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"64eb2e4b57604158ea45d46624572388",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "county_id":1092061133,
+            "locality_id":1193231203,
+            "region_id":85673811
+        }
+    ],
+    "wof:id":1193231203,
+    "wof:lastmodified":1536365788,
+    "wof:name":"Salamulla",
+    "wof:parent_id":1092061133,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    79.8933,
+    6.927,
+    79.8933,
+    6.927
+],
+  "geometry": {"coordinates":[79.8933,6.927],"type":"Point"}
+}

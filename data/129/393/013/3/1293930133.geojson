@@ -1,0 +1,67 @@
+{
+  "id": 1293930133,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"80.6744,8.4978,80.6744,8.4978",
+    "geom:latitude":8.4978,
+    "geom:longitude":80.6744,
+    "gn:admin1_code":"30.0",
+    "gn:asciiname":"Kudakumbukwewa",
+    "gn:country_code":"LK",
+    "gn:dem":126,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7438571,
+    "gn:latitude":8.4978,
+    "gn:longitude":80.6744,
+    "gn:modification_date":"2010-08-07",
+    "gn:name":"Kudakumbukwewa",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632313,
+        85673751,
+        1092060031
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7438571
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"2d6bd287c54fbf025398624a23281550",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "county_id":1092060031,
+            "locality_id":1293930133,
+            "region_id":85673751
+        }
+    ],
+    "wof:id":1293930133,
+    "wof:lastmodified":1536645654,
+    "wof:name":"Kudakumbukwewa",
+    "wof:parent_id":1092060031,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    80.6744,
+    8.4978,
+    80.6744,
+    8.4978
+],
+  "geometry": {"coordinates":[80.67440000000001,8.4978],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1310251867,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"80.7144,7.1259,80.7144,7.1259",
+    "geom:latitude":7.1259,
+    "geom:longitude":80.7144,
+    "gn:admin1_code":"29.0",
+    "gn:asciiname":"Gannewa",
+    "gn:country_code":"LK",
+    "gn:dem":1204,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7435551,
+    "gn:latitude":7.1259,
+    "gn:longitude":80.7144,
+    "gn:modification_date":"2010-08-07",
+    "gn:name":"Gannewa",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632313,
+        85673731,
+        1092059139
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7435551
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"00d6d8fc537231df42521fe4236dcadb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "county_id":1092059139,
+            "locality_id":1310251867,
+            "region_id":85673731
+        }
+    ],
+    "wof:id":1310251867,
+    "wof:lastmodified":1536785831,
+    "wof:name":"Gannewa",
+    "wof:parent_id":1092059139,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    80.7144,
+    7.1259,
+    80.7144,
+    7.1259
+],
+  "geometry": {"coordinates":[80.7144,7.1259],"type":"Point"}
+}

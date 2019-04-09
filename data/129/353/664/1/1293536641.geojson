@@ -1,0 +1,67 @@
+{
+  "id": 1293536641,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"80.6808,7.3455,80.6808,7.3455",
+    "geom:latitude":7.3455,
+    "geom:longitude":80.6808,
+    "gn:admin1_code":"29.0",
+    "gn:asciiname":"Katahitiyadeniya",
+    "gn:country_code":"LK",
+    "gn:dem":482,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7433798,
+    "gn:latitude":7.3455,
+    "gn:longitude":80.6808,
+    "gn:modification_date":"2010-08-07",
+    "gn:name":"Katahitiyadeniya",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632313,
+        85673719,
+        1092065219
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7433798
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"b389b4231ef8bc00076a77dd8ea61b13",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "county_id":1092065219,
+            "locality_id":1293536641,
+            "region_id":85673719
+        }
+    ],
+    "wof:id":1293536641,
+    "wof:lastmodified":1536716618,
+    "wof:name":"Katahitiyadeniya",
+    "wof:parent_id":1092065219,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    80.6808,
+    7.3455,
+    80.6808,
+    7.3455
+],
+  "geometry": {"coordinates":[80.6808,7.3455],"type":"Point"}
+}

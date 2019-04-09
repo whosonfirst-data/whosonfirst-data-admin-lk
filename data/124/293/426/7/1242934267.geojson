@@ -1,0 +1,67 @@
+{
+  "id": 1242934267,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"80.8258,7.2256,80.8258,7.2256",
+    "geom:latitude":7.2256,
+    "geom:longitude":80.8258,
+    "gn:admin1_code":"29.0",
+    "gn:asciiname":"Godamunnangamedda",
+    "gn:country_code":"LK",
+    "gn:dem":418,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7474397,
+    "gn:latitude":7.2256,
+    "gn:longitude":80.8258,
+    "gn:modification_date":"2010-08-08",
+    "gn:name":"Godamunnangamedda",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632313,
+        85673719,
+        1092063065
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7474397
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"362fd65c26402d07317ecf464334fc9f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "county_id":1092063065,
+            "locality_id":1242934267,
+            "region_id":85673719
+        }
+    ],
+    "wof:id":1242934267,
+    "wof:lastmodified":1537045259,
+    "wof:name":"Godamunnangamedda",
+    "wof:parent_id":1092063065,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    80.8258,
+    7.2256,
+    80.8258,
+    7.2256
+],
+  "geometry": {"coordinates":[80.8258,7.2256],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1293933721,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"81.1,8.06667,81.1,8.06667",
+    "geom:latitude":8.06667,
+    "geom:longitude":81.1,
+    "gn:admin1_code":"30.0",
+    "gn:asciiname":"Sungawila",
+    "gn:cc2":"LK",
+    "gn:country_code":"LK",
+    "gn:dem":28,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1227536,
+    "gn:latitude":8.06667,
+    "gn:longitude":81.1,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Sungawila",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sungavil",
+        "Sungawila"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632313,
+        85673743,
+        1092061853
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1227536
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"a07db7b2d0152705fae539539c301c38",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "county_id":1092061853,
+            "locality_id":1293933721,
+            "region_id":85673743
+        }
+    ],
+    "wof:id":1293933721,
+    "wof:lastmodified":1537661385,
+    "wof:name":"Sungawila",
+    "wof:parent_id":1092061853,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    81.1,
+    8.06667,
+    81.1,
+    8.06667
+],
+  "geometry": {"coordinates":[81.09999999999999,8.06667],"type":"Point"}
+}

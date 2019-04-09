@@ -1,0 +1,70 @@
+{
+  "id": 1343315915,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"80.343,6.0322,80.343,6.0322",
+    "geom:latitude":6.0322,
+    "geom:longitude":80.343,
+    "gn:admin1_code":"34.0",
+    "gn:asciiname":"Hawpe",
+    "gn:country_code":"LK",
+    "gn:dem":39,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1243819,
+    "gn:latitude":6.0322,
+    "gn:longitude":80.343,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Hawpe",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Howpe"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632313,
+        85673789,
+        1092059573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1243819
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"0466c3660b3684da0290e1d6ee85ff02",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "county_id":1092059573,
+            "locality_id":1343315915,
+            "region_id":85673789
+        }
+    ],
+    "wof:id":1343315915,
+    "wof:lastmodified":1537661534,
+    "wof:name":"Hawpe",
+    "wof:parent_id":1092059573,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    80.343,
+    6.0322,
+    80.343,
+    6.0322
+],
+  "geometry": {"coordinates":[80.343,6.0322],"type":"Point"}
+}

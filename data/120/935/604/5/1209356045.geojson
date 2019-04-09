@@ -1,0 +1,64 @@
+{
+  "id": 1209356045,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"80.4285,7.205,80.4285,7.205",
+    "geom:latitude":7.205,
+    "geom:longitude":80.4285,
+    "gn:admin1_code":"33.0",
+    "gn:asciiname":"Thammita",
+    "gn:country_code":"LK",
+    "gn:dem":272,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1227083,
+    "gn:latitude":7.205,
+    "gn:longitude":80.4285,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Thammita",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tammita"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632313
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1227083
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"b0d26ea2a12bda85e3f2dcee3ac8eb43",
+    "wof:hierarchy":[
+        {
+            "country_id":85632313,
+            "locality_id":1209356045
+        }
+    ],
+    "wof:id":1209356045,
+    "wof:lastmodified":1537661380,
+    "wof:name":"Thammita",
+    "wof:parent_id":85632313,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    80.4285,
+    7.205,
+    80.4285,
+    7.205
+],
+  "geometry": {"coordinates":[80.4285,7.205],"type":"Point"}
+}

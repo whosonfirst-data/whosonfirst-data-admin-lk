@@ -1,0 +1,67 @@
+{
+  "id": 1326971167,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"80.0968,6.1552,80.0968,6.1552",
+    "geom:latitude":6.1552,
+    "geom:longitude":80.0968,
+    "gn:admin1_code":"34.0",
+    "gn:asciiname":"Munugoda",
+    "gn:country_code":"LK",
+    "gn:dem":14,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1234281,
+    "gn:latitude":6.1552,
+    "gn:longitude":80.0968,
+    "gn:modification_date":"1994-01-08",
+    "gn:name":"Munugoda",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632313,
+        85673789,
+        1092059311
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1234281
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"1c77cb5b4af83716ae795fe1e0b2af2c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "county_id":1092059311,
+            "locality_id":1326971167,
+            "region_id":85673789
+        }
+    ],
+    "wof:id":1326971167,
+    "wof:lastmodified":1536847649,
+    "wof:name":"Munugoda",
+    "wof:parent_id":1092059311,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    80.0968,
+    6.1552,
+    80.0968,
+    6.1552
+],
+  "geometry": {"coordinates":[80.0968,6.1552],"type":"Point"}
+}

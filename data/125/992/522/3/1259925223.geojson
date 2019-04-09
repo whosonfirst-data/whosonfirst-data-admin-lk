@@ -1,0 +1,71 @@
+{
+  "id": 1259925223,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"80.1621,6.0767,80.1621,6.0767",
+    "geom:latitude":6.0767,
+    "geom:longitude":80.1621,
+    "gn:admin1_code":"34.0",
+    "gn:asciiname":"Rupiwala",
+    "gn:country_code":"LK",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1228451,
+    "gn:latitude":6.0767,
+    "gn:longitude":80.1621,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Rupiwala",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Rupawala",
+        "Rupiwala"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632313,
+        85673789,
+        1092059311
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1228451
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"8fcdc001fd563c42d409b70eb33346b7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "county_id":1092059311,
+            "locality_id":1259925223,
+            "region_id":85673789
+        }
+    ],
+    "wof:id":1259925223,
+    "wof:lastmodified":1537661392,
+    "wof:name":"Rupiwala",
+    "wof:parent_id":1092059311,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    80.1621,
+    6.0767,
+    80.1621,
+    6.0767
+],
+  "geometry": {"coordinates":[80.1621,6.0767],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1209962225,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"79.9039,7.8927,79.9039,7.8927",
+    "geom:latitude":7.8927,
+    "geom:longitude":79.9039,
+    "gn:admin1_code":"32.0",
+    "gn:asciiname":"Kivula Youth Scheme",
+    "gn:country_code":"LK",
+    "gn:dem":47,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1239937,
+    "gn:latitude":7.8927,
+    "gn:longitude":79.9039,
+    "gn:modification_date":"1994-01-08",
+    "gn:name":"Kivula Youth Scheme",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632313,
+        85673779,
+        1092062091
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1239937
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"6458794db088924ec2270bc17cb02f67",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "county_id":1092062091,
+            "locality_id":1209962225,
+            "region_id":85673779
+        }
+    ],
+    "wof:id":1209962225,
+    "wof:lastmodified":1536372282,
+    "wof:name":"Kivula Youth Scheme",
+    "wof:parent_id":1092062091,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    79.9039,
+    7.8927,
+    79.9039,
+    7.8927
+],
+  "geometry": {"coordinates":[79.90389999999999,7.8927],"type":"Point"}
+}

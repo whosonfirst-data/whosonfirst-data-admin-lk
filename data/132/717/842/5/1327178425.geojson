@@ -1,0 +1,70 @@
+{
+  "id": 1327178425,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"80.1744,6.9481,80.1744,6.9481",
+    "geom:latitude":6.9481,
+    "geom:longitude":80.1744,
+    "gn:admin1_code":"36.0",
+    "gn:asciiname":"Eswatta South",
+    "gn:country_code":"LK",
+    "gn:dem":42,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1246862,
+    "gn:latitude":6.9481,
+    "gn:longitude":80.1744,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Eswatta South",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Eswatta"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632313,
+        85673811,
+        1092066109
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1246862
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"9b1835a20a7b661fa3f7c7f0be1b5489",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "county_id":1092066109,
+            "locality_id":1327178425,
+            "region_id":85673811
+        }
+    ],
+    "wof:id":1327178425,
+    "wof:lastmodified":1537661560,
+    "wof:name":"Eswatta South",
+    "wof:parent_id":1092066109,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    80.1744,
+    6.9481,
+    80.1744,
+    6.9481
+],
+  "geometry": {"coordinates":[80.17440000000001,6.9481],"type":"Point"}
+}

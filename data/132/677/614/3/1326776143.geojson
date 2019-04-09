@@ -1,0 +1,67 @@
+{
+  "id": 1326776143,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"79.9609,7.3067,79.9609,7.3067",
+    "geom:latitude":7.3067,
+    "geom:longitude":79.9609,
+    "gn:admin1_code":"32.0",
+    "gn:asciiname":"Hendiyagala",
+    "gn:country_code":"LK",
+    "gn:dem":20,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1244388,
+    "gn:latitude":7.3067,
+    "gn:longitude":79.9609,
+    "gn:modification_date":"1994-01-08",
+    "gn:name":"Hendiyagala",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632313,
+        85673777,
+        1092065035
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1244388
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"d71399814cf99b96484fa2e40582b3d9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "county_id":1092065035,
+            "locality_id":1326776143,
+            "region_id":85673777
+        }
+    ],
+    "wof:id":1326776143,
+    "wof:lastmodified":1536630860,
+    "wof:name":"Hendiyagala",
+    "wof:parent_id":1092065035,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    79.9609,
+    7.3067,
+    79.9609,
+    7.3067
+],
+  "geometry": {"coordinates":[79.9609,7.3067],"type":"Point"}
+}

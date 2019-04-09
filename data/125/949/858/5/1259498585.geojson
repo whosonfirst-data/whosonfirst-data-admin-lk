@@ -1,0 +1,66 @@
+{
+  "id": 1259498585,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"81.84159,7.37706,81.84159,7.37706",
+    "geom:latitude":7.37706,
+    "geom:longitude":81.84159,
+    "gn:asciiname":"Karaitivu",
+    "gn:country_code":"LK",
+    "gn:dem":6,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8986781,
+    "gn:latitude":7.37706,
+    "gn:longitude":81.84159,
+    "gn:modification_date":"2014-04-24",
+    "gn:name":"Karaitivu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632313,
+        85673733,
+        1092060545
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8986781
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"3e403f934febd1f02e24a575b3105caa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "county_id":1092060545,
+            "locality_id":1259498585,
+            "region_id":85673733
+        }
+    ],
+    "wof:id":1259498585,
+    "wof:lastmodified":1536835991,
+    "wof:name":"Karaitivu",
+    "wof:parent_id":1092060545,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    81.84159,
+    7.37706,
+    81.84159,
+    7.37706
+],
+  "geometry": {"coordinates":[81.84159,7.37706],"type":"Point"}
+}

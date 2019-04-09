@@ -1,0 +1,76 @@
+{
+  "id": 421179881,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"81.31667,7.33333,81.31667,7.33333",
+    "geom:latitude":7.33333,
+    "geom:longitude":81.31667,
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "qs:gn_country":"LK",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":1239586,
+    "qs:gn_pop":0,
+    "qs:name":"Kumana",
+    "qs:name_adm0":"Sri Lanka",
+    "qs:name_adm1":"North Eastern",
+    "qs:photos":295,
+    "qs:photos_1k":60,
+    "qs:photos_9k":1,
+    "qs:photos_9r":4,
+    "qs:photos_all":295,
+    "qs:photos_sr":5,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":235514,
+    "qs:woe_adm0":23424778,
+    "qs:woe_id":2189711,
+    "src:geom":"quattroshapes",
+    "wof:belongsto":[
+        102191569,
+        85632313,
+        85673733,
+        1092064659
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1239586,
+        "gp:id":2189711,
+        "qs:id":235514
+    },
+    "wof:country":"LK",
+    "wof:created":1459009236,
+    "wof:geomhash":"866a3460d0da2817fa3eb8b3367c1188",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "county_id":1092064659,
+            "locality_id":421179881,
+            "region_id":85673733
+        }
+    ],
+    "wof:id":421179881,
+    "wof:lastmodified":1500070264,
+    "wof:name":"Kumana",
+    "wof:parent_id":1092064659,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    81.31667,
+    7.33333,
+    81.31667,
+    7.33333
+],
+  "geometry": {"coordinates":[81.31667,7.33333],"type":"Point"}
+}

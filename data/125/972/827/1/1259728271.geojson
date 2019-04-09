@@ -1,0 +1,67 @@
+{
+  "id": 1259728271,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"81.0108,6.9087,81.0108,6.9087",
+    "geom:latitude":6.9087,
+    "geom:longitude":81.0108,
+    "gn:admin1_code":"35.0",
+    "gn:asciiname":"Nelugama",
+    "gn:country_code":"LK",
+    "gn:dem":1207,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7616676,
+    "gn:latitude":6.9087,
+    "gn:longitude":81.0108,
+    "gn:modification_date":"2010-12-04",
+    "gn:name":"Nelugama",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632313,
+        85673801,
+        1092059057
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7616676
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"227f858d1da46fd7c254d6be3db368c2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "county_id":1092059057,
+            "locality_id":1259728271,
+            "region_id":85673801
+        }
+    ],
+    "wof:id":1259728271,
+    "wof:lastmodified":1537001861,
+    "wof:name":"Nelugama",
+    "wof:parent_id":1092059057,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    81.0108,
+    6.9087,
+    81.0108,
+    6.9087
+],
+  "geometry": {"coordinates":[81.0108,6.9087],"type":"Point"}
+}

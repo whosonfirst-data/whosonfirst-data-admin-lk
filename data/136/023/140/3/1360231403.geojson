@@ -1,0 +1,67 @@
+{
+  "id": 1360231403,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"80.5273,7.9987,80.5273,7.9987",
+    "geom:latitude":7.9987,
+    "geom:longitude":80.5273,
+    "gn:admin1_code":"30.0",
+    "gn:asciiname":"Kalawewa Walauwa",
+    "gn:country_code":"LK",
+    "gn:dem":129,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1242234,
+    "gn:latitude":7.9987,
+    "gn:longitude":80.5273,
+    "gn:modification_date":"1994-01-08",
+    "gn:name":"Kalawewa Walauwa",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632313,
+        85673751,
+        1092059691
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1242234
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"cba16e3a0a13e14370410ae274463a8c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "county_id":1092059691,
+            "locality_id":1360231403,
+            "region_id":85673751
+        }
+    ],
+    "wof:id":1360231403,
+    "wof:lastmodified":1536734786,
+    "wof:name":"Kalawewa Walauwa",
+    "wof:parent_id":1092059691,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    80.5273,
+    7.9987,
+    80.5273,
+    7.9987
+],
+  "geometry": {"coordinates":[80.5273,7.9987],"type":"Point"}
+}

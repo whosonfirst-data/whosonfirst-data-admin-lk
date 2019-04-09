@@ -1,0 +1,61 @@
+{
+  "id": 1209157305,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"80.4241,8.8356,80.4241,8.8356",
+    "geom:latitude":8.8356,
+    "geom:longitude":80.4241,
+    "gn:admin1_code":"38.0",
+    "gn:asciiname":"Ichchankulam",
+    "gn:country_code":"LK",
+    "gn:dem":75,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1243680,
+    "gn:latitude":8.8356,
+    "gn:longitude":80.4241,
+    "gn:modification_date":"2012-04-05",
+    "gn:name":"Ichchankulam",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632313
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1243680
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"9efd99b70b341633c9bcd35d4427aa32",
+    "wof:hierarchy":[
+        {
+            "country_id":85632313,
+            "locality_id":1209157305
+        }
+    ],
+    "wof:id":1209157305,
+    "wof:lastmodified":1536296017,
+    "wof:name":"Ichchankulam",
+    "wof:parent_id":85632313,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    80.4241,
+    8.8356,
+    80.4241,
+    8.8356
+],
+  "geometry": {"coordinates":[80.4241,8.8356],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1225997673,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"79.8928,7.0879,79.8928,7.0879",
+    "geom:latitude":7.0879,
+    "geom:longitude":79.8928,
+    "gn:admin1_code":"36.0",
+    "gn:asciiname":"Tudella",
+    "gn:country_code":"LK",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1226247,
+    "gn:latitude":7.0879,
+    "gn:longitude":79.8928,
+    "gn:modification_date":"1994-01-08",
+    "gn:name":"Tudella",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632313,
+        85673815,
+        1092059853
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1226247
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"ff8ff884745dfa0e74db90a87185a1ad",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "county_id":1092059853,
+            "locality_id":1225997673,
+            "region_id":85673815
+        }
+    ],
+    "wof:id":1225997673,
+    "wof:lastmodified":1536794835,
+    "wof:name":"Tudella",
+    "wof:parent_id":1092059853,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    79.8928,
+    7.0879,
+    79.8928,
+    7.0879
+],
+  "geometry": {"coordinates":[79.89279999999999,7.0879],"type":"Point"}
+}

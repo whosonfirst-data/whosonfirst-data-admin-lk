@@ -1,0 +1,67 @@
+{
+  "id": 1243305201,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"80.4549,7.2127,80.4549,7.2127",
+    "geom:latitude":7.2127,
+    "geom:longitude":80.4549,
+    "gn:admin1_code":"33.0",
+    "gn:asciiname":"Ussapitiya Town",
+    "gn:country_code":"LK",
+    "gn:dem":223,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7435256,
+    "gn:latitude":7.2127,
+    "gn:longitude":80.4549,
+    "gn:modification_date":"2010-08-07",
+    "gn:name":"Ussapitiya Town",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632313,
+        85673807,
+        1092056717
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7435256
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"539197ccfca45426fc52cca3460c889c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "county_id":1092056717,
+            "locality_id":1243305201,
+            "region_id":85673807
+        }
+    ],
+    "wof:id":1243305201,
+    "wof:lastmodified":1537008428,
+    "wof:name":"Ussapitiya Town",
+    "wof:parent_id":1092056717,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    80.4549,
+    7.2127,
+    80.4549,
+    7.2127
+],
+  "geometry": {"coordinates":[80.45489999999999,7.2127],"type":"Point"}
+}

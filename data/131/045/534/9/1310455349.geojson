@@ -1,0 +1,67 @@
+{
+  "id": 1310455349,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"81.3306,6.9435,81.3306,6.9435",
+    "geom:latitude":6.9435,
+    "geom:longitude":81.3306,
+    "gn:admin1_code":"35.0",
+    "gn:asciiname":"Ellenpitiya",
+    "gn:country_code":"LK",
+    "gn:dem":309,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7618319,
+    "gn:latitude":6.9435,
+    "gn:longitude":81.3306,
+    "gn:modification_date":"2010-12-04",
+    "gn:name":"Ellenpitiya",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632313,
+        85673803,
+        1092062005
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7618319
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"e7f68fb3ac5a17f3c443f0a268430670",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "county_id":1092062005,
+            "locality_id":1310455349,
+            "region_id":85673803
+        }
+    ],
+    "wof:id":1310455349,
+    "wof:lastmodified":1536988553,
+    "wof:name":"Ellenpitiya",
+    "wof:parent_id":1092062005,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    81.3306,
+    6.9435,
+    81.3306,
+    6.9435
+],
+  "geometry": {"coordinates":[81.3306,6.9435],"type":"Point"}
+}

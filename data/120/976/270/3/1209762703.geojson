@@ -1,0 +1,67 @@
+{
+  "id": 1209762703,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"80.6119,6.8485,80.6119,6.8485",
+    "geom:latitude":6.8485,
+    "geom:longitude":80.6119,
+    "gn:admin1_code":"29.0",
+    "gn:asciiname":"Diyasirigama",
+    "gn:country_code":"LK",
+    "gn:dem":1230,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7546475,
+    "gn:latitude":6.8485,
+    "gn:longitude":80.6119,
+    "gn:modification_date":"2010-10-09",
+    "gn:name":"Diyasirigama",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632313,
+        85673731,
+        1092056403
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7546475
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"9f0b08fd3ae14c0f4532a66537eff403",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "county_id":1092056403,
+            "locality_id":1209762703,
+            "region_id":85673731
+        }
+    ],
+    "wof:id":1209762703,
+    "wof:lastmodified":1536387796,
+    "wof:name":"Diyasirigama",
+    "wof:parent_id":1092056403,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    80.6119,
+    6.8485,
+    80.6119,
+    6.8485
+],
+  "geometry": {"coordinates":[80.61190000000001,6.8485],"type":"Point"}
+}

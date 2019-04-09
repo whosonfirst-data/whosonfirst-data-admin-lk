@@ -1,0 +1,67 @@
+{
+  "id": 1293436357,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"80.4069,8.2414,80.4069,8.2414",
+    "geom:latitude":8.2414,
+    "geom:longitude":80.4069,
+    "gn:admin1_code":"30.0",
+    "gn:asciiname":"Katugampolagama",
+    "gn:country_code":"LK",
+    "gn:dem":105,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1241000,
+    "gn:latitude":8.2414,
+    "gn:longitude":80.4069,
+    "gn:modification_date":"1994-01-08",
+    "gn:name":"Katugampolagama",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632313,
+        85673751,
+        1092063729
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1241000
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"65cc918c6a71bf3bb90f03f13c3c6299",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "county_id":1092063729,
+            "locality_id":1293436357,
+            "region_id":85673751
+        }
+    ],
+    "wof:id":1293436357,
+    "wof:lastmodified":1536859461,
+    "wof:name":"Katugampolagama",
+    "wof:parent_id":1092063729,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    80.4069,
+    8.2414,
+    80.4069,
+    8.2414
+],
+  "geometry": {"coordinates":[80.40689999999999,8.2414],"type":"Point"}
+}

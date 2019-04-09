@@ -1,0 +1,72 @@
+{
+  "id": 1327282799,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"80.3,7.28333,80.3,7.28333",
+    "geom:latitude":7.28333,
+    "geom:longitude":80.3,
+    "gn:admin1_code":"33.0",
+    "gn:asciiname":"Makuldola",
+    "gn:cc2":"LK",
+    "gn:country_code":"LK",
+    "gn:dem":125,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1236608,
+    "gn:latitude":7.28333,
+    "gn:longitude":80.3,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Makuldola",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Makuddala",
+        "Makuldola"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632313,
+        85673807,
+        1092058595
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1236608
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"e1ff4a6b50bd967dbab13c43ce833883",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "county_id":1092058595,
+            "locality_id":1327282799,
+            "region_id":85673807
+        }
+    ],
+    "wof:id":1327282799,
+    "wof:lastmodified":1537661470,
+    "wof:name":"Makuldola",
+    "wof:parent_id":1092058595,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    80.3,
+    7.28333,
+    80.3,
+    7.28333
+],
+  "geometry": {"coordinates":[80.3,7.28333],"type":"Point"}
+}

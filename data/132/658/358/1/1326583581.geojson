@@ -1,0 +1,73 @@
+{
+  "id": 1326583581,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"80.73333,6.08333,80.73333,6.08333",
+    "geom:latitude":6.08333,
+    "geom:longitude":80.73333,
+    "gn:admin1_code":"34.0",
+    "gn:asciiname":"Hangamuwa",
+    "gn:cc2":"LK",
+    "gn:country_code":"LK",
+    "gn:dem":40,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1244823,
+    "gn:latitude":6.08333,
+    "gn:longitude":80.73333,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Hangamuwa",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Hanagamuwa",
+        "Hangamuwegoda",
+        "Hangamuwa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632313,
+        85673791,
+        1092057099
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1244823
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"0b61da78fd68ed196f221746df582bdc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "county_id":1092057099,
+            "locality_id":1326583581,
+            "region_id":85673791
+        }
+    ],
+    "wof:id":1326583581,
+    "wof:lastmodified":1537661543,
+    "wof:name":"Hangamuwa",
+    "wof:parent_id":1092057099,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    80.73333000000002,
+    6.08333,
+    80.73333000000002,
+    6.08333
+],
+  "geometry": {"coordinates":[80.73333000000002,6.08333],"type":"Point"}
+}

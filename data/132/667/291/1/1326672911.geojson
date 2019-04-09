@@ -1,0 +1,72 @@
+{
+  "id": 1326672911,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"81.4,8.21667,81.4,8.21667",
+    "geom:latitude":8.21667,
+    "geom:longitude":81.4,
+    "gn:admin1_code":"37.0",
+    "gn:asciiname":"Kathiraveli",
+    "gn:country_code":"LK",
+    "gn:dem":5,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1241063,
+    "gn:latitude":8.21667,
+    "gn:longitude":81.4,
+    "gn:modification_date":"2012-04-05",
+    "gn:name":"Kathiraveli",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Katiraveli",
+        "Kathiraveli"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632313,
+        85673737,
+        1092061255
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1241063,
+        "wk:page":"Kathiraveli"
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"acee54d06770bb85e3a6ee7ecc043e32",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "county_id":1092061255,
+            "locality_id":1326672911,
+            "region_id":85673737
+        }
+    ],
+    "wof:id":1326672911,
+    "wof:lastmodified":1537661508,
+    "wof:name":"Kathiraveli",
+    "wof:parent_id":1092061255,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    81.4,
+    8.21667,
+    81.4,
+    8.21667
+],
+  "geometry": {"coordinates":[81.40000000000001,8.21667],"type":"Point"}
+}

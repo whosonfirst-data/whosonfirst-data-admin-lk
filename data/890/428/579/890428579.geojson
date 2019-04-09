@@ -1,0 +1,72 @@
+{
+  "id": 890428579,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"79.99509,8.92645,79.99509,8.92645",
+    "geom:latitude":8.92645,
+    "geom:longitude":79.99509,
+    "gn:country":"LK",
+    "gn:fcode":"PPL",
+    "gn:pop":50,
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tam_x_historical":[
+        "\u0b87\u0bb2\u0ba8\u0bcd\u0ba4\u0bc8\u0bb5\u0bbe\u0ba9\u0bcd"
+    ],
+    "name:tam_x_preferred":[
+        "\u0b87\u0bb2\u0ba8\u0bcd\u0ba4\u0bc8\u0bb5\u0bbe\u0ba9\u0bcd"
+    ],
+    "qs:name":"Ielanthaiwan",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"1",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632313,
+        85673761,
+        1092062755
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8436352,
+        "gp:id":2189579,
+        "qs:id":771040
+    },
+    "wof:country":"LK",
+    "wof:created":1469051759,
+    "wof:geomhash":"34e6b61c9073253fd95cd7326c6071df",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "county_id":1092062755,
+            "locality_id":890428579,
+            "region_id":85673761
+        }
+    ],
+    "wof:id":890428579,
+    "wof:lastmodified":1505343506,
+    "wof:name":"Ielanthaiwan",
+    "wof:parent_id":1092062755,
+    "wof:placetype":"locality",
+    "wof:population":50,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    79.99509,
+    8.92645,
+    79.99509,
+    8.92645
+],
+  "geometry": {"coordinates":[79.99509,8.92645],"type":"Point"}
+}

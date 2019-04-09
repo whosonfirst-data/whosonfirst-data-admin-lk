@@ -1,0 +1,67 @@
+{
+  "id": 1326771575,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"80.1463,6.1916,80.1463,6.1916",
+    "geom:latitude":6.1916,
+    "geom:longitude":80.1463,
+    "gn:admin1_code":"34.0",
+    "gn:asciiname":"Ampegama",
+    "gn:country_code":"LK",
+    "gn:dem":23,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1251453,
+    "gn:latitude":6.1916,
+    "gn:longitude":80.1463,
+    "gn:modification_date":"1994-01-08",
+    "gn:name":"Ampegama",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632313,
+        85673789,
+        1092068045
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1251453
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"4949392861d07e5f1cce39cc74ae062b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "county_id":1092068045,
+            "locality_id":1326771575,
+            "region_id":85673789
+        }
+    ],
+    "wof:id":1326771575,
+    "wof:lastmodified":1536637830,
+    "wof:name":"Ampegama",
+    "wof:parent_id":1092068045,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    80.1463,
+    6.1916,
+    80.1463,
+    6.1916
+],
+  "geometry": {"coordinates":[80.1463,6.1916],"type":"Point"}
+}

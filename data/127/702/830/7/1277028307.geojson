@@ -1,0 +1,67 @@
+{
+  "id": 1277028307,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"80.7064,6.6621,80.7064,6.6621",
+    "geom:latitude":6.6621,
+    "geom:longitude":80.7064,
+    "gn:admin1_code":"33.0",
+    "gn:asciiname":"Ellewatta",
+    "gn:country_code":"LK",
+    "gn:dem":495,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1247091,
+    "gn:latitude":6.6621,
+    "gn:longitude":80.7064,
+    "gn:modification_date":"1994-01-08",
+    "gn:name":"Ellewatta",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632313,
+        85673785,
+        1092056887
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1247091
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"cde0ab46674c69d1989638fabcc4814e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "county_id":1092056887,
+            "locality_id":1277028307,
+            "region_id":85673785
+        }
+    ],
+    "wof:id":1277028307,
+    "wof:lastmodified":1536841141,
+    "wof:name":"Ellewatta",
+    "wof:parent_id":1092056887,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    80.7064,
+    6.6621,
+    80.7064,
+    6.6621
+],
+  "geometry": {"coordinates":[80.7064,6.6621],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1360038333,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"80.0611,6.8723,80.0611,6.8723",
+    "geom:latitude":6.8723,
+    "geom:longitude":80.0611,
+    "gn:admin1_code":"36.0",
+    "gn:asciiname":"Meegoda North",
+    "gn:country_code":"LK",
+    "gn:dem":31,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7474068,
+    "gn:latitude":6.8723,
+    "gn:longitude":80.0611,
+    "gn:modification_date":"2010-08-08",
+    "gn:name":"Meegoda North",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632313,
+        85673811,
+        1092059399
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7474068
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"56730beab12d4af2018d38f5275daa56",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "county_id":1092059399,
+            "locality_id":1360038333,
+            "region_id":85673811
+        }
+    ],
+    "wof:id":1360038333,
+    "wof:lastmodified":1537012522,
+    "wof:name":"Meegoda North",
+    "wof:parent_id":1092059399,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    80.0611,
+    6.8723,
+    80.0611,
+    6.8723
+],
+  "geometry": {"coordinates":[80.0611,6.8723],"type":"Point"}
+}

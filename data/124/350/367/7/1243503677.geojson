@@ -1,0 +1,67 @@
+{
+  "id": 1243503677,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"80.05,7.78333,80.05,7.78333",
+    "geom:latitude":7.78333,
+    "geom:longitude":80.05,
+    "gn:admin1_code":"32.0",
+    "gn:asciiname":"Talakolawewa",
+    "gn:country_code":"LK",
+    "gn:dem":57,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1227378,
+    "gn:latitude":7.78333,
+    "gn:longitude":80.05,
+    "gn:modification_date":"1994-01-08",
+    "gn:name":"Talakolawewa",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632313,
+        85673777,
+        1092065767
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1227378
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"902479c1936c14d61610eb88c1e7ead3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "county_id":1092065767,
+            "locality_id":1243503677,
+            "region_id":85673777
+        }
+    ],
+    "wof:id":1243503677,
+    "wof:lastmodified":1536723508,
+    "wof:name":"Talakolawewa",
+    "wof:parent_id":1092065767,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    80.05,
+    7.78333,
+    80.05,
+    7.78333
+],
+  "geometry": {"coordinates":[80.05,7.78333],"type":"Point"}
+}

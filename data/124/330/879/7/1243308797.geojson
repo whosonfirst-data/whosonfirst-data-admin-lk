@@ -1,0 +1,67 @@
+{
+  "id": 1243308797,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"80.0769,6.2322,80.0769,6.2322",
+    "geom:latitude":6.2322,
+    "geom:longitude":80.0769,
+    "gn:admin1_code":"34.0",
+    "gn:asciiname":"Karawela",
+    "gn:country_code":"LK",
+    "gn:dem":4,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7623901,
+    "gn:latitude":6.2322,
+    "gn:longitude":80.0769,
+    "gn:modification_date":"2010-12-04",
+    "gn:name":"Karawela",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632313,
+        85673789,
+        1092056447
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7623901
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"dbe590d4d1c64d7b11b98de7dfbc777a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "county_id":1092056447,
+            "locality_id":1243308797,
+            "region_id":85673789
+        }
+    ],
+    "wof:id":1243308797,
+    "wof:lastmodified":1537003294,
+    "wof:name":"Karawela",
+    "wof:parent_id":1092056447,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    80.0769,
+    6.2322,
+    80.0769,
+    6.2322
+],
+  "geometry": {"coordinates":[80.07689999999999,6.2322],"type":"Point"}
+}

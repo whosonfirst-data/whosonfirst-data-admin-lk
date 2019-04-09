@@ -1,0 +1,71 @@
+{
+  "id": 1327072825,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"80.2702,9.6782,80.2702,9.6782",
+    "geom:latitude":9.6782,
+    "geom:longitude":80.2702,
+    "gn:admin1_code":"38.0",
+    "gn:asciiname":"Eluthumadduval North",
+    "gn:country_code":"LK",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1247053,
+    "gn:latitude":9.6782,
+    "gn:longitude":80.2702,
+    "gn:modification_date":"2012-04-05",
+    "gn:name":"Eluthumadduval North",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Eluthumattuval North",
+        "Eluthumadduval North"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632313,
+        85673769,
+        1092066611
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1247053
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"3a8bd21607b5711ff7442f7d3e8a5c57",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "county_id":1092066611,
+            "locality_id":1327072825,
+            "region_id":85673769
+        }
+    ],
+    "wof:id":1327072825,
+    "wof:lastmodified":1537661562,
+    "wof:name":"Eluthumadduval North",
+    "wof:parent_id":1092066611,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    80.2702,
+    9.6782,
+    80.2702,
+    9.6782
+],
+  "geometry": {"coordinates":[80.2702,9.6782],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1310444625,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"81.85304,7.34976,81.85304,7.34976",
+    "geom:latitude":7.34976,
+    "geom:longitude":81.85304,
+    "gn:admin1_code":"37.0",
+    "gn:asciiname":"Nintavur",
+    "gn:country_code":"LK",
+    "gn:dem":7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1232981,
+    "gn:latitude":7.34976,
+    "gn:longitude":81.85304,
+    "gn:modification_date":"2012-11-08",
+    "gn:name":"Nintavur",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Nindavur",
+        "Nintavur"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632313,
+        85673733,
+        1092064155
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1232981
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"1b4012083b95a2aaebdab86a17b0bad1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "county_id":1092064155,
+            "locality_id":1310444625,
+            "region_id":85673733
+        }
+    ],
+    "wof:id":1310444625,
+    "wof:lastmodified":1537661437,
+    "wof:name":"Nintavur",
+    "wof:parent_id":1092064155,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    81.85304000000002,
+    7.34976,
+    81.85304000000002,
+    7.34976
+],
+  "geometry": {"coordinates":[81.85304000000002,7.34976],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1209961293,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"81.3072,6.9271,81.3072,6.9271",
+    "geom:latitude":6.9271,
+    "geom:longitude":81.3072,
+    "gn:admin1_code":"35.0",
+    "gn:asciiname":"Kolongasthenna",
+    "gn:country_code":"LK",
+    "gn:dem":311,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7618322,
+    "gn:latitude":6.9271,
+    "gn:longitude":81.3072,
+    "gn:modification_date":"2010-12-04",
+    "gn:name":"Kolongasthenna",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632313,
+        85673803,
+        1092063443
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7618322
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"f472527cc90f02167394d614e85c6734",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "county_id":1092063443,
+            "locality_id":1209961293,
+            "region_id":85673803
+        }
+    ],
+    "wof:id":1209961293,
+    "wof:lastmodified":1536373237,
+    "wof:name":"Kolongasthenna",
+    "wof:parent_id":1092063443,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    81.3072,
+    6.9271,
+    81.3072,
+    6.9271
+],
+  "geometry": {"coordinates":[81.30719999999999,6.9271],"type":"Point"}
+}

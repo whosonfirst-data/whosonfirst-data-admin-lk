@@ -1,0 +1,67 @@
+{
+  "id": 1293744219,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"80.3892,8.1291,80.3892,8.1291",
+    "geom:latitude":8.1291,
+    "geom:longitude":80.3892,
+    "gn:admin1_code":"30.0",
+    "gn:asciiname":"Ambagaswewa",
+    "gn:country_code":"LK",
+    "gn:dem":102,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1251621,
+    "gn:latitude":8.1291,
+    "gn:longitude":80.3892,
+    "gn:modification_date":"1994-01-08",
+    "gn:name":"Ambagaswewa",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632313,
+        85673751,
+        1092066395
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1251621
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"b1c75d0ec77e19eafbb0554428f71e45",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "county_id":1092066395,
+            "locality_id":1293744219,
+            "region_id":85673751
+        }
+    ],
+    "wof:id":1293744219,
+    "wof:lastmodified":1536914692,
+    "wof:name":"Ambagaswewa",
+    "wof:parent_id":1092066395,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    80.3892,
+    8.1291,
+    80.3892,
+    8.1291
+],
+  "geometry": {"coordinates":[80.3892,8.1291],"type":"Point"}
+}

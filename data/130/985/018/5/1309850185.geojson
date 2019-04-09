@@ -1,0 +1,67 @@
+{
+  "id": 1309850185,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"80.1001,7.2965,80.1001,7.2965",
+    "geom:latitude":7.2965,
+    "geom:longitude":80.1001,
+    "gn:admin1_code":"36.0",
+    "gn:asciiname":"Kitalawalana",
+    "gn:country_code":"LK",
+    "gn:dem":58,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1240006,
+    "gn:latitude":7.2965,
+    "gn:longitude":80.1001,
+    "gn:modification_date":"1994-01-08",
+    "gn:name":"Kitalawalana",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632313,
+        85673815,
+        1092057931
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1240006
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"fb44eda1c5cd8cf4cb8d15684350bf2d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "county_id":1092057931,
+            "locality_id":1309850185,
+            "region_id":85673815
+        }
+    ],
+    "wof:id":1309850185,
+    "wof:lastmodified":1536865894,
+    "wof:name":"Kitalawalana",
+    "wof:parent_id":1092057931,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    80.1001,
+    7.2965,
+    80.1001,
+    7.2965
+],
+  "geometry": {"coordinates":[80.1001,7.2965],"type":"Point"}
+}

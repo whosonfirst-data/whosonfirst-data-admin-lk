@@ -1,0 +1,73 @@
+{
+  "id": 1293649005,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"80.04809,7.83995,80.04809,7.83995",
+    "geom:latitude":7.83995,
+    "geom:longitude":80.04809,
+    "gn:admin1_code":"32.0",
+    "gn:asciiname":"Mudaththawa",
+    "gn:country_code":"LK",
+    "gn:dem":67,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1234520,
+    "gn:latitude":7.83995,
+    "gn:longitude":80.04809,
+    "gn:modification_date":"2014-02-07",
+    "gn:name":"Mudaththawa",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mudatiawa",
+        "Mudattawa",
+        "Mudattiawa",
+        "Mudaththawa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632313,
+        85673777,
+        1092061409
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1234520
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"91011051fa8d6ea205970550541f498f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "county_id":1092061409,
+            "locality_id":1293649005,
+            "region_id":85673777
+        }
+    ],
+    "wof:id":1293649005,
+    "wof:lastmodified":1537661451,
+    "wof:name":"Mudaththawa",
+    "wof:parent_id":1092061409,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    80.04809,
+    7.83995,
+    80.04809,
+    7.83995
+],
+  "geometry": {"coordinates":[80.04809,7.83995],"type":"Point"}
+}

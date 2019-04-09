@@ -1,0 +1,67 @@
+{
+  "id": 1242918593,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"80.1731,6.1201,80.1731,6.1201",
+    "geom:latitude":6.1201,
+    "geom:longitude":80.1731,
+    "gn:admin1_code":"34.0",
+    "gn:asciiname":"Ganegoda",
+    "gn:country_code":"LK",
+    "gn:dem":3,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1245945,
+    "gn:latitude":6.1201,
+    "gn:longitude":80.1731,
+    "gn:modification_date":"1994-01-08",
+    "gn:name":"Ganegoda",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632313,
+        85673789,
+        1092056807
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1245945
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"fd36b8294d2ecfffff786aa8fd7791d0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "county_id":1092056807,
+            "locality_id":1242918593,
+            "region_id":85673789
+        }
+    ],
+    "wof:id":1242918593,
+    "wof:lastmodified":1537066680,
+    "wof:name":"Ganegoda",
+    "wof:parent_id":1092056807,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    80.1731,
+    6.1201,
+    80.1731,
+    6.1201
+],
+  "geometry": {"coordinates":[80.17310000000001,6.1201],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1327279145,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"80.3502,6.0021,80.3502,6.0021",
+    "geom:latitude":6.0021,
+    "geom:longitude":80.3502,
+    "gn:admin1_code":"34.0",
+    "gn:asciiname":"Bataturugoda",
+    "gn:country_code":"LK",
+    "gn:dem":6,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7439172,
+    "gn:latitude":6.0021,
+    "gn:longitude":80.3502,
+    "gn:modification_date":"2010-08-07",
+    "gn:name":"Bataturugoda",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632313,
+        85673789,
+        1092058935
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7439172
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"c71a187f3f01addfac00fc5570b2e064",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "county_id":1092058935,
+            "locality_id":1327279145,
+            "region_id":85673789
+        }
+    ],
+    "wof:id":1327279145,
+    "wof:lastmodified":1536902288,
+    "wof:name":"Bataturugoda",
+    "wof:parent_id":1092058935,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    80.3502,
+    6.0021,
+    80.3502,
+    6.0021
+],
+  "geometry": {"coordinates":[80.3502,6.0021],"type":"Point"}
+}

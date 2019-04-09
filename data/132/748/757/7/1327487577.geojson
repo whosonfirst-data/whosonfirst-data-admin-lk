@@ -1,0 +1,70 @@
+{
+  "id": 1327487577,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"80.3798,7.0079,80.3798,7.0079",
+    "geom:latitude":7.0079,
+    "geom:longitude":80.3798,
+    "gn:admin1_code":"33.0",
+    "gn:asciiname":"Teligama",
+    "gn:country_code":"LK",
+    "gn:dem":192,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1226879,
+    "gn:latitude":7.0079,
+    "gn:longitude":80.3798,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Teligama",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Thaligama"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632313,
+        85673807,
+        1092068305
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1226879
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"2233c7a3f180a6a6e7a26b0075830fa5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "county_id":1092068305,
+            "locality_id":1327487577,
+            "region_id":85673807
+        }
+    ],
+    "wof:id":1327487577,
+    "wof:lastmodified":1537661376,
+    "wof:name":"Teligama",
+    "wof:parent_id":1092068305,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    80.3798,
+    7.0079,
+    80.3798,
+    7.0079
+],
+  "geometry": {"coordinates":[80.3798,7.0079],"type":"Point"}
+}

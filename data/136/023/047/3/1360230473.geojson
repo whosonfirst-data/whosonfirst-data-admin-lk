@@ -1,0 +1,67 @@
+{
+  "id": 1360230473,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"79.848,7.4886,79.848,7.4886",
+    "geom:latitude":7.4886,
+    "geom:longitude":79.848,
+    "gn:admin1_code":"32.0",
+    "gn:asciiname":"Mellawa-agare",
+    "gn:country_code":"LK",
+    "gn:dem":22,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1235330,
+    "gn:latitude":7.4886,
+    "gn:longitude":79.848,
+    "gn:modification_date":"1994-01-08",
+    "gn:name":"Mellawa-agare",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632313,
+        85673779,
+        1092061929
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1235330
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"f5deb64912bf65d1ce544f350e53cf72",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "county_id":1092061929,
+            "locality_id":1360230473,
+            "region_id":85673779
+        }
+    ],
+    "wof:id":1360230473,
+    "wof:lastmodified":1536736019,
+    "wof:name":"Mellawa-agare",
+    "wof:parent_id":1092061929,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    79.848,
+    7.4886,
+    79.848,
+    7.4886
+],
+  "geometry": {"coordinates":[79.848,7.4886],"type":"Point"}
+}

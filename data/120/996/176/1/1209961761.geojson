@@ -1,0 +1,67 @@
+{
+  "id": 1209961761,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"80.1761,6.1615,80.1761,6.1615",
+    "geom:latitude":6.1615,
+    "geom:longitude":80.1761,
+    "gn:admin1_code":"34.0",
+    "gn:asciiname":"Liyanaduwa",
+    "gn:country_code":"LK",
+    "gn:dem":12,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7624036,
+    "gn:latitude":6.1615,
+    "gn:longitude":80.1761,
+    "gn:modification_date":"2010-12-04",
+    "gn:name":"Liyanaduwa",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632313,
+        85673789,
+        1092056807
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7624036
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"84911f2c8724ecf904b602ec6967e012",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "county_id":1092056807,
+            "locality_id":1209961761,
+            "region_id":85673789
+        }
+    ],
+    "wof:id":1209961761,
+    "wof:lastmodified":1536372758,
+    "wof:name":"Liyanaduwa",
+    "wof:parent_id":1092056807,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    80.1761,
+    6.1615,
+    80.1761,
+    6.1615
+],
+  "geometry": {"coordinates":[80.17610000000001,6.1615],"type":"Point"}
+}

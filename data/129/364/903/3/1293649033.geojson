@@ -1,0 +1,67 @@
+{
+  "id": 1293649033,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"80.274,7.5306,80.274,7.5306",
+    "geom:latitude":7.5306,
+    "geom:longitude":80.274,
+    "gn:admin1_code":"32.0",
+    "gn:asciiname":"Saraliyawa",
+    "gn:country_code":"LK",
+    "gn:dem":86,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7432694,
+    "gn:latitude":7.5306,
+    "gn:longitude":80.274,
+    "gn:modification_date":"2010-08-07",
+    "gn:name":"Saraliyawa",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632313,
+        85673777,
+        1092056961
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7432694
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"8f845f67b96d5c55b084fdf61ac0a9f2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "county_id":1092056961,
+            "locality_id":1293649033,
+            "region_id":85673777
+        }
+    ],
+    "wof:id":1293649033,
+    "wof:lastmodified":1537049454,
+    "wof:name":"Saraliyawa",
+    "wof:parent_id":1092056961,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    80.274,
+    7.5306,
+    80.274,
+    7.5306
+],
+  "geometry": {"coordinates":[80.274,7.5306],"type":"Point"}
+}

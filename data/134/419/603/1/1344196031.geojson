@@ -1,0 +1,70 @@
+{
+  "id": 1344196031,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"80.2258,9.7004,80.2258,9.7004",
+    "geom:latitude":9.7004,
+    "geom:longitude":80.2258,
+    "gn:admin1_code":"38.0",
+    "gn:asciiname":"Kudamiyan",
+    "gn:country_code":"LK",
+    "gn:dem":12,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1238720,
+    "gn:latitude":9.7004,
+    "gn:longitude":80.2258,
+    "gn:modification_date":"2012-04-05",
+    "gn:name":"Kudamiyan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kudamian"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632313,
+        85673769,
+        1092066611
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1238720
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"9ae517e09c0d0ebc8782d7f006a6de08",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "county_id":1092066611,
+            "locality_id":1344196031,
+            "region_id":85673769
+        }
+    ],
+    "wof:id":1344196031,
+    "wof:lastmodified":1537661488,
+    "wof:name":"Kudamiyan",
+    "wof:parent_id":1092066611,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    80.2258,
+    9.7004,
+    80.2258,
+    9.7004
+],
+  "geometry": {"coordinates":[80.22580000000001,9.7004],"type":"Point"}
+}

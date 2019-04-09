@@ -1,0 +1,67 @@
+{
+  "id": 1242723169,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"80.7151,6.254,80.7151,6.254",
+    "geom:latitude":6.254,
+    "geom:longitude":80.7151,
+    "gn:admin1_code":"34.0",
+    "gn:asciiname":"Migahahena",
+    "gn:country_code":"LK",
+    "gn:dem":137,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1235179,
+    "gn:latitude":6.254,
+    "gn:longitude":80.7151,
+    "gn:modification_date":"1994-01-08",
+    "gn:name":"Migahahena",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632313,
+        85673791,
+        1092060721
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1235179
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"8ae365690bbacc513a61d1a3666b3b2d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "county_id":1092060721,
+            "locality_id":1242723169,
+            "region_id":85673791
+        }
+    ],
+    "wof:id":1242723169,
+    "wof:lastmodified":1536853053,
+    "wof:name":"Migahahena",
+    "wof:parent_id":1092060721,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    80.7151,
+    6.254,
+    80.7151,
+    6.254
+],
+  "geometry": {"coordinates":[80.71510000000001,6.254],"type":"Point"}
+}

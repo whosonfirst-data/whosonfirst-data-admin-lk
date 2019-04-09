@@ -1,0 +1,67 @@
+{
+  "id": 1310448225,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"81.21667,7.93333,81.21667,7.93333",
+    "geom:latitude":7.93333,
+    "geom:longitude":81.21667,
+    "gn:admin1_code":"30.0",
+    "gn:asciiname":"Kurinchchadamana",
+    "gn:country_code":"LK",
+    "gn:dem":49,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1238089,
+    "gn:latitude":7.93333,
+    "gn:longitude":81.21667,
+    "gn:modification_date":"1994-01-08",
+    "gn:name":"Kurinchchadamana",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632313,
+        85673743,
+        1092067891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1238089
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"2bf95b80968d143aea228809f991a80b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "county_id":1092067891,
+            "locality_id":1310448225,
+            "region_id":85673743
+        }
+    ],
+    "wof:id":1310448225,
+    "wof:lastmodified":1536998853,
+    "wof:name":"Kurinchchadamana",
+    "wof:parent_id":1092067891,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    81.21667,
+    7.93333,
+    81.21667,
+    7.93333
+],
+  "geometry": {"coordinates":[81.21666999999999,7.93333],"type":"Point"}
+}

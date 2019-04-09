@@ -1,0 +1,67 @@
+{
+  "id": 1326874415,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"79.9971,6.5412,79.9971,6.5412",
+    "geom:latitude":6.5412,
+    "geom:longitude":79.9971,
+    "gn:admin1_code":"36.0",
+    "gn:asciiname":"Hirigalgodalla",
+    "gn:country_code":"LK",
+    "gn:dem":19,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7622125,
+    "gn:latitude":6.5412,
+    "gn:longitude":79.9971,
+    "gn:modification_date":"2010-12-04",
+    "gn:name":"Hirigalgodalla",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632313,
+        85673819,
+        1092057157
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7622125
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"0c79accd2f418f68c1de8038824dac7b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "county_id":1092057157,
+            "locality_id":1326874415,
+            "region_id":85673819
+        }
+    ],
+    "wof:id":1326874415,
+    "wof:lastmodified":1536987299,
+    "wof:name":"Hirigalgodalla",
+    "wof:parent_id":1092057157,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    79.9971,
+    6.5412,
+    79.9971,
+    6.5412
+],
+  "geometry": {"coordinates":[79.9971,6.5412],"type":"Point"}
+}

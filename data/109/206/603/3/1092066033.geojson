@@ -1,0 +1,89 @@
+{
+  "id": 1092066033,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000323,
+    "geom:area_square_m":3956831.55923,
+    "geom:bbox":"81.8205490697,7.37278277479,81.8443765983,7.39370185058",
+    "geom:latitude":7.383953,
+    "geom:longitude":81.831206,
+    "iso:country":"LK",
+    "lbl:latitude":7.383739,
+    "lbl:longitude":81.830979,
+    "meso:admin_1":"Ampara",
+    "meso:admin_1r":"Eastern",
+    "meso:dissme":"SainthamarathuAmparaEastern",
+    "meso:gadm_admin":"Karativu",
+    "meso:gadm_hasc2":"LK.AP.KR",
+    "meso:mps_x":81.830979,
+    "meso:mps_y":7.383739,
+    "meso:name_en":"Sainthamarathu",
+    "meso:source":"AOTM",
+    "mps:latitude":7.383739,
+    "mps:longitude":81.830979,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Sainthamaruthu"
+    ],
+    "name:eng_x_variant":[
+        "Karativu"
+    ],
+    "src:geom":"meso",
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"statoids",
+    "src:population:date":"2012-03-20",
+    "statoids:area_km":"6",
+    "statoids:as_of_date":"2012-03-20",
+    "statoids:capital":"Sainthamarathu",
+    "statoids:country":"LK",
+    "statoids:hasc":"LK.AP",
+    "statoids:name":"Sainthamaruthu",
+    "statoids:population":"25461",
+    "statoids:statoid":"LK.AP.SI",
+    "statoids:timezone":"+5:30",
+    "statoids:type":"division",
+    "wof:belongsto":[
+        102191569,
+        85632313,
+        85673733
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "hasc:id":"LK.AP.SI"
+    },
+    "wof:country":"LK",
+    "wof:created":1473899143,
+    "wof:geomhash":"79ef855e72dc9db654bf11e210135643",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "county_id":1092066033,
+            "region_id":85673733
+        }
+    ],
+    "wof:id":1092066033,
+    "wof:lastmodified":1536615149,
+    "wof:name":"Sainthamarathu",
+    "wof:parent_id":85673733,
+    "wof:placetype":"county",
+    "wof:placetype_local":"division",
+    "wof:population":25461,
+    "wof:population_rank":7,
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:shortcode":"SI",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    81.82054906974614,
+    7.37278277479361,
+    81.8443765982706,
+    7.39370185057602
+],
+  "geometry": {"coordinates":[[[81.82644174281046,7.39289307369722],[81.8443765982706,7.39370185057602],[81.83554250981652,7.37554250981407],[81.82839010798324,7.37372142243616],[81.82212014588532,7.37278277479361],[81.82054906974614,7.37936541674291],[81.82258021676171,7.38471677014694],[81.82644174281046,7.39289307369722]]],"type":"Polygon"}
+}

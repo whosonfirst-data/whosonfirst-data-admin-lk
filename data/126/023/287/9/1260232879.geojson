@@ -1,0 +1,67 @@
+{
+  "id": 1260232879,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"81.713,7.7007,81.713,7.7007",
+    "geom:latitude":7.7007,
+    "geom:longitude":81.713,
+    "gn:admin1_code":"37.0",
+    "gn:asciiname":"Nochchimunai",
+    "gn:country_code":"LK",
+    "gn:dem":12,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1232885,
+    "gn:latitude":7.7007,
+    "gn:longitude":81.713,
+    "gn:modification_date":"2012-04-05",
+    "gn:name":"Nochchimunai",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632313,
+        85673737,
+        1092062477
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1232885
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"991005811014ffe04006966d1bce3637",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "county_id":1092062477,
+            "locality_id":1260232879,
+            "region_id":85673737
+        }
+    ],
+    "wof:id":1260232879,
+    "wof:lastmodified":1536781245,
+    "wof:name":"Nochchimunai",
+    "wof:parent_id":1092062477,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    81.71300000000002,
+    7.7007,
+    81.71300000000002,
+    7.7007
+],
+  "geometry": {"coordinates":[81.71300000000002,7.7007],"type":"Point"}
+}

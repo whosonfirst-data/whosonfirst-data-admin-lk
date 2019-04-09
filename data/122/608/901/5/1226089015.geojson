@@ -1,0 +1,67 @@
+{
+  "id": 1226089015,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"80.7124,7.2494,80.7124,7.2494",
+    "geom:latitude":7.2494,
+    "geom:longitude":80.7124,
+    "gn:admin1_code":"29.0",
+    "gn:asciiname":"Gomamwela",
+    "gn:country_code":"LK",
+    "gn:dem":538,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7433814,
+    "gn:latitude":7.2494,
+    "gn:longitude":80.7124,
+    "gn:modification_date":"2010-08-07",
+    "gn:name":"Gomamwela",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632313,
+        85673719,
+        1092065263
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7433814
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"ddcab67dd51cf50adef549db3ea9574c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "county_id":1092065263,
+            "locality_id":1226089015,
+            "region_id":85673719
+        }
+    ],
+    "wof:id":1226089015,
+    "wof:lastmodified":1536662725,
+    "wof:name":"Gomamwela",
+    "wof:parent_id":1092065263,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    80.7124,
+    7.2494,
+    80.7124,
+    7.2494
+],
+  "geometry": {"coordinates":[80.7124,7.2494],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1293442755,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"80.2138,6.646,80.2138,6.646",
+    "geom:latitude":6.646,
+    "geom:longitude":80.2138,
+    "gn:admin1_code":"36.0",
+    "gn:asciiname":"Jayalathgoda",
+    "gn:country_code":"LK",
+    "gn:dem":41,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7437107,
+    "gn:latitude":6.646,
+    "gn:longitude":80.2138,
+    "gn:modification_date":"2010-08-07",
+    "gn:name":"Jayalathgoda",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632313,
+        85673819,
+        1092057287
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7437107
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"b378f5afc09ebd0f830b2fb242f87f8e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "county_id":1092057287,
+            "locality_id":1293442755,
+            "region_id":85673819
+        }
+    ],
+    "wof:id":1293442755,
+    "wof:lastmodified":1536850580,
+    "wof:name":"Jayalathgoda",
+    "wof:parent_id":1092057287,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    80.2138,
+    6.646,
+    80.2138,
+    6.646
+],
+  "geometry": {"coordinates":[80.21380000000001,6.646],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1326568469,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"80.5769,9.0465,80.5769,9.0465",
+    "geom:latitude":9.0465,
+    "geom:longitude":80.5769,
+    "gn:admin1_code":"38.0",
+    "gn:asciiname":"Ayiladi",
+    "gn:country_code":"LK",
+    "gn:dem":80,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1250702,
+    "gn:latitude":9.0465,
+    "gn:longitude":80.5769,
+    "gn:modification_date":"2012-04-05",
+    "gn:name":"Ayiladi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632313,
+        85673757,
+        1092067297
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1250702
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"910aed094ad145e4fbae0de9ec7ef4a7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "county_id":1092067297,
+            "locality_id":1326568469,
+            "region_id":85673757
+        }
+    ],
+    "wof:id":1326568469,
+    "wof:lastmodified":1536932489,
+    "wof:name":"Ayiladi",
+    "wof:parent_id":1092067297,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    80.5769,
+    9.0465,
+    80.5769,
+    9.0465
+],
+  "geometry": {"coordinates":[80.57689999999999,9.0465],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1293936907,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"80.952,6.9548,80.952,6.9548",
+    "geom:latitude":6.9548,
+    "geom:longitude":80.952,
+    "gn:admin1_code":"35.0",
+    "gn:asciiname":"Weliarawa",
+    "gn:country_code":"LK",
+    "gn:dem":924,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1223745,
+    "gn:latitude":6.9548,
+    "gn:longitude":80.952,
+    "gn:modification_date":"1994-01-08",
+    "gn:name":"Weliarawa",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632313,
+        85673801,
+        1092067051
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1223745
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"33c67145493187836319644f07c43400",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "county_id":1092067051,
+            "locality_id":1293936907,
+            "region_id":85673801
+        }
+    ],
+    "wof:id":1293936907,
+    "wof:lastmodified":1536635233,
+    "wof:name":"Weliarawa",
+    "wof:parent_id":1092067051,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    80.952,
+    6.9548,
+    80.952,
+    6.9548
+],
+  "geometry": {"coordinates":[80.952,6.9548],"type":"Point"}
+}

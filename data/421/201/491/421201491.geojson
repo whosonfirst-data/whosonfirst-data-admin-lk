@@ -1,0 +1,77 @@
+{
+  "id": 421201491,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"79.8761,6.9003,79.8761,6.9003",
+    "geom:latitude":6.9003,
+    "geom:longitude":79.8761,
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "qs:gn_country":"LK",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":1236142,
+    "qs:gn_pop":0,
+    "qs:name":"Manning Town",
+    "qs:name_adm0":"Sri Lanka",
+    "qs:name_adm1":"Western",
+    "qs:photos":279,
+    "qs:photos_1k":57,
+    "qs:photos_9k":1,
+    "qs:photos_9r":4,
+    "qs:photos_all":279,
+    "qs:photos_sr":5,
+    "qs:placetype":"Suburb",
+    "qs:pop_sr":"0",
+    "qs:qs_id":211617,
+    "qs:woe_adm0":23424778,
+    "qs:woe_id":2182256,
+    "src:geom":"quattroshapes",
+    "wof:belongsto":[
+        102191569,
+        85632313,
+        1092066701,
+        85673811
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1236142,
+        "gp:id":2182256,
+        "qs:id":211617
+    },
+    "wof:country":"LK",
+    "wof:created":1459010074,
+    "wof:geomhash":"b36ea40c56a6f375090b40c71da4c458",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "county_id":1092066701,
+            "locality_id":-1,
+            "neighbourhood_id":421201491,
+            "region_id":85673811
+        }
+    ],
+    "wof:id":421201491,
+    "wof:lastmodified":1531858793,
+    "wof:name":"Manning Town",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    79.8761,
+    6.9003,
+    79.8761,
+    6.9003
+],
+  "geometry": {"coordinates":[79.87609999999999,6.9003],"type":"Point"}
+}

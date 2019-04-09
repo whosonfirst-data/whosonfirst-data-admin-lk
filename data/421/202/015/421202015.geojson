@@ -1,0 +1,106 @@
+{
+  "id": 421202015,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"79.9533,7.1663,79.9533,7.1663",
+    "geom:latitude":7.1663,
+    "geom:longitude":79.9533,
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:dut_x_preferred":[
+        "Minuwangoda"
+    ],
+    "name:eng_x_preferred":[
+        "Minuwangoda"
+    ],
+    "name:fas_x_preferred":[
+        "\u0645\u06cc\u0646\u0648\u0648\u0627\u0646\u06af\u0648\u062f\u0627"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30df\u30cc\u30ef\u30f3\u30b4\u30c0"
+    ],
+    "name:per_x_preferred":[
+        "\u0645\u06cc\u0646\u0648\u0648\u0627\u0646\u06af\u0648\u062f\u0627"
+    ],
+    "name:sin_x_preferred":[
+        "\u0db8\u0dd2\u0db1\u0dd4\u0dc0\u0db1\u0dca\u0d9c\u0ddc\u0da9"
+    ],
+    "name:swe_x_preferred":[
+        "Minuwangoda"
+    ],
+    "name:urd_x_preferred":[
+        "\u0645\u06cc\u0646\u0648\u0648\u0627\u0646\u06af\u0648\u062f\u0627"
+    ],
+    "qs:gn_country":"LK",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":1235000,
+    "qs:gn_pop":7772,
+    "qs:name":"Minuwangoda",
+    "qs:name_adm0":"Sri Lanka",
+    "qs:name_adm1":"Western",
+    "qs:photos":30,
+    "qs:photos_1k":6,
+    "qs:photos_9k":1,
+    "qs:photos_9r":2,
+    "qs:photos_all":30,
+    "qs:photos_sr":2,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"5",
+    "qs:qs_id":1354102,
+    "qs:woe_adm0":23424778,
+    "qs:woe_id":2189616,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wd:wordcount":169,
+    "wof:belongsto":[
+        102191569,
+        85632313,
+        85673815,
+        1092063369
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1235000,
+        "gp:id":2189616,
+        "qs:id":1354102,
+        "wd:id":"Q15253507",
+        "wk:page":"Minuwangoda"
+    },
+    "wof:country":"LK",
+    "wof:created":1459010101,
+    "wof:geomhash":"2c54710ef68c45644d0277551f0b384f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "county_id":1092063369,
+            "locality_id":421202015,
+            "region_id":85673815
+        }
+    ],
+    "wof:id":421202015,
+    "wof:lastmodified":1553816388,
+    "wof:name":"Minuwangoda",
+    "wof:parent_id":1092063369,
+    "wof:placetype":"locality",
+    "wof:population":7772,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    79.9533,
+    7.1663,
+    79.9533,
+    7.1663
+],
+  "geometry": {"coordinates":[79.9533,7.1663],"type":"Point"}
+}

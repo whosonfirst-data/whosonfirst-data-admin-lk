@@ -1,0 +1,67 @@
+{
+  "id": 1292953739,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"79.905,7.154,79.905,7.154",
+    "geom:latitude":7.154,
+    "geom:longitude":79.905,
+    "gn:admin1_code":"36.0",
+    "gn:asciiname":"Madawala",
+    "gn:country_code":"LK",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1237419,
+    "gn:latitude":7.154,
+    "gn:longitude":79.905,
+    "gn:modification_date":"2012-05-05",
+    "gn:name":"Madawala",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632313,
+        85673815,
+        1092060643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1237419
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"2b66f9e38a9ee5a2ca5e27b24be47ae8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "county_id":1092060643,
+            "locality_id":1292953739,
+            "region_id":85673815
+        }
+    ],
+    "wof:id":1292953739,
+    "wof:lastmodified":1537057064,
+    "wof:name":"Madawala",
+    "wof:parent_id":1092060643,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    79.905,
+    7.154,
+    79.905,
+    7.154
+],
+  "geometry": {"coordinates":[79.905,7.154],"type":"Point"}
+}

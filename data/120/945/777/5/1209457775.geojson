@@ -1,0 +1,61 @@
+{
+  "id": 1209457775,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"80.0164,9.7012,80.0164,9.7012",
+    "geom:latitude":9.7012,
+    "geom:longitude":80.0164,
+    "gn:admin1_code":"38.0",
+    "gn:asciiname":"Nanthavil",
+    "gn:country_code":"LK",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1233752,
+    "gn:latitude":9.7012,
+    "gn:longitude":80.0164,
+    "gn:modification_date":"2012-04-05",
+    "gn:name":"Nanthavil",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632313
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1233752
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"1f7e04b984478e8e282c0116b57aeb49",
+    "wof:hierarchy":[
+        {
+            "country_id":85632313,
+            "locality_id":1209457775
+        }
+    ],
+    "wof:id":1209457775,
+    "wof:lastmodified":1536286482,
+    "wof:name":"Nanthavil",
+    "wof:parent_id":85632313,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    80.0164,
+    9.7012,
+    80.0164,
+    9.7012
+],
+  "geometry": {"coordinates":[80.0164,9.7012],"type":"Point"}
+}

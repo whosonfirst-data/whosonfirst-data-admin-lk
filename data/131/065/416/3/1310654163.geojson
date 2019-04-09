@@ -1,0 +1,67 @@
+{
+  "id": 1310654163,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"81.2816,7.1841,81.2816,7.1841",
+    "geom:latitude":7.1841,
+    "geom:longitude":81.2816,
+    "gn:admin1_code":"35.0",
+    "gn:asciiname":"Pitakumbura",
+    "gn:country_code":"LK",
+    "gn:dem":247,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1230087,
+    "gn:latitude":7.1841,
+    "gn:longitude":81.2816,
+    "gn:modification_date":"1994-01-08",
+    "gn:name":"Pitakumbura",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632313,
+        85673803,
+        1092057159
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1230087
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"00ab56d343c5a874e4010ff0e5a4efa2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "county_id":1092057159,
+            "locality_id":1310654163,
+            "region_id":85673803
+        }
+    ],
+    "wof:id":1310654163,
+    "wof:lastmodified":1536702847,
+    "wof:name":"Pitakumbura",
+    "wof:parent_id":1092057159,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    81.2816,
+    7.1841,
+    81.2816,
+    7.1841
+],
+  "geometry": {"coordinates":[81.2816,7.1841],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1243407693,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"81.1307,6.9268,81.1307,6.9268",
+    "geom:latitude":6.9268,
+    "geom:longitude":81.1307,
+    "gn:admin1_code":"35.0",
+    "gn:asciiname":"Seventh Mile Post",
+    "gn:country_code":"LK",
+    "gn:dem":1325,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7616639,
+    "gn:latitude":6.9268,
+    "gn:longitude":81.1307,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Seventh Mile Post",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "7th Mile Post"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632313,
+        85673801,
+        1092065181
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7616639
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"d300add5d93b1d0e9cd62e0beb949314",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "county_id":1092065181,
+            "locality_id":1243407693,
+            "region_id":85673801
+        }
+    ],
+    "wof:id":1243407693,
+    "wof:lastmodified":1537661609,
+    "wof:name":"Seventh Mile Post",
+    "wof:parent_id":1092065181,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    81.1307,
+    6.9268,
+    81.1307,
+    6.9268
+],
+  "geometry": {"coordinates":[81.1307,6.9268],"type":"Point"}
+}

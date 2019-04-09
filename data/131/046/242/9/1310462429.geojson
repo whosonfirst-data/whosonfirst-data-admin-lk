@@ -1,0 +1,67 @@
+{
+  "id": 1310462429,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"80.52611,7.9,80.52611,7.9",
+    "geom:latitude":7.9,
+    "geom:longitude":80.52611,
+    "gn:admin1_code":"30.0",
+    "gn:asciiname":"Andiyagala",
+    "gn:country_code":"LK",
+    "gn:dem":157,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1251226,
+    "gn:latitude":7.9,
+    "gn:longitude":80.52611,
+    "gn:modification_date":"1999-08-04",
+    "gn:name":"Andiyagala",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632313,
+        85673751,
+        1092064793
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1251226
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"1a50dd37366df702bc670129d27aee10",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "county_id":1092064793,
+            "locality_id":1310462429,
+            "region_id":85673751
+        }
+    ],
+    "wof:id":1310462429,
+    "wof:lastmodified":1536978584,
+    "wof:name":"Andiyagala",
+    "wof:parent_id":1092064793,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    80.52611,
+    7.9,
+    80.52611,
+    7.9
+],
+  "geometry": {"coordinates":[80.52611,7.9],"type":"Point"}
+}

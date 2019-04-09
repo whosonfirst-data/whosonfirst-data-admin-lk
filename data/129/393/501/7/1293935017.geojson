@@ -1,0 +1,67 @@
+{
+  "id": 1293935017,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"80.4004,9.6283,80.4004,9.6283",
+    "geom:latitude":9.6283,
+    "geom:longitude":80.4004,
+    "gn:admin1_code":"38.0",
+    "gn:asciiname":"Talaiady",
+    "gn:country_code":"LK",
+    "gn:dem":7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1227397,
+    "gn:latitude":9.6283,
+    "gn:longitude":80.4004,
+    "gn:modification_date":"2012-04-05",
+    "gn:name":"Talaiady",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632313,
+        85673769,
+        1092067071
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1227397
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"e5b9967ae3001e4792072a640af53dc9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "county_id":1092067071,
+            "locality_id":1293935017,
+            "region_id":85673769
+        }
+    ],
+    "wof:id":1293935017,
+    "wof:lastmodified":1536638154,
+    "wof:name":"Talaiady",
+    "wof:parent_id":1092067071,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    80.4004,
+    9.6283,
+    80.4004,
+    9.6283
+],
+  "geometry": {"coordinates":[80.4004,9.6283],"type":"Point"}
+}

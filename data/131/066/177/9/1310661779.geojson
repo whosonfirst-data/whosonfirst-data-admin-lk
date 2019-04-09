@@ -1,0 +1,67 @@
+{
+  "id": 1310661779,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"80.4858,7.3725,80.4858,7.3725",
+    "geom:latitude":7.3725,
+    "geom:longitude":80.4858,
+    "gn:admin1_code":"29.0",
+    "gn:asciiname":"Kinigama",
+    "gn:country_code":"LK",
+    "gn:dem":327,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1240302,
+    "gn:latitude":7.3725,
+    "gn:longitude":80.4858,
+    "gn:modification_date":"1994-01-08",
+    "gn:name":"Kinigama",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632313,
+        85673719,
+        1092066809
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1240302
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"8c3e54eef0ecfad666ca5b8d0be76ad7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "county_id":1092066809,
+            "locality_id":1310661779,
+            "region_id":85673719
+        }
+    ],
+    "wof:id":1310661779,
+    "wof:lastmodified":1536691728,
+    "wof:name":"Kinigama",
+    "wof:parent_id":1092066809,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    80.4858,
+    7.3725,
+    80.4858,
+    7.3725
+],
+  "geometry": {"coordinates":[80.4858,7.3725],"type":"Point"}
+}

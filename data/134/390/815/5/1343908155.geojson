@@ -1,0 +1,67 @@
+{
+  "id": 1343908155,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"80.776,8.7428,80.776,8.7428",
+    "geom:latitude":8.7428,
+    "geom:longitude":80.776,
+    "gn:admin1_code":"30.0",
+    "gn:asciiname":"Walaskunuwewa",
+    "gn:country_code":"LK",
+    "gn:dem":64,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1224471,
+    "gn:latitude":8.7428,
+    "gn:longitude":80.776,
+    "gn:modification_date":"1994-01-08",
+    "gn:name":"Walaskunuwewa",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632313,
+        85673751,
+        1092060761
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1224471
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"d0d8cbcf49f317a26c75413437ddd246",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "county_id":1092060761,
+            "locality_id":1343908155,
+            "region_id":85673751
+        }
+    ],
+    "wof:id":1343908155,
+    "wof:lastmodified":1537092380,
+    "wof:name":"Walaskunuwewa",
+    "wof:parent_id":1092060761,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    80.77600000000002,
+    8.7428,
+    80.77600000000002,
+    8.7428
+],
+  "geometry": {"coordinates":[80.77600000000002,8.7428],"type":"Point"}
+}

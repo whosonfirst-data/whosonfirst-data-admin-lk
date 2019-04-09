@@ -1,0 +1,68 @@
+{
+  "id": 1276590967,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"80.6821,9.1231,80.6821,9.1231",
+    "geom:latitude":9.1231,
+    "geom:longitude":80.6821,
+    "gn:admin1_code":"38.0",
+    "gn:asciiname":"Taddamalai",
+    "gn:country_code":"LK",
+    "gn:dem":42,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1227458,
+    "gn:latitude":9.1231,
+    "gn:longitude":80.6821,
+    "gn:modification_date":"2012-04-05",
+    "gn:name":"Taddamalai",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632313,
+        85673765,
+        1092064421
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1227458,
+        "wk:page":"Taddamalai"
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"45d690b8513751ea4843135dbf28e182",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "county_id":1092064421,
+            "locality_id":1276590967,
+            "region_id":85673765
+        }
+    ],
+    "wof:id":1276590967,
+    "wof:lastmodified":1537567973,
+    "wof:name":"Taddamalai",
+    "wof:parent_id":1092064421,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    80.6821,
+    9.1231,
+    80.6821,
+    9.1231
+],
+  "geometry": {"coordinates":[80.68210000000001,9.1231],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 1343802277,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"79.8742,6.9177,79.8742,6.9177",
+    "geom:latitude":6.9177,
+    "geom:longitude":79.8742,
+    "gn:admin1_code":"36.0",
+    "gn:asciiname":"Borella",
+    "gn:country_code":"LK",
+    "gn:dem":14,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7545331,
+    "gn:latitude":6.9177,
+    "gn:longitude":79.8742,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Borella",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632313,
+        85673811,
+        1092066701
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7545331,
+        "wk:page":"Borella"
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"02fe513649fccf85778613daf8f97f1b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "county_id":1092066701,
+            "locality_id":1343802277,
+            "region_id":85673811
+        }
+    ],
+    "wof:id":1343802277,
+    "wof:lastmodified":1537568027,
+    "wof:name":"Borella",
+    "wof:parent_id":1092066701,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    79.8742,
+    6.9177,
+    79.8742,
+    6.9177
+],
+  "geometry": {"coordinates":[79.8742,6.9177],"type":"Point"}
+}

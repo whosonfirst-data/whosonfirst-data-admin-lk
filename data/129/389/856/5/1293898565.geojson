@@ -1,0 +1,67 @@
+{
+  "id": 1293898565,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"80.91492,6.76398,80.91492,6.76398",
+    "geom:latitude":6.76398,
+    "geom:longitude":80.91492,
+    "gn:asciiname":"Beragala",
+    "gn:country_code":"LK",
+    "gn:dem":1067,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8714433,
+    "gn:latitude":6.76398,
+    "gn:longitude":80.91492,
+    "gn:modification_date":"2014-02-24",
+    "gn:name":"Beragala",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632313,
+        85673801,
+        1092058997
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8714433,
+        "wk:page":"Beragala"
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"2fa7c0f7a735a1a7d13c712f623e0ea8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "county_id":1092058997,
+            "locality_id":1293898565,
+            "region_id":85673801
+        }
+    ],
+    "wof:id":1293898565,
+    "wof:lastmodified":1537568028,
+    "wof:name":"Beragala",
+    "wof:parent_id":1092058997,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    80.91492,
+    6.76398,
+    80.91492,
+    6.76398
+],
+  "geometry": {"coordinates":[80.91492,6.76398],"type":"Point"}
+}

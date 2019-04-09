@@ -1,0 +1,67 @@
+{
+  "id": 1226496583,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"80.5378,6.5508,80.5378,6.5508",
+    "geom:latitude":6.5508,
+    "geom:longitude":80.5378,
+    "gn:admin1_code":"33.0",
+    "gn:asciiname":"Haupe",
+    "gn:country_code":"LK",
+    "gn:dem":351,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7546930,
+    "gn:latitude":6.5508,
+    "gn:longitude":80.5378,
+    "gn:modification_date":"2010-10-09",
+    "gn:name":"Haupe",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632313,
+        85673785,
+        1092060067
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7546930
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"555d298e5852acb49a120dfe5f759bf7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "county_id":1092060067,
+            "locality_id":1226496583,
+            "region_id":85673785
+        }
+    ],
+    "wof:id":1226496583,
+    "wof:lastmodified":1537066124,
+    "wof:name":"Haupe",
+    "wof:parent_id":1092060067,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    80.5378,
+    6.5508,
+    80.5378,
+    6.5508
+],
+  "geometry": {"coordinates":[80.5378,6.5508],"type":"Point"}
+}

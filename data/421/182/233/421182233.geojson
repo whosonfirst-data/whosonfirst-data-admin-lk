@@ -1,0 +1,76 @@
+{
+  "id": 421182233,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"79.9673,6.7317,79.9673,6.7317",
+    "geom:latitude":6.7317,
+    "geom:longitude":79.9673,
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "qs:gn_country":"LK",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":1251848,
+    "qs:gn_pop":0,
+    "qs:name":"Alutgama",
+    "qs:name_adm0":"Sri Lanka",
+    "qs:name_adm1":"Western",
+    "qs:photos":599,
+    "qs:photos_1k":121,
+    "qs:photos_9k":3,
+    "qs:photos_9r":5,
+    "qs:photos_all":599,
+    "qs:photos_sr":8,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":894798,
+    "qs:woe_adm0":23424778,
+    "qs:woe_id":2189556,
+    "src:geom":"quattroshapes",
+    "wof:belongsto":[
+        102191569,
+        85632313,
+        85673819,
+        1092057009
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1251848,
+        "gp:id":2189556,
+        "qs:id":894798
+    },
+    "wof:country":"LK",
+    "wof:created":1459009323,
+    "wof:geomhash":"a8890c371284e5f171298ed40b68ed93",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "county_id":1092057009,
+            "locality_id":421182233,
+            "region_id":85673819
+        }
+    ],
+    "wof:id":421182233,
+    "wof:lastmodified":1500070316,
+    "wof:name":"Alutgama",
+    "wof:parent_id":1092057009,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    79.9673,
+    6.7317,
+    79.9673,
+    6.7317
+],
+  "geometry": {"coordinates":[79.96729999999999,6.7317],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1193196781,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"80.0857,6.3117,80.0857,6.3117",
+    "geom:latitude":6.3117,
+    "geom:longitude":80.0857,
+    "gn:admin1_code":"34.0",
+    "gn:asciiname":"Denagoda",
+    "gn:country_code":"LK",
+    "gn:dem":14,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1248223,
+    "gn:latitude":6.3117,
+    "gn:longitude":80.0857,
+    "gn:modification_date":"1994-01-08",
+    "gn:name":"Denagoda",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632313,
+        85673789,
+        1092060579
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1248223
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"ce6a7c5e0496deb6ce204d24ca98d2f2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "county_id":1092060579,
+            "locality_id":1193196781,
+            "region_id":85673789
+        }
+    ],
+    "wof:id":1193196781,
+    "wof:lastmodified":1536377046,
+    "wof:name":"Denagoda",
+    "wof:parent_id":1092060579,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    80.0857,
+    6.3117,
+    80.0857,
+    6.3117
+],
+  "geometry": {"coordinates":[80.0857,6.3117],"type":"Point"}
+}

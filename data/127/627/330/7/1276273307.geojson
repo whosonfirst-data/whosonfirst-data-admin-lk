@@ -1,0 +1,71 @@
+{
+  "id": 1276273307,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"81.6726,7.7302,81.6726,7.7302",
+    "geom:latitude":7.7302,
+    "geom:longitude":81.6726,
+    "gn:admin1_code":"37.0",
+    "gn:asciiname":"Kothukkulam",
+    "gn:country_code":"LK",
+    "gn:dem":6,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1239061,
+    "gn:latitude":7.7302,
+    "gn:longitude":81.6726,
+    "gn:modification_date":"2012-04-05",
+    "gn:name":"Kothukkulam",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kottukulam",
+        "Kothukkulam"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632313,
+        85673737,
+        1092062477
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1239061
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"ec00a1c90555f2aa3a73dbf9380a5182",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "county_id":1092062477,
+            "locality_id":1276273307,
+            "region_id":85673737
+        }
+    ],
+    "wof:id":1276273307,
+    "wof:lastmodified":1537661491,
+    "wof:name":"Kothukkulam",
+    "wof:parent_id":1092062477,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    81.6726,
+    7.7302,
+    81.6726,
+    7.7302
+],
+  "geometry": {"coordinates":[81.6726,7.7302],"type":"Point"}
+}

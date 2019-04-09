@@ -1,0 +1,113 @@
+{
+  "id": 85772771,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-15",
+    "edtf:inception":"uuuu",
+    "edtf:superseded":"2018-08-15",
+    "geom:area":0.0,
+    "geom:area_square_m":8290608.382413,
+    "geom:bbox":"79.861438,6.94906,79.861438,6.94906",
+    "geom:latitude":6.94906,
+    "geom:longitude":79.861438,
+    "gn:latitude":6.95,
+    "gn:longitude":79.86667,
+    "iso:country":"LK",
+    "lbl:latitude":6.94906,
+    "lbl:longitude":79.861438,
+    "mps:latitude":6.954509,
+    "mps:longitude":79.864253,
+    "mz:hierarchy_label":0,
+    "mz:is_current":0,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":14.0,
+    "mz:tier_locality":2,
+    "name:eng_x_preferred":[
+        "Mutwal"
+    ],
+    "name:unk_x_variant":[
+        "Mutwal"
+    ],
+    "qs:gn_adm0_cc":"LK",
+    "qs:gn_fcode":"PPLX",
+    "qs:gn_local":1248991,
+    "qs:gn_nam_loc":"Colombo, Colombo, Western, LK",
+    "qs:gn_namadm1":"36",
+    "qs:gn_name":"Mutwal",
+    "qs:local_max":2559,
+    "qs:local_sum":8835,
+    "qs:localhoods":10,
+    "qs:name":"Mutwal",
+    "qs:name_adm0":"Sri Lanka",
+    "qs:name_adm1":"Western",
+    "qs:name_adm2":"Colombo",
+    "qs:name_local":"Colombo",
+    "qs:photo_max":36,
+    "qs:photo_sum":83,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":9,
+    "qs:woe_adm0":23424778,
+    "qs:woe_adm1":2344966,
+    "qs:woe_adm2":23706493,
+    "qs:woe_lau":0,
+    "qs:woe_local":2189783,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"mz",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"yerbashapes",
+    "wof:belongsto":[
+        85673811,
+        102191569,
+        85632313,
+        1092057419
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1234132,
+        "gp:id":2183355,
+        "qs:id":898612,
+        "wd:id":"Q6888043",
+        "wk:page":"Modara"
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"33f1665abc59b5d0dc569e43ca72aefd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "county_id":1092057419,
+            "locality_id":-1,
+            "neighbourhood_id":85772771,
+            "region_id":85673811
+        }
+    ],
+    "wof:id":85772771,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1534379376,
+    "wof:name":"Mutwal",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[
+        1126065165
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    79.861438,
+    6.94906,
+    79.861438,
+    6.94906
+],
+  "geometry": {"coordinates":[79.86143800000001,6.94906],"type":"Point"}
+}

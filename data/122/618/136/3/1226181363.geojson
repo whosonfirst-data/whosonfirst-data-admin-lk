@@ -1,0 +1,67 @@
+{
+  "id": 1226181363,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"81.6,7.66667,81.6,7.66667",
+    "geom:latitude":7.66667,
+    "geom:longitude":81.6,
+    "gn:admin1_code":"37.0",
+    "gn:asciiname":"Mullamunai",
+    "gn:country_code":"LK",
+    "gn:dem":13,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1234387,
+    "gn:latitude":7.66667,
+    "gn:longitude":81.6,
+    "gn:modification_date":"2012-04-05",
+    "gn:name":"Mullamunai",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632313,
+        85673737,
+        1092062635
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1234387
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"b2ad7e9d40ff6f3d7519dfd321304629",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "county_id":1092062635,
+            "locality_id":1226181363,
+            "region_id":85673737
+        }
+    ],
+    "wof:id":1226181363,
+    "wof:lastmodified":1537025189,
+    "wof:name":"Mullamunai",
+    "wof:parent_id":1092062635,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    81.6,
+    7.66667,
+    81.6,
+    7.66667
+],
+  "geometry": {"coordinates":[81.59999999999999,7.66667],"type":"Point"}
+}

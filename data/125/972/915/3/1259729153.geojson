@@ -1,0 +1,67 @@
+{
+  "id": 1259729153,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"80.26667,7.81667,80.26667,7.81667",
+    "geom:latitude":7.81667,
+    "geom:longitude":80.26667,
+    "gn:admin1_code":"32.0",
+    "gn:asciiname":"Dumbuluwawewa",
+    "gn:country_code":"LK",
+    "gn:dem":85,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1247536,
+    "gn:latitude":7.81667,
+    "gn:longitude":80.26667,
+    "gn:modification_date":"1994-01-08",
+    "gn:name":"Dumbuluwawewa",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632313,
+        85673777,
+        1092062365
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1247536
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"208a169fd6e67c067b8bdf51e46cbede",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "county_id":1092062365,
+            "locality_id":1259729153,
+            "region_id":85673777
+        }
+    ],
+    "wof:id":1259729153,
+    "wof:lastmodified":1537000602,
+    "wof:name":"Dumbuluwawewa",
+    "wof:parent_id":1092062365,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    80.26666999999998,
+    7.81667,
+    80.26666999999998,
+    7.81667
+],
+  "geometry": {"coordinates":[80.26666999999998,7.81667],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1226193065,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"80.5303,7.2956,80.5303,7.2956",
+    "geom:latitude":7.2956,
+    "geom:longitude":80.5303,
+    "gn:admin1_code":"29.0",
+    "gn:asciiname":"Udawela",
+    "gn:country_code":"LK",
+    "gn:dem":585,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1225878,
+    "gn:latitude":7.2956,
+    "gn:longitude":80.5303,
+    "gn:modification_date":"1994-01-08",
+    "gn:name":"Udawela",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632313,
+        85673719,
+        1092068267
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1225878
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"d6d89edf1dc331ac727012e56bd14a9a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "county_id":1092068267,
+            "locality_id":1226193065,
+            "region_id":85673719
+        }
+    ],
+    "wof:id":1226193065,
+    "wof:lastmodified":1537008933,
+    "wof:name":"Udawela",
+    "wof:parent_id":1092068267,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    80.5303,
+    7.2956,
+    80.5303,
+    7.2956
+],
+  "geometry": {"coordinates":[80.5303,7.2956],"type":"Point"}
+}

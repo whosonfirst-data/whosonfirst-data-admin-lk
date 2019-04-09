@@ -1,0 +1,72 @@
+{
+  "id": 1344210643,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"80.945,6.82167,80.945,6.82167",
+    "geom:latitude":6.82167,
+    "geom:longitude":80.945,
+    "gn:admin1_code":"35.0",
+    "gn:asciiname":"Ellealutwela",
+    "gn:cc2":"LK",
+    "gn:country_code":"LK",
+    "gn:dem":1230,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1247110,
+    "gn:latitude":6.82167,
+    "gn:longitude":80.945,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Ellealutwela",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ella-alutwela",
+        "Ellealutwela"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632313,
+        85673801,
+        1092059183
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1247110
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"16436af7900a169b020652a3e60eee2d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "county_id":1092059183,
+            "locality_id":1344210643,
+            "region_id":85673801
+        }
+    ],
+    "wof:id":1344210643,
+    "wof:lastmodified":1537661563,
+    "wof:name":"Ellealutwela",
+    "wof:parent_id":1092059183,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    80.945,
+    6.82167,
+    80.945,
+    6.82167
+],
+  "geometry": {"coordinates":[80.94499999999999,6.82167],"type":"Point"}
+}

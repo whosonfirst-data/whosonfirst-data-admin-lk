@@ -1,0 +1,67 @@
+{
+  "id": 1193218279,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"79.9711,6.8773,79.9711,6.8773",
+    "geom:latitude":6.8773,
+    "geom:longitude":79.9711,
+    "gn:admin1_code":"36.0",
+    "gn:asciiname":"Hokandara North",
+    "gn:country_code":"LK",
+    "gn:dem":38,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1243951,
+    "gn:latitude":6.8773,
+    "gn:longitude":79.9711,
+    "gn:modification_date":"1994-01-08",
+    "gn:name":"Hokandara North",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632313,
+        85673811,
+        1092059875
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1243951
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"30a5c0a97e245fe580a35ef215855083",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "county_id":1092059875,
+            "locality_id":1193218279,
+            "region_id":85673811
+        }
+    ],
+    "wof:id":1193218279,
+    "wof:lastmodified":1536378195,
+    "wof:name":"Hokandara North",
+    "wof:parent_id":1092059875,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    79.9711,
+    6.8773,
+    79.9711,
+    6.8773
+],
+  "geometry": {"coordinates":[79.97110000000001,6.8773],"type":"Point"}
+}

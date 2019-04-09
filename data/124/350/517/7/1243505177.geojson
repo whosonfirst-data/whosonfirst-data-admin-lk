@@ -1,0 +1,71 @@
+{
+  "id": 1243505177,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"80.6899,7.3071,80.6899,7.3071",
+    "geom:latitude":7.3071,
+    "geom:longitude":80.6899,
+    "gn:admin1_code":"29.0",
+    "gn:asciiname":"Ittamaliyagoda",
+    "gn:country_code":"LK",
+    "gn:dem":483,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1242873,
+    "gn:latitude":7.3071,
+    "gn:longitude":80.6899,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Ittamaliyagoda",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ittamalliyagoda"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632313,
+        85673719,
+        1092061615
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1242873,
+        "wk:page":"Ittamalliyagoda"
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"f2c0e1143e52ef76f33aa4e06bec2e06",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "county_id":1092061615,
+            "locality_id":1243505177,
+            "region_id":85673719
+        }
+    ],
+    "wof:id":1243505177,
+    "wof:lastmodified":1537661524,
+    "wof:name":"Ittamaliyagoda",
+    "wof:parent_id":1092061615,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    80.6899,
+    7.3071,
+    80.6899,
+    7.3071
+],
+  "geometry": {"coordinates":[80.68989999999999,7.3071],"type":"Point"}
+}

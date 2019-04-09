@@ -1,0 +1,67 @@
+{
+  "id": 1259533723,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"80.61667,8.13333,80.61667,8.13333",
+    "geom:latitude":8.13333,
+    "geom:longitude":80.61667,
+    "gn:admin1_code":"30.0",
+    "gn:asciiname":"Aminichchiya",
+    "gn:country_code":"LK",
+    "gn:dem":138,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1251493,
+    "gn:latitude":8.13333,
+    "gn:longitude":80.61667,
+    "gn:modification_date":"1994-01-08",
+    "gn:name":"Aminichchiya",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632313,
+        85673751,
+        1092066739
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1251493
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"0ae2755ac3dd6a7fbbc818d41f173959",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "county_id":1092066739,
+            "locality_id":1259533723,
+            "region_id":85673751
+        }
+    ],
+    "wof:id":1259533723,
+    "wof:lastmodified":1536787157,
+    "wof:name":"Aminichchiya",
+    "wof:parent_id":1092066739,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    80.61667,
+    8.13333,
+    80.61667,
+    8.13333
+],
+  "geometry": {"coordinates":[80.61667,8.13333],"type":"Point"}
+}

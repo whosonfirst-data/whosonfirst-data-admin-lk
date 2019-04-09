@@ -1,0 +1,67 @@
+{
+  "id": 1326682799,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"80.0526,6.8601,80.0526,6.8601",
+    "geom:latitude":6.8601,
+    "geom:longitude":80.0526,
+    "gn:admin1_code":"36.0",
+    "gn:asciiname":"Puwakgahahen",
+    "gn:country_code":"LK",
+    "gn:dem":25,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7474174,
+    "gn:latitude":6.8601,
+    "gn:longitude":80.0526,
+    "gn:modification_date":"2010-08-08",
+    "gn:name":"Puwakgahahen",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632313,
+        85673811,
+        1092059399
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7474174
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"521c1deb806517c84fbd5f2342e4a8b6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "county_id":1092059399,
+            "locality_id":1326682799,
+            "region_id":85673811
+        }
+    ],
+    "wof:id":1326682799,
+    "wof:lastmodified":1536767580,
+    "wof:name":"Puwakgahahen",
+    "wof:parent_id":1092059399,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    80.0526,
+    6.8601,
+    80.0526,
+    6.8601
+],
+  "geometry": {"coordinates":[80.0526,6.8601],"type":"Point"}
+}

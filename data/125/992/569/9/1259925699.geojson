@@ -1,0 +1,67 @@
+{
+  "id": 1259925699,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"79.8533,7.5772,79.8533,7.5772",
+    "geom:latitude":7.5772,
+    "geom:longitude":79.8533,
+    "gn:admin1_code":"32.0",
+    "gn:asciiname":"Kanjikkuliya",
+    "gn:country_code":"LK",
+    "gn:dem":13,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1241606,
+    "gn:latitude":7.5772,
+    "gn:longitude":79.8533,
+    "gn:modification_date":"1994-01-08",
+    "gn:name":"Kanjikkuliya",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632313,
+        85673779,
+        1092057373
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1241606
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"2b2e09e8bad0c10a0db0835e389df3d1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "county_id":1092057373,
+            "locality_id":1259925699,
+            "region_id":85673779
+        }
+    ],
+    "wof:id":1259925699,
+    "wof:lastmodified":1536718782,
+    "wof:name":"Kanjikkuliya",
+    "wof:parent_id":1092057373,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    79.8533,
+    7.5772,
+    79.8533,
+    7.5772
+],
+  "geometry": {"coordinates":[79.8533,7.5772],"type":"Point"}
+}

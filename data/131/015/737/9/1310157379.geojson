@@ -1,0 +1,72 @@
+{
+  "id": 1310157379,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"81.6709,7.1869,81.6709,7.1869",
+    "geom:latitude":7.1869,
+    "geom:longitude":81.6709,
+    "gn:admin1_code":"37.0",
+    "gn:asciiname":"Medawalalanda",
+    "gn:country_code":"LK",
+    "gn:dem":63,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1237400,
+    "gn:latitude":7.1869,
+    "gn:longitude":81.6709,
+    "gn:modification_date":"2012-04-05",
+    "gn:name":"Medawalalanda",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Madawalanda",
+        "Medawalalanda",
+        "Madawallanda"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632313,
+        85673733,
+        1092057459
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1237400
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"6431df0b410af334882e65d2c681c8f5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "county_id":1092057459,
+            "locality_id":1310157379,
+            "region_id":85673733
+        }
+    ],
+    "wof:id":1310157379,
+    "wof:lastmodified":1537661478,
+    "wof:name":"Medawalalanda",
+    "wof:parent_id":1092057459,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    81.6709,
+    7.1869,
+    81.6709,
+    7.1869
+],
+  "geometry": {"coordinates":[81.6709,7.1869],"type":"Point"}
+}

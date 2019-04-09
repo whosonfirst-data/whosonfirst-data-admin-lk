@@ -1,0 +1,61 @@
+{
+  "id": 1360136413,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"81.8,7.48333,81.8,7.48333",
+    "geom:latitude":7.48333,
+    "geom:longitude":81.8,
+    "gn:admin1_code":"37.0",
+    "gn:asciiname":"Koddaikkallar",
+    "gn:country_code":"LK",
+    "gn:dem":1,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1239859,
+    "gn:latitude":7.48333,
+    "gn:longitude":81.8,
+    "gn:modification_date":"2012-04-05",
+    "gn:name":"Koddaikkallar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1239859
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"61eb84eb727f81b2ed1f82713935066b",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1360136413,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1360136413,
+    "wof:lastmodified":1536870646,
+    "wof:name":"Koddaikkallar",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    81.8,
+    7.48333,
+    81.8,
+    7.48333
+],
+  "geometry": {"coordinates":[81.8,7.48333],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1343303319,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"80.5643,6.5446,80.5643,6.5446",
+    "geom:latitude":6.5446,
+    "geom:longitude":80.5643,
+    "gn:admin1_code":"33.0",
+    "gn:asciiname":"Nabuluwa",
+    "gn:country_code":"LK",
+    "gn:dem":340,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1234050,
+    "gn:latitude":6.5446,
+    "gn:longitude":80.5643,
+    "gn:modification_date":"1994-01-08",
+    "gn:name":"Nabuluwa",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632313,
+        85673785,
+        1092060067
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1234050
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"7e59c157a1a326974cb3970f119edf5b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "county_id":1092060067,
+            "locality_id":1343303319,
+            "region_id":85673785
+        }
+    ],
+    "wof:id":1343303319,
+    "wof:lastmodified":1536972592,
+    "wof:name":"Nabuluwa",
+    "wof:parent_id":1092060067,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    80.5643,
+    6.5446,
+    80.5643,
+    6.5446
+],
+  "geometry": {"coordinates":[80.5643,6.5446],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1309948657,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"80.5322,9.4456,80.5322,9.4456",
+    "geom:latitude":9.4456,
+    "geom:longitude":80.5322,
+    "gn:admin1_code":"38.0",
+    "gn:asciiname":"Puliyampokkani",
+    "gn:country_code":"LK",
+    "gn:dem":6,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1229549,
+    "gn:latitude":9.4456,
+    "gn:longitude":80.5322,
+    "gn:modification_date":"2012-04-05",
+    "gn:name":"Puliyampokkani",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Puliampokkunai",
+        "Puliyampokkani",
+        "Pullyampokkanai",
+        "Puliyampokkanai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632313,
+        85673773,
+        1092060355
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1229549
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"26df94cef17bc9eb787f4b7f7c62deae",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "county_id":1092060355,
+            "locality_id":1309948657,
+            "region_id":85673773
+        }
+    ],
+    "wof:id":1309948657,
+    "wof:lastmodified":1537661403,
+    "wof:name":"Puliyampokkani",
+    "wof:parent_id":1092060355,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    80.5322,
+    9.4456,
+    80.5322,
+    9.4456
+],
+  "geometry": {"coordinates":[80.5322,9.4456],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1344107075,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"80.2983,8.3229,80.2983,8.3229",
+    "geom:latitude":8.3229,
+    "geom:longitude":80.2983,
+    "gn:admin1_code":"30.0",
+    "gn:asciiname":"Siyambalagaswewa",
+    "gn:country_code":"LK",
+    "gn:dem":92,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7539406,
+    "gn:latitude":8.3229,
+    "gn:longitude":80.2983,
+    "gn:modification_date":"2010-10-09",
+    "gn:name":"Siyambalagaswewa",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632313,
+        85673751,
+        1092064353
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7539406
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"9096365a0fadc705ecdf138527b162d3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "county_id":1092064353,
+            "locality_id":1344107075,
+            "region_id":85673751
+        }
+    ],
+    "wof:id":1344107075,
+    "wof:lastmodified":1536808165,
+    "wof:name":"Siyambalagaswewa",
+    "wof:parent_id":1092064353,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    80.2983,
+    8.3229,
+    80.2983,
+    8.3229
+],
+  "geometry": {"coordinates":[80.2983,8.3229],"type":"Point"}
+}

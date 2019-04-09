@@ -1,0 +1,67 @@
+{
+  "id": 1243108745,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"80.4142,6.8917,80.4142,6.8917",
+    "geom:latitude":6.8917,
+    "geom:longitude":80.4142,
+    "gn:admin1_code":"33.0",
+    "gn:asciiname":"Pallepansiya",
+    "gn:country_code":"LK",
+    "gn:dem":181,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1231708,
+    "gn:latitude":6.8917,
+    "gn:longitude":80.4142,
+    "gn:modification_date":"1994-01-08",
+    "gn:name":"Pallepansiya",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632313,
+        85673807,
+        1092057785
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1231708
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"091a752911826935f398854ca4008b9b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "county_id":1092057785,
+            "locality_id":1243108745,
+            "region_id":85673807
+        }
+    ],
+    "wof:id":1243108745,
+    "wof:lastmodified":1536795509,
+    "wof:name":"Pallepansiya",
+    "wof:parent_id":1092057785,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    80.4142,
+    6.8917,
+    80.4142,
+    6.8917
+],
+  "geometry": {"coordinates":[80.41419999999999,6.8917],"type":"Point"}
+}

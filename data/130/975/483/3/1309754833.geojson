@@ -1,0 +1,67 @@
+{
+  "id": 1309754833,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"80.2922,7.153,80.2922,7.153",
+    "geom:latitude":7.153,
+    "geom:longitude":80.2922,
+    "gn:admin1_code":"33.0",
+    "gn:asciiname":"Pindeniya",
+    "gn:country_code":"LK",
+    "gn:dem":54,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1230192,
+    "gn:latitude":7.153,
+    "gn:longitude":80.2922,
+    "gn:modification_date":"1999-08-02",
+    "gn:name":"Pindeniya",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632313,
+        85673807,
+        1092058595
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1230192
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"d1be284ad7c35ae0b05dc56137ca6665",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "county_id":1092058595,
+            "locality_id":1309754833,
+            "region_id":85673807
+        }
+    ],
+    "wof:id":1309754833,
+    "wof:lastmodified":1537003920,
+    "wof:name":"Pindeniya",
+    "wof:parent_id":1092058595,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    80.2922,
+    7.153,
+    80.2922,
+    7.153
+],
+  "geometry": {"coordinates":[80.29219999999999,7.153],"type":"Point"}
+}

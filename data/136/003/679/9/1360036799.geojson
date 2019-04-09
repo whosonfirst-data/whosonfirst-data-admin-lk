@@ -1,0 +1,71 @@
+{
+  "id": 1360036799,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"80.17118,8.97995,80.17118,8.97995",
+    "geom:latitude":8.97995,
+    "geom:longitude":80.17118,
+    "gn:admin1_code":"38.0",
+    "gn:admin2_code":"1236148.0",
+    "gn:asciiname":"Pariyamadu",
+    "gn:country_code":"LK",
+    "gn:dem":23,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8436412,
+    "gn:latitude":8.97995,
+    "gn:longitude":80.17118,
+    "gn:modification_date":"2012-12-27",
+    "gn:name":"Pariyamadu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tam_x_preferred":[
+        "\u0baa\u0bc6\u0bb0\u0bbf\u0baf\u0bae\u0b9f\u0bc1"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632313,
+        85673761,
+        1092062755
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8436412
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"1e3d67cfa2d8659d3bf6afdb8ad84b55",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "county_id":1092062755,
+            "locality_id":1360036799,
+            "region_id":85673761
+        }
+    ],
+    "wof:id":1360036799,
+    "wof:lastmodified":1537551699,
+    "wof:name":"Pariyamadu",
+    "wof:parent_id":1092062755,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    80.17118,
+    8.97995,
+    80.17118,
+    8.97995
+],
+  "geometry": {"coordinates":[80.17118000000001,8.97995],"type":"Point"}
+}

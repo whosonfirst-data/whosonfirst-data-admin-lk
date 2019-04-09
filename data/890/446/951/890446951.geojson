@@ -1,0 +1,65 @@
+{
+  "id": 890446951,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2016-09-15",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"80.55002,9.1515,80.55002,9.1515",
+    "geom:latitude":9.1515,
+    "geom:longitude":80.55002,
+    "gn:country":"LK",
+    "gn:fcode":"ADM2",
+    "gn:pop":220311,
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "qs:name":"Mullattivu",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"10",
+    "src:geom":"unknown",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632313,
+        85673765
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7730331,
+        "qs:id":697968
+    },
+    "wof:country":"LK",
+    "wof:created":1469052573,
+    "wof:geomhash":"f378a98085cfce3382fd3601e12ae948",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "county_id":890446951,
+            "region_id":85673765
+        }
+    ],
+    "wof:id":890446951,
+    "wof:lastmodified":1505343614,
+    "wof:name":"Mullattivu",
+    "wof:parent_id":85673765,
+    "wof:placetype":"county",
+    "wof:population":220311,
+    "wof:population_rank":10,
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    80.55002,
+    9.1515,
+    80.55002,
+    9.1515
+],
+  "geometry": {"coordinates":[80.55002,9.1515],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1344116471,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"80.16667,7.43333,80.16667,7.43333",
+    "geom:latitude":7.43333,
+    "geom:longitude":80.16667,
+    "gn:admin1_code":"32.0",
+    "gn:asciiname":"Etampola Mudiyansegegama",
+    "gn:country_code":"LK",
+    "gn:dem":68,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1246829,
+    "gn:latitude":7.43333,
+    "gn:longitude":80.16667,
+    "gn:modification_date":"1994-01-08",
+    "gn:name":"Etampola Mudiyansegegama",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632313,
+        85673777,
+        1092061525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1246829
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"055f391e32da4e0f5e86004f7357108a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "county_id":1092061525,
+            "locality_id":1344116471,
+            "region_id":85673777
+        }
+    ],
+    "wof:id":1344116471,
+    "wof:lastmodified":1536795188,
+    "wof:name":"Etampola Mudiyansegegama",
+    "wof:parent_id":1092061525,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    80.16667,
+    7.43333,
+    80.16667,
+    7.43333
+],
+  "geometry": {"coordinates":[80.16667,7.43333],"type":"Point"}
+}

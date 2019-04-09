@@ -1,0 +1,67 @@
+{
+  "id": 1226489371,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"80.5761,7.197,80.5761,7.197",
+    "geom:latitude":7.197,
+    "geom:longitude":80.5761,
+    "gn:admin1_code":"29.0",
+    "gn:asciiname":"Giragama",
+    "gn:country_code":"LK",
+    "gn:dem":522,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1245686,
+    "gn:latitude":7.197,
+    "gn:longitude":80.5761,
+    "gn:modification_date":"1994-01-08",
+    "gn:name":"Giragama",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632313,
+        85673719,
+        1092066991
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1245686
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"f00408862144c2b3d2989333150d1532",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "county_id":1092066991,
+            "locality_id":1226489371,
+            "region_id":85673719
+        }
+    ],
+    "wof:id":1226489371,
+    "wof:lastmodified":1537076189,
+    "wof:name":"Giragama",
+    "wof:parent_id":1092066991,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    80.5761,
+    7.197,
+    80.5761,
+    7.197
+],
+  "geometry": {"coordinates":[80.5761,7.197],"type":"Point"}
+}

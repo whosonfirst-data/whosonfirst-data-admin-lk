@@ -1,0 +1,71 @@
+{
+  "id": 1293638041,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"80.7927,6.605,80.7927,6.605",
+    "geom:latitude":6.605,
+    "geom:longitude":80.7927,
+    "gn:admin1_code":"33.0",
+    "gn:asciiname":"Nedungomuwa",
+    "gn:country_code":"LK",
+    "gn:dem":477,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1233411,
+    "gn:latitude":6.605,
+    "gn:longitude":80.7927,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Nedungomuwa",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Nedungamuwa",
+        "Nedungomuwa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632313,
+        85673785,
+        1092056887
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1233411
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"5e4cdbabafc7ae40541a7275990c315a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "county_id":1092056887,
+            "locality_id":1293638041,
+            "region_id":85673785
+        }
+    ],
+    "wof:id":1293638041,
+    "wof:lastmodified":1537661440,
+    "wof:name":"Nedungomuwa",
+    "wof:parent_id":1092056887,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    80.7927,
+    6.605,
+    80.7927,
+    6.605
+],
+  "geometry": {"coordinates":[80.7927,6.605],"type":"Point"}
+}

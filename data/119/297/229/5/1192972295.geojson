@@ -1,0 +1,71 @@
+{
+  "id": 1192972295,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"80.3929,5.9698,80.3929,5.9698",
+    "geom:latitude":5.9698,
+    "geom:longitude":80.3929,
+    "gn:admin1_code":"34.0",
+    "gn:asciiname":"Pitaduwa",
+    "gn:country_code":"LK",
+    "gn:dem":14,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1230105,
+    "gn:latitude":5.9698,
+    "gn:longitude":80.3929,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Pitaduwa",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Pitiduwa",
+        "Pitaduwa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632313,
+        85673795,
+        1092067827
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1230105
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"2a5b66ce154488619252e6a986c2378c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "county_id":1092067827,
+            "locality_id":1192972295,
+            "region_id":85673795
+        }
+    ],
+    "wof:id":1192972295,
+    "wof:lastmodified":1537661409,
+    "wof:name":"Pitaduwa",
+    "wof:parent_id":1092067827,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    80.3929,
+    5.9698,
+    80.3929,
+    5.9698
+],
+  "geometry": {"coordinates":[80.3929,5.9698],"type":"Point"}
+}

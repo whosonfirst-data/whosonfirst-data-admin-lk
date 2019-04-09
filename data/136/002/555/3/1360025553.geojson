@@ -1,0 +1,67 @@
+{
+  "id": 1360025553,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"80.1205,7.0321,80.1205,7.0321",
+    "geom:latitude":7.0321,
+    "geom:longitude":80.1205,
+    "gn:admin1_code":"36.0",
+    "gn:asciiname":"Erepolagodella",
+    "gn:country_code":"LK",
+    "gn:dem":29,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1246912,
+    "gn:latitude":7.0321,
+    "gn:longitude":80.1205,
+    "gn:modification_date":"1994-01-08",
+    "gn:name":"Erepolagodella",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632313,
+        85673815,
+        1092058055
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1246912
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"34bc6988c601846fe94f2c425b14b202",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "county_id":1092058055,
+            "locality_id":1360025553,
+            "region_id":85673815
+        }
+    ],
+    "wof:id":1360025553,
+    "wof:lastmodified":1537030187,
+    "wof:name":"Erepolagodella",
+    "wof:parent_id":1092058055,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    80.1205,
+    7.0321,
+    80.1205,
+    7.0321
+],
+  "geometry": {"coordinates":[80.12050000000001,7.0321],"type":"Point"}
+}

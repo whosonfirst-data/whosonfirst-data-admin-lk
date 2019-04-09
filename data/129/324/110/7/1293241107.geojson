@@ -1,0 +1,71 @@
+{
+  "id": 1293241107,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"80.2596,7.1589,80.2596,7.1589",
+    "geom:latitude":7.1589,
+    "geom:longitude":80.2596,
+    "gn:admin1_code":"33.0",
+    "gn:asciiname":"Kuda-Pallegama",
+    "gn:country_code":"LK",
+    "gn:dem":195,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1238649,
+    "gn:latitude":7.1589,
+    "gn:longitude":80.2596,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Kuda-Pallegama",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Pallegama Kuda",
+        "Kuda-Pallegama"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632313,
+        85673807,
+        1092067647
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1238649
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"08894d83a4b6dbdb00345800b06b4d21",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "county_id":1092067647,
+            "locality_id":1293241107,
+            "region_id":85673807
+        }
+    ],
+    "wof:id":1293241107,
+    "wof:lastmodified":1537661488,
+    "wof:name":"Kuda-Pallegama",
+    "wof:parent_id":1092067647,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    80.2596,
+    7.1589,
+    80.2596,
+    7.1589
+],
+  "geometry": {"coordinates":[80.25960000000001,7.1589],"type":"Point"}
+}

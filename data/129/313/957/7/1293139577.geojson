@@ -1,0 +1,72 @@
+{
+  "id": 1293139577,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"81.2382,7.4621,81.2382,7.4621",
+    "geom:latitude":7.4621,
+    "geom:longitude":81.2382,
+    "gn:admin1_code":"37.0",
+    "gn:asciiname":"Lindagala",
+    "gn:country_code":"LK",
+    "gn:dem":109,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1237699,
+    "gn:latitude":7.4621,
+    "gn:longitude":81.2382,
+    "gn:modification_date":"2012-04-05",
+    "gn:name":"Lindagala",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Barangalawela",
+        "Lindegala",
+        "Lindagala"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632313,
+        85673733,
+        1092064659
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1237699
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"e82c73a5c92e388df90a5dd232de3435",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "county_id":1092064659,
+            "locality_id":1293139577,
+            "region_id":85673733
+        }
+    ],
+    "wof:id":1293139577,
+    "wof:lastmodified":1537661480,
+    "wof:name":"Lindagala",
+    "wof:parent_id":1092064659,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    81.2382,
+    7.4621,
+    81.2382,
+    7.4621
+],
+  "geometry": {"coordinates":[81.23820000000001,7.4621],"type":"Point"}
+}

@@ -1,0 +1,89 @@
+{
+  "id": 421203925,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"79.8522,6.8914,79.8522,6.8914",
+    "geom:latitude":6.8914,
+    "geom:longitude":79.8522,
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:jpn_x_preferred":[
+        "\u30d0\u30f3\u30d0\u30e9\u30d4\u30c6\u30a3\u30e4"
+    ],
+    "name:sin_x_preferred":[
+        "\u0db6\u0db8\u0dca\u0db6\u0dbd\u0db4\u0dd2\u0da7\u0dd2\u0dba"
+    ],
+    "name:tam_x_preferred":[
+        "\u0baa\u0bae\u0bcd\u0baa\u0bb2\u0baa\u0bcd\u0baa\u0bbf\u0b9f\u0bcd\u0b9f\u0bbf"
+    ],
+    "qs:gn_country":"LK",
+    "qs:gn_fcode":"PPLX",
+    "qs:gn_id":1250447,
+    "qs:gn_pop":0,
+    "qs:name":"Bambalapitiya",
+    "qs:name_adm0":"Sri Lanka",
+    "qs:name_adm1":"Western",
+    "qs:photos":185,
+    "qs:photos_1k":37,
+    "qs:photos_9k":1,
+    "qs:photos_9r":4,
+    "qs:photos_all":185,
+    "qs:photos_sr":4,
+    "qs:placetype":"Suburb",
+    "qs:pop_sr":"0",
+    "qs:qs_id":235503,
+    "qs:woe_adm0":23424778,
+    "qs:woe_id":2174312,
+    "src:geom":"quattroshapes",
+    "wd:wordcount":295,
+    "wof:belongsto":[
+        102191569,
+        85632313,
+        1092066701,
+        85673811
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1250447,
+        "gp:id":2174312,
+        "qs:id":235503,
+        "wd:id":"Q4853319",
+        "wk:page":"Bambalapitiya"
+    },
+    "wof:country":"LK",
+    "wof:created":1459010168,
+    "wof:geomhash":"e4fa257e658b9a9f18f7896a720965db",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "county_id":1092066701,
+            "locality_id":-1,
+            "neighbourhood_id":421203925,
+            "region_id":85673811
+        }
+    ],
+    "wof:id":421203925,
+    "wof:lastmodified":1531858835,
+    "wof:name":"Bambalapitiya",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    79.8522,
+    6.8914,
+    79.8522,
+    6.8914
+],
+  "geometry": {"coordinates":[79.8522,6.8914],"type":"Point"}
+}

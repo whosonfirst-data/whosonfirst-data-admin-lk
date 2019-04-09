@@ -1,0 +1,67 @@
+{
+  "id": 1293932285,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"80.3731,6.6574,80.3731,6.6574",
+    "geom:latitude":6.6574,
+    "geom:longitude":80.3731,
+    "gn:admin1_code":"33.0",
+    "gn:asciiname":"Elapatha North",
+    "gn:country_code":"LK",
+    "gn:dem":45,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7437301,
+    "gn:latitude":6.6574,
+    "gn:longitude":80.3731,
+    "gn:modification_date":"2010-08-07",
+    "gn:name":"Elapatha North",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632313,
+        85673785,
+        1092058219
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7437301
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"83de3e31aff9b0a59c22fae1d6406561",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "county_id":1092058219,
+            "locality_id":1293932285,
+            "region_id":85673785
+        }
+    ],
+    "wof:id":1293932285,
+    "wof:lastmodified":1536642373,
+    "wof:name":"Elapatha North",
+    "wof:parent_id":1092058219,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    80.3731,
+    6.6574,
+    80.3731,
+    6.6574
+],
+  "geometry": {"coordinates":[80.37309999999999,6.6574],"type":"Point"}
+}

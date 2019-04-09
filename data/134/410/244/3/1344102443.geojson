@@ -1,0 +1,67 @@
+{
+  "id": 1344102443,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"79.8256,7.4085,79.8256,7.4085",
+    "geom:latitude":7.4085,
+    "geom:longitude":79.8256,
+    "gn:admin1_code":"32.0",
+    "gn:asciiname":"Modarawella",
+    "gn:country_code":"LK",
+    "gn:dem":20,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7437662,
+    "gn:latitude":7.4085,
+    "gn:longitude":79.8256,
+    "gn:modification_date":"2010-08-07",
+    "gn:name":"Modarawella",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632313,
+        85673779,
+        1092063911
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7437662
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"674bba51ce1b1ad87c54dd572b5c11ce",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "county_id":1092063911,
+            "locality_id":1344102443,
+            "region_id":85673779
+        }
+    ],
+    "wof:id":1344102443,
+    "wof:lastmodified":1536814354,
+    "wof:name":"Modarawella",
+    "wof:parent_id":1092063911,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    79.8256,
+    7.4085,
+    79.8256,
+    7.4085
+],
+  "geometry": {"coordinates":[79.82559999999999,7.4085],"type":"Point"}
+}

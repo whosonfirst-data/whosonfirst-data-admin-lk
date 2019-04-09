@@ -1,0 +1,67 @@
+{
+  "id": 1293330691,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"80.0649,6.763,80.0649,6.763",
+    "geom:latitude":6.763,
+    "geom:longitude":80.0649,
+    "gn:admin1_code":"36.0",
+    "gn:asciiname":"Wavulugala",
+    "gn:country_code":"LK",
+    "gn:dem":23,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8303157,
+    "gn:latitude":6.763,
+    "gn:longitude":80.0649,
+    "gn:modification_date":"2012-06-06",
+    "gn:name":"Wavulugala",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632313,
+        85673819,
+        1092059431
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8303157
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"a0060e155e6f1416e1875ad4fb212078",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "county_id":1092059431,
+            "locality_id":1293330691,
+            "region_id":85673819
+        }
+    ],
+    "wof:id":1293330691,
+    "wof:lastmodified":1537012292,
+    "wof:name":"Wavulugala",
+    "wof:parent_id":1092059431,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    80.0649,
+    6.763,
+    80.0649,
+    6.763
+],
+  "geometry": {"coordinates":[80.06489999999999,6.763],"type":"Point"}
+}

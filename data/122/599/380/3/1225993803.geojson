@@ -1,0 +1,67 @@
+{
+  "id": 1225993803,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"79.8285,7.4777,79.8285,7.4777",
+    "geom:latitude":7.4777,
+    "geom:longitude":79.8285,
+    "gn:admin1_code":"32.0",
+    "gn:asciiname":"Tinipitigama Kudawidiya",
+    "gn:country_code":"LK",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7475145,
+    "gn:latitude":7.4777,
+    "gn:longitude":79.8285,
+    "gn:modification_date":"2010-08-08",
+    "gn:name":"Tinipitigama Kudawidiya",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632313,
+        85673779,
+        1092061929
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7475145
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"cc61fe0e6d065cccb8a4bf627048291f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "county_id":1092061929,
+            "locality_id":1225993803,
+            "region_id":85673779
+        }
+    ],
+    "wof:id":1225993803,
+    "wof:lastmodified":1536800225,
+    "wof:name":"Tinipitigama Kudawidiya",
+    "wof:parent_id":1092061929,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    79.8285,
+    7.4777,
+    79.8285,
+    7.4777
+],
+  "geometry": {"coordinates":[79.82850000000001,7.4777],"type":"Point"}
+}

@@ -1,0 +1,63 @@
+{
+  "id": 1327087329,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"79.8474,7.2705,79.8474,7.2705",
+    "geom:latitude":7.2705,
+    "geom:longitude":79.8474,
+    "gn:admin1_code":"36.0",
+    "gn:asciiname":"Kammaltotupola",
+    "gn:country_code":"LK",
+    "gn:dem":15,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7437739,
+    "gn:latitude":7.2705,
+    "gn:longitude":79.8474,
+    "gn:modification_date":"2010-08-07",
+    "gn:name":"Kammaltotupola",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7437739
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"565a786f0ceda4a8250dab3e3db06a0d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":-1,
+            "locality_id":1327087329,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1327087329,
+    "wof:lastmodified":1536681328,
+    "wof:name":"Kammaltotupola",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    79.8474,
+    7.2705,
+    79.8474,
+    7.2705
+],
+  "geometry": {"coordinates":[79.84739999999999,7.2705],"type":"Point"}
+}

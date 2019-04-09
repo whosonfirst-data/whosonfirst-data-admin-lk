@@ -1,0 +1,68 @@
+{
+  "id": 1309957541,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"81.6681,7.7401,81.6681,7.7401",
+    "geom:latitude":7.7401,
+    "geom:longitude":81.6681,
+    "gn:admin1_code":"37.0",
+    "gn:asciiname":"Sathurukondan",
+    "gn:country_code":"LK",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1228231,
+    "gn:latitude":7.7401,
+    "gn:longitude":81.6681,
+    "gn:modification_date":"2014-04-06",
+    "gn:name":"Sathurukondan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632313,
+        85673737,
+        1092062477
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1228231,
+        "wk:page":"Sathurukondan"
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"9b05653b0b3da621104fed940a8069ae",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "county_id":1092062477,
+            "locality_id":1309957541,
+            "region_id":85673737
+        }
+    ],
+    "wof:id":1309957541,
+    "wof:lastmodified":1537567974,
+    "wof:name":"Sathurukondan",
+    "wof:parent_id":1092062477,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    81.6681,
+    7.7401,
+    81.6681,
+    7.7401
+],
+  "geometry": {"coordinates":[81.6681,7.7401],"type":"Point"}
+}

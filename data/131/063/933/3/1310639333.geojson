@@ -1,0 +1,71 @@
+{
+  "id": 1310639333,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"80.1467,9.5508,80.1467,9.5508",
+    "geom:latitude":9.5508,
+    "geom:longitude":80.1467,
+    "gn:admin1_code":"38.0",
+    "gn:asciiname":"Veddukadu",
+    "gn:country_code":"LK",
+    "gn:dem":14,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1224996,
+    "gn:latitude":9.5508,
+    "gn:longitude":80.1467,
+    "gn:modification_date":"2012-04-05",
+    "gn:name":"Veddukadu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Veddukaddu",
+        "Veddukkadu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632313,
+        85673773,
+        1092065443
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1224996
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"4e37dacf6b7df9a75ee2c5d0850d225c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "county_id":1092065443,
+            "locality_id":1310639333,
+            "region_id":85673773
+        }
+    ],
+    "wof:id":1310639333,
+    "wof:lastmodified":1537661350,
+    "wof:name":"Veddukadu",
+    "wof:parent_id":1092065443,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    80.1467,
+    9.5508,
+    80.1467,
+    9.5508
+],
+  "geometry": {"coordinates":[80.1467,9.5508],"type":"Point"}
+}

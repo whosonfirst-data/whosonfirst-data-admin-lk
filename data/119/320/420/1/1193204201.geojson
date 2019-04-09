@@ -1,0 +1,67 @@
+{
+  "id": 1193204201,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"80.21273,6.40201,80.21273,6.40201",
+    "geom:latitude":6.40201,
+    "geom:longitude":80.21273,
+    "gn:admin1_code":"36.0",
+    "gn:asciiname":"Pelawatta",
+    "gn:country_code":"LK",
+    "gn:dem":19,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1230637,
+    "gn:latitude":6.40201,
+    "gn:longitude":80.21273,
+    "gn:modification_date":"2014-06-26",
+    "gn:name":"Pelawatta",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632313,
+        85673819,
+        1092067493
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1230637
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"4a4e138607fe5414062d9d1ef128cd02",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "county_id":1092067493,
+            "locality_id":1193204201,
+            "region_id":85673819
+        }
+    ],
+    "wof:id":1193204201,
+    "wof:lastmodified":1536369523,
+    "wof:name":"Pelawatta",
+    "wof:parent_id":1092067493,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    80.21273000000002,
+    6.40201,
+    80.21273000000002,
+    6.40201
+],
+  "geometry": {"coordinates":[80.21273000000002,6.40201],"type":"Point"}
+}

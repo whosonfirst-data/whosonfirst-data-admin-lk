@@ -1,0 +1,67 @@
+{
+  "id": 1259824189,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"81.3786,6.9595,81.3786,6.9595",
+    "geom:latitude":6.9595,
+    "geom:longitude":81.3786,
+    "gn:admin1_code":"35.0",
+    "gn:asciiname":"Bingoda",
+    "gn:country_code":"LK",
+    "gn:dem":221,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7617968,
+    "gn:latitude":6.9595,
+    "gn:longitude":81.3786,
+    "gn:modification_date":"2010-12-04",
+    "gn:name":"Bingoda",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632313,
+        85673803,
+        1092062005
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7617968
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"62f04ec217ce2b484ae99e47a25cd01d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "county_id":1092062005,
+            "locality_id":1259824189,
+            "region_id":85673803
+        }
+    ],
+    "wof:id":1259824189,
+    "wof:lastmodified":1536863306,
+    "wof:name":"Bingoda",
+    "wof:parent_id":1092062005,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    81.3786,
+    6.9595,
+    81.3786,
+    6.9595
+],
+  "geometry": {"coordinates":[81.37860000000001,6.9595],"type":"Point"}
+}

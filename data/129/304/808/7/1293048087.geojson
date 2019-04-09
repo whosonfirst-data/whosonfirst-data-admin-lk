@@ -1,0 +1,67 @@
+{
+  "id": 1293048087,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"80.5371,6.9389,80.5371,6.9389",
+    "geom:latitude":6.9389,
+    "geom:longitude":80.5371,
+    "gn:admin1_code":"29.0",
+    "gn:asciiname":"Ghannanandagama",
+    "gn:country_code":"LK",
+    "gn:dem":1093,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7546410,
+    "gn:latitude":6.9389,
+    "gn:longitude":80.5371,
+    "gn:modification_date":"2010-10-09",
+    "gn:name":"Ghannanandagama",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632313,
+        85673731,
+        1092056403
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7546410
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"949bc7f807b9e8c57f27e1a65bd76d95",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "county_id":1092056403,
+            "locality_id":1293048087,
+            "region_id":85673731
+        }
+    ],
+    "wof:id":1293048087,
+    "wof:lastmodified":1536924382,
+    "wof:name":"Ghannanandagama",
+    "wof:parent_id":1092056403,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    80.5371,
+    6.9389,
+    80.5371,
+    6.9389
+],
+  "geometry": {"coordinates":[80.5371,6.9389],"type":"Point"}
+}

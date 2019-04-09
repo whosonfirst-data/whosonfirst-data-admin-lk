@@ -1,0 +1,67 @@
+{
+  "id": 1360038317,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"80.1215,6.9333,80.1215,6.9333",
+    "geom:latitude":6.9333,
+    "geom:longitude":80.1215,
+    "gn:admin1_code":"36.0",
+    "gn:asciiname":"Salawa",
+    "gn:country_code":"LK",
+    "gn:dem":27,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8304316,
+    "gn:latitude":6.9333,
+    "gn:longitude":80.1215,
+    "gn:modification_date":"2012-06-07",
+    "gn:name":"Salawa",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632313,
+        85673811,
+        1092066109
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8304316
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"d2873e47a9410b9a140bbbaf5ed5c76c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "county_id":1092066109,
+            "locality_id":1360038317,
+            "region_id":85673811
+        }
+    ],
+    "wof:id":1360038317,
+    "wof:lastmodified":1537012550,
+    "wof:name":"Salawa",
+    "wof:parent_id":1092066109,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    80.1215,
+    6.9333,
+    80.1215,
+    6.9333
+],
+  "geometry": {"coordinates":[80.1215,6.9333],"type":"Point"}
+}

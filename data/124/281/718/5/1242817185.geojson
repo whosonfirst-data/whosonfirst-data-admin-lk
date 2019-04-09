@@ -1,0 +1,72 @@
+{
+  "id": 1242817185,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"79.98333,8.91667,79.98333,8.91667",
+    "geom:latitude":8.91667,
+    "geom:longitude":79.98333,
+    "gn:admin1_code":"38.0",
+    "gn:admin2_code":"1236148.0",
+    "gn:asciiname":"Kidavettikkandal",
+    "gn:country_code":"LK",
+    "gn:dem":7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1240396,
+    "gn:latitude":8.91667,
+    "gn:longitude":79.98333,
+    "gn:modification_date":"2012-12-25",
+    "gn:name":"Kidavettikkandal",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kidaveddikkandal",
+        "Kidavettikkandal"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632313,
+        85673761,
+        1092062755
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1240396
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"24617999754a01de7c819e543626efb8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "county_id":1092062755,
+            "locality_id":1242817185,
+            "region_id":85673761
+        }
+    ],
+    "wof:id":1242817185,
+    "wof:lastmodified":1537661503,
+    "wof:name":"Kidavettikkandal",
+    "wof:parent_id":1092062755,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    79.98333000000002,
+    8.91667,
+    79.98333000000002,
+    8.91667
+],
+  "geometry": {"coordinates":[79.98333000000002,8.91667],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1225885695,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"80.73333,6.0,80.73333,6.0",
+    "geom:latitude":6.0,
+    "geom:longitude":80.73333,
+    "gn:admin1_code":"34.0",
+    "gn:asciiname":"Kahapelessegoda",
+    "gn:cc2":"LK",
+    "gn:country_code":"LK",
+    "gn:dem":40,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1242453,
+    "gn:latitude":6.0,
+    "gn:longitude":80.73333,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Kahapelessegoda",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kahapelessagoda",
+        "Kahapelessegoda"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632313,
+        85673791,
+        1092066355
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1242453
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"edeed6e41dcb29336ab02e2e62c6ebd9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "county_id":1092066355,
+            "locality_id":1225885695,
+            "region_id":85673791
+        }
+    ],
+    "wof:id":1225885695,
+    "wof:lastmodified":1537661521,
+    "wof:name":"Kahapelessegoda",
+    "wof:parent_id":1092066355,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    80.73333000000002,
+    6.0,
+    80.73333000000002,
+    6.0
+],
+  "geometry": {"coordinates":[80.73333000000002,6.0],"type":"Point"}
+}

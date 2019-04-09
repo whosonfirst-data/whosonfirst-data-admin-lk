@@ -1,0 +1,67 @@
+{
+  "id": 1226794201,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"81.0653,7.1424,81.0653,7.1424",
+    "geom:latitude":7.1424,
+    "geom:longitude":81.0653,
+    "gn:admin1_code":"35.0",
+    "gn:asciiname":"Kivula",
+    "gn:country_code":"LK",
+    "gn:dem":159,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7474930,
+    "gn:latitude":7.1424,
+    "gn:longitude":81.0653,
+    "gn:modification_date":"2010-08-08",
+    "gn:name":"Kivula",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632313,
+        85673801,
+        1092063223
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7474930
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"33899a48b362b5177c7061497e42b8f8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "county_id":1092063223,
+            "locality_id":1226794201,
+            "region_id":85673801
+        }
+    ],
+    "wof:id":1226794201,
+    "wof:lastmodified":1536645268,
+    "wof:name":"Kivula",
+    "wof:parent_id":1092063223,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    81.0653,
+    7.1424,
+    81.0653,
+    7.1424
+],
+  "geometry": {"coordinates":[81.06529999999999,7.1424],"type":"Point"}
+}

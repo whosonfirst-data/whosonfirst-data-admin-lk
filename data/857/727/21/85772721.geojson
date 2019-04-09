@@ -1,0 +1,109 @@
+{
+  "id": 85772721,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":5097970.946114,
+    "geom:bbox":"79.851744,6.931896,79.851744,6.931896",
+    "geom:latitude":6.931896,
+    "geom:longitude":79.851744,
+    "gn:latitude":6.93917,
+    "gn:longitude":79.84361,
+    "iso:country":"LK",
+    "lbl:latitude":6.931896,
+    "lbl:longitude":79.851744,
+    "mps:latitude":6.935301,
+    "mps:longitude":79.856131,
+    "mz:hierarchy_label":0,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":13.0,
+    "mz:tier_locality":2,
+    "name:eng_x_preferred":[
+        "Fort"
+    ],
+    "name:unk_x_variant":[
+        "Fort"
+    ],
+    "qs:gn_adm0_cc":"LK",
+    "qs:gn_fcode":"PPLX",
+    "qs:gn_local":1248991,
+    "qs:gn_nam_loc":"Colombo, Colombo, Western, LK",
+    "qs:gn_namadm1":"36",
+    "qs:gn_name":"Fort",
+    "qs:local_max":2559,
+    "qs:local_sum":8835,
+    "qs:localhoods":10,
+    "qs:name":"Fort",
+    "qs:name_adm0":"Sri Lanka",
+    "qs:name_adm1":"Western",
+    "qs:name_adm2":"Colombo",
+    "qs:name_local":"Colombo",
+    "qs:photo_max":622,
+    "qs:photo_sum":2559,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":43,
+    "qs:woe_adm0":23424778,
+    "qs:woe_adm1":2344966,
+    "qs:woe_adm2":23706493,
+    "qs:woe_lau":0,
+    "qs:woe_local":2189783,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"mz",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"yerbashapes",
+    "wof:belongsto":[
+        102191569,
+        85632313,
+        1092057419,
+        85673811
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1246686,
+        "gp:id":2176278,
+        "qs:id":1117321,
+        "wd:id":"Q3277589",
+        "wk:page":"Fort (Colombo)"
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"1581811af250a1f708e320dbe1edece3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "county_id":1092057419,
+            "locality_id":-1,
+            "neighbourhood_id":85772721,
+            "region_id":85673811
+        }
+    ],
+    "wof:id":85772721,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1531859563,
+    "wof:name":"Fort",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    79.851744,
+    6.931896,
+    79.851744,
+    6.931896
+],
+  "geometry": {"coordinates":[79.851744,6.931896],"type":"Point"}
+}

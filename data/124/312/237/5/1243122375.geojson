@@ -1,0 +1,67 @@
+{
+  "id": 1243122375,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"80.5,8.15,80.5,8.15",
+    "geom:latitude":8.15,
+    "geom:longitude":80.5,
+    "gn:admin1_code":"30.0",
+    "gn:asciiname":"Walagambahuwa",
+    "gn:country_code":"LK",
+    "gn:dem":127,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1224551,
+    "gn:latitude":8.15,
+    "gn:longitude":80.5,
+    "gn:modification_date":"1994-01-08",
+    "gn:name":"Walagambahuwa",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632313,
+        85673751,
+        1092066739
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1224551
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"3c729bcb436509f694b0bb0be7891dda",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "county_id":1092066739,
+            "locality_id":1243122375,
+            "region_id":85673751
+        }
+    ],
+    "wof:id":1243122375,
+    "wof:lastmodified":1536776501,
+    "wof:name":"Walagambahuwa",
+    "wof:parent_id":1092066739,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    80.5,
+    8.15,
+    80.5,
+    8.15
+],
+  "geometry": {"coordinates":[80.5,8.15],"type":"Point"}
+}

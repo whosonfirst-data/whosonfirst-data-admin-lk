@@ -1,0 +1,61 @@
+{
+  "id": 1209263831,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"79.8673,8.2628,79.8673,8.2628",
+    "geom:latitude":8.2628,
+    "geom:longitude":79.8673,
+    "gn:admin1_code":"32.0",
+    "gn:asciiname":"Elavankulam",
+    "gn:country_code":"LK",
+    "gn:dem":24,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7524330,
+    "gn:latitude":8.2628,
+    "gn:longitude":79.8673,
+    "gn:modification_date":"2010-09-04",
+    "gn:name":"Elavankulam",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632313
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7524330
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"316983cabf299423cc914c43f8e44aec",
+    "wof:hierarchy":[
+        {
+            "country_id":85632313,
+            "locality_id":1209263831
+        }
+    ],
+    "wof:id":1209263831,
+    "wof:lastmodified":1536292603,
+    "wof:name":"Elavankulam",
+    "wof:parent_id":85632313,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    79.8673,
+    8.2628,
+    79.8673,
+    8.2628
+],
+  "geometry": {"coordinates":[79.8673,8.2628],"type":"Point"}
+}

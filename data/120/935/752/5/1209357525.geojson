@@ -1,0 +1,61 @@
+{
+  "id": 1209357525,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"80.02982,8.95884,80.02982,8.95884",
+    "geom:latitude":8.95884,
+    "geom:longitude":80.02982,
+    "gn:admin1_code":"38.0",
+    "gn:asciiname":"Neduvarampu",
+    "gn:country_code":"LK",
+    "gn:dem":7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1233388,
+    "gn:latitude":8.95884,
+    "gn:longitude":80.02982,
+    "gn:modification_date":"2012-12-26",
+    "gn:name":"Neduvarampu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632313
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1233388
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"57b7df5ab73a8d2adff6b75404ca42d1",
+    "wof:hierarchy":[
+        {
+            "country_id":85632313,
+            "locality_id":1209357525
+        }
+    ],
+    "wof:id":1209357525,
+    "wof:lastmodified":1536289541,
+    "wof:name":"Neduvarampu",
+    "wof:parent_id":85632313,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    80.02982,
+    8.958839999999997,
+    80.02982,
+    8.958839999999997
+],
+  "geometry": {"coordinates":[80.02982,8.95884],"type":"Point"}
+}

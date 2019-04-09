@@ -1,0 +1,71 @@
+{
+  "id": 1259931923,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"81.0317,8.6333,81.0317,8.6333",
+    "geom:latitude":8.6333,
+    "geom:longitude":81.0317,
+    "gn:admin1_code":"37.0",
+    "gn:asciiname":"Pankulam",
+    "gn:country_code":"LK",
+    "gn:dem":42,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1231182,
+    "gn:latitude":8.6333,
+    "gn:longitude":81.0317,
+    "gn:modification_date":"2012-04-05",
+    "gn:name":"Pankulam",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Panwewa",
+        "Pankulam"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632313,
+        85673747,
+        1092063515
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1231182
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"f98fd36f28f980e875a4695c7ef4722b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "county_id":1092063515,
+            "locality_id":1259931923,
+            "region_id":85673747
+        }
+    ],
+    "wof:id":1259931923,
+    "wof:lastmodified":1537661418,
+    "wof:name":"Pankulam",
+    "wof:parent_id":1092063515,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    81.0317,
+    8.6333,
+    81.0317,
+    8.6333
+],
+  "geometry": {"coordinates":[81.0317,8.6333],"type":"Point"}
+}

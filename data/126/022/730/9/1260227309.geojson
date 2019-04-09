@@ -1,0 +1,67 @@
+{
+  "id": 1260227309,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"80.3894,8.1661,80.3894,8.1661",
+    "geom:latitude":8.1661,
+    "geom:longitude":80.3894,
+    "gn:admin1_code":"30.0",
+    "gn:asciiname":"Sandaresgama",
+    "gn:country_code":"LK",
+    "gn:dem":118,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7539457,
+    "gn:latitude":8.1661,
+    "gn:longitude":80.3894,
+    "gn:modification_date":"2010-10-09",
+    "gn:name":"Sandaresgama",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632313,
+        85673751,
+        1092066395
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7539457
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"535a97e99cb119b9f0040f9161c7e99b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "county_id":1092066395,
+            "locality_id":1260227309,
+            "region_id":85673751
+        }
+    ],
+    "wof:id":1260227309,
+    "wof:lastmodified":1536788763,
+    "wof:name":"Sandaresgama",
+    "wof:parent_id":1092066395,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    80.3894,
+    8.1661,
+    80.3894,
+    8.1661
+],
+  "geometry": {"coordinates":[80.38939999999999,8.1661],"type":"Point"}
+}

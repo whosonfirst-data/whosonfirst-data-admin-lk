@@ -1,0 +1,67 @@
+{
+  "id": 1226182557,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"79.8738,7.2288,79.8738,7.2288",
+    "geom:latitude":7.2288,
+    "geom:longitude":79.8738,
+    "gn:admin1_code":"36.0",
+    "gn:asciiname":"Pothkadewatte Colony",
+    "gn:country_code":"LK",
+    "gn:dem":16,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7437820,
+    "gn:latitude":7.2288,
+    "gn:longitude":79.8738,
+    "gn:modification_date":"2010-08-07",
+    "gn:name":"Pothkadewatte Colony",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632313,
+        85673815,
+        1092060643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7437820
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"cc9f31f73a4fde2a80ba3227b9ddb321",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "county_id":1092060643,
+            "locality_id":1226182557,
+            "region_id":85673815
+        }
+    ],
+    "wof:id":1226182557,
+    "wof:lastmodified":1537023536,
+    "wof:name":"Pothkadewatte Colony",
+    "wof:parent_id":1092060643,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    79.8738,
+    7.2288,
+    79.8738,
+    7.2288
+],
+  "geometry": {"coordinates":[79.8738,7.2288],"type":"Point"}
+}

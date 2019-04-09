@@ -1,0 +1,67 @@
+{
+  "id": 1327088213,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"80.6226,6.2764,80.6226,6.2764",
+    "geom:latitude":6.2764,
+    "geom:longitude":80.6226,
+    "gn:admin1_code":"34.0",
+    "gn:asciiname":"Vileyaya",
+    "gn:country_code":"LK",
+    "gn:dem":324,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7624462,
+    "gn:latitude":6.2764,
+    "gn:longitude":80.6226,
+    "gn:modification_date":"2010-12-04",
+    "gn:name":"Vileyaya",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632313,
+        85673795,
+        1092065159
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7624462
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"5c9ebc0027fb3fb070128b7240a8c3f8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "county_id":1092065159,
+            "locality_id":1327088213,
+            "region_id":85673795
+        }
+    ],
+    "wof:id":1327088213,
+    "wof:lastmodified":1536680055,
+    "wof:name":"Vileyaya",
+    "wof:parent_id":1092065159,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    80.6226,
+    6.2764,
+    80.6226,
+    6.2764
+],
+  "geometry": {"coordinates":[80.62260000000001,6.2764],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 1226686583,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"80.03333,6.7,80.03333,6.7",
+    "geom:latitude":6.7,
+    "geom:longitude":80.03333,
+    "gn:admin1_code":"36.0",
+    "gn:asciiname":"Haltota",
+    "gn:country_code":"LK",
+    "gn:dem":18,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1244961,
+    "gn:latitude":6.7,
+    "gn:longitude":80.03333,
+    "gn:modification_date":"2013-04-03",
+    "gn:name":"Haltota",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632313,
+        85673819,
+        1092063295
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1244961,
+        "wk:page":"Haltota"
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"75984e56bcc649b347006321496fa846",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "county_id":1092063295,
+            "locality_id":1226686583,
+            "region_id":85673819
+        }
+    ],
+    "wof:id":1226686583,
+    "wof:lastmodified":1537568009,
+    "wof:name":"Haltota",
+    "wof:parent_id":1092063295,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    80.03333,
+    6.7,
+    80.03333,
+    6.7
+],
+  "geometry": {"coordinates":[80.03333000000001,6.7],"type":"Point"}
+}

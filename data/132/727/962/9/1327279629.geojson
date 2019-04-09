@@ -1,0 +1,67 @@
+{
+  "id": 1327279629,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"80.4322,7.5499,80.4322,7.5499",
+    "geom:latitude":7.5499,
+    "geom:longitude":80.4322,
+    "gn:admin1_code":"32.0",
+    "gn:asciiname":"Damunugolla",
+    "gn:country_code":"LK",
+    "gn:dem":123,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1248697,
+    "gn:latitude":7.5499,
+    "gn:longitude":80.4322,
+    "gn:modification_date":"1994-01-08",
+    "gn:name":"Damunugolla",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632313,
+        85673777,
+        1092059525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1248697
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"e84406dae3da914f7e5a8cf9e8975585",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "county_id":1092059525,
+            "locality_id":1327279629,
+            "region_id":85673777
+        }
+    ],
+    "wof:id":1327279629,
+    "wof:lastmodified":1536901567,
+    "wof:name":"Damunugolla",
+    "wof:parent_id":1092059525,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    80.4322,
+    7.5499,
+    80.4322,
+    7.5499
+],
+  "geometry": {"coordinates":[80.43219999999999,7.5499],"type":"Point"}
+}

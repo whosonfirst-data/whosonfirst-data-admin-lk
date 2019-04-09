@@ -1,0 +1,67 @@
+{
+  "id": 1310365995,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"80.681,8.6044,80.681,8.6044",
+    "geom:latitude":8.6044,
+    "geom:longitude":80.681,
+    "gn:admin1_code":"30.0",
+    "gn:asciiname":"Galkadawala",
+    "gn:country_code":"LK",
+    "gn:dem":114,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7440319,
+    "gn:latitude":8.6044,
+    "gn:longitude":80.681,
+    "gn:modification_date":"2010-08-07",
+    "gn:name":"Galkadawala",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632313,
+        85673751,
+        1092060761
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7440319
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"50a1f050ea1db10b214910e39a1f1834",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "county_id":1092060761,
+            "locality_id":1310365995,
+            "region_id":85673751
+        }
+    ],
+    "wof:id":1310365995,
+    "wof:lastmodified":1536618736,
+    "wof:name":"Galkadawala",
+    "wof:parent_id":1092060761,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    80.681,
+    8.6044,
+    80.681,
+    8.6044
+],
+  "geometry": {"coordinates":[80.681,8.6044],"type":"Point"}
+}

@@ -1,0 +1,61 @@
+{
+  "id": 1209060433,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"80.7187,6.4572,80.7187,6.4572",
+    "geom:latitude":6.4572,
+    "geom:longitude":80.7187,
+    "gn:admin1_code":"33.0",
+    "gn:asciiname":"Pallekanda",
+    "gn:country_code":"LK",
+    "gn:dem":376,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7557516,
+    "gn:latitude":6.4572,
+    "gn:longitude":80.7187,
+    "gn:modification_date":"2010-10-09",
+    "gn:name":"Pallekanda",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632313
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7557516
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"ef12ce994fb2565ef2d84e3b54d6d9ce",
+    "wof:hierarchy":[
+        {
+            "country_id":85632313,
+            "locality_id":1209060433
+        }
+    ],
+    "wof:id":1209060433,
+    "wof:lastmodified":1536298972,
+    "wof:name":"Pallekanda",
+    "wof:parent_id":85632313,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    80.7187,
+    6.4572,
+    80.7187,
+    6.4572
+],
+  "geometry": {"coordinates":[80.7187,6.4572],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1209755893,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"80.063,6.6893,80.063,6.6893",
+    "geom:latitude":6.6893,
+    "geom:longitude":80.063,
+    "gn:admin1_code":"36.0",
+    "gn:asciiname":"Kirideniya",
+    "gn:country_code":"LK",
+    "gn:dem":18,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7436867,
+    "gn:latitude":6.6893,
+    "gn:longitude":80.063,
+    "gn:modification_date":"2010-08-07",
+    "gn:name":"Kirideniya",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632313,
+        85673819,
+        1092062035
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7436867
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"7ca393f090491b582953cc8823447b94",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "county_id":1092062035,
+            "locality_id":1209755893,
+            "region_id":85673819
+        }
+    ],
+    "wof:id":1209755893,
+    "wof:lastmodified":1536390681,
+    "wof:name":"Kirideniya",
+    "wof:parent_id":1092062035,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    80.063,
+    6.6893,
+    80.063,
+    6.6893
+],
+  "geometry": {"coordinates":[80.063,6.6893],"type":"Point"}
+}

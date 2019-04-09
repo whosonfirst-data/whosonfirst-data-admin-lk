@@ -1,0 +1,70 @@
+{
+  "id": 1243223367,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"80.1507,8.1499,80.1507,8.1499",
+    "geom:latitude":8.1499,
+    "geom:longitude":80.1507,
+    "gn:admin1_code":"32.0",
+    "gn:asciiname":"Tract Three",
+    "gn:country_code":"LK",
+    "gn:dem":65,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7539481,
+    "gn:latitude":8.1499,
+    "gn:longitude":80.1507,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Tract Three",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tract 3"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632313,
+        85673777,
+        1092058781
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7539481
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"16224217f5a44069196e16562bc073dc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "county_id":1092058781,
+            "locality_id":1243223367,
+            "region_id":85673777
+        }
+    ],
+    "wof:id":1243223367,
+    "wof:lastmodified":1537661609,
+    "wof:name":"Tract Three",
+    "wof:parent_id":1092058781,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    80.1507,
+    8.1499,
+    80.1507,
+    8.1499
+],
+  "geometry": {"coordinates":[80.1507,8.1499],"type":"Point"}
+}

@@ -1,0 +1,91 @@
+{
+  "id": 421203543,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"80.5352,7.2825,80.5352,7.2825",
+    "geom:latitude":7.2825,
+    "geom:longitude":80.5352,
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:bul_x_preferred":[
+        "\u0414\u0430\u043d\u0442\u0443\u0440\u0435"
+    ],
+    "name:dut_x_preferred":[
+        "Danture"
+    ],
+    "name:eng_x_preferred":[
+        "Danture"
+    ],
+    "name:swe_x_preferred":[
+        "Danture"
+    ],
+    "qs:gn_country":"LK",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":1248600,
+    "qs:gn_pop":0,
+    "qs:name":"Danture",
+    "qs:name_adm0":"Sri Lanka",
+    "qs:name_adm1":"Central",
+    "qs:photos":14,
+    "qs:photos_1k":3,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":14,
+    "qs:photos_sr":1,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":233049,
+    "qs:woe_adm0":23424778,
+    "qs:woe_id":2175201,
+    "src:geom":"quattroshapes",
+    "wd:wordcount":45,
+    "wof:belongsto":[
+        102191569,
+        85632313,
+        85673719,
+        1092068267
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1248600,
+        "gp:id":2175201,
+        "qs:id":233049,
+        "wd:id":"Q5221246",
+        "wk:page":"Danture"
+    },
+    "wof:country":"LK",
+    "wof:created":1459010155,
+    "wof:geomhash":"a3c09a692e788339ba5ab61ccaf4c687",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "county_id":1092068267,
+            "locality_id":421203543,
+            "region_id":85673719
+        }
+    ],
+    "wof:id":421203543,
+    "wof:lastmodified":1527716195,
+    "wof:name":"Danture",
+    "wof:parent_id":1092068267,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    80.5352,
+    7.2825,
+    80.5352,
+    7.2825
+],
+  "geometry": {"coordinates":[80.5352,7.2825],"type":"Point"}
+}

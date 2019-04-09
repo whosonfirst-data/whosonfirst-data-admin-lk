@@ -1,0 +1,72 @@
+{
+  "id": 1309865403,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"80.18333,7.81667,80.18333,7.81667",
+    "geom:latitude":7.81667,
+    "geom:longitude":80.18333,
+    "gn:admin1_code":"32.0",
+    "gn:asciiname":"Itewa",
+    "gn:cc2":"LK",
+    "gn:country_code":"LK",
+    "gn:dem":92,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1242889,
+    "gn:latitude":7.81667,
+    "gn:longitude":80.18333,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Itewa",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ithewa",
+        "Itewa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632313,
+        85673777,
+        1092061409
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1242889
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"f44c4b3b4789beb1f0638b3a806a5d09",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "county_id":1092061409,
+            "locality_id":1309865403,
+            "region_id":85673777
+        }
+    ],
+    "wof:id":1309865403,
+    "wof:lastmodified":1537661525,
+    "wof:name":"Itewa",
+    "wof:parent_id":1092061409,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    80.18333,
+    7.81667,
+    80.18333,
+    7.81667
+],
+  "geometry": {"coordinates":[80.18333,7.81667],"type":"Point"}
+}

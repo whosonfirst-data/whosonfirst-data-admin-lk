@@ -1,0 +1,70 @@
+{
+  "id": 1293050251,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"80.3794,7.4392,80.3794,7.4392",
+    "geom:latitude":7.4392,
+    "geom:longitude":80.3794,
+    "gn:admin1_code":"32.0",
+    "gn:asciiname":"Konpola",
+    "gn:country_code":"LK",
+    "gn:dem":158,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1239548,
+    "gn:latitude":7.4392,
+    "gn:longitude":80.3794,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Konpola",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kompola"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632313,
+        85673777,
+        1092062437
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1239548
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"578f08daa5bab2738c6b567d72fde6f4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "county_id":1092062437,
+            "locality_id":1293050251,
+            "region_id":85673777
+        }
+    ],
+    "wof:id":1293050251,
+    "wof:lastmodified":1537661496,
+    "wof:name":"Konpola",
+    "wof:parent_id":1092062437,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    80.3794,
+    7.4392,
+    80.3794,
+    7.4392
+],
+  "geometry": {"coordinates":[80.3794,7.4392],"type":"Point"}
+}

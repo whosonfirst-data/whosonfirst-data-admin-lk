@@ -1,0 +1,67 @@
+{
+  "id": 1226289139,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"80.36667,8.16667,80.36667,8.16667",
+    "geom:latitude":8.16667,
+    "geom:longitude":80.36667,
+    "gn:admin1_code":"30.0",
+    "gn:asciiname":"Migahagama",
+    "gn:country_code":"LK",
+    "gn:dem":107,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1235182,
+    "gn:latitude":8.16667,
+    "gn:longitude":80.36667,
+    "gn:modification_date":"1994-01-08",
+    "gn:name":"Migahagama",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632313,
+        85673751,
+        1092066395
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1235182
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"4bc5a36b86845e6fd421b4ba128c6846",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "county_id":1092066395,
+            "locality_id":1226289139,
+            "region_id":85673751
+        }
+    ],
+    "wof:id":1226289139,
+    "wof:lastmodified":1536870081,
+    "wof:name":"Migahagama",
+    "wof:parent_id":1092066395,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    80.36667,
+    8.16667,
+    80.36667,
+    8.16667
+],
+  "geometry": {"coordinates":[80.36667,8.16667],"type":"Point"}
+}

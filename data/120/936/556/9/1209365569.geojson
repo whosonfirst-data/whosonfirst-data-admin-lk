@@ -1,0 +1,62 @@
+{
+  "id": 1209365569,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"80.601,7.6521,80.601,7.6521",
+    "geom:latitude":7.6521,
+    "geom:longitude":80.601,
+    "gn:admin1_code":"29.0",
+    "gn:asciiname":"Yamanmulla",
+    "gn:country_code":"LK",
+    "gn:dem":404,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1222903,
+    "gn:latitude":7.6521,
+    "gn:longitude":80.601,
+    "gn:modification_date":"2012-05-05",
+    "gn:name":"Yamanmulla",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632313
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1222903,
+        "wk:page":"Yamanmulla"
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"3bd388cf13dd6c68e7caa6f3e0635759",
+    "wof:hierarchy":[
+        {
+            "country_id":85632313,
+            "locality_id":1209365569
+        }
+    ],
+    "wof:id":1209365569,
+    "wof:lastmodified":1537567958,
+    "wof:name":"Yamanmulla",
+    "wof:parent_id":85632313,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    80.601,
+    7.6521,
+    80.601,
+    7.6521
+],
+  "geometry": {"coordinates":[80.601,7.6521],"type":"Point"}
+}

@@ -1,0 +1,66 @@
+{
+  "id": 1310619827,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"81.51761,6.36747,81.51761,6.36747",
+    "geom:latitude":6.36747,
+    "geom:longitude":81.51761,
+    "gn:asciiname":"Yala",
+    "gn:country_code":"LK",
+    "gn:dem":6,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8692897,
+    "gn:latitude":6.36747,
+    "gn:longitude":81.51761,
+    "gn:modification_date":"2014-01-21",
+    "gn:name":"Yala",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632313,
+        85673791,
+        1092066869
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8692897
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"bc622a904a26f8fd5f5082d9adfd4855",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "county_id":1092066869,
+            "locality_id":1310619827,
+            "region_id":85673791
+        }
+    ],
+    "wof:id":1310619827,
+    "wof:lastmodified":1536751965,
+    "wof:name":"Yala",
+    "wof:parent_id":1092066869,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    81.51760999999998,
+    6.36747,
+    81.51760999999998,
+    6.36747
+],
+  "geometry": {"coordinates":[81.51760999999998,6.36747],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1259442559,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"80.0082,7.8685,80.0082,7.8685",
+    "geom:latitude":7.8685,
+    "geom:longitude":80.0082,
+    "gn:admin1_code":"32.0",
+    "gn:asciiname":"Bemma",
+    "gn:country_code":"LK",
+    "gn:dem":71,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1249999,
+    "gn:latitude":7.8685,
+    "gn:longitude":80.0082,
+    "gn:modification_date":"1994-01-08",
+    "gn:name":"Bemma",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632313,
+        85673779,
+        1092056611
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1249999
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"7ab217e07d0e19fec0a60fd97d244ac9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "county_id":1092056611,
+            "locality_id":1259442559,
+            "region_id":85673779
+        }
+    ],
+    "wof:id":1259442559,
+    "wof:lastmodified":1536918350,
+    "wof:name":"Bemma",
+    "wof:parent_id":1092056611,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    80.0082,
+    7.8685,
+    80.0082,
+    7.8685
+],
+  "geometry": {"coordinates":[80.0082,7.8685],"type":"Point"}
+}

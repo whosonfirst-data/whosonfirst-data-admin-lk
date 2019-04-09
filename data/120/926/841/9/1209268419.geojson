@@ -1,0 +1,61 @@
+{
+  "id": 1209268419,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"80.2092,6.3412,80.2092,6.3412",
+    "geom:latitude":6.3412,
+    "geom:longitude":80.2092,
+    "gn:admin1_code":"34.0",
+    "gn:asciiname":"Himbutugoda",
+    "gn:country_code":"LK",
+    "gn:dem":20,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1244158,
+    "gn:latitude":6.3412,
+    "gn:longitude":80.2092,
+    "gn:modification_date":"1994-01-08",
+    "gn:name":"Himbutugoda",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632313
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1244158
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"b674ddb4b4a23790af8ea5dad8bea4c4",
+    "wof:hierarchy":[
+        {
+            "country_id":85632313,
+            "locality_id":1209268419
+        }
+    ],
+    "wof:id":1209268419,
+    "wof:lastmodified":1536292445,
+    "wof:name":"Himbutugoda",
+    "wof:parent_id":85632313,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    80.2092,
+    6.3412,
+    80.2092,
+    6.3412
+],
+  "geometry": {"coordinates":[80.2092,6.3412],"type":"Point"}
+}

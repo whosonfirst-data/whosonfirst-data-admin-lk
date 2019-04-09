@@ -1,0 +1,64 @@
+{
+  "id": 1209364961,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"80.5922,8.4029,80.5922,8.4029",
+    "geom:latitude":8.4029,
+    "geom:longitude":80.5922,
+    "gn:admin1_code":"30.0",
+    "gn:asciiname":"Dunwattegama",
+    "gn:country_code":"LK",
+    "gn:dem":105,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1247459,
+    "gn:latitude":8.4029,
+    "gn:longitude":80.5922,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Dunwattegama",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Dunuwattegama"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632313
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1247459
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"2e3b601dc39f7c2fbf511dc16a37bb85",
+    "wof:hierarchy":[
+        {
+            "country_id":85632313,
+            "locality_id":1209364961
+        }
+    ],
+    "wof:id":1209364961,
+    "wof:lastmodified":1537661566,
+    "wof:name":"Dunwattegama",
+    "wof:parent_id":85632313,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    80.5922,
+    8.4029,
+    80.5922,
+    8.4029
+],
+  "geometry": {"coordinates":[80.59220000000001,8.4029],"type":"Point"}
+}

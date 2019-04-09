@@ -1,0 +1,67 @@
+{
+  "id": 1243604245,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"80.8,8.5,80.8,8.5",
+    "geom:latitude":8.5,
+    "geom:longitude":80.8,
+    "gn:admin1_code":"30.0",
+    "gn:asciiname":"Wilewewa",
+    "gn:country_code":"LK",
+    "gn:dem":84,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1223176,
+    "gn:latitude":8.5,
+    "gn:longitude":80.8,
+    "gn:modification_date":"1994-01-08",
+    "gn:name":"Wilewewa",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632313,
+        85673751,
+        1092059481
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1223176
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"35b68ffdbff56e7e96dfc5873e715a44",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "county_id":1092059481,
+            "locality_id":1243604245,
+            "region_id":85673751
+        }
+    ],
+    "wof:id":1243604245,
+    "wof:lastmodified":1537072097,
+    "wof:name":"Wilewewa",
+    "wof:parent_id":1092059481,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    80.8,
+    8.5,
+    80.8,
+    8.5
+],
+  "geometry": {"coordinates":[80.8,8.5],"type":"Point"}
+}

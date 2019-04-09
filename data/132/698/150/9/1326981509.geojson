@@ -1,0 +1,71 @@
+{
+  "id": 1326981509,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"80.07656,8.81146,80.07656,8.81146",
+    "geom:latitude":8.81146,
+    "geom:longitude":80.07656,
+    "gn:admin1_code":"38.0",
+    "gn:admin2_code":"1236148.0",
+    "gn:asciiname":"Isaimalaithalvu",
+    "gn:country_code":"LK",
+    "gn:dem":21,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1242908,
+    "gn:latitude":8.81146,
+    "gn:longitude":80.07656,
+    "gn:modification_date":"2012-12-24",
+    "gn:name":"Isaimalaithalvu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tam_x_preferred":[
+        "\u0b87\u0b9a\u0bc8\u0bae\u0bb2\u0bc8\u0ba4\u0bcd\u0ba4\u0bbe\u0bb4\u0bcd\u0bb5\u0bc1"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632313,
+        85673761,
+        1092063841
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1242908
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"657802dfce7a6fe31dcafd529173ea30",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "county_id":1092063841,
+            "locality_id":1326981509,
+            "region_id":85673761
+        }
+    ],
+    "wof:id":1326981509,
+    "wof:lastmodified":1537551648,
+    "wof:name":"Isaimalaithalvu",
+    "wof:parent_id":1092063841,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    80.07656,
+    8.81146,
+    80.07656,
+    8.81146
+],
+  "geometry": {"coordinates":[80.07656,8.81146],"type":"Point"}
+}

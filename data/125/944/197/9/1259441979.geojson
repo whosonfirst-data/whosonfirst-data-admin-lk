@@ -1,0 +1,67 @@
+{
+  "id": 1259441979,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"80.8487,6.3287,80.8487,6.3287",
+    "geom:latitude":6.3287,
+    "geom:longitude":80.8487,
+    "gn:admin1_code":"33.0",
+    "gn:asciiname":"Pallegama",
+    "gn:country_code":"LK",
+    "gn:dem":88,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1231778,
+    "gn:latitude":6.3287,
+    "gn:longitude":80.8487,
+    "gn:modification_date":"1998-03-24",
+    "gn:name":"Pallegama",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632313,
+        85673785,
+        1092058347
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1231778
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"961c14a3e0c51235d11311b86fa66c2c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "county_id":1092058347,
+            "locality_id":1259441979,
+            "region_id":85673785
+        }
+    ],
+    "wof:id":1259441979,
+    "wof:lastmodified":1536919222,
+    "wof:name":"Pallegama",
+    "wof:parent_id":1092058347,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    80.8487,
+    6.3287,
+    80.8487,
+    6.3287
+],
+  "geometry": {"coordinates":[80.84869999999999,6.3287],"type":"Point"}
+}

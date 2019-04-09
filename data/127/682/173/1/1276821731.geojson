@@ -1,0 +1,67 @@
+{
+  "id": 1276821731,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"79.91667,6.9,79.91667,6.9",
+    "geom:latitude":6.9,
+    "geom:longitude":79.91667,
+    "gn:admin1_code":"36.0",
+    "gn:asciiname":"Kotuwegoda",
+    "gn:country_code":"LK",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1238964,
+    "gn:latitude":6.9,
+    "gn:longitude":79.91667,
+    "gn:modification_date":"1994-01-08",
+    "gn:name":"Kotuwegoda",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632313,
+        85673811,
+        1092059875
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1238964
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"4a1984dd500911919e774aaf0ee3e1de",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "county_id":1092059875,
+            "locality_id":1276821731,
+            "region_id":85673811
+        }
+    ],
+    "wof:id":1276821731,
+    "wof:lastmodified":1536619492,
+    "wof:name":"Kotuwegoda",
+    "wof:parent_id":1092059875,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    79.91667,
+    6.9,
+    79.91667,
+    6.9
+],
+  "geometry": {"coordinates":[79.91667,6.9],"type":"Point"}
+}

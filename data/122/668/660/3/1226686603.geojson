@@ -1,0 +1,68 @@
+{
+  "id": 1226686603,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"79.9642,6.8116,79.9642,6.8116",
+    "geom:latitude":6.8116,
+    "geom:longitude":79.9642,
+    "gn:admin1_code":"36.0",
+    "gn:asciiname":"Mattegoda",
+    "gn:country_code":"LK",
+    "gn:dem":31,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1235813,
+    "gn:latitude":6.8116,
+    "gn:longitude":79.9642,
+    "gn:modification_date":"2013-04-03",
+    "gn:name":"Mattegoda",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632313,
+        85673811,
+        1092059399
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1235813,
+        "wk:page":"Mattegoda"
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"ddb05a22998c8e49dcfdbb10eaa7def6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "county_id":1092059399,
+            "locality_id":1226686603,
+            "region_id":85673811
+        }
+    ],
+    "wof:id":1226686603,
+    "wof:lastmodified":1537567990,
+    "wof:name":"Mattegoda",
+    "wof:parent_id":1092059399,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    79.9642,
+    6.8116,
+    79.9642,
+    6.8116
+],
+  "geometry": {"coordinates":[79.96420000000001,6.8116],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1259924723,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"81.0081,7.1262,81.0081,7.1262",
+    "geom:latitude":7.1262,
+    "geom:longitude":81.0081,
+    "gn:admin1_code":"35.0",
+    "gn:asciiname":"Alietagoda",
+    "gn:country_code":"LK",
+    "gn:dem":266,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7474754,
+    "gn:latitude":7.1262,
+    "gn:longitude":81.0081,
+    "gn:modification_date":"2010-08-08",
+    "gn:name":"Alietagoda",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632313,
+        85673801,
+        1092060319
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7474754
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"50288a6932d898206ca7bf64c6896225",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "county_id":1092060319,
+            "locality_id":1259924723,
+            "region_id":85673801
+        }
+    ],
+    "wof:id":1259924723,
+    "wof:lastmodified":1536720189,
+    "wof:name":"Alietagoda",
+    "wof:parent_id":1092060319,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    81.0081,
+    7.1262,
+    81.0081,
+    7.1262
+],
+  "geometry": {"coordinates":[81.0081,7.1262],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1276920659,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"80.96667,6.96667,80.96667,6.96667",
+    "geom:latitude":6.96667,
+    "geom:longitude":80.96667,
+    "gn:admin1_code":"35.0",
+    "gn:asciiname":"Asweddumwelagama",
+    "gn:cc2":"LK",
+    "gn:country_code":"LK",
+    "gn:dem":813,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1250875,
+    "gn:latitude":6.96667,
+    "gn:longitude":80.96667,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Asweddumwelagama",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Asweddummulla",
+        "Asweddumwelagama"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632313,
+        85673801,
+        1092067051
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1250875
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"96160e0d591c0abd44a8838433501fae",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "county_id":1092067051,
+            "locality_id":1276920659,
+            "region_id":85673801
+        }
+    ],
+    "wof:id":1276920659,
+    "wof:lastmodified":1537661595,
+    "wof:name":"Asweddumwelagama",
+    "wof:parent_id":1092067051,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    80.96667,
+    6.96667,
+    80.96667,
+    6.96667
+],
+  "geometry": {"coordinates":[80.96666999999999,6.96667],"type":"Point"}
+}

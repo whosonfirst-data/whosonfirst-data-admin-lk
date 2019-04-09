@@ -1,0 +1,67 @@
+{
+  "id": 1242826111,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"81.63333,7.45,81.63333,7.45",
+    "geom:latitude":7.45,
+    "geom:longitude":81.63333,
+    "gn:admin1_code":"37.0",
+    "gn:asciiname":"Gonagolla",
+    "gn:country_code":"LK",
+    "gn:dem":31,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1245433,
+    "gn:latitude":7.45,
+    "gn:longitude":81.63333,
+    "gn:modification_date":"2012-04-05",
+    "gn:name":"Gonagolla",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632313,
+        85673733,
+        1092066997
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1245433
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"d50b610f650c594b1876437c02f6dbf4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "county_id":1092066997,
+            "locality_id":1242826111,
+            "region_id":85673733
+        }
+    ],
+    "wof:id":1242826111,
+    "wof:lastmodified":1536706137,
+    "wof:name":"Gonagolla",
+    "wof:parent_id":1092066997,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    81.63333,
+    7.45,
+    81.63333,
+    7.45
+],
+  "geometry": {"coordinates":[81.63333,7.45],"type":"Point"}
+}

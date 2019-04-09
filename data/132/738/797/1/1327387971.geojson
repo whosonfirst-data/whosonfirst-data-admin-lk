@@ -1,0 +1,67 @@
+{
+  "id": 1327387971,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"81.41667,6.4,81.41667,6.4",
+    "geom:latitude":6.4,
+    "geom:longitude":81.41667,
+    "gn:admin1_code":"34.0",
+    "gn:asciiname":"Katagamuwa",
+    "gn:country_code":"LK",
+    "gn:dem":28,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1241097,
+    "gn:latitude":6.4,
+    "gn:longitude":81.41667,
+    "gn:modification_date":"1994-01-08",
+    "gn:name":"Katagamuwa",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632313,
+        85673791,
+        1092066869
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1241097
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"fad5dc21666ca77f5309c79a7ce4bd08",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "county_id":1092066869,
+            "locality_id":1327387971,
+            "region_id":85673791
+        }
+    ],
+    "wof:id":1327387971,
+    "wof:lastmodified":1536744743,
+    "wof:name":"Katagamuwa",
+    "wof:parent_id":1092066869,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    81.41667,
+    6.4,
+    81.41667,
+    6.4
+],
+  "geometry": {"coordinates":[81.41667,6.4],"type":"Point"}
+}

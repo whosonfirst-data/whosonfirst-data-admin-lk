@@ -1,0 +1,67 @@
+{
+  "id": 1343612977,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"79.9882,9.7791,79.9882,9.7791",
+    "geom:latitude":9.7791,
+    "geom:longitude":79.9882,
+    "gn:admin1_code":"38.0",
+    "gn:asciiname":"Periyavilan",
+    "gn:country_code":"LK",
+    "gn:dem":12,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1230387,
+    "gn:latitude":9.7791,
+    "gn:longitude":79.9882,
+    "gn:modification_date":"2012-04-05",
+    "gn:name":"Periyavilan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632313,
+        85673769,
+        1092067213
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1230387
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"b3fb7cc58076a1e45c3e775c27681ed4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "county_id":1092067213,
+            "locality_id":1343612977,
+            "region_id":85673769
+        }
+    ],
+    "wof:id":1343612977,
+    "wof:lastmodified":1537022632,
+    "wof:name":"Periyavilan",
+    "wof:parent_id":1092067213,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    79.9882,
+    9.7791,
+    79.9882,
+    9.7791
+],
+  "geometry": {"coordinates":[79.98820000000001,9.7791],"type":"Point"}
+}

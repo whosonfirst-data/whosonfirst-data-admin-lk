@@ -1,0 +1,67 @@
+{
+  "id": 1276490361,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"81.4068,7.0862,81.4068,7.0862",
+    "geom:latitude":7.0862,
+    "geom:longitude":81.4068,
+    "gn:admin1_code":"35.0",
+    "gn:asciiname":"Nagolla",
+    "gn:country_code":"LK",
+    "gn:dem":116,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7441178,
+    "gn:latitude":7.0862,
+    "gn:longitude":81.4068,
+    "gn:modification_date":"2010-08-07",
+    "gn:name":"Nagolla",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632313,
+        85673803,
+        1092062005
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7441178
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"3baca0a5df098c09e03972641d4f5341",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "county_id":1092062005,
+            "locality_id":1276490361,
+            "region_id":85673803
+        }
+    ],
+    "wof:id":1276490361,
+    "wof:lastmodified":1537062811,
+    "wof:name":"Nagolla",
+    "wof:parent_id":1092062005,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    81.4068,
+    7.0862,
+    81.4068,
+    7.0862
+],
+  "geometry": {"coordinates":[81.4068,7.0862],"type":"Point"}
+}

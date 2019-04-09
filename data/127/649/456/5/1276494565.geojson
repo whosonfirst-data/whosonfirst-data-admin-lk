@@ -1,0 +1,67 @@
+{
+  "id": 1276494565,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"80.451,6.5844,80.451,6.5844",
+    "geom:latitude":6.5844,
+    "geom:longitude":80.451,
+    "gn:admin1_code":"33.0",
+    "gn:asciiname":"Sidurupitiya",
+    "gn:country_code":"LK",
+    "gn:dem":70,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7546697,
+    "gn:latitude":6.5844,
+    "gn:longitude":80.451,
+    "gn:modification_date":"2010-10-09",
+    "gn:name":"Sidurupitiya",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632313,
+        85673785,
+        1092064197
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7546697
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"b0e5a877f941fe7f99e4d8d5dcb46a1c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "county_id":1092064197,
+            "locality_id":1276494565,
+            "region_id":85673785
+        }
+    ],
+    "wof:id":1276494565,
+    "wof:lastmodified":1537057552,
+    "wof:name":"Sidurupitiya",
+    "wof:parent_id":1092064197,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    80.45100000000002,
+    6.5844,
+    80.45100000000002,
+    6.5844
+],
+  "geometry": {"coordinates":[80.45100000000002,6.5844],"type":"Point"}
+}

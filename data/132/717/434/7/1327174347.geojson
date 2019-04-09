@@ -1,0 +1,67 @@
+{
+  "id": 1327174347,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"79.9002,7.1613,79.9002,7.1613",
+    "geom:latitude":7.1613,
+    "geom:longitude":79.9002,
+    "gn:admin1_code":"36.0",
+    "gn:asciiname":"Walanegoda",
+    "gn:country_code":"LK",
+    "gn:dem":5,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1224493,
+    "gn:latitude":7.1613,
+    "gn:longitude":79.9002,
+    "gn:modification_date":"1994-01-08",
+    "gn:name":"Walanegoda",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632313,
+        85673815,
+        1092060643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1224493
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"ce592d8880e53680e835eba342f40509",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "county_id":1092060643,
+            "locality_id":1327174347,
+            "region_id":85673815
+        }
+    ],
+    "wof:id":1327174347,
+    "wof:lastmodified":1537051235,
+    "wof:name":"Walanegoda",
+    "wof:parent_id":1092060643,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    79.9002,
+    7.1613,
+    79.9002,
+    7.1613
+],
+  "geometry": {"coordinates":[79.9002,7.1613],"type":"Point"}
+}

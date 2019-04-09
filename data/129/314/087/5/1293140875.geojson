@@ -1,0 +1,67 @@
+{
+  "id": 1293140875,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"79.9762,7.0426,79.9762,7.0426",
+    "geom:latitude":7.0426,
+    "geom:longitude":79.9762,
+    "gn:admin1_code":"36.0",
+    "gn:asciiname":"Amunugoda",
+    "gn:country_code":"LK",
+    "gn:dem":33,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1251409,
+    "gn:latitude":7.0426,
+    "gn:longitude":79.9762,
+    "gn:modification_date":"1994-01-08",
+    "gn:name":"Amunugoda",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632313,
+        85673815,
+        1092058643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1251409
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"56085cad7491ce8a7c2545e1e3d95cb5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "county_id":1092058643,
+            "locality_id":1293140875,
+            "region_id":85673815
+        }
+    ],
+    "wof:id":1293140875,
+    "wof:lastmodified":1536790178,
+    "wof:name":"Amunugoda",
+    "wof:parent_id":1092058643,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    79.9762,
+    7.0426,
+    79.9762,
+    7.0426
+],
+  "geometry": {"coordinates":[79.97620000000001,7.0426],"type":"Point"}
+}

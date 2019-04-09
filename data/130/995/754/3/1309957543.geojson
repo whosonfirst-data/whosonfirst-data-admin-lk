@@ -1,0 +1,72 @@
+{
+  "id": 1309957543,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"81.8514,7.1326,81.8514,7.1326",
+    "geom:latitude":7.1326,
+    "geom:longitude":81.8514,
+    "gn:admin1_code":"37.0",
+    "gn:asciiname":"Tambiluvil",
+    "gn:country_code":"LK",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1227140,
+    "gn:latitude":7.1326,
+    "gn:longitude":81.8514,
+    "gn:modification_date":"2012-04-05",
+    "gn:name":"Tambiluvil",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Thambiluvil",
+        "Tambiluvil"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632313,
+        85673733,
+        1092066773
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1227140,
+        "wk:page":"Thambiluvil"
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"647f32eeb06e8b5c8471aa68c89bd225",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "county_id":1092066773,
+            "locality_id":1309957543,
+            "region_id":85673733
+        }
+    ],
+    "wof:id":1309957543,
+    "wof:lastmodified":1537661380,
+    "wof:name":"Tambiluvil",
+    "wof:parent_id":1092066773,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    81.8514,
+    7.1326,
+    81.8514,
+    7.1326
+],
+  "geometry": {"coordinates":[81.8514,7.1326],"type":"Point"}
+}

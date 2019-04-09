@@ -1,0 +1,73 @@
+{
+  "id": 1343908675,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"80.9179,7.1181,80.9179,7.1181",
+    "geom:latitude":7.1181,
+    "geom:longitude":80.9179,
+    "gn:admin1_code":"29.0",
+    "gn:asciiname":"Theripehe",
+    "gn:country_code":"LK",
+    "gn:dem":832,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1226778,
+    "gn:latitude":7.1181,
+    "gn:longitude":80.9179,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Theripehe",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Teripaha",
+        "Teripehagama",
+        "Theripehe",
+        "Teripeha"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632313,
+        85673731,
+        1092067535
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1226778
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"d2f7916f004334b2c0bb7a14a93348ee",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "county_id":1092067535,
+            "locality_id":1343908675,
+            "region_id":85673731
+        }
+    ],
+    "wof:id":1343908675,
+    "wof:lastmodified":1537661373,
+    "wof:name":"Theripehe",
+    "wof:parent_id":1092067535,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    80.9179,
+    7.1181,
+    80.9179,
+    7.1181
+],
+  "geometry": {"coordinates":[80.9179,7.1181],"type":"Point"}
+}

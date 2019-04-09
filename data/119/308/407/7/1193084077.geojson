@@ -1,0 +1,67 @@
+{
+  "id": 1193084077,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"80.8616,7.0785,80.8616,7.0785",
+    "geom:latitude":7.0785,
+    "geom:longitude":80.8616,
+    "gn:admin1_code":"29.0",
+    "gn:asciiname":"Egodakanda",
+    "gn:country_code":"LK",
+    "gn:dem":1300,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1247358,
+    "gn:latitude":7.0785,
+    "gn:longitude":80.8616,
+    "gn:modification_date":"1994-01-08",
+    "gn:name":"Egodakanda",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632313,
+        85673731,
+        1092067535
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1247358
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"c5a1d9ddf027982d81ec356aee354d74",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "county_id":1092067535,
+            "locality_id":1193084077,
+            "region_id":85673731
+        }
+    ],
+    "wof:id":1193084077,
+    "wof:lastmodified":1536377638,
+    "wof:name":"Egodakanda",
+    "wof:parent_id":1092067535,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    80.8616,
+    7.0785,
+    80.8616,
+    7.0785
+],
+  "geometry": {"coordinates":[80.8616,7.0785],"type":"Point"}
+}

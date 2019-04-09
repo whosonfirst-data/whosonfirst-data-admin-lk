@@ -1,0 +1,67 @@
+{
+  "id": 1226102641,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"80.41667,8.06667,80.41667,8.06667",
+    "geom:latitude":8.06667,
+    "geom:longitude":80.41667,
+    "gn:admin1_code":"30.0",
+    "gn:asciiname":"Ihala Kalankuttiya",
+    "gn:country_code":"LK",
+    "gn:dem":114,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1243492,
+    "gn:latitude":8.06667,
+    "gn:longitude":80.41667,
+    "gn:modification_date":"1994-01-08",
+    "gn:name":"Ihala Kalankuttiya",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632313,
+        85673751,
+        1092058635
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1243492
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"4fc9b8a24c61bfb0440923a071ff8680",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "county_id":1092058635,
+            "locality_id":1226102641,
+            "region_id":85673751
+        }
+    ],
+    "wof:id":1226102641,
+    "wof:lastmodified":1536642348,
+    "wof:name":"Ihala Kalankuttiya",
+    "wof:parent_id":1092058635,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    80.41667,
+    8.06667,
+    80.41667,
+    8.06667
+],
+  "geometry": {"coordinates":[80.41667,8.06667],"type":"Point"}
+}

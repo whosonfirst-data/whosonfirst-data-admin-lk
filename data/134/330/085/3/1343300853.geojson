@@ -1,0 +1,67 @@
+{
+  "id": 1343300853,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"81.055,8.4538,81.055,8.4538",
+    "geom:latitude":8.4538,
+    "geom:longitude":81.055,
+    "gn:admin1_code":"37.0",
+    "gn:asciiname":"Kayanwadia",
+    "gn:country_code":"LK",
+    "gn:dem":66,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7441923,
+    "gn:latitude":8.4538,
+    "gn:longitude":81.055,
+    "gn:modification_date":"2012-04-06",
+    "gn:name":"Kayanwadia",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632313,
+        85673747,
+        1092066463
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7441923
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"ca74bcd7f8be4c5abf9ab6880282266a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "county_id":1092066463,
+            "locality_id":1343300853,
+            "region_id":85673747
+        }
+    ],
+    "wof:id":1343300853,
+    "wof:lastmodified":1536976026,
+    "wof:name":"Kayanwadia",
+    "wof:parent_id":1092066463,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    81.055,
+    8.4538,
+    81.055,
+    8.4538
+],
+  "geometry": {"coordinates":[81.05500000000001,8.4538],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1310054893,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"80.5471,7.5013,80.5471,7.5013",
+    "geom:latitude":7.5013,
+    "geom:longitude":80.5471,
+    "gn:admin1_code":"32.0",
+    "gn:asciiname":"Siyambalaella",
+    "gn:country_code":"LK",
+    "gn:dem":196,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1227828,
+    "gn:latitude":7.5013,
+    "gn:longitude":80.5471,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Siyambalaella",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Siyambalella",
+        "Siyambalaella"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632313,
+        85673777,
+        1092065951
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1227828
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"4447d15441a7f8391bcb46200eba7adc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "county_id":1092065951,
+            "locality_id":1310054893,
+            "region_id":85673777
+        }
+    ],
+    "wof:id":1310054893,
+    "wof:lastmodified":1537661387,
+    "wof:name":"Siyambalaella",
+    "wof:parent_id":1092065951,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    80.5471,
+    7.5013,
+    80.5471,
+    7.5013
+],
+  "geometry": {"coordinates":[80.5471,7.5013],"type":"Point"}
+}

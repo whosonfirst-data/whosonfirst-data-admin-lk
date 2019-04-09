@@ -1,0 +1,70 @@
+{
+  "id": 1193218275,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"79.9975,6.6882,79.9975,6.6882",
+    "geom:latitude":6.6882,
+    "geom:longitude":79.9975,
+    "gn:admin1_code":"36.0",
+    "gn:asciiname":"Kimmantuduwa",
+    "gn:country_code":"LK",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1240332,
+    "gn:latitude":6.6882,
+    "gn:longitude":79.9975,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Kimmantuduwa",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kimmantudawa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632313,
+        85673819,
+        1092063295
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1240332
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"f6d80aefdeda996ed676f26883254092",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "county_id":1092063295,
+            "locality_id":1193218275,
+            "region_id":85673819
+        }
+    ],
+    "wof:id":1193218275,
+    "wof:lastmodified":1537661502,
+    "wof:name":"Kimmantuduwa",
+    "wof:parent_id":1092063295,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    79.9975,
+    6.6882,
+    79.9975,
+    6.6882
+],
+  "geometry": {"coordinates":[79.9975,6.6882],"type":"Point"}
+}

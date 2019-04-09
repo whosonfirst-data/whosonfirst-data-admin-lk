@@ -1,0 +1,71 @@
+{
+  "id": 1293434155,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"79.9794,6.82,79.9794,6.82",
+    "geom:latitude":6.82,
+    "geom:longitude":79.9794,
+    "gn:admin1_code":"36.0",
+    "gn:asciiname":"Brahmanagama",
+    "gn:country_code":"LK",
+    "gn:dem":27,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1249514,
+    "gn:latitude":6.82,
+    "gn:longitude":79.9794,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Brahmanagama",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bramanagama",
+        "Brahmanagama"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632313,
+        85673811,
+        1092059399
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1249514
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"e9f8d80111c43dce50d72ac3211d5407",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "county_id":1092059399,
+            "locality_id":1293434155,
+            "region_id":85673811
+        }
+    ],
+    "wof:id":1293434155,
+    "wof:lastmodified":1537661584,
+    "wof:name":"Brahmanagama",
+    "wof:parent_id":1092059399,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    79.9794,
+    6.82,
+    79.9794,
+    6.82
+],
+  "geometry": {"coordinates":[79.9794,6.82],"type":"Point"}
+}

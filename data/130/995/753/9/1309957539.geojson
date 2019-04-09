@@ -1,0 +1,67 @@
+{
+  "id": 1309957539,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"81.63333,7.28333,81.63333,7.28333",
+    "geom:latitude":7.28333,
+    "geom:longitude":81.63333,
+    "gn:admin1_code":"37.0",
+    "gn:asciiname":"Kondavattavan",
+    "gn:country_code":"LK",
+    "gn:dem":29,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1239521,
+    "gn:latitude":7.28333,
+    "gn:longitude":81.63333,
+    "gn:modification_date":"2018-07-04",
+    "gn:name":"Kondavattavan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632313,
+        85673733,
+        890450157
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1239521
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"b089655a03eaa34bc157036dcd50f98f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "county_id":890450157,
+            "locality_id":1309957539,
+            "region_id":85673733
+        }
+    ],
+    "wof:id":1309957539,
+    "wof:lastmodified":1536712884,
+    "wof:name":"Kondavattavan",
+    "wof:parent_id":890450157,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    81.63333,
+    7.28333,
+    81.63333,
+    7.28333
+],
+  "geometry": {"coordinates":[81.63333,7.28333],"type":"Point"}
+}

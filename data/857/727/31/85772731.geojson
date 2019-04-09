@@ -1,0 +1,111 @@
+{
+  "id": 85772731,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-15",
+    "edtf:inception":"uuuu",
+    "edtf:superseded":"2018-08-15",
+    "geom:area":0.0,
+    "geom:area_square_m":1698952.657926,
+    "geom:bbox":"80.209665,6.044555,80.209665,6.044555",
+    "geom:latitude":6.044555,
+    "geom:longitude":80.209665,
+    "gn:latitude":6.0358,
+    "gn:longitude":80.2107,
+    "iso:country":"LK",
+    "lbl:latitude":6.044555,
+    "lbl:longitude":80.209665,
+    "mps:latitude":6.046532,
+    "mps:longitude":80.21226,
+    "mz:hierarchy_label":0,
+    "mz:is_current":0,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":14.0,
+    "mz:tier_locality":2,
+    "name:eng_x_preferred":[
+        "Kaluwella"
+    ],
+    "name:unk_x_variant":[
+        "Kaluwella"
+    ],
+    "qs:gn_adm0_cc":"LK",
+    "qs:gn_fcode":"PPLX",
+    "qs:gn_local":1246294,
+    "qs:gn_nam_loc":"Galle, Galle, Southern, LK",
+    "qs:gn_namadm1":"34",
+    "qs:gn_name":"Kaluwella",
+    "qs:local_max":2826,
+    "qs:local_sum":4294,
+    "qs:localhoods":5,
+    "qs:name":"Kaluwella",
+    "qs:name_adm0":"Sri Lanka",
+    "qs:name_adm1":"Southern",
+    "qs:name_adm2":"Galle",
+    "qs:name_local":"Galle",
+    "qs:photo_max":49,
+    "qs:photo_sum":172,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":9,
+    "qs:woe_adm0":23424778,
+    "qs:woe_adm1":2344964,
+    "qs:woe_adm2":23706498,
+    "qs:woe_lau":0,
+    "qs:woe_local":2189781,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"mz",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"yerbashapes",
+    "wof:belongsto":[
+        85673789,
+        102191569,
+        85632313,
+        1092058633
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1241940,
+        "gp:id":2179084,
+        "qs:id":1045710
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"0e09f729a7f95c9c0417727fd4c60793",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "county_id":1092058633,
+            "locality_id":-1,
+            "neighbourhood_id":85772731,
+            "region_id":85673789
+        }
+    ],
+    "wof:id":85772731,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1534379376,
+    "wof:name":"Kaluwella",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[
+        1126094343
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    80.209665,
+    6.044555,
+    80.209665,
+    6.044555
+],
+  "geometry": {"coordinates":[80.209665,6.044555],"type":"Point"}
+}

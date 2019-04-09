@@ -1,0 +1,61 @@
+{
+  "id": 1209576583,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"80.5364,6.9317,80.5364,6.9317",
+    "geom:latitude":6.9317,
+    "geom:longitude":80.5364,
+    "gn:admin1_code":"29.0",
+    "gn:asciiname":"Agraoya",
+    "gn:country_code":"LK",
+    "gn:dem":1104,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7546415,
+    "gn:latitude":6.9317,
+    "gn:longitude":80.5364,
+    "gn:modification_date":"2010-10-09",
+    "gn:name":"Agraoya",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632313
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7546415
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"34925f9bdd8fdce97fd4b545d70b4296",
+    "wof:hierarchy":[
+        {
+            "country_id":85632313,
+            "locality_id":1209576583
+        }
+    ],
+    "wof:id":1209576583,
+    "wof:lastmodified":1536282918,
+    "wof:name":"Agraoya",
+    "wof:parent_id":85632313,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    80.5364,
+    6.9317,
+    80.5364,
+    6.9317
+],
+  "geometry": {"coordinates":[80.5364,6.9317],"type":"Point"}
+}

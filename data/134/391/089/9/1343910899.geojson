@@ -1,0 +1,67 @@
+{
+  "id": 1343910899,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"79.8584,7.0674,79.8584,7.0674",
+    "geom:latitude":7.0674,
+    "geom:longitude":79.8584,
+    "gn:admin1_code":"36.0",
+    "gn:asciiname":"Malikade Meda",
+    "gn:country_code":"LK",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7542684,
+    "gn:latitude":7.0674,
+    "gn:longitude":79.8584,
+    "gn:modification_date":"2010-10-09",
+    "gn:name":"Malikade Meda",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632313,
+        85673815,
+        1092067725
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7542684
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"59af065d6b3c801027f0012c264185b0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "county_id":1092067725,
+            "locality_id":1343910899,
+            "region_id":85673815
+        }
+    ],
+    "wof:id":1343910899,
+    "wof:lastmodified":1537088436,
+    "wof:name":"Malikade Meda",
+    "wof:parent_id":1092067725,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    79.8584,
+    7.0674,
+    79.8584,
+    7.0674
+],
+  "geometry": {"coordinates":[79.8584,7.0674],"type":"Point"}
+}

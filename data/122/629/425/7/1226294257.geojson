@@ -1,0 +1,67 @@
+{
+  "id": 1226294257,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"80.2892,8.6114,80.2892,8.6114",
+    "geom:latitude":8.6114,
+    "geom:longitude":80.2892,
+    "gn:admin1_code":"38.0",
+    "gn:asciiname":"Kappachchi",
+    "gn:country_code":"LK",
+    "gn:dem":51,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1241495,
+    "gn:latitude":8.6114,
+    "gn:longitude":80.2892,
+    "gn:modification_date":"2012-04-05",
+    "gn:name":"Kappachchi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632313,
+        85673757,
+        1092067431
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1241495
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"6ae490b559bb806665b1de251e1b9852",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "county_id":1092067431,
+            "locality_id":1226294257,
+            "region_id":85673757
+        }
+    ],
+    "wof:id":1226294257,
+    "wof:lastmodified":1536862490,
+    "wof:name":"Kappachchi",
+    "wof:parent_id":1092067431,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    80.2892,
+    8.6114,
+    80.2892,
+    8.6114
+],
+  "geometry": {"coordinates":[80.28919999999999,8.6114],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1243495571,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"80.5034,6.7294,80.5034,6.7294",
+    "geom:latitude":6.7294,
+    "geom:longitude":80.5034,
+    "gn:admin1_code":"33.0",
+    "gn:asciiname":"Rathganga Ihala",
+    "gn:country_code":"LK",
+    "gn:dem":544,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7546911,
+    "gn:latitude":6.7294,
+    "gn:longitude":80.5034,
+    "gn:modification_date":"2010-10-09",
+    "gn:name":"Rathganga Ihala",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632313,
+        85673785,
+        1092065839
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7546911
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"274658a385675767950f843136003a75",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "county_id":1092065839,
+            "locality_id":1243495571,
+            "region_id":85673785
+        }
+    ],
+    "wof:id":1243495571,
+    "wof:lastmodified":1536734862,
+    "wof:name":"Rathganga Ihala",
+    "wof:parent_id":1092065839,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    80.5034,
+    6.7294,
+    80.5034,
+    6.7294
+],
+  "geometry": {"coordinates":[80.5034,6.7294],"type":"Point"}
+}

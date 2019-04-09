@@ -1,0 +1,67 @@
+{
+  "id": 1209769487,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"80.7215,6.0974,80.7215,6.0974",
+    "geom:latitude":6.0974,
+    "geom:longitude":80.7215,
+    "gn:admin1_code":"34.0",
+    "gn:asciiname":"Kurakolayayagoda",
+    "gn:country_code":"LK",
+    "gn:dem":34,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7624644,
+    "gn:latitude":6.0974,
+    "gn:longitude":80.7215,
+    "gn:modification_date":"2010-12-04",
+    "gn:name":"Kurakolayayagoda",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632313,
+        85673791,
+        1092064463
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7624644
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"c0a099455298dfc74cc5c073f5dc077b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "county_id":1092064463,
+            "locality_id":1209769487,
+            "region_id":85673791
+        }
+    ],
+    "wof:id":1209769487,
+    "wof:lastmodified":1536384935,
+    "wof:name":"Kurakolayayagoda",
+    "wof:parent_id":1092064463,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    80.7215,
+    6.0974,
+    80.7215,
+    6.0974
+],
+  "geometry": {"coordinates":[80.72150000000001,6.0974],"type":"Point"}
+}

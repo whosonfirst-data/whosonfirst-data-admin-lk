@@ -1,0 +1,71 @@
+{
+  "id": 1276927013,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"80.6574,7.3531,80.6574,7.3531",
+    "geom:latitude":7.3531,
+    "geom:longitude":80.6574,
+    "gn:admin1_code":"29.0",
+    "gn:asciiname":"Dikirlgolla",
+    "gn:country_code":"LK",
+    "gn:dem":519,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1248001,
+    "gn:latitude":7.3531,
+    "gn:longitude":80.6574,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Dikirlgolla",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Dikirillagolla"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632313,
+        85673719,
+        1092065219
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1248001,
+        "wk:page":"Dikirillagolla"
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"74d74c5352b18c58e2d1415d026e8e39",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "county_id":1092065219,
+            "locality_id":1276927013,
+            "region_id":85673719
+        }
+    ],
+    "wof:id":1276927013,
+    "wof:lastmodified":1537661571,
+    "wof:name":"Dikirlgolla",
+    "wof:parent_id":1092065219,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    80.6574,
+    7.3531,
+    80.6574,
+    7.3531
+],
+  "geometry": {"coordinates":[80.6574,7.3531],"type":"Point"}
+}

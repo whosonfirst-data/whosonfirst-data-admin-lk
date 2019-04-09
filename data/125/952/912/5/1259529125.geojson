@@ -1,0 +1,67 @@
+{
+  "id": 1259529125,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"79.98333,7.71667,79.98333,7.71667",
+    "geom:latitude":7.71667,
+    "geom:longitude":79.98333,
+    "gn:admin1_code":"32.0",
+    "gn:asciiname":"Kadiyagawa",
+    "gn:country_code":"LK",
+    "gn:dem":42,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1242582,
+    "gn:latitude":7.71667,
+    "gn:longitude":79.98333,
+    "gn:modification_date":"1994-01-08",
+    "gn:name":"Kadiyagawa",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632313,
+        85673777,
+        1092065767
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1242582
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"e36ebac3d0cc3d0f0669c2e3f840026c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "county_id":1092065767,
+            "locality_id":1259529125,
+            "region_id":85673777
+        }
+    ],
+    "wof:id":1259529125,
+    "wof:lastmodified":1536793535,
+    "wof:name":"Kadiyagawa",
+    "wof:parent_id":1092065767,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    79.98333000000002,
+    7.71667,
+    79.98333000000002,
+    7.71667
+],
+  "geometry": {"coordinates":[79.98333000000002,7.71667],"type":"Point"}
+}

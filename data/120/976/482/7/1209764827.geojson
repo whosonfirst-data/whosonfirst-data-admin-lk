@@ -1,0 +1,67 @@
+{
+  "id": 1209764827,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"79.8575,7.2962,79.8575,7.2962",
+    "geom:latitude":7.2962,
+    "geom:longitude":79.8575,
+    "gn:admin1_code":"32.0",
+    "gn:asciiname":"Dombagahawatta",
+    "gn:country_code":"LK",
+    "gn:dem":11,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1247662,
+    "gn:latitude":7.2962,
+    "gn:longitude":79.8575,
+    "gn:modification_date":"1994-01-08",
+    "gn:name":"Dombagahawatta",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632313,
+        85673779,
+        1092068121
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1247662
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"3b726cf71428ca1306da18ae72409404",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "county_id":1092068121,
+            "locality_id":1209764827,
+            "region_id":85673779
+        }
+    ],
+    "wof:id":1209764827,
+    "wof:lastmodified":1536386922,
+    "wof:name":"Dombagahawatta",
+    "wof:parent_id":1092068121,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    79.8575,
+    7.2962,
+    79.8575,
+    7.2962
+],
+  "geometry": {"coordinates":[79.8575,7.2962],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1293932811,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"81.3,7.43333,81.3,7.43333",
+    "geom:latitude":7.43333,
+    "geom:longitude":81.3,
+    "gn:admin1_code":"32.0",
+    "gn:asciiname":"Kotikewela",
+    "gn:country_code":"LK",
+    "gn:dem":113,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1239046,
+    "gn:latitude":7.43333,
+    "gn:longitude":81.3,
+    "gn:modification_date":"1994-01-08",
+    "gn:name":"Kotikewela",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632313,
+        85673733,
+        1092064659
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1239046
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"14ff27893d4c783d26071f3dcff532ec",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "county_id":1092064659,
+            "locality_id":1293932811,
+            "region_id":85673733
+        }
+    ],
+    "wof:id":1293932811,
+    "wof:lastmodified":1536641574,
+    "wof:name":"Kotikewela",
+    "wof:parent_id":1092064659,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    81.3,
+    7.43333,
+    81.3,
+    7.43333
+],
+  "geometry": {"coordinates":[81.3,7.43333],"type":"Point"}
+}

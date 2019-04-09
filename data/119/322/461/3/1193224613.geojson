@@ -1,0 +1,70 @@
+{
+  "id": 1193224613,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"80.2989,8.1554,80.2989,8.1554",
+    "geom:latitude":8.1554,
+    "geom:longitude":80.2989,
+    "gn:admin1_code":"30.0",
+    "gn:asciiname":"Tammanegama",
+    "gn:country_code":"LK",
+    "gn:dem":102,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1227111,
+    "gn:latitude":8.1554,
+    "gn:longitude":80.2989,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Tammanegama",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tammannegama"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632313,
+        85673751,
+        1092066503
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1227111
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"4d2ff9b3f7742ea6d5f0e60fcbedc09e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "county_id":1092066503,
+            "locality_id":1193224613,
+            "region_id":85673751
+        }
+    ],
+    "wof:id":1193224613,
+    "wof:lastmodified":1537661380,
+    "wof:name":"Tammanegama",
+    "wof:parent_id":1092066503,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    80.2989,
+    8.1554,
+    80.2989,
+    8.1554
+],
+  "geometry": {"coordinates":[80.2989,8.1554],"type":"Point"}
+}

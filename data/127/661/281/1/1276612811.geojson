@@ -1,0 +1,67 @@
+{
+  "id": 1276612811,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"80.3714,7.3148,80.3714,7.3148",
+    "geom:latitude":7.3148,
+    "geom:longitude":80.3714,
+    "gn:admin1_code":"33.0",
+    "gn:asciiname":"Halpitiya",
+    "gn:country_code":"LK",
+    "gn:dem":99,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1244963,
+    "gn:latitude":7.3148,
+    "gn:longitude":80.3714,
+    "gn:modification_date":"1994-01-08",
+    "gn:name":"Halpitiya",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632313,
+        85673807,
+        1092065729
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1244963
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"3450dd4e62b9a8989e7bc4117b9a66a0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "county_id":1092065729,
+            "locality_id":1276612811,
+            "region_id":85673807
+        }
+    ],
+    "wof:id":1276612811,
+    "wof:lastmodified":1536901852,
+    "wof:name":"Halpitiya",
+    "wof:parent_id":1092065729,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    80.3714,
+    7.3148,
+    80.3714,
+    7.3148
+],
+  "geometry": {"coordinates":[80.37139999999999,7.3148],"type":"Point"}
+}

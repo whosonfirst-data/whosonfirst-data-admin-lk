@@ -1,0 +1,67 @@
+{
+  "id": 1276593839,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"80.2748,7.2779,80.2748,7.2779",
+    "geom:latitude":7.2779,
+    "geom:longitude":80.2748,
+    "gn:admin1_code":"33.0",
+    "gn:asciiname":"Kalugala",
+    "gn:country_code":"LK",
+    "gn:dem":172,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8302405,
+    "gn:latitude":7.2779,
+    "gn:longitude":80.2748,
+    "gn:modification_date":"2012-06-06",
+    "gn:name":"Kalugala",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632313,
+        85673807,
+        1092067647
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8302405
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"2ba2f084193bb8a5b060c75982e8c447",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "county_id":1092067647,
+            "locality_id":1276593839,
+            "region_id":85673807
+        }
+    ],
+    "wof:id":1276593839,
+    "wof:lastmodified":1536927803,
+    "wof:name":"Kalugala",
+    "wof:parent_id":1092067647,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    80.2748,
+    7.2779,
+    80.2748,
+    7.2779
+],
+  "geometry": {"coordinates":[80.2748,7.2779],"type":"Point"}
+}

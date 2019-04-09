@@ -1,0 +1,67 @@
+{
+  "id": 1243305217,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"80.3034,6.8235,80.3034,6.8235",
+    "geom:latitude":6.8235,
+    "geom:longitude":80.3034,
+    "gn:admin1_code":"33.0",
+    "gn:asciiname":"Bendaluwa",
+    "gn:country_code":"LK",
+    "gn:dem":36,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1249994,
+    "gn:latitude":6.8235,
+    "gn:longitude":80.3034,
+    "gn:modification_date":"1994-01-08",
+    "gn:name":"Bendaluwa",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632313,
+        85673785,
+        1092061795
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1249994
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"4ce487f9dac319035ede572742029723",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "county_id":1092061795,
+            "locality_id":1243305217,
+            "region_id":85673785
+        }
+    ],
+    "wof:id":1243305217,
+    "wof:lastmodified":1537008405,
+    "wof:name":"Bendaluwa",
+    "wof:parent_id":1092061795,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    80.3034,
+    6.8235,
+    80.3034,
+    6.8235
+],
+  "geometry": {"coordinates":[80.3034,6.8235],"type":"Point"}
+}

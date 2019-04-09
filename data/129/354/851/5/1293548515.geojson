@@ -1,0 +1,67 @@
+{
+  "id": 1293548515,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"80.4574,6.662,80.4574,6.662",
+    "geom:latitude":6.662,
+    "geom:longitude":80.4574,
+    "gn:admin1_code":"33.0",
+    "gn:asciiname":"Pathulpana",
+    "gn:country_code":"LK",
+    "gn:dem":119,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7546884,
+    "gn:latitude":6.662,
+    "gn:longitude":80.4574,
+    "gn:modification_date":"2010-10-09",
+    "gn:name":"Pathulpana",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632313,
+        85673785,
+        1092065839
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7546884
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"c20033691ac886f3cd45d6520f4b5d4a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "county_id":1092065839,
+            "locality_id":1293548515,
+            "region_id":85673785
+        }
+    ],
+    "wof:id":1293548515,
+    "wof:lastmodified":1536699562,
+    "wof:name":"Pathulpana",
+    "wof:parent_id":1092065839,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    80.4574,
+    6.662,
+    80.4574,
+    6.662
+],
+  "geometry": {"coordinates":[80.45740000000001,6.662],"type":"Point"}
+}

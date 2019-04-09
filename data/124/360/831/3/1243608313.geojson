@@ -1,0 +1,67 @@
+{
+  "id": 1243608313,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"80.1626,7.1562,80.1626,7.1562",
+    "geom:latitude":7.1562,
+    "geom:longitude":80.1626,
+    "gn:admin1_code":"33.0",
+    "gn:asciiname":"Algama Egodagama",
+    "gn:country_code":"LK",
+    "gn:dem":56,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1251971,
+    "gn:latitude":7.1562,
+    "gn:longitude":80.1626,
+    "gn:modification_date":"1994-01-08",
+    "gn:name":"Algama Egodagama",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632313,
+        85673807,
+        1092067647
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1251971
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"c6eb5dec65c567e50c12f1fb7357ba69",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "county_id":1092067647,
+            "locality_id":1243608313,
+            "region_id":85673807
+        }
+    ],
+    "wof:id":1243608313,
+    "wof:lastmodified":1537066426,
+    "wof:name":"Algama Egodagama",
+    "wof:parent_id":1092067647,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    80.1626,
+    7.1562,
+    80.1626,
+    7.1562
+],
+  "geometry": {"coordinates":[80.1626,7.1562],"type":"Point"}
+}

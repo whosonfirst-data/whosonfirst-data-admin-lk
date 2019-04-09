@@ -1,0 +1,70 @@
+{
+  "id": 1209876799,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"80.8513,8.7024,80.8513,8.7024",
+    "geom:latitude":8.7024,
+    "geom:longitude":80.8513,
+    "gn:admin1_code":"30.0",
+    "gn:asciiname":"Elapal Wewa",
+    "gn:country_code":"LK",
+    "gn:dem":45,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1247212,
+    "gn:latitude":8.7024,
+    "gn:longitude":80.8513,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Elapal Wewa",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Elapatwewa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632313,
+        85673751,
+        1092059481
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1247212
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"923060efb8f6a5c73c77efd5f28caa50",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "county_id":1092059481,
+            "locality_id":1209876799,
+            "region_id":85673751
+        }
+    ],
+    "wof:id":1209876799,
+    "wof:lastmodified":1537661564,
+    "wof:name":"Elapal Wewa",
+    "wof:parent_id":1092059481,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    80.8513,
+    8.7024,
+    80.8513,
+    8.7024
+],
+  "geometry": {"coordinates":[80.85129999999999,8.7024],"type":"Point"}
+}

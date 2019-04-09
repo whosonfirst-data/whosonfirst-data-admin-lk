@@ -1,0 +1,67 @@
+{
+  "id": 1277025351,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"80.5148,9.0508,80.5148,9.0508",
+    "geom:latitude":9.0508,
+    "geom:longitude":80.5148,
+    "gn:admin1_code":"38.0",
+    "gn:asciiname":"Kanakarayankulam",
+    "gn:country_code":"LK",
+    "gn:dem":63,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1241846,
+    "gn:latitude":9.0508,
+    "gn:longitude":80.5148,
+    "gn:modification_date":"2012-04-05",
+    "gn:name":"Kanakarayankulam",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632313,
+        85673757,
+        1092067297
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1241846
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"0e842d9f0a9b7222e54c595557bfc5a9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "county_id":1092067297,
+            "locality_id":1277025351,
+            "region_id":85673757
+        }
+    ],
+    "wof:id":1277025351,
+    "wof:lastmodified":1536845049,
+    "wof:name":"Kanakarayankulam",
+    "wof:parent_id":1092067297,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    80.5148,
+    9.0508,
+    80.5148,
+    9.0508
+],
+  "geometry": {"coordinates":[80.51479999999999,9.0508],"type":"Point"}
+}

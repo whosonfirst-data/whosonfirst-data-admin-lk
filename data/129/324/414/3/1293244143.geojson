@@ -1,0 +1,70 @@
+{
+  "id": 1293244143,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"81.2044,8.4575,81.2044,8.4575",
+    "geom:latitude":8.4575,
+    "geom:longitude":81.2044,
+    "gn:admin1_code":"37.0",
+    "gn:asciiname":"Upparu",
+    "gn:country_code":"LK",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1225477,
+    "gn:latitude":8.4575,
+    "gn:longitude":81.2044,
+    "gn:modification_date":"2012-04-05",
+    "gn:name":"Upparu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Uppar"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632313,
+        85673747,
+        1092060925
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1225477
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"f76e32de5c1aa10b2f6b207f40d06a23",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "county_id":1092060925,
+            "locality_id":1293244143,
+            "region_id":85673747
+        }
+    ],
+    "wof:id":1293244143,
+    "wof:lastmodified":1537661354,
+    "wof:name":"Upparu",
+    "wof:parent_id":1092060925,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    81.2044,
+    8.4575,
+    81.2044,
+    8.4575
+],
+  "geometry": {"coordinates":[81.20440000000001,8.4575],"type":"Point"}
+}

@@ -1,0 +1,77 @@
+{
+  "id": 1343898749,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"81.0463,6.8756,81.0463,6.8756",
+    "geom:latitude":6.8756,
+    "geom:longitude":81.0463,
+    "gn:admin1_code":"35.0",
+    "gn:asciiname":"Ella Town",
+    "gn:country_code":"LK",
+    "gn:dem":1031,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1247148,
+    "gn:latitude":6.8756,
+    "gn:longitude":81.0463,
+    "gn:modification_date":"2017-02-15",
+    "gn:name":"Ella Town",
+    "gn:population":5000,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u042d\u043b\u043b\u0430"
+    ],
+    "name:und_x_variant":[
+        "Ella",
+        "Ehlla"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632313,
+        85673801,
+        1092058259
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1247148
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"c85d54d309d564d1bab2f5cdc30f2ab6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "county_id":1092058259,
+            "locality_id":1343898749,
+            "region_id":85673801
+        }
+    ],
+    "wof:id":1343898749,
+    "wof:lastmodified":1537661563,
+    "wof:name":"Ella Town",
+    "wof:parent_id":1092058259,
+    "wof:placetype":"locality",
+    "wof:population":5000,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    81.0463,
+    6.8756,
+    81.0463,
+    6.8756
+],
+  "geometry": {"coordinates":[81.0463,6.8756],"type":"Point"}
+}

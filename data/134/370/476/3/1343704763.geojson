@@ -1,0 +1,71 @@
+{
+  "id": 1343704763,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"81.75,7.6,81.75,7.6",
+    "geom:latitude":7.6,
+    "geom:longitude":81.75,
+    "gn:admin1_code":"37.0",
+    "gn:asciiname":"Pandariyaveli",
+    "gn:country_code":"LK",
+    "gn:dem":4,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1231296,
+    "gn:latitude":7.6,
+    "gn:longitude":81.75,
+    "gn:modification_date":"2012-04-05",
+    "gn:name":"Pandariyaveli",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Pandariyavella",
+        "Pandariyaveli"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632313,
+        85673737,
+        1092062593
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1231296
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"d072eaa416c03cc0592c59d8fdd791c3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "county_id":1092062593,
+            "locality_id":1343704763,
+            "region_id":85673737
+        }
+    ],
+    "wof:id":1343704763,
+    "wof:lastmodified":1537661419,
+    "wof:name":"Pandariyaveli",
+    "wof:parent_id":1092062593,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    81.75,
+    7.6,
+    81.75,
+    7.6
+],
+  "geometry": {"coordinates":[81.75,7.6],"type":"Point"}
+}

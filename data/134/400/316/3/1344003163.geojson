@@ -1,0 +1,73 @@
+{
+  "id": 1344003163,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"80.51667,6.0,80.51667,6.0",
+    "geom:latitude":6.0,
+    "geom:longitude":80.51667,
+    "gn:admin1_code":"34.0",
+    "gn:asciiname":"Malimmada East",
+    "gn:cc2":"LK",
+    "gn:country_code":"LK",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1236446,
+    "gn:latitude":6.0,
+    "gn:longitude":80.51667,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Malimmada East",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Malimmada",
+        "Malimbada",
+        "Malimmada East"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632313,
+        85673795,
+        1092062413
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1236446
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"0fd05077a2943b9efc521f6b20ea72f1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "county_id":1092062413,
+            "locality_id":1344003163,
+            "region_id":85673795
+        }
+    ],
+    "wof:id":1344003163,
+    "wof:lastmodified":1537661469,
+    "wof:name":"Malimmada East",
+    "wof:parent_id":1092062413,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    80.51666999999998,
+    6.0,
+    80.51666999999998,
+    6.0
+],
+  "geometry": {"coordinates":[80.51666999999998,6.0],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1343406459,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"80.6,7.85,80.6,7.85",
+    "geom:latitude":7.85,
+    "geom:longitude":80.6,
+    "gn:admin1_code":"34.0",
+    "gn:asciiname":"Dandubendiruppa",
+    "gn:cc2":"LK",
+    "gn:country_code":"LK",
+    "gn:dem":210,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1248672,
+    "gn:latitude":7.85,
+    "gn:longitude":80.6,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Dandubendiruppa",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Dandubandiruppa",
+        "Dandubediruppa",
+        "Dandubendiruppa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632313,
+        85673723,
+        1092058513
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1248672
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"d937b7cea458fa9c80c1c62278bc2936",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "county_id":1092058513,
+            "locality_id":1343406459,
+            "region_id":85673723
+        }
+    ],
+    "wof:id":1343406459,
+    "wof:lastmodified":1537661578,
+    "wof:name":"Dandubendiruppa",
+    "wof:parent_id":1092058513,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    80.6,
+    7.85,
+    80.6,
+    7.85
+],
+  "geometry": {"coordinates":[80.59999999999999,7.85],"type":"Point"}
+}

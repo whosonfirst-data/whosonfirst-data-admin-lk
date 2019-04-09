@@ -1,0 +1,70 @@
+{
+  "id": 1243131855,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"80.2856,7.4814,80.2856,7.4814",
+    "geom:latitude":7.4814,
+    "geom:longitude":80.2856,
+    "gn:admin1_code":"32.0",
+    "gn:asciiname":"Madawela Ihala",
+    "gn:country_code":"LK",
+    "gn:dem":111,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1237405,
+    "gn:latitude":7.4814,
+    "gn:longitude":80.2856,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Madawela Ihala",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Madawala Ihala"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632313,
+        85673777,
+        1092067783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1237405
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"9dfd4c12639a3b1ce3cf73850fdd8d36",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "county_id":1092067783,
+            "locality_id":1243131855,
+            "region_id":85673777
+        }
+    ],
+    "wof:id":1243131855,
+    "wof:lastmodified":1537661478,
+    "wof:name":"Madawela Ihala",
+    "wof:parent_id":1092067783,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    80.2856,
+    7.4814,
+    80.2856,
+    7.4814
+],
+  "geometry": {"coordinates":[80.2856,7.4814],"type":"Point"}
+}

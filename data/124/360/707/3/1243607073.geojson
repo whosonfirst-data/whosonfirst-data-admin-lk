@@ -1,0 +1,70 @@
+{
+  "id": 1243607073,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"79.8896,6.7943,79.8896,6.7943",
+    "geom:latitude":6.7943,
+    "geom:longitude":79.8896,
+    "gn:admin1_code":"36.0",
+    "gn:asciiname":"Kuduwamulla",
+    "gn:country_code":"LK",
+    "gn:dem":11,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1238582,
+    "gn:latitude":6.7943,
+    "gn:longitude":79.8896,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Kuduwamulla",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kudawamulla"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632313,
+        85673811,
+        1092063487
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1238582
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"20549090586036e8f1a757ca14128b97",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "county_id":1092063487,
+            "locality_id":1243607073,
+            "region_id":85673811
+        }
+    ],
+    "wof:id":1243607073,
+    "wof:lastmodified":1537661487,
+    "wof:name":"Kuduwamulla",
+    "wof:parent_id":1092063487,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    79.8896,
+    6.7943,
+    79.8896,
+    6.7943
+],
+  "geometry": {"coordinates":[79.8896,6.7943],"type":"Point"}
+}

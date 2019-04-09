@@ -1,0 +1,70 @@
+{
+  "id": 1344107099,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"80.1282,8.1986,80.1282,8.1986",
+    "geom:latitude":8.1986,
+    "geom:longitude":80.1282,
+    "gn:admin1_code":"30.0",
+    "gn:asciiname":"Tract Thirteen",
+    "gn:country_code":"LK",
+    "gn:dem":56,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7539464,
+    "gn:latitude":8.1986,
+    "gn:longitude":80.1282,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Tract Thirteen",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tract 13"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632313,
+        85673751,
+        1092065663
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7539464
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"2099d79e21db1ebfd5d81e82fa015f83",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "county_id":1092065663,
+            "locality_id":1344107099,
+            "region_id":85673751
+        }
+    ],
+    "wof:id":1344107099,
+    "wof:lastmodified":1537661608,
+    "wof:name":"Tract Thirteen",
+    "wof:parent_id":1092065663,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    80.1282,
+    8.1986,
+    80.1282,
+    8.1986
+],
+  "geometry": {"coordinates":[80.12820000000001,8.1986],"type":"Point"}
+}

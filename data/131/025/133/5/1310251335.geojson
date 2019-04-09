@@ -1,0 +1,67 @@
+{
+  "id": 1310251335,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"80.3562,8.1666,80.3562,8.1666",
+    "geom:latitude":8.1666,
+    "geom:longitude":80.3562,
+    "gn:admin1_code":"30.0",
+    "gn:asciiname":"Matale Colony",
+    "gn:country_code":"LK",
+    "gn:dem":110,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7539438,
+    "gn:latitude":8.1666,
+    "gn:longitude":80.3562,
+    "gn:modification_date":"2010-10-09",
+    "gn:name":"Matale Colony",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632313,
+        85673751,
+        1092066395
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7539438
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"86dd5e22a8a6ae569f5cf46f8f1d7690",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "county_id":1092066395,
+            "locality_id":1310251335,
+            "region_id":85673751
+        }
+    ],
+    "wof:id":1310251335,
+    "wof:lastmodified":1536786606,
+    "wof:name":"Matale Colony",
+    "wof:parent_id":1092066395,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    80.3562,
+    8.1666,
+    80.3562,
+    8.1666
+],
+  "geometry": {"coordinates":[80.3562,8.1666],"type":"Point"}
+}

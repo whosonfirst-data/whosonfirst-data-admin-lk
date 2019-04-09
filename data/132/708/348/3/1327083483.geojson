@@ -1,0 +1,67 @@
+{
+  "id": 1327083483,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"80.4177,7.5558,80.4177,7.5558",
+    "geom:latitude":7.5558,
+    "geom:longitude":80.4177,
+    "gn:admin1_code":"32.0",
+    "gn:asciiname":"Dabarayaya",
+    "gn:country_code":"LK",
+    "gn:dem":127,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1248940,
+    "gn:latitude":7.5558,
+    "gn:longitude":80.4177,
+    "gn:modification_date":"1994-01-08",
+    "gn:name":"Dabarayaya",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632313,
+        85673777,
+        1092059525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1248940
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"69631c193ae652b41759ca0065e11aa6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "county_id":1092059525,
+            "locality_id":1327083483,
+            "region_id":85673777
+        }
+    ],
+    "wof:id":1327083483,
+    "wof:lastmodified":1536686959,
+    "wof:name":"Dabarayaya",
+    "wof:parent_id":1092059525,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    80.4177,
+    7.5558,
+    80.4177,
+    7.5558
+],
+  "geometry": {"coordinates":[80.4177,7.5558],"type":"Point"}
+}

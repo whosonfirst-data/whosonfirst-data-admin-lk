@@ -1,0 +1,67 @@
+{
+  "id": 1327183539,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"80.4748,7.4657,80.4748,7.4657",
+    "geom:latitude":7.4657,
+    "geom:longitude":80.4748,
+    "gn:admin1_code":"32.0",
+    "gn:asciiname":"Metiyanpota Sinhalagama",
+    "gn:country_code":"LK",
+    "gn:dem":150,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1235242,
+    "gn:latitude":7.4657,
+    "gn:longitude":80.4748,
+    "gn:modification_date":"1994-01-08",
+    "gn:name":"Metiyanpota Sinhalagama",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632313,
+        85673777,
+        1092065951
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1235242
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"f2fddcb8a985227bcfed619f20724099",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "county_id":1092065951,
+            "locality_id":1327183539,
+            "region_id":85673777
+        }
+    ],
+    "wof:id":1327183539,
+    "wof:lastmodified":1537038603,
+    "wof:name":"Metiyanpota Sinhalagama",
+    "wof:parent_id":1092065951,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    80.4748,
+    7.4657,
+    80.4748,
+    7.4657
+],
+  "geometry": {"coordinates":[80.4748,7.4657],"type":"Point"}
+}

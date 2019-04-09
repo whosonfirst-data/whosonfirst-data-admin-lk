@@ -1,0 +1,67 @@
+{
+  "id": 1276924925,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"80.6522,6.6955,80.6522,6.6955",
+    "geom:latitude":6.6955,
+    "geom:longitude":80.6522,
+    "gn:admin1_code":"33.0",
+    "gn:asciiname":"Welekumbura",
+    "gn:country_code":"LK",
+    "gn:dem":534,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1223767,
+    "gn:latitude":6.6955,
+    "gn:longitude":80.6522,
+    "gn:modification_date":"1994-01-08",
+    "gn:name":"Welekumbura",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632313,
+        85673785,
+        1092056887
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1223767
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"389b53c944fe5ccf3b98d4707cdb3539",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "county_id":1092056887,
+            "locality_id":1276924925,
+            "region_id":85673785
+        }
+    ],
+    "wof:id":1276924925,
+    "wof:lastmodified":1536980315,
+    "wof:name":"Welekumbura",
+    "wof:parent_id":1092056887,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    80.6522,
+    6.6955,
+    80.6522,
+    6.6955
+],
+  "geometry": {"coordinates":[80.65219999999999,6.6955],"type":"Point"}
+}

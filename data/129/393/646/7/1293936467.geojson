@@ -1,0 +1,67 @@
+{
+  "id": 1293936467,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"80.0205,6.6179,80.0205,6.6179",
+    "geom:latitude":6.6179,
+    "geom:longitude":80.0205,
+    "gn:admin1_code":"36.0",
+    "gn:asciiname":"Remunagoda",
+    "gn:country_code":"LK",
+    "gn:dem":14,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8355560,
+    "gn:latitude":6.6179,
+    "gn:longitude":80.0205,
+    "gn:modification_date":"2012-08-05",
+    "gn:name":"Remunagoda",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632313,
+        85673819,
+        1092057971
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8355560
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"163beeb0759a0fb5364cc7525569a091",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "county_id":1092057971,
+            "locality_id":1293936467,
+            "region_id":85673819
+        }
+    ],
+    "wof:id":1293936467,
+    "wof:lastmodified":1536635904,
+    "wof:name":"Remunagoda",
+    "wof:parent_id":1092057971,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    80.0205,
+    6.6179,
+    80.0205,
+    6.6179
+],
+  "geometry": {"coordinates":[80.0205,6.6179],"type":"Point"}
+}

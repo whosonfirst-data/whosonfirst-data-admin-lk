@@ -1,0 +1,65 @@
+{
+  "id": 1209666765,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"80.4239,8.8591,80.4239,8.8591",
+    "geom:latitude":8.8591,
+    "geom:longitude":80.4239,
+    "gn:admin1_code":"38.0",
+    "gn:asciiname":"Karaiya-alampaikkulam",
+    "gn:country_code":"LK",
+    "gn:dem":65,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1249286,
+    "gn:latitude":8.8591,
+    "gn:longitude":80.4239,
+    "gn:modification_date":"2012-04-05",
+    "gn:name":"Karaiya-alampaikkulam",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Chalampaikulam",
+        "Chalampaikkulam"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632313
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1249286
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"3356fa6b03011c4ebbdb74e6434283a9",
+    "wof:hierarchy":[
+        {
+            "country_id":85632313,
+            "locality_id":1209666765
+        }
+    ],
+    "wof:id":1209666765,
+    "wof:lastmodified":1537661582,
+    "wof:name":"Karaiya-alampaikkulam",
+    "wof:parent_id":85632313,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    80.4239,
+    8.8591,
+    80.4239,
+    8.8591
+],
+  "geometry": {"coordinates":[80.4239,8.8591],"type":"Point"}
+}

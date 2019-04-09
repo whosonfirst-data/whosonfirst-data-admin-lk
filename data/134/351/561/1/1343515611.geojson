@@ -1,0 +1,67 @@
+{
+  "id": 1343515611,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"80.3545,7.244,80.3545,7.244",
+    "geom:latitude":7.244,
+    "geom:longitude":80.3545,
+    "gn:admin1_code":"33.0",
+    "gn:asciiname":"Pitihuma",
+    "gn:country_code":"LK",
+    "gn:dem":189,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1230054,
+    "gn:latitude":7.244,
+    "gn:longitude":80.3545,
+    "gn:modification_date":"1994-01-08",
+    "gn:name":"Pitihuma",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632313,
+        85673807,
+        890455861
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1230054
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"c2f0d93951405f688c6af0916950c09e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "county_id":890455861,
+            "locality_id":1343515611,
+            "region_id":85673807
+        }
+    ],
+    "wof:id":1343515611,
+    "wof:lastmodified":1536666798,
+    "wof:name":"Pitihuma",
+    "wof:parent_id":890455861,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    80.3545,
+    7.244,
+    80.3545,
+    7.244
+],
+  "geometry": {"coordinates":[80.3545,7.244],"type":"Point"}
+}

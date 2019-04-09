@@ -1,0 +1,70 @@
+{
+  "id": 1260125167,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"80.7294,6.1084,80.7294,6.1084",
+    "geom:latitude":6.1084,
+    "geom:longitude":80.7294,
+    "gn:admin1_code":"34.0",
+    "gn:asciiname":"Aluthwewagoda",
+    "gn:country_code":"LK",
+    "gn:dem":58,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7624366,
+    "gn:latitude":6.1084,
+    "gn:longitude":80.7294,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Aluthwewagoda",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Alutwewagoda"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632313,
+        85673791,
+        1092064463
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7624366
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"09902df1da13dd72da556fa26a36c6b5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "county_id":1092064463,
+            "locality_id":1260125167,
+            "region_id":85673791
+        }
+    ],
+    "wof:id":1260125167,
+    "wof:lastmodified":1537661610,
+    "wof:name":"Aluthwewagoda",
+    "wof:parent_id":1092064463,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    80.7294,
+    6.1084,
+    80.7294,
+    6.1084
+],
+  "geometry": {"coordinates":[80.7294,6.1084],"type":"Point"}
+}

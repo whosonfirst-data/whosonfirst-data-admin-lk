@@ -1,0 +1,67 @@
+{
+  "id": 1193059749,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"80.2526,7.2534,80.2526,7.2534",
+    "geom:latitude":7.2534,
+    "geom:longitude":80.2526,
+    "gn:admin1_code":"33.0",
+    "gn:asciiname":"Akwatta",
+    "gn:country_code":"LK",
+    "gn:dem":103,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1252116,
+    "gn:latitude":7.2534,
+    "gn:longitude":80.2526,
+    "gn:modification_date":"1994-01-08",
+    "gn:name":"Akwatta",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632313,
+        85673807,
+        1092067647
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1252116
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"c775b6b4a0211a92ca954ff1950ebac0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "county_id":1092067647,
+            "locality_id":1193059749,
+            "region_id":85673807
+        }
+    ],
+    "wof:id":1193059749,
+    "wof:lastmodified":1536379031,
+    "wof:name":"Akwatta",
+    "wof:parent_id":1092067647,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    80.2526,
+    7.2534,
+    80.2526,
+    7.2534
+],
+  "geometry": {"coordinates":[80.2526,7.2534],"type":"Point"}
+}

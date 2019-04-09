@@ -1,0 +1,71 @@
+{
+  "id": 1343800805,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"79.95,8.9,79.95,8.9",
+    "geom:latitude":8.9,
+    "geom:longitude":79.95,
+    "gn:admin1_code":"38.0",
+    "gn:asciiname":"Kankankulam",
+    "gn:country_code":"LK",
+    "gn:dem":4,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1241590,
+    "gn:latitude":8.9,
+    "gn:longitude":79.95,
+    "gn:modification_date":"2012-04-05",
+    "gn:name":"Kankankulam",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kanakankulam",
+        "Kankankulam"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632313,
+        85673761,
+        1092062683
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1241590
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"b4bc46136260d62eb5d642ddb0adfc53",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "county_id":1092062683,
+            "locality_id":1343800805,
+            "region_id":85673761
+        }
+    ],
+    "wof:id":1343800805,
+    "wof:lastmodified":1537661512,
+    "wof:name":"Kankankulam",
+    "wof:parent_id":1092062683,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    79.95,
+    8.9,
+    79.95,
+    8.9
+],
+  "geometry": {"coordinates":[79.95,8.9],"type":"Point"}
+}

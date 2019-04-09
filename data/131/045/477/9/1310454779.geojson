@@ -1,0 +1,67 @@
+{
+  "id": 1310454779,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"80.1169,6.9758,80.1169,6.9758",
+    "geom:latitude":6.9758,
+    "geom:longitude":80.1169,
+    "gn:admin1_code":"36.0",
+    "gn:asciiname":"Kospitiyana",
+    "gn:country_code":"LK",
+    "gn:dem":28,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1239194,
+    "gn:latitude":6.9758,
+    "gn:longitude":80.1169,
+    "gn:modification_date":"1994-01-08",
+    "gn:name":"Kospitiyana",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632313,
+        85673815,
+        1092058055
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1239194
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"37981378bb82039073a6cc2df1f0c77c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "county_id":1092058055,
+            "locality_id":1310454779,
+            "region_id":85673815
+        }
+    ],
+    "wof:id":1310454779,
+    "wof:lastmodified":1536989368,
+    "wof:name":"Kospitiyana",
+    "wof:parent_id":1092058055,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    80.1169,
+    6.9758,
+    80.1169,
+    6.9758
+],
+  "geometry": {"coordinates":[80.1169,6.9758],"type":"Point"}
+}

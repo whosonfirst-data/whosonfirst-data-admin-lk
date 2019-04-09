@@ -1,0 +1,67 @@
+{
+  "id": 1209869635,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"81.1738,7.1411,81.1738,7.1411",
+    "geom:latitude":7.1411,
+    "geom:longitude":81.1738,
+    "gn:admin1_code":"35.0",
+    "gn:asciiname":"Udamallawa",
+    "gn:country_code":"LK",
+    "gn:dem":297,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7441129,
+    "gn:latitude":7.1411,
+    "gn:longitude":81.1738,
+    "gn:modification_date":"2010-08-07",
+    "gn:name":"Udamallawa",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632313,
+        85673803,
+        1092057159
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7441129
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"7a3fc284e2340dfd72b10e7ddc43e2b2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "county_id":1092057159,
+            "locality_id":1209869635,
+            "region_id":85673803
+        }
+    ],
+    "wof:id":1209869635,
+    "wof:lastmodified":1536375026,
+    "wof:name":"Udamallawa",
+    "wof:parent_id":1092057159,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    81.1738,
+    7.1411,
+    81.1738,
+    7.1411
+],
+  "geometry": {"coordinates":[81.1738,7.1411],"type":"Point"}
+}

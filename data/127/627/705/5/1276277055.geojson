@@ -1,0 +1,70 @@
+{
+  "id": 1276277055,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"80.2151,8.1602,80.2151,8.1602",
+    "geom:latitude":8.1602,
+    "geom:longitude":80.2151,
+    "gn:admin1_code":"30.0",
+    "gn:asciiname":"Tract Two",
+    "gn:country_code":"LK",
+    "gn:dem":66,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7539471,
+    "gn:latitude":8.1602,
+    "gn:longitude":80.2151,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Tract Two",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tract 2"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632313,
+        85673751,
+        1092065663
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7539471
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"b08f555dda675e2156a359a49aeeee08",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "county_id":1092065663,
+            "locality_id":1276277055,
+            "region_id":85673751
+        }
+    ],
+    "wof:id":1276277055,
+    "wof:lastmodified":1537661608,
+    "wof:name":"Tract Two",
+    "wof:parent_id":1092065663,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    80.2151,
+    8.1602,
+    80.2151,
+    8.1602
+],
+  "geometry": {"coordinates":[80.21510000000001,8.1602],"type":"Point"}
+}

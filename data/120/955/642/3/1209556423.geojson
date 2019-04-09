@@ -1,0 +1,61 @@
+{
+  "id": 1209556423,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"80.268,6.2019,80.268,6.2019",
+    "geom:latitude":6.2019,
+    "geom:longitude":80.268,
+    "gn:admin1_code":"34.0",
+    "gn:asciiname":"Pahala Pattinigoda",
+    "gn:country_code":"LK",
+    "gn:dem":34,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7623968,
+    "gn:latitude":6.2019,
+    "gn:longitude":80.268,
+    "gn:modification_date":"2010-12-04",
+    "gn:name":"Pahala Pattinigoda",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632313
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7623968
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"8d84d130a5926a3892b2ee06ef72d558",
+    "wof:hierarchy":[
+        {
+            "country_id":85632313,
+            "locality_id":1209556423
+        }
+    ],
+    "wof:id":1209556423,
+    "wof:lastmodified":1536283531,
+    "wof:name":"Pahala Pattinigoda",
+    "wof:parent_id":85632313,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    80.268,
+    6.2019,
+    80.268,
+    6.2019
+],
+  "geometry": {"coordinates":[80.268,6.2019],"type":"Point"}
+}

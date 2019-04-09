@@ -1,0 +1,67 @@
+{
+  "id": 1225884757,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"80.2217,6.6439,80.2217,6.6439",
+    "geom:latitude":6.6439,
+    "geom:longitude":80.2217,
+    "gn:admin1_code":"36.0",
+    "gn:asciiname":"Thanabima",
+    "gn:country_code":"LK",
+    "gn:dem":46,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7437110,
+    "gn:latitude":6.6439,
+    "gn:longitude":80.2217,
+    "gn:modification_date":"2010-08-07",
+    "gn:name":"Thanabima",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632313,
+        85673819,
+        1092057287
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7437110
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"055b91db6aff0ae3c68ad1fc7c68fbbe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "county_id":1092057287,
+            "locality_id":1225884757,
+            "region_id":85673819
+        }
+    ],
+    "wof:id":1225884757,
+    "wof:lastmodified":1536957395,
+    "wof:name":"Thanabima",
+    "wof:parent_id":1092057287,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    80.2217,
+    6.6439,
+    80.2217,
+    6.6439
+],
+  "geometry": {"coordinates":[80.2217,6.6439],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 1360246181,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"80.5128,7.0969,80.5128,7.0969",
+    "geom:latitude":7.0969,
+    "geom:longitude":80.5128,
+    "gn:admin1_code":"29.0",
+    "gn:asciiname":"Udahentenna",
+    "gn:country_code":"LK",
+    "gn:dem":784,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1226045,
+    "gn:latitude":7.0969,
+    "gn:longitude":80.5128,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Udahentenna",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632313,
+        85673719,
+        1092058735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1226045,
+        "wk:page":"Udahentenna"
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"3805eb205b5788b85c229fee565f9c20",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "county_id":1092058735,
+            "locality_id":1360246181,
+            "region_id":85673719
+        }
+    ],
+    "wof:id":1360246181,
+    "wof:lastmodified":1537567968,
+    "wof:name":"Udahentenna",
+    "wof:parent_id":1092058735,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    80.5128,
+    7.0969,
+    80.5128,
+    7.0969
+],
+  "geometry": {"coordinates":[80.5128,7.0969],"type":"Point"}
+}

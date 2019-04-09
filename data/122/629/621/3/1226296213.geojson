@@ -1,0 +1,67 @@
+{
+  "id": 1226296213,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"81.2376,7.0797,81.2376,7.0797",
+    "geom:latitude":7.0797,
+    "geom:longitude":81.2376,
+    "gn:admin1_code":"35.0",
+    "gn:asciiname":"Nahengoda",
+    "gn:country_code":"LK",
+    "gn:dem":387,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7441260,
+    "gn:latitude":7.0797,
+    "gn:longitude":81.2376,
+    "gn:modification_date":"2010-08-07",
+    "gn:name":"Nahengoda",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632313,
+        85673803,
+        1092063097
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7441260
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"d7c3d5672016c91c01abe1241bf141c0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "county_id":1092063097,
+            "locality_id":1226296213,
+            "region_id":85673803
+        }
+    ],
+    "wof:id":1226296213,
+    "wof:lastmodified":1536859684,
+    "wof:name":"Nahengoda",
+    "wof:parent_id":1092063097,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    81.2376,
+    7.0797,
+    81.2376,
+    7.0797
+],
+  "geometry": {"coordinates":[81.2376,7.0797],"type":"Point"}
+}

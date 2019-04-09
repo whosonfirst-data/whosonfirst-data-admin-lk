@@ -1,0 +1,67 @@
+{
+  "id": 1226589677,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"79.917,7.3964,79.917,7.3964",
+    "geom:latitude":7.3964,
+    "geom:longitude":79.917,
+    "gn:admin1_code":"32.0",
+    "gn:asciiname":"Kuddetiyawa",
+    "gn:country_code":"LK",
+    "gn:dem":26,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1238503,
+    "gn:latitude":7.3964,
+    "gn:longitude":79.917,
+    "gn:modification_date":"1994-01-08",
+    "gn:name":"Kuddetiyawa",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632313,
+        85673779,
+        1092063911
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1238503
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"f8eec4d6d8a956a44e946192be12b3ff",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "county_id":1092063911,
+            "locality_id":1226589677,
+            "region_id":85673779
+        }
+    ],
+    "wof:id":1226589677,
+    "wof:lastmodified":1536938031,
+    "wof:name":"Kuddetiyawa",
+    "wof:parent_id":1092063911,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    79.917,
+    7.3964,
+    79.917,
+    7.3964
+],
+  "geometry": {"coordinates":[79.917,7.3964],"type":"Point"}
+}

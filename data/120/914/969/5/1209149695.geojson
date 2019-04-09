@@ -1,0 +1,61 @@
+{
+  "id": 1209149695,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"81.1346,6.9017,81.1346,6.9017",
+    "geom:latitude":6.9017,
+    "geom:longitude":81.1346,
+    "gn:admin1_code":"35.0",
+    "gn:asciiname":"Kudakanawerella",
+    "gn:country_code":"LK",
+    "gn:dem":944,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7618483,
+    "gn:latitude":6.9017,
+    "gn:longitude":81.1346,
+    "gn:modification_date":"2010-12-04",
+    "gn:name":"Kudakanawerella",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632313
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7618483
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"0bf197b8755f6409401387f07c5b0ada",
+    "wof:hierarchy":[
+        {
+            "country_id":85632313,
+            "locality_id":1209149695
+        }
+    ],
+    "wof:id":1209149695,
+    "wof:lastmodified":1536296239,
+    "wof:name":"Kudakanawerella",
+    "wof:parent_id":85632313,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    81.1346,
+    6.9017,
+    81.1346,
+    6.9017
+],
+  "geometry": {"coordinates":[81.13460000000001,6.9017],"type":"Point"}
+}

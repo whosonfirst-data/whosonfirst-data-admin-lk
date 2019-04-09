@@ -1,0 +1,67 @@
+{
+  "id": 1243608115,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"80.9759,6.1389,80.9759,6.1389",
+    "geom:latitude":6.1389,
+    "geom:longitude":80.9759,
+    "gn:admin1_code":"34.0",
+    "gn:asciiname":"Beminiyanwila",
+    "gn:country_code":"LK",
+    "gn:dem":20,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1250000,
+    "gn:latitude":6.1389,
+    "gn:longitude":80.9759,
+    "gn:modification_date":"1994-01-08",
+    "gn:name":"Beminiyanwila",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632313,
+        85673791,
+        1092056491
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1250000
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"0636dcad6925b9b02c5b4b5d31afba5b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "county_id":1092056491,
+            "locality_id":1243608115,
+            "region_id":85673791
+        }
+    ],
+    "wof:id":1243608115,
+    "wof:lastmodified":1537066705,
+    "wof:name":"Beminiyanwila",
+    "wof:parent_id":1092056491,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    80.9759,
+    6.1389,
+    80.9759,
+    6.1389
+],
+  "geometry": {"coordinates":[80.9759,6.1389],"type":"Point"}
+}

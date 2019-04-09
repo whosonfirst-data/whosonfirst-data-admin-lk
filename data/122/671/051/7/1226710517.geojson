@@ -1,0 +1,67 @@
+{
+  "id": 1226710517,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"80.9689,8.1338,80.9689,8.1338",
+    "geom:latitude":8.1338,
+    "geom:longitude":80.9689,
+    "gn:admin1_code":"30.0",
+    "gn:asciiname":"Track Eight",
+    "gn:country_code":"LK",
+    "gn:dem":59,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7442092,
+    "gn:latitude":8.1338,
+    "gn:longitude":80.9689,
+    "gn:modification_date":"2010-08-07",
+    "gn:name":"Track Eight",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632313,
+        85673743,
+        1092063181
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7442092
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"9cef14516b6ec434b2247bb7fa0fa53a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "county_id":1092063181,
+            "locality_id":1226710517,
+            "region_id":85673743
+        }
+    ],
+    "wof:id":1226710517,
+    "wof:lastmodified":1536766929,
+    "wof:name":"Track Eight",
+    "wof:parent_id":1092063181,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    80.9689,
+    8.1338,
+    80.9689,
+    8.1338
+],
+  "geometry": {"coordinates":[80.9689,8.1338],"type":"Point"}
+}

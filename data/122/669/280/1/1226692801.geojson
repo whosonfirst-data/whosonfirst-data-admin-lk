@@ -1,0 +1,67 @@
+{
+  "id": 1226692801,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"79.8681,9.6459,79.8681,9.6459",
+    "geom:latitude":9.6459,
+    "geom:longitude":79.8681,
+    "gn:admin1_code":"38.0",
+    "gn:asciiname":"Suruvil",
+    "gn:country_code":"LK",
+    "gn:dem":3,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1227498,
+    "gn:latitude":9.6459,
+    "gn:longitude":79.8681,
+    "gn:modification_date":"2012-04-05",
+    "gn:name":"Suruvil",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632313,
+        85673769,
+        1092059765
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1227498
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"23d851ad9f16ef559e9b0b320675ddca",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "county_id":1092059765,
+            "locality_id":1226692801,
+            "region_id":85673769
+        }
+    ],
+    "wof:id":1226692801,
+    "wof:lastmodified":1536792233,
+    "wof:name":"Suruvil",
+    "wof:parent_id":1092059765,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    79.8681,
+    9.6459,
+    79.8681,
+    9.6459
+],
+  "geometry": {"coordinates":[79.8681,9.6459],"type":"Point"}
+}

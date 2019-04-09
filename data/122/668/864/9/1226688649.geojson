@@ -1,0 +1,70 @@
+{
+  "id": 1226688649,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"80.2937,9.6364,80.2937,9.6364",
+    "geom:latitude":9.6364,
+    "geom:longitude":80.2937,
+    "gn:admin1_code":"38.0",
+    "gn:asciiname":"Muhamalai",
+    "gn:country_code":"LK",
+    "gn:dem":12,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1234450,
+    "gn:latitude":9.6364,
+    "gn:longitude":80.2937,
+    "gn:modification_date":"2012-04-05",
+    "gn:name":"Muhamalai",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mukamalai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632313,
+        85673773,
+        1092064543
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1234450
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"90f3d721cba9dc31b3007122528e146a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "county_id":1092064543,
+            "locality_id":1226688649,
+            "region_id":85673773
+        }
+    ],
+    "wof:id":1226688649,
+    "wof:lastmodified":1537661450,
+    "wof:name":"Muhamalai",
+    "wof:parent_id":1092064543,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    80.2937,
+    9.6364,
+    80.2937,
+    9.6364
+],
+  "geometry": {"coordinates":[80.2937,9.6364],"type":"Point"}
+}

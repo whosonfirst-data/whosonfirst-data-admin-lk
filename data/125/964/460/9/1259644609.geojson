@@ -1,0 +1,67 @@
+{
+  "id": 1259644609,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"80.5202,6.8916,80.5202,6.8916",
+    "geom:latitude":6.8916,
+    "geom:longitude":80.5202,
+    "gn:admin1_code":"29.0",
+    "gn:asciiname":"Gallawattie",
+    "gn:country_code":"LK",
+    "gn:dem":1118,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8305098,
+    "gn:latitude":6.8916,
+    "gn:longitude":80.5202,
+    "gn:modification_date":"2012-06-07",
+    "gn:name":"Gallawattie",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632313,
+        85673731,
+        1092056403
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8305098
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"d415bbc26669508cad025e8e4a155f59",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "county_id":1092056403,
+            "locality_id":1259644609,
+            "region_id":85673731
+        }
+    ],
+    "wof:id":1259644609,
+    "wof:lastmodified":1536624819,
+    "wof:name":"Gallawattie",
+    "wof:parent_id":1092056403,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    80.5202,
+    6.8916,
+    80.5202,
+    6.8916
+],
+  "geometry": {"coordinates":[80.5202,6.8916],"type":"Point"}
+}

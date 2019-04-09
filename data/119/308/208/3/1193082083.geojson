@@ -1,0 +1,72 @@
+{
+  "id": 1193082083,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"80.0318,6.3873,80.0318,6.3873",
+    "geom:latitude":6.3873,
+    "geom:longitude":80.0318,
+    "gn:admin1_code":"34.0",
+    "gn:asciiname":"Mudannagoda",
+    "gn:country_code":"LK",
+    "gn:dem":4,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1234510,
+    "gn:latitude":6.3873,
+    "gn:longitude":80.0318,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Mudannagoda",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mudennegoda",
+        "Mudannagoda",
+        "Mudennagoda"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632313,
+        85673789,
+        1092057133
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1234510
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"ab8149a49035c72cf4c59d13afd9f756",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "county_id":1092057133,
+            "locality_id":1193082083,
+            "region_id":85673789
+        }
+    ],
+    "wof:id":1193082083,
+    "wof:lastmodified":1537661450,
+    "wof:name":"Mudannagoda",
+    "wof:parent_id":1092057133,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    80.0318,
+    6.3873,
+    80.0318,
+    6.3873
+],
+  "geometry": {"coordinates":[80.0318,6.3873],"type":"Point"}
+}

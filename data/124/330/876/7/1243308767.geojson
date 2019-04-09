@@ -1,0 +1,73 @@
+{
+  "id": 1243308767,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"80.6954,5.9716,80.6954,5.9716",
+    "geom:latitude":5.9716,
+    "geom:longitude":80.6954,
+    "gn:admin1_code":"34.0",
+    "gn:asciiname":"Dikwella",
+    "gn:country_code":"LK",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1247966,
+    "gn:latitude":5.9716,
+    "gn:longitude":80.6954,
+    "gn:modification_date":"2013-04-13",
+    "gn:name":"Dikwella",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Dikwella"
+    ],
+    "name:und_x_variant":[
+        "Dikwella South"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632313,
+        85673795,
+        1092057845
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1247966
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"45825034687dea9ad9e4f5baefbfdb54",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "county_id":1092057845,
+            "locality_id":1243308767,
+            "region_id":85673795
+        }
+    ],
+    "wof:id":1243308767,
+    "wof:lastmodified":1537661571,
+    "wof:name":"Dikwella",
+    "wof:parent_id":1092057845,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    80.6954,
+    5.9716,
+    80.6954,
+    5.9716
+],
+  "geometry": {"coordinates":[80.69540000000001,5.9716],"type":"Point"}
+}

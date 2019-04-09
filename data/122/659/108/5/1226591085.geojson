@@ -1,0 +1,70 @@
+{
+  "id": 1226591085,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"80.6177,6.7889,80.6177,6.7889",
+    "geom:latitude":6.7889,
+    "geom:longitude":80.6177,
+    "gn:admin1_code":"29.0",
+    "gn:asciiname":"Samimale",
+    "gn:country_code":"LK",
+    "gn:dem":1383,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7546459,
+    "gn:latitude":6.7889,
+    "gn:longitude":80.6177,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Samimale",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Nissankamalla Puraya"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632313,
+        85673731,
+        1092056403
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7546459
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"f087267efffc84ba6cf5bb55fa70b58a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "county_id":1092056403,
+            "locality_id":1226591085,
+            "region_id":85673731
+        }
+    ],
+    "wof:id":1226591085,
+    "wof:lastmodified":1537661609,
+    "wof:name":"Samimale",
+    "wof:parent_id":1092056403,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    80.6177,
+    6.7889,
+    80.6177,
+    6.7889
+],
+  "geometry": {"coordinates":[80.6177,6.7889],"type":"Point"}
+}

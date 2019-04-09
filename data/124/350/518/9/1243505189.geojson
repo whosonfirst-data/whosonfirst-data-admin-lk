@@ -1,0 +1,68 @@
+{
+  "id": 1243505189,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"80.63333,7.41667,80.63333,7.41667",
+    "geom:latitude":7.41667,
+    "geom:longitude":80.63333,
+    "gn:admin1_code":"29.0",
+    "gn:asciiname":"Gurukete",
+    "gn:country_code":"LK",
+    "gn:dem":430,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1245217,
+    "gn:latitude":7.41667,
+    "gn:longitude":80.63333,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Gurukete",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632313,
+        85673723,
+        1092067025
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1245217,
+        "wk:page":"Gurukete"
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"9f7e0af856267b29461308069712e496",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "county_id":1092067025,
+            "locality_id":1243505189,
+            "region_id":85673723
+        }
+    ],
+    "wof:id":1243505189,
+    "wof:lastmodified":1537568009,
+    "wof:name":"Gurukete",
+    "wof:parent_id":1092067025,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    80.63333,
+    7.41667,
+    80.63333,
+    7.41667
+],
+  "geometry": {"coordinates":[80.63333,7.41667],"type":"Point"}
+}

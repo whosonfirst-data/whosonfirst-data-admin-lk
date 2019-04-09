@@ -1,0 +1,67 @@
+{
+  "id": 1360233583,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"80.3928,6.7022,80.3928,6.7022",
+    "geom:latitude":6.7022,
+    "geom:longitude":80.3928,
+    "gn:admin1_code":"33.0",
+    "gn:asciiname":"Kospelawinna",
+    "gn:country_code":"LK",
+    "gn:dem":48,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7437295,
+    "gn:latitude":6.7022,
+    "gn:longitude":80.3928,
+    "gn:modification_date":"2010-08-07",
+    "gn:name":"Kospelawinna",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632313,
+        85673785,
+        1092065839
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7437295
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"53163cebe8dcae6b63333affcb1bddaf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "county_id":1092065839,
+            "locality_id":1360233583,
+            "region_id":85673785
+        }
+    ],
+    "wof:id":1360233583,
+    "wof:lastmodified":1536731865,
+    "wof:name":"Kospelawinna",
+    "wof:parent_id":1092065839,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    80.3928,
+    6.7022,
+    80.3928,
+    6.7022
+],
+  "geometry": {"coordinates":[80.39279999999999,6.7022],"type":"Point"}
+}

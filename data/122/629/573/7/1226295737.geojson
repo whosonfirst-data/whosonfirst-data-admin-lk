@@ -1,0 +1,71 @@
+{
+  "id": 1226295737,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"79.9907,6.5148,79.9907,6.5148",
+    "geom:latitude":6.5148,
+    "geom:longitude":79.9907,
+    "gn:admin1_code":"36.0",
+    "gn:asciiname":"Potuwila",
+    "gn:country_code":"LK",
+    "gn:dem":15,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1229687,
+    "gn:latitude":6.5148,
+    "gn:longitude":79.9907,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Potuwila",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Potuvila",
+        "Potuwila"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632313,
+        85673819,
+        1092057157
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1229687
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"dd2f24d30ff077567c73d2737f1b3c0c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "county_id":1092057157,
+            "locality_id":1226295737,
+            "region_id":85673819
+        }
+    ],
+    "wof:id":1226295737,
+    "wof:lastmodified":1537661405,
+    "wof:name":"Potuwila",
+    "wof:parent_id":1092057157,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    79.9907,
+    6.5148,
+    79.9907,
+    6.5148
+],
+  "geometry": {"coordinates":[79.9907,6.5148],"type":"Point"}
+}

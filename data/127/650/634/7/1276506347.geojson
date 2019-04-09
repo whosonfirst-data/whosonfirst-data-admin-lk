@@ -1,0 +1,71 @@
+{
+  "id": 1276506347,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"79.9109,7.4921,79.9109,7.4921",
+    "geom:latitude":7.4921,
+    "geom:longitude":79.9109,
+    "gn:admin1_code":"32.0",
+    "gn:asciiname":"Pothuwatawana",
+    "gn:country_code":"LK",
+    "gn:dem":20,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1229747,
+    "gn:latitude":7.4921,
+    "gn:longitude":79.9109,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Pothuwatawana",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Potuwatawana",
+        "Pothuwatawana"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632313,
+        85673777,
+        1092066989
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1229747
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"22ba861abda49f8626acae58487bc620",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "county_id":1092066989,
+            "locality_id":1276506347,
+            "region_id":85673777
+        }
+    ],
+    "wof:id":1276506347,
+    "wof:lastmodified":1537661405,
+    "wof:name":"Pothuwatawana",
+    "wof:parent_id":1092066989,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    79.9109,
+    7.4921,
+    79.9109,
+    7.4921
+],
+  "geometry": {"coordinates":[79.9109,7.4921],"type":"Point"}
+}

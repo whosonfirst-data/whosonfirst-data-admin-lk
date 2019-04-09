@@ -1,0 +1,71 @@
+{
+  "id": 1242716761,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"80.26667,9.15,80.26667,9.15",
+    "geom:latitude":9.15,
+    "geom:longitude":80.26667,
+    "gn:admin1_code":"38.0",
+    "gn:asciiname":"Tunukkai",
+    "gn:country_code":"LK",
+    "gn:dem":38,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1226174,
+    "gn:latitude":9.15,
+    "gn:longitude":80.26667,
+    "gn:modification_date":"2012-04-05",
+    "gn:name":"Tunukkai",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tunukai",
+        "Tunukkai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632313,
+        85673765,
+        1092066833
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1226174
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"5cc1a7e96ec811fc4bff664bc48e659e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "county_id":1092066833,
+            "locality_id":1242716761,
+            "region_id":85673765
+        }
+    ],
+    "wof:id":1242716761,
+    "wof:lastmodified":1537661363,
+    "wof:name":"Tunukkai",
+    "wof:parent_id":1092066833,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    80.26666999999998,
+    9.15,
+    80.26666999999998,
+    9.15
+],
+  "geometry": {"coordinates":[80.26666999999998,9.15],"type":"Point"}
+}

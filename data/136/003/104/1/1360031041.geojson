@@ -1,0 +1,67 @@
+{
+  "id": 1360031041,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"80.4794,7.507,80.4794,7.507",
+    "geom:latitude":7.507,
+    "geom:longitude":80.4794,
+    "gn:admin1_code":"32.0",
+    "gn:asciiname":"Bollegala",
+    "gn:country_code":"LK",
+    "gn:dem":343,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1249679,
+    "gn:latitude":7.507,
+    "gn:longitude":80.4794,
+    "gn:modification_date":"1994-01-08",
+    "gn:name":"Bollegala",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632313,
+        85673777,
+        1092065951
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1249679
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"6b72a260b869d065044ef2eb7c5dde17",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "county_id":1092065951,
+            "locality_id":1360031041,
+            "region_id":85673777
+        }
+    ],
+    "wof:id":1360031041,
+    "wof:lastmodified":1537022673,
+    "wof:name":"Bollegala",
+    "wof:parent_id":1092065951,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    80.4794,
+    7.507,
+    80.4794,
+    7.507
+],
+  "geometry": {"coordinates":[80.4794,7.507],"type":"Point"}
+}

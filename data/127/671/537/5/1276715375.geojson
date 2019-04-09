@@ -1,0 +1,67 @@
+{
+  "id": 1276715375,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"80.2454,7.0469,80.2454,7.0469",
+    "geom:latitude":7.0469,
+    "geom:longitude":80.2454,
+    "gn:admin1_code":"33.0",
+    "gn:asciiname":"Morawatta",
+    "gn:country_code":"LK",
+    "gn:dem":29,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1234623,
+    "gn:latitude":7.0469,
+    "gn:longitude":80.2454,
+    "gn:modification_date":"1994-01-08",
+    "gn:name":"Morawatta",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632313,
+        85673807,
+        1092065993
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1234623
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"21a59f19cb893f53d40bbab7c43086e2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "county_id":1092065993,
+            "locality_id":1276715375,
+            "region_id":85673807
+        }
+    ],
+    "wof:id":1276715375,
+    "wof:lastmodified":1536764377,
+    "wof:name":"Morawatta",
+    "wof:parent_id":1092065993,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    80.2454,
+    7.0469,
+    80.2454,
+    7.0469
+],
+  "geometry": {"coordinates":[80.2454,7.0469],"type":"Point"}
+}

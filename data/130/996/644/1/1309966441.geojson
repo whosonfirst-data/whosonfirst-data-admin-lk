@@ -1,0 +1,67 @@
+{
+  "id": 1309966441,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"80.51222,7.87583,80.51222,7.87583",
+    "geom:latitude":7.87583,
+    "geom:longitude":80.51222,
+    "gn:admin1_code":"30.0",
+    "gn:asciiname":"Kahalla",
+    "gn:country_code":"LK",
+    "gn:dem":174,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1242481,
+    "gn:latitude":7.87583,
+    "gn:longitude":80.51222,
+    "gn:modification_date":"1999-08-04",
+    "gn:name":"Kahalla",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632313,
+        85673751,
+        1092064793
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1242481
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"19287b77b08e0cfa2ca9849e95095850",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "county_id":1092064793,
+            "locality_id":1309966441,
+            "region_id":85673751
+        }
+    ],
+    "wof:id":1309966441,
+    "wof:lastmodified":1536700017,
+    "wof:name":"Kahalla",
+    "wof:parent_id":1092064793,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    80.51222,
+    7.87583,
+    80.51222,
+    7.87583
+],
+  "geometry": {"coordinates":[80.51222,7.87583],"type":"Point"}
+}

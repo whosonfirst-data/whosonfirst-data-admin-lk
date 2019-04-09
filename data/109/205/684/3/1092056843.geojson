@@ -1,0 +1,202 @@
+{
+  "id": 1092056843,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.003993,
+    "geom:area_square_m":49002456.243734,
+    "geom:bbox":"81.0445492519,6.9447778756,81.1295170321,7.01768711658",
+    "geom:latitude":6.98604,
+    "geom:longitude":81.090566,
+    "iso:country":"LK",
+    "lbl:latitude":6.988465,
+    "lbl:longitude":81.099061,
+    "meso:admin_1":"Badulla",
+    "meso:admin_1r":"Uva",
+    "meso:dissme":"BadullaBadullaUva",
+    "meso:gadm_admin":"Badulla",
+    "meso:gadm_hasc2":"LK.BD.BD",
+    "meso:mps_x":81.099061,
+    "meso:mps_y":6.988465,
+    "meso:name_en":"Badulla",
+    "meso:source":"AOTM",
+    "mps:latitude":6.988465,
+    "mps:longitude":81.099061,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u062d\u064a \u0628\u0627\u062f\u0648\u0644\u0627"
+    ],
+    "name:ben_x_preferred":[
+        "\u09ac\u09be\u09a6\u09c1\u09b2\u09be \u099c\u09c7\u09b2\u09be"
+    ],
+    "name:chi_x_preferred":[
+        "\u5df4\u675c\u52d2\u5340"
+    ],
+    "name:dan_x_preferred":[
+        "Badulla District"
+    ],
+    "name:dut_x_preferred":[
+        "Badulla"
+    ],
+    "name:eng_x_preferred":[
+        "Badulla"
+    ],
+    "name:eng_x_variant":[
+        "Badulla",
+        "Badulla District"
+    ],
+    "name:fin_x_preferred":[
+        "Badullan piirikunta"
+    ],
+    "name:fre_x_preferred":[
+        "Badulla"
+    ],
+    "name:geo_x_preferred":[
+        "\u10d1\u10d0\u10d3\u10e3\u10da\u10d8\u10e1 \u10dd\u10da\u10e5\u10d8"
+    ],
+    "name:ger_x_preferred":[
+        "Badulla"
+    ],
+    "name:gre_x_preferred":[
+        "\u039c\u03c0\u03b1\u03bd\u03c4\u03bf\u03cd\u03bb\u03b1"
+    ],
+    "name:guj_x_preferred":[
+        "\u0aac\u0aa1\u0ac1\u0ab2\u0abe \u0a9c\u0abf\u0ab2\u0acd\u0ab2\u0acb"
+    ],
+    "name:hin_x_preferred":[
+        "\u092c\u0921\u0941\u0932\u093e \u091c\u093f\u0932\u093e"
+    ],
+    "name:ind_x_preferred":[
+        "Distrik Badulla"
+    ],
+    "name:ita_x_preferred":[
+        "Distretto di Badulla"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30d0\u30c9\u30a5\u30c3\u30e9\u770c"
+    ],
+    "name:kan_x_preferred":[
+        "\u0cac\u0ca6\u0cc1\u0cb2\u0ccd\u0cb2\u0cbe \u0c9c\u0cbf\u0cb2\u0ccd\u0cb2\u0cc6"
+    ],
+    "name:kor_x_preferred":[
+        "\ubc14\ub458\ub77c \uad6c"
+    ],
+    "name:lav_x_preferred":[
+        "Badullas distrikts"
+    ],
+    "name:lit_x_preferred":[
+        "Badulos apskritis"
+    ],
+    "name:mar_x_preferred":[
+        "\u092c\u0926\u0941\u0932\u094d\u0932\u093e \u091c\u093f\u0932\u094d\u0939\u093e"
+    ],
+    "name:may_x_preferred":[
+        "Badulla District"
+    ],
+    "name:nob_x_preferred":[
+        "Badulla distrikt"
+    ],
+    "name:per_x_preferred":[
+        "\u0646\u0627\u062d\u06cc\u0647 \u0628\u0627\u062f\u0648\u0644\u0627"
+    ],
+    "name:pnb_x_preferred":[
+        "\u0636\u0644\u0639 \u0628\u0627\u062f\u0648\u0644\u0627"
+    ],
+    "name:pol_x_preferred":[
+        "Dystrykt Badulla"
+    ],
+    "name:por_x_preferred":[
+        "Distrito de Badulla"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u0430\u0434\u0443\u043b\u043b\u0430"
+    ],
+    "name:sin_x_preferred":[
+        "\u0db6\u0daf\u0dd4\u0dbd\u0dca\u0dbd \u0db4\u0dbb\u0dd2\u0db4\u0dcf\u0dbd\u0db1 \u0daf\u0dd2\u0dc3\u0dca\u0dad\u0dca\u200d\u0dbb\u0dd2\u0d9a\u0dca\u0d9a\u0dba"
+    ],
+    "name:spa_x_preferred":[
+        "Distrito de Badulla"
+    ],
+    "name:swe_x_preferred":[
+        "Badulla"
+    ],
+    "name:tam_x_preferred":[
+        "\u0baa\u0ba4\u0bc1\u0bb3\u0bc8 \u0bae\u0bbe\u0bb5\u0b9f\u0bcd\u0b9f\u0bae\u0bcd"
+    ],
+    "name:tel_x_preferred":[
+        "\u0c2c\u0c26\u0c41\u0c32\u0c4d\u0c32\u0c3e \u0c1c\u0c3f\u0c32\u0c4d\u0c32\u0c3e"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e40\u0e02\u0e15\u0e1a\u0e32\u0e14\u0e38\u0e25\u0e25\u0e32"
+    ],
+    "name:tur_x_preferred":[
+        "Badulla District"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0411\u0430\u0434\u0443\u043b\u043b\u0430"
+    ],
+    "name:urd_x_preferred":[
+        "\u0628\u0627\u062f\u0648\u0644\u0627 \u0636\u0644\u0639"
+    ],
+    "name:vie_x_preferred":[
+        "Qu\u1eadn Badulla"
+    ],
+    "src:geom":"meso",
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"statoids",
+    "src:population:date":"2012-03-20",
+    "statoids:area_km":"51",
+    "statoids:as_of_date":"2012-03-20",
+    "statoids:capital":"Badulla",
+    "statoids:country":"LK",
+    "statoids:hasc":"LK.BD",
+    "statoids:name":"Badulla",
+    "statoids:population":"75042",
+    "statoids:statoid":"LK.BD.BD",
+    "statoids:timezone":"+5:30",
+    "statoids:type":"division",
+    "wof:belongsto":[
+        102191569,
+        85632313,
+        85673801
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "hasc:id":"LK.BD.BD",
+        "wd:id":"Q799713"
+    },
+    "wof:country":"LK",
+    "wof:created":1473898779,
+    "wof:geomhash":"d60235ea600d2de0125cbb09c6f504db",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "county_id":1092056843,
+            "region_id":85673801
+        }
+    ],
+    "wof:id":1092056843,
+    "wof:lastmodified":1553816445,
+    "wof:name":"Badulla",
+    "wof:parent_id":85673801,
+    "wof:placetype":"county",
+    "wof:placetype_local":"division",
+    "wof:population":75042,
+    "wof:population_rank":8,
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:shortcode":"BD",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    81.04454925185074,
+    6.94477787560328,
+    81.12951703211056,
+    7.01768711657703
+],
+  "geometry": {"coordinates":[[[81.1007320848969,7.01768711657703],[81.10659722341629,7.01364508075143],[81.11129694379062,7.01],[81.1123562513194,7.01011362938706],[81.1174251169069,7.00752875572004],[81.12207744654413,7.00384704545705],[81.12263353224358,7.00129082371853],[81.12342972539062,6.99835855859152],[81.12462637418696,6.99587964915056],[81.12589222151787,6.99271409288564],[81.12365427477755,6.9871136468149],[81.12379432353883,6.98119056026348],[81.12788906944775,6.97808071324765],[81.12951703211056,6.97685456512985],[81.12914096341741,6.97104948160862],[81.1285565684432,6.96518694107755],[81.12813847894304,6.96386955967388],[81.12720631227597,6.96149680136022],[81.12374153335543,6.95728872335433],[81.11678965672419,6.94972809693777],[81.11286229303973,6.94477787560328],[81.10914460425724,6.94490680644158],[81.10325817802702,6.9469355128029],[81.10026640168124,6.94913932555353],[81.09908608791741,6.95035727486575],[81.09752477411993,6.95247522588208],[81.09404649728198,6.95533429002007],[81.09125422188671,6.95760862687282],[81.09057840192712,6.95833302530047],[81.08905811973074,6.95889007673285],[81.08635547887133,6.96196154604451],[81.08495258004871,6.96505562035841],[81.08419658171002,6.96693450096545],[81.08319342435584,6.96983340613877],[81.08097877930632,6.97240635433505],[81.0770370254817,6.97398405978893],[81.07407633479029,6.97398369397389],[81.07034909335195,6.96960014063848],[81.0639538885633,6.96716771227132],[81.05949807002162,6.96964259554579],[81.05844986999766,6.97125003354756],[81.05838369539306,6.97587894175507],[81.05577653536541,6.98094091479993],[81.05203832031384,6.9826518869622],[81.04635629102543,6.98288809216775],[81.04454925185074,6.99765094174628],[81.04614441603644,6.99833108150015],[81.04861198849204,6.99998801039279],[81.04955534439776,7.00628992673799],[81.0511415402452,7.01240198642342],[81.05720024037599,7.01367836203674],[81.06166194240282,7.01412732510468],[81.06196770792529,7.01414014484954],[81.06496795020543,7.01584121658152],[81.07364913494902,7.01679207663153],[81.08011817290313,7.0155025284614],[81.08216507847332,7.01482852223347],[81.08656433550594,7.01330053944718],[81.09508416428488,7.01478436221523],[81.1007320848969,7.01768711657703]]],"type":"Polygon"}
+}

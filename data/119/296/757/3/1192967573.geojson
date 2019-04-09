@@ -1,0 +1,67 @@
+{
+  "id": 1192967573,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"79.8183,7.4639,79.8183,7.4639",
+    "geom:latitude":7.4639,
+    "geom:longitude":79.8183,
+    "gn:admin1_code":"32.0",
+    "gn:asciiname":"Mattakotuwa Paduwa",
+    "gn:country_code":"LK",
+    "gn:dem":3,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1235819,
+    "gn:latitude":7.4639,
+    "gn:longitude":79.8183,
+    "gn:modification_date":"1994-01-08",
+    "gn:name":"Mattakotuwa Paduwa",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632313,
+        85673779,
+        1092062251
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1235819
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"b581a7b86ecf450017cfcb96e39c975c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "county_id":1092062251,
+            "locality_id":1192967573,
+            "region_id":85673779
+        }
+    ],
+    "wof:id":1192967573,
+    "wof:lastmodified":1536381814,
+    "wof:name":"Mattakotuwa Paduwa",
+    "wof:parent_id":1092062251,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    79.8183,
+    7.4639,
+    79.8183,
+    7.4639
+],
+  "geometry": {"coordinates":[79.81829999999999,7.4639],"type":"Point"}
+}

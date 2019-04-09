@@ -1,0 +1,67 @@
+{
+  "id": 1193204663,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"81.2328,6.8904,81.2328,6.8904",
+    "geom:latitude":6.8904,
+    "geom:longitude":81.2328,
+    "gn:admin1_code":"35.0",
+    "gn:asciiname":"Kiramana",
+    "gn:country_code":"LK",
+    "gn:dem":493,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7618154,
+    "gn:latitude":6.8904,
+    "gn:longitude":81.2328,
+    "gn:modification_date":"2010-12-04",
+    "gn:name":"Kiramana",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632313,
+        85673803,
+        1092056763
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7618154
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"90721563d4eca2a6418a47d3b3dca619",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "county_id":1092056763,
+            "locality_id":1193204663,
+            "region_id":85673803
+        }
+    ],
+    "wof:id":1193204663,
+    "wof:lastmodified":1536368998,
+    "wof:name":"Kiramana",
+    "wof:parent_id":1092056763,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    81.2328,
+    6.8904,
+    81.2328,
+    6.8904
+],
+  "geometry": {"coordinates":[81.2328,6.8904],"type":"Point"}
+}

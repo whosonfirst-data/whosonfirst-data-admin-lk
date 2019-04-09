@@ -1,0 +1,70 @@
+{
+  "id": 1242723175,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"81.1419,6.3985,81.1419,6.3985",
+    "geom:latitude":6.3985,
+    "geom:longitude":81.1419,
+    "gn:admin1_code":"34.0",
+    "gn:asciiname":"Kotakumbuke",
+    "gn:country_code":"LK",
+    "gn:dem":71,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1239122,
+    "gn:latitude":6.3985,
+    "gn:longitude":81.1419,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Kotakumbuke",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kotakumbukka"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632313,
+        85673791,
+        1092061903
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1239122
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"27f5af2b68b960aa14f4c533aa114eb7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "county_id":1092061903,
+            "locality_id":1242723175,
+            "region_id":85673791
+        }
+    ],
+    "wof:id":1242723175,
+    "wof:lastmodified":1537661491,
+    "wof:name":"Kotakumbuke",
+    "wof:parent_id":1092061903,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    81.1419,
+    6.3985,
+    81.1419,
+    6.3985
+],
+  "geometry": {"coordinates":[81.14190000000001,6.3985],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1309859933,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"80.344,6.6085,80.344,6.6085",
+    "geom:latitude":6.6085,
+    "geom:longitude":80.344,
+    "gn:admin1_code":"33.0",
+    "gn:asciiname":"Galaudakanda",
+    "gn:country_code":"LK",
+    "gn:dem":185,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1246517,
+    "gn:latitude":6.6085,
+    "gn:longitude":80.344,
+    "gn:modification_date":"1994-01-08",
+    "gn:name":"Galaudakanda",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632313,
+        85673785,
+        1092056723
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1246517
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"a60bf6a9887e17dd521a212b41a49bce",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "county_id":1092056723,
+            "locality_id":1309859933,
+            "region_id":85673785
+        }
+    ],
+    "wof:id":1309859933,
+    "wof:lastmodified":1536852126,
+    "wof:name":"Galaudakanda",
+    "wof:parent_id":1092056723,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    80.344,
+    6.6085,
+    80.344,
+    6.6085
+],
+  "geometry": {"coordinates":[80.34399999999999,6.6085],"type":"Point"}
+}

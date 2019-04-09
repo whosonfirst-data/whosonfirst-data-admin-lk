@@ -1,0 +1,75 @@
+{
+  "id": 421191037,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"79.807434,7.576243,79.807434,7.576243",
+    "geom:latitude":7.576243,
+    "geom:longitude":79.807434,
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "qs:gn_country":null,
+    "qs:gn_fcode":null,
+    "qs:gn_id":0,
+    "qs:gn_pop":0,
+    "qs:name":"Chilaw town",
+    "qs:name_adm0":"Sri Lanka",
+    "qs:name_adm1":"North Western",
+    "qs:photos":45,
+    "qs:photos_1k":9,
+    "qs:photos_9k":1,
+    "qs:photos_9r":2,
+    "qs:photos_all":45,
+    "qs:photos_sr":2,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":1130057,
+    "qs:woe_adm0":23424778,
+    "qs:woe_id":2174980,
+    "src:geom":"quattroshapes",
+    "wof:belongsto":[
+        102191569,
+        85632313,
+        85673779,
+        1092057373
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":2174980,
+        "qs:id":1130057
+    },
+    "wof:country":"LK",
+    "wof:created":1459009677,
+    "wof:geomhash":"64b2dc3c4f1329927107f682a89cea59",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "county_id":1092057373,
+            "locality_id":421191037,
+            "region_id":85673779
+        }
+    ],
+    "wof:id":421191037,
+    "wof:lastmodified":1500070288,
+    "wof:name":"Chilaw town",
+    "wof:parent_id":1092057373,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    79.807434,
+    7.576243,
+    79.807434,
+    7.576243
+],
+  "geometry": {"coordinates":[79.807434,7.576243],"type":"Point"}
+}

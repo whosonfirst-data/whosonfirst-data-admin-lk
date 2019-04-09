@@ -1,0 +1,202 @@
+{
+  "id": 1092058643,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.007172,
+    "geom:area_square_m":88011524.120395,
+    "geom:bbox":"79.9240004286,7.01172794232,80.0542160403,7.11565677265",
+    "geom:latitude":7.068745,
+    "geom:longitude":79.995588,
+    "iso:country":"LK",
+    "lbl:latitude":7.063765,
+    "lbl:longitude":79.991149,
+    "meso:admin_1":"Gampaha",
+    "meso:admin_1r":"Western",
+    "meso:dissme":"GampahaGampahaWestern",
+    "meso:gadm_admin":"Gampaha",
+    "meso:gadm_hasc2":"LK.GQ.GA",
+    "meso:mps_x":79.991149,
+    "meso:mps_y":7.063765,
+    "meso:name_en":"Gampaha",
+    "meso:source":"AOTM",
+    "mps:latitude":7.063765,
+    "mps:longitude":79.991149,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0645\u0642\u0627\u0637\u0639\u0629 \u062c\u0627\u0645\u0628\u0627\u0647\u0627"
+    ],
+    "name:ben_x_preferred":[
+        "\u0997\u09be\u09ae\u09cd\u09aa\u09be\u09b9\u09be \u099c\u09c7\u09b2\u09be"
+    ],
+    "name:chi_x_preferred":[
+        "\u52a0\u59c6\u73c0\u54c8\u5340"
+    ],
+    "name:dan_x_preferred":[
+        "Gampaha District"
+    ],
+    "name:dut_x_preferred":[
+        "Gampaha"
+    ],
+    "name:eng_x_preferred":[
+        "Gampaha"
+    ],
+    "name:eng_x_variant":[
+        "Gampaha",
+        "Gampaha District"
+    ],
+    "name:fin_x_preferred":[
+        "Gampahan piirikunta"
+    ],
+    "name:fre_x_preferred":[
+        "Gampaha"
+    ],
+    "name:geo_x_preferred":[
+        "\u10d2\u10d0\u10db\u10de\u10d0\u10f0\u10d8\u10e1 \u10dd\u10da\u10e5\u10d8"
+    ],
+    "name:ger_x_preferred":[
+        "Gampaha"
+    ],
+    "name:gre_x_preferred":[
+        "\u0393\u03ba\u03b1\u03bc\u03c0\u03ac\u03c7\u03b1"
+    ],
+    "name:guj_x_preferred":[
+        "\u0a97\u0aae\u0acd\u0aaa\u0abe\u0ab9\u0abe \u0a9c\u0abf\u0ab2\u0acd\u0ab2\u0acb"
+    ],
+    "name:hin_x_preferred":[
+        "\u0917\u092e\u094d\u092a\u093e\u0939 \u091c\u093f\u0932\u093e"
+    ],
+    "name:ind_x_preferred":[
+        "Distrik Gampaha"
+    ],
+    "name:ita_x_preferred":[
+        "Distretto di Gampaha"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30ac\u30f3\u30d1\u30cf\u770c"
+    ],
+    "name:kan_x_preferred":[
+        "\u0c97\u0cbe\u0c82\u0caa\u0cb9  \u0c9c\u0cbf\u0cb2\u0ccd\u0cb2\u0cc6"
+    ],
+    "name:kor_x_preferred":[
+        "\uac10\ud30c\ud558 \uad6c"
+    ],
+    "name:lav_x_preferred":[
+        "Gampahas distrikts"
+    ],
+    "name:lit_x_preferred":[
+        "Gampachos sritis"
+    ],
+    "name:mar_x_preferred":[
+        "\u0917\u092e\u094d\u092a\u0939\u093e \u091c\u093f\u0932\u094d\u0939\u093e"
+    ],
+    "name:may_x_preferred":[
+        "Gampaha District"
+    ],
+    "name:nob_x_preferred":[
+        "Gampaha distrikt"
+    ],
+    "name:per_x_preferred":[
+        "\u0646\u0627\u062d\u06cc\u0647 \u06af\u0627\u0645\u067e\u0627\u0647\u0627"
+    ],
+    "name:pnb_x_preferred":[
+        "\u0636\u0644\u0639 \u06af\u0645\u0641\u0627"
+    ],
+    "name:pol_x_preferred":[
+        "Dystrykt Gampaha"
+    ],
+    "name:por_x_preferred":[
+        "Distrito de Gampaha"
+    ],
+    "name:rus_x_preferred":[
+        "\u043e\u043a\u0440\u0443\u0433 \u0413\u0430\u043c\u043f\u0430\u0445\u0430"
+    ],
+    "name:sin_x_preferred":[
+        "\u0d9c\u0db8\u0dca\u0db4\u0dc4 \u0db4\u0dbb\u0dd2\u0db4\u0dcf\u0dbd\u0db1 \u0daf\u0dd2\u0dc3\u0dca\u0dad\u0dca\u200d\u0dbb\u0dd2\u0d9a\u0dca\u0d9a\u0dba"
+    ],
+    "name:spa_x_preferred":[
+        "Distrito de Gampaha"
+    ],
+    "name:swe_x_preferred":[
+        "Gampaha"
+    ],
+    "name:tam_x_preferred":[
+        "\u0b95\u0bae\u0bcd\u0baa\u0b95\u0bbe \u0bae\u0bbe\u0bb5\u0b9f\u0bcd\u0b9f\u0bae\u0bcd"
+    ],
+    "name:tel_x_preferred":[
+        "\u0c17\u0c02\u0c2a\u0c3e\u0c39\u0c3e \u0c1c\u0c3f\u0c32\u0c4d\u0c32\u0c3e"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e40\u0e02\u0e15\u0e04\u0e31\u0e21\u0e1b\u0e32\u0e2e\u0e32"
+    ],
+    "name:tur_x_preferred":[
+        "Gampaha District"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0413\u0430\u043c\u043f\u0430\u0445\u0430"
+    ],
+    "name:urd_x_preferred":[
+        "\u06af\u0627\u0645\u067e\u0627\u06c1\u0627 \u0636\u0644\u0639"
+    ],
+    "name:vie_x_preferred":[
+        "Qu\u1eadn Gampaha"
+    ],
+    "src:geom":"meso",
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"statoids",
+    "src:population:date":"2012-03-20",
+    "statoids:area_km":"96",
+    "statoids:as_of_date":"2012-03-20",
+    "statoids:capital":"Brandiyamulla",
+    "statoids:country":"LK",
+    "statoids:hasc":"LK.GQ",
+    "statoids:name":"Gampaha",
+    "statoids:population":"197667",
+    "statoids:statoid":"LK.GQ.GA",
+    "statoids:timezone":"+5:30",
+    "statoids:type":"division",
+    "wof:belongsto":[
+        102191569,
+        85632313,
+        85673815
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "hasc:id":"LK.GQ.GA",
+        "wd:id":"Q206344"
+    },
+    "wof:country":"LK",
+    "wof:created":1473898850,
+    "wof:geomhash":"521b75559179525b389f8f285aee01f7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "county_id":1092058643,
+            "region_id":85673815
+        }
+    ],
+    "wof:id":1092058643,
+    "wof:lastmodified":1536615142,
+    "wof:name":"Gampaha",
+    "wof:parent_id":85673815,
+    "wof:placetype":"county",
+    "wof:placetype_local":"division",
+    "wof:population":197667,
+    "wof:population_rank":9,
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:shortcode":"GA",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    79.92400042855132,
+    7.01172794232431,
+    80.05421604030352,
+    7.11565677265282
+],
+  "geometry": {"coordinates":[[[79.93803913800437,7.10325203038054],[79.93965133022544,7.10410576483868],[79.94589713827352,7.10380318548698],[79.95345831174851,7.09880403027811],[79.95714676089108,7.0943952079335],[79.95929523961806,7.09376008234274],[79.96189268310329,7.09416450841352],[79.96614530745265,7.09367344429483],[79.97134499456796,7.09310536152269],[79.97510140728812,7.09510140728662],[79.97750394790312,7.09741261104016],[79.9816534974091,7.09628545091678],[79.98857591714827,7.09571740649906],[79.99289844063537,7.09712281288476],[79.99452672208093,7.09757603502992],[79.99585181801142,7.09832142749234],[79.99895205455744,7.09967123566168],[80.00323114454156,7.10041293481952],[80.01374912891012,7.10963864558261],[80.02504447371282,7.10902424315598],[80.02953178430508,7.10913902872109],[80.03483087912389,7.11142377030779],[80.0373063753147,7.11417740474878],[80.03863099218603,7.11525422064095],[80.04356035084986,7.11565677265282],[80.04950781540177,7.11521790507778],[80.05247690774127,7.11332335008906],[80.05421604030352,7.11065050601427],[80.0529101954892,7.10428670799493],[80.05129188850579,7.0981210299537],[80.05070023129745,7.09541057268465],[80.04996467033543,7.09021671822181],[80.05116196498284,7.08415940007019],[80.05249674885467,7.08167403312381],[80.04727484870664,7.07372322829784],[80.03757147146294,7.07207622431938],[80.03028754507667,7.07256555955798],[80.0287221011815,7.06853226698628],[80.02807267787119,7.06312371129154],[80.0258420672933,7.05711252496183],[80.02371269796004,7.05014661853655],[80.02530795782707,7.04649271278116],[80.02881890431451,7.0449972598579],[80.03224277422935,7.04239386234834],[80.0341771411957,7.03879128890722],[80.03458728970762,7.03516215000841],[80.03320417712183,7.03157179498849],[80.03033214532036,7.02846935565203],[80.02725218484915,7.0246560174933],[80.02637133291663,7.02176927743376],[80.02191248535247,7.01654059413225],[80.01714871876771,7.01172794232431],[80.01555413479805,7.0121553162441],[80.0108165760619,7.01280803789853],[80.00541943316617,7.01509759011906],[80.00262601345867,7.01850769544497],[80.00251784103926,7.0228533276268],[79.9979325667107,7.02901369873477],[79.98976358534584,7.03137740719716],[79.98591764645079,7.03092461836948],[79.98302469259011,7.03057094956319],[79.98044386422566,7.03],[79.97741917163702,7.02879536045834],[79.97350442255056,7.02777174801335],[79.96958542383518,7.02936504141741],[79.96490663196792,7.03515801142937],[79.96251707919734,7.04024323167998],[79.96276308163452,7.04145939565653],[79.96270421517377,7.0471466847818],[79.95745491876741,7.05537147707334],[79.95264467342675,7.05842062767011],[79.94924458361791,7.0611004881537],[79.94537078088044,7.06235442391069],[79.94194051560204,7.06211227075344],[79.93818563350675,7.0623994767971],[79.93225516984944,7.0624012055327],[79.92565321285171,7.06307182470473],[79.92400042855132,7.06896091695143],[79.92754367348215,7.07631405750088],[79.93139543738688,7.07914696409149],[79.93522293265303,7.08102230746223],[79.93994202466902,7.08403895701921],[79.939934399905,7.0941842457296],[79.93803913800437,7.10325203038054]]],"type":"Polygon"}
+}

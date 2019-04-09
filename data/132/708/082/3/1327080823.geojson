@@ -1,0 +1,67 @@
+{
+  "id": 1327080823,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"80.2059,8.3123,80.2059,8.3123",
+    "geom:latitude":8.3123,
+    "geom:longitude":80.2059,
+    "gn:admin1_code":"30.0",
+    "gn:asciiname":"Pahala Galgiriyagama",
+    "gn:country_code":"LK",
+    "gn:dem":88,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8304833,
+    "gn:latitude":8.3123,
+    "gn:longitude":80.2059,
+    "gn:modification_date":"2012-06-07",
+    "gn:name":"Pahala Galgiriyagama",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632313,
+        85673751,
+        1092064279
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8304833
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"de687a45531a6fe0c6644a497b5dc21c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "county_id":1092064279,
+            "locality_id":1327080823,
+            "region_id":85673751
+        }
+    ],
+    "wof:id":1327080823,
+    "wof:lastmodified":1536690835,
+    "wof:name":"Pahala Galgiriyagama",
+    "wof:parent_id":1092064279,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    80.2059,
+    8.3123,
+    80.2059,
+    8.3123
+],
+  "geometry": {"coordinates":[80.2059,8.3123],"type":"Point"}
+}

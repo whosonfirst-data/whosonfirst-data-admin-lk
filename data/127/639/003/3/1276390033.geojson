@@ -1,0 +1,67 @@
+{
+  "id": 1276390033,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"80.0152,9.707,80.0152,9.707",
+    "geom:latitude":9.707,
+    "geom:longitude":80.0152,
+    "gn:admin1_code":"38.0",
+    "gn:asciiname":"Tavadi",
+    "gn:country_code":"LK",
+    "gn:dem":14,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1226948,
+    "gn:latitude":9.707,
+    "gn:longitude":80.0152,
+    "gn:modification_date":"2012-04-05",
+    "gn:name":"Tavadi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632313,
+        85673769,
+        1092063801
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1226948
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"93211ebb19970d12893e5d86841641d8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "county_id":1092063801,
+            "locality_id":1276390033,
+            "region_id":85673769
+        }
+    ],
+    "wof:id":1276390033,
+    "wof:lastmodified":1536702961,
+    "wof:name":"Tavadi",
+    "wof:parent_id":1092063801,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    80.0152,
+    9.707,
+    80.0152,
+    9.707
+],
+  "geometry": {"coordinates":[80.01519999999999,9.707],"type":"Point"}
+}

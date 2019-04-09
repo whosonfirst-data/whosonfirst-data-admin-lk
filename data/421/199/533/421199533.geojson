@@ -1,0 +1,94 @@
+{
+  "id": 421199533,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"80.5841,7.2622,80.5841,7.2622",
+    "geom:latitude":7.2622,
+    "geom:longitude":80.5841,
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:deu_x_preferred":[
+        "Peradeniya"
+    ],
+    "name:sin_x_preferred":[
+        "\u0db4\u0dda\u0dbb\u0dcf\u0daf\u0dd9\u0dab\u0dd2\u0dba"
+    ],
+    "name:swe_x_preferred":[
+        "Peradeniya"
+    ],
+    "name:tam_x_preferred":[
+        "\u0baa\u0bc7\u0bb0\u0bbe\u0ba4\u0ba9\u0bc8"
+    ],
+    "name:unk_x_variant":[
+        "Old Peradeniya"
+    ],
+    "qs:gn_country":"LK",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":1230553,
+    "qs:gn_pop":0,
+    "qs:name":"Peradeniya",
+    "qs:name_adm0":"Sri Lanka",
+    "qs:name_adm1":"Central",
+    "qs:photos":216,
+    "qs:photos_1k":44,
+    "qs:photos_9k":1,
+    "qs:photos_9r":4,
+    "qs:photos_all":216,
+    "qs:photos_sr":4,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":479390,
+    "qs:woe_adm0":23424778,
+    "qs:woe_id":2189567,
+    "src:geom":"quattroshapes",
+    "wd:wordcount":151,
+    "wof:belongsto":[
+        102191569,
+        85632313,
+        85673719,
+        1092068267
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1230553,
+        "gp:id":2189567,
+        "qs:id":479390,
+        "wd:id":"Q489744",
+        "wk:page":"Peradeniya"
+    },
+    "wof:country":"LK",
+    "wof:created":1459009992,
+    "wof:geomhash":"b86eb00fba9347179002c5b99dbea07e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "county_id":1092068267,
+            "locality_id":421199533,
+            "region_id":85673719
+        }
+    ],
+    "wof:id":421199533,
+    "wof:lastmodified":1527716409,
+    "wof:name":"Peradeniya",
+    "wof:parent_id":1092068267,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    80.5841,
+    7.2622,
+    80.5841,
+    7.2622
+],
+  "geometry": {"coordinates":[80.58410000000001,7.2622],"type":"Point"}
+}

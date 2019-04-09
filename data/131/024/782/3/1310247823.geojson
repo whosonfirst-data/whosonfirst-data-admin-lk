@@ -1,0 +1,67 @@
+{
+  "id": 1310247823,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"81.7045,7.7387,81.7045,7.7387",
+    "geom:latitude":7.7387,
+    "geom:longitude":81.7045,
+    "gn:admin1_code":"37.0",
+    "gn:asciiname":"Navalady",
+    "gn:country_code":"LK",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1233569,
+    "gn:latitude":7.7387,
+    "gn:longitude":81.7045,
+    "gn:modification_date":"2012-04-05",
+    "gn:name":"Navalady",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632313,
+        85673737,
+        1092062477
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1233569
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"28167c5755e3e7b8f6adef3d63668fab",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "county_id":1092062477,
+            "locality_id":1310247823,
+            "region_id":85673737
+        }
+    ],
+    "wof:id":1310247823,
+    "wof:lastmodified":1536791541,
+    "wof:name":"Navalady",
+    "wof:parent_id":1092062477,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    81.7045,
+    7.7387,
+    81.7045,
+    7.7387
+],
+  "geometry": {"coordinates":[81.7045,7.7387],"type":"Point"}
+}

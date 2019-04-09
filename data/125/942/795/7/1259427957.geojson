@@ -1,0 +1,67 @@
+{
+  "id": 1259427957,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"80.82,6.1432,80.82,6.1432",
+    "geom:latitude":6.1432,
+    "geom:longitude":80.82,
+    "gn:admin1_code":"34.0",
+    "gn:asciiname":"Medayala",
+    "gn:country_code":"LK",
+    "gn:dem":46,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1235489,
+    "gn:latitude":6.1432,
+    "gn:longitude":80.82,
+    "gn:modification_date":"1994-01-08",
+    "gn:name":"Medayala",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632313,
+        85673791,
+        1092056653
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1235489
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"ea1a8cf967c43bae5b7e529f8458c9b1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "county_id":1092056653,
+            "locality_id":1259427957,
+            "region_id":85673791
+        }
+    ],
+    "wof:id":1259427957,
+    "wof:lastmodified":1536939323,
+    "wof:name":"Medayala",
+    "wof:parent_id":1092056653,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    80.82,
+    6.1432,
+    80.82,
+    6.1432
+],
+  "geometry": {"coordinates":[80.81999999999999,6.1432],"type":"Point"}
+}

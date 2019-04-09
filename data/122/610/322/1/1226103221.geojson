@@ -1,0 +1,68 @@
+{
+  "id": 1226103221,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"80.4538,7.325,80.4538,7.325",
+    "geom:latitude":7.325,
+    "geom:longitude":80.4538,
+    "gn:admin1_code":"29.0",
+    "gn:asciiname":"Yaggala",
+    "gn:country_code":"LK",
+    "gn:dem":295,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1223027,
+    "gn:latitude":7.325,
+    "gn:longitude":80.4538,
+    "gn:modification_date":"2012-05-05",
+    "gn:name":"Yaggala",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632313,
+        85673719,
+        1092059275
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1223027,
+        "wk:page":"Yaggala"
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"f3d3730f2a72232dff8e93b21099304d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "county_id":1092059275,
+            "locality_id":1226103221,
+            "region_id":85673719
+        }
+    ],
+    "wof:id":1226103221,
+    "wof:lastmodified":1537567958,
+    "wof:name":"Yaggala",
+    "wof:parent_id":1092059275,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    80.4538,
+    7.325,
+    80.4538,
+    7.325
+],
+  "geometry": {"coordinates":[80.4538,7.325],"type":"Point"}
+}

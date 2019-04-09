@@ -1,0 +1,71 @@
+{
+  "id": 1326883309,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"80.0738,6.8096,80.0738,6.8096",
+    "geom:latitude":6.8096,
+    "geom:longitude":80.0738,
+    "gn:admin1_code":"36.0",
+    "gn:asciiname":"Kotigangoda",
+    "gn:country_code":"LK",
+    "gn:dem":33,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1239054,
+    "gn:latitude":6.8096,
+    "gn:longitude":80.0738,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Kotigangoda",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kotikangoda",
+        "Kotigangoda"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632313,
+        85673819,
+        1092059431
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1239054
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"3f2b875ad83aea3f7ea3daff56222293",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "county_id":1092059431,
+            "locality_id":1326883309,
+            "region_id":85673819
+        }
+    ],
+    "wof:id":1326883309,
+    "wof:lastmodified":1537661490,
+    "wof:name":"Kotigangoda",
+    "wof:parent_id":1092059431,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    80.0738,
+    6.8096,
+    80.0738,
+    6.8096
+],
+  "geometry": {"coordinates":[80.07380000000001,6.8096],"type":"Point"}
+}

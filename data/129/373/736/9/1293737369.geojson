@@ -1,0 +1,67 @@
+{
+  "id": 1293737369,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"81.0705,6.8796,81.0705,6.8796",
+    "geom:latitude":6.8796,
+    "geom:longitude":81.0705,
+    "gn:admin1_code":"35.0",
+    "gn:asciiname":"Yahalawelagama",
+    "gn:country_code":"LK",
+    "gn:dem":1093,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7616656,
+    "gn:latitude":6.8796,
+    "gn:longitude":81.0705,
+    "gn:modification_date":"2010-12-04",
+    "gn:name":"Yahalawelagama",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632313,
+        85673801,
+        1092058259
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7616656
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"6a8b4e8779c752635d0ced816def3012",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "county_id":1092058259,
+            "locality_id":1293737369,
+            "region_id":85673801
+        }
+    ],
+    "wof:id":1293737369,
+    "wof:lastmodified":1536924795,
+    "wof:name":"Yahalawelagama",
+    "wof:parent_id":1092058259,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    81.0705,
+    6.8796,
+    81.0705,
+    6.8796
+],
+  "geometry": {"coordinates":[81.0705,6.8796],"type":"Point"}
+}

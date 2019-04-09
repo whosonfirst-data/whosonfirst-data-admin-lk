@@ -1,0 +1,67 @@
+{
+  "id": 1193065131,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"80.7211,6.6046,80.7211,6.6046",
+    "geom:latitude":6.6046,
+    "geom:longitude":80.7211,
+    "gn:admin1_code":"33.0",
+    "gn:asciiname":"Hindiya",
+    "gn:country_code":"LK",
+    "gn:dem":626,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7546858,
+    "gn:latitude":6.6046,
+    "gn:longitude":80.7211,
+    "gn:modification_date":"2010-10-09",
+    "gn:name":"Hindiya",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632313,
+        85673785,
+        1092067851
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7546858
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"c9f5753038b77ac4aaf7dd5903633609",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "county_id":1092067851,
+            "locality_id":1193065131,
+            "region_id":85673785
+        }
+    ],
+    "wof:id":1193065131,
+    "wof:lastmodified":1536373716,
+    "wof:name":"Hindiya",
+    "wof:parent_id":1092067851,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    80.7211,
+    6.6046,
+    80.7211,
+    6.6046
+],
+  "geometry": {"coordinates":[80.72110000000001,6.6046],"type":"Point"}
+}

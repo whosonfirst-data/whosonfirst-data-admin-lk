@@ -1,0 +1,94 @@
+{
+  "id": 421192551,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"80.0796,6.9086,80.0796,6.9086",
+    "geom:latitude":6.9086,
+    "geom:longitude":80.0796,
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:cat_x_preferred":[
+        "Hanwella"
+    ],
+    "name:dut_x_preferred":[
+        "Hanwella"
+    ],
+    "name:eng_x_preferred":[
+        "Hanwella"
+    ],
+    "name:sin_x_preferred":[
+        "\u0dc4\u0d82\u0dc0\u0dd0\u0dbd\u0dca\u0dbd"
+    ],
+    "name:tam_x_preferred":[
+        "\u0bb9\u0ba9\u0bcd\u0bb5\u0bc6\u0bb2\u0bcd\u0bb2\u0bc8"
+    ],
+    "qs:gn_country":"LK",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":1244779,
+    "qs:gn_pop":0,
+    "qs:name":"Hanwella",
+    "qs:name_adm0":"Sri Lanka",
+    "qs:name_adm1":"Western",
+    "qs:photos":5,
+    "qs:photos_1k":1,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":5,
+    "qs:photos_sr":1,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":1168397,
+    "qs:woe_adm0":23424778,
+    "qs:woe_id":2189690,
+    "src:geom":"quattroshapes",
+    "wd:wordcount":517,
+    "wof:belongsto":[
+        102191569,
+        85632313,
+        85673811,
+        1092066109
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1244779,
+        "gp:id":2189690,
+        "qs:id":1168397,
+        "wd:id":"Q5651423",
+        "wk:page":"Hanwella"
+    },
+    "wof:country":"LK",
+    "wof:created":1459009740,
+    "wof:geomhash":"5348cbaa75efbd7127d24c6c132cb489",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "county_id":1092066109,
+            "locality_id":421192551,
+            "region_id":85673811
+        }
+    ],
+    "wof:id":421192551,
+    "wof:lastmodified":1527716107,
+    "wof:name":"Hanwella",
+    "wof:parent_id":1092066109,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    80.0796,
+    6.9086,
+    80.0796,
+    6.9086
+],
+  "geometry": {"coordinates":[80.0796,6.9086],"type":"Point"}
+}

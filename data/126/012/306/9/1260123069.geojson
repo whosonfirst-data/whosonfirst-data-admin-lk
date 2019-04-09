@@ -1,0 +1,67 @@
+{
+  "id": 1260123069,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"81.1862,8.6014,81.1862,8.6014",
+    "geom:latitude":8.6014,
+    "geom:longitude":81.1862,
+    "gn:admin1_code":"37.0",
+    "gn:asciiname":"Andankulam",
+    "gn:country_code":"LK",
+    "gn:dem":37,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1251305,
+    "gn:latitude":8.6014,
+    "gn:longitude":81.1862,
+    "gn:modification_date":"2012-04-05",
+    "gn:name":"Andankulam",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632313,
+        85673747,
+        1092066907
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1251305
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"995479752c779a48336b6bc245a0fcd7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "county_id":1092066907,
+            "locality_id":1260123069,
+            "region_id":85673747
+        }
+    ],
+    "wof:id":1260123069,
+    "wof:lastmodified":1536931894,
+    "wof:name":"Andankulam",
+    "wof:parent_id":1092066907,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    81.1862,
+    8.6014,
+    81.1862,
+    8.6014
+],
+  "geometry": {"coordinates":[81.1862,8.6014],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1293344453,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"80.4482,7.2416,80.4482,7.2416",
+    "geom:latitude":7.2416,
+    "geom:longitude":80.4482,
+    "gn:admin1_code":"33.0",
+    "gn:asciiname":"Keraminiya",
+    "gn:country_code":"LK",
+    "gn:dem":210,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1240482,
+    "gn:latitude":7.2416,
+    "gn:longitude":80.4482,
+    "gn:modification_date":"1994-01-08",
+    "gn:name":"Keraminiya",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632313,
+        85673807,
+        1092062987
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1240482
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"d81d775aa797e3ea51e9b1606fa9e125",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "county_id":1092062987,
+            "locality_id":1293344453,
+            "region_id":85673807
+        }
+    ],
+    "wof:id":1293344453,
+    "wof:lastmodified":1536992539,
+    "wof:name":"Keraminiya",
+    "wof:parent_id":1092062987,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    80.4482,
+    7.2416,
+    80.4482,
+    7.2416
+],
+  "geometry": {"coordinates":[80.4482,7.2416],"type":"Point"}
+}

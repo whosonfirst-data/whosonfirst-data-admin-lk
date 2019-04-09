@@ -1,0 +1,68 @@
+{
+  "id": 1293942587,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"80.3482,7.2675,80.3482,7.2675",
+    "geom:latitude":7.2675,
+    "geom:longitude":80.3482,
+    "gn:admin1_code":"33.0",
+    "gn:asciiname":"Pussella",
+    "gn:country_code":"LK",
+    "gn:dem":285,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1229326,
+    "gn:latitude":7.2675,
+    "gn:longitude":80.3482,
+    "gn:modification_date":"2013-04-03",
+    "gn:name":"Pussella",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632313,
+        85673807,
+        890455861
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1229326,
+        "wk:page":"Pussella"
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"f28168675fea39b82490804789f91a29",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "county_id":890455861,
+            "locality_id":1293942587,
+            "region_id":85673807
+        }
+    ],
+    "wof:id":1293942587,
+    "wof:lastmodified":1537567977,
+    "wof:name":"Pussella",
+    "wof:parent_id":890455861,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    80.3482,
+    7.2675,
+    80.3482,
+    7.2675
+],
+  "geometry": {"coordinates":[80.34820000000001,7.2675],"type":"Point"}
+}

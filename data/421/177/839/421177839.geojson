@@ -1,0 +1,88 @@
+{
+  "id": 421177839,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"79.9448,6.8462,79.9448,6.8462",
+    "geom:latitude":6.8462,
+    "geom:longitude":79.9448,
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:dut_x_preferred":[
+        "Pannipitiya"
+    ],
+    "name:eng_x_preferred":[
+        "Pannipitiya"
+    ],
+    "name:sin_x_preferred":[
+        "\u0db4\u0db1\u0dca\u0db1\u0dd2\u0db4\u0dd2\u0da7\u0dd2\u0dba"
+    ],
+    "qs:gn_country":"LK",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":1231121,
+    "qs:gn_pop":0,
+    "qs:name":"Pannipitiya",
+    "qs:name_adm0":"Sri Lanka",
+    "qs:name_adm1":"Western",
+    "qs:photos":50,
+    "qs:photos_1k":10,
+    "qs:photos_9k":1,
+    "qs:photos_9r":2,
+    "qs:photos_all":50,
+    "qs:photos_sr":2,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":1354084,
+    "qs:woe_adm0":23424778,
+    "qs:woe_id":2185031,
+    "src:geom":"quattroshapes",
+    "wd:wordcount":1960,
+    "wof:belongsto":[
+        102191569,
+        85632313,
+        85673811,
+        1092062163
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1231121,
+        "gp:id":2185031,
+        "qs:id":1354084,
+        "wd:id":"Q19714243",
+        "wk:page":"Pannipitiya"
+    },
+    "wof:country":"LK",
+    "wof:created":1459009162,
+    "wof:geomhash":"e74f8d11d2e53e728ddc0f2e0a518cd3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "county_id":1092062163,
+            "locality_id":421177839,
+            "region_id":85673811
+        }
+    ],
+    "wof:id":421177839,
+    "wof:lastmodified":1527716485,
+    "wof:name":"Pannipitiya",
+    "wof:parent_id":1092062163,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    79.9448,
+    6.8462,
+    79.9448,
+    6.8462
+],
+  "geometry": {"coordinates":[79.9448,6.8462],"type":"Point"}
+}

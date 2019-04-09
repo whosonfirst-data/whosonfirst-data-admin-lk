@@ -1,0 +1,61 @@
+{
+  "id": 1209360385,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"79.8498,7.7469,79.8498,7.7469",
+    "geom:latitude":7.7469,
+    "geom:longitude":79.8498,
+    "gn:admin1_code":"32.0",
+    "gn:asciiname":"Battulu Oya North",
+    "gn:country_code":"LK",
+    "gn:dem":25,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1250152,
+    "gn:latitude":7.7469,
+    "gn:longitude":79.8498,
+    "gn:modification_date":"1994-01-08",
+    "gn:name":"Battulu Oya North",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632313
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1250152
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"e6e38bd83b30f8e5d733fa9b056ccd61",
+    "wof:hierarchy":[
+        {
+            "country_id":85632313,
+            "locality_id":1209360385
+        }
+    ],
+    "wof:id":1209360385,
+    "wof:lastmodified":1536289443,
+    "wof:name":"Battulu Oya North",
+    "wof:parent_id":85632313,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    79.8498,
+    7.7469,
+    79.8498,
+    7.7469
+],
+  "geometry": {"coordinates":[79.8498,7.7469],"type":"Point"}
+}

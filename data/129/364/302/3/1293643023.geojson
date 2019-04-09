@@ -1,0 +1,67 @@
+{
+  "id": 1293643023,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"80.3922,6.1118,80.3922,6.1118",
+    "geom:latitude":6.1118,
+    "geom:longitude":80.3922,
+    "gn:admin1_code":"34.0",
+    "gn:asciiname":"Magedara Colony",
+    "gn:country_code":"LK",
+    "gn:dem":120,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8535187,
+    "gn:latitude":6.1118,
+    "gn:longitude":80.3922,
+    "gn:modification_date":"2013-06-05",
+    "gn:name":"Magedara Colony",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632313,
+        85673789,
+        1092068203
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8535187
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"40b8b52e69a84d3b35db4777c26e494e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "county_id":1092068203,
+            "locality_id":1293643023,
+            "region_id":85673789
+        }
+    ],
+    "wof:id":1293643023,
+    "wof:lastmodified":1537057636,
+    "wof:name":"Magedara Colony",
+    "wof:parent_id":1092068203,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    80.3922,
+    6.1118,
+    80.3922,
+    6.1118
+],
+  "geometry": {"coordinates":[80.3922,6.1118],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1310451023,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"79.9137,7.5004,79.9137,7.5004",
+    "geom:latitude":7.5004,
+    "geom:longitude":79.9137,
+    "gn:admin1_code":"32.0",
+    "gn:asciiname":"Siyambalagasruppa",
+    "gn:country_code":"LK",
+    "gn:dem":22,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1227812,
+    "gn:latitude":7.5004,
+    "gn:longitude":79.9137,
+    "gn:modification_date":"1994-01-08",
+    "gn:name":"Siyambalagasruppa",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632313,
+        85673777,
+        1092066989
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1227812
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"bed93a8af8eb0e7ee50e0e7b75b76746",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "county_id":1092066989,
+            "locality_id":1310451023,
+            "region_id":85673777
+        }
+    ],
+    "wof:id":1310451023,
+    "wof:lastmodified":1536994847,
+    "wof:name":"Siyambalagasruppa",
+    "wof:parent_id":1092066989,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    79.9137,
+    7.5004,
+    79.9137,
+    7.5004
+],
+  "geometry": {"coordinates":[79.91370000000001,7.5004],"type":"Point"}
+}

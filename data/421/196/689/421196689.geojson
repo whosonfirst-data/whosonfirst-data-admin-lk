@@ -1,0 +1,100 @@
+{
+  "id": 421196689,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"80.7011,7.0581,80.7011,7.0581",
+    "geom:latitude":7.0581,
+    "geom:longitude":80.7011,
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:bul_x_preferred":[
+        "\u0420\u0430\u043c\u0431\u043e\u0434\u0430"
+    ],
+    "name:dut_x_preferred":[
+        "Ramboda"
+    ],
+    "name:eng_x_preferred":[
+        "Ramboda"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30e9\u30f3\u30dc\u30c0"
+    ],
+    "name:sin_x_preferred":[
+        "\u0dbb\u0db8\u0dca\u0db6\u0ddc\u0da9"
+    ],
+    "name:swe_x_preferred":[
+        "Ramboda"
+    ],
+    "name:tam_x_preferred":[
+        "\u0b87\u0bb1\u0bae\u0bcd\u0baa\u0bca\u0b9f\u0bc8"
+    ],
+    "qs:gn_country":"LK",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":8302933,
+    "qs:gn_pop":0,
+    "qs:name":"Ramboda",
+    "qs:name_adm0":"Sri Lanka",
+    "qs:name_adm1":"Central",
+    "qs:photos":394,
+    "qs:photos_1k":80,
+    "qs:photos_9k":2,
+    "qs:photos_9r":5,
+    "qs:photos_all":394,
+    "qs:photos_sr":6,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":887906,
+    "qs:woe_adm0":23424778,
+    "qs:woe_id":2186142,
+    "src:geom":"quattroshapes",
+    "wd:wordcount":60,
+    "wof:belongsto":[
+        102191569,
+        85632313,
+        85673731,
+        1092061445
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8302933,
+        "gp:id":2186142,
+        "qs:id":887906,
+        "wd:id":"Q7289257",
+        "wk:page":"Ramboda"
+    },
+    "wof:country":"LK",
+    "wof:created":1459009890,
+    "wof:geomhash":"53f35027841b3041b7f72d76b725524d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "county_id":1092061445,
+            "locality_id":421196689,
+            "region_id":85673731
+        }
+    ],
+    "wof:id":421196689,
+    "wof:lastmodified":1527716362,
+    "wof:name":"Ramboda",
+    "wof:parent_id":1092061445,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    80.7011,
+    7.0581,
+    80.7011,
+    7.0581
+],
+  "geometry": {"coordinates":[80.7011,7.0581],"type":"Point"}
+}

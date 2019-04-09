@@ -1,0 +1,67 @@
+{
+  "id": 1344101941,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"80.5541,6.1862,80.5541,6.1862",
+    "geom:latitude":6.1862,
+    "geom:longitude":80.5541,
+    "gn:admin1_code":"34.0",
+    "gn:asciiname":"Gombaddala",
+    "gn:country_code":"LK",
+    "gn:dem":235,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1245469,
+    "gn:latitude":6.1862,
+    "gn:longitude":80.5541,
+    "gn:modification_date":"1994-01-08",
+    "gn:name":"Gombaddala",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632313,
+        85673795,
+        1092063569
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1245469
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"9939f15fd6332a31b14df1c030789285",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "county_id":1092063569,
+            "locality_id":1344101941,
+            "region_id":85673795
+        }
+    ],
+    "wof:id":1344101941,
+    "wof:lastmodified":1536815032,
+    "wof:name":"Gombaddala",
+    "wof:parent_id":1092063569,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    80.5541,
+    6.1862,
+    80.5541,
+    6.1862
+],
+  "geometry": {"coordinates":[80.55410000000001,6.1862],"type":"Point"}
+}

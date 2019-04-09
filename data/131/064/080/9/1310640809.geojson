@@ -1,0 +1,67 @@
+{
+  "id": 1310640809,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"80.1887,6.4146,80.1887,6.4146",
+    "geom:latitude":6.4146,
+    "geom:longitude":80.1887,
+    "gn:admin1_code":"36.0",
+    "gn:asciiname":"Wediwatta",
+    "gn:country_code":"LK",
+    "gn:dem":68,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7556840,
+    "gn:latitude":6.4146,
+    "gn:longitude":80.1887,
+    "gn:modification_date":"2010-10-09",
+    "gn:name":"Wediwatta",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632313,
+        85673819,
+        1092067493
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7556840
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"8dda0f2137b7bae9dfb18cf690344e98",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "county_id":1092067493,
+            "locality_id":1310640809,
+            "region_id":85673819
+        }
+    ],
+    "wof:id":1310640809,
+    "wof:lastmodified":1536722035,
+    "wof:name":"Wediwatta",
+    "wof:parent_id":1092067493,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    80.1887,
+    6.4146,
+    80.1887,
+    6.4146
+],
+  "geometry": {"coordinates":[80.1887,6.4146],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1343521177,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"80.0972,8.0109,80.0972,8.0109",
+    "geom:latitude":8.0109,
+    "geom:longitude":80.0972,
+    "gn:admin1_code":"32.0",
+    "gn:asciiname":"Heenagama",
+    "gn:country_code":"LK",
+    "gn:dem":57,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8303034,
+    "gn:latitude":8.0109,
+    "gn:longitude":80.0972,
+    "gn:modification_date":"2012-06-06",
+    "gn:name":"Heenagama",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632313,
+        85673779,
+        1092064025
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8303034
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"4bb4c8d2ad750c16fc59161f043a54a7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "county_id":1092064025,
+            "locality_id":1343521177,
+            "region_id":85673779
+        }
+    ],
+    "wof:id":1343521177,
+    "wof:lastmodified":1536658847,
+    "wof:name":"Heenagama",
+    "wof:parent_id":1092064025,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    80.0972,
+    8.0109,
+    80.0972,
+    8.0109
+],
+  "geometry": {"coordinates":[80.0972,8.0109],"type":"Point"}
+}

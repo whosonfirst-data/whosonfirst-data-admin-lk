@@ -1,0 +1,70 @@
+{
+  "id": 1259828323,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"80.3952,6.9296,80.3952,6.9296",
+    "geom:latitude":6.9296,
+    "geom:longitude":80.3952,
+    "gn:admin1_code":"33.0",
+    "gn:asciiname":"Panakura",
+    "gn:country_code":"LK",
+    "gn:dem":170,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8304312,
+    "gn:latitude":6.9296,
+    "gn:longitude":80.3952,
+    "gn:modification_date":"2012-06-07",
+    "gn:name":"Panakura",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Panakure"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632313,
+        85673807,
+        1092057785
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8304312
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"d333e475c140d11bc2f04ee190f84319",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "county_id":1092057785,
+            "locality_id":1259828323,
+            "region_id":85673807
+        }
+    ],
+    "wof:id":1259828323,
+    "wof:lastmodified":1537661610,
+    "wof:name":"Panakura",
+    "wof:parent_id":1092057785,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    80.3952,
+    6.9296,
+    80.3952,
+    6.9296
+],
+  "geometry": {"coordinates":[80.3952,6.9296],"type":"Point"}
+}

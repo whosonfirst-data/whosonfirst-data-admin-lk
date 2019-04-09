@@ -1,0 +1,67 @@
+{
+  "id": 1293742861,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"80.2468,7.2679,80.2468,7.2679",
+    "geom:latitude":7.2679,
+    "geom:longitude":80.2468,
+    "gn:admin1_code":"33.0",
+    "gn:asciiname":"Ragalkanda",
+    "gn:country_code":"LK",
+    "gn:dem":137,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1229128,
+    "gn:latitude":7.2679,
+    "gn:longitude":80.2468,
+    "gn:modification_date":"1994-01-08",
+    "gn:name":"Ragalkanda",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632313,
+        85673807,
+        1092067647
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1229128
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"930f6a7cf60834daec652d4774869b7f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "county_id":1092067647,
+            "locality_id":1293742861,
+            "region_id":85673807
+        }
+    ],
+    "wof:id":1293742861,
+    "wof:lastmodified":1536916708,
+    "wof:name":"Ragalkanda",
+    "wof:parent_id":1092067647,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    80.2468,
+    7.2679,
+    80.2468,
+    7.2679
+],
+  "geometry": {"coordinates":[80.24679999999999,7.2679],"type":"Point"}
+}

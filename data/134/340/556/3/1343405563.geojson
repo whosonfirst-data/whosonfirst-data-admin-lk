@@ -1,0 +1,67 @@
+{
+  "id": 1343405563,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"80.0549,6.9357,80.0549,6.9357",
+    "geom:latitude":6.9357,
+    "geom:longitude":80.0549,
+    "gn:admin1_code":"36.0",
+    "gn:asciiname":"Pelengashena",
+    "gn:country_code":"LK",
+    "gn:dem":24,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7474060,
+    "gn:latitude":6.9357,
+    "gn:longitude":80.0549,
+    "gn:modification_date":"2010-08-08",
+    "gn:name":"Pelengashena",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632313,
+        85673815,
+        1092058055
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7474060
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"b122d180ec4df1e1b5a2c4a6efe3a688",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "county_id":1092058055,
+            "locality_id":1343405563,
+            "region_id":85673815
+        }
+    ],
+    "wof:id":1343405563,
+    "wof:lastmodified":1536824584,
+    "wof:name":"Pelengashena",
+    "wof:parent_id":1092058055,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    80.0549,
+    6.9357,
+    80.0549,
+    6.9357
+],
+  "geometry": {"coordinates":[80.0549,6.9357],"type":"Point"}
+}

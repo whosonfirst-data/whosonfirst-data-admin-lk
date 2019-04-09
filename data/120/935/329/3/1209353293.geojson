@@ -1,0 +1,61 @@
+{
+  "id": 1209353293,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"80.6449,9.152,80.6449,9.152",
+    "geom:latitude":9.152,
+    "geom:longitude":80.6449,
+    "gn:admin1_code":"38.0",
+    "gn:asciiname":"Tirukkulam",
+    "gn:country_code":"LK",
+    "gn:dem":45,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1226387,
+    "gn:latitude":9.152,
+    "gn:longitude":80.6449,
+    "gn:modification_date":"2012-04-05",
+    "gn:name":"Tirukkulam",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632313
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1226387
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"6914a75a7db88e7ce8d75c6db08731a6",
+    "wof:hierarchy":[
+        {
+            "country_id":85632313,
+            "locality_id":1209353293
+        }
+    ],
+    "wof:id":1209353293,
+    "wof:lastmodified":1536289675,
+    "wof:name":"Tirukkulam",
+    "wof:parent_id":85632313,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    80.6449,
+    9.152,
+    80.6449,
+    9.152
+],
+  "geometry": {"coordinates":[80.64490000000001,9.152],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1193075787,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"81.5836,7.7129,81.5836,7.7129",
+    "geom:latitude":7.7129,
+    "geom:longitude":81.5836,
+    "gn:admin1_code":"37.0",
+    "gn:asciiname":"Mahailavadduwan",
+    "gn:country_code":"LK",
+    "gn:dem":14,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1236703,
+    "gn:latitude":7.7129,
+    "gn:longitude":81.5836,
+    "gn:modification_date":"2012-04-05",
+    "gn:name":"Mahailavadduwan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mahilavaddavan",
+        "Makilavaddavan",
+        "Mahailavadduwan",
+        "Mahilavadduwan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632313,
+        85673737,
+        1092062635
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1236703
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"c522d764cbed08f7743d04ee5b3f41fe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "county_id":1092062635,
+            "locality_id":1193075787,
+            "region_id":85673737
+        }
+    ],
+    "wof:id":1193075787,
+    "wof:lastmodified":1537661472,
+    "wof:name":"Mahailavadduwan",
+    "wof:parent_id":1092062635,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    81.5836,
+    7.7129,
+    81.5836,
+    7.7129
+],
+  "geometry": {"coordinates":[81.5836,7.7129],"type":"Point"}
+}

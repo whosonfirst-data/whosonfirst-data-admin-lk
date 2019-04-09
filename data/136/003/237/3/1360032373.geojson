@@ -1,0 +1,67 @@
+{
+  "id": 1360032373,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"80.58333,7.35,80.58333,7.35",
+    "geom:latitude":7.35,
+    "geom:longitude":80.58333,
+    "gn:admin1_code":"29.0",
+    "gn:asciiname":"Attaragama Hunnana-oya",
+    "gn:country_code":"LK",
+    "gn:dem":497,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1250783,
+    "gn:latitude":7.35,
+    "gn:longitude":80.58333,
+    "gn:modification_date":"1994-01-08",
+    "gn:name":"Attaragama Hunnana-oya",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632313,
+        85673719,
+        1092059229
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1250783
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"bde94f691771b0f186117d1e7640cc6f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "county_id":1092059229,
+            "locality_id":1360032373,
+            "region_id":85673719
+        }
+    ],
+    "wof:id":1360032373,
+    "wof:lastmodified":1537020831,
+    "wof:name":"Attaragama Hunnana-oya",
+    "wof:parent_id":1092059229,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    80.58333,
+    7.35,
+    80.58333,
+    7.35
+],
+  "geometry": {"coordinates":[80.58333,7.35],"type":"Point"}
+}

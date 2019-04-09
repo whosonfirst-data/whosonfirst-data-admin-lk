@@ -1,0 +1,67 @@
+{
+  "id": 1344097707,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"80.3042,6.1831,80.3042,6.1831",
+    "geom:latitude":6.1831,
+    "geom:longitude":80.3042,
+    "gn:admin1_code":"34.0",
+    "gn:asciiname":"Hangaranwala",
+    "gn:country_code":"LK",
+    "gn:dem":32,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7624000,
+    "gn:latitude":6.1831,
+    "gn:longitude":80.3042,
+    "gn:modification_date":"2010-12-04",
+    "gn:name":"Hangaranwala",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632313,
+        85673789,
+        1092063765
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7624000
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"0731c568fbd56a8c54527745e9b15b48",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "county_id":1092063765,
+            "locality_id":1344097707,
+            "region_id":85673789
+        }
+    ],
+    "wof:id":1344097707,
+    "wof:lastmodified":1536820964,
+    "wof:name":"Hangaranwala",
+    "wof:parent_id":1092063765,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    80.3042,
+    6.1831,
+    80.3042,
+    6.1831
+],
+  "geometry": {"coordinates":[80.30419999999999,6.1831],"type":"Point"}
+}

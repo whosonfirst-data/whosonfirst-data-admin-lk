@@ -1,0 +1,72 @@
+{
+  "id": 1260141351,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"80.8714,7.1099,80.8714,7.1099",
+    "geom:latitude":7.1099,
+    "geom:longitude":80.8714,
+    "gn:admin1_code":"29.0",
+    "gn:asciiname":"Gurugalaella",
+    "gn:country_code":"LK",
+    "gn:dem":721,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1245235,
+    "gn:latitude":7.1099,
+    "gn:longitude":80.8714,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Gurugalaella",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Gurugalle Ella",
+        "Gurugalaella"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632313,
+        85673731,
+        1092067535
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1245235,
+        "wk:page":"Gurugalle_Ella"
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"d1d01f678ecf02a5f5790c6ead9ec7c4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "county_id":1092067535,
+            "locality_id":1260141351,
+            "region_id":85673731
+        }
+    ],
+    "wof:id":1260141351,
+    "wof:lastmodified":1537661546,
+    "wof:name":"Gurugalaella",
+    "wof:parent_id":1092067535,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    80.8714,
+    7.1099,
+    80.8714,
+    7.1099
+],
+  "geometry": {"coordinates":[80.87139999999999,7.1099],"type":"Point"}
+}

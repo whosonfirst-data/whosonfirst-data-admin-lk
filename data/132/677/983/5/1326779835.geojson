@@ -1,0 +1,71 @@
+{
+  "id": 1326779835,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"79.9193,7.7304,79.9193,7.7304",
+    "geom:latitude":7.7304,
+    "geom:longitude":79.9193,
+    "gn:admin1_code":"32.0",
+    "gn:asciiname":"Wanduressakotuwa",
+    "gn:country_code":"LK",
+    "gn:dem":37,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1224277,
+    "gn:latitude":7.7304,
+    "gn:longitude":79.9193,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Wanduressakotuwa",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Waduressakotuwa",
+        "Wanduressakotuwa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632313,
+        85673779,
+        1092064867
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1224277
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"638ab856aaab368fa934d77924ef8419",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "county_id":1092064867,
+            "locality_id":1326779835,
+            "region_id":85673779
+        }
+    ],
+    "wof:id":1326779835,
+    "wof:lastmodified":1537661343,
+    "wof:name":"Wanduressakotuwa",
+    "wof:parent_id":1092064867,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    79.9193,
+    7.7304,
+    79.9193,
+    7.7304
+],
+  "geometry": {"coordinates":[79.91930000000001,7.7304],"type":"Point"}
+}

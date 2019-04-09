@@ -1,0 +1,71 @@
+{
+  "id": 1226688655,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"80.26667,9.06667,80.26667,9.06667",
+    "geom:latitude":9.06667,
+    "geom:longitude":80.26667,
+    "gn:admin1_code":"38.0",
+    "gn:asciiname":"Ramiyankulam",
+    "gn:country_code":"LK",
+    "gn:dem":50,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1228980,
+    "gn:latitude":9.06667,
+    "gn:longitude":80.26667,
+    "gn:modification_date":"2012-04-05",
+    "gn:name":"Ramiyankulam",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Iramiyankulam",
+        "Ramiyankulam"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632313,
+        85673765,
+        1092062713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1228980
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"a38535b5be8b461e4d84c0934aac9f74",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "county_id":1092062713,
+            "locality_id":1226688655,
+            "region_id":85673765
+        }
+    ],
+    "wof:id":1226688655,
+    "wof:lastmodified":1537661398,
+    "wof:name":"Ramiyankulam",
+    "wof:parent_id":1092062713,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    80.26666999999998,
+    9.06667,
+    80.26666999999998,
+    9.06667
+],
+  "geometry": {"coordinates":[80.26666999999998,9.06667],"type":"Point"}
+}

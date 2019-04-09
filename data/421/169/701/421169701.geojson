@@ -1,0 +1,96 @@
+{
+  "id": 421169701,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"80.5103,8.3593,80.5103,8.3593",
+    "geom:latitude":8.3593,
+    "geom:longitude":80.5103,
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:deu_x_preferred":[
+        "Mihintale"
+    ],
+    "name:fra_x_preferred":[
+        "Mihintale"
+    ],
+    "name:mal_x_preferred":[
+        "\u0d2e\u0d3f\u0d39\u0d3f\u0d28\u0d4d\u0d31\u0d47\u0d7d \u0d15\u0d41\u0d28\u0d4d\u0d28\u0d4d"
+    ],
+    "name:sin_x_preferred":[
+        "\u0db8\u0dd2\u0dc4\u0dd2\u0db1\u0dca\u0dad\u0dbd\u0dba"
+    ],
+    "name:spa_x_preferred":[
+        "Mihintale"
+    ],
+    "name:tam_x_preferred":[
+        "\u0bae\u0bbf\u0b95\u0bbf\u0ba8\u0bcd\u0ba4\u0bb2\u0bc8"
+    ],
+    "qs:gn_country":"LK",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":1235107,
+    "qs:gn_pop":0,
+    "qs:name":"Mihintale",
+    "qs:name_adm0":"Sri Lanka",
+    "qs:name_adm1":"North Central",
+    "qs:photos":135,
+    "qs:photos_1k":27,
+    "qs:photos_9k":1,
+    "qs:photos_9r":3,
+    "qs:photos_all":135,
+    "qs:photos_sr":3,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":229330,
+    "qs:woe_adm0":23424778,
+    "qs:woe_id":2189516,
+    "src:geom":"quattroshapes",
+    "wd:wordcount":1961,
+    "wof:belongsto":[
+        102191569,
+        85632313,
+        85673751,
+        1092063257
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1235107,
+        "gp:id":2189516,
+        "qs:id":229330,
+        "wd:id":"Q1478212"
+    },
+    "wof:country":"LK",
+    "wof:created":1459008821,
+    "wof:geomhash":"e1f251a18d4a4711dbbdc31701e613c6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "county_id":1092063257,
+            "locality_id":421169701,
+            "region_id":85673751
+        }
+    ],
+    "wof:id":421169701,
+    "wof:lastmodified":1527716163,
+    "wof:name":"Mihintale",
+    "wof:parent_id":1092063257,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    80.5103,
+    8.3593,
+    80.5103,
+    8.3593
+],
+  "geometry": {"coordinates":[80.5103,8.3593],"type":"Point"}
+}

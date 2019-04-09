@@ -1,0 +1,61 @@
+{
+  "id": 1209259407,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"81.4052,6.8441,81.4052,6.8441",
+    "geom:latitude":6.8441,
+    "geom:longitude":81.4052,
+    "gn:admin1_code":"35.0",
+    "gn:asciiname":"Gangoda",
+    "gn:country_code":"LK",
+    "gn:dem":243,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7618017,
+    "gn:latitude":6.8441,
+    "gn:longitude":81.4052,
+    "gn:modification_date":"2010-12-04",
+    "gn:name":"Gangoda",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632313
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7618017
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"21dedf642beb3d31d4dbe842b2dd9d4b",
+    "wof:hierarchy":[
+        {
+            "country_id":85632313,
+            "locality_id":1209259407
+        }
+    ],
+    "wof:id":1209259407,
+    "wof:lastmodified":1536292743,
+    "wof:name":"Gangoda",
+    "wof:parent_id":85632313,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    81.4052,
+    6.8441,
+    81.4052,
+    6.8441
+],
+  "geometry": {"coordinates":[81.40519999999999,6.8441],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1259424043,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"80.5136,7.1686,80.5136,7.1686",
+    "geom:latitude":7.1686,
+    "geom:longitude":80.5136,
+    "gn:admin1_code":"33.0",
+    "gn:asciiname":"Madulubowa",
+    "gn:country_code":"LK",
+    "gn:dem":244,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1237298,
+    "gn:latitude":7.1686,
+    "gn:longitude":80.5136,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Madulubowa",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Madulbowa",
+        "Madulubowa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632313,
+        85673807,
+        1092062987
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1237298
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"fb4f6cfd22140424d897dc5e59331654",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "county_id":1092062987,
+            "locality_id":1259424043,
+            "region_id":85673807
+        }
+    ],
+    "wof:id":1259424043,
+    "wof:lastmodified":1537661477,
+    "wof:name":"Madulubowa",
+    "wof:parent_id":1092062987,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    80.5136,
+    7.1686,
+    80.5136,
+    7.1686
+],
+  "geometry": {"coordinates":[80.5136,7.1686],"type":"Point"}
+}

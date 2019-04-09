@@ -1,0 +1,67 @@
+{
+  "id": 1360229079,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"79.9942,7.1809,79.9942,7.1809",
+    "geom:latitude":7.1809,
+    "geom:longitude":79.9942,
+    "gn:admin1_code":"36.0",
+    "gn:asciiname":"Wankepumulla",
+    "gn:country_code":"LK",
+    "gn:dem":39,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1224262,
+    "gn:latitude":7.1809,
+    "gn:longitude":79.9942,
+    "gn:modification_date":"1994-01-08",
+    "gn:name":"Wankepumulla",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632313,
+        85673815,
+        1092063369
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1224262
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"28d724dfbe5036ef55aee738a4ae482b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "county_id":1092063369,
+            "locality_id":1360229079,
+            "region_id":85673815
+        }
+    ],
+    "wof:id":1360229079,
+    "wof:lastmodified":1536737890,
+    "wof:name":"Wankepumulla",
+    "wof:parent_id":1092063369,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    79.9942,
+    7.1809,
+    79.9942,
+    7.1809
+],
+  "geometry": {"coordinates":[79.99420000000001,7.1809],"type":"Point"}
+}

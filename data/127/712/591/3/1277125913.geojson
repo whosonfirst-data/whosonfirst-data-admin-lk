@@ -1,0 +1,67 @@
+{
+  "id": 1277125913,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"80.1917,7.4676,80.1917,7.4676",
+    "geom:latitude":7.4676,
+    "geom:longitude":80.1917,
+    "gn:admin1_code":"32.0",
+    "gn:asciiname":"Nugagahagedara",
+    "gn:country_code":"LK",
+    "gn:dem":90,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7432848,
+    "gn:latitude":7.4676,
+    "gn:longitude":80.1917,
+    "gn:modification_date":"2010-08-07",
+    "gn:name":"Nugagahagedara",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632313,
+        85673777,
+        1092063885
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7432848
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"864a4bbc254fd7a387138766546f8acc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "county_id":1092063885,
+            "locality_id":1277125913,
+            "region_id":85673777
+        }
+    ],
+    "wof:id":1277125913,
+    "wof:lastmodified":1536705820,
+    "wof:name":"Nugagahagedara",
+    "wof:parent_id":1092063885,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    80.1917,
+    7.4676,
+    80.1917,
+    7.4676
+],
+  "geometry": {"coordinates":[80.1917,7.4676],"type":"Point"}
+}

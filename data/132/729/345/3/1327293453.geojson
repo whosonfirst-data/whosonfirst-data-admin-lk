@@ -1,0 +1,67 @@
+{
+  "id": 1327293453,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"80.4,7.8,80.4,7.8",
+    "geom:latitude":7.8,
+    "geom:longitude":80.4,
+    "gn:admin1_code":"32.0",
+    "gn:asciiname":"Galapitagama",
+    "gn:country_code":"LK",
+    "gn:dem":127,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1246560,
+    "gn:latitude":7.8,
+    "gn:longitude":80.4,
+    "gn:modification_date":"1994-01-08",
+    "gn:name":"Galapitagama",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632313,
+        85673777,
+        1092065421
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1246560
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"da94921ca95ade271acf0f6ec7eab218",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "county_id":1092065421,
+            "locality_id":1327293453,
+            "region_id":85673777
+        }
+    ],
+    "wof:id":1327293453,
+    "wof:lastmodified":1536880897,
+    "wof:name":"Galapitagama",
+    "wof:parent_id":1092065421,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    80.4,
+    7.8,
+    80.4,
+    7.8
+],
+  "geometry": {"coordinates":[80.40000000000001,7.8],"type":"Point"}
+}

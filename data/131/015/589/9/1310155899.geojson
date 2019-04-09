@@ -1,0 +1,67 @@
+{
+  "id": 1310155899,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"80.3947,8.4356,80.3947,8.4356",
+    "geom:latitude":8.4356,
+    "geom:longitude":80.3947,
+    "gn:admin1_code":"30.0",
+    "gn:asciiname":"Elapatgama",
+    "gn:country_code":"LK",
+    "gn:dem":79,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1247227,
+    "gn:latitude":8.4356,
+    "gn:longitude":80.3947,
+    "gn:modification_date":"1994-01-08",
+    "gn:name":"Elapatgama",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632313,
+        85673751,
+        1092064353
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1247227
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"8141ce32af22c1d776caaede87efeeba",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "county_id":1092064353,
+            "locality_id":1310155899,
+            "region_id":85673751
+        }
+    ],
+    "wof:id":1310155899,
+    "wof:lastmodified":1536924681,
+    "wof:name":"Elapatgama",
+    "wof:parent_id":1092064353,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    80.3947,
+    8.4356,
+    80.3947,
+    8.4356
+],
+  "geometry": {"coordinates":[80.3947,8.4356],"type":"Point"}
+}

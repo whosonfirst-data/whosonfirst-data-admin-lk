@@ -1,0 +1,68 @@
+{
+  "id": 1327485019,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"80.11667,9.25,80.11667,9.25",
+    "geom:latitude":9.25,
+    "geom:longitude":80.11667,
+    "gn:admin1_code":"38.0",
+    "gn:asciiname":"Nachchikkuda",
+    "gn:country_code":"LK",
+    "gn:dem":1,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1234042,
+    "gn:latitude":9.25,
+    "gn:longitude":80.11667,
+    "gn:modification_date":"2012-04-05",
+    "gn:name":"Nachchikkuda",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Nachchikuda",
+        "Naachikodi",
+        "Nachchikkuda"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1234042
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"3c78d85e7c6a71d9d2f7b242e1406b90",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":-1,
+            "locality_id":1327485019,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1327485019,
+    "wof:lastmodified":1537661446,
+    "wof:name":"Nachchikkuda",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    80.11667,
+    9.25,
+    80.11667,
+    9.25
+],
+  "geometry": {"coordinates":[80.11667,9.25],"type":"Point"}
+}

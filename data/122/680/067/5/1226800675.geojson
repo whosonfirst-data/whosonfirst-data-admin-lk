@@ -1,0 +1,68 @@
+{
+  "id": 1226800675,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"79.9529,9.7392,79.9529,9.7392",
+    "geom:latitude":9.7392,
+    "geom:longitude":79.9529,
+    "gn:admin1_code":"38.0",
+    "gn:asciiname":"Vaddukkoddai East",
+    "gn:country_code":"LK",
+    "gn:dem":11,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1225217,
+    "gn:latitude":9.7392,
+    "gn:longitude":79.9529,
+    "gn:modification_date":"2012-04-05",
+    "gn:name":"Vaddukkoddai East",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632313,
+        85673769,
+        1092067255
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1225217,
+        "wk:page":"Vaddukkoddai_East"
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"41065a514099bf7bcdb3a1cb653a2771",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "county_id":1092067255,
+            "locality_id":1226800675,
+            "region_id":85673769
+        }
+    ],
+    "wof:id":1226800675,
+    "wof:lastmodified":1537567964,
+    "wof:name":"Vaddukkoddai East",
+    "wof:parent_id":1092067255,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    79.9529,
+    9.7392,
+    79.9529,
+    9.7392
+],
+  "geometry": {"coordinates":[79.9529,9.7392],"type":"Point"}
+}

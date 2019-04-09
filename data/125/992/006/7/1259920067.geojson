@@ -1,0 +1,71 @@
+{
+  "id": 1259920067,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"79.8869,7.1176,79.8869,7.1176",
+    "geom:latitude":7.1176,
+    "geom:longitude":79.8869,
+    "gn:admin1_code":"36.0",
+    "gn:asciiname":"Dambadure",
+    "gn:country_code":"LK",
+    "gn:dem":7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1248833,
+    "gn:latitude":7.1176,
+    "gn:longitude":79.8869,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Dambadure",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Dambadurai",
+        "Dambadure"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632313,
+        85673815,
+        1092060643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1248833
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"eb8401f9300352c832c33e109bc1474c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "county_id":1092060643,
+            "locality_id":1259920067,
+            "region_id":85673815
+        }
+    ],
+    "wof:id":1259920067,
+    "wof:lastmodified":1537661579,
+    "wof:name":"Dambadure",
+    "wof:parent_id":1092060643,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    79.8869,
+    7.1176,
+    79.8869,
+    7.1176
+],
+  "geometry": {"coordinates":[79.8869,7.1176],"type":"Point"}
+}

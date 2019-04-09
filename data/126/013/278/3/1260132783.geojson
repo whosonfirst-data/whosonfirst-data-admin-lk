@@ -1,0 +1,67 @@
+{
+  "id": 1260132783,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"80.1525,6.5181,80.1525,6.5181",
+    "geom:latitude":6.5181,
+    "geom:longitude":80.1525,
+    "gn:admin1_code":"36.0",
+    "gn:asciiname":"Bodiyakanda",
+    "gn:country_code":"LK",
+    "gn:dem":60,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7556793,
+    "gn:latitude":6.5181,
+    "gn:longitude":80.1525,
+    "gn:modification_date":"2010-10-09",
+    "gn:name":"Bodiyakanda",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632313,
+        85673819,
+        1092056125
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7556793
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"9f83ff4b1c8e35e1fcf7c950685579a6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "county_id":1092056125,
+            "locality_id":1260132783,
+            "region_id":85673819
+        }
+    ],
+    "wof:id":1260132783,
+    "wof:lastmodified":1536917839,
+    "wof:name":"Bodiyakanda",
+    "wof:parent_id":1092056125,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    80.1525,
+    6.5181,
+    80.1525,
+    6.5181
+],
+  "geometry": {"coordinates":[80.1525,6.5181],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1310058623,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"80.1011,6.8057,80.1011,6.8057",
+    "geom:latitude":6.8057,
+    "geom:longitude":80.1011,
+    "gn:admin1_code":"36.0",
+    "gn:asciiname":"Miriyagalla",
+    "gn:country_code":"LK",
+    "gn:dem":37,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1234930,
+    "gn:latitude":6.8057,
+    "gn:longitude":80.1011,
+    "gn:modification_date":"1994-01-08",
+    "gn:name":"Miriyagalla",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632313,
+        85673811,
+        1092064693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1234930
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"98cac160d39f95b3eee2479fd3de219b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "county_id":1092064693,
+            "locality_id":1310058623,
+            "region_id":85673811
+        }
+    ],
+    "wof:id":1310058623,
+    "wof:lastmodified":1537061489,
+    "wof:name":"Miriyagalla",
+    "wof:parent_id":1092064693,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    80.1011,
+    6.8057,
+    80.1011,
+    6.8057
+],
+  "geometry": {"coordinates":[80.1011,6.8057],"type":"Point"}
+}

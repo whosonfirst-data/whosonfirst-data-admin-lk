@@ -1,0 +1,67 @@
+{
+  "id": 1209754505,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"81.575,7.6942,81.575,7.6942",
+    "geom:latitude":7.6942,
+    "geom:longitude":81.575,
+    "gn:admin1_code":"37.0",
+    "gn:asciiname":"Alayadimaduchchenai",
+    "gn:country_code":"LK",
+    "gn:dem":14,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1251985,
+    "gn:latitude":7.6942,
+    "gn:longitude":81.575,
+    "gn:modification_date":"2012-04-05",
+    "gn:name":"Alayadimaduchchenai",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632313,
+        85673737,
+        1092062635
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1251985
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"54284c9974e7d8a28d17e1bf39417714",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "county_id":1092062635,
+            "locality_id":1209754505,
+            "region_id":85673737
+        }
+    ],
+    "wof:id":1209754505,
+    "wof:lastmodified":1536391282,
+    "wof:name":"Alayadimaduchchenai",
+    "wof:parent_id":1092062635,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    81.575,
+    7.6942,
+    81.575,
+    7.6942
+],
+  "geometry": {"coordinates":[81.575,7.6942],"type":"Point"}
+}

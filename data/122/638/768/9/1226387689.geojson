@@ -1,0 +1,67 @@
+{
+  "id": 1226387689,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"80.7216,6.2427,80.7216,6.2427",
+    "geom:latitude":6.2427,
+    "geom:longitude":80.7216,
+    "gn:admin1_code":"34.0",
+    "gn:asciiname":"Araboda",
+    "gn:country_code":"LK",
+    "gn:dem":141,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1251063,
+    "gn:latitude":6.2427,
+    "gn:longitude":80.7216,
+    "gn:modification_date":"1994-01-08",
+    "gn:name":"Araboda",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632313,
+        85673791,
+        1092060721
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1251063
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"9f1cb7a26fe13826d037426e5839024e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "county_id":1092060721,
+            "locality_id":1226387689,
+            "region_id":85673791
+        }
+    ],
+    "wof:id":1226387689,
+    "wof:lastmodified":1536729580,
+    "wof:name":"Araboda",
+    "wof:parent_id":1092060721,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    80.7216,
+    6.2427,
+    80.7216,
+    6.2427
+],
+  "geometry": {"coordinates":[80.7216,6.2427],"type":"Point"}
+}

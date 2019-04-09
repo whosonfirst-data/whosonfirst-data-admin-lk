@@ -1,0 +1,64 @@
+{
+  "id": 1209664639,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"80.2979,7.6446,80.2979,7.6446",
+    "geom:latitude":7.6446,
+    "geom:longitude":80.2979,
+    "gn:admin1_code":"32.0",
+    "gn:asciiname":"Wilagandematawa",
+    "gn:country_code":"LK",
+    "gn:dem":75,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1223172,
+    "gn:latitude":7.6446,
+    "gn:longitude":80.2979,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Wilagandematawa",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Wilgandematawa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632313
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1223172
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"8095023a1278359811b76136a1d4116f",
+    "wof:hierarchy":[
+        {
+            "country_id":85632313,
+            "locality_id":1209664639
+        }
+    ],
+    "wof:id":1209664639,
+    "wof:lastmodified":1537661332,
+    "wof:name":"Wilagandematawa",
+    "wof:parent_id":85632313,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    80.2979,
+    7.6446,
+    80.2979,
+    7.6446
+],
+  "geometry": {"coordinates":[80.2979,7.6446],"type":"Point"}
+}

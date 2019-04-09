@@ -1,0 +1,67 @@
+{
+  "id": 1343501823,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"80.9339,7.0174,80.9339,7.0174",
+    "geom:latitude":7.0174,
+    "geom:longitude":80.9339,
+    "gn:admin1_code":"35.0",
+    "gn:asciiname":"Rambukgahayaya",
+    "gn:country_code":"LK",
+    "gn:dem":887,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7474842,
+    "gn:latitude":7.0174,
+    "gn:longitude":80.9339,
+    "gn:modification_date":"2010-08-08",
+    "gn:name":"Rambukgahayaya",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632313,
+        85673801,
+        1092067051
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7474842
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"cc625940dd1c67f44ce7cbd7c9327e76",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "county_id":1092067051,
+            "locality_id":1343501823,
+            "region_id":85673801
+        }
+    ],
+    "wof:id":1343501823,
+    "wof:lastmodified":1536686468,
+    "wof:name":"Rambukgahayaya",
+    "wof:parent_id":1092067051,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    80.9339,
+    7.0174,
+    80.9339,
+    7.0174
+],
+  "geometry": {"coordinates":[80.93389999999999,7.0174],"type":"Point"}
+}

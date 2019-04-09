@@ -1,0 +1,71 @@
+{
+  "id": 1360036075,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"80.8226,6.9258,80.8226,6.9258",
+    "geom:latitude":6.9258,
+    "geom:longitude":80.8226,
+    "gn:admin1_code":"29.0",
+    "gn:asciiname":"Gorandihela",
+    "gn:country_code":"LK",
+    "gn:dem":1714,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1245310,
+    "gn:latitude":6.9258,
+    "gn:longitude":80.8226,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Gorandihela",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Gorandiela",
+        "Gorandihela"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632313,
+        85673731,
+        1092064313
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1245310
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"5adb8bebbed6c08b2a87feda446611a6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "county_id":1092064313,
+            "locality_id":1360036075,
+            "region_id":85673731
+        }
+    ],
+    "wof:id":1360036075,
+    "wof:lastmodified":1537661547,
+    "wof:name":"Gorandihela",
+    "wof:parent_id":1092064313,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    80.8226,
+    6.9258,
+    80.8226,
+    6.9258
+],
+  "geometry": {"coordinates":[80.82259999999999,6.9258],"type":"Point"}
+}

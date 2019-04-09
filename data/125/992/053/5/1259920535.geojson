@@ -1,0 +1,67 @@
+{
+  "id": 1259920535,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"80.9736,6.3961,80.9736,6.3961",
+    "geom:latitude":6.3961,
+    "geom:longitude":80.9736,
+    "gn:admin1_code":"35.0",
+    "gn:asciiname":"Samagipura",
+    "gn:country_code":"LK",
+    "gn:dem":80,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7441748,
+    "gn:latitude":6.3961,
+    "gn:longitude":80.9736,
+    "gn:modification_date":"2010-08-07",
+    "gn:name":"Samagipura",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632313,
+        85673803,
+        1092066175
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7441748
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"b17c865a298519d1d2d15fb5d4856405",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "county_id":1092066175,
+            "locality_id":1259920535,
+            "region_id":85673803
+        }
+    ],
+    "wof:id":1259920535,
+    "wof:lastmodified":1536726174,
+    "wof:name":"Samagipura",
+    "wof:parent_id":1092066175,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    80.9736,
+    6.3961,
+    80.9736,
+    6.3961
+],
+  "geometry": {"coordinates":[80.9736,6.3961],"type":"Point"}
+}

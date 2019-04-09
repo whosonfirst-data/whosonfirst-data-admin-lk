@@ -1,0 +1,67 @@
+{
+  "id": 1242922721,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"80.1038,7.4744,80.1038,7.4744",
+    "geom:latitude":7.4744,
+    "geom:longitude":80.1038,
+    "gn:admin1_code":"32.0",
+    "gn:asciiname":"Unaliya",
+    "gn:country_code":"LK",
+    "gn:dem":63,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1225535,
+    "gn:latitude":7.4744,
+    "gn:longitude":80.1038,
+    "gn:modification_date":"1994-01-08",
+    "gn:name":"Unaliya",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632313,
+        85673777,
+        1092061569
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1225535
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"148ae943f3bac3a1e92d0328a71b4ea9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "county_id":1092061569,
+            "locality_id":1242922721,
+            "region_id":85673777
+        }
+    ],
+    "wof:id":1242922721,
+    "wof:lastmodified":1537061028,
+    "wof:name":"Unaliya",
+    "wof:parent_id":1092061569,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    80.1038,
+    7.4744,
+    80.1038,
+    7.4744
+],
+  "geometry": {"coordinates":[80.10380000000001,7.4744],"type":"Point"}
+}

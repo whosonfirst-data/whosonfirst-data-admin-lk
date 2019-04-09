@@ -1,0 +1,67 @@
+{
+  "id": 1327080835,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"80.7,8.31667,80.7,8.31667",
+    "geom:latitude":8.31667,
+    "geom:longitude":80.7,
+    "gn:admin1_code":"30.0",
+    "gn:asciiname":"Kunugonewa",
+    "gn:country_code":"LK",
+    "gn:dem":123,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1238165,
+    "gn:latitude":8.31667,
+    "gn:longitude":80.7,
+    "gn:modification_date":"1994-01-08",
+    "gn:name":"Kunugonewa",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632313,
+        85673751,
+        1092058467
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1238165
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"d15042dd0a43d3d708066ea44c569924",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "county_id":1092058467,
+            "locality_id":1327080835,
+            "region_id":85673751
+        }
+    ],
+    "wof:id":1327080835,
+    "wof:lastmodified":1536690818,
+    "wof:name":"Kunugonewa",
+    "wof:parent_id":1092058467,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    80.7,
+    8.31667,
+    80.7,
+    8.31667
+],
+  "geometry": {"coordinates":[80.7,8.31667],"type":"Point"}
+}

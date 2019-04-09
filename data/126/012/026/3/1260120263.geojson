@@ -1,0 +1,67 @@
+{
+  "id": 1260120263,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"80.0705,6.482,80.0705,6.482",
+    "geom:latitude":6.482,
+    "geom:longitude":80.0705,
+    "gn:admin1_code":"36.0",
+    "gn:asciiname":"Hiriweddala",
+    "gn:country_code":"LK",
+    "gn:dem":18,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7556759,
+    "gn:latitude":6.482,
+    "gn:longitude":80.0705,
+    "gn:modification_date":"2010-10-09",
+    "gn:name":"Hiriweddala",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632313,
+        85673819,
+        1092062959
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7556759
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"d6d0649f9effc7066fc72489e64a51c9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "county_id":1092062959,
+            "locality_id":1260120263,
+            "region_id":85673819
+        }
+    ],
+    "wof:id":1260120263,
+    "wof:lastmodified":1536935885,
+    "wof:name":"Hiriweddala",
+    "wof:parent_id":1092062959,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    80.0705,
+    6.482,
+    80.0705,
+    6.482
+],
+  "geometry": {"coordinates":[80.0705,6.482],"type":"Point"}
+}

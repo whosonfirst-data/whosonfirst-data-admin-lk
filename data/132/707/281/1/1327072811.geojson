@@ -1,0 +1,71 @@
+{
+  "id": 1327072811,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"79.9917,9.7539,79.9917,9.7539",
+    "geom:latitude":9.7539,
+    "geom:longitude":79.9917,
+    "gn:admin1_code":"38.0",
+    "gn:asciiname":"Sandilipay",
+    "gn:country_code":"LK",
+    "gn:dem":14,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1228293,
+    "gn:latitude":9.7539,
+    "gn:longitude":79.9917,
+    "gn:modification_date":"2012-04-05",
+    "gn:name":"Sandilipay",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sandilippai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632313,
+        85673769,
+        1092067213
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1228293,
+        "wk:page":"Sandilipay"
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"df58531e7ce7daae716ae8506177d0ec",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "county_id":1092067213,
+            "locality_id":1327072811,
+            "region_id":85673769
+        }
+    ],
+    "wof:id":1327072811,
+    "wof:lastmodified":1537661391,
+    "wof:name":"Sandilipay",
+    "wof:parent_id":1092067213,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    79.9917,
+    9.7539,
+    79.9917,
+    9.7539
+],
+  "geometry": {"coordinates":[79.99169999999999,9.7539],"type":"Point"}
+}

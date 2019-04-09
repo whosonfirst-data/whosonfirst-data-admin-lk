@@ -1,0 +1,71 @@
+{
+  "id": 1193223651,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"80.0323,7.854,80.0323,7.854",
+    "geom:latitude":7.854,
+    "geom:longitude":80.0323,
+    "gn:admin1_code":"32.0",
+    "gn:asciiname":"Darmapalaya",
+    "gn:country_code":"LK",
+    "gn:dem":70,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1248568,
+    "gn:latitude":7.854,
+    "gn:longitude":80.0323,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Darmapalaya",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Darumpala",
+        "Darmapalaya"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632313,
+        85673779,
+        1092056611
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1248568
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"223b15062f3579f38b4297b21eefa5ec",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "county_id":1092056611,
+            "locality_id":1193223651,
+            "region_id":85673779
+        }
+    ],
+    "wof:id":1193223651,
+    "wof:lastmodified":1537661577,
+    "wof:name":"Darmapalaya",
+    "wof:parent_id":1092056611,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    80.0323,
+    7.854,
+    80.0323,
+    7.854
+],
+  "geometry": {"coordinates":[80.03230000000001,7.854],"type":"Point"}
+}

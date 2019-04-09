@@ -1,0 +1,67 @@
+{
+  "id": 1343999419,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"80.365,7.2149,80.365,7.2149",
+    "geom:latitude":7.2149,
+    "geom:longitude":80.365,
+    "gn:admin1_code":"33.0",
+    "gn:asciiname":"Magurudeniya",
+    "gn:country_code":"LK",
+    "gn:dem":223,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1237190,
+    "gn:latitude":7.2149,
+    "gn:longitude":80.365,
+    "gn:modification_date":"1994-01-08",
+    "gn:name":"Magurudeniya",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632313,
+        85673807,
+        890455861
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1237190
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"3f686f21f86e98ae5886428f55347362",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "county_id":890455861,
+            "locality_id":1343999419,
+            "region_id":85673807
+        }
+    ],
+    "wof:id":1343999419,
+    "wof:lastmodified":1536963544,
+    "wof:name":"Magurudeniya",
+    "wof:parent_id":890455861,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    80.365,
+    7.2149,
+    80.365,
+    7.2149
+],
+  "geometry": {"coordinates":[80.36499999999999,7.2149],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1260226253,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"79.7297,8.073,79.7297,8.073",
+    "geom:latitude":8.073,
+    "geom:longitude":79.7297,
+    "gn:admin1_code":"32.0",
+    "gn:asciiname":"Karukkuchenai",
+    "gn:country_code":"LK",
+    "gn:dem":13,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7539993,
+    "gn:latitude":8.073,
+    "gn:longitude":79.7297,
+    "gn:modification_date":"2010-10-09",
+    "gn:name":"Karukkuchenai",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632313,
+        85673779,
+        1092060219
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7539993
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"64e86c3b2b8573bdd6637e5c9fa03b7e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "county_id":1092060219,
+            "locality_id":1260226253,
+            "region_id":85673779
+        }
+    ],
+    "wof:id":1260226253,
+    "wof:lastmodified":1536790138,
+    "wof:name":"Karukkuchenai",
+    "wof:parent_id":1092060219,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    79.7297,
+    8.073,
+    79.7297,
+    8.073
+],
+  "geometry": {"coordinates":[79.72969999999999,8.073],"type":"Point"}
+}

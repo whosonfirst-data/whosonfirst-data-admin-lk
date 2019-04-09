@@ -1,0 +1,71 @@
+{
+  "id": 1243117813,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"79.8381,7.4979,79.8381,7.4979",
+    "geom:latitude":7.4979,
+    "geom:longitude":79.8381,
+    "gn:admin1_code":"32.0",
+    "gn:asciiname":"Madampe",
+    "gn:country_code":"LK",
+    "gn:dem":13,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1237463,
+    "gn:latitude":7.4979,
+    "gn:longitude":79.8381,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Madampe",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Silva Town",
+        "Madampe"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632313,
+        85673779,
+        1092061929
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1237463
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"77b42a940fcfd695db191a7eae0f0a6e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "county_id":1092061929,
+            "locality_id":1243117813,
+            "region_id":85673779
+        }
+    ],
+    "wof:id":1243117813,
+    "wof:lastmodified":1537661479,
+    "wof:name":"Madampe",
+    "wof:parent_id":1092061929,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    79.8381,
+    7.4979,
+    79.8381,
+    7.4979
+],
+  "geometry": {"coordinates":[79.8381,7.4979],"type":"Point"}
+}

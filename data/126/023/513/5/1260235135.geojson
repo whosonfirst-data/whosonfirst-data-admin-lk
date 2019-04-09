@@ -1,0 +1,67 @@
+{
+  "id": 1260235135,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"80.2579,6.1196,80.2579,6.1196",
+    "geom:latitude":6.1196,
+    "geom:longitude":80.2579,
+    "gn:admin1_code":"34.0",
+    "gn:asciiname":"Delgahaudakanda",
+    "gn:country_code":"LK",
+    "gn:dem":28,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7624100,
+    "gn:latitude":6.1196,
+    "gn:longitude":80.2579,
+    "gn:modification_date":"2010-12-04",
+    "gn:name":"Delgahaudakanda",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632313,
+        85673789,
+        1092056807
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7624100
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"7b07d05e4696894182f6cc6a28454f41",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "county_id":1092056807,
+            "locality_id":1260235135,
+            "region_id":85673789
+        }
+    ],
+    "wof:id":1260235135,
+    "wof:lastmodified":1536778123,
+    "wof:name":"Delgahaudakanda",
+    "wof:parent_id":1092056807,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    80.2579,
+    6.1196,
+    80.2579,
+    6.1196
+],
+  "geometry": {"coordinates":[80.25790000000001,6.1196],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1343897105,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"81.8451,7.1892,81.8451,7.1892",
+    "geom:latitude":7.1892,
+    "geom:longitude":81.8451,
+    "gn:admin1_code":"37.0",
+    "gn:asciiname":"Panamkadu",
+    "gn:country_code":"LK",
+    "gn:dem":5,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1231341,
+    "gn:latitude":7.1892,
+    "gn:longitude":81.8451,
+    "gn:modification_date":"2012-04-05",
+    "gn:name":"Panamkadu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Panankadu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632313,
+        85673733,
+        1092056377
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1231341
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"fe498b2b03d07aec64b7b388e52dce1d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "county_id":1092056377,
+            "locality_id":1343897105,
+            "region_id":85673733
+        }
+    ],
+    "wof:id":1343897105,
+    "wof:lastmodified":1537661419,
+    "wof:name":"Panamkadu",
+    "wof:parent_id":1092056377,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    81.8451,
+    7.1892,
+    81.8451,
+    7.1892
+],
+  "geometry": {"coordinates":[81.8451,7.1892],"type":"Point"}
+}

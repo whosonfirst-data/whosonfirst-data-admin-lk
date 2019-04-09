@@ -1,0 +1,71 @@
+{
+  "id": 1309866865,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"80.5697,7.2819,80.5697,7.2819",
+    "geom:latitude":7.2819,
+    "geom:longitude":80.5697,
+    "gn:admin1_code":"29.0",
+    "gn:asciiname":"Geltapola",
+    "gn:country_code":"LK",
+    "gn:dem":559,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1245745,
+    "gn:latitude":7.2819,
+    "gn:longitude":80.5697,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Geltapola",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Gettapola"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632313,
+        85673719,
+        1092068267
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1245745,
+        "wk:page":"Gettapola"
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"15c520d3c32d264b1cf801a499378bdb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "county_id":1092068267,
+            "locality_id":1309866865,
+            "region_id":85673719
+        }
+    ],
+    "wof:id":1309866865,
+    "wof:lastmodified":1537661551,
+    "wof:name":"Geltapola",
+    "wof:parent_id":1092068267,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    80.5697,
+    7.2819,
+    80.5697,
+    7.2819
+],
+  "geometry": {"coordinates":[80.5697,7.2819],"type":"Point"}
+}

@@ -1,0 +1,66 @@
+{
+  "id": 1209357543,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"79.9573,9.7077,79.9573,9.7077",
+    "geom:latitude":9.7077,
+    "geom:longitude":79.9573,
+    "gn:admin1_code":"38.0",
+    "gn:asciiname":"Araly East",
+    "gn:country_code":"LK",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1251039,
+    "gn:latitude":9.7077,
+    "gn:longitude":79.9573,
+    "gn:modification_date":"2012-04-05",
+    "gn:name":"Araly East",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Arali",
+        "Araly East",
+        "Arali East"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632313
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1251039
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"c9f43759040b1f2484323812bab8e847",
+    "wof:hierarchy":[
+        {
+            "country_id":85632313,
+            "locality_id":1209357543
+        }
+    ],
+    "wof:id":1209357543,
+    "wof:lastmodified":1537661597,
+    "wof:name":"Araly East",
+    "wof:parent_id":85632313,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    79.9573,
+    9.7077,
+    79.9573,
+    9.7077
+],
+  "geometry": {"coordinates":[79.9573,9.7077],"type":"Point"}
+}

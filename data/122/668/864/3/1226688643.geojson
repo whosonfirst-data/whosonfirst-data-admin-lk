@@ -1,0 +1,66 @@
+{
+  "id": 1226688643,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"79.75,9.06667,79.75,9.06667",
+    "geom:latitude":9.06667,
+    "geom:longitude":79.75,
+    "gn:admin1_code":"38.0",
+    "gn:asciiname":"Pavilukkilavankudiyiruppu",
+    "gn:country_code":"LK",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1230701,
+    "gn:latitude":9.06667,
+    "gn:longitude":79.75,
+    "gn:modification_date":"2012-04-05",
+    "gn:name":"Pavilukkilavankudiyiruppu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Pavilukkilayankudiyiruppu",
+        "Pavulukelevenkudi",
+        "Pavilukkilavankudiyiruppu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1230701
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"cb690454df63675729450c628485948e",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1226688643,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1226688643,
+    "wof:lastmodified":1537661414,
+    "wof:name":"Pavilukkilavankudiyiruppu",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    79.75,
+    9.06667,
+    79.75,
+    9.06667
+],
+  "geometry": {"coordinates":[79.75,9.06667],"type":"Point"}
+}

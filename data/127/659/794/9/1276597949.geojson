@@ -1,0 +1,67 @@
+{
+  "id": 1276597949,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"80.4648,6.2691,80.4648,6.2691",
+    "geom:latitude":6.2691,
+    "geom:longitude":80.4648,
+    "gn:admin1_code":"34.0",
+    "gn:asciiname":"Kodikaragoda",
+    "gn:country_code":"LK",
+    "gn:dem":143,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7624512,
+    "gn:latitude":6.2691,
+    "gn:longitude":80.4648,
+    "gn:modification_date":"2010-12-04",
+    "gn:name":"Kodikaragoda",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632313,
+        85673795,
+        1092065343
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7624512
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"ae37ef05cc6f8456ff5448f309c6dc28",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "county_id":1092065343,
+            "locality_id":1276597949,
+            "region_id":85673795
+        }
+    ],
+    "wof:id":1276597949,
+    "wof:lastmodified":1536922299,
+    "wof:name":"Kodikaragoda",
+    "wof:parent_id":1092065343,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    80.4648,
+    6.2691,
+    80.4648,
+    6.2691
+],
+  "geometry": {"coordinates":[80.4648,6.2691],"type":"Point"}
+}

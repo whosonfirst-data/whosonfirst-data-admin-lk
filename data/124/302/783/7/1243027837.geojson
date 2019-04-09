@@ -1,0 +1,67 @@
+{
+  "id": 1243027837,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"80.3099,7.9247,80.3099,7.9247",
+    "geom:latitude":7.9247,
+    "geom:longitude":80.3099,
+    "gn:admin1_code":"32.0",
+    "gn:asciiname":"Morottegama",
+    "gn:country_code":"LK",
+    "gn:dem":102,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7436555,
+    "gn:latitude":7.9247,
+    "gn:longitude":80.3099,
+    "gn:modification_date":"2010-08-07",
+    "gn:name":"Morottegama",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632313,
+        85673777,
+        1092058131
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7436555
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"f7b8da02b5b9f8223fc5764013a7d88c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "county_id":1092058131,
+            "locality_id":1243027837,
+            "region_id":85673777
+        }
+    ],
+    "wof:id":1243027837,
+    "wof:lastmodified":1536912484,
+    "wof:name":"Morottegama",
+    "wof:parent_id":1092058131,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    80.3099,
+    7.9247,
+    80.3099,
+    7.9247
+],
+  "geometry": {"coordinates":[80.3099,7.9247],"type":"Point"}
+}

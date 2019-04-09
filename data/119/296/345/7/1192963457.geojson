@@ -1,0 +1,67 @@
+{
+  "id": 1192963457,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"81.1904,6.3129,81.1904,6.3129",
+    "geom:latitude":6.3129,
+    "geom:longitude":81.1904,
+    "gn:admin1_code":"34.0",
+    "gn:asciiname":"Eathtankadawewa",
+    "gn:country_code":"LK",
+    "gn:dem":50,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7625684,
+    "gn:latitude":6.3129,
+    "gn:longitude":81.1904,
+    "gn:modification_date":"2010-12-04",
+    "gn:name":"Eathtankadawewa",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632313,
+        85673791,
+        1092061903
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7625684
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"8f0b200253483c393a2356e98258df54",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "county_id":1092061903,
+            "locality_id":1192963457,
+            "region_id":85673791
+        }
+    ],
+    "wof:id":1192963457,
+    "wof:lastmodified":1536364306,
+    "wof:name":"Eathtankadawewa",
+    "wof:parent_id":1092061903,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    81.1904,
+    6.3129,
+    81.1904,
+    6.3129
+],
+  "geometry": {"coordinates":[81.1904,6.3129],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1243027815,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"80.346,7.508,80.346,7.508",
+    "geom:latitude":7.508,
+    "geom:longitude":80.346,
+    "gn:admin1_code":"32.0",
+    "gn:asciiname":"Kalahogedara",
+    "gn:country_code":"LK",
+    "gn:dem":117,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1242317,
+    "gn:latitude":7.508,
+    "gn:longitude":80.346,
+    "gn:modification_date":"1994-01-08",
+    "gn:name":"Kalahogedara",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632313,
+        85673777,
+        1092062829
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1242317
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"ad8d390f70f50403b83951bc67aad0f6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "county_id":1092062829,
+            "locality_id":1243027815,
+            "region_id":85673777
+        }
+    ],
+    "wof:id":1243027815,
+    "wof:lastmodified":1536912516,
+    "wof:name":"Kalahogedara",
+    "wof:parent_id":1092062829,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    80.346,
+    7.508,
+    80.346,
+    7.508
+],
+  "geometry": {"coordinates":[80.346,7.508],"type":"Point"}
+}

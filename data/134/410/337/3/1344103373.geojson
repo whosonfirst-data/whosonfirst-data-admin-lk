@@ -1,0 +1,73 @@
+{
+  "id": 1344103373,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"80.5888,8.3804,80.5888,8.3804",
+    "geom:latitude":8.3804,
+    "geom:longitude":80.5888,
+    "gn:admin1_code":"30.0",
+    "gn:asciiname":"Seeppukulama",
+    "gn:country_code":"LK",
+    "gn:dem":110,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1227909,
+    "gn:latitude":8.3804,
+    "gn:longitude":80.5888,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Seeppukulama",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sippikkulam",
+        "Sippikulama",
+        "Seeppukulama",
+        "Sippukulama"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632313,
+        85673751,
+        1092063257
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1227909
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"b7e013d6a1c01c31af0e3812ab410390",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "county_id":1092063257,
+            "locality_id":1344103373,
+            "region_id":85673751
+        }
+    ],
+    "wof:id":1344103373,
+    "wof:lastmodified":1537661388,
+    "wof:name":"Seeppukulama",
+    "wof:parent_id":1092063257,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    80.5888,
+    8.3804,
+    80.5888,
+    8.3804
+],
+  "geometry": {"coordinates":[80.58880000000001,8.3804],"type":"Point"}
+}

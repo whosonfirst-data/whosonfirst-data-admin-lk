@@ -1,0 +1,67 @@
+{
+  "id": 1225789503,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"80.0982,7.1285,80.0982,7.1285",
+    "geom:latitude":7.1285,
+    "geom:longitude":80.0982,
+    "gn:admin1_code":"36.0",
+    "gn:asciiname":"Kalahugahawila",
+    "gn:country_code":"LK",
+    "gn:dem":37,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1242316,
+    "gn:latitude":7.1285,
+    "gn:longitude":80.0982,
+    "gn:modification_date":"1994-01-08",
+    "gn:name":"Kalahugahawila",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632313,
+        85673815,
+        1092056721
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1242316
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"cef902b934e5ab313652a87612e8aa57",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "county_id":1092056721,
+            "locality_id":1225789503,
+            "region_id":85673815
+        }
+    ],
+    "wof:id":1225789503,
+    "wof:lastmodified":1537091627,
+    "wof:name":"Kalahugahawila",
+    "wof:parent_id":1092056721,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    80.0982,
+    7.1285,
+    80.0982,
+    7.1285
+],
+  "geometry": {"coordinates":[80.09820000000001,7.1285],"type":"Point"}
+}

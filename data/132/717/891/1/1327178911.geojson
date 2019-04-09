@@ -1,0 +1,72 @@
+{
+  "id": 1327178911,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"81.2902,6.9069,81.2902,6.9069",
+    "geom:latitude":6.9069,
+    "geom:longitude":81.2902,
+    "gn:admin1_code":"35.0",
+    "gn:asciiname":"Maligastenna",
+    "gn:country_code":"LK",
+    "gn:dem":183,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1236680,
+    "gn:latitude":6.9069,
+    "gn:longitude":81.2902,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Maligastenna",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mayilagastenne",
+        "Mailagastenna",
+        "Maligastenna"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632313,
+        85673803,
+        1092056763
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1236680
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"d50c1090467ce9fb604e4fa89b29e63e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "county_id":1092056763,
+            "locality_id":1327178911,
+            "region_id":85673803
+        }
+    ],
+    "wof:id":1327178911,
+    "wof:lastmodified":1537661472,
+    "wof:name":"Maligastenna",
+    "wof:parent_id":1092056763,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    81.2902,
+    6.9069,
+    81.2902,
+    6.9069
+],
+  "geometry": {"coordinates":[81.2902,6.9069],"type":"Point"}
+}

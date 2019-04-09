@@ -1,0 +1,100 @@
+{
+  "id": 421187631,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"81.2865,6.2765,81.2865,6.2765",
+    "geom:latitude":6.2765,
+    "geom:longitude":81.2865,
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:deu_x_preferred":[
+        "Tissamaharama"
+    ],
+    "name:dut_x_preferred":[
+        "Tissamaharama"
+    ],
+    "name:eng_x_preferred":[
+        "Tissamaharama"
+    ],
+    "name:ger_x_preferred":[
+        "Tissamaharama"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30c6\u30a3\u30c3\u30b5\u30de\u30cf\u30fc\u30e9\u30fc\u30de"
+    ],
+    "name:sin_x_preferred":[
+        "\u0dad\u0dd2\u0dc3\u0dca\u0dc3\u0db8\u0dc4\u0dcf\u0dbb\u0dcf\u0db8\u0dba"
+    ],
+    "name:unk_x_variant":[
+        "Tissa"
+    ],
+    "qs:gn_country":"LK",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":1226371,
+    "qs:gn_pop":0,
+    "qs:name":"Tissamaharama",
+    "qs:name_adm0":"Sri Lanka",
+    "qs:name_adm1":"Southern",
+    "qs:photos":619,
+    "qs:photos_1k":125,
+    "qs:photos_9k":3,
+    "qs:photos_9r":5,
+    "qs:photos_all":619,
+    "qs:photos_sr":8,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":1083710,
+    "qs:woe_adm0":23424778,
+    "qs:woe_id":2189557,
+    "src:geom":"quattroshapes",
+    "wd:wordcount":125,
+    "wof:belongsto":[
+        102191569,
+        85632313,
+        85673791,
+        1092066869
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1226371,
+        "gp:id":2189557,
+        "qs:id":1083710,
+        "wd:id":"Q1729871",
+        "wk:page":"Tissamaharama"
+    },
+    "wof:country":"LK",
+    "wof:created":1459009519,
+    "wof:geomhash":"60b6212dbe9b930ee0548dbedfff1410",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "county_id":1092066869,
+            "locality_id":421187631,
+            "region_id":85673791
+        }
+    ],
+    "wof:id":421187631,
+    "wof:lastmodified":1527716252,
+    "wof:name":"Tissamaharama",
+    "wof:parent_id":1092066869,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    81.2865,
+    6.2765,
+    81.2865,
+    6.2765
+],
+  "geometry": {"coordinates":[81.2865,6.2765],"type":"Point"}
+}

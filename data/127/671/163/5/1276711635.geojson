@@ -1,0 +1,67 @@
+{
+  "id": 1276711635,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"80.7552,7.1998,80.7552,7.1998",
+    "geom:latitude":7.1998,
+    "geom:longitude":80.7552,
+    "gn:admin1_code":"29.0",
+    "gn:asciiname":"Unuwinna",
+    "gn:country_code":"LK",
+    "gn:dem":653,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8302935,
+    "gn:latitude":7.1998,
+    "gn:longitude":80.7552,
+    "gn:modification_date":"2012-06-06",
+    "gn:name":"Unuwinna",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632313,
+        85673719,
+        1092065263
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8302935
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"db01f72d4a903afea698da14b3fc24aa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "county_id":1092065263,
+            "locality_id":1276711635,
+            "region_id":85673719
+        }
+    ],
+    "wof:id":1276711635,
+    "wof:lastmodified":1536769512,
+    "wof:name":"Unuwinna",
+    "wof:parent_id":1092065263,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    80.7552,
+    7.1998,
+    80.7552,
+    7.1998
+],
+  "geometry": {"coordinates":[80.7552,7.1998],"type":"Point"}
+}

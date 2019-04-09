@@ -1,0 +1,79 @@
+{
+  "id": 421203541,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"80.45,5.96667,80.45,5.96667",
+    "geom:latitude":5.96667,
+    "geom:longitude":80.45,
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:unk_x_variant":[
+        "Denepitiya"
+    ],
+    "qs:gn_country":"LK",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":1248208,
+    "qs:gn_pop":0,
+    "qs:name":"Denipitiya",
+    "qs:name_adm0":"Sri Lanka",
+    "qs:name_adm1":"Southern",
+    "qs:photos":186,
+    "qs:photos_1k":38,
+    "qs:photos_9k":1,
+    "qs:photos_9r":4,
+    "qs:photos_all":186,
+    "qs:photos_sr":4,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":233048,
+    "qs:woe_adm0":23424778,
+    "qs:woe_id":2175446,
+    "src:geom":"quattroshapes",
+    "wof:belongsto":[
+        102191569,
+        85632313,
+        85673795,
+        1092067827
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1248208,
+        "gp:id":2175446,
+        "qs:id":233048
+    },
+    "wof:country":"LK",
+    "wof:created":1459010155,
+    "wof:geomhash":"a105ced6d5867c919557ebc820c73264",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "county_id":1092067827,
+            "locality_id":421203541,
+            "region_id":85673795
+        }
+    ],
+    "wof:id":421203541,
+    "wof:lastmodified":1501217338,
+    "wof:name":"Denipitiya",
+    "wof:parent_id":1092067827,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    80.45,
+    5.96667,
+    80.45,
+    5.96667
+],
+  "geometry": {"coordinates":[80.45,5.96667],"type":"Point"}
+}

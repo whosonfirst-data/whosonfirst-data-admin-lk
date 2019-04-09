@@ -1,0 +1,61 @@
+{
+  "id": 1343515331,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"80.23333,6.01667,80.23333,6.01667",
+    "geom:latitude":6.01667,
+    "geom:longitude":80.23333,
+    "gn:admin1_code":"34.0",
+    "gn:asciiname":"Bona Vista",
+    "gn:country_code":"LK",
+    "gn:dem":-9999,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1249655,
+    "gn:latitude":6.01667,
+    "gn:longitude":80.23333,
+    "gn:modification_date":"1994-01-08",
+    "gn:name":"Bona Vista",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1249655
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"1d2a1f526bf00f4d87ee033a98f00683",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1343515331,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1343515331,
+    "wof:lastmodified":1536667193,
+    "wof:name":"Bona Vista",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    80.23333000000002,
+    6.01667,
+    80.23333000000002,
+    6.01667
+],
+  "geometry": {"coordinates":[80.23333000000002,6.01667],"type":"Point"}
+}

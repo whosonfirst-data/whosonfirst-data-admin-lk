@@ -1,0 +1,67 @@
+{
+  "id": 1344115929,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"80.5883,6.562,80.5883,6.562",
+    "geom:latitude":6.562,
+    "geom:longitude":80.5883,
+    "gn:admin1_code":"33.0",
+    "gn:asciiname":"Hapurudeniya",
+    "gn:country_code":"LK",
+    "gn:dem":199,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1244717,
+    "gn:latitude":6.562,
+    "gn:longitude":80.5883,
+    "gn:modification_date":"1994-01-08",
+    "gn:name":"Hapurudeniya",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632313,
+        85673785,
+        1092058825
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1244717
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"60609d60c77be02147af9d99b1c1e827",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "county_id":1092058825,
+            "locality_id":1344115929,
+            "region_id":85673785
+        }
+    ],
+    "wof:id":1344115929,
+    "wof:lastmodified":1536795958,
+    "wof:name":"Hapurudeniya",
+    "wof:parent_id":1092058825,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    80.5883,
+    6.562,
+    80.5883,
+    6.562
+],
+  "geometry": {"coordinates":[80.5883,6.562],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1310445877,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"79.9939,6.9892,79.9939,6.9892",
+    "geom:latitude":6.9892,
+    "geom:longitude":79.9939,
+    "gn:admin1_code":"36.0",
+    "gn:asciiname":"Migahawatta",
+    "gn:country_code":"LK",
+    "gn:dem":18,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1235167,
+    "gn:latitude":6.9892,
+    "gn:longitude":79.9939,
+    "gn:modification_date":"2000-09-26",
+    "gn:name":"Migahawatta",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632313,
+        85673815,
+        1092057163
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1235167
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"d03841b99a017dc8d6cfcf9261aa9515",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "county_id":1092057163,
+            "locality_id":1310445877,
+            "region_id":85673815
+        }
+    ],
+    "wof:id":1310445877,
+    "wof:lastmodified":1537002206,
+    "wof:name":"Migahawatta",
+    "wof:parent_id":1092057163,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    79.9939,
+    6.9892,
+    79.9939,
+    6.9892
+],
+  "geometry": {"coordinates":[79.9939,6.9892],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1209976375,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"80.405,7.963,80.405,7.963",
+    "geom:latitude":7.963,
+    "geom:longitude":80.405,
+    "gn:admin1_code":"32.0",
+    "gn:asciiname":"Weranundigama",
+    "gn:country_code":"LK",
+    "gn:dem":153,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1223105,
+    "gn:latitude":7.963,
+    "gn:longitude":80.405,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Weranundigama",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Wiramundigama",
+        "Weranundigama",
+        "Wiramuniyagama"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632313,
+        85673777,
+        1092058131
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1223105
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"4b1d5d9d056e67bd3c78082119176d8b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "county_id":1092058131,
+            "locality_id":1209976375,
+            "region_id":85673777
+        }
+    ],
+    "wof:id":1209976375,
+    "wof:lastmodified":1537661331,
+    "wof:name":"Weranundigama",
+    "wof:parent_id":1092058131,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    80.405,
+    7.963,
+    80.405,
+    7.963
+],
+  "geometry": {"coordinates":[80.405,7.963],"type":"Point"}
+}

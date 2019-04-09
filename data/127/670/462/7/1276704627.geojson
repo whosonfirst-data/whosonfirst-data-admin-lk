@@ -1,0 +1,67 @@
+{
+  "id": 1276704627,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"79.9415,6.8491,79.9415,6.8491",
+    "geom:latitude":6.8491,
+    "geom:longitude":79.9415,
+    "gn:admin1_code":"36.0",
+    "gn:asciiname":"Depanama",
+    "gn:country_code":"LK",
+    "gn:dem":15,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1248190,
+    "gn:latitude":6.8491,
+    "gn:longitude":79.9415,
+    "gn:modification_date":"1994-01-08",
+    "gn:name":"Depanama",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632313,
+        85673811,
+        1092062163
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1248190
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"fa2e6e0953f702db0cf0ab4b71124368",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "county_id":1092062163,
+            "locality_id":1276704627,
+            "region_id":85673811
+        }
+    ],
+    "wof:id":1276704627,
+    "wof:lastmodified":1536778792,
+    "wof:name":"Depanama",
+    "wof:parent_id":1092062163,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    79.9415,
+    6.8491,
+    79.9415,
+    6.8491
+],
+  "geometry": {"coordinates":[79.9415,6.8491],"type":"Point"}
+}

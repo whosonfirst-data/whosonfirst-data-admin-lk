@@ -1,0 +1,71 @@
+{
+  "id": 1226693055,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"81.7159,7.6935,81.7159,7.6935",
+    "geom:latitude":7.6935,
+    "geom:longitude":81.7159,
+    "gn:admin1_code":"37.0",
+    "gn:asciiname":"Navatkuda",
+    "gn:country_code":"LK",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1233549,
+    "gn:latitude":7.6935,
+    "gn:longitude":81.7159,
+    "gn:modification_date":"2012-04-05",
+    "gn:name":"Navatkuda",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Navatkudah",
+        "Navatkuda"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632313,
+        85673737,
+        1092062477
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1233549
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"70af9b2fd69fe3c217af4bf258a1aab8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "county_id":1092062477,
+            "locality_id":1226693055,
+            "region_id":85673737
+        }
+    ],
+    "wof:id":1226693055,
+    "wof:lastmodified":1537661442,
+    "wof:name":"Navatkuda",
+    "wof:parent_id":1092062477,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    81.7159,
+    7.6935,
+    81.7159,
+    7.6935
+],
+  "geometry": {"coordinates":[81.7159,7.6935],"type":"Point"}
+}

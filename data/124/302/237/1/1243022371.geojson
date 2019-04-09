@@ -1,0 +1,71 @@
+{
+  "id": 1243022371,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"80.4381,6.4574,80.4381,6.4574",
+    "geom:latitude":6.4574,
+    "geom:longitude":80.4381,
+    "gn:admin1_code":"33.0",
+    "gn:asciiname":"Weddagala",
+    "gn:country_code":"LK",
+    "gn:dem":311,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1223948,
+    "gn:latitude":6.4574,
+    "gn:longitude":80.4381,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Weddagala",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Veddagala",
+        "Weddagala"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632313,
+        85673785,
+        1092060105
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1223948
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"3fb50b103c905c85e6758a11bee40fdc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "county_id":1092060105,
+            "locality_id":1243022371,
+            "region_id":85673785
+        }
+    ],
+    "wof:id":1243022371,
+    "wof:lastmodified":1537661339,
+    "wof:name":"Weddagala",
+    "wof:parent_id":1092060105,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    80.4381,
+    6.4574,
+    80.4381,
+    6.4574
+],
+  "geometry": {"coordinates":[80.43810000000001,6.4574],"type":"Point"}
+}

@@ -1,0 +1,93 @@
+{
+  "id": 421178009,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"80.0024,6.844,80.0024,6.844",
+    "geom:latitude":6.844,
+    "geom:longitude":80.0024,
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:dut_x_preferred":[
+        "Homagama"
+    ],
+    "name:eng_x_preferred":[
+        "Homagama"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30db\u30de\u30ac\u30de"
+    ],
+    "name:sin_x_preferred":[
+        "\u0dc4\u0ddd\u0db8\u0dcf\u0d9c\u0db8"
+    ],
+    "qs:gn_country":"LK",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":1243936,
+    "qs:gn_pop":34664,
+    "qs:name":"Homagama",
+    "qs:name_adm0":"Sri Lanka",
+    "qs:name_adm1":"Western",
+    "qs:photos":314,
+    "qs:photos_1k":64,
+    "qs:photos_9k":1,
+    "qs:photos_9r":5,
+    "qs:photos_all":314,
+    "qs:photos_sr":5,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"7",
+    "qs:qs_id":276154,
+    "qs:woe_adm0":23424778,
+    "qs:woe_id":2189598,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wd:wordcount":292,
+    "wof:belongsto":[
+        102191569,
+        85632313,
+        85673811,
+        1092059399
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1243936,
+        "gp:id":2189598,
+        "qs:id":276154,
+        "wd:id":"Q17069010"
+    },
+    "wof:country":"LK",
+    "wof:created":1459009167,
+    "wof:geomhash":"7174ed9a57916714f54f29d6fcd8823a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "county_id":1092059399,
+            "locality_id":421178009,
+            "region_id":85673811
+        }
+    ],
+    "wof:id":421178009,
+    "wof:lastmodified":1527717720,
+    "wof:name":"Homagama",
+    "wof:parent_id":1092059399,
+    "wof:placetype":"locality",
+    "wof:population":34664,
+    "wof:population_rank":7,
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    80.0024,
+    6.844,
+    80.0024,
+    6.844
+],
+  "geometry": {"coordinates":[80.00239999999999,6.844],"type":"Point"}
+}

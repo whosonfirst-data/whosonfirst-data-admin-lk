@@ -1,0 +1,67 @@
+{
+  "id": 1226287311,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"81.0564,7.2061,81.0564,7.2061",
+    "geom:latitude":7.2061,
+    "geom:longitude":81.0564,
+    "gn:admin1_code":"35.0",
+    "gn:asciiname":"Thambagoda",
+    "gn:country_code":"LK",
+    "gn:dem":144,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7475022,
+    "gn:latitude":7.2061,
+    "gn:longitude":81.0564,
+    "gn:modification_date":"2010-08-08",
+    "gn:name":"Thambagoda",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632313,
+        85673801,
+        1092065929
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7475022
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"496f7d9d266ac0b708bacc57215744a6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "county_id":1092065929,
+            "locality_id":1226287311,
+            "region_id":85673801
+        }
+    ],
+    "wof:id":1226287311,
+    "wof:lastmodified":1536872793,
+    "wof:name":"Thambagoda",
+    "wof:parent_id":1092065929,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    81.0564,
+    7.2061,
+    81.0564,
+    7.2061
+],
+  "geometry": {"coordinates":[81.0564,7.2061],"type":"Point"}
+}

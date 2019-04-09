@@ -1,0 +1,89 @@
+{
+  "id": 1092063487,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.001552,
+    "geom:area_square_m":19055533.796453,
+    "geom:bbox":"79.8660177543,6.75865097443,79.9110524835,6.81760314502",
+    "geom:latitude":6.790538,
+    "geom:longitude":79.888578,
+    "iso:country":"LK",
+    "lbl:latitude":6.791333,
+    "lbl:longitude":79.888273,
+    "meso:admin_1":"Colombo",
+    "meso:admin_1r":"Western",
+    "meso:dissme":"MoratuwaColomboWestern",
+    "meso:gadm_admin":"Moratuwa",
+    "meso:gadm_hasc2":"LK.CO.MO",
+    "meso:mps_x":79.888273,
+    "meso:mps_y":6.791333,
+    "meso:name_en":"Moratuwa",
+    "meso:source":"AOTM",
+    "mps:latitude":6.791333,
+    "mps:longitude":79.888273,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Moratuwa"
+    ],
+    "name:eng_x_variant":[
+        "Moratuwa"
+    ],
+    "src:geom":"meso",
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"statoids",
+    "src:population:date":"2012-03-20",
+    "statoids:area_km":"20",
+    "statoids:as_of_date":"2012-03-20",
+    "statoids:capital":"Moratuwa",
+    "statoids:country":"LK",
+    "statoids:hasc":"LK.CO",
+    "statoids:name":"Moratuwa",
+    "statoids:population":"168280",
+    "statoids:statoid":"LK.CO.MO",
+    "statoids:timezone":"+5:30",
+    "statoids:type":"division",
+    "wof:belongsto":[
+        102191569,
+        85632313,
+        85673811
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "hasc:id":"LK.CO.MO"
+    },
+    "wof:country":"LK",
+    "wof:created":1473899044,
+    "wof:geomhash":"fffa7fd6638e4341fe74b210ee6612fc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "county_id":1092063487,
+            "region_id":85673811
+        }
+    ],
+    "wof:id":1092063487,
+    "wof:lastmodified":1536615147,
+    "wof:name":"Moratuwa",
+    "wof:parent_id":85673811,
+    "wof:placetype":"county",
+    "wof:placetype_local":"division",
+    "wof:population":168280,
+    "wof:population_rank":9,
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:shortcode":"MO",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    79.86601775431097,
+    6.75865097443343,
+    79.91105248345725,
+    6.8176031450184
+],
+  "geometry": {"coordinates":[[[79.89854375322859,6.8176031450184],[79.90094595355501,6.8158774154939],[79.90327609326181,6.81026059649405],[79.90344476143957,6.80564291281295],[79.90384630415764,6.8021653708697],[79.90507502391299,6.7986418449098],[79.90686299662723,6.79252922477952],[79.90824398754276,6.78596281300529],[79.90991513689811,6.78383482407656],[79.91105248345725,6.78119335135942],[79.9055469852298,6.77083583560822],[79.90168097422188,6.77198900510233],[79.8951552960193,6.77341218821337],[79.89216010458931,6.77358299626991],[79.89025123888482,6.77177941616399],[79.88426857652648,6.76422439558029],[79.87895855478057,6.75865097443343],[79.87872314500004,6.75911092800004],[79.87702941900005,6.76583337800002],[79.87622070300006,6.76663875600002],[79.87622070300006,6.76916647000007],[79.87541961700003,6.76997232400004],[79.87455749500003,6.77497243900007],[79.87205505400004,6.78080558800002],[79.87124633800005,6.78580570200006],[79.87039184600008,6.78666687000003],[79.87039184600008,6.78913879400005],[79.86955261200006,6.78999996200002],[79.86955261200006,6.79413890800004],[79.86621856700003,6.80077791200006],[79.86627960200008,6.80411100400005],[79.86601775431097,6.80448819272809],[79.87869945612432,6.8089991300663],[79.88176261689307,6.81084714251074],[79.88442943101315,6.81119957507879],[79.88791996946881,6.81323916989471],[79.89854375322859,6.8176031450184]]],"type":"Polygon"}
+}

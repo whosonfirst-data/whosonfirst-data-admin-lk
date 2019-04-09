@@ -1,0 +1,67 @@
+{
+  "id": 1327087367,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"79.996,7.1528,79.996,7.1528",
+    "geom:latitude":7.1528,
+    "geom:longitude":79.996,
+    "gn:admin1_code":"36.0",
+    "gn:asciiname":"Gallegedara",
+    "gn:country_code":"LK",
+    "gn:dem":17,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1246287,
+    "gn:latitude":7.1528,
+    "gn:longitude":79.996,
+    "gn:modification_date":"1994-01-08",
+    "gn:name":"Gallegedara",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632313,
+        85673815,
+        1092063369
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1246287
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"167d38b92c8ea308e2fc2a82cfc4764a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "county_id":1092063369,
+            "locality_id":1327087367,
+            "region_id":85673815
+        }
+    ],
+    "wof:id":1327087367,
+    "wof:lastmodified":1536681274,
+    "wof:name":"Gallegedara",
+    "wof:parent_id":1092063369,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    79.99600000000002,
+    7.1528,
+    79.99600000000002,
+    7.1528
+],
+  "geometry": {"coordinates":[79.99600000000002,7.1528],"type":"Point"}
+}

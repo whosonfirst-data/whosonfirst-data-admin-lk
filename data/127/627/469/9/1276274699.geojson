@@ -1,0 +1,67 @@
+{
+  "id": 1276274699,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"79.9103,7.1296,79.9103,7.1296",
+    "geom:latitude":7.1296,
+    "geom:longitude":79.9103,
+    "gn:admin1_code":"36.0",
+    "gn:asciiname":"Nekettagalla",
+    "gn:country_code":"LK",
+    "gn:dem":11,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7542707,
+    "gn:latitude":7.1296,
+    "gn:longitude":79.9103,
+    "gn:modification_date":"2010-10-09",
+    "gn:name":"Nekettagalla",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632313,
+        85673815,
+        1092060643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7542707
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"f8fe11d7708e5061b58a69aa68c626bb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "county_id":1092060643,
+            "locality_id":1276274699,
+            "region_id":85673815
+        }
+    ],
+    "wof:id":1276274699,
+    "wof:lastmodified":1536856071,
+    "wof:name":"Nekettagalla",
+    "wof:parent_id":1092060643,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    79.9103,
+    7.1296,
+    79.9103,
+    7.1296
+],
+  "geometry": {"coordinates":[79.91030000000001,7.1296],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1343303043,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"80.2152,6.2251,80.2152,6.2251",
+    "geom:latitude":6.2251,
+    "geom:longitude":80.2152,
+    "gn:admin1_code":"34.0",
+    "gn:asciiname":"Giribimbe",
+    "gn:country_code":"LK",
+    "gn:dem":16,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7623952,
+    "gn:latitude":6.2251,
+    "gn:longitude":80.2152,
+    "gn:modification_date":"2010-12-04",
+    "gn:name":"Giribimbe",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632313,
+        85673789,
+        1092058307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7623952
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"a0def01788a52e7a73b87555f5201bbc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "county_id":1092058307,
+            "locality_id":1343303043,
+            "region_id":85673789
+        }
+    ],
+    "wof:id":1343303043,
+    "wof:lastmodified":1536972987,
+    "wof:name":"Giribimbe",
+    "wof:parent_id":1092058307,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    80.2152,
+    6.2251,
+    80.2152,
+    6.2251
+],
+  "geometry": {"coordinates":[80.2152,6.2251],"type":"Point"}
+}

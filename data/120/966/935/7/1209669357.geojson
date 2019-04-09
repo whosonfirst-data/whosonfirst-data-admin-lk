@@ -1,0 +1,61 @@
+{
+  "id": 1209669357,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"80.2776,7.0625,80.2776,7.0625",
+    "geom:latitude":7.0625,
+    "geom:longitude":80.2776,
+    "gn:admin1_code":"33.0",
+    "gn:asciiname":"Telkumuduwala",
+    "gn:country_code":"LK",
+    "gn:dem":35,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1226865,
+    "gn:latitude":7.0625,
+    "gn:longitude":80.2776,
+    "gn:modification_date":"1994-01-08",
+    "gn:name":"Telkumuduwala",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632313
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1226865
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"93f110e2117f582a0211b70be8bb78f4",
+    "wof:hierarchy":[
+        {
+            "country_id":85632313,
+            "locality_id":1209669357
+        }
+    ],
+    "wof:id":1209669357,
+    "wof:lastmodified":1536279980,
+    "wof:name":"Telkumuduwala",
+    "wof:parent_id":85632313,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    80.2776,
+    7.0625,
+    80.2776,
+    7.0625
+],
+  "geometry": {"coordinates":[80.27760000000001,7.0625],"type":"Point"}
+}

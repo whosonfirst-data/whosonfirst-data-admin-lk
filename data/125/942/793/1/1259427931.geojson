@@ -1,0 +1,73 @@
+{
+  "id": 1259427931,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"80.1289,6.1114,80.1289,6.1114",
+    "geom:latitude":6.1114,
+    "geom:longitude":80.1289,
+    "gn:admin1_code":"34.0",
+    "gn:asciiname":"Moderapatuwata",
+    "gn:country_code":"LK",
+    "gn:dem":13,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1234854,
+    "gn:latitude":6.1114,
+    "gn:longitude":80.1289,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Moderapatuwata",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Modara Patuwata",
+        "Moderapatuwata",
+        "Modera Pattuwa",
+        "Moderapatuwatta"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632313,
+        85673789,
+        1092059311
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1234854
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"bdcb244a4490a2f2d408e63f0e6bec84",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "county_id":1092059311,
+            "locality_id":1259427931,
+            "region_id":85673789
+        }
+    ],
+    "wof:id":1259427931,
+    "wof:lastmodified":1537661453,
+    "wof:name":"Moderapatuwata",
+    "wof:parent_id":1092059311,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    80.1289,
+    6.1114,
+    80.1289,
+    6.1114
+],
+  "geometry": {"coordinates":[80.1289,6.1114],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1327282765,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"80.719,6.629,80.719,6.629",
+    "geom:latitude":6.629,
+    "geom:longitude":80.719,
+    "gn:admin1_code":"33.0",
+    "gn:asciiname":"Lankabarana",
+    "gn:country_code":"LK",
+    "gn:dem":532,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8305141,
+    "gn:latitude":6.629,
+    "gn:longitude":80.719,
+    "gn:modification_date":"2012-06-07",
+    "gn:name":"Lankabarana",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632313,
+        85673785,
+        1092056887
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8305141
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"29f4685671a91e3bf74ee950a27a6fed",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "county_id":1092056887,
+            "locality_id":1327282765,
+            "region_id":85673785
+        }
+    ],
+    "wof:id":1327282765,
+    "wof:lastmodified":1536896913,
+    "wof:name":"Lankabarana",
+    "wof:parent_id":1092056887,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    80.719,
+    6.629,
+    80.719,
+    6.629
+],
+  "geometry": {"coordinates":[80.71899999999999,6.629],"type":"Point"}
+}

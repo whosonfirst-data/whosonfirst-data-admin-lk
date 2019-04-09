@@ -1,0 +1,67 @@
+{
+  "id": 1276920105,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"79.9677,6.6275,79.9677,6.6275",
+    "geom:latitude":6.6275,
+    "geom:longitude":79.9677,
+    "gn:admin1_code":"36.0",
+    "gn:asciiname":"Panapitiya",
+    "gn:country_code":"LK",
+    "gn:dem":16,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1231327,
+    "gn:latitude":6.6275,
+    "gn:longitude":79.9677,
+    "gn:modification_date":"1994-01-08",
+    "gn:name":"Panapitiya",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632313,
+        85673819,
+        1092060239
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1231327
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"f1a3091c92bda5bdc460c9fa3b6da103",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "county_id":1092060239,
+            "locality_id":1276920105,
+            "region_id":85673819
+        }
+    ],
+    "wof:id":1276920105,
+    "wof:lastmodified":1536986566,
+    "wof:name":"Panapitiya",
+    "wof:parent_id":1092060239,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    79.9677,
+    6.6275,
+    79.9677,
+    6.6275
+],
+  "geometry": {"coordinates":[79.96769999999999,6.6275],"type":"Point"}
+}

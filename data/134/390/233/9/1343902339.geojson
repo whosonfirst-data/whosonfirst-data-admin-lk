@@ -1,0 +1,67 @@
+{
+  "id": 1343902339,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"79.9195,6.9361,79.9195,6.9361",
+    "geom:latitude":6.9361,
+    "geom:longitude":79.9195,
+    "gn:admin1_code":"36.0",
+    "gn:asciiname":"Belagama",
+    "gn:country_code":"LK",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1250072,
+    "gn:latitude":6.9361,
+    "gn:longitude":79.9195,
+    "gn:modification_date":"1994-01-08",
+    "gn:name":"Belagama",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632313,
+        85673811,
+        1092061133
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1250072
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"3e7b9bb9fa9a27eb5eac8b13da0dd673",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "county_id":1092061133,
+            "locality_id":1343902339,
+            "region_id":85673811
+        }
+    ],
+    "wof:id":1343902339,
+    "wof:lastmodified":1536603096,
+    "wof:name":"Belagama",
+    "wof:parent_id":1092061133,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    79.9195,
+    6.9361,
+    79.9195,
+    6.9361
+],
+  "geometry": {"coordinates":[79.9195,6.9361],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1193212417,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"80.0638,6.8553,80.0638,6.8553",
+    "geom:latitude":6.8553,
+    "geom:longitude":80.0638,
+    "gn:admin1_code":"36.0",
+    "gn:asciiname":"Watareka North",
+    "gn:country_code":"LK",
+    "gn:dem":19,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7474171,
+    "gn:latitude":6.8553,
+    "gn:longitude":80.0638,
+    "gn:modification_date":"2010-08-08",
+    "gn:name":"Watareka North",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632313,
+        85673811,
+        1092059399
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7474171
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"e26b465e35152ce8ca10979226d397bc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "county_id":1092059399,
+            "locality_id":1193212417,
+            "region_id":85673811
+        }
+    ],
+    "wof:id":1193212417,
+    "wof:lastmodified":1536383935,
+    "wof:name":"Watareka North",
+    "wof:parent_id":1092059399,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    80.0638,
+    6.8553,
+    80.0638,
+    6.8553
+],
+  "geometry": {"coordinates":[80.0638,6.8553],"type":"Point"}
+}

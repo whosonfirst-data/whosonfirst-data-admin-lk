@@ -1,0 +1,67 @@
+{
+  "id": 1242622589,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"80.2422,6.0402,80.2422,6.0402",
+    "geom:latitude":6.0402,
+    "geom:longitude":80.2422,
+    "gn:admin1_code":"34.0",
+    "gn:asciiname":"Heeralugoda",
+    "gn:country_code":"LK",
+    "gn:dem":15,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7438969,
+    "gn:latitude":6.0402,
+    "gn:longitude":80.2422,
+    "gn:modification_date":"2010-08-07",
+    "gn:name":"Heeralugoda",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632313,
+        85673789,
+        1092056215
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7438969
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"7493e7c20189f8f0d913c472f26541d4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "county_id":1092056215,
+            "locality_id":1242622589,
+            "region_id":85673789
+        }
+    ],
+    "wof:id":1242622589,
+    "wof:lastmodified":1536998248,
+    "wof:name":"Heeralugoda",
+    "wof:parent_id":1092056215,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    80.2422,
+    6.0402,
+    80.2422,
+    6.0402
+],
+  "geometry": {"coordinates":[80.2422,6.0402],"type":"Point"}
+}

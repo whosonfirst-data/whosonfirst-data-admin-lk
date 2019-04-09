@@ -1,0 +1,67 @@
+{
+  "id": 1327079525,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"79.9964,6.4205,79.9964,6.4205",
+    "geom:latitude":6.4205,
+    "geom:longitude":79.9964,
+    "gn:admin1_code":"34.0",
+    "gn:asciiname":"Handrangala",
+    "gn:country_code":"LK",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7622160,
+    "gn:latitude":6.4205,
+    "gn:longitude":79.9964,
+    "gn:modification_date":"2010-12-04",
+    "gn:name":"Handrangala",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632313,
+        85673789,
+        1092057133
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7622160
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"459f70c47665bba4ab2271419f74d03d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "county_id":1092057133,
+            "locality_id":1327079525,
+            "region_id":85673789
+        }
+    ],
+    "wof:id":1327079525,
+    "wof:lastmodified":1536692765,
+    "wof:name":"Handrangala",
+    "wof:parent_id":1092057133,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    79.9964,
+    6.4205,
+    79.9964,
+    6.4205
+],
+  "geometry": {"coordinates":[79.99639999999999,6.4205],"type":"Point"}
+}

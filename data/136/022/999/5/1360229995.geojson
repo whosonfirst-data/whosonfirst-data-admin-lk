@@ -1,0 +1,67 @@
+{
+  "id": 1360229995,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"80.7089,6.1449,80.7089,6.1449",
+    "geom:latitude":6.1449,
+    "geom:longitude":80.7089,
+    "gn:admin1_code":"34.0",
+    "gn:asciiname":"Wattegoda",
+    "gn:country_code":"LK",
+    "gn:dem":72,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7624613,
+    "gn:latitude":6.1449,
+    "gn:longitude":80.7089,
+    "gn:modification_date":"2010-12-04",
+    "gn:name":"Wattegoda",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632313,
+        85673791,
+        1092064463
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7624613
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"5a12f074c85283aed0985ae92aed2e31",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "county_id":1092064463,
+            "locality_id":1360229995,
+            "region_id":85673791
+        }
+    ],
+    "wof:id":1360229995,
+    "wof:lastmodified":1536736664,
+    "wof:name":"Wattegoda",
+    "wof:parent_id":1092064463,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    80.7089,
+    6.1449,
+    80.7089,
+    6.1449
+],
+  "geometry": {"coordinates":[80.7089,6.1449],"type":"Point"}
+}

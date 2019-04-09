@@ -1,0 +1,67 @@
+{
+  "id": 1343908147,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"80.1619,8.4854,80.1619,8.4854",
+    "geom:latitude":8.4854,
+    "geom:longitude":80.1619,
+    "gn:admin1_code":"30.0",
+    "gn:asciiname":"Bogas Junction",
+    "gn:country_code":"LK",
+    "gn:dem":54,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7440405,
+    "gn:latitude":8.4854,
+    "gn:longitude":80.1619,
+    "gn:modification_date":"2010-08-07",
+    "gn:name":"Bogas Junction",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632313,
+        85673751,
+        1092062291
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7440405
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"f1832f4eaf0dcf910c03207d6503ccad",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "county_id":1092062291,
+            "locality_id":1343908147,
+            "region_id":85673751
+        }
+    ],
+    "wof:id":1343908147,
+    "wof:lastmodified":1537092392,
+    "wof:name":"Bogas Junction",
+    "wof:parent_id":1092062291,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    80.1619,
+    8.4854,
+    80.1619,
+    8.4854
+],
+  "geometry": {"coordinates":[80.1619,8.4854],"type":"Point"}
+}

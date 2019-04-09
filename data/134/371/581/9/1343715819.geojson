@@ -1,0 +1,68 @@
+{
+  "id": 1343715819,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"80.56311,6.05327,80.56311,6.05327",
+    "geom:latitude":6.05327,
+    "geom:longitude":80.56311,
+    "gn:admin1_code":"34.0",
+    "gn:asciiname":"Mapalana",
+    "gn:country_code":"LK",
+    "gn:dem":18,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1236112,
+    "gn:latitude":6.05327,
+    "gn:longitude":80.56311,
+    "gn:modification_date":"2017-09-26",
+    "gn:name":"Mapalana",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632313,
+        85673795,
+        1092060281
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1236112,
+        "wk:page":"Mapalana"
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"d6a741668c1a6c0026de81308454ff15",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "county_id":1092060281,
+            "locality_id":1343715819,
+            "region_id":85673795
+        }
+    ],
+    "wof:id":1343715819,
+    "wof:lastmodified":1537567991,
+    "wof:name":"Mapalana",
+    "wof:parent_id":1092060281,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    80.56311,
+    6.05327,
+    80.56311,
+    6.05327
+],
+  "geometry": {"coordinates":[80.56310999999999,6.05327],"type":"Point"}
+}

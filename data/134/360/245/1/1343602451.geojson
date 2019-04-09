@@ -1,0 +1,67 @@
+{
+  "id": 1343602451,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"80.6162,6.1067,80.6162,6.1067",
+    "geom:latitude":6.1067,
+    "geom:longitude":80.6162,
+    "gn:admin1_code":"34.0",
+    "gn:asciiname":"Mugunadeniya",
+    "gn:country_code":"LK",
+    "gn:dem":179,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7624445,
+    "gn:latitude":6.1067,
+    "gn:longitude":80.6162,
+    "gn:modification_date":"2010-12-04",
+    "gn:name":"Mugunadeniya",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632313,
+        85673795,
+        1092063569
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7624445
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"d88beb9fa4b34c87173ad9d756758f06",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "county_id":1092063569,
+            "locality_id":1343602451,
+            "region_id":85673795
+        }
+    ],
+    "wof:id":1343602451,
+    "wof:lastmodified":1537037103,
+    "wof:name":"Mugunadeniya",
+    "wof:parent_id":1092063569,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    80.6162,
+    6.1067,
+    80.6162,
+    6.1067
+],
+  "geometry": {"coordinates":[80.61620000000001,6.1067],"type":"Point"}
+}

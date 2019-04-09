@@ -1,0 +1,61 @@
+{
+  "id": 1209365573,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"80.716,7.6717,80.716,7.6717",
+    "geom:latitude":7.6717,
+    "geom:longitude":80.716,
+    "gn:admin1_code":"29.0",
+    "gn:asciiname":"Radawela",
+    "gn:country_code":"LK",
+    "gn:dem":209,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1229147,
+    "gn:latitude":7.6717,
+    "gn:longitude":80.716,
+    "gn:modification_date":"1998-03-18",
+    "gn:name":"Radawela",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632313
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1229147
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"db9d7bda51d9213a5822a19e66807b25",
+    "wof:hierarchy":[
+        {
+            "country_id":85632313,
+            "locality_id":1209365573
+        }
+    ],
+    "wof:id":1209365573,
+    "wof:lastmodified":1536289284,
+    "wof:name":"Radawela",
+    "wof:parent_id":85632313,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    80.71600000000002,
+    7.6717,
+    80.71600000000002,
+    7.6717
+],
+  "geometry": {"coordinates":[80.71600000000002,7.6717],"type":"Point"}
+}

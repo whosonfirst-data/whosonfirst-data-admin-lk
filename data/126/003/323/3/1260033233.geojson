@@ -1,0 +1,70 @@
+{
+  "id": 1260033233,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"81.0601,7.1174,81.0601,7.1174",
+    "geom:latitude":7.1174,
+    "geom:longitude":81.0601,
+    "gn:admin1_code":"35.0",
+    "gn:asciiname":"Keselwatta",
+    "gn:country_code":"LK",
+    "gn:dem":333,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1240689,
+    "gn:latitude":7.1174,
+    "gn:longitude":81.0601,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Keselwatta",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kehelwatta"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632313,
+        85673801,
+        1092063223
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1240689
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"a340b1914cc3847c6270034c76a6cc28",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "county_id":1092063223,
+            "locality_id":1260033233,
+            "region_id":85673801
+        }
+    ],
+    "wof:id":1260033233,
+    "wof:lastmodified":1537661505,
+    "wof:name":"Keselwatta",
+    "wof:parent_id":1092063223,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    81.0601,
+    7.1174,
+    81.0601,
+    7.1174
+],
+  "geometry": {"coordinates":[81.06010000000001,7.1174],"type":"Point"}
+}

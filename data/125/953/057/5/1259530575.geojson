@@ -1,0 +1,68 @@
+{
+  "id": 1259530575,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"80.6238,7.011,80.6238,7.011",
+    "geom:latitude":7.011,
+    "geom:longitude":80.6238,
+    "gn:admin1_code":"29.0",
+    "gn:asciiname":"Wijebahukanda",
+    "gn:country_code":"LK",
+    "gn:dem":1095,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1223214,
+    "gn:latitude":7.011,
+    "gn:longitude":80.6238,
+    "gn:modification_date":"2012-05-05",
+    "gn:name":"Wijebahukanda",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632313,
+        85673731,
+        1092061445
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1223214,
+        "wk:page":"Wijebahukanda"
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"2b3433d8fa7c6fdd420f10e2244624ed",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "county_id":1092061445,
+            "locality_id":1259530575,
+            "region_id":85673731
+        }
+    ],
+    "wof:id":1259530575,
+    "wof:lastmodified":1537567958,
+    "wof:name":"Wijebahukanda",
+    "wof:parent_id":1092061445,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    80.6238,
+    7.011,
+    80.6238,
+    7.011
+],
+  "geometry": {"coordinates":[80.6238,7.011],"type":"Point"}
+}

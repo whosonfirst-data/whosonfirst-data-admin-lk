@@ -1,0 +1,67 @@
+{
+  "id": 1293344437,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"80.7297,6.68,80.7297,6.68",
+    "geom:latitude":6.68,
+    "geom:longitude":80.7297,
+    "gn:admin1_code":"33.0",
+    "gn:asciiname":"Amupitiya",
+    "gn:country_code":"LK",
+    "gn:dem":581,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7547162,
+    "gn:latitude":6.68,
+    "gn:longitude":80.7297,
+    "gn:modification_date":"2010-10-09",
+    "gn:name":"Amupitiya",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632313,
+        85673785,
+        1092059597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7547162
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"634d562928bea88ed311157736315814",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "county_id":1092059597,
+            "locality_id":1293344437,
+            "region_id":85673785
+        }
+    ],
+    "wof:id":1293344437,
+    "wof:lastmodified":1536992560,
+    "wof:name":"Amupitiya",
+    "wof:parent_id":1092059597,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    80.7297,
+    6.68,
+    80.7297,
+    6.68
+],
+  "geometry": {"coordinates":[80.72969999999999,6.68],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1209776291,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"80.9679,8.1437,80.9679,8.1437",
+    "geom:latitude":8.1437,
+    "geom:longitude":80.9679,
+    "gn:admin1_code":"30.0",
+    "gn:asciiname":"Track Seven",
+    "gn:country_code":"LK",
+    "gn:dem":63,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7442183,
+    "gn:latitude":8.1437,
+    "gn:longitude":80.9679,
+    "gn:modification_date":"2010-08-07",
+    "gn:name":"Track Seven",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632313,
+        85673743,
+        1092063181
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7442183
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"5fe5692aaa9cbd3ffc3136589cfa52fb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "county_id":1092063181,
+            "locality_id":1209776291,
+            "region_id":85673743
+        }
+    ],
+    "wof:id":1209776291,
+    "wof:lastmodified":1536378537,
+    "wof:name":"Track Seven",
+    "wof:parent_id":1092063181,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    80.9679,
+    8.1437,
+    80.9679,
+    8.1437
+],
+  "geometry": {"coordinates":[80.9679,8.1437],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1276489823,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"79.9861,6.4841,79.9861,6.4841",
+    "geom:latitude":6.4841,
+    "geom:longitude":79.9861,
+    "gn:admin1_code":"36.0",
+    "gn:asciiname":"Hena",
+    "gn:country_code":"LK",
+    "gn:dem":7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7622155,
+    "gn:latitude":6.4841,
+    "gn:longitude":79.9861,
+    "gn:modification_date":"2010-12-04",
+    "gn:name":"Hena",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632313,
+        85673819,
+        1092057157
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7622155
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"328d6d79201bb462f57333ee41b09059",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "county_id":1092057157,
+            "locality_id":1276489823,
+            "region_id":85673819
+        }
+    ],
+    "wof:id":1276489823,
+    "wof:lastmodified":1537063520,
+    "wof:name":"Hena",
+    "wof:parent_id":1092057157,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    79.9861,
+    6.4841,
+    79.9861,
+    6.4841
+],
+  "geometry": {"coordinates":[79.98609999999999,6.4841],"type":"Point"}
+}

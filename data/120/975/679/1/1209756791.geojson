@@ -1,0 +1,67 @@
+{
+  "id": 1209756791,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"80.3759,5.9992,80.3759,5.9992",
+    "geom:latitude":5.9992,
+    "geom:longitude":80.3759,
+    "gn:admin1_code":"34.0",
+    "gn:asciiname":"Kajugahakanatta",
+    "gn:country_code":"LK",
+    "gn:dem":6,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7439144,
+    "gn:latitude":5.9992,
+    "gn:longitude":80.3759,
+    "gn:modification_date":"2010-08-07",
+    "gn:name":"Kajugahakanatta",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632313,
+        85673789,
+        1092059573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7439144
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"7e08e2a36dc216f4eba2814f43c053a7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "county_id":1092059573,
+            "locality_id":1209756791,
+            "region_id":85673789
+        }
+    ],
+    "wof:id":1209756791,
+    "wof:lastmodified":1536390298,
+    "wof:name":"Kajugahakanatta",
+    "wof:parent_id":1092059573,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    80.3759,
+    5.9992,
+    80.3759,
+    5.9992
+],
+  "geometry": {"coordinates":[80.3759,5.9992],"type":"Point"}
+}

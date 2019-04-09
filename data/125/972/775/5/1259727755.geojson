@@ -1,0 +1,67 @@
+{
+  "id": 1259727755,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"80.1174,6.6128,80.1174,6.6128",
+    "geom:latitude":6.6128,
+    "geom:longitude":80.1174,
+    "gn:admin1_code":"36.0",
+    "gn:asciiname":"Nahalla",
+    "gn:country_code":"LK",
+    "gn:dem":31,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1233940,
+    "gn:latitude":6.6128,
+    "gn:longitude":80.1174,
+    "gn:modification_date":"1994-01-08",
+    "gn:name":"Nahalla",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632313,
+        85673819,
+        1092062035
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1233940
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"52323b77d5167220ce2275760ce3b7cb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "county_id":1092062035,
+            "locality_id":1259727755,
+            "region_id":85673819
+        }
+    ],
+    "wof:id":1259727755,
+    "wof:lastmodified":1537002591,
+    "wof:name":"Nahalla",
+    "wof:parent_id":1092062035,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    80.1174,
+    6.6128,
+    80.1174,
+    6.6128
+],
+  "geometry": {"coordinates":[80.1174,6.6128],"type":"Point"}
+}

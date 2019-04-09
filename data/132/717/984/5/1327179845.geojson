@@ -1,0 +1,72 @@
+{
+  "id": 1327179845,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"80.05,7.45,80.05,7.45",
+    "geom:latitude":7.45,
+    "geom:longitude":80.05,
+    "gn:admin1_code":"32.0",
+    "gn:asciiname":"Pahala Inguruwatta",
+    "gn:cc2":"LK",
+    "gn:country_code":"LK",
+    "gn:dem":35,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1232267,
+    "gn:latitude":7.45,
+    "gn:longitude":80.05,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Pahala Inguruwatta",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Palle Inguruwatta",
+        "Pahala Inguruwatta"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632313,
+        85673777,
+        1092061569
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1232267
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"0c5d430212aa02bf3f91db87b0a1b68c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "county_id":1092061569,
+            "locality_id":1327179845,
+            "region_id":85673777
+        }
+    ],
+    "wof:id":1327179845,
+    "wof:lastmodified":1537661428,
+    "wof:name":"Pahala Inguruwatta",
+    "wof:parent_id":1092061569,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    80.05,
+    7.45,
+    80.05,
+    7.45
+],
+  "geometry": {"coordinates":[80.05,7.45],"type":"Point"}
+}

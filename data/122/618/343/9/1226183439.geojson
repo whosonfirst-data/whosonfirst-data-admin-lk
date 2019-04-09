@@ -1,0 +1,67 @@
+{
+  "id": 1226183439,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"80.1837,6.2299,80.1837,6.2299",
+    "geom:latitude":6.2299,
+    "geom:longitude":80.1837,
+    "gn:admin1_code":"34.0",
+    "gn:asciiname":"Eramulla",
+    "gn:country_code":"LK",
+    "gn:dem":22,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1246933,
+    "gn:latitude":6.2299,
+    "gn:longitude":80.1837,
+    "gn:modification_date":"1994-01-08",
+    "gn:name":"Eramulla",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632313,
+        85673789,
+        1092058307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1246933
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"6682efd9b3f24a1bf4edb595aae314f0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "county_id":1092058307,
+            "locality_id":1226183439,
+            "region_id":85673789
+        }
+    ],
+    "wof:id":1226183439,
+    "wof:lastmodified":1537022315,
+    "wof:name":"Eramulla",
+    "wof:parent_id":1092058307,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    80.1837,
+    6.2299,
+    80.1837,
+    6.2299
+],
+  "geometry": {"coordinates":[80.1837,6.2299],"type":"Point"}
+}

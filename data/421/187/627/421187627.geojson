@@ -1,0 +1,100 @@
+{
+  "id": 421187627,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"80.9025,8.04652,80.9025,8.04652",
+    "geom:latitude":8.04652,
+    "geom:longitude":80.9025,
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:cat_x_preferred":[
+        "Minneriya"
+    ],
+    "name:dut_x_preferred":[
+        "Minneriya"
+    ],
+    "name:eng_x_preferred":[
+        "Minneriya"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30df\u30cd\u30ea\u30e4"
+    ],
+    "name:rus_x_preferred":[
+        "\u041c\u0438\u043d\u043d\u0435\u0440\u0438\u044f"
+    ],
+    "name:tam_x_preferred":[
+        "\u0bae\u0bbf\u0ba9\u0bcd\u0ba9\u0bc7\u0bb0\u0bbf\u0baf\u0bbe"
+    ],
+    "name:unk_x_variant":[
+        "Minnerya"
+    ],
+    "qs:gn_country":"LK",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":1235015,
+    "qs:gn_pop":0,
+    "qs:name":"Minneriya",
+    "qs:name_adm0":"Sri Lanka",
+    "qs:name_adm1":"North Central",
+    "qs:photos":308,
+    "qs:photos_1k":62,
+    "qs:photos_9k":1,
+    "qs:photos_9r":5,
+    "qs:photos_all":308,
+    "qs:photos_sr":5,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":1083708,
+    "qs:woe_adm0":23424778,
+    "qs:woe_id":2182887,
+    "src:geom":"quattroshapes",
+    "wd:wordcount":122,
+    "wof:belongsto":[
+        102191569,
+        85632313,
+        85673743,
+        1092059355
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1235015,
+        "gp:id":2182887,
+        "qs:id":1083708,
+        "wd:id":"Q4295008",
+        "wk:page":"Minneriya"
+    },
+    "wof:country":"LK",
+    "wof:created":1459009519,
+    "wof:geomhash":"0c79f895dc308409d49f5ffdc9fb0b3a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "county_id":1092059355,
+            "locality_id":421187627,
+            "region_id":85673743
+        }
+    ],
+    "wof:id":421187627,
+    "wof:lastmodified":1527716246,
+    "wof:name":"Minneriya",
+    "wof:parent_id":1092059355,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    80.9025,
+    8.04652,
+    80.9025,
+    8.04652
+],
+  "geometry": {"coordinates":[80.9025,8.04652],"type":"Point"}
+}

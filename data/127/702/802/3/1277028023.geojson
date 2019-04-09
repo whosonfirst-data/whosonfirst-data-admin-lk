@@ -1,0 +1,67 @@
+{
+  "id": 1277028023,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"80.3783,6.007,80.3783,6.007",
+    "geom:latitude":6.007,
+    "geom:longitude":80.3783,
+    "gn:admin1_code":"34.0",
+    "gn:asciiname":"Munhentuduwa",
+    "gn:country_code":"LK",
+    "gn:dem":17,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7439096,
+    "gn:latitude":6.007,
+    "gn:longitude":80.3783,
+    "gn:modification_date":"2010-08-07",
+    "gn:name":"Munhentuduwa",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632313,
+        85673789,
+        1092059573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7439096
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"74764cd4f0db9b9c37c39da4b49d4db1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "county_id":1092059573,
+            "locality_id":1277028023,
+            "region_id":85673789
+        }
+    ],
+    "wof:id":1277028023,
+    "wof:lastmodified":1536841515,
+    "wof:name":"Munhentuduwa",
+    "wof:parent_id":1092059573,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    80.3783,
+    6.007,
+    80.3783,
+    6.007
+],
+  "geometry": {"coordinates":[80.3783,6.007],"type":"Point"}
+}

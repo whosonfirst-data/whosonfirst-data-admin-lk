@@ -1,0 +1,64 @@
+{
+  "id": 1209558115,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"80.4142,9.5509,80.4142,9.5509",
+    "geom:latitude":9.5509,
+    "geom:longitude":80.4142,
+    "gn:admin1_code":"38.0",
+    "gn:asciiname":"Sankattharvayal",
+    "gn:country_code":"LK",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1249237,
+    "gn:latitude":9.5509,
+    "gn:longitude":80.4142,
+    "gn:modification_date":"2012-04-05",
+    "gn:name":"Sankattharvayal",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Chankattarvayal"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632313
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1249237
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"4699c26b9f0e161b97c89e6c13b2f133",
+    "wof:hierarchy":[
+        {
+            "country_id":85632313,
+            "locality_id":1209558115
+        }
+    ],
+    "wof:id":1209558115,
+    "wof:lastmodified":1537661582,
+    "wof:name":"Sankattharvayal",
+    "wof:parent_id":85632313,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    80.4142,
+    9.5509,
+    80.4142,
+    9.5509
+],
+  "geometry": {"coordinates":[80.41419999999999,9.5509],"type":"Point"}
+}

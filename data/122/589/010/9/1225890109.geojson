@@ -1,0 +1,67 @@
+{
+  "id": 1225890109,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"80.4135,7.6464,80.4135,7.6464",
+    "geom:latitude":7.6464,
+    "geom:longitude":80.4135,
+    "gn:admin1_code":"32.0",
+    "gn:asciiname":"Arankele",
+    "gn:country_code":"LK",
+    "gn:dem":118,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1251003,
+    "gn:latitude":7.6464,
+    "gn:longitude":80.4135,
+    "gn:modification_date":"1994-01-08",
+    "gn:name":"Arankele",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632313,
+        85673777,
+        1092058689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1251003
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"ba599469d1fdb74895cf026d82c2d6ec",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "county_id":1092058689,
+            "locality_id":1225890109,
+            "region_id":85673777
+        }
+    ],
+    "wof:id":1225890109,
+    "wof:lastmodified":1536950035,
+    "wof:name":"Arankele",
+    "wof:parent_id":1092058689,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    80.4135,
+    7.6464,
+    80.4135,
+    7.6464
+],
+  "geometry": {"coordinates":[80.4135,7.6464],"type":"Point"}
+}

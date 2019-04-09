@@ -1,0 +1,67 @@
+{
+  "id": 1193084079,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"80.6338,7.1942,80.6338,7.1942",
+    "geom:latitude":7.1942,
+    "geom:longitude":80.6338,
+    "gn:admin1_code":"29.0",
+    "gn:asciiname":"Winayagarwatta",
+    "gn:country_code":"LK",
+    "gn:dem":657,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7435333,
+    "gn:latitude":7.1942,
+    "gn:longitude":80.6338,
+    "gn:modification_date":"2010-08-07",
+    "gn:name":"Winayagarwatta",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632313,
+        85673719,
+        1092058013
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7435333
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"b87c4331ec7b56ecd0877443edaf3ef9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "county_id":1092058013,
+            "locality_id":1193084079,
+            "region_id":85673719
+        }
+    ],
+    "wof:id":1193084079,
+    "wof:lastmodified":1536377635,
+    "wof:name":"Winayagarwatta",
+    "wof:parent_id":1092058013,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    80.6338,
+    7.1942,
+    80.6338,
+    7.1942
+],
+  "geometry": {"coordinates":[80.63379999999999,7.1942],"type":"Point"}
+}

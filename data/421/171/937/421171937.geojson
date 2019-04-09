@@ -1,0 +1,100 @@
+{
+  "id": 421171937,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-02-02",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"80.5,6.75,80.5,6.75",
+    "geom:latitude":6.75,
+    "geom:longitude":80.5,
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:max_zoom":11.0,
+    "mz:min_zoom":8.7,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:eng_x_preferred":[
+        "Sabaragamuwa"
+    ],
+    "name:por_x_preferred":[
+        "Prov\u00edncia de Sabaragamuwa"
+    ],
+    "name:sin_x_preferred":[
+        "\u0dc3\u0db6\u0dbb\u0d9c\u0db8\u0dd4\u0dc0"
+    ],
+    "name:tam_x_preferred":[
+        "\u0b9a\u0baa\u0bb0\u0b95\u0bae\u0bc1\u0bb5"
+    ],
+    "name:unk_x_variant":[
+        "Province of Sabaragamuwa"
+    ],
+    "qs:gn_country":"LK",
+    "qs:gn_fcode":"ADM1",
+    "qs:gn_id":1228435,
+    "qs:gn_pop":0,
+    "qs:name":"Sabaragamuwa",
+    "qs:name_adm0":"Sri Lanka",
+    "qs:name_adm1":"Sabaragamuwa",
+    "qs:photos":137,
+    "qs:photos_1k":28,
+    "qs:photos_9k":23,
+    "qs:photos_9r":14,
+    "qs:photos_all":5100,
+    "qs:photos_sr":3,
+    "qs:placetype":"State",
+    "qs:pop_sr":"0",
+    "qs:qs_id":1285072,
+    "qs:woe_adm0":23424778,
+    "qs:woe_id":2344963,
+    "src:geom":"quattroshapes",
+    "wof:belongsto":[
+        102191569,
+        85632313
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1228435,
+        "gp:id":2344963,
+        "qs:id":1285072,
+        "wd:id":"Q853272",
+        "wk:page":"Sabaragamuwa Province"
+    },
+    "wof:country":"LK",
+    "wof:created":1459008912,
+    "wof:geomhash":"a3b7d9015a7b6488575a2cbbc11d9626",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "region_id":421171937
+        }
+    ],
+    "wof:id":421171937,
+    "wof:lang_x_official":[
+        "sin",
+        "tam"
+    ],
+    "wof:lang_x_spoken":[
+        "sin",
+        "tam"
+    ],
+    "wof:lastmodified":1529541194,
+    "wof:name":"Sabaragamuwa",
+    "wof:parent_id":85632313,
+    "wof:placetype":"region",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    80.5,
+    6.75,
+    80.5,
+    6.75
+],
+  "geometry": {"coordinates":[80.5,6.75],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1344009601,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"80.35,9.13333,80.35,9.13333",
+    "geom:latitude":9.13333,
+    "geom:longitude":80.35,
+    "gn:admin1_code":"38.0",
+    "gn:asciiname":"Vadakadu",
+    "gn:country_code":"LK",
+    "gn:dem":53,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1225239,
+    "gn:latitude":9.13333,
+    "gn:longitude":80.35,
+    "gn:modification_date":"2012-04-05",
+    "gn:name":"Vadakadu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632313,
+        85673765,
+        1092062713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1225239
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"1d804f9edae521e25c94b6e8e3cbd831",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "county_id":1092062713,
+            "locality_id":1344009601,
+            "region_id":85673765
+        }
+    ],
+    "wof:id":1344009601,
+    "wof:lastmodified":1536949479,
+    "wof:name":"Vadakadu",
+    "wof:parent_id":1092062713,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    80.35,
+    9.13333,
+    80.35,
+    9.13333
+],
+  "geometry": {"coordinates":[80.34999999999999,9.13333],"type":"Point"}
+}

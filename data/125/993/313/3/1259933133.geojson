@@ -1,0 +1,67 @@
+{
+  "id": 1259933133,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"79.8951,6.7799,79.8951,6.7799",
+    "geom:latitude":6.7799,
+    "geom:longitude":79.8951,
+    "gn:admin1_code":"36.0",
+    "gn:asciiname":"Indibedda",
+    "gn:country_code":"LK",
+    "gn:dem":7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1243091,
+    "gn:latitude":6.7799,
+    "gn:longitude":79.8951,
+    "gn:modification_date":"1994-01-08",
+    "gn:name":"Indibedda",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632313,
+        85673811,
+        1092063487
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1243091
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"767e1bbf02bc8b3290a4b15b8671d267",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "county_id":1092063487,
+            "locality_id":1259933133,
+            "region_id":85673811
+        }
+    ],
+    "wof:id":1259933133,
+    "wof:lastmodified":1536708126,
+    "wof:name":"Indibedda",
+    "wof:parent_id":1092063487,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    79.8951,
+    6.7799,
+    79.8951,
+    6.7799
+],
+  "geometry": {"coordinates":[79.8951,6.7799],"type":"Point"}
+}

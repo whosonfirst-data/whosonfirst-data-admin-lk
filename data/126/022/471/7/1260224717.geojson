@@ -1,0 +1,67 @@
+{
+  "id": 1260224717,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"80.0368,6.5875,80.0368,6.5875",
+    "geom:latitude":6.5875,
+    "geom:longitude":80.0368,
+    "gn:admin1_code":"36.0",
+    "gn:asciiname":"Kethhena",
+    "gn:country_code":"LK",
+    "gn:dem":19,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7441391,
+    "gn:latitude":6.5875,
+    "gn:longitude":80.0368,
+    "gn:modification_date":"2010-08-07",
+    "gn:name":"Kethhena",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632313,
+        85673819,
+        1092057971
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7441391
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"9765cf4363ce423bb9b6e01b3aca6f1b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "county_id":1092057971,
+            "locality_id":1260224717,
+            "region_id":85673819
+        }
+    ],
+    "wof:id":1260224717,
+    "wof:lastmodified":1536792110,
+    "wof:name":"Kethhena",
+    "wof:parent_id":1092057971,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    80.0368,
+    6.5875,
+    80.0368,
+    6.5875
+],
+  "geometry": {"coordinates":[80.0368,6.5875],"type":"Point"}
+}

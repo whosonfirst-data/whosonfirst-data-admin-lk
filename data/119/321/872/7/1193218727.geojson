@@ -1,0 +1,67 @@
+{
+  "id": 1193218727,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"81.019,7.0925,81.019,7.0925",
+    "geom:latitude":7.0925,
+    "geom:longitude":81.019,
+    "gn:admin1_code":"35.0",
+    "gn:asciiname":"Ampitiya",
+    "gn:country_code":"LK",
+    "gn:dem":291,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7474773,
+    "gn:latitude":7.0925,
+    "gn:longitude":81.019,
+    "gn:modification_date":"2010-08-08",
+    "gn:name":"Ampitiya",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632313,
+        85673801,
+        1092060319
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7474773
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"7f7bfb37b50836fdff21112abebd9670",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "county_id":1092060319,
+            "locality_id":1193218727,
+            "region_id":85673801
+        }
+    ],
+    "wof:id":1193218727,
+    "wof:lastmodified":1536377744,
+    "wof:name":"Ampitiya",
+    "wof:parent_id":1092060319,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    81.01899999999998,
+    7.0925,
+    81.01899999999998,
+    7.0925
+],
+  "geometry": {"coordinates":[81.01899999999998,7.0925],"type":"Point"}
+}

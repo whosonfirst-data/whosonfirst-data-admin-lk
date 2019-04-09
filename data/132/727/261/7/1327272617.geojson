@@ -1,0 +1,67 @@
+{
+  "id": 1327272617,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"80.15,9.73333,80.15,9.73333",
+    "geom:latitude":9.73333,
+    "geom:longitude":80.15,
+    "gn:admin1_code":"38.0",
+    "gn:asciiname":"Koddaikkadu",
+    "gn:country_code":"LK",
+    "gn:dem":1,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1239860,
+    "gn:latitude":9.73333,
+    "gn:longitude":80.15,
+    "gn:modification_date":"2012-04-05",
+    "gn:name":"Koddaikkadu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632313,
+        85673769,
+        1092067131
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1239860
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"4d8bddb533cd51dd4ee37e2b18a155f0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "county_id":1092067131,
+            "locality_id":1327272617,
+            "region_id":85673769
+        }
+    ],
+    "wof:id":1327272617,
+    "wof:lastmodified":1536911926,
+    "wof:name":"Koddaikkadu",
+    "wof:parent_id":1092067131,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    80.15,
+    9.73333,
+    80.15,
+    9.73333
+],
+  "geometry": {"coordinates":[80.15000000000001,9.73333],"type":"Point"}
+}

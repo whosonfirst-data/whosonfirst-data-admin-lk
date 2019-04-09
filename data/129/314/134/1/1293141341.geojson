@@ -1,0 +1,67 @@
+{
+  "id": 1293141341,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"81.2064,6.8445,81.2064,6.8445",
+    "geom:latitude":6.8445,
+    "geom:longitude":81.2064,
+    "gn:admin1_code":"35.0",
+    "gn:asciiname":"Rattarankivula",
+    "gn:country_code":"LK",
+    "gn:dem":437,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7618130,
+    "gn:latitude":6.8445,
+    "gn:longitude":81.2064,
+    "gn:modification_date":"2010-12-04",
+    "gn:name":"Rattarankivula",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632313,
+        85673803,
+        1092056763
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7618130
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"cfa756f1172512290b9dc6d601e697c4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "county_id":1092056763,
+            "locality_id":1293141341,
+            "region_id":85673803
+        }
+    ],
+    "wof:id":1293141341,
+    "wof:lastmodified":1536789520,
+    "wof:name":"Rattarankivula",
+    "wof:parent_id":1092056763,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    81.2064,
+    6.8445,
+    81.2064,
+    6.8445
+],
+  "geometry": {"coordinates":[81.2064,6.8445],"type":"Point"}
+}

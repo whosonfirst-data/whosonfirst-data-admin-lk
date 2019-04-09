@@ -1,0 +1,67 @@
+{
+  "id": 1242926963,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"81.3237,6.8445,81.3237,6.8445",
+    "geom:latitude":6.8445,
+    "geom:longitude":81.3237,
+    "gn:admin1_code":"35.0",
+    "gn:asciiname":"Palaruwa",
+    "gn:country_code":"LK",
+    "gn:dem":194,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7618084,
+    "gn:latitude":6.8445,
+    "gn:longitude":81.3237,
+    "gn:modification_date":"2010-12-04",
+    "gn:name":"Palaruwa",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632313,
+        85673803,
+        1092063443
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7618084
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"e7fa254be050474046f634dde85ae3f9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "county_id":1092063443,
+            "locality_id":1242926963,
+            "region_id":85673803
+        }
+    ],
+    "wof:id":1242926963,
+    "wof:lastmodified":1537055250,
+    "wof:name":"Palaruwa",
+    "wof:parent_id":1092063443,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    81.3237,
+    6.8445,
+    81.3237,
+    6.8445
+],
+  "geometry": {"coordinates":[81.3237,6.8445],"type":"Point"}
+}

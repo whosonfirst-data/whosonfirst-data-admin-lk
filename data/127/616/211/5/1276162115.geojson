@@ -1,0 +1,71 @@
+{
+  "id": 1276162115,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"80.4,9.56667,80.4,9.56667",
+    "geom:latitude":9.56667,
+    "geom:longitude":80.4,
+    "gn:admin1_code":"38.0",
+    "gn:asciiname":"Iyakachchi",
+    "gn:country_code":"LK",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1242851,
+    "gn:latitude":9.56667,
+    "gn:longitude":80.4,
+    "gn:modification_date":"2012-04-05",
+    "gn:name":"Iyakachchi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Iyakkachchi",
+        "Iyakachchi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632313,
+        85673773,
+        1092064543
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1242851
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"94de1fcbd76a874d4d1661b856a5e0c4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "county_id":1092064543,
+            "locality_id":1276162115,
+            "region_id":85673773
+        }
+    ],
+    "wof:id":1276162115,
+    "wof:lastmodified":1537661524,
+    "wof:name":"Iyakachchi",
+    "wof:parent_id":1092064543,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    80.4,
+    9.56667,
+    80.4,
+    9.56667
+],
+  "geometry": {"coordinates":[80.40000000000001,9.56667],"type":"Point"}
+}

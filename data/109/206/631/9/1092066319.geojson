@@ -1,0 +1,89 @@
+{
+  "id": 1092066319,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.00115,
+    "geom:area_square_m":14115820.69889,
+    "geom:bbox":"79.8814881228,6.86621452489,79.9200909718,6.92039926527",
+    "geom:latitude":6.892784,
+    "geom:longitude":79.897135,
+    "iso:country":"LK",
+    "lbl:latitude":6.892709,
+    "lbl:longitude":79.895819,
+    "meso:admin_1":"Colombo",
+    "meso:admin_1r":"Western",
+    "meso:dissme":"Sri Jayawardanapura KotteColomboWestern",
+    "meso:gadm_admin":"Sri Jayawardanapura Kotte",
+    "meso:gadm_hasc2":"LK.CO.SJ",
+    "meso:mps_x":79.895819,
+    "meso:mps_y":6.892709,
+    "meso:name_en":"Sri Jayawardanapura Kotte",
+    "meso:source":"AOTM",
+    "mps:latitude":6.892709,
+    "mps:longitude":79.895819,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Sri Jayawardanapura Kotte"
+    ],
+    "name:eng_x_variant":[
+        "Sri Jayawardanapura Kotte"
+    ],
+    "src:geom":"meso",
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"statoids",
+    "src:population:date":"2012-03-20",
+    "statoids:area_km":"17",
+    "statoids:as_of_date":"2012-03-20",
+    "statoids:capital":"Rajagiriya",
+    "statoids:country":"LK",
+    "statoids:hasc":"LK.CO",
+    "statoids:name":"Sri Jayawardanapura Kotte",
+    "statoids:population":"107925",
+    "statoids:statoid":"LK.CO.SJ",
+    "statoids:timezone":"+5:30",
+    "statoids:type":"division",
+    "wof:belongsto":[
+        102191569,
+        85632313,
+        85673811
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "hasc:id":"LK.CO.SJ"
+    },
+    "wof:country":"LK",
+    "wof:created":1473899154,
+    "wof:geomhash":"38a1f53e5b5ee5a6723aa08b3f7dd53e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "county_id":1092066319,
+            "region_id":85673811
+        }
+    ],
+    "wof:id":1092066319,
+    "wof:lastmodified":1536615150,
+    "wof:name":"Sri Jayawardanapura Kotte",
+    "wof:parent_id":85673811,
+    "wof:placetype":"county",
+    "wof:placetype_local":"division",
+    "wof:population":107925,
+    "wof:population_rank":9,
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:shortcode":"SJ",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    79.88148812279837,
+    6.86621452489177,
+    79.9200909717587,
+    6.92039926526834
+],
+  "geometry": {"coordinates":[[[79.8894627689953,6.92039926526834],[79.90079483567325,6.91806523096402],[79.90306413141855,6.91517412405078],[79.90453202650806,6.90546797349334],[79.90676781640556,6.90319829188762],[79.90723522322787,6.90278519101444],[79.90862859333305,6.90083680443737],[79.91144403821542,6.89834337268084],[79.91449462463279,6.8958816944436],[79.91710017079696,6.89289982920445],[79.9192043169862,6.89085257725384],[79.9200909717587,6.88887323963591],[79.91987352974168,6.88638107171891],[79.91962201020603,6.88507255840458],[79.90486825446578,6.88233270277819],[79.90231764371295,6.87879890898102],[79.89927781616069,6.87100696637319],[79.89851246005924,6.86653499876957],[79.89434994884536,6.86621452489177],[79.88580680737209,6.87164914009134],[79.88254763848148,6.88564328354969],[79.88148812279837,6.88955737023587],[79.88162233189496,6.89341205437635],[79.88274069022253,6.89682212768464],[79.88353715775428,6.9016792340581],[79.8847034772966,6.90470347729516],[79.88603524505949,6.90594307907499],[79.88754596176659,6.90679987469109],[79.88889034888987,6.90857630484582],[79.8892626134482,6.91507073863238],[79.8894627689953,6.92039926526834]]],"type":"Polygon"}
+}

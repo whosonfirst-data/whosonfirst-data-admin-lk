@@ -1,0 +1,61 @@
+{
+  "id": 1209364001,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"80.2571,7.5141,80.2571,7.5141",
+    "geom:latitude":7.5141,
+    "geom:longitude":80.2571,
+    "gn:admin1_code":"32.0",
+    "gn:asciiname":"Siwallawagedara",
+    "gn:country_code":"LK",
+    "gn:dem":97,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1227833,
+    "gn:latitude":7.5141,
+    "gn:longitude":80.2571,
+    "gn:modification_date":"1994-01-08",
+    "gn:name":"Siwallawagedara",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632313
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1227833
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"f819253d9441747a8ffa76ea5ec9cf66",
+    "wof:hierarchy":[
+        {
+            "country_id":85632313,
+            "locality_id":1209364001
+        }
+    ],
+    "wof:id":1209364001,
+    "wof:lastmodified":1536289335,
+    "wof:name":"Siwallawagedara",
+    "wof:parent_id":85632313,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    80.2571,
+    7.5141,
+    80.2571,
+    7.5141
+],
+  "geometry": {"coordinates":[80.25709999999999,7.5141],"type":"Point"}
+}

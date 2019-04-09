@@ -1,0 +1,70 @@
+{
+  "id": 1242620449,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"81.6639,6.914,81.6639,6.914",
+    "geom:latitude":6.914,
+    "geom:longitude":81.6639,
+    "gn:admin1_code":"37.0",
+    "gn:asciiname":"Hulannuge",
+    "gn:country_code":"LK",
+    "gn:dem":44,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1243794,
+    "gn:latitude":6.914,
+    "gn:longitude":81.6639,
+    "gn:modification_date":"2012-04-05",
+    "gn:name":"Hulannuge",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Hulanuge"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632313,
+        85673733,
+        1092061831
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1243794
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"fa67d1f2a1eed30bdb3629b1a806da06",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "county_id":1092061831,
+            "locality_id":1242620449,
+            "region_id":85673733
+        }
+    ],
+    "wof:id":1242620449,
+    "wof:lastmodified":1537661534,
+    "wof:name":"Hulannuge",
+    "wof:parent_id":1092061831,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    81.6639,
+    6.914,
+    81.6639,
+    6.914
+],
+  "geometry": {"coordinates":[81.6639,6.914],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1309851581,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"80.0654,7.9687,80.0654,7.9687",
+    "geom:latitude":7.9687,
+    "geom:longitude":80.0654,
+    "gn:admin1_code":"32.0",
+    "gn:asciiname":"Taraspodiya",
+    "gn:country_code":"LK",
+    "gn:dem":47,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1226964,
+    "gn:latitude":7.9687,
+    "gn:longitude":80.0654,
+    "gn:modification_date":"1994-01-08",
+    "gn:name":"Taraspodiya",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632313,
+        85673779,
+        1092064025
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1226964
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"915d9d7f98f66d2db0b4e9e968fc00a4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "county_id":1092064025,
+            "locality_id":1309851581,
+            "region_id":85673779
+        }
+    ],
+    "wof:id":1309851581,
+    "wof:lastmodified":1536863843,
+    "wof:name":"Taraspodiya",
+    "wof:parent_id":1092064025,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    80.0654,
+    7.9687,
+    80.0654,
+    7.9687
+],
+  "geometry": {"coordinates":[80.0654,7.9687],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1360035497,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"80.2513,8.2295,80.2513,8.2295",
+    "geom:latitude":8.2295,
+    "geom:longitude":80.2513,
+    "gn:admin1_code":"30.0",
+    "gn:asciiname":"Ratmalgama",
+    "gn:country_code":"LK",
+    "gn:dem":90,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7539396,
+    "gn:latitude":8.2295,
+    "gn:longitude":80.2513,
+    "gn:modification_date":"2010-10-09",
+    "gn:name":"Ratmalgama",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632313,
+        85673751,
+        1092064279
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7539396
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"51b6c65980a3446ee304eed99137e0bd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "county_id":1092064279,
+            "locality_id":1360035497,
+            "region_id":85673751
+        }
+    ],
+    "wof:id":1360035497,
+    "wof:lastmodified":1537016642,
+    "wof:name":"Ratmalgama",
+    "wof:parent_id":1092064279,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    80.2513,
+    8.2295,
+    80.2513,
+    8.2295
+],
+  "geometry": {"coordinates":[80.2513,8.2295],"type":"Point"}
+}

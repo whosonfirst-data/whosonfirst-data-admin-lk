@@ -1,0 +1,67 @@
+{
+  "id": 1193209073,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"80.6896,6.1394,80.6896,6.1394",
+    "geom:latitude":6.1394,
+    "geom:longitude":80.6896,
+    "gn:admin1_code":"34.0",
+    "gn:asciiname":"Udadeniyagoda",
+    "gn:country_code":"LK",
+    "gn:dem":42,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7624604,
+    "gn:latitude":6.1394,
+    "gn:longitude":80.6896,
+    "gn:modification_date":"2010-12-04",
+    "gn:name":"Udadeniyagoda",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632313,
+        85673791,
+        1092064463
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7624604
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"bd55f8ac58949540d31903eef4fbb24a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "county_id":1092064463,
+            "locality_id":1193209073,
+            "region_id":85673791
+        }
+    ],
+    "wof:id":1193209073,
+    "wof:lastmodified":1536365488,
+    "wof:name":"Udadeniyagoda",
+    "wof:parent_id":1092064463,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    80.6896,
+    6.1394,
+    80.6896,
+    6.1394
+],
+  "geometry": {"coordinates":[80.6896,6.1394],"type":"Point"}
+}

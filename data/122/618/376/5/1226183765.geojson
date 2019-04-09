@@ -1,0 +1,67 @@
+{
+  "id": 1226183765,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"80.4914,6.5925,80.4914,6.5925",
+    "geom:latitude":6.5925,
+    "geom:longitude":80.4914,
+    "gn:admin1_code":"33.0",
+    "gn:asciiname":"Atalla",
+    "gn:country_code":"LK",
+    "gn:dem":52,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7546901,
+    "gn:latitude":6.5925,
+    "gn:longitude":80.4914,
+    "gn:modification_date":"2010-10-09",
+    "gn:name":"Atalla",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632313,
+        85673785,
+        1092064197
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7546901
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"49779858ab68ced9b35a04052d11e598",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "county_id":1092064197,
+            "locality_id":1226183765,
+            "region_id":85673785
+        }
+    ],
+    "wof:id":1226183765,
+    "wof:lastmodified":1537021861,
+    "wof:name":"Atalla",
+    "wof:parent_id":1092064197,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    80.4914,
+    6.5925,
+    80.4914,
+    6.5925
+],
+  "geometry": {"coordinates":[80.4914,6.5925],"type":"Point"}
+}

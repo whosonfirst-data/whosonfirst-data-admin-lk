@@ -1,0 +1,71 @@
+{
+  "id": 1225997661,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"79.9696,6.8576,79.9696,6.8576",
+    "geom:latitude":6.8576,
+    "geom:longitude":79.9696,
+    "gn:admin1_code":"36.0",
+    "gn:asciiname":"Rukmale",
+    "gn:country_code":"LK",
+    "gn:dem":38,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1228459,
+    "gn:latitude":6.8576,
+    "gn:longitude":79.9696,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Rukmale",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Rukmalie",
+        "Rukmale"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632313,
+        85673811,
+        1092062163
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1228459
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"fb184799f8a89e7b67d0357e93ff059f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "county_id":1092062163,
+            "locality_id":1225997661,
+            "region_id":85673811
+        }
+    ],
+    "wof:id":1225997661,
+    "wof:lastmodified":1537661392,
+    "wof:name":"Rukmale",
+    "wof:parent_id":1092062163,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    79.9696,
+    6.8576,
+    79.9696,
+    6.8576
+],
+  "geometry": {"coordinates":[79.9696,6.8576],"type":"Point"}
+}

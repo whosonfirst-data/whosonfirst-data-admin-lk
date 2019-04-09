@@ -1,0 +1,67 @@
+{
+  "id": 1193227433,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"79.9047,7.4167,79.9047,7.4167",
+    "geom:latitude":7.4167,
+    "geom:longitude":79.9047,
+    "gn:admin1_code":"32.0",
+    "gn:asciiname":"Gurugodella",
+    "gn:country_code":"LK",
+    "gn:dem":25,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7437647,
+    "gn:latitude":7.4167,
+    "gn:longitude":79.9047,
+    "gn:modification_date":"2010-08-07",
+    "gn:name":"Gurugodella",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632313,
+        85673779,
+        1092063911
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7437647
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"30e8b1da994bc7bfee225a71069d131a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "county_id":1092063911,
+            "locality_id":1193227433,
+            "region_id":85673779
+        }
+    ],
+    "wof:id":1193227433,
+    "wof:lastmodified":1536368915,
+    "wof:name":"Gurugodella",
+    "wof:parent_id":1092063911,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    79.9047,
+    7.4167,
+    79.9047,
+    7.4167
+],
+  "geometry": {"coordinates":[79.90470000000001,7.4167],"type":"Point"}
+}

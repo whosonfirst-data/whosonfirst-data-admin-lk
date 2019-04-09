@@ -1,0 +1,67 @@
+{
+  "id": 1277022505,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"80.4811,7.2009,80.4811,7.2009",
+    "geom:latitude":7.2009,
+    "geom:longitude":80.4811,
+    "gn:admin1_code":"33.0",
+    "gn:asciiname":"Pitawala",
+    "gn:country_code":"LK",
+    "gn:dem":217,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7435346,
+    "gn:latitude":7.2009,
+    "gn:longitude":80.4811,
+    "gn:modification_date":"2010-08-07",
+    "gn:name":"Pitawala",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632313,
+        85673807,
+        1092062987
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7435346
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"f744b8357383b33e62a3d914d91e4119",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "county_id":1092062987,
+            "locality_id":1277022505,
+            "region_id":85673807
+        }
+    ],
+    "wof:id":1277022505,
+    "wof:lastmodified":1536848823,
+    "wof:name":"Pitawala",
+    "wof:parent_id":1092062987,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    80.4811,
+    7.2009,
+    80.4811,
+    7.2009
+],
+  "geometry": {"coordinates":[80.4811,7.2009],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1242827327,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"79.9395,7.0339,79.9395,7.0339",
+    "geom:latitude":7.0339,
+    "geom:longitude":79.9395,
+    "gn:admin1_code":"36.0",
+    "gn:asciiname":"Kendaliyaddpaluwa West",
+    "gn:country_code":"LK",
+    "gn:dem":44,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7542750,
+    "gn:latitude":7.0339,
+    "gn:longitude":79.9395,
+    "gn:modification_date":"2010-10-09",
+    "gn:name":"Kendaliyaddpaluwa West",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632313,
+        85673815,
+        1092062209
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7542750
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"a15c2b745ae0f4149cce5193c8f2acbd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "county_id":1092062209,
+            "locality_id":1242827327,
+            "region_id":85673815
+        }
+    ],
+    "wof:id":1242827327,
+    "wof:lastmodified":1536704392,
+    "wof:name":"Kendaliyaddpaluwa West",
+    "wof:parent_id":1092062209,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    79.9395,
+    7.0339,
+    79.9395,
+    7.0339
+],
+  "geometry": {"coordinates":[79.9395,7.0339],"type":"Point"}
+}

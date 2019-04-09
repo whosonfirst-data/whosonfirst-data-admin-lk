@@ -1,0 +1,70 @@
+{
+  "id": 1309950625,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"81.5301,6.7705,81.5301,6.7705",
+    "geom:latitude":6.7705,
+    "geom:longitude":81.5301,
+    "gn:admin1_code":"35.0",
+    "gn:asciiname":"Kotiyagala Colony",
+    "gn:country_code":"LK",
+    "gn:dem":84,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8534757,
+    "gn:latitude":6.7705,
+    "gn:longitude":81.5301,
+    "gn:modification_date":"2013-06-05",
+    "gn:name":"Kotiyagala Colony",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kotiyagala"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632313,
+        85673803,
+        1092066203
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8534757
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"2f8664380e529d624267d49b3838a801",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "county_id":1092066203,
+            "locality_id":1309950625,
+            "region_id":85673803
+        }
+    ],
+    "wof:id":1309950625,
+    "wof:lastmodified":1537661610,
+    "wof:name":"Kotiyagala Colony",
+    "wof:parent_id":1092066203,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    81.5301,
+    6.7705,
+    81.5301,
+    6.7705
+],
+  "geometry": {"coordinates":[81.5301,6.7705],"type":"Point"}
+}

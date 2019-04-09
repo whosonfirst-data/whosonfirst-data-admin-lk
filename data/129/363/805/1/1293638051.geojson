@@ -1,0 +1,67 @@
+{
+  "id": 1293638051,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"80.4352,6.5764,80.4352,6.5764",
+    "geom:latitude":6.5764,
+    "geom:longitude":80.4352,
+    "gn:admin1_code":"33.0",
+    "gn:asciiname":"New Pinkandawatta",
+    "gn:country_code":"LK",
+    "gn:dem":254,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7546871,
+    "gn:latitude":6.5764,
+    "gn:longitude":80.4352,
+    "gn:modification_date":"2010-10-09",
+    "gn:name":"New Pinkandawatta",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632313,
+        85673785,
+        1092064197
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7546871
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"4f0a3cb332fa9e46175eb1fa82479a13",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "county_id":1092064197,
+            "locality_id":1293638051,
+            "region_id":85673785
+        }
+    ],
+    "wof:id":1293638051,
+    "wof:lastmodified":1537064504,
+    "wof:name":"New Pinkandawatta",
+    "wof:parent_id":1092064197,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    80.4352,
+    6.5764,
+    80.4352,
+    6.5764
+],
+  "geometry": {"coordinates":[80.43519999999999,6.5764],"type":"Point"}
+}

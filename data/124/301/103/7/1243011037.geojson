@@ -1,0 +1,70 @@
+{
+  "id": 1243011037,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"80.1086,9.5713,80.1086,9.5713",
+    "geom:latitude":9.5713,
+    "geom:longitude":80.1086,
+    "gn:admin1_code":"38.0",
+    "gn:asciiname":"Kavutharimunai",
+    "gn:country_code":"LK",
+    "gn:dem":12,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1240840,
+    "gn:latitude":9.5713,
+    "gn:longitude":80.1086,
+    "gn:modification_date":"2012-04-05",
+    "gn:name":"Kavutharimunai",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kavutarimunai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632313,
+        85673773,
+        1092065443
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1240840
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"452d1ace2eb19a35a42c75be8677068d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "county_id":1092065443,
+            "locality_id":1243011037,
+            "region_id":85673773
+        }
+    ],
+    "wof:id":1243011037,
+    "wof:lastmodified":1537661507,
+    "wof:name":"Kavutharimunai",
+    "wof:parent_id":1092065443,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    80.1086,
+    9.5713,
+    80.1086,
+    9.5713
+],
+  "geometry": {"coordinates":[80.1086,9.5713],"type":"Point"}
+}

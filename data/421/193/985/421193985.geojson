@@ -1,0 +1,100 @@
+{
+  "id": 421193985,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"80.685,6.9217,80.685,6.9217",
+    "geom:latitude":6.9217,
+    "geom:longitude":80.685,
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:dut_x_preferred":[
+        "Lindula"
+    ],
+    "name:eng_x_preferred":[
+        "Lindula"
+    ],
+    "name:fra_x_preferred":[
+        "Lindula"
+    ],
+    "name:fre_x_preferred":[
+        "Lindula"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30ea\u30f3\u30c0\u30e9\u30fb\u30bf\u30e9\u30ef\u30b1\u30ec"
+    ],
+    "name:spa_x_preferred":[
+        "Lindula"
+    ],
+    "name:tam_x_preferred":[
+        "\u0bb2\u0bbf\u0ba8\u0bcd\u0ba4\u0bc1\u0bb2\u0bc8"
+    ],
+    "qs:gn_country":"LK",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":1237687,
+    "qs:gn_pop":0,
+    "qs:name":"Lindula",
+    "qs:name_adm0":"Sri Lanka",
+    "qs:name_adm1":"Central",
+    "qs:photos":51,
+    "qs:photos_1k":10,
+    "qs:photos_9k":1,
+    "qs:photos_9r":2,
+    "qs:photos_all":51,
+    "qs:photos_sr":2,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":317619,
+    "qs:woe_adm0":23424778,
+    "qs:woe_id":2181421,
+    "src:geom":"quattroshapes",
+    "wd:wordcount":54,
+    "wof:belongsto":[
+        102191569,
+        85632313,
+        85673731,
+        1092064313
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1237687,
+        "gp:id":2181421,
+        "qs:id":317619,
+        "wd:id":"Q6552950",
+        "wk:page":"Lindula"
+    },
+    "wof:country":"LK",
+    "wof:created":1459009789,
+    "wof:geomhash":"0bcace3a73439254973fc6ef5e8267d8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "county_id":1092064313,
+            "locality_id":421193985,
+            "region_id":85673731
+        }
+    ],
+    "wof:id":421193985,
+    "wof:lastmodified":1527716145,
+    "wof:name":"Lindula",
+    "wof:parent_id":1092064313,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    80.685,
+    6.9217,
+    80.685,
+    6.9217
+],
+  "geometry": {"coordinates":[80.685,6.9217],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1260348545,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"80.2353,7.4826,80.2353,7.4826",
+    "geom:latitude":7.4826,
+    "geom:longitude":80.2353,
+    "gn:admin1_code":"32.0",
+    "gn:asciiname":"Pambe",
+    "gn:country_code":"LK",
+    "gn:dem":90,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1231445,
+    "gn:latitude":7.4826,
+    "gn:longitude":80.2353,
+    "gn:modification_date":"1994-01-08",
+    "gn:name":"Pambe",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632313,
+        85673777,
+        1092067783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1231445
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"077a0c7bb24707ef17bc2019b0fdd712",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "county_id":1092067783,
+            "locality_id":1260348545,
+            "region_id":85673777
+        }
+    ],
+    "wof:id":1260348545,
+    "wof:lastmodified":1536623007,
+    "wof:name":"Pambe",
+    "wof:parent_id":1092067783,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    80.2353,
+    7.4826,
+    80.2353,
+    7.4826
+],
+  "geometry": {"coordinates":[80.2353,7.4826],"type":"Point"}
+}

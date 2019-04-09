@@ -1,0 +1,70 @@
+{
+  "id": 1326670043,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"79.9754,6.5322,79.9754,6.5322",
+    "geom:latitude":6.5322,
+    "geom:longitude":79.9754,
+    "gn:admin1_code":"36.0",
+    "gn:asciiname":"Payagala North",
+    "gn:country_code":"LK",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1232035,
+    "gn:latitude":6.5322,
+    "gn:longitude":79.9754,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Payagala North",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Paiyagala North"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632313,
+        85673819,
+        1092057157
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1232035
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"16f8016211c117da9f62dc3cb9456c0b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "county_id":1092057157,
+            "locality_id":1326670043,
+            "region_id":85673819
+        }
+    ],
+    "wof:id":1326670043,
+    "wof:lastmodified":1537661426,
+    "wof:name":"Payagala North",
+    "wof:parent_id":1092057157,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    79.9754,
+    6.5322,
+    79.9754,
+    6.5322
+],
+  "geometry": {"coordinates":[79.97539999999999,6.5322],"type":"Point"}
+}

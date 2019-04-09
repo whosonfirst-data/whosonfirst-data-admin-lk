@@ -1,0 +1,73 @@
+{
+  "id": 1242618469,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"80.1577,6.0733,80.1577,6.0733",
+    "geom:latitude":6.0733,
+    "geom:longitude":80.1577,
+    "gn:admin1_code":"34.0",
+    "gn:asciiname":"Boossa",
+    "gn:country_code":"LK",
+    "gn:dem":-9999,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1249358,
+    "gn:latitude":6.0733,
+    "gn:longitude":80.1577,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Boossa",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Busse",
+        "Boossa",
+        "Bussa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632313,
+        85673789,
+        1092059311
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1249358,
+        "wk:page":"Boossa"
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"635b26e2d6c84214700ca30ae48cb937",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "county_id":1092059311,
+            "locality_id":1242618469,
+            "region_id":85673789
+        }
+    ],
+    "wof:id":1242618469,
+    "wof:lastmodified":1537661583,
+    "wof:name":"Boossa",
+    "wof:parent_id":1092059311,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    80.1577,
+    6.0733,
+    80.1577,
+    6.0733
+],
+  "geometry": {"coordinates":[80.15770000000001,6.0733],"type":"Point"}
+}

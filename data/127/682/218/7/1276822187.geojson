@@ -1,0 +1,67 @@
+{
+  "id": 1276822187,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"81.2421,6.8463,81.2421,6.8463",
+    "geom:latitude":6.8463,
+    "geom:longitude":81.2421,
+    "gn:admin1_code":"35.0",
+    "gn:asciiname":"Pahekanuwa",
+    "gn:country_code":"LK",
+    "gn:dem":248,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7618291,
+    "gn:latitude":6.8463,
+    "gn:longitude":81.2421,
+    "gn:modification_date":"2010-12-04",
+    "gn:name":"Pahekanuwa",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632313,
+        85673803,
+        1092056763
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7618291
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"6ee9592383211c34ba0c07bc58ca7765",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "county_id":1092056763,
+            "locality_id":1276822187,
+            "region_id":85673803
+        }
+    ],
+    "wof:id":1276822187,
+    "wof:lastmodified":1536618845,
+    "wof:name":"Pahekanuwa",
+    "wof:parent_id":1092056763,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    81.2421,
+    6.8463,
+    81.2421,
+    6.8463
+],
+  "geometry": {"coordinates":[81.24209999999999,6.8463],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1343605665,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"80.0315,7.1749,80.0315,7.1749",
+    "geom:latitude":7.1749,
+    "geom:longitude":80.0315,
+    "gn:admin1_code":"36.0",
+    "gn:asciiname":"Yatagama",
+    "gn:country_code":"LK",
+    "gn:dem":42,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1222873,
+    "gn:latitude":7.1749,
+    "gn:longitude":80.0315,
+    "gn:modification_date":"1994-01-08",
+    "gn:name":"Yatagama",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632313,
+        85673815,
+        1092063369
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1222873
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"836f8540273b3a8aff6e2e6e4d489f59",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "county_id":1092063369,
+            "locality_id":1343605665,
+            "region_id":85673815
+        }
+    ],
+    "wof:id":1343605665,
+    "wof:lastmodified":1537032723,
+    "wof:name":"Yatagama",
+    "wof:parent_id":1092063369,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    80.0315,
+    7.1749,
+    80.0315,
+    7.1749
+],
+  "geometry": {"coordinates":[80.03149999999999,7.1749],"type":"Point"}
+}

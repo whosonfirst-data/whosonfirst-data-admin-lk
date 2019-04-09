@@ -1,0 +1,67 @@
+{
+  "id": 1226808211,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"80.4406,7.2484,80.4406,7.2484",
+    "geom:latitude":7.2484,
+    "geom:longitude":80.4406,
+    "gn:admin1_code":"33.0",
+    "gn:asciiname":"Dewaragampola",
+    "gn:country_code":"LK",
+    "gn:dem":208,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1248125,
+    "gn:latitude":7.2484,
+    "gn:longitude":80.4406,
+    "gn:modification_date":"1994-01-08",
+    "gn:name":"Dewaragampola",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632313,
+        85673807,
+        1092062987
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1248125
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"d01e8c7ebc4ab4e74907813ed9f17b46",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "county_id":1092062987,
+            "locality_id":1226808211,
+            "region_id":85673807
+        }
+    ],
+    "wof:id":1226808211,
+    "wof:lastmodified":1536623788,
+    "wof:name":"Dewaragampola",
+    "wof:parent_id":1092062987,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    80.4406,
+    7.2484,
+    80.4406,
+    7.2484
+],
+  "geometry": {"coordinates":[80.4406,7.2484],"type":"Point"}
+}

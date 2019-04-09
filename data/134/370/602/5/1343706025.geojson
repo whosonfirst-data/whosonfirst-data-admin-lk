@@ -1,0 +1,71 @@
+{
+  "id": 1343706025,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"79.929,6.768,79.929,6.768",
+    "geom:latitude":6.768,
+    "geom:longitude":79.929,
+    "gn:admin1_code":"36.0",
+    "gn:asciiname":"Madapata",
+    "gn:country_code":"LK",
+    "gn:dem":28,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1237445,
+    "gn:latitude":6.768,
+    "gn:longitude":79.929,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Madapata",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Madapatha",
+        "Madapata"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632313,
+        85673811,
+        1092060885
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1237445
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"1f3e41e0220a7e2a2170dd43ef301398",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "county_id":1092060885,
+            "locality_id":1343706025,
+            "region_id":85673811
+        }
+    ],
+    "wof:id":1343706025,
+    "wof:lastmodified":1537661479,
+    "wof:name":"Madapata",
+    "wof:parent_id":1092060885,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    79.929,
+    6.768,
+    79.929,
+    6.768
+],
+  "geometry": {"coordinates":[79.929,6.768],"type":"Point"}
+}

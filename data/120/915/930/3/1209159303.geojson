@@ -1,0 +1,61 @@
+{
+  "id": 1209159303,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"81.03333,6.86667,81.03333,6.86667",
+    "geom:latitude":6.86667,
+    "geom:longitude":81.03333,
+    "gn:admin1_code":"35.0",
+    "gn:asciiname":"Idamegama",
+    "gn:country_code":"LK",
+    "gn:dem":1035,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1243664,
+    "gn:latitude":6.86667,
+    "gn:longitude":81.03333,
+    "gn:modification_date":"1994-01-08",
+    "gn:name":"Idamegama",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632313
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1243664
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"754c6ca5d5f2f2c8a1fccd22e9d82b07",
+    "wof:hierarchy":[
+        {
+            "country_id":85632313,
+            "locality_id":1209159303
+        }
+    ],
+    "wof:id":1209159303,
+    "wof:lastmodified":1536295953,
+    "wof:name":"Idamegama",
+    "wof:parent_id":85632313,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    81.03333,
+    6.86667,
+    81.03333,
+    6.86667
+],
+  "geometry": {"coordinates":[81.03333000000001,6.86667],"type":"Point"}
+}

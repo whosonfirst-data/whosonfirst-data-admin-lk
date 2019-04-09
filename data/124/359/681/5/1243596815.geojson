@@ -1,0 +1,67 @@
+{
+  "id": 1243596815,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"79.9709,9.7602,79.9709,9.7602",
+    "geom:latitude":9.7602,
+    "geom:longitude":79.9709,
+    "gn:admin1_code":"38.0",
+    "gn:asciiname":"Pirampathai",
+    "gn:country_code":"LK",
+    "gn:dem":12,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1230129,
+    "gn:latitude":9.7602,
+    "gn:longitude":79.9709,
+    "gn:modification_date":"2012-04-05",
+    "gn:name":"Pirampathai",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632313,
+        85673769,
+        1092067255
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1230129
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"9012a5875e7300a1e6ab3c0b2f97234f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "county_id":1092067255,
+            "locality_id":1243596815,
+            "region_id":85673769
+        }
+    ],
+    "wof:id":1243596815,
+    "wof:lastmodified":1537082616,
+    "wof:name":"Pirampathai",
+    "wof:parent_id":1092067255,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    79.9709,
+    9.7602,
+    79.9709,
+    9.7602
+],
+  "geometry": {"coordinates":[79.9709,9.7602],"type":"Point"}
+}

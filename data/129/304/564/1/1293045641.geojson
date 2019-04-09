@@ -1,0 +1,67 @@
+{
+  "id": 1293045641,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"81.2633,7.0529,81.2633,7.0529",
+    "geom:latitude":7.0529,
+    "geom:longitude":81.2633,
+    "gn:admin1_code":"35.0",
+    "gn:asciiname":"Bogahawela",
+    "gn:country_code":"LK",
+    "gn:dem":256,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1249791,
+    "gn:latitude":7.0529,
+    "gn:longitude":81.2633,
+    "gn:modification_date":"1994-01-08",
+    "gn:name":"Bogahawela",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632313,
+        85673803,
+        1092063097
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1249791
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"faedb868d085a66a6e18a2ff2e4e5bda",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "county_id":1092063097,
+            "locality_id":1293045641,
+            "region_id":85673803
+        }
+    ],
+    "wof:id":1293045641,
+    "wof:lastmodified":1536927921,
+    "wof:name":"Bogahawela",
+    "wof:parent_id":1092063097,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    81.2633,
+    7.0529,
+    81.2633,
+    7.0529
+],
+  "geometry": {"coordinates":[81.2633,7.0529],"type":"Point"}
+}

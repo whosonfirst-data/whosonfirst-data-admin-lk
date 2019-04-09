@@ -1,0 +1,67 @@
+{
+  "id": 1309946603,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"81.2873,6.9564,81.2873,6.9564",
+    "geom:latitude":6.9564,
+    "geom:longitude":81.2873,
+    "gn:admin1_code":"35.0",
+    "gn:asciiname":"Kandaketiyakumbura",
+    "gn:country_code":"LK",
+    "gn:dem":212,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7618218,
+    "gn:latitude":6.9564,
+    "gn:longitude":81.2873,
+    "gn:modification_date":"2010-12-04",
+    "gn:name":"Kandaketiyakumbura",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632313,
+        85673803,
+        1092063097
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7618218
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"c8f2745209f1f195f99d4a3b23ee4d1b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "county_id":1092063097,
+            "locality_id":1309946603,
+            "region_id":85673803
+        }
+    ],
+    "wof:id":1309946603,
+    "wof:lastmodified":1536728581,
+    "wof:name":"Kandaketiyakumbura",
+    "wof:parent_id":1092063097,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    81.2873,
+    6.9564,
+    81.2873,
+    6.9564
+],
+  "geometry": {"coordinates":[81.2873,6.9564],"type":"Point"}
+}

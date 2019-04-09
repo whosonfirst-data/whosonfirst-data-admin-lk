@@ -1,0 +1,67 @@
+{
+  "id": 1327079057,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"80.9361,7.0329,80.9361,7.0329",
+    "geom:latitude":7.0329,
+    "geom:longitude":80.9361,
+    "gn:admin1_code":"35.0",
+    "gn:asciiname":"Tangamale",
+    "gn:country_code":"LK",
+    "gn:dem":1017,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7474819,
+    "gn:latitude":7.0329,
+    "gn:longitude":80.9361,
+    "gn:modification_date":"2010-08-08",
+    "gn:name":"Tangamale",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632313,
+        85673801,
+        1092067051
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7474819
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"6b914f1ed24ce4b4eca71a1c3ca4a7cd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "county_id":1092067051,
+            "locality_id":1327079057,
+            "region_id":85673801
+        }
+    ],
+    "wof:id":1327079057,
+    "wof:lastmodified":1536693460,
+    "wof:name":"Tangamale",
+    "wof:parent_id":1092067051,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    80.9361,
+    7.0329,
+    80.9361,
+    7.0329
+],
+  "geometry": {"coordinates":[80.9361,7.0329],"type":"Point"}
+}

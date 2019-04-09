@@ -1,0 +1,67 @@
+{
+  "id": 1259724909,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"80.7415,6.6192,80.7415,6.6192",
+    "geom:latitude":6.6192,
+    "geom:longitude":80.7415,
+    "gn:admin1_code":"33.0",
+    "gn:asciiname":"Wikiliya",
+    "gn:country_code":"LK",
+    "gn:dem":578,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1223207,
+    "gn:latitude":6.6192,
+    "gn:longitude":80.7415,
+    "gn:modification_date":"1998-03-24",
+    "gn:name":"Wikiliya",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632313,
+        85673785,
+        1092056887
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1223207
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"f27545cf5a2b0bc3ba55803fd13ad814",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "county_id":1092056887,
+            "locality_id":1259724909,
+            "region_id":85673785
+        }
+    ],
+    "wof:id":1259724909,
+    "wof:lastmodified":1537006650,
+    "wof:name":"Wikiliya",
+    "wof:parent_id":1092056887,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    80.7415,
+    6.6192,
+    80.7415,
+    6.6192
+],
+  "geometry": {"coordinates":[80.7415,6.6192],"type":"Point"}
+}

@@ -1,0 +1,61 @@
+{
+  "id": 1209360413,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"80.1055,7.5234,80.1055,7.5234",
+    "geom:latitude":7.5234,
+    "geom:longitude":80.1055,
+    "gn:admin1_code":"32.0",
+    "gn:asciiname":"Gonnawa",
+    "gn:country_code":"LK",
+    "gn:dem":60,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1245358,
+    "gn:latitude":7.5234,
+    "gn:longitude":80.1055,
+    "gn:modification_date":"1994-01-08",
+    "gn:name":"Gonnawa",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632313
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1245358
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"e9b2f919ddbb8bd5fdf6ed45cfa7d884",
+    "wof:hierarchy":[
+        {
+            "country_id":85632313,
+            "locality_id":1209360413
+        }
+    ],
+    "wof:id":1209360413,
+    "wof:lastmodified":1536289443,
+    "wof:name":"Gonnawa",
+    "wof:parent_id":85632313,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    80.1055,
+    7.5234,
+    80.1055,
+    7.5234
+],
+  "geometry": {"coordinates":[80.10550000000001,7.5234],"type":"Point"}
+}

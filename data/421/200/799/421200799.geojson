@@ -1,0 +1,100 @@
+{
+  "id": 421200799,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-02-02",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"81.25,7.0,81.25,7.0",
+    "geom:latitude":7.0,
+    "geom:longitude":81.25,
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:max_zoom":11.0,
+    "mz:min_zoom":8.7,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:eng_x_preferred":[
+        "Uva"
+    ],
+    "name:por_x_preferred":[
+        "Prov\u00edncia de Uva"
+    ],
+    "name:sin_x_preferred":[
+        "\u0d8c\u0dc0"
+    ],
+    "name:tam_x_preferred":[
+        "\u0b8a\u0bb5\u0bbe"
+    ],
+    "name:unk_x_variant":[
+        "Province of Uva"
+    ],
+    "qs:gn_country":"LK",
+    "qs:gn_fcode":"ADM1",
+    "qs:gn_id":1225265,
+    "qs:gn_pop":0,
+    "qs:name":"Uva",
+    "qs:name_adm0":"Sri Lanka",
+    "qs:name_adm1":"Uva",
+    "qs:photos":1845,
+    "qs:photos_1k":374,
+    "qs:photos_9k":38,
+    "qs:photos_9r":15,
+    "qs:photos_all":8683,
+    "qs:photos_sr":14,
+    "qs:placetype":"State",
+    "qs:pop_sr":"0",
+    "qs:qs_id":894853,
+    "qs:woe_adm0":23424778,
+    "qs:woe_id":2344965,
+    "src:geom":"quattroshapes",
+    "wof:belongsto":[
+        102191569,
+        85632313
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1225265,
+        "gp:id":2344965,
+        "qs:id":894853,
+        "wd:id":"Q876293",
+        "wk:page":"Uva Province"
+    },
+    "wof:country":"LK",
+    "wof:created":1459010042,
+    "wof:geomhash":"e051951d018138532cf128c4707ab0ec",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "region_id":421200799
+        }
+    ],
+    "wof:id":421200799,
+    "wof:lang_x_official":[
+        "sin",
+        "tam"
+    ],
+    "wof:lang_x_spoken":[
+        "sin",
+        "tam"
+    ],
+    "wof:lastmodified":1529541198,
+    "wof:name":"Uva",
+    "wof:parent_id":85632313,
+    "wof:placetype":"region",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    81.25,
+    7.0,
+    81.25,
+    7.0
+],
+  "geometry": {"coordinates":[81.25,7.0],"type":"Point"}
+}

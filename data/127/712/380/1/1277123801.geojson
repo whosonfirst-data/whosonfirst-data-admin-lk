@@ -1,0 +1,67 @@
+{
+  "id": 1277123801,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"80.7901,6.9664,80.7901,6.9664",
+    "geom:latitude":6.9664,
+    "geom:longitude":80.7901,
+    "gn:admin1_code":"29.0",
+    "gn:asciiname":"Hawa Eliya East",
+    "gn:country_code":"LK",
+    "gn:dem":1865,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7616452,
+    "gn:latitude":6.9664,
+    "gn:longitude":80.7901,
+    "gn:modification_date":"2010-12-04",
+    "gn:name":"Hawa Eliya East",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632313,
+        85673731,
+        1092064313
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7616452
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"dc58a7be020c84363b189c01f306f39a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "county_id":1092064313,
+            "locality_id":1277123801,
+            "region_id":85673731
+        }
+    ],
+    "wof:id":1277123801,
+    "wof:lastmodified":1536708790,
+    "wof:name":"Hawa Eliya East",
+    "wof:parent_id":1092064313,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    80.7901,
+    6.9664,
+    80.7901,
+    6.9664
+],
+  "geometry": {"coordinates":[80.7901,6.9664],"type":"Point"}
+}

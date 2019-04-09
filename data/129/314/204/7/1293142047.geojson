@@ -1,0 +1,67 @@
+{
+  "id": 1293142047,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"80.3423,6.6375,80.3423,6.6375",
+    "geom:latitude":6.6375,
+    "geom:longitude":80.3423,
+    "gn:admin1_code":"33.0",
+    "gn:asciiname":"Galahitikanda",
+    "gn:country_code":"LK",
+    "gn:dem":339,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7437261,
+    "gn:latitude":6.6375,
+    "gn:longitude":80.3423,
+    "gn:modification_date":"2010-08-07",
+    "gn:name":"Galahitikanda",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632313,
+        85673785,
+        1092058219
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7437261
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"ae0a0031553c8f715003bab0a8b40efc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "county_id":1092058219,
+            "locality_id":1293142047,
+            "region_id":85673785
+        }
+    ],
+    "wof:id":1293142047,
+    "wof:lastmodified":1536788544,
+    "wof:name":"Galahitikanda",
+    "wof:parent_id":1092058219,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    80.3423,
+    6.6375,
+    80.3423,
+    6.6375
+],
+  "geometry": {"coordinates":[80.34229999999999,6.6375],"type":"Point"}
+}

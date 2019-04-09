@@ -1,0 +1,61 @@
+{
+  "id": 1209256009,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"80.3123,7.3191,80.3123,7.3191",
+    "geom:latitude":7.3191,
+    "geom:longitude":80.3123,
+    "gn:admin1_code":"33.0",
+    "gn:asciiname":"Yatattawala",
+    "gn:country_code":"LK",
+    "gn:dem":73,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1222854,
+    "gn:latitude":7.3191,
+    "gn:longitude":80.3123,
+    "gn:modification_date":"1994-01-08",
+    "gn:name":"Yatattawala",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632313
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1222854
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"39c9ed5f12a6722084dcf08bb0c11c13",
+    "wof:hierarchy":[
+        {
+            "country_id":85632313,
+            "locality_id":1209256009
+        }
+    ],
+    "wof:id":1209256009,
+    "wof:lastmodified":1536292848,
+    "wof:name":"Yatattawala",
+    "wof:parent_id":85632313,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    80.3123,
+    7.3191,
+    80.3123,
+    7.3191
+],
+  "geometry": {"coordinates":[80.31229999999999,7.3191],"type":"Point"}
+}

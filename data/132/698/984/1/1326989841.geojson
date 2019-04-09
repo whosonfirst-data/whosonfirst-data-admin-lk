@@ -1,0 +1,70 @@
+{
+  "id": 1326989841,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"80.0722,7.4241,80.0722,7.4241",
+    "geom:latitude":7.4241,
+    "geom:longitude":80.0722,
+    "gn:admin1_code":"32.0",
+    "gn:asciiname":"Diyadora Ihala Kohotta",
+    "gn:country_code":"LK",
+    "gn:dem":38,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1247785,
+    "gn:latitude":7.4241,
+    "gn:longitude":80.0722,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Diyadora Ihala Kohotta",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Diyadora Ihalakohota"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632313,
+        85673777,
+        1092065035
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1247785
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"9a96e5ac2a48f4eeef9488590745e33d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "county_id":1092065035,
+            "locality_id":1326989841,
+            "region_id":85673777
+        }
+    ],
+    "wof:id":1326989841,
+    "wof:lastmodified":1537661569,
+    "wof:name":"Diyadora Ihala Kohotta",
+    "wof:parent_id":1092065035,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    80.0722,
+    7.4241,
+    80.0722,
+    7.4241
+],
+  "geometry": {"coordinates":[80.0722,7.4241],"type":"Point"}
+}

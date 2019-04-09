@@ -1,0 +1,67 @@
+{
+  "id": 1344198011,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"81.217,6.7926,81.217,6.7926",
+    "geom:latitude":6.7926,
+    "geom:longitude":81.217,
+    "gn:admin1_code":"35.0",
+    "gn:asciiname":"Kadiyalanda",
+    "gn:country_code":"LK",
+    "gn:dem":211,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7617868,
+    "gn:latitude":6.7926,
+    "gn:longitude":81.217,
+    "gn:modification_date":"2010-12-04",
+    "gn:name":"Kadiyalanda",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632313,
+        85673803,
+        1092056763
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7617868
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"62ee7643aa4bc52595e3a5a9c9ddce3c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "county_id":1092056763,
+            "locality_id":1344198011,
+            "region_id":85673803
+        }
+    ],
+    "wof:id":1344198011,
+    "wof:lastmodified":1536677078,
+    "wof:name":"Kadiyalanda",
+    "wof:parent_id":1092056763,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    81.217,
+    6.7926,
+    81.217,
+    6.7926
+],
+  "geometry": {"coordinates":[81.217,6.7926],"type":"Point"}
+}

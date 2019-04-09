@@ -1,0 +1,67 @@
+{
+  "id": 1309946597,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"81.0829,7.0031,81.0829,7.0031",
+    "geom:latitude":7.0031,
+    "geom:longitude":81.0829,
+    "gn:admin1_code":"35.0",
+    "gn:asciiname":"Sirimalgoda",
+    "gn:country_code":"LK",
+    "gn:dem":1004,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7474985,
+    "gn:latitude":7.0031,
+    "gn:longitude":81.0829,
+    "gn:modification_date":"2010-08-08",
+    "gn:name":"Sirimalgoda",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632313,
+        85673801,
+        1092056843
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7474985
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"777bbf056efe08b8e363010bfb96f9b7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "county_id":1092056843,
+            "locality_id":1309946597,
+            "region_id":85673801
+        }
+    ],
+    "wof:id":1309946597,
+    "wof:lastmodified":1536728592,
+    "wof:name":"Sirimalgoda",
+    "wof:parent_id":1092056843,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    81.0829,
+    7.0031,
+    81.0829,
+    7.0031
+],
+  "geometry": {"coordinates":[81.0829,7.0031],"type":"Point"}
+}

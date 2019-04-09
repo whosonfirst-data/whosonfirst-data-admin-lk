@@ -1,0 +1,67 @@
+{
+  "id": 1193201027,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"80.1773,6.3265,80.1773,6.3265",
+    "geom:latitude":6.3265,
+    "geom:longitude":80.1773,
+    "gn:admin1_code":"34.0",
+    "gn:asciiname":"Kitulwitigala",
+    "gn:country_code":"LK",
+    "gn:dem":45,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8305277,
+    "gn:latitude":6.3265,
+    "gn:longitude":80.1773,
+    "gn:modification_date":"2012-06-07",
+    "gn:name":"Kitulwitigala",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632313,
+        85673789,
+        1092058307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8305277
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"012c477a000f30c4d01562756eea9a7a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "county_id":1092058307,
+            "locality_id":1193201027,
+            "region_id":85673789
+        }
+    ],
+    "wof:id":1193201027,
+    "wof:lastmodified":1536372779,
+    "wof:name":"Kitulwitigala",
+    "wof:parent_id":1092058307,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    80.1773,
+    6.3265,
+    80.1773,
+    6.3265
+],
+  "geometry": {"coordinates":[80.1773,6.3265],"type":"Point"}
+}

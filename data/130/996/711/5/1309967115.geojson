@@ -1,0 +1,67 @@
+{
+  "id": 1309967115,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"80.7861,7.0562,80.7861,7.0562",
+    "geom:latitude":7.0562,
+    "geom:longitude":80.7861,
+    "gn:admin1_code":"29.0",
+    "gn:asciiname":"Good Wood",
+    "gn:country_code":"LK",
+    "gn:dem":1211,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7474380,
+    "gn:latitude":7.0562,
+    "gn:longitude":80.7861,
+    "gn:modification_date":"2010-08-08",
+    "gn:name":"Good Wood",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632313,
+        85673731,
+        1092059139
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7474380
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"836ed4a00e86d333efc93ae2db29f322",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "county_id":1092059139,
+            "locality_id":1309967115,
+            "region_id":85673731
+        }
+    ],
+    "wof:id":1309967115,
+    "wof:lastmodified":1536699036,
+    "wof:name":"Good Wood",
+    "wof:parent_id":1092059139,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    80.7861,
+    7.0562,
+    80.7861,
+    7.0562
+],
+  "geometry": {"coordinates":[80.7861,7.0562],"type":"Point"}
+}

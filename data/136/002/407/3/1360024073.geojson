@@ -1,0 +1,67 @@
+{
+  "id": 1360024073,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"79.8629,9.6978,79.8629,9.6978",
+    "geom:latitude":9.6978,
+    "geom:longitude":79.8629,
+    "gn:admin1_code":"38.0",
+    "gn:asciiname":"Kayts East",
+    "gn:country_code":"LK",
+    "gn:dem":6,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1240778,
+    "gn:latitude":9.6978,
+    "gn:longitude":79.8629,
+    "gn:modification_date":"2012-04-05",
+    "gn:name":"Kayts East",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632313,
+        85673769,
+        1092059765
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1240778
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"c8960dba6fe28b11ffcc3d197a04f3e6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "county_id":1092059765,
+            "locality_id":1360024073,
+            "region_id":85673769
+        }
+    ],
+    "wof:id":1360024073,
+    "wof:lastmodified":1537032225,
+    "wof:name":"Kayts East",
+    "wof:parent_id":1092059765,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    79.8629,
+    9.6978,
+    79.8629,
+    9.6978
+],
+  "geometry": {"coordinates":[79.8629,9.6978],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1343610311,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"80.739,6.6866,80.739,6.6866",
+    "geom:latitude":6.6866,
+    "geom:longitude":80.739,
+    "gn:admin1_code":"33.0",
+    "gn:asciiname":"Hankarawa",
+    "gn:country_code":"LK",
+    "gn:dem":528,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7547230,
+    "gn:latitude":6.6866,
+    "gn:longitude":80.739,
+    "gn:modification_date":"2010-10-09",
+    "gn:name":"Hankarawa",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632313,
+        85673785,
+        1092059597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7547230
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"0e3752c75b2df12727bf305feb318967",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "county_id":1092059597,
+            "locality_id":1343610311,
+            "region_id":85673785
+        }
+    ],
+    "wof:id":1343610311,
+    "wof:lastmodified":1537026293,
+    "wof:name":"Hankarawa",
+    "wof:parent_id":1092059597,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    80.73899999999998,
+    6.6866,
+    80.73899999999998,
+    6.6866
+],
+  "geometry": {"coordinates":[80.73899999999998,6.6866],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1310251333,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"80.7815,8.7391,80.7815,8.7391",
+    "geom:latitude":8.7391,
+    "geom:longitude":80.7815,
+    "gn:admin1_code":"30.0",
+    "gn:asciiname":"Kahatagollewa",
+    "gn:country_code":"LK",
+    "gn:dem":65,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1242432,
+    "gn:latitude":8.7391,
+    "gn:longitude":80.7815,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Kahatagollewa",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kahatagolewa",
+        "Kahatagollewa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632313,
+        85673751,
+        1092060761
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1242432
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"4c40f5a584253fd13d385ef42822d3d7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "county_id":1092060761,
+            "locality_id":1310251333,
+            "region_id":85673751
+        }
+    ],
+    "wof:id":1310251333,
+    "wof:lastmodified":1537661521,
+    "wof:name":"Kahatagollewa",
+    "wof:parent_id":1092060761,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    80.7815,
+    8.7391,
+    80.7815,
+    8.7391
+],
+  "geometry": {"coordinates":[80.78149999999999,8.7391],"type":"Point"}
+}

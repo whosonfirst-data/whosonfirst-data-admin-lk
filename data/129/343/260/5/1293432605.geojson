@@ -1,0 +1,67 @@
+{
+  "id": 1293432605,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"80.0,8.81667,80.0,8.81667",
+    "geom:latitude":8.81667,
+    "geom:longitude":80.0,
+    "gn:admin1_code":"38.0",
+    "gn:asciiname":"Puvarasankulam",
+    "gn:country_code":"LK",
+    "gn:dem":12,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1229246,
+    "gn:latitude":8.81667,
+    "gn:longitude":80.0,
+    "gn:modification_date":"2012-04-05",
+    "gn:name":"Puvarasankulam",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632313,
+        85673761,
+        1092063841
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1229246
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"9fee0c93740befa9f4d26ebccda901df",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "county_id":1092063841,
+            "locality_id":1293432605,
+            "region_id":85673761
+        }
+    ],
+    "wof:id":1293432605,
+    "wof:lastmodified":1536864902,
+    "wof:name":"Puvarasankulam",
+    "wof:parent_id":1092063841,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    80.0,
+    8.81667,
+    80.0,
+    8.81667
+],
+  "geometry": {"coordinates":[80.0,8.81667],"type":"Point"}
+}

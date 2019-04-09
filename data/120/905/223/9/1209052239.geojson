@@ -1,0 +1,61 @@
+{
+  "id": 1209052239,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"79.9806,7.6156,79.9806,7.6156",
+    "geom:latitude":7.6156,
+    "geom:longitude":79.9806,
+    "gn:admin1_code":"32.0",
+    "gn:asciiname":"Karandanayagama",
+    "gn:country_code":"LK",
+    "gn:dem":25,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1241238,
+    "gn:latitude":7.6156,
+    "gn:longitude":79.9806,
+    "gn:modification_date":"1994-01-08",
+    "gn:name":"Karandanayagama",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632313
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1241238
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"eb2ecf2a1a6eafaf3de965e2e4f1c7cf",
+    "wof:hierarchy":[
+        {
+            "country_id":85632313,
+            "locality_id":1209052239
+        }
+    ],
+    "wof:id":1209052239,
+    "wof:lastmodified":1536299212,
+    "wof:name":"Karandanayagama",
+    "wof:parent_id":85632313,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    79.9806,
+    7.6156,
+    79.9806,
+    7.6156
+],
+  "geometry": {"coordinates":[79.9806,7.6156],"type":"Point"}
+}

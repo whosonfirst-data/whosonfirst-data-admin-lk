@@ -1,0 +1,67 @@
+{
+  "id": 1243599789,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"79.9908,8.121,79.9908,8.121",
+    "geom:latitude":8.121,
+    "geom:longitude":79.9908,
+    "gn:admin1_code":"32.0",
+    "gn:asciiname":"Pahariyagama",
+    "gn:country_code":"LK",
+    "gn:dem":48,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7539965,
+    "gn:latitude":8.121,
+    "gn:longitude":79.9908,
+    "gn:modification_date":"2010-10-09",
+    "gn:name":"Pahariyagama",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632313,
+        85673779,
+        1092060595
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7539965
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"a19f759fbd54b3a6999831a4e17fc63b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "county_id":1092060595,
+            "locality_id":1243599789,
+            "region_id":85673779
+        }
+    ],
+    "wof:id":1243599789,
+    "wof:lastmodified":1537078370,
+    "wof:name":"Pahariyagama",
+    "wof:parent_id":1092060595,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    79.9908,
+    8.121,
+    79.9908,
+    8.121
+],
+  "geometry": {"coordinates":[79.99079999999999,8.121],"type":"Point"}
+}

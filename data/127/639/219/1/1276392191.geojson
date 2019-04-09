@@ -1,0 +1,67 @@
+{
+  "id": 1276392191,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"80.9894,7.0104,80.9894,7.0104",
+    "geom:latitude":7.0104,
+    "geom:longitude":80.9894,
+    "gn:admin1_code":"35.0",
+    "gn:asciiname":"Udenigama",
+    "gn:country_code":"LK",
+    "gn:dem":837,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7475003,
+    "gn:latitude":7.0104,
+    "gn:longitude":80.9894,
+    "gn:modification_date":"2010-08-08",
+    "gn:name":"Udenigama",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632313,
+        85673801,
+        1092059057
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7475003
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"68f3e1d5e03cb1e2c190d6d8d3122a92",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "county_id":1092059057,
+            "locality_id":1276392191,
+            "region_id":85673801
+        }
+    ],
+    "wof:id":1276392191,
+    "wof:lastmodified":1536700065,
+    "wof:name":"Udenigama",
+    "wof:parent_id":1092059057,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    80.9894,
+    7.0104,
+    80.9894,
+    7.0104
+],
+  "geometry": {"coordinates":[80.9894,7.0104],"type":"Point"}
+}

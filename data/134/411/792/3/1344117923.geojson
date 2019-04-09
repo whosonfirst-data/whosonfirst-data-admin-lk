@@ -1,0 +1,67 @@
+{
+  "id": 1344117923,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"80.6985,7.3587,80.6985,7.3587",
+    "geom:latitude":7.3587,
+    "geom:longitude":80.6985,
+    "gn:admin1_code":"29.0",
+    "gn:asciiname":"Galpihillawatta",
+    "gn:country_code":"LK",
+    "gn:dem":617,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7433835,
+    "gn:latitude":7.3587,
+    "gn:longitude":80.6985,
+    "gn:modification_date":"2010-08-07",
+    "gn:name":"Galpihillawatta",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632313,
+        85673719,
+        1092065061
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7433835
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"a0dde3a497f9c27fdf06193488df6266",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "county_id":1092065061,
+            "locality_id":1344117923,
+            "region_id":85673719
+        }
+    ],
+    "wof:id":1344117923,
+    "wof:lastmodified":1536793134,
+    "wof:name":"Galpihillawatta",
+    "wof:parent_id":1092065061,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    80.6985,
+    7.3587,
+    80.6985,
+    7.3587
+],
+  "geometry": {"coordinates":[80.6985,7.3587],"type":"Point"}
+}

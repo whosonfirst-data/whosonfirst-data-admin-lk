@@ -1,0 +1,67 @@
+{
+  "id": 1259424065,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"80.6798,6.5906,80.6798,6.5906",
+    "geom:latitude":6.5906,
+    "geom:longitude":80.6798,
+    "gn:admin1_code":"33.0",
+    "gn:asciiname":"Wamumalehena",
+    "gn:country_code":"LK",
+    "gn:dem":517,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7547028,
+    "gn:latitude":6.5906,
+    "gn:longitude":80.6798,
+    "gn:modification_date":"2010-10-09",
+    "gn:name":"Wamumalehena",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632313,
+        85673785,
+        1092067851
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7547028
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"c255fdb47ea20b496bed5ea565c89ef3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "county_id":1092067851,
+            "locality_id":1259424065,
+            "region_id":85673785
+        }
+    ],
+    "wof:id":1259424065,
+    "wof:lastmodified":1536944568,
+    "wof:name":"Wamumalehena",
+    "wof:parent_id":1092067851,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    80.6798,
+    6.5906,
+    80.6798,
+    6.5906
+],
+  "geometry": {"coordinates":[80.6798,6.5906],"type":"Point"}
+}

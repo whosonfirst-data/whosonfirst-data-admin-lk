@@ -1,0 +1,67 @@
+{
+  "id": 1226795089,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"79.9403,7.7974,79.9403,7.7974",
+    "geom:latitude":7.7974,
+    "geom:longitude":79.9403,
+    "gn:admin1_code":"32.0",
+    "gn:asciiname":"Wettamurukkuwa",
+    "gn:country_code":"LK",
+    "gn:dem":35,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1223362,
+    "gn:latitude":7.7974,
+    "gn:longitude":79.9403,
+    "gn:modification_date":"1994-01-08",
+    "gn:name":"Wettamurukkuwa",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632313,
+        85673779,
+        1092062091
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1223362
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"e2a71644cc23b4aa3767aa37576f36f3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "county_id":1092062091,
+            "locality_id":1226795089,
+            "region_id":85673779
+        }
+    ],
+    "wof:id":1226795089,
+    "wof:lastmodified":1536643912,
+    "wof:name":"Wettamurukkuwa",
+    "wof:parent_id":1092062091,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    79.9403,
+    7.7974,
+    79.9403,
+    7.7974
+],
+  "geometry": {"coordinates":[79.94029999999999,7.7974],"type":"Point"}
+}

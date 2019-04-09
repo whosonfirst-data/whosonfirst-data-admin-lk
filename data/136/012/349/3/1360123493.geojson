@@ -1,0 +1,67 @@
+{
+  "id": 1360123493,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"81.2189,8.6324,81.2189,8.6324",
+    "geom:latitude":8.6324,
+    "geom:longitude":81.2189,
+    "gn:admin1_code":"37.0",
+    "gn:asciiname":"Sempadu",
+    "gn:country_code":"LK",
+    "gn:dem":13,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1228140,
+    "gn:latitude":8.6324,
+    "gn:longitude":81.2189,
+    "gn:modification_date":"2012-04-05",
+    "gn:name":"Sempadu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632313,
+        85673747,
+        1092066907
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1228140
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"f541d2c77663c31c970011c740f0b410",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "county_id":1092066907,
+            "locality_id":1360123493,
+            "region_id":85673747
+        }
+    ],
+    "wof:id":1360123493,
+    "wof:lastmodified":1536889829,
+    "wof:name":"Sempadu",
+    "wof:parent_id":1092066907,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    81.2189,
+    8.6324,
+    81.2189,
+    8.6324
+],
+  "geometry": {"coordinates":[81.2189,8.6324],"type":"Point"}
+}

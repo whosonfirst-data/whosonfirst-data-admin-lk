@@ -1,0 +1,70 @@
+{
+  "id": 1326573889,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"80.1199,7.2177,80.1199,7.2177",
+    "geom:latitude":7.2177,
+    "geom:longitude":80.1199,
+    "gn:admin1_code":"36.0",
+    "gn:asciiname":"Handurumulla",
+    "gn:country_code":"LK",
+    "gn:dem":62,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1229999,
+    "gn:latitude":7.2177,
+    "gn:longitude":80.1199,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Handurumulla",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Pohonnaruwa Handurumulla"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632313,
+        85673815,
+        1092063403
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1229999
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"3bfc3cfb6e94c4f781d0578d231bd357",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "county_id":1092063403,
+            "locality_id":1326573889,
+            "region_id":85673815
+        }
+    ],
+    "wof:id":1326573889,
+    "wof:lastmodified":1537661408,
+    "wof:name":"Handurumulla",
+    "wof:parent_id":1092063403,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    80.1199,
+    7.2177,
+    80.1199,
+    7.2177
+],
+  "geometry": {"coordinates":[80.1199,7.2177],"type":"Point"}
+}

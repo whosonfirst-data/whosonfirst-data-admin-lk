@@ -1,0 +1,67 @@
+{
+  "id": 1277117909,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"80.4749,7.2086,80.4749,7.2086",
+    "geom:latitude":7.2086,
+    "geom:longitude":80.4749,
+    "gn:admin1_code":"33.0",
+    "gn:asciiname":"Bamunagammana",
+    "gn:country_code":"LK",
+    "gn:dem":246,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1250377,
+    "gn:latitude":7.2086,
+    "gn:longitude":80.4749,
+    "gn:modification_date":"1994-01-08",
+    "gn:name":"Bamunagammana",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632313,
+        85673807,
+        1092056717
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1250377
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"c4d6f6a10d65a3910acb6dbe20b84d5c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "county_id":1092056717,
+            "locality_id":1277117909,
+            "region_id":85673807
+        }
+    ],
+    "wof:id":1277117909,
+    "wof:lastmodified":1536717230,
+    "wof:name":"Bamunagammana",
+    "wof:parent_id":1092056717,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    80.4749,
+    7.2086,
+    80.4749,
+    7.2086
+],
+  "geometry": {"coordinates":[80.47490000000001,7.2086],"type":"Point"}
+}

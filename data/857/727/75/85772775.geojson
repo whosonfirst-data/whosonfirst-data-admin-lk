@@ -1,0 +1,128 @@
+{
+  "id": 85772775,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-15",
+    "edtf:inception":"uuuu",
+    "edtf:superseded":"2018-08-15",
+    "geom:area":0.0,
+    "geom:area_square_m":10170635.505677,
+    "geom:bbox":"79.84446,6.932723,79.84446,6.932723",
+    "geom:latitude":6.932723,
+    "geom:longitude":79.84446,
+    "gn:latitude":6.9376,
+    "gn:longitude":79.8491,
+    "iso:country":"LK",
+    "lbl:latitude":6.932723,
+    "lbl:longitude":79.84446,
+    "mps:latitude":6.933012,
+    "mps:longitude":79.837057,
+    "mz:hierarchy_label":0,
+    "mz:is_current":0,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":13.0,
+    "mz:tier_locality":2,
+    "name:eng_x_preferred":[
+        "Pettah"
+    ],
+    "name:eng_x_variant":[
+        "Pettal"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30da\u30bf\u30fc"
+    ],
+    "name:sin_x_preferred":[
+        "\u0db4\u0dd2\u0da7\u0d9a\u0ddc\u0da7\u0dd4\u0dc0"
+    ],
+    "name:tam_x_preferred":[
+        "\u0baa\u0bc1\u0bb1\u0b95\u0bcd\u0b95\u0bcb\u0b9f\u0bcd\u0b9f\u0bc8"
+    ],
+    "name:unk_x_variant":[
+        "Pettal",
+        "Pettah"
+    ],
+    "qs:gn_adm0_cc":"LK",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_local":1248991,
+    "qs:gn_nam_loc":"Colombo, Colombo, Western, LK",
+    "qs:gn_namadm1":"36",
+    "qs:gn_name":"Pettah",
+    "qs:local_max":2559,
+    "qs:local_sum":8835,
+    "qs:localhoods":10,
+    "qs:name":"Pettah",
+    "qs:name_adm0":"Sri Lanka",
+    "qs:name_adm1":"Western",
+    "qs:name_adm2":"Colombo",
+    "qs:name_local":"Colombo",
+    "qs:photo_max":387,
+    "qs:photo_sum":992,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":19,
+    "qs:woe_adm0":23424778,
+    "qs:woe_adm1":2344966,
+    "qs:woe_adm2":23706493,
+    "qs:woe_lau":0,
+    "qs:woe_local":2189783,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"mz",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"yerbashapes",
+    "wd:wordcount":324,
+    "wof:belongs_to":[],
+    "wof:belongsto":[
+        85673811,
+        102191569,
+        85632313,
+        1092057419
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1230317,
+        "gp:id":2185432,
+        "qs:id":222748,
+        "wd:id":"Q3523274",
+        "wk:page":"Pettah, Sri Lanka"
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"96823ef60645d569db557fa6831a84a1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "county_id":1092057419,
+            "locality_id":-1,
+            "neighbourhood_id":85772775,
+            "region_id":85673811
+        }
+    ],
+    "wof:id":85772775,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1534379376,
+    "wof:name":"Pettah",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[
+        1126093159
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    79.84446,
+    6.932723,
+    79.84446,
+    6.932723
+],
+  "geometry": {"coordinates":[79.84446,6.932723],"type":"Point"}
+}

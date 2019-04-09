@@ -1,0 +1,72 @@
+{
+  "id": 1259726533,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"81.5758,7.7229,81.5758,7.7229",
+    "geom:latitude":7.7229,
+    "geom:longitude":81.5758,
+    "gn:admin1_code":"37.0",
+    "gn:asciiname":"Narippulthottam",
+    "gn:country_code":"LK",
+    "gn:dem":13,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1233632,
+    "gn:latitude":7.7229,
+    "gn:longitude":81.5758,
+    "gn:modification_date":"2012-04-05",
+    "gn:name":"Narippulthottam",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Naripultotam",
+        "Narippultotam",
+        "Narippulthottam"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632313,
+        85673737,
+        1092062635
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1233632
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"c06088776eb422c184fad52c9f884f0f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "county_id":1092062635,
+            "locality_id":1259726533,
+            "region_id":85673737
+        }
+    ],
+    "wof:id":1259726533,
+    "wof:lastmodified":1537661442,
+    "wof:name":"Narippulthottam",
+    "wof:parent_id":1092062635,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    81.5758,
+    7.7229,
+    81.5758,
+    7.7229
+],
+  "geometry": {"coordinates":[81.5758,7.7229],"type":"Point"}
+}

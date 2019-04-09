@@ -1,0 +1,67 @@
+{
+  "id": 1242737645,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"79.9952,7.656,79.9952,7.656",
+    "geom:latitude":7.656,
+    "geom:longitude":79.9952,
+    "gn:admin1_code":"32.0",
+    "gn:asciiname":"Ihala Kiniyama",
+    "gn:country_code":"LK",
+    "gn:dem":44,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1243470,
+    "gn:latitude":7.656,
+    "gn:longitude":79.9952,
+    "gn:modification_date":"1994-01-08",
+    "gn:name":"Ihala Kiniyama",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632313,
+        85673777,
+        1092057161
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1243470
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"a650bf695304a5206e5e25e8c0f05341",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "county_id":1092057161,
+            "locality_id":1242737645,
+            "region_id":85673777
+        }
+    ],
+    "wof:id":1242737645,
+    "wof:lastmodified":1536832344,
+    "wof:name":"Ihala Kiniyama",
+    "wof:parent_id":1092057161,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    79.9952,
+    7.656,
+    79.9952,
+    7.656
+],
+  "geometry": {"coordinates":[79.9952,7.656],"type":"Point"}
+}

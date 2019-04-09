@@ -1,0 +1,67 @@
+{
+  "id": 1259828835,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"80.0334,7.8908,80.0334,7.8908",
+    "geom:latitude":7.8908,
+    "geom:longitude":80.0334,
+    "gn:admin1_code":"32.0",
+    "gn:asciiname":"Maha Tammannawa",
+    "gn:country_code":"LK",
+    "gn:dem":66,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1236819,
+    "gn:latitude":7.8908,
+    "gn:longitude":80.0334,
+    "gn:modification_date":"1994-01-08",
+    "gn:name":"Maha Tammannawa",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632313,
+        85673779,
+        1092056611
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1236819
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"efbbfa844e424664b117954800b79018",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "county_id":1092056611,
+            "locality_id":1259828835,
+            "region_id":85673779
+        }
+    ],
+    "wof:id":1259828835,
+    "wof:lastmodified":1536856816,
+    "wof:name":"Maha Tammannawa",
+    "wof:parent_id":1092056611,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    80.0334,
+    7.8908,
+    80.0334,
+    7.8908
+],
+  "geometry": {"coordinates":[80.0334,7.8908],"type":"Point"}
+}

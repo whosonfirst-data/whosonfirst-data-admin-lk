@@ -1,0 +1,67 @@
+{
+  "id": 1242718719,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"81.2881,6.458,81.2881,6.458",
+    "geom:latitude":6.458,
+    "geom:longitude":81.2881,
+    "gn:admin1_code":"35.0",
+    "gn:asciiname":"Punchidabe",
+    "gn:country_code":"LK",
+    "gn:dem":64,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7622571,
+    "gn:latitude":6.458,
+    "gn:longitude":81.2881,
+    "gn:modification_date":"2010-12-04",
+    "gn:name":"Punchidabe",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632313,
+        85673803,
+        1092060667
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7622571
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"cafb720459b5a4ef43710e30388d9ec1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "county_id":1092060667,
+            "locality_id":1242718719,
+            "region_id":85673803
+        }
+    ],
+    "wof:id":1242718719,
+    "wof:lastmodified":1536859143,
+    "wof:name":"Punchidabe",
+    "wof:parent_id":1092060667,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    81.2881,
+    6.458,
+    81.2881,
+    6.458
+],
+  "geometry": {"coordinates":[81.2881,6.458],"type":"Point"}
+}

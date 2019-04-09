@@ -1,0 +1,89 @@
+{
+  "id": 1092060683,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000444,
+    "geom:area_square_m":5439194.306833,
+    "geom:bbox":"81.7074188483,7.67239731071,81.7437595784,7.69360047823",
+    "geom:latitude":7.68142,
+    "geom:longitude":81.726511,
+    "iso:country":"LK",
+    "lbl:latitude":7.681739,
+    "lbl:longitude":81.726511,
+    "meso:admin_1":"Batticaloa",
+    "meso:admin_1r":"Eastern",
+    "meso:dissme":"KattankudyBatticaloaEastern",
+    "meso:gadm_admin":"Manmunai North",
+    "meso:gadm_hasc2":"LK.BC.MN",
+    "meso:mps_x":81.726511,
+    "meso:mps_y":7.681739,
+    "meso:name_en":"Kattankudy",
+    "meso:source":"AOTM",
+    "mps:latitude":7.681739,
+    "mps:longitude":81.726511,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Kattankudy"
+    ],
+    "name:eng_x_variant":[
+        "Manmunai North"
+    ],
+    "src:geom":"meso",
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"statoids",
+    "src:population:date":"2012-03-20",
+    "statoids:area_km":"68",
+    "statoids:as_of_date":"2012-03-20",
+    "statoids:capital":"Batticaloa",
+    "statoids:country":"LK",
+    "statoids:hasc":"LK.BC",
+    "statoids:name":"Manmunai North",
+    "statoids:population":"86227",
+    "statoids:statoid":"LK.BC.MN",
+    "statoids:timezone":"+5:30",
+    "statoids:type":"division",
+    "wof:belongsto":[
+        102191569,
+        85632313,
+        85673737
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "hasc:id":"LK.BC.MN"
+    },
+    "wof:country":"LK",
+    "wof:created":1473898929,
+    "wof:geomhash":"0e5466c798b435f9685c9017929c3f3f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "county_id":1092060683,
+            "region_id":85673737
+        }
+    ],
+    "wof:id":1092060683,
+    "wof:lastmodified":1536615144,
+    "wof:name":"Kattankudy",
+    "wof:parent_id":85673737,
+    "wof:placetype":"county",
+    "wof:placetype_local":"division",
+    "wof:population":86227,
+    "wof:population_rank":8,
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:shortcode":"MN",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    81.70741884828848,
+    7.67239731070809,
+    81.74375957844907,
+    7.69360047823448
+],
+  "geometry": {"coordinates":[[[81.73574219014053,7.69360047823448],[81.73789215100004,7.69083356900006],[81.73786163300008,7.68911123300006],[81.74375957844907,7.68109193562727],[81.73890854594489,7.67627455996118],[81.73285495285879,7.67532822280258],[81.72525774391235,7.67357214537757],[81.71497862572166,7.67239731070809],[81.71017889029496,7.67343864985671],[81.70741884828848,7.67944224974077],[81.71887521800844,7.68557935152208],[81.72689038432657,7.68981614905441],[81.72978774736006,7.6919166030024],[81.73574219014053,7.69360047823448]]],"type":"Polygon"}
+}

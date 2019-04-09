@@ -1,0 +1,67 @@
+{
+  "id": 1226486483,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"79.8663,6.9008,79.8663,6.9008",
+    "geom:latitude":6.9008,
+    "geom:longitude":79.8663,
+    "gn:admin1_code":"36.0",
+    "gn:asciiname":"Rupavahini",
+    "gn:country_code":"LK",
+    "gn:dem":15,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7545340,
+    "gn:latitude":6.9008,
+    "gn:longitude":79.8663,
+    "gn:modification_date":"2010-10-09",
+    "gn:name":"Rupavahini",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632313,
+        85673811,
+        1092066701
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7545340
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"8eac91abc6f1ec0957d665f4aeb943d5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "county_id":1092066701,
+            "locality_id":1226486483,
+            "region_id":85673811
+        }
+    ],
+    "wof:id":1226486483,
+    "wof:lastmodified":1537080311,
+    "wof:name":"Rupavahini",
+    "wof:parent_id":1092066701,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    79.8663,
+    6.9008,
+    79.8663,
+    6.9008
+],
+  "geometry": {"coordinates":[79.8663,6.9008],"type":"Point"}
+}

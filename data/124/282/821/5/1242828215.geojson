@@ -1,0 +1,67 @@
+{
+  "id": 1242828215,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"80.55028,6.31167,80.55028,6.31167",
+    "geom:latitude":6.31167,
+    "geom:longitude":80.55028,
+    "gn:admin1_code":"34.0",
+    "gn:asciiname":"Diyadwa",
+    "gn:country_code":"LK",
+    "gn:dem":151,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1247780,
+    "gn:latitude":6.31167,
+    "gn:longitude":80.55028,
+    "gn:modification_date":"1998-03-24",
+    "gn:name":"Diyadwa",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632313,
+        85673795,
+        1092061375
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1247780
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"eb86328d4a60a144ba3d7071353d731a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "county_id":1092061375,
+            "locality_id":1242828215,
+            "region_id":85673795
+        }
+    ],
+    "wof:id":1242828215,
+    "wof:lastmodified":1536703117,
+    "wof:name":"Diyadwa",
+    "wof:parent_id":1092061375,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    80.55028,
+    6.31167,
+    80.55028,
+    6.31167
+],
+  "geometry": {"coordinates":[80.55028,6.31167],"type":"Point"}
+}

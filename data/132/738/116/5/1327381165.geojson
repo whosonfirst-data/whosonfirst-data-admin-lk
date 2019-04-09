@@ -1,0 +1,73 @@
+{
+  "id": 1327381165,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"80.6697,7.0151,80.6697,7.0151",
+    "geom:latitude":7.0151,
+    "geom:longitude":80.6697,
+    "gn:admin1_code":"29.0",
+    "gn:asciiname":"Pundaluoya Town",
+    "gn:country_code":"LK",
+    "gn:dem":1002,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1229398,
+    "gn:latitude":7.0151,
+    "gn:longitude":80.6697,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Pundaluoya Town",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Punduloya",
+        "Pundaloya",
+        "Pundaluoya Town",
+        "Pundaluoya"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632313,
+        85673731,
+        1092061445
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1229398
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"b6ab312bc337b18cd7a6aa143f4fa273",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "county_id":1092061445,
+            "locality_id":1327381165,
+            "region_id":85673731
+        }
+    ],
+    "wof:id":1327381165,
+    "wof:lastmodified":1537661402,
+    "wof:name":"Pundaluoya Town",
+    "wof:parent_id":1092061445,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    80.6697,
+    7.0151,
+    80.6697,
+    7.0151
+],
+  "geometry": {"coordinates":[80.66970000000001,7.0151],"type":"Point"}
+}

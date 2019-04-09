@@ -1,0 +1,71 @@
+{
+  "id": 1309948661,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"79.85,9.58333,79.85,9.58333",
+    "geom:latitude":9.58333,
+    "geom:longitude":79.85,
+    "gn:admin1_code":"38.0",
+    "gn:asciiname":"Punkudutivu East",
+    "gn:country_code":"LK",
+    "gn:dem":5,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1229382,
+    "gn:latitude":9.58333,
+    "gn:longitude":79.85,
+    "gn:modification_date":"2012-04-05",
+    "gn:name":"Punkudutivu East",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Pungudutivu East",
+        "Punkudutivu East"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632313,
+        85673769,
+        1092059807
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1229382
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"983e03d7810d311b159a1c1246066d8a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "county_id":1092059807,
+            "locality_id":1309948661,
+            "region_id":85673769
+        }
+    ],
+    "wof:id":1309948661,
+    "wof:lastmodified":1537661402,
+    "wof:name":"Punkudutivu East",
+    "wof:parent_id":1092059807,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    79.85,
+    9.58333,
+    79.85,
+    9.58333
+],
+  "geometry": {"coordinates":[79.84999999999999,9.58333],"type":"Point"}
+}

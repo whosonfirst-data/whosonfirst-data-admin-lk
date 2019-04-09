@@ -1,0 +1,73 @@
+{
+  "id": 1226193017,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"80.7275,7.4377,80.7275,7.4377",
+    "geom:latitude":7.4377,
+    "geom:longitude":80.7275,
+    "gn:admin1_code":"29.0",
+    "gn:asciiname":"Nellumalewatta",
+    "gn:country_code":"LK",
+    "gn:dem":1053,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1233011,
+    "gn:latitude":7.4377,
+    "gn:longitude":80.7275,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Nellumalewatta",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Nagawatte",
+        "Nillumally",
+        "Nellumalewatta",
+        "Nilloomally"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632313,
+        85673719,
+        1092065061
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1233011
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"ce992a8a2f031fa389d489e308402039",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "county_id":1092065061,
+            "locality_id":1226193017,
+            "region_id":85673719
+        }
+    ],
+    "wof:id":1226193017,
+    "wof:lastmodified":1537661437,
+    "wof:name":"Nellumalewatta",
+    "wof:parent_id":1092065061,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    80.7275,
+    7.4377,
+    80.7275,
+    7.4377
+],
+  "geometry": {"coordinates":[80.72750000000001,7.4377],"type":"Point"}
+}

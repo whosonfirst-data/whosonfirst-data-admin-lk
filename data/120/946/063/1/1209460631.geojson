@@ -1,0 +1,61 @@
+{
+  "id": 1209460631,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"80.4484,7.4794,80.4484,7.4794",
+    "geom:latitude":7.4794,
+    "geom:longitude":80.4484,
+    "gn:admin1_code":"32.0",
+    "gn:asciiname":"Kotadalupota",
+    "gn:country_code":"LK",
+    "gn:dem":140,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8302746,
+    "gn:latitude":7.4794,
+    "gn:longitude":80.4484,
+    "gn:modification_date":"2012-06-06",
+    "gn:name":"Kotadalupota",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632313
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8302746
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"7061f237c8e2f8ab2e401c53050a5453",
+    "wof:hierarchy":[
+        {
+            "country_id":85632313,
+            "locality_id":1209460631
+        }
+    ],
+    "wof:id":1209460631,
+    "wof:lastmodified":1536286392,
+    "wof:name":"Kotadalupota",
+    "wof:parent_id":85632313,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    80.4484,
+    7.4794,
+    80.4484,
+    7.4794
+],
+  "geometry": {"coordinates":[80.44840000000001,7.4794],"type":"Point"}
+}

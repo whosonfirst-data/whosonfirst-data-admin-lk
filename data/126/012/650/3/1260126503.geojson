@@ -1,0 +1,67 @@
+{
+  "id": 1260126503,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"80.7459,8.3609,80.7459,8.3609",
+    "geom:latitude":8.3609,
+    "geom:longitude":80.7459,
+    "gn:admin1_code":"30.0",
+    "gn:asciiname":"Rambapotana",
+    "gn:country_code":"LK",
+    "gn:dem":100,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1229057,
+    "gn:latitude":8.3609,
+    "gn:longitude":80.7459,
+    "gn:modification_date":"1994-01-08",
+    "gn:name":"Rambapotana",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632313,
+        85673751,
+        1092060031
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1229057
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"a34ebb9c0be79286783ea45f0c780173",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "county_id":1092060031,
+            "locality_id":1260126503,
+            "region_id":85673751
+        }
+    ],
+    "wof:id":1260126503,
+    "wof:lastmodified":1536926932,
+    "wof:name":"Rambapotana",
+    "wof:parent_id":1092060031,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    80.7459,
+    8.3609,
+    80.7459,
+    8.3609
+],
+  "geometry": {"coordinates":[80.74590000000001,8.3609],"type":"Point"}
+}

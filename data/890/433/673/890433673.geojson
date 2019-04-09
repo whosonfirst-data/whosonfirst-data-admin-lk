@@ -1,0 +1,66 @@
+{
+  "id": 890433673,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"79.9015,6.8905,79.9015,6.8905",
+    "geom:latitude":6.8905,
+    "geom:longitude":79.9015,
+    "gn:country":"LK",
+    "gn:fcode":"PPL",
+    "gn:pop":118179,
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:name":"Pita Kotte",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"9",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632313,
+        85673811,
+        1092066319
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1230089,
+        "gp:id":2174478,
+        "qs:id":131032
+    },
+    "wof:country":"LK",
+    "wof:created":1469051990,
+    "wof:geomhash":"b5be0b17eb625e22e9c0faa7093b9988",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "county_id":1092066319,
+            "locality_id":890433673,
+            "region_id":85673811
+        }
+    ],
+    "wof:id":890433673,
+    "wof:lastmodified":1505343537,
+    "wof:name":"Pita Kotte",
+    "wof:parent_id":1092066319,
+    "wof:placetype":"locality",
+    "wof:population":118179,
+    "wof:population_rank":9,
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    79.9015,
+    6.8905,
+    79.9015,
+    6.8905
+],
+  "geometry": {"coordinates":[79.9015,6.8905],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1259727765,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"79.9527,6.7776,79.9527,6.7776",
+    "geom:latitude":6.7776,
+    "geom:longitude":79.9527,
+    "gn:admin1_code":"36.0",
+    "gn:asciiname":"Nivungama",
+    "gn:country_code":"LK",
+    "gn:dem":11,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1232928,
+    "gn:latitude":6.7776,
+    "gn:longitude":79.9527,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Nivungama",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Niwungama"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632313,
+        85673811,
+        1092060885
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1232928
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"692a03bda4171cbf2dc60f1ece60fc4c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "county_id":1092060885,
+            "locality_id":1259727765,
+            "region_id":85673811
+        }
+    ],
+    "wof:id":1259727765,
+    "wof:lastmodified":1537661436,
+    "wof:name":"Nivungama",
+    "wof:parent_id":1092060885,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    79.9527,
+    6.7776,
+    79.9527,
+    6.7776
+],
+  "geometry": {"coordinates":[79.95269999999999,6.7776],"type":"Point"}
+}

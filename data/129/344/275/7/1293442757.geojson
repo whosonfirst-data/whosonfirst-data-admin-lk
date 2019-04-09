@@ -1,0 +1,70 @@
+{
+  "id": 1293442757,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"80.064,6.8509,80.064,6.8509",
+    "geom:latitude":6.8509,
+    "geom:longitude":80.064,
+    "gn:admin1_code":"36.0",
+    "gn:asciiname":"Watareka South",
+    "gn:country_code":"LK",
+    "gn:dem":33,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1224118,
+    "gn:latitude":6.8509,
+    "gn:longitude":80.064,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Watareka South",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Watareka"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632313,
+        85673811,
+        1092059399
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1224118
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"04015253ef070cf73d5a80e0ad8ca58f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "county_id":1092059399,
+            "locality_id":1293442757,
+            "region_id":85673811
+        }
+    ],
+    "wof:id":1293442757,
+    "wof:lastmodified":1537661342,
+    "wof:name":"Watareka South",
+    "wof:parent_id":1092059399,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    80.064,
+    6.8509,
+    80.064,
+    6.8509
+],
+  "geometry": {"coordinates":[80.06399999999999,6.8509],"type":"Point"}
+}

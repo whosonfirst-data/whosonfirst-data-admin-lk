@@ -1,0 +1,67 @@
+{
+  "id": 1343806619,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"80.4199,6.957,80.4199,6.957",
+    "geom:latitude":6.957,
+    "geom:longitude":80.4199,
+    "gn:admin1_code":"33.0",
+    "gn:asciiname":"Wilagama",
+    "gn:country_code":"LK",
+    "gn:dem":380,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1223204,
+    "gn:latitude":6.957,
+    "gn:longitude":80.4199,
+    "gn:modification_date":"1994-01-08",
+    "gn:name":"Wilagama",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632313,
+        85673807,
+        1092057785
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1223204
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"91ed81c1e55472f43b1da9d500ac8a2e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "county_id":1092057785,
+            "locality_id":1343806619,
+            "region_id":85673807
+        }
+    ],
+    "wof:id":1343806619,
+    "wof:lastmodified":1536744160,
+    "wof:name":"Wilagama",
+    "wof:parent_id":1092057785,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    80.4199,
+    6.957,
+    80.4199,
+    6.957
+],
+  "geometry": {"coordinates":[80.4199,6.957],"type":"Point"}
+}

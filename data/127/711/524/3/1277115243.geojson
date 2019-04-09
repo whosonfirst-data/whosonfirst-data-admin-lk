@@ -1,0 +1,72 @@
+{
+  "id": 1277115243,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"79.86667,9.0,79.86667,9.0",
+    "geom:latitude":9.0,
+    "geom:longitude":79.86667,
+    "gn:admin1_code":"38.0",
+    "gn:asciiname":"Tarakkundu",
+    "gn:country_code":"LK",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1226994,
+    "gn:latitude":9.0,
+    "gn:longitude":79.86667,
+    "gn:modification_date":"2012-04-05",
+    "gn:name":"Tarakkundu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tharakundu",
+        "Tarakkundu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632313,
+        85673761,
+        1092062683
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1226994,
+        "wk:page":"Tharakundu"
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"7765e540261da84fd2bf59437bd33bff",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "county_id":1092062683,
+            "locality_id":1277115243,
+            "region_id":85673761
+        }
+    ],
+    "wof:id":1277115243,
+    "wof:lastmodified":1537661378,
+    "wof:name":"Tarakkundu",
+    "wof:parent_id":1092062683,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    79.86667,
+    9.0,
+    79.86667,
+    9.0
+],
+  "geometry": {"coordinates":[79.86667,9.0],"type":"Point"}
+}

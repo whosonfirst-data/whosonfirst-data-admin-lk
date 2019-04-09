@@ -1,0 +1,68 @@
+{
+  "id": 1276938211,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"80.5687,7.1763,80.5687,7.1763",
+    "geom:latitude":7.1763,
+    "geom:longitude":80.5687,
+    "gn:admin1_code":"29.0",
+    "gn:asciiname":"Unambuwa",
+    "gn:country_code":"LK",
+    "gn:dem":574,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1225533,
+    "gn:latitude":7.1763,
+    "gn:longitude":80.5687,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Unambuwa",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632313,
+        85673719,
+        1092066967
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1225533,
+        "wk:page":"Unambuwa"
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"7a4bae6952dd3888b7aafc67b459b5a8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "county_id":1092066967,
+            "locality_id":1276938211,
+            "region_id":85673719
+        }
+    ],
+    "wof:id":1276938211,
+    "wof:lastmodified":1537567965,
+    "wof:name":"Unambuwa",
+    "wof:parent_id":1092066967,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    80.5687,
+    7.1763,
+    80.5687,
+    7.1763
+],
+  "geometry": {"coordinates":[80.56870000000001,7.1763],"type":"Point"}
+}

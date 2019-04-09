@@ -1,0 +1,67 @@
+{
+  "id": 1193201473,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"80.1358,7.4541,80.1358,7.4541",
+    "geom:latitude":7.4541,
+    "geom:longitude":80.1358,
+    "gn:admin1_code":"32.0",
+    "gn:asciiname":"Nakkawatta",
+    "gn:country_code":"LK",
+    "gn:dem":84,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1233889,
+    "gn:latitude":7.4541,
+    "gn:longitude":80.1358,
+    "gn:modification_date":"1994-01-08",
+    "gn:name":"Nakkawatta",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632313,
+        85673777,
+        1092061525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1233889
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"87f895c31875fde9a412a221acbb0cb5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "county_id":1092061525,
+            "locality_id":1193201473,
+            "region_id":85673777
+        }
+    ],
+    "wof:id":1193201473,
+    "wof:lastmodified":1536372319,
+    "wof:name":"Nakkawatta",
+    "wof:parent_id":1092061525,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    80.1358,
+    7.4541,
+    80.1358,
+    7.4541
+],
+  "geometry": {"coordinates":[80.1358,7.4541],"type":"Point"}
+}

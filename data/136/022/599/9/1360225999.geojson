@@ -1,0 +1,67 @@
+{
+  "id": 1360225999,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"80.3748,7.3581,80.3748,7.3581",
+    "geom:latitude":7.3581,
+    "geom:longitude":80.3748,
+    "gn:admin1_code":"33.0",
+    "gn:asciiname":"Dambulla",
+    "gn:country_code":"LK",
+    "gn:dem":184,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1248750,
+    "gn:latitude":7.3581,
+    "gn:longitude":80.3748,
+    "gn:modification_date":"1994-01-08",
+    "gn:name":"Dambulla",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632313,
+        85673807,
+        1092065729
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1248750
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"0be986202bf9c05ec1e8346e7b763766",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "county_id":1092065729,
+            "locality_id":1360225999,
+            "region_id":85673807
+        }
+    ],
+    "wof:id":1360225999,
+    "wof:lastmodified":1536742094,
+    "wof:name":"Dambulla",
+    "wof:parent_id":1092065729,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    80.3748,
+    7.3581,
+    80.3748,
+    7.3581
+],
+  "geometry": {"coordinates":[80.37479999999999,7.3581],"type":"Point"}
+}

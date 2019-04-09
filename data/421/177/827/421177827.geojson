@@ -1,0 +1,85 @@
+{
+  "id": 421177827,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"80.0262,6.338,80.0262,6.338",
+    "geom:latitude":6.338,
+    "geom:longitude":80.0262,
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:dut_x_preferred":[
+        "Kosgoda"
+    ],
+    "name:eng_x_preferred":[
+        "Kosgoda"
+    ],
+    "qs:gn_country":"LK",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":1239236,
+    "qs:gn_pop":0,
+    "qs:name":"Kosgoda",
+    "qs:name_adm0":"Sri Lanka",
+    "qs:name_adm1":"Southern",
+    "qs:photos":171,
+    "qs:photos_1k":35,
+    "qs:photos_9k":1,
+    "qs:photos_9r":4,
+    "qs:photos_all":171,
+    "qs:photos_sr":4,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":1354005,
+    "qs:woe_adm0":23424778,
+    "qs:woe_id":2180590,
+    "src:geom":"quattroshapes",
+    "wd:wordcount":352,
+    "wof:belongsto":[
+        102191569,
+        85632313,
+        85673789,
+        1092056933
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1239236,
+        "gp:id":2180590,
+        "qs:id":1354005,
+        "wd:id":"Q15239801",
+        "wk:page":"Kosgoda"
+    },
+    "wof:country":"LK",
+    "wof:created":1459009162,
+    "wof:geomhash":"55fdc4e5097cc6bc687435e2179aa342",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "county_id":1092056933,
+            "locality_id":421177827,
+            "region_id":85673789
+        }
+    ],
+    "wof:id":421177827,
+    "wof:lastmodified":1527716477,
+    "wof:name":"Kosgoda",
+    "wof:parent_id":1092056933,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    80.0262,
+    6.338,
+    80.0262,
+    6.338
+],
+  "geometry": {"coordinates":[80.0262,6.338],"type":"Point"}
+}

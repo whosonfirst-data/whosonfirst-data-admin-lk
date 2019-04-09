@@ -1,0 +1,67 @@
+{
+  "id": 1226283247,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"81.3297,6.8512,81.3297,6.8512",
+    "geom:latitude":6.8512,
+    "geom:longitude":81.3297,
+    "gn:admin1_code":"35.0",
+    "gn:asciiname":"Weliwatta",
+    "gn:country_code":"LK",
+    "gn:dem":172,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7618080,
+    "gn:latitude":6.8512,
+    "gn:longitude":81.3297,
+    "gn:modification_date":"2010-12-04",
+    "gn:name":"Weliwatta",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632313,
+        85673803,
+        1092063443
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7618080
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"e5b3ffb084f98609ee322bba8a1c7422",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "county_id":1092063443,
+            "locality_id":1226283247,
+            "region_id":85673803
+        }
+    ],
+    "wof:id":1226283247,
+    "wof:lastmodified":1536878771,
+    "wof:name":"Weliwatta",
+    "wof:parent_id":1092063443,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    81.3297,
+    6.8512,
+    81.3297,
+    6.8512
+],
+  "geometry": {"coordinates":[81.3297,6.8512],"type":"Point"}
+}

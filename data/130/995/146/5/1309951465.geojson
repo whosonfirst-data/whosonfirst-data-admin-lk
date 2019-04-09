@@ -1,0 +1,67 @@
+{
+  "id": 1309951465,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"80.2,7.68333,80.2,7.68333",
+    "geom:latitude":7.68333,
+    "geom:longitude":80.2,
+    "gn:admin1_code":"32.0",
+    "gn:asciiname":"Palapattala",
+    "gn:country_code":"LK",
+    "gn:dem":76,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1231934,
+    "gn:latitude":7.68333,
+    "gn:longitude":80.2,
+    "gn:modification_date":"1994-01-08",
+    "gn:name":"Palapattala",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632313,
+        85673777,
+        1092067685
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1231934
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"1a2f8f3cca943c1b599d16aca327e497",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "county_id":1092067685,
+            "locality_id":1309951465,
+            "region_id":85673777
+        }
+    ],
+    "wof:id":1309951465,
+    "wof:lastmodified":1536721625,
+    "wof:name":"Palapattala",
+    "wof:parent_id":1092067685,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    80.2,
+    7.68333,
+    80.2,
+    7.68333
+],
+  "geometry": {"coordinates":[80.2,7.68333],"type":"Point"}
+}

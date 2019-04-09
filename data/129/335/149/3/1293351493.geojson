@@ -1,0 +1,67 @@
+{
+  "id": 1293351493,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"80.6998,7.2425,80.6998,7.2425",
+    "geom:latitude":7.2425,
+    "geom:longitude":80.6998,
+    "gn:admin1_code":"29.0",
+    "gn:asciiname":"Kollanwelapitiya",
+    "gn:country_code":"LK",
+    "gn:dem":563,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7433810,
+    "gn:latitude":7.2425,
+    "gn:longitude":80.6998,
+    "gn:modification_date":"2010-08-07",
+    "gn:name":"Kollanwelapitiya",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632313,
+        85673719,
+        1092065263
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7433810
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"15ff793f1dddbe5d31c8610eef959915",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "county_id":1092065263,
+            "locality_id":1293351493,
+            "region_id":85673719
+        }
+    ],
+    "wof:id":1293351493,
+    "wof:lastmodified":1536982523,
+    "wof:name":"Kollanwelapitiya",
+    "wof:parent_id":1092065263,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    80.6998,
+    7.2425,
+    80.6998,
+    7.2425
+],
+  "geometry": {"coordinates":[80.6998,7.2425],"type":"Point"}
+}

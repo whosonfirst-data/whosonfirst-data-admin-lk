@@ -1,0 +1,111 @@
+{
+  "id": 421203941,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"81.8267,6.8762,81.8267,6.8762",
+    "geom:latitude":6.8762,
+    "geom:longitude":81.8267,
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:bul_x_preferred":[
+        "\u041f\u043e\u0442\u0443\u0432\u0438\u043b"
+    ],
+    "name:chi_x_preferred":[
+        "\u6ce2\u5716\u7dad\u52d2"
+    ],
+    "name:dut_x_preferred":[
+        "Pottuvil"
+    ],
+    "name:eng_x_preferred":[
+        "Pottuvil"
+    ],
+    "name:hun_x_preferred":[
+        "Pottuvil"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30dd\u30c8\u30a5\u30f4\u30a3\u30eb"
+    ],
+    "name:rus_x_preferred":[
+        "\u041f\u043e\u0442\u0442\u0443\u0432\u0438\u043b"
+    ],
+    "name:sin_x_preferred":[
+        "\u0db4\u0ddc\u0dad\u0dd4\u0dc0\u0dd2\u0dbd\u0dca"
+    ],
+    "name:swe_x_preferred":[
+        "Pottuvil"
+    ],
+    "name:tam_x_preferred":[
+        "\u0baa\u0bca\u0ba4\u0bcd\u0ba4\u0bc1\u0bb5\u0bbf\u0bb2\u0bcd"
+    ],
+    "name:unk_x_variant":[
+        "Pottuville"
+    ],
+    "qs:gn_country":"LK",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":1229724,
+    "qs:gn_pop":0,
+    "qs:name":"Pottuvil",
+    "qs:name_adm0":"Sri Lanka",
+    "qs:name_adm1":"North Eastern",
+    "qs:photos":451,
+    "qs:photos_1k":91,
+    "qs:photos_9k":2,
+    "qs:photos_9r":5,
+    "qs:photos_all":451,
+    "qs:photos_sr":7,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"6",
+    "qs:qs_id":235509,
+    "qs:woe_adm0":23424778,
+    "qs:woe_id":2189694,
+    "src:geom":"quattroshapes",
+    "wd:wordcount":76,
+    "wof:belongsto":[
+        102191569,
+        85632313,
+        85673733,
+        1092065525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1229724,
+        "gp:id":2189694,
+        "qs:id":235509,
+        "wd:id":"Q3533398"
+    },
+    "wof:country":"LK",
+    "wof:created":1459010168,
+    "wof:geomhash":"c947a3c77bac11ab385a714ca4c6a1de",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "county_id":1092065525,
+            "locality_id":421203941,
+            "region_id":85673733
+        }
+    ],
+    "wof:id":421203941,
+    "wof:lastmodified":1527716194,
+    "wof:name":"Pottuvil",
+    "wof:parent_id":1092065525,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    81.8267,
+    6.8762,
+    81.8267,
+    6.8762
+],
+  "geometry": {"coordinates":[81.8267,6.8762],"type":"Point"}
+}

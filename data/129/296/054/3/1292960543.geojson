@@ -1,0 +1,67 @@
+{
+  "id": 1292960543,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"79.8571,8.1883,79.8571,8.1883",
+    "geom:latitude":8.1883,
+    "geom:longitude":79.8571,
+    "gn:admin1_code":"32.0",
+    "gn:asciiname":"Abinawaramaramaya",
+    "gn:country_code":"LK",
+    "gn:dem":36,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7510469,
+    "gn:latitude":8.1883,
+    "gn:longitude":79.8571,
+    "gn:modification_date":"2010-08-14",
+    "gn:name":"Abinawaramaramaya",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632313,
+        85673779,
+        1092067609
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7510469
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"52011a72067d2ad9671f3dc9cc1ff659",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "county_id":1092067609,
+            "locality_id":1292960543,
+            "region_id":85673779
+        }
+    ],
+    "wof:id":1292960543,
+    "wof:lastmodified":1537047780,
+    "wof:name":"Abinawaramaramaya",
+    "wof:parent_id":1092067609,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    79.8571,
+    8.1883,
+    79.8571,
+    8.1883
+],
+  "geometry": {"coordinates":[79.8571,8.1883],"type":"Point"}
+}

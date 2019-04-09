@@ -1,0 +1,61 @@
+{
+  "id": 1209154657,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"80.0661,6.9543,80.0661,6.9543",
+    "geom:latitude":6.9543,
+    "geom:longitude":80.0661,
+    "gn:admin1_code":"36.0",
+    "gn:asciiname":"Iddamaldeniya",
+    "gn:country_code":"LK",
+    "gn:dem":27,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7474054,
+    "gn:latitude":6.9543,
+    "gn:longitude":80.0661,
+    "gn:modification_date":"2010-08-08",
+    "gn:name":"Iddamaldeniya",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632313
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7474054
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"3d259e178855ab7dca64c1f31d5a4d56",
+    "wof:hierarchy":[
+        {
+            "country_id":85632313,
+            "locality_id":1209154657
+        }
+    ],
+    "wof:id":1209154657,
+    "wof:lastmodified":1536296093,
+    "wof:name":"Iddamaldeniya",
+    "wof:parent_id":85632313,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    80.0661,
+    6.9543,
+    80.0661,
+    6.9543
+],
+  "geometry": {"coordinates":[80.06610000000001,6.9543],"type":"Point"}
+}

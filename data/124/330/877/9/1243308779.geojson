@@ -1,0 +1,67 @@
+{
+  "id": 1243308779,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"80.2654,6.1282,80.2654,6.1282",
+    "geom:latitude":6.1282,
+    "geom:longitude":80.2654,
+    "gn:admin1_code":"34.0",
+    "gn:asciiname":"Ilagotukanda",
+    "gn:country_code":"LK",
+    "gn:dem":21,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7624102,
+    "gn:latitude":6.1282,
+    "gn:longitude":80.2654,
+    "gn:modification_date":"2010-12-04",
+    "gn:name":"Ilagotukanda",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632313,
+        85673789,
+        1092056807
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7624102
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"e67f61408e2bcc399ea991d328258427",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "county_id":1092056807,
+            "locality_id":1243308779,
+            "region_id":85673789
+        }
+    ],
+    "wof:id":1243308779,
+    "wof:lastmodified":1537003319,
+    "wof:name":"Ilagotukanda",
+    "wof:parent_id":1092056807,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    80.2654,
+    6.1282,
+    80.2654,
+    6.1282
+],
+  "geometry": {"coordinates":[80.2654,6.1282],"type":"Point"}
+}

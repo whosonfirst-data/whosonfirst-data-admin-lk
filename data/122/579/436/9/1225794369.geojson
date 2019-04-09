@@ -1,0 +1,67 @@
+{
+  "id": 1225794369,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"79.9148,7.2957,79.9148,7.2957",
+    "geom:latitude":7.2957,
+    "geom:longitude":79.9148,
+    "gn:admin1_code":"32.0",
+    "gn:asciiname":"Kaluachchimulla",
+    "gn:country_code":"LK",
+    "gn:dem":18,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1242082,
+    "gn:latitude":7.2957,
+    "gn:longitude":79.9148,
+    "gn:modification_date":"1994-01-08",
+    "gn:name":"Kaluachchimulla",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632313,
+        85673779,
+        1092057533
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1242082
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"2b1b91438eced59a8c977fd23deb87ac",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "county_id":1092057533,
+            "locality_id":1225794369,
+            "region_id":85673779
+        }
+    ],
+    "wof:id":1225794369,
+    "wof:lastmodified":1537084753,
+    "wof:name":"Kaluachchimulla",
+    "wof:parent_id":1092057533,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    79.9148,
+    7.2957,
+    79.9148,
+    7.2957
+],
+  "geometry": {"coordinates":[79.9148,7.2957],"type":"Point"}
+}

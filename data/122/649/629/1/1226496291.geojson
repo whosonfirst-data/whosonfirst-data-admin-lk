@@ -1,0 +1,67 @@
+{
+  "id": 1226496291,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"80.6118,6.2502,80.6118,6.2502",
+    "geom:latitude":6.2502,
+    "geom:longitude":80.6118,
+    "gn:admin1_code":"34.0",
+    "gn:asciiname":"Pasgoda East",
+    "gn:country_code":"LK",
+    "gn:dem":226,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7624458,
+    "gn:latitude":6.2502,
+    "gn:longitude":80.6118,
+    "gn:modification_date":"2010-12-04",
+    "gn:name":"Pasgoda East",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632313,
+        85673795,
+        1092065159
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7624458
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"505ec019f25bf3d62a5a5f184ec8074a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "county_id":1092065159,
+            "locality_id":1226496291,
+            "region_id":85673795
+        }
+    ],
+    "wof:id":1226496291,
+    "wof:lastmodified":1537066515,
+    "wof:name":"Pasgoda East",
+    "wof:parent_id":1092065159,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    80.6118,
+    6.2502,
+    80.6118,
+    6.2502
+],
+  "geometry": {"coordinates":[80.6118,6.2502],"type":"Point"}
+}

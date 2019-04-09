@@ -1,0 +1,68 @@
+{
+  "id": 1327287851,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"80.2404,6.0947,80.2404,6.0947",
+    "geom:latitude":6.0947,
+    "geom:longitude":80.2404,
+    "gn:admin1_code":"34.0",
+    "gn:asciiname":"Narawala",
+    "gn:country_code":"LK",
+    "gn:dem":14,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1233648,
+    "gn:latitude":6.0947,
+    "gn:longitude":80.2404,
+    "gn:modification_date":"2016-03-10",
+    "gn:name":"Narawala",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632313,
+        85673789,
+        1092056215
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1233648,
+        "wk:page":"Narawala"
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"9648a4682f124e409936e51e376df460",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "county_id":1092056215,
+            "locality_id":1327287851,
+            "region_id":85673789
+        }
+    ],
+    "wof:id":1327287851,
+    "wof:lastmodified":1537567986,
+    "wof:name":"Narawala",
+    "wof:parent_id":1092056215,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    80.2404,
+    6.0947,
+    80.2404,
+    6.0947
+],
+  "geometry": {"coordinates":[80.24039999999999,6.0947],"type":"Point"}
+}

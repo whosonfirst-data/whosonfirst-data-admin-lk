@@ -1,0 +1,93 @@
+{
+  "id": 1126088851,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-15",
+    "edtf:inception":"uuuu",
+    "edtf:superseded":"2018-08-15",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"80.53333,5.95,80.53333,5.95",
+    "geom:latitude":5.95,
+    "geom:longitude":80.53333,
+    "gn:gn_country":"LK",
+    "gn:gn_fcode":"PPLX",
+    "gn:gn_pop":0,
+    "iso:country":"LK",
+    "lbl:latitude":5.95,
+    "lbl:longitude":80.53333,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"LK",
+    "qs_pg:gn_country":"LK",
+    "qs_pg:gn_fcode":"PPLX",
+    "qs_pg:gn_id":1223633,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Weliweriya",
+    "qs_pg:name_adm0":"Sri Lanka",
+    "qs_pg:name_adm1":"Southern",
+    "qs_pg:photos":67,
+    "qs_pg:photos_1k":14,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":2,
+    "qs_pg:photos_all":67,
+    "qs_pg:photos_sr":2,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":894804,
+    "qs_pg:qs_pg_placetype":"neighbourhood",
+    "qs_pg:qs_pg_placetype_gp":"Suburb",
+    "qs_pg:woe_adm0":23424778,
+    "qs_pg:woe_id":2188962,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424778,
+    "woe:name_adm0":"Sri Lanka",
+    "woe:name_adm1":"Southern",
+    "woe:placetype":"Suburb",
+    "wof:belongsto":[
+        85673795,
+        102191569,
+        85632313,
+        1092062917
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1223633,
+        "gp:id":2188962,
+        "qs_pg:id":894804
+    },
+    "wof:country":"LK",
+    "wof:created":1497313275,
+    "wof:geomhash":"6ad330c0e0c10bcdc5b4dbb81db47dc8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "county_id":1092062917,
+            "locality_id":-1,
+            "neighbourhood_id":1126088851,
+            "region_id":85673795
+        }
+    ],
+    "wof:id":1126088851,
+    "wof:lastmodified":1534379376,
+    "wof:name":"Weliweriya",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[
+        85772791
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    80.53333,
+    5.95,
+    80.53333,
+    5.95
+],
+  "geometry": {"coordinates":[80.53333000000001,5.95],"type":"Point"}
+}

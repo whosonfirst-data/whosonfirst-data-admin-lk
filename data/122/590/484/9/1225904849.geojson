@@ -1,0 +1,70 @@
+{
+  "id": 1225904849,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"80.1346,8.1905,80.1346,8.1905",
+    "geom:latitude":8.1905,
+    "geom:longitude":80.1346,
+    "gn:admin1_code":"30.0",
+    "gn:asciiname":"Tract Ten",
+    "gn:country_code":"LK",
+    "gn:dem":60,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7539467,
+    "gn:latitude":8.1905,
+    "gn:longitude":80.1346,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Tract Ten",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tract 10"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632313,
+        85673751,
+        1092065663
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7539467
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"3d9d79e039b6f15afcd3bafbf1e53879",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "county_id":1092065663,
+            "locality_id":1225904849,
+            "region_id":85673751
+        }
+    ],
+    "wof:id":1225904849,
+    "wof:lastmodified":1537661608,
+    "wof:name":"Tract Ten",
+    "wof:parent_id":1092065663,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    80.1346,
+    8.1905,
+    80.1346,
+    8.1905
+],
+  "geometry": {"coordinates":[80.13460000000001,8.1905],"type":"Point"}
+}

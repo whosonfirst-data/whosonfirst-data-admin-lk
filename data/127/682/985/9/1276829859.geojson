@@ -1,0 +1,72 @@
+{
+  "id": 1276829859,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"81.26667,8.13333,81.26667,8.13333",
+    "geom:latitude":8.13333,
+    "geom:longitude":81.26667,
+    "gn:admin1_code":"30.0",
+    "gn:asciiname":"Kosawakkulama",
+    "gn:cc2":"LK",
+    "gn:country_code":"LK",
+    "gn:dem":31,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1239259,
+    "gn:latitude":8.13333,
+    "gn:longitude":81.26667,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Kosawakkulama",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kosawakulama",
+        "Kosawakkulama"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632313,
+        85673743,
+        1092067891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1239259
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"a07bb569a9bad2c70a3c43862e4724a9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "county_id":1092067891,
+            "locality_id":1276829859,
+            "region_id":85673743
+        }
+    ],
+    "wof:id":1276829859,
+    "wof:lastmodified":1537661493,
+    "wof:name":"Kosawakkulama",
+    "wof:parent_id":1092067891,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    81.26666999999998,
+    8.13333,
+    81.26666999999998,
+    8.13333
+],
+  "geometry": {"coordinates":[81.26666999999998,8.13333],"type":"Point"}
+}

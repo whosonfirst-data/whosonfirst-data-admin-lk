@@ -1,0 +1,67 @@
+{
+  "id": 1259343373,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"80.2,8.4954,80.2,8.4954",
+    "geom:latitude":8.4954,
+    "geom:longitude":80.2,
+    "gn:admin1_code":"30.0",
+    "gn:asciiname":"Helambagaswewa",
+    "gn:country_code":"LK",
+    "gn:dem":59,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7440552,
+    "gn:latitude":8.4954,
+    "gn:longitude":80.2,
+    "gn:modification_date":"2010-08-07",
+    "gn:name":"Helambagaswewa",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632313,
+        85673751,
+        1092062291
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7440552
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"d01e1428e8c64afc42873f05bd896662",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "county_id":1092062291,
+            "locality_id":1259343373,
+            "region_id":85673751
+        }
+    ],
+    "wof:id":1259343373,
+    "wof:lastmodified":1537057612,
+    "wof:name":"Helambagaswewa",
+    "wof:parent_id":1092062291,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    80.2,
+    8.4954,
+    80.2,
+    8.4954
+],
+  "geometry": {"coordinates":[80.2,8.4954],"type":"Point"}
+}

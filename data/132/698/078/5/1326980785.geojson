@@ -1,0 +1,71 @@
+{
+  "id": 1326980785,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"80.434,7.3331,80.434,7.3331",
+    "geom:latitude":7.3331,
+    "geom:longitude":80.434,
+    "gn:admin1_code":"29.0",
+    "gn:asciiname":"Kaputupola",
+    "gn:country_code":"LK",
+    "gn:dem":233,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1248233,
+    "gn:latitude":7.3331,
+    "gn:longitude":80.434,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Kaputupola",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Damunupola North",
+        "Demunapola North"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632313,
+        85673719,
+        1092059275
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1248233
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"c50d27d71b1ab1ff79056b88e8445f40",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "county_id":1092059275,
+            "locality_id":1326980785,
+            "region_id":85673719
+        }
+    ],
+    "wof:id":1326980785,
+    "wof:lastmodified":1537661574,
+    "wof:name":"Kaputupola",
+    "wof:parent_id":1092059275,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    80.434,
+    7.3331,
+    80.434,
+    7.3331
+],
+  "geometry": {"coordinates":[80.434,7.3331],"type":"Point"}
+}

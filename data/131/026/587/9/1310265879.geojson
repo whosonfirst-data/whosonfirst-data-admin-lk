@@ -1,0 +1,67 @@
+{
+  "id": 1310265879,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"80.6491,7.6606,80.6491,7.6606",
+    "geom:latitude":7.6606,
+    "geom:longitude":80.6491,
+    "gn:admin1_code":"29.0",
+    "gn:asciiname":"Ussettawa",
+    "gn:country_code":"LK",
+    "gn:dem":267,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1225305,
+    "gn:latitude":7.6606,
+    "gn:longitude":80.6491,
+    "gn:modification_date":"1998-03-18",
+    "gn:name":"Ussettawa",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632313,
+        85673723,
+        1092063949
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1225305
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"d785b43fb72f7a289d0db1757f9d1085",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "county_id":1092063949,
+            "locality_id":1310265879,
+            "region_id":85673723
+        }
+    ],
+    "wof:id":1310265879,
+    "wof:lastmodified":1536765587,
+    "wof:name":"Ussettawa",
+    "wof:parent_id":1092063949,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    80.6491,
+    7.6606,
+    80.6491,
+    7.6606
+],
+  "geometry": {"coordinates":[80.6491,7.6606],"type":"Point"}
+}

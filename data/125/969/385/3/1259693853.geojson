@@ -1,0 +1,67 @@
+{
+  "id": 1259693853,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"80.834,8.8999,80.834,8.8999",
+    "geom:latitude":8.8999,
+    "geom:longitude":80.834,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Jayanthiwewa",
+    "gn:country_code":"LK",
+    "gn:dem":38,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8225317,
+    "gn:latitude":8.8999,
+    "gn:longitude":80.834,
+    "gn:modification_date":"2012-04-06",
+    "gn:name":"Jayanthiwewa",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632313,
+        85673751,
+        1092064619
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8225317
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"95bf6cae447822cfdeb890eee1483297",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "county_id":1092064619,
+            "locality_id":1259693853,
+            "region_id":85673751
+        }
+    ],
+    "wof:id":1259693853,
+    "wof:lastmodified":1537049899,
+    "wof:name":"Jayanthiwewa",
+    "wof:parent_id":1092064619,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    80.834,
+    8.8999,
+    80.834,
+    8.8999
+],
+  "geometry": {"coordinates":[80.834,8.8999],"type":"Point"}
+}

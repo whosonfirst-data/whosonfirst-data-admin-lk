@@ -1,0 +1,68 @@
+{
+  "id": 1242624505,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"80.75,7.68333,80.75,7.68333",
+    "geom:latitude":7.68333,
+    "geom:longitude":80.75,
+    "gn:admin1_code":"29.0",
+    "gn:asciiname":"Talagoda",
+    "gn:country_code":"LK",
+    "gn:dem":191,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1227418,
+    "gn:latitude":7.68333,
+    "gn:longitude":80.75,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Talagoda",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632313,
+        85673723,
+        1092063949
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1227418,
+        "wk:page":"Talagoda"
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"a4f753ad90881a7af2df652fc3895e1e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "county_id":1092063949,
+            "locality_id":1242624505,
+            "region_id":85673723
+        }
+    ],
+    "wof:id":1242624505,
+    "wof:lastmodified":1537567973,
+    "wof:name":"Talagoda",
+    "wof:parent_id":1092063949,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    80.75,
+    7.68333,
+    80.75,
+    7.68333
+],
+  "geometry": {"coordinates":[80.75,7.68333],"type":"Point"}
+}

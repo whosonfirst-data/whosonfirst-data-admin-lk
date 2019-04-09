@@ -1,0 +1,77 @@
+{
+  "id": 421197187,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"79.872,6.94,79.872,6.94",
+    "geom:latitude":6.94,
+    "geom:longitude":79.872,
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "qs:gn_country":"LK",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":1233180,
+    "qs:gn_pop":0,
+    "qs:name":"New Bazaar",
+    "qs:name_adm0":"Sri Lanka",
+    "qs:name_adm1":"Western",
+    "qs:photos":67,
+    "qs:photos_1k":14,
+    "qs:photos_9k":1,
+    "qs:photos_9r":2,
+    "qs:photos_all":67,
+    "qs:photos_sr":2,
+    "qs:placetype":"Suburb",
+    "qs:pop_sr":"0",
+    "qs:qs_id":1354082,
+    "qs:woe_adm0":23424778,
+    "qs:woe_id":2183838,
+    "src:geom":"quattroshapes",
+    "wof:belongsto":[
+        102191569,
+        85632313,
+        1092057419,
+        85673811
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1233180,
+        "gp:id":2183838,
+        "qs:id":1354082
+    },
+    "wof:country":"LK",
+    "wof:created":1459009905,
+    "wof:geomhash":"14d63f477f0de86fafd7ea3c2a94932c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "county_id":1092057419,
+            "locality_id":-1,
+            "neighbourhood_id":421197187,
+            "region_id":85673811
+        }
+    ],
+    "wof:id":421197187,
+    "wof:lastmodified":1531858752,
+    "wof:name":"New Bazaar",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    79.872,
+    6.94,
+    79.872,
+    6.94
+],
+  "geometry": {"coordinates":[79.872,6.94],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1293153749,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"80.225,6.6724,80.225,6.6724",
+    "geom:latitude":6.6724,
+    "geom:longitude":80.225,
+    "gn:admin1_code":"36.0",
+    "gn:asciiname":"Udugalakanda",
+    "gn:country_code":"LK",
+    "gn:dem":178,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7437101,
+    "gn:latitude":6.6724,
+    "gn:longitude":80.225,
+    "gn:modification_date":"2010-08-07",
+    "gn:name":"Udugalakanda",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632313,
+        85673819,
+        1092057287
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7437101
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"b464818ad6946e2376303408a0ef988b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "county_id":1092057287,
+            "locality_id":1293153749,
+            "region_id":85673819
+        }
+    ],
+    "wof:id":1293153749,
+    "wof:lastmodified":1536771944,
+    "wof:name":"Udugalakanda",
+    "wof:parent_id":1092057287,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    80.225,
+    6.6724,
+    80.225,
+    6.6724
+],
+  "geometry": {"coordinates":[80.22499999999999,6.6724],"type":"Point"}
+}

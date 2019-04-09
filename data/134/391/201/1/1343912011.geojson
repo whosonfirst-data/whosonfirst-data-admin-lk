@@ -1,0 +1,67 @@
+{
+  "id": 1343912011,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"80.3316,7.1902,80.3316,7.1902",
+    "geom:latitude":7.1902,
+    "geom:longitude":80.3316,
+    "gn:admin1_code":"33.0",
+    "gn:asciiname":"Atugoda Ihalagama",
+    "gn:country_code":"LK",
+    "gn:dem":183,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7577202,
+    "gn:latitude":7.1902,
+    "gn:longitude":80.3316,
+    "gn:modification_date":"2010-11-05",
+    "gn:name":"Atugoda Ihalagama",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632313,
+        85673807,
+        1092058595
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7577202
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"c633cb304dc4ac11616466f1a3ceedd8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "county_id":1092058595,
+            "locality_id":1343912011,
+            "region_id":85673807
+        }
+    ],
+    "wof:id":1343912011,
+    "wof:lastmodified":1537086848,
+    "wof:name":"Atugoda Ihalagama",
+    "wof:parent_id":1092058595,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    80.3316,
+    7.1902,
+    80.3316,
+    7.1902
+],
+  "geometry": {"coordinates":[80.33159999999999,7.1902],"type":"Point"}
+}

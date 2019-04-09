@@ -1,0 +1,71 @@
+{
+  "id": 1309844863,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"81.41667,8.2,81.41667,8.2",
+    "geom:latitude":8.2,
+    "geom:longitude":81.41667,
+    "gn:admin1_code":"37.0",
+    "gn:asciiname":"Palchenai",
+    "gn:country_code":"LK",
+    "gn:dem":7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1231879,
+    "gn:latitude":8.2,
+    "gn:longitude":81.41667,
+    "gn:modification_date":"2012-04-05",
+    "gn:name":"Palchenai",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Patchenai",
+        "Palchenai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632313,
+        85673737,
+        1092061255
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1231879
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"370f181e0f65a42af1483c4b5f9a779b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "county_id":1092061255,
+            "locality_id":1309844863,
+            "region_id":85673737
+        }
+    ],
+    "wof:id":1309844863,
+    "wof:lastmodified":1537661424,
+    "wof:name":"Palchenai",
+    "wof:parent_id":1092061255,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    81.41667,
+    8.2,
+    81.41667,
+    8.2
+],
+  "geometry": {"coordinates":[81.41667,8.2],"type":"Point"}
+}

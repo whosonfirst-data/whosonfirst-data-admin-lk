@@ -1,0 +1,66 @@
+{
+  "id": 1209253613,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"81.8,7.31667,81.8,7.31667",
+    "geom:latitude":7.31667,
+    "geom:longitude":81.8,
+    "gn:admin1_code":"37.0",
+    "gn:asciiname":"Malkampiddy",
+    "gn:country_code":"LK",
+    "gn:dem":12,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1236432,
+    "gn:latitude":7.31667,
+    "gn:longitude":81.8,
+    "gn:modification_date":"2012-04-05",
+    "gn:name":"Malkampiddy",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Malukkampiddi",
+        "Malukkampuddi",
+        "Malkampiddy"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632313
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1236432
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"23bdf0e157a8b8de9dca32a4bfee7dd6",
+    "wof:hierarchy":[
+        {
+            "country_id":85632313,
+            "locality_id":1209253613
+        }
+    ],
+    "wof:id":1209253613,
+    "wof:lastmodified":1537661469,
+    "wof:name":"Malkampiddy",
+    "wof:parent_id":85632313,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    81.8,
+    7.31667,
+    81.8,
+    7.31667
+],
+  "geometry": {"coordinates":[81.8,7.31667],"type":"Point"}
+}

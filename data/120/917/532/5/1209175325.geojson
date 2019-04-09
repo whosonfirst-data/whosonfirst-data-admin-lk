@@ -1,0 +1,62 @@
+{
+  "id": 1209175325,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"80.5583,7.1998,80.5583,7.1998",
+    "geom:latitude":7.1998,
+    "geom:longitude":80.5583,
+    "gn:admin1_code":"29.0",
+    "gn:asciiname":"Ganhata",
+    "gn:country_code":"LK",
+    "gn:dem":570,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1245870,
+    "gn:latitude":7.1998,
+    "gn:longitude":80.5583,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Ganhata",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632313
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1245870,
+        "wk:page":"Ganhata"
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"9ef09f030d6bec0856937c3bdd3ff7e6",
+    "wof:hierarchy":[
+        {
+            "country_id":85632313,
+            "locality_id":1209175325
+        }
+    ],
+    "wof:id":1209175325,
+    "wof:lastmodified":1537568011,
+    "wof:name":"Ganhata",
+    "wof:parent_id":85632313,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    80.5583,
+    7.1998,
+    80.5583,
+    7.1998
+],
+  "geometry": {"coordinates":[80.5583,7.1998],"type":"Point"}
+}

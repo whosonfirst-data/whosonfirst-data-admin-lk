@@ -1,0 +1,67 @@
+{
+  "id": 1310641943,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"80.7715,6.6151,80.7715,6.6151",
+    "geom:latitude":6.6151,
+    "geom:longitude":80.7715,
+    "gn:admin1_code":"33.0",
+    "gn:asciiname":"Aldorathenna",
+    "gn:country_code":"LK",
+    "gn:dem":517,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7547203,
+    "gn:latitude":6.6151,
+    "gn:longitude":80.7715,
+    "gn:modification_date":"2010-10-09",
+    "gn:name":"Aldorathenna",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632313,
+        85673785,
+        1092056887
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7547203
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"bf754d443167b06d815ea7f8ca94b44b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "county_id":1092056887,
+            "locality_id":1310641943,
+            "region_id":85673785
+        }
+    ],
+    "wof:id":1310641943,
+    "wof:lastmodified":1536720409,
+    "wof:name":"Aldorathenna",
+    "wof:parent_id":1092056887,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    80.7715,
+    6.6151,
+    80.7715,
+    6.6151
+],
+  "geometry": {"coordinates":[80.7715,6.6151],"type":"Point"}
+}

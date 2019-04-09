@@ -1,0 +1,67 @@
+{
+  "id": 1343406985,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"80.1166,7.6393,80.1166,7.6393",
+    "geom:latitude":7.6393,
+    "geom:longitude":80.1166,
+    "gn:admin1_code":"32.0",
+    "gn:asciiname":"Baladora",
+    "gn:country_code":"LK",
+    "gn:dem":63,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8355276,
+    "gn:latitude":7.6393,
+    "gn:longitude":80.1166,
+    "gn:modification_date":"2012-08-05",
+    "gn:name":"Baladora",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632313,
+        85673777,
+        1092061057
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8355276
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"01806214a809e11766eeee2e75abfb5d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "county_id":1092061057,
+            "locality_id":1343406985,
+            "region_id":85673777
+        }
+    ],
+    "wof:id":1343406985,
+    "wof:lastmodified":1536822548,
+    "wof:name":"Baladora",
+    "wof:parent_id":1092061057,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    80.1166,
+    7.6393,
+    80.1166,
+    7.6393
+],
+  "geometry": {"coordinates":[80.11660000000001,7.6393],"type":"Point"}
+}

@@ -1,0 +1,77 @@
+{
+  "id": 421187623,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"80.2305,6.0577,80.2305,6.0577",
+    "geom:latitude":6.0577,
+    "geom:longitude":80.2305,
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "qs:gn_country":"LK",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":1236665,
+    "qs:gn_pop":0,
+    "qs:name":"Maitipe",
+    "qs:name_adm0":"Sri Lanka",
+    "qs:name_adm1":"Southern",
+    "qs:photos":89,
+    "qs:photos_1k":18,
+    "qs:photos_9k":1,
+    "qs:photos_9r":3,
+    "qs:photos_all":89,
+    "qs:photos_sr":3,
+    "qs:placetype":"Suburb",
+    "qs:pop_sr":"0",
+    "qs:qs_id":1083707,
+    "qs:woe_adm0":23424778,
+    "qs:woe_id":2181951,
+    "src:geom":"quattroshapes",
+    "wof:belongsto":[
+        102191569,
+        85632313,
+        1092058633,
+        85673789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1236665,
+        "gp:id":2181951,
+        "qs:id":1083707
+    },
+    "wof:country":"LK",
+    "wof:created":1459009518,
+    "wof:geomhash":"c864951fc6a52251b1161bf967106cc0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "county_id":1092058633,
+            "locality_id":-1,
+            "neighbourhood_id":421187623,
+            "region_id":85673789
+        }
+    ],
+    "wof:id":421187623,
+    "wof:lastmodified":1531858608,
+    "wof:name":"Maitipe",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    80.2305,
+    6.0577,
+    80.2305,
+    6.0577
+],
+  "geometry": {"coordinates":[80.23050000000001,6.0577],"type":"Point"}
+}

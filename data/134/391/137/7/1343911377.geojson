@@ -1,0 +1,67 @@
+{
+  "id": 1343911377,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"81.119,7.1836,81.119,7.1836",
+    "geom:latitude":7.1836,
+    "geom:longitude":81.119,
+    "gn:admin1_code":"35.0",
+    "gn:asciiname":"Kanugolla",
+    "gn:country_code":"LK",
+    "gn:dem":551,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1241524,
+    "gn:latitude":7.1836,
+    "gn:longitude":81.119,
+    "gn:modification_date":"1994-01-08",
+    "gn:name":"Kanugolla",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632313,
+        85673801,
+        1092065929
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1241524
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"c455f703a0ce0d93c14f87f8ec8e667e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "county_id":1092065929,
+            "locality_id":1343911377,
+            "region_id":85673801
+        }
+    ],
+    "wof:id":1343911377,
+    "wof:lastmodified":1537087757,
+    "wof:name":"Kanugolla",
+    "wof:parent_id":1092065929,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    81.119,
+    7.1836,
+    81.119,
+    7.1836
+],
+  "geometry": {"coordinates":[81.119,7.1836],"type":"Point"}
+}

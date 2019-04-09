@@ -1,0 +1,67 @@
+{
+  "id": 1310249915,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"80.1729,6.3014,80.1729,6.3014",
+    "geom:latitude":6.3014,
+    "geom:longitude":80.1729,
+    "gn:admin1_code":"34.0",
+    "gn:asciiname":"Mellagahadola",
+    "gn:country_code":"LK",
+    "gn:dem":21,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7623800,
+    "gn:latitude":6.3014,
+    "gn:longitude":80.1729,
+    "gn:modification_date":"2010-12-04",
+    "gn:name":"Mellagahadola",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632313,
+        85673789,
+        1092058307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7623800
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"697a8591debf2af356c3cfe57917fd6a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "county_id":1092058307,
+            "locality_id":1310249915,
+            "region_id":85673789
+        }
+    ],
+    "wof:id":1310249915,
+    "wof:lastmodified":1536788611,
+    "wof:name":"Mellagahadola",
+    "wof:parent_id":1092058307,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    80.1729,
+    6.3014,
+    80.1729,
+    6.3014
+],
+  "geometry": {"coordinates":[80.1729,6.3014],"type":"Point"}
+}

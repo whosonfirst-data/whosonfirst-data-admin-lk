@@ -1,0 +1,67 @@
+{
+  "id": 1260024973,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"80.6561,6.2402,80.6561,6.2402",
+    "geom:latitude":6.2402,
+    "geom:longitude":80.6561,
+    "gn:admin1_code":"34.0",
+    "gn:asciiname":"Ambagahahena",
+    "gn:country_code":"LK",
+    "gn:dem":129,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1251675,
+    "gn:latitude":6.2402,
+    "gn:longitude":80.6561,
+    "gn:modification_date":"1994-01-08",
+    "gn:name":"Ambagahahena",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632313,
+        85673791,
+        1092060721
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1251675
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"0b519168d093f6a7a70eddd0686d44ec",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "county_id":1092060721,
+            "locality_id":1260024973,
+            "region_id":85673791
+        }
+    ],
+    "wof:id":1260024973,
+    "wof:lastmodified":1537069316,
+    "wof:name":"Ambagahahena",
+    "wof:parent_id":1092060721,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    80.6561,
+    6.2402,
+    80.6561,
+    6.2402
+],
+  "geometry": {"coordinates":[80.6561,6.2402],"type":"Point"}
+}

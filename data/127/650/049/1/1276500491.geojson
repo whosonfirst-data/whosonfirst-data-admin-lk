@@ -1,0 +1,67 @@
+{
+  "id": 1276500491,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"80.5778,6.5934,80.5778,6.5934",
+    "geom:latitude":6.5934,
+    "geom:longitude":80.5778,
+    "gn:admin1_code":"33.0",
+    "gn:asciiname":"Yahalabediwatta",
+    "gn:country_code":"LK",
+    "gn:dem":228,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7546952,
+    "gn:latitude":6.5934,
+    "gn:longitude":80.5778,
+    "gn:modification_date":"2010-10-09",
+    "gn:name":"Yahalabediwatta",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632313,
+        85673785,
+        1092065303
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7546952
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"6f917cef6e1d729e9bb6a6506fe9eab2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "county_id":1092065303,
+            "locality_id":1276500491,
+            "region_id":85673785
+        }
+    ],
+    "wof:id":1276500491,
+    "wof:lastmodified":1537050111,
+    "wof:name":"Yahalabediwatta",
+    "wof:parent_id":1092065303,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    80.5778,
+    6.5934,
+    80.5778,
+    6.5934
+],
+  "geometry": {"coordinates":[80.5778,6.5934],"type":"Point"}
+}

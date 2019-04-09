@@ -1,0 +1,61 @@
+{
+  "id": 1209575163,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"79.8044,7.9187,79.8044,7.9187",
+    "geom:latitude":7.9187,
+    "geom:longitude":79.8044,
+    "gn:admin1_code":"32.0",
+    "gn:asciiname":"Elluchchenaimundal",
+    "gn:country_code":"LK",
+    "gn:dem":12,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1247076,
+    "gn:latitude":7.9187,
+    "gn:longitude":79.8044,
+    "gn:modification_date":"1994-01-08",
+    "gn:name":"Elluchchenaimundal",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632313
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1247076
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"bfc5d948a59916cc5e3cbdc53a0dd56f",
+    "wof:hierarchy":[
+        {
+            "country_id":85632313,
+            "locality_id":1209575163
+        }
+    ],
+    "wof:id":1209575163,
+    "wof:lastmodified":1536282962,
+    "wof:name":"Elluchchenaimundal",
+    "wof:parent_id":85632313,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    79.8044,
+    7.9187,
+    79.8044,
+    7.9187
+],
+  "geometry": {"coordinates":[79.8044,7.9187],"type":"Point"}
+}

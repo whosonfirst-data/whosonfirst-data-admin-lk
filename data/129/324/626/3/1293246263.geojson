@@ -1,0 +1,67 @@
+{
+  "id": 1293246263,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"80.5161,6.1824,80.5161,6.1824",
+    "geom:latitude":6.1824,
+    "geom:longitude":80.5161,
+    "gn:admin1_code":"34.0",
+    "gn:asciiname":"Elamaldeniya",
+    "gn:country_code":"LK",
+    "gn:dem":195,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1247246,
+    "gn:latitude":6.1824,
+    "gn:longitude":80.5161,
+    "gn:modification_date":"1994-01-08",
+    "gn:name":"Elamaldeniya",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632313,
+        85673795,
+        1092065343
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1247246
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"c3d034a43cc5a130118bde1f81ff9121",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "county_id":1092065343,
+            "locality_id":1293246263,
+            "region_id":85673795
+        }
+    ],
+    "wof:id":1293246263,
+    "wof:lastmodified":1536636665,
+    "wof:name":"Elamaldeniya",
+    "wof:parent_id":1092065343,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    80.5161,
+    6.1824,
+    80.5161,
+    6.1824
+],
+  "geometry": {"coordinates":[80.51609999999999,6.1824],"type":"Point"}
+}

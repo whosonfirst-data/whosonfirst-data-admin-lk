@@ -1,0 +1,67 @@
+{
+  "id": 1310166149,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"80.3719,8.1689,80.3719,8.1689",
+    "geom:latitude":8.1689,
+    "geom:longitude":80.3719,
+    "gn:admin1_code":"30.0",
+    "gn:asciiname":"Kele Amunukole",
+    "gn:country_code":"LK",
+    "gn:dem":102,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1240619,
+    "gn:latitude":8.1689,
+    "gn:longitude":80.3719,
+    "gn:modification_date":"1994-01-08",
+    "gn:name":"Kele Amunukole",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632313,
+        85673751,
+        1092066395
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1240619
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"0adad6c2425dc863a74a1dc27975545c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "county_id":1092066395,
+            "locality_id":1310166149,
+            "region_id":85673751
+        }
+    ],
+    "wof:id":1310166149,
+    "wof:lastmodified":1536909540,
+    "wof:name":"Kele Amunukole",
+    "wof:parent_id":1092066395,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    80.3719,
+    8.1689,
+    80.3719,
+    8.1689
+],
+  "geometry": {"coordinates":[80.3719,8.1689],"type":"Point"}
+}

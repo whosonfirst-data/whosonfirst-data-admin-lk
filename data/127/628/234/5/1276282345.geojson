@@ -1,0 +1,67 @@
+{
+  "id": 1276282345,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"80.0736,8.8003,80.0736,8.8003",
+    "geom:latitude":8.8003,
+    "geom:longitude":80.0736,
+    "gn:admin1_code":"38.0",
+    "gn:asciiname":"Kochchikulam",
+    "gn:country_code":"LK",
+    "gn:dem":20,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7431397,
+    "gn:latitude":8.8003,
+    "gn:longitude":80.0736,
+    "gn:modification_date":"2012-04-06",
+    "gn:name":"Kochchikulam",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632313,
+        85673761,
+        1092063841
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7431397
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"beb8bdfbb028b28fb51af0fc86575707",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "county_id":1092063841,
+            "locality_id":1276282345,
+            "region_id":85673761
+        }
+    ],
+    "wof:id":1276282345,
+    "wof:lastmodified":1536846008,
+    "wof:name":"Kochchikulam",
+    "wof:parent_id":1092063841,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    80.0736,
+    8.8003,
+    80.0736,
+    8.8003
+],
+  "geometry": {"coordinates":[80.0736,8.8003],"type":"Point"}
+}

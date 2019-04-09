@@ -1,0 +1,67 @@
+{
+  "id": 1293054965,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"80.3336,6.2211,80.3336,6.2211",
+    "geom:latitude":6.2211,
+    "geom:longitude":80.3336,
+    "gn:admin1_code":"34.0",
+    "gn:asciiname":"Udugama",
+    "gn:country_code":"LK",
+    "gn:dem":22,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1225809,
+    "gn:latitude":6.2211,
+    "gn:longitude":80.3336,
+    "gn:modification_date":"1998-03-24",
+    "gn:name":"Udugama",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632313,
+        85673789,
+        1092063765
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1225809
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"e72ba90ec8acba63c91543ca634c4e65",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "county_id":1092063765,
+            "locality_id":1293054965,
+            "region_id":85673789
+        }
+    ],
+    "wof:id":1293054965,
+    "wof:lastmodified":1536914288,
+    "wof:name":"Udugama",
+    "wof:parent_id":1092063765,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    80.3336,
+    6.2211,
+    80.3336,
+    6.2211
+],
+  "geometry": {"coordinates":[80.3336,6.2211],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1343600351,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"80.9238,8.8015,80.9238,8.8015",
+    "geom:latitude":8.8015,
+    "geom:longitude":80.9238,
+    "gn:admin1_code":"37.0",
+    "gn:asciiname":"Indulpitiyawa",
+    "gn:country_code":"LK",
+    "gn:dem":25,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8225291,
+    "gn:latitude":8.8015,
+    "gn:longitude":80.9238,
+    "gn:modification_date":"2012-04-06",
+    "gn:name":"Indulpitiyawa",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632313,
+        85673747,
+        1092058863
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8225291
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"f547e03e351f23d49c71e4e3ae495510",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "county_id":1092058863,
+            "locality_id":1343600351,
+            "region_id":85673747
+        }
+    ],
+    "wof:id":1343600351,
+    "wof:lastmodified":1537040045,
+    "wof:name":"Indulpitiyawa",
+    "wof:parent_id":1092058863,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    80.9238,
+    8.8015,
+    80.9238,
+    8.8015
+],
+  "geometry": {"coordinates":[80.9238,8.8015],"type":"Point"}
+}

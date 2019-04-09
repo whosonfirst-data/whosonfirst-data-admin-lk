@@ -1,0 +1,70 @@
+{
+  "id": 1344018665,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"80.8062,8.6358,80.8062,8.6358",
+    "geom:latitude":8.6358,
+    "geom:longitude":80.8062,
+    "gn:admin1_code":"30.0",
+    "gn:asciiname":"Ihala Diulwewa",
+    "gn:country_code":"LK",
+    "gn:dem":78,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1243590,
+    "gn:latitude":8.6358,
+    "gn:longitude":80.8062,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Ihala Diulwewa",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ihala Diwulwewa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632313,
+        85673751,
+        1092059481
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1243590
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"6fb0fbab53e2c27c00f8d47b10a09eb4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "county_id":1092059481,
+            "locality_id":1344018665,
+            "region_id":85673751
+        }
+    ],
+    "wof:id":1344018665,
+    "wof:lastmodified":1537661531,
+    "wof:name":"Ihala Diulwewa",
+    "wof:parent_id":1092059481,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    80.8062,
+    8.6358,
+    80.8062,
+    8.6358
+],
+  "geometry": {"coordinates":[80.8062,8.6358],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1192979627,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"80.6378,7.0702,80.6378,7.0702",
+    "geom:latitude":7.0702,
+    "geom:longitude":80.6378,
+    "gn:admin1_code":"29.0",
+    "gn:asciiname":"Mawela",
+    "gn:country_code":"LK",
+    "gn:dem":816,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1235702,
+    "gn:latitude":7.0702,
+    "gn:longitude":80.6378,
+    "gn:modification_date":"1994-01-08",
+    "gn:name":"Mawela",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632313,
+        85673731,
+        1092061445
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1235702
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"c79303240a8505f64964209b0c432929",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "county_id":1092061445,
+            "locality_id":1192979627,
+            "region_id":85673731
+        }
+    ],
+    "wof:id":1192979627,
+    "wof:lastmodified":1536369424,
+    "wof:name":"Mawela",
+    "wof:parent_id":1092061445,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    80.6378,
+    7.0702,
+    80.6378,
+    7.0702
+],
+  "geometry": {"coordinates":[80.6378,7.0702],"type":"Point"}
+}

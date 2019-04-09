@@ -1,0 +1,67 @@
+{
+  "id": 1310349503,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"79.972,7.1572,79.972,7.1572",
+    "geom:latitude":7.1572,
+    "geom:longitude":79.972,
+    "gn:admin1_code":"36.0",
+    "gn:asciiname":"Helakandana",
+    "gn:country_code":"LK",
+    "gn:dem":16,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1244499,
+    "gn:latitude":7.1572,
+    "gn:longitude":79.972,
+    "gn:modification_date":"1994-01-08",
+    "gn:name":"Helakandana",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632313,
+        85673815,
+        1092063369
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1244499
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"dfdf458df57ce6daa7f8a5e809162249",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "county_id":1092063369,
+            "locality_id":1310349503,
+            "region_id":85673815
+        }
+    ],
+    "wof:id":1310349503,
+    "wof:lastmodified":1536643932,
+    "wof:name":"Helakandana",
+    "wof:parent_id":1092063369,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    79.972,
+    7.1572,
+    79.972,
+    7.1572
+],
+  "geometry": {"coordinates":[79.97199999999999,7.1572],"type":"Point"}
+}

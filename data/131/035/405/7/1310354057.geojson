@@ -1,0 +1,67 @@
+{
+  "id": 1310354057,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"80.6362,6.6067,80.6362,6.6067",
+    "geom:latitude":6.6067,
+    "geom:longitude":80.6362,
+    "gn:admin1_code":"33.0",
+    "gn:asciiname":"Merapitigoda",
+    "gn:country_code":"LK",
+    "gn:dem":177,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7547039,
+    "gn:latitude":6.6067,
+    "gn:longitude":80.6362,
+    "gn:modification_date":"2010-10-09",
+    "gn:name":"Merapitigoda",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632313,
+        85673785,
+        1092064505
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7547039
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"f402889d2a92d805de30221fb9568cc8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "county_id":1092064505,
+            "locality_id":1310354057,
+            "region_id":85673785
+        }
+    ],
+    "wof:id":1310354057,
+    "wof:lastmodified":1536636930,
+    "wof:name":"Merapitigoda",
+    "wof:parent_id":1092064505,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    80.6362,
+    6.6067,
+    80.6362,
+    6.6067
+],
+  "geometry": {"coordinates":[80.6362,6.6067],"type":"Point"}
+}

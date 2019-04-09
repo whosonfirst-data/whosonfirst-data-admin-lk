@@ -1,0 +1,67 @@
+{
+  "id": 1293439061,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"80.0168,7.3988,80.0168,7.3988",
+    "geom:latitude":7.3988,
+    "geom:longitude":80.0168,
+    "gn:admin1_code":"32.0",
+    "gn:asciiname":"Manawala",
+    "gn:country_code":"LK",
+    "gn:dem":28,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1236286,
+    "gn:latitude":7.3988,
+    "gn:longitude":80.0168,
+    "gn:modification_date":"1994-01-08",
+    "gn:name":"Manawala",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632313,
+        85673777,
+        1092065035
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1236286
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"c61727ae77a84b079c326bf934a6d56d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "county_id":1092065035,
+            "locality_id":1293439061,
+            "region_id":85673777
+        }
+    ],
+    "wof:id":1293439061,
+    "wof:lastmodified":1536855778,
+    "wof:name":"Manawala",
+    "wof:parent_id":1092065035,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    80.0168,
+    7.3988,
+    80.0168,
+    7.3988
+],
+  "geometry": {"coordinates":[80.0168,7.3988],"type":"Point"}
+}

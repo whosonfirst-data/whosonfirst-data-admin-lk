@@ -1,0 +1,67 @@
+{
+  "id": 1243304017,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"80.0149,6.7626,80.0149,6.7626",
+    "geom:latitude":6.7626,
+    "geom:longitude":80.0149,
+    "gn:admin1_code":"36.0",
+    "gn:asciiname":"Gonapola",
+    "gn:country_code":"LK",
+    "gn:dem":19,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1245406,
+    "gn:latitude":6.7626,
+    "gn:longitude":80.0149,
+    "gn:modification_date":"1998-03-24",
+    "gn:name":"Gonapola",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632313,
+        85673819,
+        1092059431
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1245406
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"271433068644ba1ea877760ed11e7ab1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "county_id":1092059431,
+            "locality_id":1243304017,
+            "region_id":85673819
+        }
+    ],
+    "wof:id":1243304017,
+    "wof:lastmodified":1537010160,
+    "wof:name":"Gonapola",
+    "wof:parent_id":1092059431,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    80.0149,
+    6.7626,
+    80.0149,
+    6.7626
+],
+  "geometry": {"coordinates":[80.0149,6.7626],"type":"Point"}
+}

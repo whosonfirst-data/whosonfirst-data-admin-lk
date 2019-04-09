@@ -1,0 +1,71 @@
+{
+  "id": 1343713641,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"81.2808,7.4572,81.2808,7.4572",
+    "geom:latitude":7.4572,
+    "geom:longitude":81.2808,
+    "gn:admin1_code":"37.0",
+    "gn:asciiname":"Serankada",
+    "gn:country_code":"LK",
+    "gn:dem":123,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1228111,
+    "gn:latitude":7.4572,
+    "gn:longitude":81.2808,
+    "gn:modification_date":"2012-04-05",
+    "gn:name":"Serankada",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Serankade",
+        "Serankada"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632313,
+        85673733,
+        1092064659
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1228111
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"911261b3d5a3ea66bbbd1232d1147cc1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "county_id":1092064659,
+            "locality_id":1343713641,
+            "region_id":85673733
+        }
+    ],
+    "wof:id":1343713641,
+    "wof:lastmodified":1537661390,
+    "wof:name":"Serankada",
+    "wof:parent_id":1092064659,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    81.2808,
+    7.4572,
+    81.2808,
+    7.4572
+],
+  "geometry": {"coordinates":[81.2808,7.4572],"type":"Point"}
+}

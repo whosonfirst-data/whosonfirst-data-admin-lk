@@ -1,0 +1,61 @@
+{
+  "id": 1209375973,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"80.8588,7.0741,80.8588,7.0741",
+    "geom:latitude":7.0741,
+    "geom:longitude":80.8588,
+    "gn:admin1_code":"29.0",
+    "gn:asciiname":"Maha Uva",
+    "gn:country_code":"LK",
+    "gn:dem":1363,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8304347,
+    "gn:latitude":7.0741,
+    "gn:longitude":80.8588,
+    "gn:modification_date":"2012-06-07",
+    "gn:name":"Maha Uva",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632313
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8304347
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"11ddd4e087586cd00a2a358beaef8143",
+    "wof:hierarchy":[
+        {
+            "country_id":85632313,
+            "locality_id":1209375973
+        }
+    ],
+    "wof:id":1209375973,
+    "wof:lastmodified":1536288950,
+    "wof:name":"Maha Uva",
+    "wof:parent_id":85632313,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    80.8588,
+    7.0741,
+    80.8588,
+    7.0741
+],
+  "geometry": {"coordinates":[80.8588,7.0741],"type":"Point"}
+}

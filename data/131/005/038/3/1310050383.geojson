@@ -1,0 +1,67 @@
+{
+  "id": 1310050383,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"81.1635,6.8122,81.1635,6.8122",
+    "geom:latitude":6.8122,
+    "geom:longitude":81.1635,
+    "gn:admin1_code":"35.0",
+    "gn:asciiname":"Ulwitayaya",
+    "gn:country_code":"LK",
+    "gn:dem":233,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7618201,
+    "gn:latitude":6.8122,
+    "gn:longitude":81.1635,
+    "gn:modification_date":"2010-12-04",
+    "gn:name":"Ulwitayaya",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632313,
+        85673803,
+        1092056763
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7618201
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"ee648a1d5777e37d37531ae05d204013",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "county_id":1092056763,
+            "locality_id":1310050383,
+            "region_id":85673803
+        }
+    ],
+    "wof:id":1310050383,
+    "wof:lastmodified":1537072944,
+    "wof:name":"Ulwitayaya",
+    "wof:parent_id":1092056763,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    81.1635,
+    6.8122,
+    81.1635,
+    6.8122
+],
+  "geometry": {"coordinates":[81.1635,6.8122],"type":"Point"}
+}

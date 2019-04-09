@@ -1,0 +1,71 @@
+{
+  "id": 1243507425,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"80.0735,7.2037,80.0735,7.2037",
+    "geom:latitude":7.2037,
+    "geom:longitude":80.0735,
+    "gn:admin1_code":"36.0",
+    "gn:asciiname":"Borukgomuwa",
+    "gn:country_code":"LK",
+    "gn:dem":42,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1249578,
+    "gn:latitude":7.2037,
+    "gn:longitude":80.0735,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Borukgomuwa",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Borukgamuwa",
+        "Borukgomuwa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632313,
+        85673815,
+        1092063403
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1249578
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"b8060d0036e4fdea38717a972aa18e59",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "county_id":1092063403,
+            "locality_id":1243507425,
+            "region_id":85673815
+        }
+    ],
+    "wof:id":1243507425,
+    "wof:lastmodified":1537661585,
+    "wof:name":"Borukgomuwa",
+    "wof:parent_id":1092063403,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    80.0735,
+    7.2037,
+    80.0735,
+    7.2037
+],
+  "geometry": {"coordinates":[80.0735,7.2037],"type":"Point"}
+}

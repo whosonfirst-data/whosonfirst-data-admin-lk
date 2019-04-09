@@ -1,0 +1,73 @@
+{
+  "id": 1327275103,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"80.0895,6.1915,80.0895,6.1915",
+    "geom:latitude":6.1915,
+    "geom:longitude":80.0895,
+    "gn:admin1_code":"34.0",
+    "gn:asciiname":"Meetiyagoda",
+    "gn:country_code":"LK",
+    "gn:dem":17,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1234913,
+    "gn:latitude":6.1915,
+    "gn:longitude":80.0895,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Meetiyagoda",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Metiyagoda",
+        "Meetiyagoda",
+        "Metiyagoda Kanda",
+        "Mitiyagoda"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632313,
+        85673789,
+        1092059311
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1234913
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"c7f9b8a38c048ddb3d7b4e7b09a3340d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "county_id":1092059311,
+            "locality_id":1327275103,
+            "region_id":85673789
+        }
+    ],
+    "wof:id":1327275103,
+    "wof:lastmodified":1537661454,
+    "wof:name":"Meetiyagoda",
+    "wof:parent_id":1092059311,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    80.0895,
+    6.1915,
+    80.0895,
+    6.1915
+],
+  "geometry": {"coordinates":[80.0895,6.1915],"type":"Point"}
+}

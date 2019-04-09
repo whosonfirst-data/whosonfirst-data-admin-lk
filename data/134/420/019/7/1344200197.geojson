@@ -1,0 +1,72 @@
+{
+  "id": 1344200197,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"80.38333,9.13333,80.38333,9.13333",
+    "geom:latitude":9.13333,
+    "geom:longitude":80.38333,
+    "gn:admin1_code":"38.0",
+    "gn:asciiname":"Vannivilankulam",
+    "gn:country_code":"LK",
+    "gn:dem":61,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1225065,
+    "gn:latitude":9.13333,
+    "gn:longitude":80.38333,
+    "gn:modification_date":"2012-04-05",
+    "gn:name":"Vannivilankulam",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Vannianilankulam",
+        "Vannivilankulam"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632313,
+        85673765,
+        1092062713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1225065,
+        "wk:page":"Vannivilankulam"
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"ae3fd97d3d7c32ecffddb62a6ae1b743",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "county_id":1092062713,
+            "locality_id":1344200197,
+            "region_id":85673765
+        }
+    ],
+    "wof:id":1344200197,
+    "wof:lastmodified":1537661351,
+    "wof:name":"Vannivilankulam",
+    "wof:parent_id":1092062713,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    80.38333,
+    9.13333,
+    80.38333,
+    9.13333
+],
+  "geometry": {"coordinates":[80.38333,9.13333],"type":"Point"}
+}

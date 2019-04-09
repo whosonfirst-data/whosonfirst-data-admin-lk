@@ -1,0 +1,67 @@
+{
+  "id": 1326870271,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"80.0066,7.3083,80.0066,7.3083",
+    "geom:latitude":7.3083,
+    "geom:longitude":80.0066,
+    "gn:admin1_code":"36.0",
+    "gn:asciiname":"Petigoda",
+    "gn:country_code":"LK",
+    "gn:dem":40,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1230325,
+    "gn:latitude":7.3083,
+    "gn:longitude":80.0066,
+    "gn:modification_date":"1994-01-08",
+    "gn:name":"Petigoda",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632313,
+        85673815,
+        1092057931
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1230325
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"676e2bd4b19b1f8ac33df42ac6270bfa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "county_id":1092057931,
+            "locality_id":1326870271,
+            "region_id":85673815
+        }
+    ],
+    "wof:id":1326870271,
+    "wof:lastmodified":1536993143,
+    "wof:name":"Petigoda",
+    "wof:parent_id":1092057931,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    80.0066,
+    7.3083,
+    80.0066,
+    7.3083
+],
+  "geometry": {"coordinates":[80.00660000000001,7.3083],"type":"Point"}
+}

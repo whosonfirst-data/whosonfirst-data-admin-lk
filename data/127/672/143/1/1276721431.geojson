@@ -1,0 +1,67 @@
+{
+  "id": 1276721431,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"79.8526,8.1009,79.8526,8.1009",
+    "geom:latitude":8.1009,
+    "geom:longitude":79.8526,
+    "gn:admin1_code":"32.0",
+    "gn:asciiname":"Ambalam Vattakandal",
+    "gn:country_code":"LK",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1251578,
+    "gn:latitude":8.1009,
+    "gn:longitude":79.8526,
+    "gn:modification_date":"1994-01-08",
+    "gn:name":"Ambalam Vattakandal",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632313,
+        85673779,
+        1092067609
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1251578
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"f2b0a22983f8626facd693cd82f4911a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "county_id":1092067609,
+            "locality_id":1276721431,
+            "region_id":85673779
+        }
+    ],
+    "wof:id":1276721431,
+    "wof:lastmodified":1536755946,
+    "wof:name":"Ambalam Vattakandal",
+    "wof:parent_id":1092067609,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    79.8526,
+    8.1009,
+    79.8526,
+    8.1009
+],
+  "geometry": {"coordinates":[79.8526,8.1009],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1326490059,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"80.5262,7.4745,80.5262,7.4745",
+    "geom:latitude":7.4745,
+    "geom:longitude":80.5262,
+    "gn:admin1_code":"32.0",
+    "gn:asciiname":"Paldeniya",
+    "gn:country_code":"LK",
+    "gn:dem":184,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1231877,
+    "gn:latitude":7.4745,
+    "gn:longitude":80.5262,
+    "gn:modification_date":"1994-01-08",
+    "gn:name":"Paldeniya",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632313,
+        85673777,
+        1092065951
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1231877
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"470a8ac6aee54b71468f7203daa5c952",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "county_id":1092065951,
+            "locality_id":1326490059,
+            "region_id":85673777
+        }
+    ],
+    "wof:id":1326490059,
+    "wof:lastmodified":1537043150,
+    "wof:name":"Paldeniya",
+    "wof:parent_id":1092065951,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    80.5262,
+    7.4745,
+    80.5262,
+    7.4745
+],
+  "geometry": {"coordinates":[80.5262,7.4745],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1225903899,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"80.3425,7.3573,80.3425,7.3573",
+    "geom:latitude":7.3573,
+    "geom:longitude":80.3425,
+    "gn:admin1_code":"32.0",
+    "gn:asciiname":"Aragoda",
+    "gn:country_code":"LK",
+    "gn:dem":115,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1251046,
+    "gn:latitude":7.3573,
+    "gn:longitude":80.3425,
+    "gn:modification_date":"1994-01-08",
+    "gn:name":"Aragoda",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632313,
+        85673777,
+        1092065381
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1251046
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"a5a997371ad2a65b22558b6285be8863",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "county_id":1092065381,
+            "locality_id":1225903899,
+            "region_id":85673777
+        }
+    ],
+    "wof:id":1225903899,
+    "wof:lastmodified":1536930781,
+    "wof:name":"Aragoda",
+    "wof:parent_id":1092065381,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    80.3425,
+    7.3573,
+    80.3425,
+    7.3573
+],
+  "geometry": {"coordinates":[80.3425,7.3573],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1343607085,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"80.11127,7.86157,80.11127,7.86157",
+    "geom:latitude":7.86157,
+    "geom:longitude":80.11127,
+    "gn:admin1_code":"32.0",
+    "gn:asciiname":"Ihalagama",
+    "gn:country_code":"LK",
+    "gn:dem":84,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1243563,
+    "gn:latitude":7.86157,
+    "gn:longitude":80.11127,
+    "gn:modification_date":"2014-02-07",
+    "gn:name":"Ihalagama",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632313,
+        85673777,
+        1092061409
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1243563
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"faf0aa1576006a4a90dfad2b6ef268ec",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "county_id":1092061409,
+            "locality_id":1343607085,
+            "region_id":85673777
+        }
+    ],
+    "wof:id":1343607085,
+    "wof:lastmodified":1537030760,
+    "wof:name":"Ihalagama",
+    "wof:parent_id":1092061409,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    80.11126999999998,
+    7.86157,
+    80.11126999999998,
+    7.86157
+],
+  "geometry": {"coordinates":[80.11126999999998,7.86157],"type":"Point"}
+}

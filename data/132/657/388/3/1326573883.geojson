@@ -1,0 +1,67 @@
+{
+  "id": 1326573883,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"80.1681,6.4786,80.1681,6.4786",
+    "geom:latitude":6.4786,
+    "geom:longitude":80.1681,
+    "gn:admin1_code":"36.0",
+    "gn:asciiname":"Kuda Kalupahana",
+    "gn:country_code":"LK",
+    "gn:dem":62,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1238775,
+    "gn:latitude":6.4786,
+    "gn:longitude":80.1681,
+    "gn:modification_date":"1994-01-08",
+    "gn:name":"Kuda Kalupahana",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632313,
+        85673819,
+        1092056125
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1238775
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"ba165e560815115e6f2f85a2ee6f013c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "county_id":1092056125,
+            "locality_id":1326573883,
+            "region_id":85673819
+        }
+    ],
+    "wof:id":1326573883,
+    "wof:lastmodified":1536924737,
+    "wof:name":"Kuda Kalupahana",
+    "wof:parent_id":1092056125,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    80.1681,
+    6.4786,
+    80.1681,
+    6.4786
+],
+  "geometry": {"coordinates":[80.1681,6.4786],"type":"Point"}
+}

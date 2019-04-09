@@ -1,0 +1,67 @@
+{
+  "id": 1360138169,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"80.9437,6.824,80.9437,6.824",
+    "geom:latitude":6.824,
+    "geom:longitude":80.9437,
+    "gn:admin1_code":"35.0",
+    "gn:asciiname":"Ellagama Village",
+    "gn:country_code":"LK",
+    "gn:dem":1212,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8535104,
+    "gn:latitude":6.824,
+    "gn:longitude":80.9437,
+    "gn:modification_date":"2013-06-05",
+    "gn:name":"Ellagama Village",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632313,
+        85673801,
+        1092059183
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8535104
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"d576daa4c6cd836e7f90ec908d5f0c02",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "county_id":1092059183,
+            "locality_id":1360138169,
+            "region_id":85673801
+        }
+    ],
+    "wof:id":1360138169,
+    "wof:lastmodified":1536868020,
+    "wof:name":"Ellagama Village",
+    "wof:parent_id":1092059183,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    80.9437,
+    6.824,
+    80.9437,
+    6.824
+],
+  "geometry": {"coordinates":[80.94370000000001,6.824],"type":"Point"}
+}

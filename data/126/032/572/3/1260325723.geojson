@@ -1,0 +1,72 @@
+{
+  "id": 1260325723,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"80.0222,8.7881,80.0222,8.7881",
+    "geom:latitude":8.7881,
+    "geom:longitude":80.0222,
+    "gn:admin1_code":"38.0",
+    "gn:asciiname":"Pallatankulam",
+    "gn:country_code":"LK",
+    "gn:dem":15,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1231831,
+    "gn:latitude":8.7881,
+    "gn:longitude":80.0222,
+    "gn:modification_date":"2012-04-05",
+    "gn:name":"Pallatankulam",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Pallankulam",
+        "Pallatankulam",
+        "Pallalankulam"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632313,
+        85673761,
+        1092063647
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1231831
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"5b995408ae9c7b63c8ee0c686b9c3eea",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "county_id":1092063647,
+            "locality_id":1260325723,
+            "region_id":85673761
+        }
+    ],
+    "wof:id":1260325723,
+    "wof:lastmodified":1537661424,
+    "wof:name":"Pallatankulam",
+    "wof:parent_id":1092063647,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    80.0222,
+    8.7881,
+    80.0222,
+    8.7881
+],
+  "geometry": {"coordinates":[80.0222,8.7881],"type":"Point"}
+}

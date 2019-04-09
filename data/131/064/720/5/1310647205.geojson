@@ -1,0 +1,67 @@
+{
+  "id": 1310647205,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"80.81667,7.8,80.81667,7.8",
+    "geom:latitude":7.8,
+    "geom:longitude":80.81667,
+    "gn:admin1_code":"30.0",
+    "gn:asciiname":"Bakamuneulpota",
+    "gn:country_code":"LK",
+    "gn:dem":138,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1250574,
+    "gn:latitude":7.8,
+    "gn:longitude":80.81667,
+    "gn:modification_date":"1994-01-08",
+    "gn:name":"Bakamuneulpota",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632313,
+        85673743,
+        1092058177
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1250574
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"2a3ad4c411ac3282d9da11f1c25466ea",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "county_id":1092058177,
+            "locality_id":1310647205,
+            "region_id":85673743
+        }
+    ],
+    "wof:id":1310647205,
+    "wof:lastmodified":1536712833,
+    "wof:name":"Bakamuneulpota",
+    "wof:parent_id":1092058177,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    80.81667,
+    7.8,
+    80.81667,
+    7.8
+],
+  "geometry": {"coordinates":[80.81667,7.8],"type":"Point"}
+}

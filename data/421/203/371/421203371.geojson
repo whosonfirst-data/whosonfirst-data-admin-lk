@@ -1,0 +1,159 @@
+{
+  "id": 421203371,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-02-02",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"80.16667,7.75,80.16667,7.75",
+    "geom:latitude":7.75,
+    "geom:longitude":80.16667,
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:max_zoom":11.0,
+    "mz:min_zoom":8.7,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:bul_x_preferred":[
+        "\u0421\u0435\u0432\u0435\u0440\u043e\u0437\u0430\u043f\u0430\u0434\u043d\u0430 \u043f\u0440\u043e\u0432\u0438\u043d\u0446\u0438\u044f"
+    ],
+    "name:deu_x_preferred":[
+        "Nordwestprovinz"
+    ],
+    "name:eng_x_preferred":[
+        "North Western"
+    ],
+    "name:epo_x_preferred":[
+        "Nordokcidenta Provinco"
+    ],
+    "name:fas_x_preferred":[
+        "\u0627\u0633\u062a\u0627\u0646 \u0634\u0645\u0627\u0644 \u063a\u0631\u0628\u06cc\u060c \u0633\u0631\u06cc\u200c\u0644\u0627\u0646\u06a9\u0627"
+    ],
+    "name:fin_x_preferred":[
+        "Sri Lankan luoteisprovinssi"
+    ],
+    "name:fra_x_preferred":[
+        "Province du Nord-Ouest"
+    ],
+    "name:hin_x_preferred":[
+        "\u0909\u0924\u094d\u0924\u0930 \u092a\u0936\u094d\u091a\u093f\u092e\u0940 \u092a\u094d\u0930\u093e\u0928\u094d\u0924"
+    ],
+    "name:ita_x_preferred":[
+        "Provincia Nord-Occidentale"
+    ],
+    "name:jpn_x_preferred":[
+        "\u5317\u897f\u90e8\u5dde"
+    ],
+    "name:kat_x_preferred":[
+        "\u10e9\u10e0\u10d3\u10d8\u10da\u10dd-\u10d3\u10d0\u10e1\u10d0\u10d5\u10da\u10d4\u10d7\u10d8 \u10de\u10e0\u10dd\u10d5\u10d8\u10dc\u10ea\u10d8\u10d0"
+    ],
+    "name:kor_x_preferred":[
+        "\ubd81\uc11c\ubd80 \uc8fc"
+    ],
+    "name:mar_x_preferred":[
+        "\u0935\u093e\u092f\u0935\u094d\u092f \u092a\u094d\u0930\u093e\u0902\u0924"
+    ],
+    "name:nld_x_preferred":[
+        "Noordwestelijke Provincie"
+    ],
+    "name:pol_x_preferred":[
+        "Prowincja P\u00f3\u0142nocno-Zachodnia"
+    ],
+    "name:por_x_preferred":[
+        "Noroeste"
+    ],
+    "name:por_x_variant":[
+        "Prov\u00edncia Noroeste"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u0435\u0432\u0435\u0440\u043e-\u0417\u0430\u043f\u0430\u0434\u043d\u0430\u044f \u043f\u0440\u043e\u0432\u0438\u043d\u0446\u0438\u044f"
+    ],
+    "name:sin_x_preferred":[
+        "\u0dc0\u0dba\u0db9 \u0db4\u0dc5\u0dcf\u0dad"
+    ],
+    "name:spa_x_preferred":[
+        "Provincia Noroeste"
+    ],
+    "name:swe_x_preferred":[
+        "Nordv\u00e4stprovinsen"
+    ],
+    "name:tam_x_preferred":[
+        "\u0bb5\u0b9f\u0bae\u0bc7\u0bb2\u0bcd \u0bae\u0bbe\u0b95\u0bbe\u0ba3\u0bae\u0bcd"
+    ],
+    "name:tam_x_variant":[
+        "\u0bb5\u0b9f \u0bae\u0bc7\u0bb2\u0bcd \u0bae\u0bbe\u0b95\u0bbe\u0ba3\u0bae\u0bcd"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041f\u0456\u0432\u043d\u0456\u0447\u043d\u043e-\u0417\u0430\u0445\u0456\u0434\u043d\u0430 \u043f\u0440\u043e\u0432\u0456\u043d\u0446\u0456\u044f"
+    ],
+    "name:unk_x_variant":[
+        "North Western Province"
+    ],
+    "name:urd_x_preferred":[
+        "\u0634\u0645\u0627\u0644 \u0645\u063a\u0631\u0628\u06cc \u0635\u0648\u0628\u06c1\u060c \u0633\u0631\u06cc \u0644\u0646\u06a9\u0627"
+    ],
+    "name:zho_x_preferred":[
+        "\u897f\u5317\u7701"
+    ],
+    "qs:gn_country":"LK",
+    "qs:gn_fcode":"ADM1",
+    "qs:gn_id":1232860,
+    "qs:gn_pop":0,
+    "qs:name":"North Western",
+    "qs:name_adm0":"Sri Lanka",
+    "qs:name_adm1":"North Western",
+    "qs:photos":1440,
+    "qs:photos_1k":292,
+    "qs:photos_9k":17,
+    "qs:photos_9r":12,
+    "qs:photos_all":3828,
+    "qs:photos_sr":12,
+    "qs:placetype":"State",
+    "qs:pop_sr":"0",
+    "qs:qs_id":1285071,
+    "qs:woe_adm0":23424778,
+    "qs:woe_id":2344962,
+    "src:geom":"quattroshapes",
+    "wd:wordcount":1438,
+    "wof:belongsto":[
+        102191569,
+        85632313
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1232860,
+        "gp:id":2344962,
+        "qs:id":1285071,
+        "wd:id":"Q876339",
+        "wk:page":"North Western Province, Sri Lanka"
+    },
+    "wof:country":"LK",
+    "wof:created":1459010149,
+    "wof:geomhash":"4208c0b2b5311dc0ee3f30b39231e40d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "region_id":421203371
+        }
+    ],
+    "wof:id":421203371,
+    "wof:lastmodified":1529541198,
+    "wof:name":"North Western",
+    "wof:parent_id":85632313,
+    "wof:placetype":"region",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    80.16667,
+    7.75,
+    80.16667,
+    7.75
+],
+  "geometry": {"coordinates":[80.16667,7.75],"type":"Point"}
+}

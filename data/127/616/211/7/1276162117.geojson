@@ -1,0 +1,72 @@
+{
+  "id": 1276162117,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"80.596,9.0293,80.596,9.0293",
+    "geom:latitude":9.0293,
+    "geom:longitude":80.596,
+    "gn:admin1_code":"38.0",
+    "gn:asciiname":"Nainamadu",
+    "gn:country_code":"LK",
+    "gn:dem":80,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1233917,
+    "gn:latitude":9.0293,
+    "gn:longitude":80.596,
+    "gn:modification_date":"2012-04-05",
+    "gn:name":"Nainamadu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Nayinamadu",
+        "Nainamadhu",
+        "Nainamadu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632313,
+        85673757,
+        1092067297
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1233917
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"d0e6aa3065248b2a3687e5d4e17248aa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "county_id":1092067297,
+            "locality_id":1276162117,
+            "region_id":85673757
+        }
+    ],
+    "wof:id":1276162117,
+    "wof:lastmodified":1537661445,
+    "wof:name":"Nainamadu",
+    "wof:parent_id":1092067297,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    80.596,
+    9.0293,
+    80.596,
+    9.0293
+],
+  "geometry": {"coordinates":[80.596,9.0293],"type":"Point"}
+}

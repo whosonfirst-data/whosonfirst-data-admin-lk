@@ -1,0 +1,67 @@
+{
+  "id": 1193083519,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"80.707,8.0577,80.707,8.0577",
+    "geom:latitude":8.0577,
+    "geom:longitude":80.707,
+    "gn:admin1_code":"30.0",
+    "gn:asciiname":"Palugaswewa",
+    "gn:country_code":"LK",
+    "gn:dem":166,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1231559,
+    "gn:latitude":8.0577,
+    "gn:longitude":80.707,
+    "gn:modification_date":"1994-01-08",
+    "gn:name":"Palugaswewa",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632313,
+        85673751,
+        1092064945
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1231559
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"696cdfa5031375014599060af5cc5b2d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "county_id":1092064945,
+            "locality_id":1193083519,
+            "region_id":85673751
+        }
+    ],
+    "wof:id":1193083519,
+    "wof:lastmodified":1536378204,
+    "wof:name":"Palugaswewa",
+    "wof:parent_id":1092064945,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    80.707,
+    8.0577,
+    80.707,
+    8.0577
+],
+  "geometry": {"coordinates":[80.70699999999999,8.0577],"type":"Point"}
+}

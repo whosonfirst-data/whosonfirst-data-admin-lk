@@ -1,0 +1,91 @@
+{
+  "id": 421187629,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"80.0366,6.278,80.0366,6.278",
+    "geom:latitude":6.278,
+    "geom:longitude":80.0366,
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:dut_x_preferred":[
+        "Balapitiya"
+    ],
+    "name:eng_x_preferred":[
+        "Balapitiya"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u0430\u043b\u0430\u043f\u0438\u0442\u0438\u044f"
+    ],
+    "name:sin_x_preferred":[
+        "\u0db6\u0dbd\u0db4\u0dd2\u0da7\u0dd2\u0dba"
+    ],
+    "qs:gn_country":"LK",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":1250497,
+    "qs:gn_pop":0,
+    "qs:name":"Balapitiya",
+    "qs:name_adm0":"Sri Lanka",
+    "qs:name_adm1":"Southern",
+    "qs:photos":238,
+    "qs:photos_1k":48,
+    "qs:photos_9k":1,
+    "qs:photos_9r":4,
+    "qs:photos_all":238,
+    "qs:photos_sr":4,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":1083709,
+    "qs:woe_adm0":23424778,
+    "qs:woe_id":2189522,
+    "src:geom":"quattroshapes",
+    "wd:wordcount":62,
+    "wof:belongsto":[
+        102191569,
+        85632313,
+        85673789,
+        1092056933
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1250497,
+        "gp:id":2189522,
+        "qs:id":1083709,
+        "wd:id":"Q4076412",
+        "wk:page":"Balapitiya"
+    },
+    "wof:country":"LK",
+    "wof:created":1459009519,
+    "wof:geomhash":"0016cd01503de7ff246b4dd99377313e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "county_id":1092056933,
+            "locality_id":421187629,
+            "region_id":85673789
+        }
+    ],
+    "wof:id":421187629,
+    "wof:lastmodified":1527716246,
+    "wof:name":"Balapitiya",
+    "wof:parent_id":1092056933,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    80.0366,
+    6.278,
+    80.0366,
+    6.278
+],
+  "geometry": {"coordinates":[80.03660000000001,6.278],"type":"Point"}
+}

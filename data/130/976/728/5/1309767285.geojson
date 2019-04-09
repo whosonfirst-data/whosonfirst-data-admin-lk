@@ -1,0 +1,74 @@
+{
+  "id": 1309767285,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"80.5182,6.9134,80.5182,6.9134",
+    "geom:latitude":6.9134,
+    "geom:longitude":80.5182,
+    "gn:admin1_code":"29.0",
+    "gn:asciiname":"Norton Bridge",
+    "gn:country_code":"LK",
+    "gn:dem":945,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1232858,
+    "gn:latitude":6.9134,
+    "gn:longitude":80.5182,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Norton Bridge",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Akkarawatta",
+        "Norton",
+        "Harden-huish",
+        "Norton Bridge"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632313,
+        85673731,
+        1092056403
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1232858,
+        "wk:page":"Harden-huish"
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"6fbba6e54d2cb8fa0cc68ad5f7acf697",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "county_id":1092056403,
+            "locality_id":1309767285,
+            "region_id":85673731
+        }
+    ],
+    "wof:id":1309767285,
+    "wof:lastmodified":1537661435,
+    "wof:name":"Norton Bridge",
+    "wof:parent_id":1092056403,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    80.5182,
+    6.9134,
+    80.5182,
+    6.9134
+],
+  "geometry": {"coordinates":[80.51819999999999,6.9134],"type":"Point"}
+}

@@ -1,0 +1,61 @@
+{
+  "id": 1209755923,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"79.98333,6.43333,79.98333,6.43333",
+    "geom:latitude":6.43333,
+    "geom:longitude":79.98333,
+    "gn:admin1_code":"36.0",
+    "gn:asciiname":"Alutgama West",
+    "gn:country_code":"LK",
+    "gn:dem":-9999,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1251831,
+    "gn:latitude":6.43333,
+    "gn:longitude":79.98333,
+    "gn:modification_date":"1994-01-08",
+    "gn:name":"Alutgama West",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1251831
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"e55a61740e5698eef8963716f176e9ed",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1209755923,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1209755923,
+    "wof:lastmodified":1536390668,
+    "wof:name":"Alutgama West",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    79.98333000000002,
+    6.43333,
+    79.98333000000002,
+    6.43333
+],
+  "geometry": {"coordinates":[79.98333000000002,6.43333],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1344107095,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"80.2456,8.5713,80.2456,8.5713",
+    "geom:latitude":8.5713,
+    "geom:longitude":80.2456,
+    "gn:admin1_code":"30.0",
+    "gn:asciiname":"Tanthirimale",
+    "gn:country_code":"LK",
+    "gn:dem":76,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8303609,
+    "gn:latitude":8.5713,
+    "gn:longitude":80.2456,
+    "gn:modification_date":"2012-06-06",
+    "gn:name":"Tanthirimale",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632313,
+        85673751,
+        1092062291
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8303609
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"03aebd8a6d0d95fd8b57966d411c9f66",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "county_id":1092062291,
+            "locality_id":1344107095,
+            "region_id":85673751
+        }
+    ],
+    "wof:id":1344107095,
+    "wof:lastmodified":1536808139,
+    "wof:name":"Tanthirimale",
+    "wof:parent_id":1092062291,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    80.2456,
+    8.5713,
+    80.2456,
+    8.5713
+],
+  "geometry": {"coordinates":[80.2456,8.5713],"type":"Point"}
+}

@@ -1,0 +1,61 @@
+{
+  "id": 1209263845,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"80.2767,7.5107,80.2767,7.5107",
+    "geom:latitude":7.5107,
+    "geom:longitude":80.2767,
+    "gn:admin1_code":"32.0",
+    "gn:asciiname":"Henegedara-kala",
+    "gn:country_code":"LK",
+    "gn:dem":88,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1244358,
+    "gn:latitude":7.5107,
+    "gn:longitude":80.2767,
+    "gn:modification_date":"1994-01-08",
+    "gn:name":"Henegedara-kala",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632313
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1244358
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"af7660beb73d16567fbd55f3bf0c6024",
+    "wof:hierarchy":[
+        {
+            "country_id":85632313,
+            "locality_id":1209263845
+        }
+    ],
+    "wof:id":1209263845,
+    "wof:lastmodified":1536292602,
+    "wof:name":"Henegedara-kala",
+    "wof:parent_id":85632313,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    80.2767,
+    7.5107,
+    80.2767,
+    7.5107
+],
+  "geometry": {"coordinates":[80.27670000000001,7.5107],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1310245003,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"79.8825,6.7815,79.8825,6.7815",
+    "geom:latitude":6.7815,
+    "geom:longitude":79.8825,
+    "gn:admin1_code":"36.0",
+    "gn:asciiname":"Idama",
+    "gn:country_code":"LK",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7545400,
+    "gn:latitude":6.7815,
+    "gn:longitude":79.8825,
+    "gn:modification_date":"2010-10-09",
+    "gn:name":"Idama",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632313,
+        85673811,
+        1092063487
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7545400
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"a7e142b7d8288681f7766ed2673a1bfb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "county_id":1092063487,
+            "locality_id":1310245003,
+            "region_id":85673811
+        }
+    ],
+    "wof:id":1310245003,
+    "wof:lastmodified":1536795405,
+    "wof:name":"Idama",
+    "wof:parent_id":1092063487,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    79.8825,
+    6.7815,
+    79.8825,
+    6.7815
+],
+  "geometry": {"coordinates":[79.88249999999999,6.7815],"type":"Point"}
+}

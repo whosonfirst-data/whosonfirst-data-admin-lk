@@ -1,0 +1,67 @@
+{
+  "id": 1310346427,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"80.3101,6.1035,80.3101,6.1035",
+    "geom:latitude":6.1035,
+    "geom:longitude":80.3101,
+    "gn:admin1_code":"34.0",
+    "gn:asciiname":"Weldeniyawatta",
+    "gn:country_code":"LK",
+    "gn:dem":46,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7624114,
+    "gn:latitude":6.1035,
+    "gn:longitude":80.3101,
+    "gn:modification_date":"2010-12-04",
+    "gn:name":"Weldeniyawatta",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632313,
+        85673789,
+        1092068203
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7624114
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"11cb585d09f2b8bfe20860e018213ea8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "county_id":1092068203,
+            "locality_id":1310346427,
+            "region_id":85673789
+        }
+    ],
+    "wof:id":1310346427,
+    "wof:lastmodified":1536648606,
+    "wof:name":"Weldeniyawatta",
+    "wof:parent_id":1092068203,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    80.3101,
+    6.1035,
+    80.3101,
+    6.1035
+],
+  "geometry": {"coordinates":[80.31010000000001,6.1035],"type":"Point"}
+}

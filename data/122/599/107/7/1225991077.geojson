@@ -1,0 +1,67 @@
+{
+  "id": 1225991077,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"80.456,8.637,80.456,8.637",
+    "geom:latitude":8.637,
+    "geom:longitude":80.456,
+    "gn:admin1_code":"30.0",
+    "gn:asciiname":"Kuda Puliyankulama",
+    "gn:country_code":"LK",
+    "gn:dem":92,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1238636,
+    "gn:latitude":8.637,
+    "gn:longitude":80.456,
+    "gn:modification_date":"1994-01-08",
+    "gn:name":"Kuda Puliyankulama",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632313,
+        85673751,
+        1092063139
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1238636
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"d330b13ba91c5f8a95bc881b8c20a6d7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "county_id":1092063139,
+            "locality_id":1225991077,
+            "region_id":85673751
+        }
+    ],
+    "wof:id":1225991077,
+    "wof:lastmodified":1536803880,
+    "wof:name":"Kuda Puliyankulama",
+    "wof:parent_id":1092063139,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    80.456,
+    8.637,
+    80.456,
+    8.637
+],
+  "geometry": {"coordinates":[80.456,8.637],"type":"Point"}
+}

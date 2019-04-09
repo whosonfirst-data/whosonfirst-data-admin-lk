@@ -1,0 +1,67 @@
+{
+  "id": 1242932965,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"80.4192,7.4222,80.4192,7.4222",
+    "geom:latitude":7.4222,
+    "geom:longitude":80.4192,
+    "gn:admin1_code":"32.0",
+    "gn:asciiname":"Urakote",
+    "gn:country_code":"LK",
+    "gn:dem":311,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7433675,
+    "gn:latitude":7.4222,
+    "gn:longitude":80.4192,
+    "gn:modification_date":"2010-08-07",
+    "gn:name":"Urakote",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632313,
+        85673777,
+        1092063021
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7433675
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"e2d748a22db1ce9783870a0cd4e53cbe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "county_id":1092063021,
+            "locality_id":1242932965,
+            "region_id":85673777
+        }
+    ],
+    "wof:id":1242932965,
+    "wof:lastmodified":1537047026,
+    "wof:name":"Urakote",
+    "wof:parent_id":1092063021,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    80.4192,
+    7.4222,
+    80.4192,
+    7.4222
+],
+  "geometry": {"coordinates":[80.4192,7.4222],"type":"Point"}
+}

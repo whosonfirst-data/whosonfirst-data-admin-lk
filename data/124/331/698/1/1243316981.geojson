@@ -1,0 +1,67 @@
+{
+  "id": 1243316981,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"81.013,6.8289,81.013,6.8289",
+    "geom:latitude":6.8289,
+    "geom:longitude":81.013,
+    "gn:admin1_code":"35.0",
+    "gn:asciiname":"Sewanagama",
+    "gn:country_code":"LK",
+    "gn:dem":1308,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7616464,
+    "gn:latitude":6.8289,
+    "gn:longitude":81.013,
+    "gn:modification_date":"2010-12-04",
+    "gn:name":"Sewanagama",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632313,
+        85673801,
+        1092057059
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7616464
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"f8db4792ece1956b6398de6ae7d6fdc7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "county_id":1092057059,
+            "locality_id":1243316981,
+            "region_id":85673801
+        }
+    ],
+    "wof:id":1243316981,
+    "wof:lastmodified":1536991535,
+    "wof:name":"Sewanagama",
+    "wof:parent_id":1092057059,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    81.013,
+    6.8289,
+    81.013,
+    6.8289
+],
+  "geometry": {"coordinates":[81.01300000000001,6.8289],"type":"Point"}
+}

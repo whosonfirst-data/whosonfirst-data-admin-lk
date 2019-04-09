@@ -1,0 +1,67 @@
+{
+  "id": 1326884495,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"80.6745,6.6935,80.6745,6.6935",
+    "geom:latitude":6.6935,
+    "geom:longitude":80.6745,
+    "gn:admin1_code":"33.0",
+    "gn:asciiname":"Horawinna",
+    "gn:country_code":"LK",
+    "gn:dem":512,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1243846,
+    "gn:latitude":6.6935,
+    "gn:longitude":80.6745,
+    "gn:modification_date":"1994-01-08",
+    "gn:name":"Horawinna",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632313,
+        85673785,
+        1092059597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1243846
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"b061c87a6ba56b4b43f765aa900357f5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "county_id":1092059597,
+            "locality_id":1326884495,
+            "region_id":85673785
+        }
+    ],
+    "wof:id":1326884495,
+    "wof:lastmodified":1536973236,
+    "wof:name":"Horawinna",
+    "wof:parent_id":1092059597,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    80.6745,
+    6.6935,
+    80.6745,
+    6.6935
+],
+  "geometry": {"coordinates":[80.67449999999999,6.6935],"type":"Point"}
+}

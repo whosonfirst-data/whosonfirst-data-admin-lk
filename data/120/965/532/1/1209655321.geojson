@@ -1,0 +1,64 @@
+{
+  "id": 1209655321,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"79.9505,7.0486,79.9505,7.0486",
+    "geom:latitude":7.0486,
+    "geom:longitude":79.9505,
+    "gn:admin1_code":"36.0",
+    "gn:asciiname":"Kendaliyaddpaluwa",
+    "gn:country_code":"LK",
+    "gn:dem":19,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1240533,
+    "gn:latitude":7.0486,
+    "gn:longitude":79.9505,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Kendaliyaddpaluwa",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kendaliyaddapaluwa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632313
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1240533
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"2842db10a238d1592e1ad977b38d71de",
+    "wof:hierarchy":[
+        {
+            "country_id":85632313,
+            "locality_id":1209655321
+        }
+    ],
+    "wof:id":1209655321,
+    "wof:lastmodified":1537661504,
+    "wof:name":"Kendaliyaddpaluwa",
+    "wof:parent_id":85632313,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    79.9505,
+    7.0486,
+    79.9505,
+    7.0486
+],
+  "geometry": {"coordinates":[79.95050000000001,7.0486],"type":"Point"}
+}

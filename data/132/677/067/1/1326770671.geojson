@@ -1,0 +1,68 @@
+{
+  "id": 1326770671,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"80.1236,6.9019,80.1236,6.9019",
+    "geom:latitude":6.9019,
+    "geom:longitude":80.1236,
+    "gn:admin1_code":"36.0",
+    "gn:asciiname":"Waga",
+    "gn:country_code":"LK",
+    "gn:dem":26,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1224616,
+    "gn:latitude":6.9019,
+    "gn:longitude":80.1236,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Waga",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632313,
+        85673811,
+        1092066109
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1224616,
+        "wk:page":"Waga"
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"995fa949515aa90320e3f024b2c676a5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "county_id":1092066109,
+            "locality_id":1326770671,
+            "region_id":85673811
+        }
+    ],
+    "wof:id":1326770671,
+    "wof:lastmodified":1537567962,
+    "wof:name":"Waga",
+    "wof:parent_id":1092066109,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    80.1236,
+    6.9019,
+    80.1236,
+    6.9019
+],
+  "geometry": {"coordinates":[80.1236,6.9019],"type":"Point"}
+}

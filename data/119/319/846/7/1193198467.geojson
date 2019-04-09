@@ -1,0 +1,72 @@
+{
+  "id": 1193198467,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"80.6582,9.0597,80.6582,9.0597",
+    "geom:latitude":9.0597,
+    "geom:longitude":80.6582,
+    "gn:admin1_code":"38.0",
+    "gn:asciiname":"Nedunkeni",
+    "gn:country_code":"LK",
+    "gn:dem":53,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1233405,
+    "gn:latitude":9.0597,
+    "gn:longitude":80.6582,
+    "gn:modification_date":"2012-04-05",
+    "gn:name":"Nedunkeni",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Nedunken",
+        "Nedunkerni",
+        "Nedunkeni"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632313,
+        85673757,
+        1092067297
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1233405
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"83073398994f57cd350f9d40fd3ebb90",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "county_id":1092067297,
+            "locality_id":1193198467,
+            "region_id":85673757
+        }
+    ],
+    "wof:id":1193198467,
+    "wof:lastmodified":1537661440,
+    "wof:name":"Nedunkeni",
+    "wof:parent_id":1092067297,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    80.6582,
+    9.0597,
+    80.6582,
+    9.0597
+],
+  "geometry": {"coordinates":[80.65819999999999,9.0597],"type":"Point"}
+}

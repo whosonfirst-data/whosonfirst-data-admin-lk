@@ -1,0 +1,72 @@
+{
+  "id": 1260342005,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"81.0,6.83333,81.0,6.83333",
+    "geom:latitude":6.83333,
+    "geom:longitude":81.0,
+    "gn:admin1_code":"35.0",
+    "gn:asciiname":"Bindunawewa",
+    "gn:cc2":"LK",
+    "gn:country_code":"LK",
+    "gn:dem":1203,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1249893,
+    "gn:latitude":6.83333,
+    "gn:longitude":81.0,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Bindunawewa",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bindunuwewa",
+        "Bindunawewa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632313,
+        85673801,
+        1092057059
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1249893
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"aedca8fd069ea622226e1911b5e0c708",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "county_id":1092057059,
+            "locality_id":1260342005,
+            "region_id":85673801
+        }
+    ],
+    "wof:id":1260342005,
+    "wof:lastmodified":1537661587,
+    "wof:name":"Bindunawewa",
+    "wof:parent_id":1092057059,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    81.0,
+    6.83333,
+    81.0,
+    6.83333
+],
+  "geometry": {"coordinates":[81.0,6.83333],"type":"Point"}
+}

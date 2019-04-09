@@ -1,0 +1,68 @@
+{
+  "id": 1225891545,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"80.5899,7.5916,80.5899,7.5916",
+    "geom:latitude":7.5916,
+    "geom:longitude":80.5899,
+    "gn:admin1_code":"29.0",
+    "gn:asciiname":"Selagama",
+    "gn:country_code":"LK",
+    "gn:dem":404,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1228183,
+    "gn:latitude":7.5916,
+    "gn:longitude":80.5899,
+    "gn:modification_date":"2012-05-05",
+    "gn:name":"Selagama",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632313,
+        85673723,
+        1092068243
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1228183,
+        "wk:page":"Selagama"
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"fa2c8f97f5a9c5d0ba0a16c8910591e2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "county_id":1092068243,
+            "locality_id":1225891545,
+            "region_id":85673723
+        }
+    ],
+    "wof:id":1225891545,
+    "wof:lastmodified":1537567974,
+    "wof:name":"Selagama",
+    "wof:parent_id":1092068243,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    80.5899,
+    7.5916,
+    80.5899,
+    7.5916
+],
+  "geometry": {"coordinates":[80.5899,7.5916],"type":"Point"}
+}

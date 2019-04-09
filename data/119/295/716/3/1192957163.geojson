@@ -1,0 +1,72 @@
+{
+  "id": 1192957163,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"81.7666,6.6509,81.7666,6.6509",
+    "geom:latitude":6.6509,
+    "geom:longitude":81.7666,
+    "gn:admin1_code":"37.0",
+    "gn:asciiname":"Okanda",
+    "gn:country_code":"LK",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1232712,
+    "gn:latitude":6.6509,
+    "gn:longitude":81.7666,
+    "gn:modification_date":"2012-04-05",
+    "gn:name":"Okanda",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Okanta",
+        "Okanda"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632313,
+        85673733,
+        1092061831
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1232712,
+        "wk:page":"Okanda"
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"41a1d58ac8a96b2b64c3acccec0a8985",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "county_id":1092061831,
+            "locality_id":1192957163,
+            "region_id":85673733
+        }
+    ],
+    "wof:id":1192957163,
+    "wof:lastmodified":1537661433,
+    "wof:name":"Okanda",
+    "wof:parent_id":1092061831,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    81.7666,
+    6.6509,
+    81.7666,
+    6.6509
+],
+  "geometry": {"coordinates":[81.7666,6.6509],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1260327415,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"80.0297,6.4432,80.0297,6.4432",
+    "geom:latitude":6.4432,
+    "geom:longitude":80.0297,
+    "gn:admin1_code":"36.0",
+    "gn:asciiname":"Meerimulla",
+    "gn:country_code":"LK",
+    "gn:dem":12,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1235381,
+    "gn:latitude":6.4432,
+    "gn:longitude":80.0297,
+    "gn:modification_date":"1994-01-08",
+    "gn:name":"Meerimulla",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632313,
+        85673819,
+        1092057157
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1235381
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"de5db5cd575fd642211a804947e1642b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "county_id":1092057157,
+            "locality_id":1260327415,
+            "region_id":85673819
+        }
+    ],
+    "wof:id":1260327415,
+    "wof:lastmodified":1536652879,
+    "wof:name":"Meerimulla",
+    "wof:parent_id":1092057157,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    80.0297,
+    6.4432,
+    80.0297,
+    6.4432
+],
+  "geometry": {"coordinates":[80.02970000000001,6.4432],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1226793695,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"79.9554,7.1615,79.9554,7.1615",
+    "geom:latitude":7.1615,
+    "geom:longitude":79.9554,
+    "gn:admin1_code":"36.0",
+    "gn:asciiname":"Wattegedara",
+    "gn:country_code":"LK",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1224050,
+    "gn:latitude":7.1615,
+    "gn:longitude":79.9554,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Wattegedara",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Wattegedera",
+        "Wattegedara"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632313,
+        85673815,
+        1092063369
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1224050
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"3eed24bfe8fd9bad5d6ae84444a0532d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "county_id":1092063369,
+            "locality_id":1226793695,
+            "region_id":85673815
+        }
+    ],
+    "wof:id":1226793695,
+    "wof:lastmodified":1537661341,
+    "wof:name":"Wattegedara",
+    "wof:parent_id":1092063369,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    79.9554,
+    7.1615,
+    79.9554,
+    7.1615
+],
+  "geometry": {"coordinates":[79.9554,7.1615],"type":"Point"}
+}

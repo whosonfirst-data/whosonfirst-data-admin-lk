@@ -1,0 +1,67 @@
+{
+  "id": 1344008377,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"80.4104,8.4954,80.4104,8.4954",
+    "geom:latitude":8.4954,
+    "geom:longitude":80.4104,
+    "gn:admin1_code":"30.0",
+    "gn:asciiname":"Ihala Kotiyawa",
+    "gn:country_code":"LK",
+    "gn:dem":74,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1243457,
+    "gn:latitude":8.4954,
+    "gn:longitude":80.4104,
+    "gn:modification_date":"1994-01-08",
+    "gn:name":"Ihala Kotiyawa",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632313,
+        85673751,
+        1092065687
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1243457
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"30528fbe4969891c6075fc1218ff79cd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "county_id":1092065687,
+            "locality_id":1344008377,
+            "region_id":85673751
+        }
+    ],
+    "wof:id":1344008377,
+    "wof:lastmodified":1536951170,
+    "wof:name":"Ihala Kotiyawa",
+    "wof:parent_id":1092065687,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    80.4104,
+    8.4954,
+    80.4104,
+    8.4954
+],
+  "geometry": {"coordinates":[80.4104,8.4954],"type":"Point"}
+}

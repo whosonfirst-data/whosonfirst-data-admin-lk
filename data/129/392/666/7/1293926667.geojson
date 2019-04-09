@@ -1,0 +1,67 @@
+{
+  "id": 1293926667,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"81.6,7.23333,81.6,7.23333",
+    "geom:latitude":7.23333,
+    "geom:longitude":81.6,
+    "gn:admin1_code":"37.0",
+    "gn:asciiname":"Medawatta",
+    "gn:country_code":"LK",
+    "gn:dem":42,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1235504,
+    "gn:latitude":7.23333,
+    "gn:longitude":81.6,
+    "gn:modification_date":"2012-04-05",
+    "gn:name":"Medawatta",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632313,
+        85673733,
+        890450157
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1235504
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"b8bc83795780b95b0c2393024c70aa24",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "county_id":890450157,
+            "locality_id":1293926667,
+            "region_id":85673733
+        }
+    ],
+    "wof:id":1293926667,
+    "wof:lastmodified":1536650982,
+    "wof:name":"Medawatta",
+    "wof:parent_id":890450157,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    81.6,
+    7.23333,
+    81.6,
+    7.23333
+],
+  "geometry": {"coordinates":[81.59999999999999,7.23333],"type":"Point"}
+}

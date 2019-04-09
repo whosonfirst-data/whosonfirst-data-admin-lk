@@ -1,0 +1,102 @@
+{
+  "id": 1126065165,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"79.86667,6.95,79.86667,6.95",
+    "geom:latitude":6.95,
+    "geom:longitude":79.86667,
+    "gn:gn_country":"LK",
+    "gn:gn_fcode":"PPLX",
+    "gn:gn_pop":0,
+    "gn:latitude":6.95,
+    "gn:longitude":79.86667,
+    "iso:country":"LK",
+    "lbl:latitude":6.95,
+    "lbl:longitude":79.86667,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:eng_x_preferred":[
+        "Mutwal"
+    ],
+    "name:unk_x_variant":[
+        "Mutwal"
+    ],
+    "qs_pg:aaroncc":"LK",
+    "qs_pg:gn_country":"LK",
+    "qs_pg:gn_fcode":"PPLX",
+    "qs_pg:gn_id":1234132,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Mutwal",
+    "qs_pg:name_adm0":"Sri Lanka",
+    "qs_pg:name_adm1":"Western",
+    "qs_pg:photos":79,
+    "qs_pg:photos_1k":16,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":3,
+    "qs_pg:photos_all":79,
+    "qs_pg:photos_sr":3,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":898612,
+    "qs_pg:qs_pg_placetype":"neighbourhood",
+    "qs_pg:qs_pg_placetype_gp":"Suburb",
+    "qs_pg:woe_adm0":23424778,
+    "qs_pg:woe_id":2183355,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424778,
+    "woe:name_adm0":"Sri Lanka",
+    "woe:name_adm1":"Western",
+    "woe:placetype":"Suburb",
+    "wof:belongsto":[
+        85673811,
+        102191569,
+        85632313,
+        1092057419
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1234132,
+        "gp:id":2183355,
+        "qs:id":898612,
+        "qs_pg:id":898612,
+        "wd:id":"Q6888043",
+        "wk:page":"Modara"
+    },
+    "wof:country":"LK",
+    "wof:created":1497308763,
+    "wof:geomhash":"f5d219de1650610922a701426cf6f116",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "county_id":1092057419,
+            "locality_id":-1,
+            "neighbourhood_id":1126065165,
+            "region_id":85673811
+        }
+    ],
+    "wof:id":1126065165,
+    "wof:lastmodified":1534379376,
+    "wof:name":"Mutwal",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        85772771
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    79.86667,
+    6.95,
+    79.86667,
+    6.95
+],
+  "geometry": {"coordinates":[79.86667,6.95],"type":"Point"}
+}

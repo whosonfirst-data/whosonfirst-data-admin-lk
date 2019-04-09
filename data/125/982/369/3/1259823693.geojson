@@ -1,0 +1,67 @@
+{
+  "id": 1259823693,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"80.0751,6.4503,80.0751,6.4503",
+    "geom:latitude":6.4503,
+    "geom:longitude":80.0751,
+    "gn:admin1_code":"36.0",
+    "gn:asciiname":"Galmatta",
+    "gn:country_code":"LK",
+    "gn:dem":7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7556753,
+    "gn:latitude":6.4503,
+    "gn:longitude":80.0751,
+    "gn:modification_date":"2010-10-09",
+    "gn:name":"Galmatta",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632313,
+        85673819,
+        1092062959
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7556753
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"6f13b442316bb71d5c898f150c7f97f9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "county_id":1092062959,
+            "locality_id":1259823693,
+            "region_id":85673819
+        }
+    ],
+    "wof:id":1259823693,
+    "wof:lastmodified":1536864040,
+    "wof:name":"Galmatta",
+    "wof:parent_id":1092062959,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    80.0751,
+    6.4503,
+    80.0751,
+    6.4503
+],
+  "geometry": {"coordinates":[80.07510000000001,6.4503],"type":"Point"}
+}

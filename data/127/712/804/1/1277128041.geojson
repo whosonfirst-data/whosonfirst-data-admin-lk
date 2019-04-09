@@ -1,0 +1,70 @@
+{
+  "id": 1277128041,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"80.3938,8.7018,80.3938,8.7018",
+    "geom:latitude":8.7018,
+    "geom:longitude":80.3938,
+    "gn:admin1_code":"38.0",
+    "gn:asciiname":"Awarantulawa",
+    "gn:country_code":"LK",
+    "gn:dem":75,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1250727,
+    "gn:latitude":8.7018,
+    "gn:longitude":80.3938,
+    "gn:modification_date":"2012-04-05",
+    "gn:name":"Awarantulawa",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Avarantulawa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632313,
+        85673757,
+        1092067431
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1250727
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"e9172d76fe1e2e1171ee18c44e6b981f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "county_id":1092067431,
+            "locality_id":1277128041,
+            "region_id":85673757
+        }
+    ],
+    "wof:id":1277128041,
+    "wof:lastmodified":1537661594,
+    "wof:name":"Awarantulawa",
+    "wof:parent_id":1092067431,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    80.3938,
+    8.7018,
+    80.3938,
+    8.7018
+],
+  "geometry": {"coordinates":[80.3938,8.7018],"type":"Point"}
+}

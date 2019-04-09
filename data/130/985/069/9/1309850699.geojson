@@ -1,0 +1,73 @@
+{
+  "id": 1309850699,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"81.11667,7.03333,81.11667,7.03333",
+    "geom:latitude":7.03333,
+    "geom:longitude":81.11667,
+    "gn:admin1_code":"35.0",
+    "gn:asciiname":"Kahataruppa",
+    "gn:cc2":"LK",
+    "gn:country_code":"LK",
+    "gn:dem":797,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1242419,
+    "gn:latitude":7.03333,
+    "gn:longitude":81.11667,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Kahataruppa",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kahataruppe",
+        "Kahatarupe",
+        "Kahataruppa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632313,
+        85673801,
+        1092065181
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1242419
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"dbe47c87d04c85316d63a2afa6351a40",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "county_id":1092065181,
+            "locality_id":1309850699,
+            "region_id":85673801
+        }
+    ],
+    "wof:id":1309850699,
+    "wof:lastmodified":1537661520,
+    "wof:name":"Kahataruppa",
+    "wof:parent_id":1092065181,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    81.11667,
+    7.03333,
+    81.11667,
+    7.03333
+],
+  "geometry": {"coordinates":[81.11667,7.03333],"type":"Point"}
+}

@@ -1,0 +1,76 @@
+{
+  "id": 421174187,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"80.8734,6.5138,80.8734,6.5138",
+    "geom:latitude":6.5138,
+    "geom:longitude":80.8734,
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "qs:gn_country":"LK",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":1227914,
+    "qs:gn_pop":0,
+    "qs:name":"Sinuggala",
+    "qs:name_adm0":"Sri Lanka",
+    "qs:name_adm1":"Uva",
+    "qs:photos":271,
+    "qs:photos_1k":55,
+    "qs:photos_9k":1,
+    "qs:photos_9r":4,
+    "qs:photos_all":271,
+    "qs:photos_sr":5,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":317702,
+    "qs:woe_adm0":23424778,
+    "qs:woe_id":2189549,
+    "src:geom":"quattroshapes",
+    "wof:belongsto":[
+        102191569,
+        85632313,
+        85673803,
+        1092066537
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1227914,
+        "gp:id":2189549,
+        "qs:id":317702
+    },
+    "wof:country":"LK",
+    "wof:created":1459009022,
+    "wof:geomhash":"381f62183cb8dcb8336e36757408c5ff",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "county_id":1092066537,
+            "locality_id":421174187,
+            "region_id":85673803
+        }
+    ],
+    "wof:id":421174187,
+    "wof:lastmodified":1500070303,
+    "wof:name":"Sinuggala",
+    "wof:parent_id":1092066537,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    80.8734,
+    6.5138,
+    80.8734,
+    6.5138
+],
+  "geometry": {"coordinates":[80.8734,6.5138],"type":"Point"}
+}

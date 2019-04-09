@@ -1,0 +1,67 @@
+{
+  "id": 1193076977,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"79.8738,7.2666,79.8738,7.2666",
+    "geom:latitude":7.2666,
+    "geom:longitude":79.8738,
+    "gn:admin1_code":"36.0",
+    "gn:asciiname":"Obberiya",
+    "gn:country_code":"LK",
+    "gn:dem":20,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1232759,
+    "gn:latitude":7.2666,
+    "gn:longitude":79.8738,
+    "gn:modification_date":"1994-01-08",
+    "gn:name":"Obberiya",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632313,
+        85673815,
+        1092060643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1232759
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"e2b5ded0dd00a16b363b84f7e89734c9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "county_id":1092060643,
+            "locality_id":1193076977,
+            "region_id":85673815
+        }
+    ],
+    "wof:id":1193076977,
+    "wof:lastmodified":1536363617,
+    "wof:name":"Obberiya",
+    "wof:parent_id":1092060643,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    79.8738,
+    7.2666,
+    79.8738,
+    7.2666
+],
+  "geometry": {"coordinates":[79.8738,7.2666],"type":"Point"}
+}

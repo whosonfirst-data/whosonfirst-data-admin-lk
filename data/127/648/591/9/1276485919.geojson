@@ -1,0 +1,67 @@
+{
+  "id": 1276485919,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"80.8651,6.9632,80.8651,6.9632",
+    "geom:latitude":6.9632,
+    "geom:longitude":80.8651,
+    "gn:admin1_code":"35.0",
+    "gn:asciiname":"Korandakumbura",
+    "gn:country_code":"LK",
+    "gn:dem":1251,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7616437,
+    "gn:latitude":6.9632,
+    "gn:longitude":80.8651,
+    "gn:modification_date":"2010-12-04",
+    "gn:name":"Korandakumbura",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632313,
+        85673801,
+        1092067051
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7616437
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"f2dd2aa042b5f86ec9f4f1135031985a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "county_id":1092067051,
+            "locality_id":1276485919,
+            "region_id":85673801
+        }
+    ],
+    "wof:id":1276485919,
+    "wof:lastmodified":1537068509,
+    "wof:name":"Korandakumbura",
+    "wof:parent_id":1092067051,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    80.8651,
+    6.9632,
+    80.8651,
+    6.9632
+],
+  "geometry": {"coordinates":[80.8651,6.9632],"type":"Point"}
+}

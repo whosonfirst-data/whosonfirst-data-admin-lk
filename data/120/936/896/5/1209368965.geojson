@@ -1,0 +1,61 @@
+{
+  "id": 1209368965,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"80.4277,6.9325,80.4277,6.9325",
+    "geom:latitude":6.9325,
+    "geom:longitude":80.4277,
+    "gn:admin1_code":"33.0",
+    "gn:asciiname":"Imbulpitikanda",
+    "gn:country_code":"LK",
+    "gn:dem":357,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7546340,
+    "gn:latitude":6.9325,
+    "gn:longitude":80.4277,
+    "gn:modification_date":"2010-10-09",
+    "gn:name":"Imbulpitikanda",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632313
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7546340
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"ba2966b826491a89eb0457700a0c6468",
+    "wof:hierarchy":[
+        {
+            "country_id":85632313,
+            "locality_id":1209368965
+        }
+    ],
+    "wof:id":1209368965,
+    "wof:lastmodified":1536289173,
+    "wof:name":"Imbulpitikanda",
+    "wof:parent_id":85632313,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    80.4277,
+    6.9325,
+    80.4277,
+    6.9325
+],
+  "geometry": {"coordinates":[80.4277,6.9325],"type":"Point"}
+}

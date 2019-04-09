@@ -1,0 +1,68 @@
+{
+  "id": 1309948651,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"80.0137,9.8135,80.0137,9.8135",
+    "geom:latitude":9.8135,
+    "geom:longitude":80.0137,
+    "gn:admin1_code":"38.0",
+    "gn:asciiname":"Keerimalai",
+    "gn:country_code":"LK",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1240724,
+    "gn:latitude":9.8135,
+    "gn:longitude":80.0137,
+    "gn:modification_date":"2012-04-05",
+    "gn:name":"Keerimalai",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kirimalai",
+        "Keerimalai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1240724,
+        "wk:page":"Keerimalai"
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"99c2c09710a2f560d8ef883f8e57d01a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":-1,
+            "locality_id":1309948651,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1309948651,
+    "wof:lastmodified":1537661506,
+    "wof:name":"Keerimalai",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    80.0137,
+    9.8135,
+    80.0137,
+    9.8135
+],
+  "geometry": {"coordinates":[80.0137,9.8135],"type":"Point"}
+}

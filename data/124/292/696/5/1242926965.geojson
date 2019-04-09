@@ -1,0 +1,71 @@
+{
+  "id": 1242926965,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"81.1285,6.4331,81.1285,6.4331",
+    "geom:latitude":6.4331,
+    "geom:longitude":81.1285,
+    "gn:admin1_code":"35.0",
+    "gn:asciiname":"Tanamalwila",
+    "gn:country_code":"LK",
+    "gn:dem":70,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1227046,
+    "gn:latitude":6.4331,
+    "gn:longitude":81.1285,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Tanamalwila",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tanamalwik",
+        "Tanamalwila"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632313,
+        85673803,
+        1092066537
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1227046
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"7ba1de0e8ec54f4c99f956e3f50738ff",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "county_id":1092066537,
+            "locality_id":1242926965,
+            "region_id":85673803
+        }
+    ],
+    "wof:id":1242926965,
+    "wof:lastmodified":1537661379,
+    "wof:name":"Tanamalwila",
+    "wof:parent_id":1092066537,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    81.1285,
+    6.4331,
+    81.1285,
+    6.4331
+],
+  "geometry": {"coordinates":[81.1285,6.4331],"type":"Point"}
+}

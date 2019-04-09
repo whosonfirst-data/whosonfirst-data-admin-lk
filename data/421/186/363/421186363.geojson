@@ -1,0 +1,90 @@
+{
+  "id": 421186363,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"80.7453,6.9417,80.7453,6.9417",
+    "geom:latitude":6.9417,
+    "geom:longitude":80.7453,
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:dut_x_preferred":[
+        "Nanu Oya"
+    ],
+    "name:eng_x_preferred":[
+        "Nanu Oya"
+    ],
+    "name:fre_x_preferred":[
+        "Nanu Oya"
+    ],
+    "name:tam_x_preferred":[
+        "\u0ba8\u0bbe\u0ba9\u0bc1 \u0b93\u0baf\u0bbe"
+    ],
+    "qs:gn_country":"LK",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":1233747,
+    "qs:gn_pop":0,
+    "qs:name":"Nanu Oya",
+    "qs:name_adm0":"Sri Lanka",
+    "qs:name_adm1":"Central",
+    "qs:photos":98,
+    "qs:photos_1k":20,
+    "qs:photos_9k":1,
+    "qs:photos_9r":3,
+    "qs:photos_all":98,
+    "qs:photos_sr":3,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":1064613,
+    "qs:woe_adm0":23424778,
+    "qs:woe_id":2189615,
+    "src:geom":"quattroshapes",
+    "wof:belongsto":[
+        102191569,
+        85632313,
+        85673731,
+        1092064313
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1233747,
+        "gp:id":2189615,
+        "qs:id":1064613,
+        "wd:id":"Q6964408",
+        "wk:page":"Nanu Oya (town)"
+    },
+    "wof:country":"LK",
+    "wof:created":1459009478,
+    "wof:geomhash":"761876f96aae5cd31f5152d11ad9ccaf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "county_id":1092064313,
+            "locality_id":421186363,
+            "region_id":85673731
+        }
+    ],
+    "wof:id":421186363,
+    "wof:lastmodified":1514470227,
+    "wof:name":"Nanu Oya",
+    "wof:parent_id":1092064313,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    80.7453,
+    6.9417,
+    80.7453,
+    6.9417
+],
+  "geometry": {"coordinates":[80.7453,6.9417],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1310653695,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"79.9807,6.7505,79.9807,6.7505",
+    "geom:latitude":6.7505,
+    "geom:longitude":79.9807,
+    "gn:admin1_code":"36.0",
+    "gn:asciiname":"Welmilla",
+    "gn:country_code":"LK",
+    "gn:dem":31,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1223554,
+    "gn:latitude":6.7505,
+    "gn:longitude":79.9807,
+    "gn:modification_date":"1994-01-08",
+    "gn:name":"Welmilla",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632313,
+        85673819,
+        1092059431
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1223554
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"5db9b1f248cf9b7f43ecbe815ddeae3b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "county_id":1092059431,
+            "locality_id":1310653695,
+            "region_id":85673819
+        }
+    ],
+    "wof:id":1310653695,
+    "wof:lastmodified":1536703524,
+    "wof:name":"Welmilla",
+    "wof:parent_id":1092059431,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    79.9807,
+    6.7505,
+    79.9807,
+    6.7505
+],
+  "geometry": {"coordinates":[79.9807,6.7505],"type":"Point"}
+}

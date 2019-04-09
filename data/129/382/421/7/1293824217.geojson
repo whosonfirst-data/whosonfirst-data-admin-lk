@@ -1,0 +1,67 @@
+{
+  "id": 1293824217,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"80.1338,7.0946,80.1338,7.0946",
+    "geom:latitude":7.0946,
+    "geom:longitude":80.1338,
+    "gn:admin1_code":"36.0",
+    "gn:asciiname":"Bopetta",
+    "gn:country_code":"LK",
+    "gn:dem":50,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1249635,
+    "gn:latitude":7.0946,
+    "gn:longitude":80.1338,
+    "gn:modification_date":"1994-01-08",
+    "gn:name":"Bopetta",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632313,
+        85673815,
+        1092056721
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1249635
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"13cf2998116d53543d0f30f67e08c7d3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "county_id":1092056721,
+            "locality_id":1293824217,
+            "region_id":85673815
+        }
+    ],
+    "wof:id":1293824217,
+    "wof:lastmodified":1536798809,
+    "wof:name":"Bopetta",
+    "wof:parent_id":1092056721,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    80.1338,
+    7.0946,
+    80.1338,
+    7.0946
+],
+  "geometry": {"coordinates":[80.13379999999999,7.0946],"type":"Point"}
+}

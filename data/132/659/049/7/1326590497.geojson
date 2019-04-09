@@ -1,0 +1,67 @@
+{
+  "id": 1326590497,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"80.6935,8.7157,80.6935,8.7157",
+    "geom:latitude":8.7157,
+    "geom:longitude":80.6935,
+    "gn:admin1_code":"30.0",
+    "gn:asciiname":"Palu Hammulawetiya",
+    "gn:country_code":"LK",
+    "gn:dem":78,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7440165,
+    "gn:latitude":8.7157,
+    "gn:longitude":80.6935,
+    "gn:modification_date":"2010-08-07",
+    "gn:name":"Palu Hammulawetiya",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632313,
+        85673751,
+        1092060761
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7440165
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"ac31d6960c725934c4f98d5652b054fd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "county_id":1092060761,
+            "locality_id":1326590497,
+            "region_id":85673751
+        }
+    ],
+    "wof:id":1326590497,
+    "wof:lastmodified":1536900190,
+    "wof:name":"Palu Hammulawetiya",
+    "wof:parent_id":1092060761,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    80.6935,
+    8.7157,
+    80.6935,
+    8.7157
+],
+  "geometry": {"coordinates":[80.6935,8.7157],"type":"Point"}
+}

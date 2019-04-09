@@ -1,0 +1,67 @@
+{
+  "id": 1242729679,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"81.3,8.46667,81.3,8.46667",
+    "geom:latitude":8.46667,
+    "geom:longitude":81.3,
+    "gn:admin1_code":"37.0",
+    "gn:asciiname":"Sunkankuli",
+    "gn:country_code":"LK",
+    "gn:dem":7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1227532,
+    "gn:latitude":8.46667,
+    "gn:longitude":81.3,
+    "gn:modification_date":"2012-04-05",
+    "gn:name":"Sunkankuli",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632313,
+        85673747,
+        1092063685
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1227532
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"86d519307102845461109e251089d02b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "county_id":1092063685,
+            "locality_id":1242729679,
+            "region_id":85673747
+        }
+    ],
+    "wof:id":1242729679,
+    "wof:lastmodified":1536843798,
+    "wof:name":"Sunkankuli",
+    "wof:parent_id":1092063685,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    81.3,
+    8.46667,
+    81.3,
+    8.46667
+],
+  "geometry": {"coordinates":[81.3,8.46667],"type":"Point"}
+}

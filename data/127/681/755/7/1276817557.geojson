@@ -1,0 +1,67 @@
+{
+  "id": 1276817557,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"79.9435,7.4529,79.9435,7.4529",
+    "geom:latitude":7.4529,
+    "geom:longitude":79.9435,
+    "gn:admin1_code":"32.0",
+    "gn:asciiname":"Bibiladeniya",
+    "gn:country_code":"LK",
+    "gn:dem":31,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1249907,
+    "gn:latitude":7.4529,
+    "gn:longitude":79.9435,
+    "gn:modification_date":"1994-01-08",
+    "gn:name":"Bibiladeniya",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632313,
+        85673777,
+        1092066989
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1249907
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"5341b36513edcda98ee581568d412c24",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "county_id":1092066989,
+            "locality_id":1276817557,
+            "region_id":85673777
+        }
+    ],
+    "wof:id":1276817557,
+    "wof:lastmodified":1536625313,
+    "wof:name":"Bibiladeniya",
+    "wof:parent_id":1092066989,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    79.9435,
+    7.4529,
+    79.9435,
+    7.4529
+],
+  "geometry": {"coordinates":[79.9435,7.4529],"type":"Point"}
+}

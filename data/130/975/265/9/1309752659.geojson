@@ -1,0 +1,67 @@
+{
+  "id": 1309752659,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"80.5077,7.9688,80.5077,7.9688",
+    "geom:latitude":7.9688,
+    "geom:longitude":80.5077,
+    "gn:admin1_code":"30.0",
+    "gn:asciiname":"Pahalagama",
+    "gn:country_code":"LK",
+    "gn:dem":144,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1232314,
+    "gn:latitude":7.9688,
+    "gn:longitude":80.5077,
+    "gn:modification_date":"1994-01-08",
+    "gn:name":"Pahalagama",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632313,
+        85673751,
+        1092064793
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1232314
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"2a35ccde69f224d7270e48ca5d63a92b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "county_id":1092064793,
+            "locality_id":1309752659,
+            "region_id":85673751
+        }
+    ],
+    "wof:id":1309752659,
+    "wof:lastmodified":1537006957,
+    "wof:name":"Pahalagama",
+    "wof:parent_id":1092064793,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    80.5077,
+    7.9688,
+    80.5077,
+    7.9688
+],
+  "geometry": {"coordinates":[80.5077,7.9688],"type":"Point"}
+}

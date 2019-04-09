@@ -1,0 +1,67 @@
+{
+  "id": 1226092747,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"80.7402,7.3773,80.7402,7.3773",
+    "geom:latitude":7.3773,
+    "geom:longitude":80.7402,
+    "gn:admin1_code":"29.0",
+    "gn:asciiname":"Dikhinna Patana",
+    "gn:country_code":"LK",
+    "gn:dem":677,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7433864,
+    "gn:latitude":7.3773,
+    "gn:longitude":80.7402,
+    "gn:modification_date":"2010-08-07",
+    "gn:name":"Dikhinna Patana",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632313,
+        85673719,
+        1092065061
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7433864
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"62f186b20c96405931feccc4a2de5c26",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "county_id":1092065061,
+            "locality_id":1226092747,
+            "region_id":85673719
+        }
+    ],
+    "wof:id":1226092747,
+    "wof:lastmodified":1536657555,
+    "wof:name":"Dikhinna Patana",
+    "wof:parent_id":1092065061,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    80.7402,
+    7.3773,
+    80.7402,
+    7.3773
+],
+  "geometry": {"coordinates":[80.7402,7.3773],"type":"Point"}
+}

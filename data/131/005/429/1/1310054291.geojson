@@ -1,0 +1,67 @@
+{
+  "id": 1310054291,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"80.6026,6.5365,80.6026,6.5365",
+    "geom:latitude":6.5365,
+    "geom:longitude":80.6026,
+    "gn:admin1_code":"33.0",
+    "gn:asciiname":"Panawala",
+    "gn:country_code":"LK",
+    "gn:dem":206,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1231319,
+    "gn:latitude":6.5365,
+    "gn:longitude":80.6026,
+    "gn:modification_date":"1994-01-08",
+    "gn:name":"Panawala",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632313,
+        85673785,
+        1092058825
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1231319
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"69f6bb86eba4e454e9cc91aad0dcbbc3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "county_id":1092058825,
+            "locality_id":1310054291,
+            "region_id":85673785
+        }
+    ],
+    "wof:id":1310054291,
+    "wof:lastmodified":1537067542,
+    "wof:name":"Panawala",
+    "wof:parent_id":1092058825,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    80.6026,
+    6.5365,
+    80.6026,
+    6.5365
+],
+  "geometry": {"coordinates":[80.6026,6.5365],"type":"Point"}
+}

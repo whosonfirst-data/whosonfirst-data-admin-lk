@@ -1,0 +1,77 @@
+{
+  "id": 421197217,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"80.53333,5.95,80.53333,5.95",
+    "geom:latitude":5.95,
+    "geom:longitude":80.53333,
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "qs:gn_country":"LK",
+    "qs:gn_fcode":"PPLX",
+    "qs:gn_id":1245711,
+    "qs:gn_pop":0,
+    "qs:name":"Ginigasmulla",
+    "qs:name_adm0":"Sri Lanka",
+    "qs:name_adm1":"Southern",
+    "qs:photos":10,
+    "qs:photos_1k":2,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":10,
+    "qs:photos_sr":1,
+    "qs:placetype":"Suburb",
+    "qs:pop_sr":"0",
+    "qs:qs_id":44747,
+    "qs:woe_adm0":23424778,
+    "qs:woe_id":2176840,
+    "src:geom":"quattroshapes",
+    "wof:belongsto":[
+        102191569,
+        85632313,
+        1092062917,
+        85673795
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1245711,
+        "gp:id":2176840,
+        "qs:id":44747
+    },
+    "wof:country":"LK",
+    "wof:created":1459009906,
+    "wof:geomhash":"6ad330c0e0c10bcdc5b4dbb81db47dc8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "county_id":1092062917,
+            "locality_id":-1,
+            "neighbourhood_id":421197217,
+            "region_id":85673795
+        }
+    ],
+    "wof:id":421197217,
+    "wof:lastmodified":1531858753,
+    "wof:name":"Ginigasmulla",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    80.53333,
+    5.95,
+    80.53333,
+    5.95
+],
+  "geometry": {"coordinates":[80.53333000000001,5.95],"type":"Point"}
+}

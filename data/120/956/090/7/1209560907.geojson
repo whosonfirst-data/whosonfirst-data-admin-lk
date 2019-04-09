@@ -1,0 +1,61 @@
+{
+  "id": 1209560907,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"80.2816,7.6091,80.2816,7.6091",
+    "geom:latitude":7.6091,
+    "geom:longitude":80.2816,
+    "gn:admin1_code":"32.0",
+    "gn:asciiname":"Potuhera",
+    "gn:country_code":"LK",
+    "gn:dem":97,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1229715,
+    "gn:latitude":7.6091,
+    "gn:longitude":80.2816,
+    "gn:modification_date":"1994-01-08",
+    "gn:name":"Potuhera",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632313
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1229715
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"a17795a8b8b0449c707cfdf6644b7ed0",
+    "wof:hierarchy":[
+        {
+            "country_id":85632313,
+            "locality_id":1209560907
+        }
+    ],
+    "wof:id":1209560907,
+    "wof:lastmodified":1536283394,
+    "wof:name":"Potuhera",
+    "wof:parent_id":85632313,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    80.2816,
+    7.6091,
+    80.2816,
+    7.6091
+],
+  "geometry": {"coordinates":[80.2816,7.6091],"type":"Point"}
+}

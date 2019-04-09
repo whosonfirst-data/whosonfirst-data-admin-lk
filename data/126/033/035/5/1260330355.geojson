@@ -1,0 +1,74 @@
+{
+  "id": 1260330355,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"79.98854,8.92026,79.98854,8.92026",
+    "geom:latitude":8.92026,
+    "geom:longitude":79.98854,
+    "gn:admin1_code":"38.0",
+    "gn:admin2_code":"1236148.0",
+    "gn:asciiname":"Paalaikkuly",
+    "gn:country_code":"LK",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8436355,
+    "gn:latitude":8.92026,
+    "gn:longitude":79.98854,
+    "gn:modification_date":"2012-12-24",
+    "gn:name":"Paalaikkuly",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tam_x_historical":[
+        "\u0baa\u0bbe\u0bb2\u0bc8\u0b95\u0bcd\u0b95\u0bc1\u0bb3\u0bbf"
+    ],
+    "name:tam_x_preferred":[
+        "\u0baa\u0bbe\u0bb2\u0bc8\u0b95\u0bcd\u0b95\u0bc1\u0bb3\u0bbf"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632313,
+        85673761,
+        1092062755
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8436355
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"8e318b2630de37b2c1f2774e59a6eeaa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "county_id":1092062755,
+            "locality_id":1260330355,
+            "region_id":85673761
+        }
+    ],
+    "wof:id":1260330355,
+    "wof:lastmodified":1537551698,
+    "wof:name":"Paalaikkuly",
+    "wof:parent_id":1092062755,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    79.98854,
+    8.92026,
+    79.98854,
+    8.92026
+],
+  "geometry": {"coordinates":[79.98854,8.92026],"type":"Point"}
+}

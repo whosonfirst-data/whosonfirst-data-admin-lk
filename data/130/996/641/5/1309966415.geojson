@@ -1,0 +1,67 @@
+{
+  "id": 1309966415,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"80.8497,8.5614,80.8497,8.5614",
+    "geom:latitude":8.5614,
+    "geom:longitude":80.8497,
+    "gn:admin1_code":"30.0",
+    "gn:asciiname":"Maradankadawala",
+    "gn:country_code":"LK",
+    "gn:dem":74,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1236091,
+    "gn:latitude":8.5614,
+    "gn:longitude":80.8497,
+    "gn:modification_date":"1994-01-08",
+    "gn:name":"Maradankadawala",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632313,
+        85673751,
+        1092059481
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1236091
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"aca883b58217395c75ac40a6ff713eda",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "county_id":1092059481,
+            "locality_id":1309966415,
+            "region_id":85673751
+        }
+    ],
+    "wof:id":1309966415,
+    "wof:lastmodified":1536700059,
+    "wof:name":"Maradankadawala",
+    "wof:parent_id":1092059481,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    80.8497,
+    8.5614,
+    80.8497,
+    8.5614
+],
+  "geometry": {"coordinates":[80.8497,8.5614],"type":"Point"}
+}

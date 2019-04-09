@@ -1,0 +1,67 @@
+{
+  "id": 1327175229,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"80.26,6.0715,80.26,6.0715",
+    "geom:latitude":6.0715,
+    "geom:longitude":80.26,
+    "gn:admin1_code":"34.0",
+    "gn:asciiname":"Akmimana",
+    "gn:country_code":"LK",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1252146,
+    "gn:latitude":6.0715,
+    "gn:longitude":80.26,
+    "gn:modification_date":"1994-01-08",
+    "gn:name":"Akmimana",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632313,
+        85673789,
+        1092056215
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1252146
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"0145f761c86da6ea248f44f888de436d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "county_id":1092056215,
+            "locality_id":1327175229,
+            "region_id":85673789
+        }
+    ],
+    "wof:id":1327175229,
+    "wof:lastmodified":1537050036,
+    "wof:name":"Akmimana",
+    "wof:parent_id":1092056215,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    80.26,
+    6.0715,
+    80.26,
+    6.0715
+],
+  "geometry": {"coordinates":[80.26000000000001,6.0715],"type":"Point"}
+}

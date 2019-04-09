@@ -1,0 +1,72 @@
+{
+  "id": 1277123839,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"80.75,7.23333,80.75,7.23333",
+    "geom:latitude":7.23333,
+    "geom:longitude":80.75,
+    "gn:admin1_code":"29.0",
+    "gn:asciiname":"Palle Mailapitiya",
+    "gn:cc2":"LK",
+    "gn:country_code":"LK",
+    "gn:dem":555,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1231722,
+    "gn:latitude":7.23333,
+    "gn:longitude":80.75,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Palle Mailapitiya",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mailapitiya Lower",
+        "Palle Mailapitiya"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632313,
+        85673719,
+        1092065263
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1231722
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"633f2b8738e9b216d028fdc0b14f0fb0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "county_id":1092065263,
+            "locality_id":1277123839,
+            "region_id":85673719
+        }
+    ],
+    "wof:id":1277123839,
+    "wof:lastmodified":1537661423,
+    "wof:name":"Palle Mailapitiya",
+    "wof:parent_id":1092065263,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    80.75,
+    7.23333,
+    80.75,
+    7.23333
+],
+  "geometry": {"coordinates":[80.75,7.23333],"type":"Point"}
+}

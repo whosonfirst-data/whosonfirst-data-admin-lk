@@ -1,0 +1,67 @@
+{
+  "id": 1226495905,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"81.46667,7.31667,81.46667,7.31667",
+    "geom:latitude":7.31667,
+    "geom:longitude":81.46667,
+    "gn:admin1_code":"35.0",
+    "gn:asciiname":"Dambagolla",
+    "gn:country_code":"LK",
+    "gn:dem":132,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1248806,
+    "gn:latitude":7.31667,
+    "gn:longitude":81.46667,
+    "gn:modification_date":"1994-01-08",
+    "gn:name":"Dambagolla",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632313,
+        85673803,
+        1092062005
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1248806
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"572336e001ecc2e20a0c387e65601821",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "county_id":1092062005,
+            "locality_id":1226495905,
+            "region_id":85673803
+        }
+    ],
+    "wof:id":1226495905,
+    "wof:lastmodified":1537067067,
+    "wof:name":"Dambagolla",
+    "wof:parent_id":1092062005,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    81.46667,
+    7.31667,
+    81.46667,
+    7.31667
+],
+  "geometry": {"coordinates":[81.46666999999999,7.31667],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1259429813,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"80.6256,7.4767,80.6256,7.4767",
+    "geom:latitude":7.4767,
+    "geom:longitude":80.6256,
+    "gn:admin1_code":"29.0",
+    "gn:asciiname":"Gongawala",
+    "gn:country_code":"LK",
+    "gn:dem":358,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1245370,
+    "gn:latitude":7.4767,
+    "gn:longitude":80.6256,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Gongawala",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Gongawela",
+        "Gongawala"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632313,
+        85673723,
+        1092062869
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1245370
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"7ddc3a3e3b118358d397109b03966638",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "county_id":1092062869,
+            "locality_id":1259429813,
+            "region_id":85673723
+        }
+    ],
+    "wof:id":1259429813,
+    "wof:lastmodified":1537661548,
+    "wof:name":"Gongawala",
+    "wof:parent_id":1092062869,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    80.6256,
+    7.4767,
+    80.6256,
+    7.4767
+],
+  "geometry": {"coordinates":[80.62560000000001,7.4767],"type":"Point"}
+}

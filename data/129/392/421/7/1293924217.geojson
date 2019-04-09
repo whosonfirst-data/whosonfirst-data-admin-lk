@@ -1,0 +1,67 @@
+{
+  "id": 1293924217,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"81.0739,7.0703,81.0739,7.0703",
+    "geom:latitude":7.0703,
+    "geom:longitude":81.0739,
+    "gn:admin1_code":"35.0",
+    "gn:asciiname":"Gurumukalana",
+    "gn:country_code":"LK",
+    "gn:dem":671,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7474944,
+    "gn:latitude":7.0703,
+    "gn:longitude":81.0739,
+    "gn:modification_date":"2010-08-08",
+    "gn:name":"Gurumukalana",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632313,
+        85673801,
+        1092066285
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7474944
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"9caa9631e2165ea63318fa418763e4aa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "county_id":1092066285,
+            "locality_id":1293924217,
+            "region_id":85673801
+        }
+    ],
+    "wof:id":1293924217,
+    "wof:lastmodified":1536654606,
+    "wof:name":"Gurumukalana",
+    "wof:parent_id":1092066285,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    81.0739,
+    7.0703,
+    81.0739,
+    7.0703
+],
+  "geometry": {"coordinates":[81.07389999999999,7.0703],"type":"Point"}
+}

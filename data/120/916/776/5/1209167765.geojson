@@ -1,0 +1,61 @@
+{
+  "id": 1209167765,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"80.9397,6.9362,80.9397,6.9362",
+    "geom:latitude":6.9362,
+    "geom:longitude":80.9397,
+    "gn:admin1_code":"35.0",
+    "gn:asciiname":"Yahalearawa",
+    "gn:country_code":"LK",
+    "gn:dem":1099,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1223014,
+    "gn:latitude":6.9362,
+    "gn:longitude":80.9397,
+    "gn:modification_date":"1994-01-08",
+    "gn:name":"Yahalearawa",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632313
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1223014
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"ca5cd5950e7aca7fc8d4e262d38f76a7",
+    "wof:hierarchy":[
+        {
+            "country_id":85632313,
+            "locality_id":1209167765
+        }
+    ],
+    "wof:id":1209167765,
+    "wof:lastmodified":1536295685,
+    "wof:name":"Yahalearawa",
+    "wof:parent_id":85632313,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    80.9397,
+    6.9362,
+    80.9397,
+    6.9362
+],
+  "geometry": {"coordinates":[80.9397,6.9362],"type":"Point"}
+}

@@ -1,0 +1,61 @@
+{
+  "id": 1343917567,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"79.8013,8.2344,79.8013,8.2344",
+    "geom:latitude":8.2344,
+    "geom:longitude":79.8013,
+    "gn:admin1_code":"32.0",
+    "gn:asciiname":"Serakkuliya",
+    "gn:country_code":"LK",
+    "gn:dem":6,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7510461,
+    "gn:latitude":8.2344,
+    "gn:longitude":79.8013,
+    "gn:modification_date":"2010-08-14",
+    "gn:name":"Serakkuliya",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7510461
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"5c9cf600bef85016e2a35c91781a9b13",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1343917567,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1343917567,
+    "wof:lastmodified":1537078874,
+    "wof:name":"Serakkuliya",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    79.8013,
+    8.2344,
+    79.8013,
+    8.2344
+],
+  "geometry": {"coordinates":[79.8013,8.2344],"type":"Point"}
+}

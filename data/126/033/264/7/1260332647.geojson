@@ -1,0 +1,67 @@
+{
+  "id": 1260332647,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"81.0981,7.1974,81.0981,7.1974",
+    "geom:latitude":7.1974,
+    "geom:longitude":81.0981,
+    "gn:admin1_code":"35.0",
+    "gn:asciiname":"Bulugahawela",
+    "gn:country_code":"LK",
+    "gn:dem":416,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7474908,
+    "gn:latitude":7.1974,
+    "gn:longitude":81.0981,
+    "gn:modification_date":"2010-08-08",
+    "gn:name":"Bulugahawela",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632313,
+        85673801,
+        1092065929
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7474908
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"a15fca2a76004602ff4f9a2b37029450",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "county_id":1092065929,
+            "locality_id":1260332647,
+            "region_id":85673801
+        }
+    ],
+    "wof:id":1260332647,
+    "wof:lastmodified":1536645587,
+    "wof:name":"Bulugahawela",
+    "wof:parent_id":1092065929,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    81.0981,
+    7.1974,
+    81.0981,
+    7.1974
+],
+  "geometry": {"coordinates":[81.0981,7.1974],"type":"Point"}
+}

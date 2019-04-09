@@ -1,0 +1,67 @@
+{
+  "id": 1327078563,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"79.9859,7.1706,79.9859,7.1706",
+    "geom:latitude":7.1706,
+    "geom:longitude":79.9859,
+    "gn:admin1_code":"36.0",
+    "gn:asciiname":"Kamaragoda",
+    "gn:country_code":"LK",
+    "gn:dem":40,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1241916,
+    "gn:latitude":7.1706,
+    "gn:longitude":79.9859,
+    "gn:modification_date":"1994-01-08",
+    "gn:name":"Kamaragoda",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632313,
+        85673815,
+        1092063369
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1241916
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"5bc1736cfe5f21b6b4f8dc7dbced133a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "county_id":1092063369,
+            "locality_id":1327078563,
+            "region_id":85673815
+        }
+    ],
+    "wof:id":1327078563,
+    "wof:lastmodified":1536694181,
+    "wof:name":"Kamaragoda",
+    "wof:parent_id":1092063369,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    79.9859,
+    7.1706,
+    79.9859,
+    7.1706
+],
+  "geometry": {"coordinates":[79.9859,7.1706],"type":"Point"}
+}

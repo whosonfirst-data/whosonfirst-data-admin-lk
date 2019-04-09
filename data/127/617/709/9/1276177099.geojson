@@ -1,0 +1,67 @@
+{
+  "id": 1276177099,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"80.016,6.6869,80.016,6.6869",
+    "geom:latitude":6.6869,
+    "geom:longitude":80.016,
+    "gn:admin1_code":"36.0",
+    "gn:asciiname":"Ketagoda",
+    "gn:country_code":"LK",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7441375,
+    "gn:latitude":6.6869,
+    "gn:longitude":80.016,
+    "gn:modification_date":"2010-08-07",
+    "gn:name":"Ketagoda",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632313,
+        85673819,
+        1092063295
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7441375
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"e9d7201edb7048308a13983b5211ddae",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "county_id":1092063295,
+            "locality_id":1276177099,
+            "region_id":85673819
+        }
+    ],
+    "wof:id":1276177099,
+    "wof:lastmodified":1536987512,
+    "wof:name":"Ketagoda",
+    "wof:parent_id":1092063295,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    80.016,
+    6.6869,
+    80.016,
+    6.6869
+],
+  "geometry": {"coordinates":[80.01600000000001,6.6869],"type":"Point"}
+}

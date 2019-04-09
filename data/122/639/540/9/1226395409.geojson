@@ -1,0 +1,67 @@
+{
+  "id": 1226395409,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"79.8431,7.2697,79.8431,7.2697",
+    "geom:latitude":7.2697,
+    "geom:longitude":79.8431,
+    "gn:admin1_code":"36.0",
+    "gn:asciiname":"Kammalture",
+    "gn:country_code":"LK",
+    "gn:dem":5,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7437736,
+    "gn:latitude":7.2697,
+    "gn:longitude":79.8431,
+    "gn:modification_date":"2010-08-07",
+    "gn:name":"Kammalture",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632313,
+        85673815,
+        1092064053
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7437736
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"e4c0ac3df201facd9fba3bee945b0a5c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "county_id":1092064053,
+            "locality_id":1226395409,
+            "region_id":85673815
+        }
+    ],
+    "wof:id":1226395409,
+    "wof:lastmodified":1536718485,
+    "wof:name":"Kammalture",
+    "wof:parent_id":1092064053,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    79.8431,
+    7.2697,
+    79.8431,
+    7.2697
+],
+  "geometry": {"coordinates":[79.84310000000001,7.2697],"type":"Point"}
+}

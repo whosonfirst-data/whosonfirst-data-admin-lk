@@ -1,0 +1,72 @@
+{
+  "id": 1360029725,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"79.9639,7.2767,79.9639,7.2767",
+    "geom:latitude":7.2767,
+    "geom:longitude":79.9639,
+    "gn:admin1_code":"36.0",
+    "gn:asciiname":"Godigamuwa East",
+    "gn:country_code":"LK",
+    "gn:dem":30,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1245506,
+    "gn:latitude":7.2767,
+    "gn:longitude":79.9639,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Godigamuwa East",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Godigomuwa",
+        "Godigamuwa East",
+        "Godigamuwa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632313,
+        85673815,
+        1092057931
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1245506
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"47200e13fd49ae86e919a1a4e61b2508",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "county_id":1092057931,
+            "locality_id":1360029725,
+            "region_id":85673815
+        }
+    ],
+    "wof:id":1360029725,
+    "wof:lastmodified":1537661549,
+    "wof:name":"Godigamuwa East",
+    "wof:parent_id":1092057931,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    79.9639,
+    7.2767,
+    79.9639,
+    7.2767
+],
+  "geometry": {"coordinates":[79.9639,7.2767],"type":"Point"}
+}

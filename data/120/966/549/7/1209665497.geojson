@@ -1,0 +1,65 @@
+{
+  "id": 1209665497,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"80.482,8.3702,80.482,8.3702",
+    "geom:latitude":8.3702,
+    "geom:longitude":80.482,
+    "gn:admin1_code":"30.0",
+    "gn:asciiname":"Walakkadawala",
+    "gn:country_code":"LK",
+    "gn:dem":122,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1224521,
+    "gn:latitude":8.3702,
+    "gn:longitude":80.482,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Walakkadawala",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Walakkandawala",
+        "Walakkadawala"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632313
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1224521
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"93e8522905f01f9ebf1587544fdfe5bc",
+    "wof:hierarchy":[
+        {
+            "country_id":85632313,
+            "locality_id":1209665497
+        }
+    ],
+    "wof:id":1209665497,
+    "wof:lastmodified":1537661345,
+    "wof:name":"Walakkadawala",
+    "wof:parent_id":85632313,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    80.482,
+    8.3702,
+    80.482,
+    8.3702
+],
+  "geometry": {"coordinates":[80.482,8.3702],"type":"Point"}
+}

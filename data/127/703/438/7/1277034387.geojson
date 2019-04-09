@@ -1,0 +1,71 @@
+{
+  "id": 1277034387,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"80.1745,7.3972,80.1745,7.3972",
+    "geom:latitude":7.3972,
+    "geom:longitude":80.1745,
+    "gn:admin1_code":"32.0",
+    "gn:asciiname":"Mitiyagane",
+    "gn:country_code":"LK",
+    "gn:dem":66,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1235245,
+    "gn:latitude":7.3972,
+    "gn:longitude":80.1745,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Mitiyagane",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Metiyagane",
+        "Mitiyagane"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632313,
+        85673777,
+        1092063885
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1235245
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"bd92f5f3c702a922898e03b4e7c85a21",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "county_id":1092063885,
+            "locality_id":1277034387,
+            "region_id":85673777
+        }
+    ],
+    "wof:id":1277034387,
+    "wof:lastmodified":1537661458,
+    "wof:name":"Mitiyagane",
+    "wof:parent_id":1092063885,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    80.1745,
+    7.3972,
+    80.1745,
+    7.3972
+],
+  "geometry": {"coordinates":[80.17449999999999,7.3972],"type":"Point"}
+}

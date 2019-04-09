@@ -1,0 +1,67 @@
+{
+  "id": 1226402053,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"79.8478,7.306,79.8478,7.306",
+    "geom:latitude":7.306,
+    "geom:longitude":79.8478,
+    "gn:admin1_code":"32.0",
+    "gn:asciiname":"Kammala North",
+    "gn:country_code":"LK",
+    "gn:dem":16,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1241881,
+    "gn:latitude":7.306,
+    "gn:longitude":79.8478,
+    "gn:modification_date":"1994-01-08",
+    "gn:name":"Kammala North",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632313,
+        85673779,
+        1092068121
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1241881
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"4c523dffe16cdf22c3665f27737f8b4f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "county_id":1092068121,
+            "locality_id":1226402053,
+            "region_id":85673779
+        }
+    ],
+    "wof:id":1226402053,
+    "wof:lastmodified":1536708856,
+    "wof:name":"Kammala North",
+    "wof:parent_id":1092068121,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    79.8478,
+    7.306,
+    79.8478,
+    7.306
+],
+  "geometry": {"coordinates":[79.84780000000001,7.306],"type":"Point"}
+}

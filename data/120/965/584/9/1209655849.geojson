@@ -1,0 +1,61 @@
+{
+  "id": 1209655849,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"81.13333,7.35,81.13333,7.35",
+    "geom:latitude":7.35,
+    "geom:longitude":81.13333,
+    "gn:admin1_code":"35.0",
+    "gn:asciiname":"Kandubedda",
+    "gn:country_code":"LK",
+    "gn:dem":135,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1241648,
+    "gn:latitude":7.35,
+    "gn:longitude":81.13333,
+    "gn:modification_date":"1994-01-08",
+    "gn:name":"Kandubedda",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632313
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1241648
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"c7d6ddb16040428ebef4a721e2de0d9e",
+    "wof:hierarchy":[
+        {
+            "country_id":85632313,
+            "locality_id":1209655849
+        }
+    ],
+    "wof:id":1209655849,
+    "wof:lastmodified":1536280429,
+    "wof:name":"Kandubedda",
+    "wof:parent_id":85632313,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    81.13333,
+    7.35,
+    81.13333,
+    7.35
+],
+  "geometry": {"coordinates":[81.13333,7.35],"type":"Point"}
+}

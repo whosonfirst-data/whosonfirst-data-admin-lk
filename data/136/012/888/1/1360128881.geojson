@@ -1,0 +1,67 @@
+{
+  "id": 1360128881,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"80.1316,6.9261,80.1316,6.9261",
+    "geom:latitude":6.9261,
+    "geom:longitude":80.1316,
+    "gn:admin1_code":"36.0",
+    "gn:asciiname":"Karagalla",
+    "gn:country_code":"LK",
+    "gn:dem":45,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1241401,
+    "gn:latitude":6.9261,
+    "gn:longitude":80.1316,
+    "gn:modification_date":"1994-01-08",
+    "gn:name":"Karagalla",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632313,
+        85673811,
+        1092066109
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1241401
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"3a6e4937aa8c1e163f05b04b3b55ff42",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "county_id":1092066109,
+            "locality_id":1360128881,
+            "region_id":85673811
+        }
+    ],
+    "wof:id":1360128881,
+    "wof:lastmodified":1536881857,
+    "wof:name":"Karagalla",
+    "wof:parent_id":1092066109,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    80.1316,
+    6.9261,
+    80.1316,
+    6.9261
+],
+  "geometry": {"coordinates":[80.13160000000001,6.9261],"type":"Point"}
+}

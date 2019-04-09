@@ -1,0 +1,89 @@
+{
+  "id": 421176581,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"79.8695,6.9356,79.8695,6.9356",
+    "geom:latitude":6.9356,
+    "geom:longitude":79.8695,
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:sin_x_preferred":[
+        "\u0daf\u0dd9\u0db8\u0da7\u0d9c\u0ddc\u0da9"
+    ],
+    "name:tam_x_preferred":[
+        "\u0ba4\u0bc6\u0bae\u0b9f\u0bcd\u0b9f\u0b95\u0bca\u0b9f\u0bc8"
+    ],
+    "name:unk_x_variant":[
+        "Dematagala"
+    ],
+    "qs:gn_country":"LK",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":1248301,
+    "qs:gn_pop":0,
+    "qs:name":"Dematagoda",
+    "qs:name_adm0":"Sri Lanka",
+    "qs:name_adm1":"Western",
+    "qs:photos":1,
+    "qs:photos_1k":1,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":1,
+    "qs:photos_sr":1,
+    "qs:placetype":"Suburb",
+    "qs:pop_sr":"0",
+    "qs:qs_id":387204,
+    "qs:woe_adm0":23424778,
+    "qs:woe_id":2175389,
+    "src:geom":"quattroshapes",
+    "wd:wordcount":101,
+    "wof:belongsto":[
+        102191569,
+        85632313,
+        1092057419,
+        85673811
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1248301,
+        "gp:id":2175389,
+        "qs:id":387204,
+        "wd:id":"Q5255101",
+        "wk:page":"Dematagoda"
+    },
+    "wof:country":"LK",
+    "wof:created":1459009112,
+    "wof:geomhash":"c56dc0e8d24d5746eb44ea769618faac",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "county_id":1092057419,
+            "locality_id":-1,
+            "neighbourhood_id":421176581,
+            "region_id":85673811
+        }
+    ],
+    "wof:id":421176581,
+    "wof:lastmodified":1531858424,
+    "wof:name":"Dematagoda",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    79.8695,
+    6.9356,
+    79.8695,
+    6.9356
+],
+  "geometry": {"coordinates":[79.8695,6.9356],"type":"Point"}
+}

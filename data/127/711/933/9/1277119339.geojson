@@ -1,0 +1,67 @@
+{
+  "id": 1277119339,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"80.3589,9.6616,80.3589,9.6616",
+    "geom:latitude":9.6616,
+    "geom:longitude":80.3589,
+    "gn:admin1_code":"38.0",
+    "gn:asciiname":"Mamunai",
+    "gn:country_code":"LK",
+    "gn:dem":5,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1236354,
+    "gn:latitude":9.6616,
+    "gn:longitude":80.3589,
+    "gn:modification_date":"2012-04-05",
+    "gn:name":"Mamunai",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632313,
+        85673769,
+        1092067071
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1236354
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"de4a7c277ab2f13638f67c2416caca72",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "county_id":1092067071,
+            "locality_id":1277119339,
+            "region_id":85673769
+        }
+    ],
+    "wof:id":1277119339,
+    "wof:lastmodified":1536715237,
+    "wof:name":"Mamunai",
+    "wof:parent_id":1092067071,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    80.3589,
+    9.6616,
+    80.3589,
+    9.6616
+],
+  "geometry": {"coordinates":[80.35890000000001,9.6616],"type":"Point"}
+}

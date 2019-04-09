@@ -1,0 +1,67 @@
+{
+  "id": 1326580333,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"80.797,7.0519,80.797,7.0519",
+    "geom:latitude":7.0519,
+    "geom:longitude":80.797,
+    "gn:admin1_code":"29.0",
+    "gn:asciiname":"Gonapitiya",
+    "gn:country_code":"LK",
+    "gn:dem":1609,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8304337,
+    "gn:latitude":7.0519,
+    "gn:longitude":80.797,
+    "gn:modification_date":"2012-06-07",
+    "gn:name":"Gonapitiya",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632313,
+        85673731,
+        1092059139
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8304337
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"b1394d2aa3776e139b3e151b6236361f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "county_id":1092059139,
+            "locality_id":1326580333,
+            "region_id":85673731
+        }
+    ],
+    "wof:id":1326580333,
+    "wof:lastmodified":1536915283,
+    "wof:name":"Gonapitiya",
+    "wof:parent_id":1092059139,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    80.797,
+    7.0519,
+    80.797,
+    7.0519
+],
+  "geometry": {"coordinates":[80.797,7.0519],"type":"Point"}
+}

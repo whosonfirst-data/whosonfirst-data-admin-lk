@@ -1,0 +1,67 @@
+{
+  "id": 1209962227,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"80.085,7.90778,80.085,7.90778",
+    "geom:latitude":7.90778,
+    "geom:longitude":80.085,
+    "gn:admin1_code":"32.0",
+    "gn:asciiname":"Kelegama",
+    "gn:country_code":"LK",
+    "gn:dem":65,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1240614,
+    "gn:latitude":7.90778,
+    "gn:longitude":80.085,
+    "gn:modification_date":"1999-08-04",
+    "gn:name":"Kelegama",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632313,
+        85673777,
+        1092061409
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1240614
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"2bd80eb407ca230afbd1e2fb45dcde3f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "county_id":1092061409,
+            "locality_id":1209962227,
+            "region_id":85673777
+        }
+    ],
+    "wof:id":1209962227,
+    "wof:lastmodified":1536372279,
+    "wof:name":"Kelegama",
+    "wof:parent_id":1092061409,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    80.085,
+    7.90778,
+    80.085,
+    7.90778
+],
+  "geometry": {"coordinates":[80.08499999999999,7.90778],"type":"Point"}
+}

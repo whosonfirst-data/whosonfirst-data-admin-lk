@@ -1,0 +1,72 @@
+{
+  "id": 1226687065,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"81.03333,7.06667,81.03333,7.06667",
+    "geom:latitude":7.06667,
+    "geom:longitude":81.03333,
+    "gn:admin1_code":"35.0",
+    "gn:asciiname":"Kadarawa",
+    "gn:cc2":"LK",
+    "gn:country_code":"LK",
+    "gn:dem":733,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1242685,
+    "gn:latitude":7.06667,
+    "gn:longitude":81.03333,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Kadarawa",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kaddearawa",
+        "Kadarawa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632313,
+        85673801,
+        1092066285
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1242685
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"542ed609a2600e69fcf3730eff649ec1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "county_id":1092066285,
+            "locality_id":1226687065,
+            "region_id":85673801
+        }
+    ],
+    "wof:id":1226687065,
+    "wof:lastmodified":1537661523,
+    "wof:name":"Kadarawa",
+    "wof:parent_id":1092066285,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    81.03333,
+    7.06667,
+    81.03333,
+    7.06667
+],
+  "geometry": {"coordinates":[81.03333000000001,7.06667],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1225789485,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"79.88333,6.81667,79.88333,6.81667",
+    "geom:latitude":6.81667,
+    "geom:longitude":79.88333,
+    "gn:admin1_code":"36.0",
+    "gn:asciiname":"Ratmalana South",
+    "gn:country_code":"LK",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1228790,
+    "gn:latitude":6.81667,
+    "gn:longitude":79.88333,
+    "gn:modification_date":"1994-01-08",
+    "gn:name":"Ratmalana South",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632313,
+        85673811,
+        1092065801
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1228790
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"90dac85112ef88810acc5b0b3c5f5687",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "county_id":1092065801,
+            "locality_id":1225789485,
+            "region_id":85673811
+        }
+    ],
+    "wof:id":1225789485,
+    "wof:lastmodified":1537091650,
+    "wof:name":"Ratmalana South",
+    "wof:parent_id":1092065801,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    79.88333,
+    6.81667,
+    79.88333,
+    6.81667
+],
+  "geometry": {"coordinates":[79.88333,6.81667],"type":"Point"}
+}

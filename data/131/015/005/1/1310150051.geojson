@@ -1,0 +1,67 @@
+{
+  "id": 1310150051,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"80.0503,7.0074,80.0503,7.0074",
+    "geom:latitude":7.0074,
+    "geom:longitude":80.0503,
+    "gn:admin1_code":"36.0",
+    "gn:asciiname":"Parakadamulla",
+    "gn:country_code":"LK",
+    "gn:dem":31,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1231009,
+    "gn:latitude":7.0074,
+    "gn:longitude":80.0503,
+    "gn:modification_date":"1994-01-08",
+    "gn:name":"Parakadamulla",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632313,
+        85673815,
+        1092058055
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1231009
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"7050aa7e147a47a2cf36e7281b58e097",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "county_id":1092058055,
+            "locality_id":1310150051,
+            "region_id":85673815
+        }
+    ],
+    "wof:id":1310150051,
+    "wof:lastmodified":1536933101,
+    "wof:name":"Parakadamulla",
+    "wof:parent_id":1092058055,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    80.0503,
+    7.0074,
+    80.0503,
+    7.0074
+],
+  "geometry": {"coordinates":[80.05029999999999,7.0074],"type":"Point"}
+}

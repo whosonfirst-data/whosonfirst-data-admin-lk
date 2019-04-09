@@ -1,0 +1,67 @@
+{
+  "id": 1293147307,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"81.03333,7.76667,81.03333,7.76667",
+    "geom:latitude":7.76667,
+    "geom:longitude":81.03333,
+    "gn:admin1_code":"30.0",
+    "gn:asciiname":"Kalukelebe",
+    "gn:country_code":"LK",
+    "gn:dem":54,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1241993,
+    "gn:latitude":7.76667,
+    "gn:longitude":81.03333,
+    "gn:modification_date":"1994-01-08",
+    "gn:name":"Kalukelebe",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632313,
+        85673743,
+        1092057891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1241993
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"dc49c39b6069465c9213b1966e7d3d68",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "county_id":1092057891,
+            "locality_id":1293147307,
+            "region_id":85673743
+        }
+    ],
+    "wof:id":1293147307,
+    "wof:lastmodified":1536781115,
+    "wof:name":"Kalukelebe",
+    "wof:parent_id":1092057891,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    81.03333,
+    7.76667,
+    81.03333,
+    7.76667
+],
+  "geometry": {"coordinates":[81.03333000000001,7.76667],"type":"Point"}
+}

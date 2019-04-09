@@ -1,0 +1,67 @@
+{
+  "id": 1310554369,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"80.2116,6.5572,80.2116,6.5572",
+    "geom:latitude":6.5572,
+    "geom:longitude":80.2116,
+    "gn:admin1_code":"36.0",
+    "gn:asciiname":"Ilukpatha",
+    "gn:country_code":"LK",
+    "gn:dem":144,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7437126,
+    "gn:latitude":6.5572,
+    "gn:longitude":80.2116,
+    "gn:modification_date":"2010-08-07",
+    "gn:name":"Ilukpatha",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632313,
+        85673819,
+        1092064831
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7437126
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"857da590440e019f37b09cbe30c3fd2c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "county_id":1092064831,
+            "locality_id":1310554369,
+            "region_id":85673819
+        }
+    ],
+    "wof:id":1310554369,
+    "wof:lastmodified":1536845504,
+    "wof:name":"Ilukpatha",
+    "wof:parent_id":1092064831,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    80.2116,
+    6.5572,
+    80.2116,
+    6.5572
+],
+  "geometry": {"coordinates":[80.2116,6.5572],"type":"Point"}
+}

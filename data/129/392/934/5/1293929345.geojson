@@ -1,0 +1,70 @@
+{
+  "id": 1293929345,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"79.8759,7.2998,79.8759,7.2998",
+    "geom:latitude":7.2998,
+    "geom:longitude":79.8759,
+    "gn:admin1_code":"32.0",
+    "gn:asciiname":"Pitagara",
+    "gn:country_code":"LK",
+    "gn:dem":16,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1230102,
+    "gn:latitude":7.2998,
+    "gn:longitude":79.8759,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Pitagara",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Pitagare"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632313,
+        85673779,
+        1092057533
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1230102
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"404d184939b791e18cfd94aefc8fe2b6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "county_id":1092057533,
+            "locality_id":1293929345,
+            "region_id":85673779
+        }
+    ],
+    "wof:id":1293929345,
+    "wof:lastmodified":1537661409,
+    "wof:name":"Pitagara",
+    "wof:parent_id":1092057533,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    79.8759,
+    7.2998,
+    79.8759,
+    7.2998
+],
+  "geometry": {"coordinates":[79.8759,7.2998],"type":"Point"}
+}

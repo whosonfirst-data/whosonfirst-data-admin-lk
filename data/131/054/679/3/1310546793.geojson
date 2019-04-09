@@ -1,0 +1,67 @@
+{
+  "id": 1310546793,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"80.475,7.5907,80.475,7.5907",
+    "geom:latitude":7.5907,
+    "geom:longitude":80.475,
+    "gn:admin1_code":"32.0",
+    "gn:asciiname":"Pahala Gokarella",
+    "gn:country_code":"LK",
+    "gn:dem":172,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1232291,
+    "gn:latitude":7.5907,
+    "gn:longitude":80.475,
+    "gn:modification_date":"1994-01-08",
+    "gn:name":"Pahala Gokarella",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632313,
+        85673777,
+        1092059525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1232291
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"3f0b968b4c6091dcbc26cedc85604b61",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "county_id":1092059525,
+            "locality_id":1310546793,
+            "region_id":85673777
+        }
+    ],
+    "wof:id":1310546793,
+    "wof:lastmodified":1536856208,
+    "wof:name":"Pahala Gokarella",
+    "wof:parent_id":1092059525,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    80.475,
+    7.5907,
+    80.475,
+    7.5907
+],
+  "geometry": {"coordinates":[80.47499999999999,7.5907],"type":"Point"}
+}

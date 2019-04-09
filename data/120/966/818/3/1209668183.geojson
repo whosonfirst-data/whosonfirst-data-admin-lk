@@ -1,0 +1,61 @@
+{
+  "id": 1209668183,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"80.3033,6.4124,80.3033,6.4124",
+    "geom:latitude":6.4124,
+    "geom:longitude":80.3033,
+    "gn:admin1_code":"36.0",
+    "gn:asciiname":"Yatapatha Colony",
+    "gn:country_code":"LK",
+    "gn:dem":114,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7556909,
+    "gn:latitude":6.4124,
+    "gn:longitude":80.3033,
+    "gn:modification_date":"2010-10-09",
+    "gn:name":"Yatapatha Colony",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632313
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7556909
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"b950302522141148a302c58a9e7accf2",
+    "wof:hierarchy":[
+        {
+            "country_id":85632313,
+            "locality_id":1209668183
+        }
+    ],
+    "wof:id":1209668183,
+    "wof:lastmodified":1536280020,
+    "wof:name":"Yatapatha Colony",
+    "wof:parent_id":85632313,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    80.3033,
+    6.4124,
+    80.3033,
+    6.4124
+],
+  "geometry": {"coordinates":[80.30329999999999,6.4124],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1343302649,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"81.03333,7.01667,81.03333,7.01667",
+    "geom:latitude":7.01667,
+    "geom:longitude":81.03333,
+    "gn:admin1_code":"35.0",
+    "gn:asciiname":"Galbokkegama",
+    "gn:country_code":"LK",
+    "gn:dem":747,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1246480,
+    "gn:latitude":7.01667,
+    "gn:longitude":81.03333,
+    "gn:modification_date":"1994-01-08",
+    "gn:name":"Galbokkegama",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632313,
+        85673801,
+        1092066285
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1246480
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"d5fb2347b1644af7b685b7e1985b5c61",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "county_id":1092066285,
+            "locality_id":1343302649,
+            "region_id":85673801
+        }
+    ],
+    "wof:id":1343302649,
+    "wof:lastmodified":1536973529,
+    "wof:name":"Galbokkegama",
+    "wof:parent_id":1092066285,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    81.03333,
+    7.01667,
+    81.03333,
+    7.01667
+],
+  "geometry": {"coordinates":[81.03333000000001,7.01667],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1293924667,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"80.3601,5.9715,80.3601,5.9715",
+    "geom:latitude":5.9715,
+    "geom:longitude":80.3601,
+    "gn:admin1_code":"34.0",
+    "gn:asciiname":"Ahangama",
+    "gn:country_code":"LK",
+    "gn:dem":-9999,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1252211,
+    "gn:latitude":5.9715,
+    "gn:longitude":80.3601,
+    "gn:modification_date":"1998-03-24",
+    "gn:name":"Ahangama",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632313,
+        85673789,
+        1092058935
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1252211
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"3e82e1304db1c5e1556cdb9dafd39683",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "county_id":1092058935,
+            "locality_id":1293924667,
+            "region_id":85673789
+        }
+    ],
+    "wof:id":1293924667,
+    "wof:lastmodified":1536653915,
+    "wof:name":"Ahangama",
+    "wof:parent_id":1092058935,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    80.3601,
+    5.9715,
+    80.3601,
+    5.9715
+],
+  "geometry": {"coordinates":[80.3601,5.9715],"type":"Point"}
+}

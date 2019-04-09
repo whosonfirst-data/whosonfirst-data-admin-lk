@@ -1,0 +1,68 @@
+{
+  "id": 1260119031,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"81.2009,8.6728,81.2009,8.6728",
+    "geom:latitude":8.6728,
+    "geom:longitude":81.2009,
+    "gn:admin1_code":"37.0",
+    "gn:asciiname":"Nilaveli",
+    "gn:country_code":"LK",
+    "gn:dem":7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1233028,
+    "gn:latitude":8.6728,
+    "gn:longitude":81.2009,
+    "gn:modification_date":"2013-07-05",
+    "gn:name":"Nilaveli",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632313,
+        85673747,
+        1092061479
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1233028,
+        "wk:page":"Nilaveli"
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"de4ab661cea34ccff0d1630052172ff8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "county_id":1092061479,
+            "locality_id":1260119031,
+            "region_id":85673747
+        }
+    ],
+    "wof:id":1260119031,
+    "wof:lastmodified":1537567985,
+    "wof:name":"Nilaveli",
+    "wof:parent_id":1092061479,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    81.2009,
+    8.6728,
+    81.2009,
+    8.6728
+],
+  "geometry": {"coordinates":[81.2009,8.6728],"type":"Point"}
+}

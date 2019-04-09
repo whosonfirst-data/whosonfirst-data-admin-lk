@@ -1,0 +1,71 @@
+{
+  "id": 1343607097,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"79.7275,8.1434,79.7275,8.1434",
+    "geom:latitude":8.1434,
+    "geom:longitude":79.7275,
+    "gn:admin1_code":"32.0",
+    "gn:asciiname":"Kandakkuda",
+    "gn:country_code":"LK",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1241771,
+    "gn:latitude":8.1434,
+    "gn:longitude":79.7275,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Kandakkuda",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kandakuda",
+        "Kandakkuda"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632313,
+        85673779,
+        1092060219
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1241771
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"2c89c5714f50051bc618202843af50d4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "county_id":1092060219,
+            "locality_id":1343607097,
+            "region_id":85673779
+        }
+    ],
+    "wof:id":1343607097,
+    "wof:lastmodified":1537661514,
+    "wof:name":"Kandakkuda",
+    "wof:parent_id":1092060219,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    79.7275,
+    8.1434,
+    79.7275,
+    8.1434
+],
+  "geometry": {"coordinates":[79.72750000000001,8.1434],"type":"Point"}
+}

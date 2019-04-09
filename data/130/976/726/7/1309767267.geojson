@@ -1,0 +1,67 @@
+{
+  "id": 1309767267,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"80.663,7.1295,80.663,7.1295",
+    "geom:latitude":7.1295,
+    "geom:longitude":80.663,
+    "gn:admin1_code":"29.0",
+    "gn:asciiname":"Delra Colony",
+    "gn:country_code":"LK",
+    "gn:dem":939,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7435542,
+    "gn:latitude":7.1295,
+    "gn:longitude":80.663,
+    "gn:modification_date":"2010-08-07",
+    "gn:name":"Delra Colony",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632313,
+        85673719,
+        1092058013
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7435542
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"61f1798e9a0bdba523c1a82f77d68af7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "county_id":1092058013,
+            "locality_id":1309767267,
+            "region_id":85673719
+        }
+    ],
+    "wof:id":1309767267,
+    "wof:lastmodified":1536985987,
+    "wof:name":"Delra Colony",
+    "wof:parent_id":1092058013,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    80.663,
+    7.1295,
+    80.663,
+    7.1295
+],
+  "geometry": {"coordinates":[80.663,7.1295],"type":"Point"}
+}

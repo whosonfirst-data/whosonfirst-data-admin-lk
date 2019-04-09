@@ -1,0 +1,71 @@
+{
+  "id": 1293830411,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"80.7426,8.6594,80.7426,8.6594",
+    "geom:latitude":8.6594,
+    "geom:longitude":80.7426,
+    "gn:admin1_code":"30.0",
+    "gn:asciiname":"Elapattewa",
+    "gn:country_code":"LK",
+    "gn:dem":90,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1247218,
+    "gn:latitude":8.6594,
+    "gn:longitude":80.7426,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Elapattewa",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Elapatwewa",
+        "Elapattewa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632313,
+        85673751,
+        1092060761
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1247218
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"dda73769d67fd4d5d3a841b9138c736e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "county_id":1092060761,
+            "locality_id":1293830411,
+            "region_id":85673751
+        }
+    ],
+    "wof:id":1293830411,
+    "wof:lastmodified":1537661564,
+    "wof:name":"Elapattewa",
+    "wof:parent_id":1092060761,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    80.7426,
+    8.6594,
+    80.7426,
+    8.6594
+],
+  "geometry": {"coordinates":[80.7426,8.6594],"type":"Point"}
+}

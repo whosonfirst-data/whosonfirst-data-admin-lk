@@ -1,0 +1,60 @@
+{
+  "id": 1209229829,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"81.12279,6.53411,81.12279,6.53411",
+    "geom:latitude":6.53411,
+    "geom:longitude":81.12279,
+    "gn:asciiname":"Kuda Oya",
+    "gn:country_code":"LK",
+    "gn:dem":95,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9166463,
+    "gn:latitude":6.53411,
+    "gn:longitude":81.12279,
+    "gn:modification_date":"2014-06-19",
+    "gn:name":"Kuda Oya",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632313
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9166463
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"47fa851dafe4a045f95407955ec7b309",
+    "wof:hierarchy":[
+        {
+            "country_id":85632313,
+            "locality_id":1209229829
+        }
+    ],
+    "wof:id":1209229829,
+    "wof:lastmodified":1536293672,
+    "wof:name":"Kuda Oya",
+    "wof:parent_id":85632313,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    81.12279000000002,
+    6.53411,
+    81.12279000000002,
+    6.53411
+],
+  "geometry": {"coordinates":[81.12279000000002,6.53411],"type":"Point"}
+}

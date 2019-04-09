@@ -1,0 +1,61 @@
+{
+  "id": 1209561767,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"81.16667,7.73333,81.16667,7.73333",
+    "geom:latitude":7.73333,
+    "geom:longitude":81.16667,
+    "gn:admin1_code":"30.0",
+    "gn:asciiname":"Ulpottegama",
+    "gn:country_code":"LK",
+    "gn:dem":96,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1225591,
+    "gn:latitude":7.73333,
+    "gn:longitude":81.16667,
+    "gn:modification_date":"1994-01-08",
+    "gn:name":"Ulpottegama",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632313
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1225591
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"8c9a85b7e275cb0d58f7937c1c794727",
+    "wof:hierarchy":[
+        {
+            "country_id":85632313,
+            "locality_id":1209561767
+        }
+    ],
+    "wof:id":1209561767,
+    "wof:lastmodified":1536283367,
+    "wof:name":"Ulpottegama",
+    "wof:parent_id":85632313,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    81.16667,
+    7.73333,
+    81.16667,
+    7.73333
+],
+  "geometry": {"coordinates":[81.16667,7.73333],"type":"Point"}
+}

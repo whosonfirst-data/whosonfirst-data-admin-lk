@@ -1,0 +1,67 @@
+{
+  "id": 1293336823,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"80.817,8.46,80.817,8.46",
+    "geom:latitude":8.46,
+    "geom:longitude":80.817,
+    "gn:admin1_code":"30.0",
+    "gn:asciiname":"Puliyankadawala",
+    "gn:country_code":"LK",
+    "gn:dem":79,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1229548,
+    "gn:latitude":8.46,
+    "gn:longitude":80.817,
+    "gn:modification_date":"1994-01-08",
+    "gn:name":"Puliyankadawala",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632313,
+        85673751,
+        1092059481
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1229548
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"11683273c5763e4d6f482c7868420552",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "county_id":1092059481,
+            "locality_id":1293336823,
+            "region_id":85673751
+        }
+    ],
+    "wof:id":1293336823,
+    "wof:lastmodified":1537003542,
+    "wof:name":"Puliyankadawala",
+    "wof:parent_id":1092059481,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    80.817,
+    8.46,
+    80.817,
+    8.46
+],
+  "geometry": {"coordinates":[80.81699999999999,8.46],"type":"Point"}
+}

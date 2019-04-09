@@ -1,0 +1,67 @@
+{
+  "id": 1276613423,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"80.4284,7.4161,80.4284,7.4161",
+    "geom:latitude":7.4161,
+    "geom:longitude":80.4284,
+    "gn:admin1_code":"32.0",
+    "gn:asciiname":"Wambugangoda",
+    "gn:country_code":"LK",
+    "gn:dem":169,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7433678,
+    "gn:latitude":7.4161,
+    "gn:longitude":80.4284,
+    "gn:modification_date":"2010-08-07",
+    "gn:name":"Wambugangoda",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632313,
+        85673777,
+        1092063021
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7433678
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"4450ae4e83cef92c748cea177eb3dbe6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "county_id":1092063021,
+            "locality_id":1276613423,
+            "region_id":85673777
+        }
+    ],
+    "wof:id":1276613423,
+    "wof:lastmodified":1536901024,
+    "wof:name":"Wambugangoda",
+    "wof:parent_id":1092063021,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    80.4284,
+    7.4161,
+    80.4284,
+    7.4161
+],
+  "geometry": {"coordinates":[80.4284,7.4161],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 1310265921,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"80.84561,7.43809,80.84561,7.43809",
+    "geom:latitude":7.43809,
+    "geom:longitude":80.84561,
+    "gn:admin1_code":"29.0",
+    "gn:asciiname":"Kahatagaha",
+    "gn:country_code":"LK",
+    "gn:dem":409,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1242448,
+    "gn:latitude":7.43809,
+    "gn:longitude":80.84561,
+    "gn:modification_date":"2014-02-07",
+    "gn:name":"Kahatagaha",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632313,
+        85673719,
+        1092066935
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1242448,
+        "wk:page":"Kahatagaha"
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"e020af0c8cac33d13e3597e28da8f5e8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "county_id":1092066935,
+            "locality_id":1310265921,
+            "region_id":85673719
+        }
+    ],
+    "wof:id":1310265921,
+    "wof:lastmodified":1537568003,
+    "wof:name":"Kahatagaha",
+    "wof:parent_id":1092066935,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    80.84561,
+    7.43809,
+    80.84561,
+    7.43809
+],
+  "geometry": {"coordinates":[80.84560999999999,7.43809],"type":"Point"}
+}

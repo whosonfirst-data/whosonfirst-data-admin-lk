@@ -1,0 +1,67 @@
+{
+  "id": 1276936045,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"80.3458,6.7535,80.3458,6.7535",
+    "geom:latitude":6.7535,
+    "geom:longitude":80.3458,
+    "gn:admin1_code":"33.0",
+    "gn:asciiname":"Batayaya",
+    "gn:country_code":"LK",
+    "gn:dem":46,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1250181,
+    "gn:latitude":6.7535,
+    "gn:longitude":80.3458,
+    "gn:modification_date":"1994-01-08",
+    "gn:name":"Batayaya",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632313,
+        85673785,
+        1092061795
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1250181
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"3d35e92c08d1e2960024fd08dd35113c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "county_id":1092061795,
+            "locality_id":1276936045,
+            "region_id":85673785
+        }
+    ],
+    "wof:id":1276936045,
+    "wof:lastmodified":1536965906,
+    "wof:name":"Batayaya",
+    "wof:parent_id":1092061795,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    80.3458,
+    6.7535,
+    80.3458,
+    6.7535
+],
+  "geometry": {"coordinates":[80.3458,6.7535],"type":"Point"}
+}

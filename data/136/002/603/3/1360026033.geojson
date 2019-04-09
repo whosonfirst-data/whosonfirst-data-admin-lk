@@ -1,0 +1,71 @@
+{
+  "id": 1360026033,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"80.9736,7.1449,80.9736,7.1449",
+    "geom:latitude":7.1449,
+    "geom:longitude":80.9736,
+    "gn:admin1_code":"35.0",
+    "gn:asciiname":"Veheragala",
+    "gn:country_code":"LK",
+    "gn:dem":483,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1224966,
+    "gn:latitude":7.1449,
+    "gn:longitude":80.9736,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Veheragala",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Weheragala",
+        "Veheragala"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632313,
+        85673801,
+        1092060319
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1224966
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"71bf1e9a89299ef81135ed374d1a0478",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "county_id":1092060319,
+            "locality_id":1360026033,
+            "region_id":85673801
+        }
+    ],
+    "wof:id":1360026033,
+    "wof:lastmodified":1537661349,
+    "wof:name":"Veheragala",
+    "wof:parent_id":1092060319,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    80.9736,
+    7.1449,
+    80.9736,
+    7.1449
+],
+  "geometry": {"coordinates":[80.9736,7.1449],"type":"Point"}
+}

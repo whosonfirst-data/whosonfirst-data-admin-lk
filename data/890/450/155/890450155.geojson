@@ -1,0 +1,68 @@
+{
+  "id": 890450155,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2016-09-15",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"81.4997,7.75,81.4997,7.75",
+    "geom:latitude":7.75,
+    "geom:longitude":81.4997,
+    "gn:country":"LK",
+    "gn:fcode":"ADM2",
+    "gn:pop":515733,
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "qs:name":"Batticaloa District",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"11",
+    "src:geom":"unknown",
+    "src:population":"geonames",
+    "wd:wordcount":553,
+    "wof:belongsto":[
+        102191569,
+        85632313,
+        85673737
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1250159,
+        "qs:id":84435,
+        "wd:id":"Q810960",
+        "wk:page":"Batticaloa District"
+    },
+    "wof:country":"LK",
+    "wof:created":1469052727,
+    "wof:geomhash":"2f6bc729b9eb060381ba133a94e62ee1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "county_id":890450155,
+            "region_id":85673737
+        }
+    ],
+    "wof:id":890450155,
+    "wof:lastmodified":1527792963,
+    "wof:name":"Batticaloa District",
+    "wof:parent_id":85673737,
+    "wof:placetype":"county",
+    "wof:population":515733,
+    "wof:population_rank":11,
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    81.4997,
+    7.75,
+    81.4997,
+    7.75
+],
+  "geometry": {"coordinates":[81.4997,7.75],"type":"Point"}
+}

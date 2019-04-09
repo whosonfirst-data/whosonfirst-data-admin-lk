@@ -1,0 +1,100 @@
+{
+  "id": 421192631,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-02-02",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"80.08333,6.83333,80.08333,6.83333",
+    "geom:latitude":6.83333,
+    "geom:longitude":80.08333,
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:max_zoom":11.0,
+    "mz:min_zoom":8.7,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:eng_x_preferred":[
+        "Western"
+    ],
+    "name:por_x_preferred":[
+        "Prov\u00edncia Oeste"
+    ],
+    "name:sin_x_preferred":[
+        "\u0db6\u0dc3\u0dca\u0db1\u0dcf\u0dc4\u0dd2\u0dbb \u0db4\u0dc5\u0dcf\u0dad"
+    ],
+    "name:tam_x_preferred":[
+        "\u0bae\u0bc7\u0bb2\u0bcd \u0bae\u0bbe\u0b95\u0bbe\u0ba3\u0bae\u0bcd"
+    ],
+    "name:unk_x_variant":[
+        "Western Province"
+    ],
+    "qs:gn_country":"LK",
+    "qs:gn_fcode":"ADM1",
+    "qs:gn_id":1223421,
+    "qs:gn_pop":0,
+    "qs:name":"Western",
+    "qs:name_adm0":"Sri Lanka",
+    "qs:name_adm1":"Western",
+    "qs:photos":810,
+    "qs:photos_1k":164,
+    "qs:photos_9k":116,
+    "qs:photos_9r":22,
+    "qs:photos_all":26088,
+    "qs:photos_sr":9,
+    "qs:placetype":"State",
+    "qs:pop_sr":"0",
+    "qs:qs_id":1168627,
+    "qs:woe_adm0":23424778,
+    "qs:woe_id":2344966,
+    "src:geom":"quattroshapes",
+    "wof:belongsto":[
+        102191569,
+        85632313
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1223421,
+        "gp:id":2344966,
+        "qs:id":1168627,
+        "wd:id":"Q856686",
+        "wk:page":"Western Province, Sri Lanka"
+    },
+    "wof:country":"LK",
+    "wof:created":1459009743,
+    "wof:geomhash":"c7ae6c9156fdb3947da92017379e4607",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "region_id":421192631
+        }
+    ],
+    "wof:id":421192631,
+    "wof:lang_x_official":[
+        "sin",
+        "tam"
+    ],
+    "wof:lang_x_spoken":[
+        "sin",
+        "tam"
+    ],
+    "wof:lastmodified":1529541197,
+    "wof:name":"Western",
+    "wof:parent_id":85632313,
+    "wof:placetype":"region",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    80.08333,
+    6.83333,
+    80.08333,
+    6.83333
+],
+  "geometry": {"coordinates":[80.08333,6.83333],"type":"Point"}
+}

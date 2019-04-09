@@ -1,0 +1,64 @@
+{
+  "id": 1209467823,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"79.9623,7.016,79.9623,7.016",
+    "geom:latitude":7.016,
+    "geom:longitude":79.9623,
+    "gn:admin1_code":"36.0",
+    "gn:asciiname":"Suriyapaluwa",
+    "gn:country_code":"LK",
+    "gn:dem":35,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1227519,
+    "gn:latitude":7.016,
+    "gn:longitude":79.9623,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Suriyapaluwa",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Suripaluwa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632313
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1227519
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"2feafa9028089469b35fc9df44603379",
+    "wof:hierarchy":[
+        {
+            "country_id":85632313,
+            "locality_id":1209467823
+        }
+    ],
+    "wof:id":1209467823,
+    "wof:lastmodified":1537661385,
+    "wof:name":"Suriyapaluwa",
+    "wof:parent_id":85632313,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    79.9623,
+    7.016,
+    79.9623,
+    7.016
+],
+  "geometry": {"coordinates":[79.9623,7.016],"type":"Point"}
+}

@@ -1,0 +1,61 @@
+{
+  "id": 1209160157,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"80.3,7.88333,80.3,7.88333",
+    "geom:latitude":7.88333,
+    "geom:longitude":80.3,
+    "gn:admin1_code":"32.0",
+    "gn:asciiname":"Acharigama",
+    "gn:country_code":"LK",
+    "gn:dem":108,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1252353,
+    "gn:latitude":7.88333,
+    "gn:longitude":80.3,
+    "gn:modification_date":"1994-01-08",
+    "gn:name":"Acharigama",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632313
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1252353
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"80463d74761fe20771cdbd71abde75aa",
+    "wof:hierarchy":[
+        {
+            "country_id":85632313,
+            "locality_id":1209160157
+        }
+    ],
+    "wof:id":1209160157,
+    "wof:lastmodified":1536295925,
+    "wof:name":"Acharigama",
+    "wof:parent_id":85632313,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    80.3,
+    7.88333,
+    80.3,
+    7.88333
+],
+  "geometry": {"coordinates":[80.3,7.88333],"type":"Point"}
+}

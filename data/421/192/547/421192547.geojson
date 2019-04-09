@@ -1,0 +1,79 @@
+{
+  "id": 421192547,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"81.5461,6.9067,81.5461,6.9067",
+    "geom:latitude":6.9067,
+    "geom:longitude":81.5461,
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:unk_x_variant":[
+        "Siyambala-anduwa"
+    ],
+    "qs:gn_country":"LK",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":1227746,
+    "qs:gn_pop":0,
+    "qs:name":"Siyambalanduwa",
+    "qs:name_adm0":"Sri Lanka",
+    "qs:name_adm1":"Uva",
+    "qs:photos":4,
+    "qs:photos_1k":1,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":4,
+    "qs:photos_sr":1,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":1168375,
+    "qs:woe_adm0":23424778,
+    "qs:woe_id":2189536,
+    "src:geom":"quattroshapes",
+    "wof:belongsto":[
+        102191569,
+        85632313,
+        85673803,
+        1092066203
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1227746,
+        "gp:id":2189536,
+        "qs:id":1168375
+    },
+    "wof:country":"LK",
+    "wof:created":1459009740,
+    "wof:geomhash":"1c4acadabf6b2d3715b3ae525b3bf050",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "county_id":1092066203,
+            "locality_id":421192547,
+            "region_id":85673803
+        }
+    ],
+    "wof:id":421192547,
+    "wof:lastmodified":1501217335,
+    "wof:name":"Siyambalanduwa",
+    "wof:parent_id":1092066203,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    81.5461,
+    6.9067,
+    81.5461,
+    6.9067
+],
+  "geometry": {"coordinates":[81.5461,6.9067],"type":"Point"}
+}

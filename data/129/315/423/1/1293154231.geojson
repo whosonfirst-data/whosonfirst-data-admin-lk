@@ -1,0 +1,67 @@
+{
+  "id": 1293154231,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"81.084,7.1465,81.084,7.1465",
+    "geom:latitude":7.1465,
+    "geom:longitude":81.084,
+    "gn:admin1_code":"35.0",
+    "gn:asciiname":"Athukoralegedara",
+    "gn:country_code":"LK",
+    "gn:dem":223,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7474927,
+    "gn:latitude":7.1465,
+    "gn:longitude":81.084,
+    "gn:modification_date":"2010-08-08",
+    "gn:name":"Athukoralegedara",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632313,
+        85673801,
+        1092063223
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7474927
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"ed3a75f2e45b601dfc63856f96759242",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "county_id":1092063223,
+            "locality_id":1293154231,
+            "region_id":85673801
+        }
+    ],
+    "wof:id":1293154231,
+    "wof:lastmodified":1536771204,
+    "wof:name":"Athukoralegedara",
+    "wof:parent_id":1092063223,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    81.084,
+    7.1465,
+    81.084,
+    7.1465
+],
+  "geometry": {"coordinates":[81.084,7.1465],"type":"Point"}
+}

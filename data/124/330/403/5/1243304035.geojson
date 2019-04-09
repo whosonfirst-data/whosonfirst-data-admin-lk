@@ -1,0 +1,67 @@
+{
+  "id": 1243304035,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"80.08611,6.63833,80.08611,6.63833",
+    "geom:latitude":6.63833,
+    "geom:longitude":80.08611,
+    "gn:admin1_code":"36.0",
+    "gn:asciiname":"Anguruwatota",
+    "gn:country_code":"LK",
+    "gn:dem":20,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1251135,
+    "gn:latitude":6.63833,
+    "gn:longitude":80.08611,
+    "gn:modification_date":"1998-03-24",
+    "gn:name":"Anguruwatota",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632313,
+        85673819,
+        1092062035
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1251135
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"1e543abca20c349c1105e068d36cb481",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "county_id":1092062035,
+            "locality_id":1243304035,
+            "region_id":85673819
+        }
+    ],
+    "wof:id":1243304035,
+    "wof:lastmodified":1537010137,
+    "wof:name":"Anguruwatota",
+    "wof:parent_id":1092062035,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    80.08610999999998,
+    6.63833,
+    80.08610999999998,
+    6.63833
+],
+  "geometry": {"coordinates":[80.08610999999998,6.63833],"type":"Point"}
+}

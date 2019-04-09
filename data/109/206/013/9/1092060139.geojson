@@ -1,0 +1,88 @@
+{
+  "id": 1092060139,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000661,
+    "geom:area_square_m":8109461.84676,
+    "geom:bbox":"81.7925,7.40426640426,81.8260255555,7.44996412284",
+    "geom:latitude":7.423924,
+    "geom:longitude":81.808636,
+    "iso:country":"LK",
+    "lbl:latitude":7.420974,
+    "lbl:longitude":81.802226,
+    "meso:admin_1":"Ampara",
+    "meso:admin_1r":"Eastern",
+    "meso:dissme":"Kalmunai Tamil DivisionAmparaEastern",
+    "meso:gadm_admin":"Sainthamarathu",
+    "meso:gadm_hasc2":"LK.AP.SI",
+    "meso:mps_x":81.802226,
+    "meso:mps_y":7.420974,
+    "meso:name_en":"Kalmunai Tamil Division",
+    "meso:source":"AOTM",
+    "mps:latitude":7.420974,
+    "mps:longitude":81.802226,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Kalmunai Tamil"
+    ],
+    "name:eng_x_variant":[
+        "Sainthamarathu"
+    ],
+    "src:geom":"meso",
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"statoids",
+    "src:population:date":"2012-03-20",
+    "statoids:area_km":"",
+    "statoids:as_of_date":"2012-03-20",
+    "statoids:capital":"Kalmunai Tamil",
+    "statoids:country":"LK",
+    "statoids:hasc":"LK.AP",
+    "statoids:name":"Kalmunai Tamil",
+    "statoids:population":"29800",
+    "statoids:statoid":"LK.AP.KT",
+    "statoids:timezone":"",
+    "statoids:type":"",
+    "wof:belongsto":[
+        102191569,
+        85632313,
+        85673733
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "hasc:id":"LK.AP.KT"
+    },
+    "wof:country":"LK",
+    "wof:created":1473898905,
+    "wof:geomhash":"61eb8748d8de0724058b776f55da4959",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "county_id":1092060139,
+            "region_id":85673733
+        }
+    ],
+    "wof:id":1092060139,
+    "wof:lastmodified":1536615144,
+    "wof:name":"Kalmunai Tamil Division",
+    "wof:parent_id":85673733,
+    "wof:placetype":"county",
+    "wof:population":29800,
+    "wof:population_rank":7,
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:shortcode":"KT",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    81.79250000000239,
+    7.40426640425838,
+    81.82602555547635,
+    7.44996412284027
+],
+  "geometry": {"coordinates":[[[[81.808590679354,7.42990122531608],[81.82493048158858,7.42975036227443],[81.82602555547635,7.42451684202825],[81.82113920182823,7.4157136267872],[81.81603694047685,7.41596310955564],[81.81094575411984,7.42241065714125],[81.81017330431979,7.41807959095689],[81.8137847558131,7.41064832377627],[81.80960104194276,7.40696606469694],[81.80193502115932,7.40426640425838],[81.79811700089118,7.4087338576827],[81.79719206767467,7.41280793232769],[81.79330142390781,7.41866516260724],[81.79250000000239,7.43],[81.80433253431536,7.42995061265802],[81.808590679354,7.42990122531608]]],[[[81.81958802870491,7.44996412284027],[81.82044220000006,7.44830560700007],[81.82044220000006,7.44577789300007],[81.82197075440071,7.44262065605153],[81.81162951670443,7.43984872151871],[81.80722851819085,7.44874384035644],[81.81958802870491,7.44996412284027]]]],"type":"MultiPolygon"}
+}

@@ -1,0 +1,61 @@
+{
+  "id": 1209263813,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"79.85,8.18333,79.85,8.18333",
+    "geom:latitude":8.18333,
+    "geom:longitude":79.85,
+    "gn:admin1_code":"32.0",
+    "gn:asciiname":"Vannativillu",
+    "gn:country_code":"LK",
+    "gn:dem":25,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1225070,
+    "gn:latitude":8.18333,
+    "gn:longitude":79.85,
+    "gn:modification_date":"1994-01-08",
+    "gn:name":"Vannativillu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632313
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1225070
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"a305c89553c17a1eba9ddb076b91fdd0",
+    "wof:hierarchy":[
+        {
+            "country_id":85632313,
+            "locality_id":1209263813
+        }
+    ],
+    "wof:id":1209263813,
+    "wof:lastmodified":1536292603,
+    "wof:name":"Vannativillu",
+    "wof:parent_id":85632313,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    79.85,
+    8.18333,
+    79.85,
+    8.18333
+],
+  "geometry": {"coordinates":[79.84999999999999,8.18333],"type":"Point"}
+}

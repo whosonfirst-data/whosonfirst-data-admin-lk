@@ -1,0 +1,61 @@
+{
+  "id": 1209163705,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"80.4091,7.4735,80.4091,7.4735",
+    "geom:latitude":7.4735,
+    "geom:longitude":80.4091,
+    "gn:admin1_code":"32.0",
+    "gn:asciiname":"Kanduboda",
+    "gn:country_code":"LK",
+    "gn:dem":158,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8355290,
+    "gn:latitude":7.4735,
+    "gn:longitude":80.4091,
+    "gn:modification_date":"2012-08-05",
+    "gn:name":"Kanduboda",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632313
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8355290
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"eb2c812e9c3289ff00b40f0f924060e6",
+    "wof:hierarchy":[
+        {
+            "country_id":85632313,
+            "locality_id":1209163705
+        }
+    ],
+    "wof:id":1209163705,
+    "wof:lastmodified":1536295817,
+    "wof:name":"Kanduboda",
+    "wof:parent_id":85632313,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    80.4091,
+    7.4735,
+    80.4091,
+    7.4735
+],
+  "geometry": {"coordinates":[80.4091,7.4735],"type":"Point"}
+}

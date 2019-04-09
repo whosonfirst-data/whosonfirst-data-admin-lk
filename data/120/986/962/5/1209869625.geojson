@@ -1,0 +1,67 @@
+{
+  "id": 1209869625,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"81.5118,6.8124,81.5118,6.8124",
+    "geom:latitude":6.8124,
+    "geom:longitude":81.5118,
+    "gn:admin1_code":"35.0",
+    "gn:asciiname":"Miyangoda",
+    "gn:country_code":"LK",
+    "gn:dem":77,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1234878,
+    "gn:latitude":6.8124,
+    "gn:longitude":81.5118,
+    "gn:modification_date":"1994-01-08",
+    "gn:name":"Miyangoda",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632313,
+        85673803,
+        1092066203
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1234878
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"cada83cff2da11e7de9e9a363131fb4b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "county_id":1092066203,
+            "locality_id":1209869625,
+            "region_id":85673803
+        }
+    ],
+    "wof:id":1209869625,
+    "wof:lastmodified":1536375035,
+    "wof:name":"Miyangoda",
+    "wof:parent_id":1092066203,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    81.5118,
+    6.8124,
+    81.5118,
+    6.8124
+],
+  "geometry": {"coordinates":[81.51179999999999,6.8124],"type":"Point"}
+}

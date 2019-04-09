@@ -1,0 +1,67 @@
+{
+  "id": 1310542477,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"80.2171,7.1893,80.2171,7.1893",
+    "geom:latitude":7.1893,
+    "geom:longitude":80.2171,
+    "gn:admin1_code":"33.0",
+    "gn:asciiname":"Ganegama",
+    "gn:country_code":"LK",
+    "gn:dem":165,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1245958,
+    "gn:latitude":7.1893,
+    "gn:longitude":80.2171,
+    "gn:modification_date":"1994-01-08",
+    "gn:name":"Ganegama",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632313,
+        85673807,
+        1092067647
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1245958
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"a359fe14fa52b9b7102b2db7c72405b9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "county_id":1092067647,
+            "locality_id":1310542477,
+            "region_id":85673807
+        }
+    ],
+    "wof:id":1310542477,
+    "wof:lastmodified":1536862167,
+    "wof:name":"Ganegama",
+    "wof:parent_id":1092067647,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    80.2171,
+    7.1893,
+    80.2171,
+    7.1893
+],
+  "geometry": {"coordinates":[80.2171,7.1893],"type":"Point"}
+}

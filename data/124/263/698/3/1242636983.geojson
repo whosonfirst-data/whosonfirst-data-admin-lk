@@ -1,0 +1,67 @@
+{
+  "id": 1242636983,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"80.0913,7.6152,80.0913,7.6152",
+    "geom:latitude":7.6152,
+    "geom:longitude":80.0913,
+    "gn:admin1_code":"32.0",
+    "gn:asciiname":"Nikapitiya",
+    "gn:country_code":"LK",
+    "gn:dem":45,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1233127,
+    "gn:latitude":7.6152,
+    "gn:longitude":80.0913,
+    "gn:modification_date":"1994-01-08",
+    "gn:name":"Nikapitiya",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632313,
+        85673777,
+        1092064771
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1233127
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"3f40bc9da055e3bd3f532877e59d5ce9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "county_id":1092064771,
+            "locality_id":1242636983,
+            "region_id":85673777
+        }
+    ],
+    "wof:id":1242636983,
+    "wof:lastmodified":1536977860,
+    "wof:name":"Nikapitiya",
+    "wof:parent_id":1092064771,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    80.0913,
+    7.6152,
+    80.0913,
+    7.6152
+],
+  "geometry": {"coordinates":[80.0913,7.6152],"type":"Point"}
+}

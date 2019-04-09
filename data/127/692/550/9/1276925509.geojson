@@ -1,0 +1,67 @@
+{
+  "id": 1276925509,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"80.3391,7.9843,80.3391,7.9843",
+    "geom:latitude":7.9843,
+    "geom:longitude":80.3391,
+    "gn:admin1_code":"32.0",
+    "gn:asciiname":"Henwelagama",
+    "gn:country_code":"LK",
+    "gn:dem":121,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7436360,
+    "gn:latitude":7.9843,
+    "gn:longitude":80.3391,
+    "gn:modification_date":"2010-08-07",
+    "gn:name":"Henwelagama",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632313,
+        85673777,
+        1092058131
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7436360
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"de6530fa7a9d729191ef916d8482d6ea",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "county_id":1092058131,
+            "locality_id":1276925509,
+            "region_id":85673777
+        }
+    ],
+    "wof:id":1276925509,
+    "wof:lastmodified":1536979551,
+    "wof:name":"Henwelagama",
+    "wof:parent_id":1092058131,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    80.3391,
+    7.9843,
+    80.3391,
+    7.9843
+],
+  "geometry": {"coordinates":[80.3391,7.9843],"type":"Point"}
+}

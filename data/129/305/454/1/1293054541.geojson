@@ -1,0 +1,67 @@
+{
+  "id": 1293054541,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"81.0481,7.0984,81.0481,7.0984",
+    "geom:latitude":7.0984,
+    "geom:longitude":81.0481,
+    "gn:admin1_code":"35.0",
+    "gn:asciiname":"Galwala",
+    "gn:country_code":"LK",
+    "gn:dem":285,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7474938,
+    "gn:latitude":7.0984,
+    "gn:longitude":81.0481,
+    "gn:modification_date":"2010-08-08",
+    "gn:name":"Galwala",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632313,
+        85673801,
+        1092063223
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7474938
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"e88635da62faf584001e7752152ffcc8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "county_id":1092063223,
+            "locality_id":1293054541,
+            "region_id":85673801
+        }
+    ],
+    "wof:id":1293054541,
+    "wof:lastmodified":1536914917,
+    "wof:name":"Galwala",
+    "wof:parent_id":1092063223,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    81.0481,
+    7.0984,
+    81.0481,
+    7.0984
+],
+  "geometry": {"coordinates":[81.04810000000001,7.0984],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1343401729,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"81.545,6.9224,81.545,6.9224",
+    "geom:latitude":6.9224,
+    "geom:longitude":81.545,
+    "gn:admin1_code":"35.0",
+    "gn:asciiname":"Manawela",
+    "gn:country_code":"LK",
+    "gn:dem":89,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1236281,
+    "gn:latitude":6.9224,
+    "gn:longitude":81.545,
+    "gn:modification_date":"1994-01-08",
+    "gn:name":"Manawela",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632313,
+        85673803,
+        1092066203
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1236281
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"cd66097c4f7db847490d6e6d85678944",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "county_id":1092066203,
+            "locality_id":1343401729,
+            "region_id":85673803
+        }
+    ],
+    "wof:id":1343401729,
+    "wof:lastmodified":1536829978,
+    "wof:name":"Manawela",
+    "wof:parent_id":1092066203,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    81.545,
+    6.9224,
+    81.545,
+    6.9224
+],
+  "geometry": {"coordinates":[81.545,6.9224],"type":"Point"}
+}

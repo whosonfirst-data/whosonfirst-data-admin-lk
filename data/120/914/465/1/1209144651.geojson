@@ -1,0 +1,65 @@
+{
+  "id": 1209144651,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"81.3086,8.4055,81.3086,8.4055",
+    "geom:latitude":8.4055,
+    "geom:longitude":81.3086,
+    "gn:admin1_code":"37.0",
+    "gn:asciiname":"Toppur",
+    "gn:country_code":"LK",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1226307,
+    "gn:latitude":8.4055,
+    "gn:longitude":81.3086,
+    "gn:modification_date":"2012-04-05",
+    "gn:name":"Toppur",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Topur",
+        "Toppur"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632313
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1226307
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"03f7a384c46ab6042252939c373b57f9",
+    "wof:hierarchy":[
+        {
+            "country_id":85632313,
+            "locality_id":1209144651
+        }
+    ],
+    "wof:id":1209144651,
+    "wof:lastmodified":1537661366,
+    "wof:name":"Toppur",
+    "wof:parent_id":85632313,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    81.3086,
+    8.4055,
+    81.3086,
+    8.4055
+],
+  "geometry": {"coordinates":[81.3086,8.4055],"type":"Point"}
+}

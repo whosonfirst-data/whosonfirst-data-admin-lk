@@ -1,0 +1,61 @@
+{
+  "id": 1209049391,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"80.0369,9.7172,80.0369,9.7172",
+    "geom:latitude":9.7172,
+    "geom:longitude":80.0369,
+    "gn:admin1_code":"38.0",
+    "gn:asciiname":"Karaikkal",
+    "gn:country_code":"LK",
+    "gn:dem":7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1241377,
+    "gn:latitude":9.7172,
+    "gn:longitude":80.0369,
+    "gn:modification_date":"2012-04-05",
+    "gn:name":"Karaikkal",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632313
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1241377
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"e605e6a9efe1337e1f598c8f3a33d8d3",
+    "wof:hierarchy":[
+        {
+            "country_id":85632313,
+            "locality_id":1209049391
+        }
+    ],
+    "wof:id":1209049391,
+    "wof:lastmodified":1536299300,
+    "wof:name":"Karaikkal",
+    "wof:parent_id":85632313,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    80.0369,
+    9.7172,
+    80.0369,
+    9.7172
+],
+  "geometry": {"coordinates":[80.0369,9.7172],"type":"Point"}
+}

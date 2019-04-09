@@ -1,0 +1,70 @@
+{
+  "id": 1193232403,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"80.377,6.6681,80.377,6.6681",
+    "geom:latitude":6.6681,
+    "geom:longitude":80.377,
+    "gn:admin1_code":"33.0",
+    "gn:asciiname":"Uduwathana",
+    "gn:country_code":"LK",
+    "gn:dem":19,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1225731,
+    "gn:latitude":6.6681,
+    "gn:longitude":80.377,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Uduwathana",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Uduwatana"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632313,
+        85673785,
+        1092058219
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1225731
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"912d88554a6d03a6a08a7b09d9da003f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "county_id":1092058219,
+            "locality_id":1193232403,
+            "region_id":85673785
+        }
+    ],
+    "wof:id":1193232403,
+    "wof:lastmodified":1537661357,
+    "wof:name":"Uduwathana",
+    "wof:parent_id":1092058219,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    80.377,
+    6.6681,
+    80.377,
+    6.6681
+],
+  "geometry": {"coordinates":[80.377,6.6681],"type":"Point"}
+}

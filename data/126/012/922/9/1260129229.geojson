@@ -1,0 +1,67 @@
+{
+  "id": 1260129229,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"80.3489,7.6416,80.3489,7.6416",
+    "geom:latitude":7.6416,
+    "geom:longitude":80.3489,
+    "gn:admin1_code":"32.0",
+    "gn:asciiname":"Nelunpatgama",
+    "gn:country_code":"LK",
+    "gn:dem":100,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1233260,
+    "gn:latitude":7.6416,
+    "gn:longitude":80.3489,
+    "gn:modification_date":"1994-01-08",
+    "gn:name":"Nelunpatgama",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632313,
+        85673777,
+        1092058689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1233260
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"86067a1ca9a19d7ec63f28d5144533f5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "county_id":1092058689,
+            "locality_id":1260129229,
+            "region_id":85673777
+        }
+    ],
+    "wof:id":1260129229,
+    "wof:lastmodified":1536923077,
+    "wof:name":"Nelunpatgama",
+    "wof:parent_id":1092058689,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    80.3489,
+    7.6416,
+    80.3489,
+    7.6416
+],
+  "geometry": {"coordinates":[80.3489,7.6416],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1259427921,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"80.7789,6.0125,80.7789,6.0125",
+    "geom:latitude":6.0125,
+    "geom:longitude":80.7789,
+    "gn:admin1_code":"34.0",
+    "gn:asciiname":"Goyambokka",
+    "gn:country_code":"LK",
+    "gn:dem":24,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1245285,
+    "gn:latitude":6.0125,
+    "gn:longitude":80.7789,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Goyambokka",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632313,
+        85673791,
+        1092066355
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1245285
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"48a43c4d3f0899e1df47b8f47453ae7c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "county_id":1092066355,
+            "locality_id":1259427921,
+            "region_id":85673791
+        }
+    ],
+    "wof:id":1259427921,
+    "wof:lastmodified":1536939371,
+    "wof:name":"Goyambokka",
+    "wof:parent_id":1092066355,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    80.7789,
+    6.0125,
+    80.7789,
+    6.0125
+],
+  "geometry": {"coordinates":[80.77889999999999,6.0125],"type":"Point"}
+}

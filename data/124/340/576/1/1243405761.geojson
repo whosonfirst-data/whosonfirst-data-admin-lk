@@ -1,0 +1,67 @@
+{
+  "id": 1243405761,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"80.2513,8.7613,80.2513,8.7613",
+    "geom:latitude":8.7613,
+    "geom:longitude":80.2513,
+    "gn:admin1_code":"38.0",
+    "gn:asciiname":"Uralkulattuvadi",
+    "gn:country_code":"LK",
+    "gn:dem":54,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7431472,
+    "gn:latitude":8.7613,
+    "gn:longitude":80.2513,
+    "gn:modification_date":"2012-04-06",
+    "gn:name":"Uralkulattuvadi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632313,
+        85673757,
+        1092067431
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7431472
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"168be23db8bd93ec9e88c009b44c4db9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "county_id":1092067431,
+            "locality_id":1243405761,
+            "region_id":85673757
+        }
+    ],
+    "wof:id":1243405761,
+    "wof:lastmodified":1536862887,
+    "wof:name":"Uralkulattuvadi",
+    "wof:parent_id":1092067431,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    80.2513,
+    8.7613,
+    80.2513,
+    8.7613
+],
+  "geometry": {"coordinates":[80.2513,8.7613],"type":"Point"}
+}

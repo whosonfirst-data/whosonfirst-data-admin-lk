@@ -1,0 +1,70 @@
+{
+  "id": 1225893199,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"80.5692,6.5966,80.5692,6.5966",
+    "geom:latitude":6.5966,
+    "geom:longitude":80.5692,
+    "gn:admin1_code":"33.0",
+    "gn:asciiname":"Panawanna",
+    "gn:country_code":"LK",
+    "gn:dem":195,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1231310,
+    "gn:latitude":6.5966,
+    "gn:longitude":80.5692,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Panawanna",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Panawenna"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632313,
+        85673785,
+        1092065303
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1231310
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"b5386bc123a5a73039996c2ce810e761",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "county_id":1092065303,
+            "locality_id":1225893199,
+            "region_id":85673785
+        }
+    ],
+    "wof:id":1225893199,
+    "wof:lastmodified":1537661419,
+    "wof:name":"Panawanna",
+    "wof:parent_id":1092065303,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    80.5692,
+    6.5966,
+    80.5692,
+    6.5966
+],
+  "geometry": {"coordinates":[80.5692,6.5966],"type":"Point"}
+}

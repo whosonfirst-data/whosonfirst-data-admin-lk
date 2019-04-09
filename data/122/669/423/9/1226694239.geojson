@@ -1,0 +1,68 @@
+{
+  "id": 1226694239,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"79.8816,6.8684,79.8816,6.8684",
+    "geom:latitude":6.8684,
+    "geom:longitude":79.8816,
+    "gn:admin1_code":"36.0",
+    "gn:asciiname":"Kohuwala",
+    "gn:country_code":"LK",
+    "gn:dem":22,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7545360,
+    "gn:latitude":6.8684,
+    "gn:longitude":79.8816,
+    "gn:modification_date":"2014-03-10",
+    "gn:name":"Kohuwala",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632313,
+        85673811,
+        1092057657
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7545360,
+        "wk:page":"Kohuwala"
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"73c2476b2f52d3472695cac549453fdf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "county_id":1092057657,
+            "locality_id":1226694239,
+            "region_id":85673811
+        }
+    ],
+    "wof:id":1226694239,
+    "wof:lastmodified":1537568027,
+    "wof:name":"Kohuwala",
+    "wof:parent_id":1092057657,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    79.8816,
+    6.8684,
+    79.8816,
+    6.8684
+],
+  "geometry": {"coordinates":[79.88160000000001,6.8684],"type":"Point"}
+}

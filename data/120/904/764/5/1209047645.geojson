@@ -1,0 +1,61 @@
+{
+  "id": 1209047645,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"80.3911,6.023,80.3911,6.023",
+    "geom:latitude":6.023,
+    "geom:longitude":80.3911,
+    "gn:admin1_code":"34.0",
+    "gn:asciiname":"Munedeniya",
+    "gn:country_code":"LK",
+    "gn:dem":41,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7439113,
+    "gn:latitude":6.023,
+    "gn:longitude":80.3911,
+    "gn:modification_date":"2010-08-07",
+    "gn:name":"Munedeniya",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632313
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7439113
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"937e83f01fd34583246ab69e86511e3a",
+    "wof:hierarchy":[
+        {
+            "country_id":85632313,
+            "locality_id":1209047645
+        }
+    ],
+    "wof:id":1209047645,
+    "wof:lastmodified":1536299345,
+    "wof:name":"Munedeniya",
+    "wof:parent_id":85632313,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    80.3911,
+    6.023,
+    80.3911,
+    6.023
+],
+  "geometry": {"coordinates":[80.39109999999999,6.023],"type":"Point"}
+}

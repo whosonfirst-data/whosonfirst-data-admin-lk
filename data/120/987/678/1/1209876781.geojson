@@ -1,0 +1,67 @@
+{
+  "id": 1209876781,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"80.3546,8.3265,80.3546,8.3265",
+    "geom:latitude":8.3265,
+    "geom:longitude":80.3546,
+    "gn:admin1_code":"30.0",
+    "gn:asciiname":"Pandulagama Handiya",
+    "gn:country_code":"LK",
+    "gn:dem":102,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7539421,
+    "gn:latitude":8.3265,
+    "gn:longitude":80.3546,
+    "gn:modification_date":"2010-10-09",
+    "gn:name":"Pandulagama Handiya",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632313,
+        85673751,
+        1092064353
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7539421
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"c570735a5d03fc5ffe55108a49eeedab",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "county_id":1092064353,
+            "locality_id":1209876781,
+            "region_id":85673751
+        }
+    ],
+    "wof:id":1209876781,
+    "wof:lastmodified":1536396864,
+    "wof:name":"Pandulagama Handiya",
+    "wof:parent_id":1092064353,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    80.3546,
+    8.3265,
+    80.3546,
+    8.3265
+],
+  "geometry": {"coordinates":[80.3546,8.3265],"type":"Point"}
+}

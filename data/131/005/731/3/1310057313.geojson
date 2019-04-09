@@ -1,0 +1,67 @@
+{
+  "id": 1310057313,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"81.18333,8.36667,81.18333,8.36667",
+    "geom:latitude":8.36667,
+    "geom:longitude":81.18333,
+    "gn:admin1_code":"37.0",
+    "gn:asciiname":"Chundankadu",
+    "gn:country_code":"LK",
+    "gn:dem":12,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1249048,
+    "gn:latitude":8.36667,
+    "gn:longitude":81.18333,
+    "gn:modification_date":"2012-04-05",
+    "gn:name":"Chundankadu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632313,
+        85673747,
+        1092060425
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1249048
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"65ea41c05cd33a26d90736d6d475f130",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "county_id":1092060425,
+            "locality_id":1310057313,
+            "region_id":85673747
+        }
+    ],
+    "wof:id":1310057313,
+    "wof:lastmodified":1537063321,
+    "wof:name":"Chundankadu",
+    "wof:parent_id":1092060425,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    81.18333,
+    8.36667,
+    81.18333,
+    8.36667
+],
+  "geometry": {"coordinates":[81.18333,8.36667],"type":"Point"}
+}

@@ -1,0 +1,65 @@
+{
+  "id": 1209265975,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"80.4094,9.3033,80.4094,9.3033",
+    "geom:latitude":9.3033,
+    "geom:longitude":80.4094,
+    "gn:admin1_code":"38.0",
+    "gn:asciiname":"Terumurikandi",
+    "gn:country_code":"LK",
+    "gn:dem":47,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1226777,
+    "gn:latitude":9.3033,
+    "gn:longitude":80.4094,
+    "gn:modification_date":"2012-04-05",
+    "gn:name":"Terumurikandi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Terumurikandai",
+        "Terumurikandi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632313
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1226777
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"3a266fab3b6c2f0017e6ae541b69d701",
+    "wof:hierarchy":[
+        {
+            "country_id":85632313,
+            "locality_id":1209265975
+        }
+    ],
+    "wof:id":1209265975,
+    "wof:lastmodified":1537661373,
+    "wof:name":"Terumurikandi",
+    "wof:parent_id":85632313,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    80.4094,
+    9.3033,
+    80.4094,
+    9.3033
+],
+  "geometry": {"coordinates":[80.40940000000001,9.3033],"type":"Point"}
+}

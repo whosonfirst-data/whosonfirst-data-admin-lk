@@ -1,0 +1,74 @@
+{
+  "id": 1192969731,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"80.05772,8.91967,80.05772,8.91967",
+    "geom:latitude":8.91967,
+    "geom:longitude":80.05772,
+    "gn:admin1_code":"38.0",
+    "gn:admin2_code":"1236148.0",
+    "gn:asciiname":"Parappukkadanthan",
+    "gn:country_code":"LK",
+    "gn:dem":11,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1230937,
+    "gn:latitude":8.91967,
+    "gn:longitude":80.05772,
+    "gn:modification_date":"2012-12-24",
+    "gn:name":"Parappukkadanthan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tam_x_historical":[
+        "\u0baa\u0bb0\u0baa\u0bcd\u0baa\u0bc1\u0b95\u0bcd\u0b95\u0b9f\u0ba8\u0bcd\u0ba4\u0bbe\u0ba9\u0bcd"
+    ],
+    "name:tam_x_preferred":[
+        "\u0baa\u0bb0\u0baa\u0bcd\u0baa\u0bc1\u0b95\u0bcd\u0b95\u0b9f\u0ba8\u0bcd\u0ba4\u0bbe\u0ba9\u0bcd"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632313,
+        85673761,
+        1092062755
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1230937
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"81bbea3bb571a8cf54fb40b34912198e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "county_id":1092062755,
+            "locality_id":1192969731,
+            "region_id":85673761
+        }
+    ],
+    "wof:id":1192969731,
+    "wof:lastmodified":1537551595,
+    "wof:name":"Parappukkadanthan",
+    "wof:parent_id":1092062755,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    80.05771999999997,
+    8.91967,
+    80.05771999999997,
+    8.91967
+],
+  "geometry": {"coordinates":[80.05771999999997,8.91967],"type":"Point"}
+}

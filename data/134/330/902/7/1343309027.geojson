@@ -1,0 +1,71 @@
+{
+  "id": 1343309027,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"80.4775,7.3082,80.4775,7.3082",
+    "geom:latitude":7.3082,
+    "geom:longitude":80.4775,
+    "gn:admin1_code":"29.0",
+    "gn:asciiname":"Kondagama",
+    "gn:country_code":"LK",
+    "gn:dem":345,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1252098,
+    "gn:latitude":7.3082,
+    "gn:longitude":80.4775,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Kondagama",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Alagalla Kondagama"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632313,
+        85673719,
+        1092059275
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1252098,
+        "wk:page":"Alagalla_Kondagama"
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"63719c63b1efc054ca9288d0cbf54bed",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "county_id":1092059275,
+            "locality_id":1343309027,
+            "region_id":85673719
+        }
+    ],
+    "wof:id":1343309027,
+    "wof:lastmodified":1537661605,
+    "wof:name":"Kondagama",
+    "wof:parent_id":1092059275,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    80.4775,
+    7.3082,
+    80.4775,
+    7.3082
+],
+  "geometry": {"coordinates":[80.47750000000001,7.3082],"type":"Point"}
+}

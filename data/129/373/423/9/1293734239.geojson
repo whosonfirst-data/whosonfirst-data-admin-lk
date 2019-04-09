@@ -1,0 +1,67 @@
+{
+  "id": 1293734239,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"80.2543,8.2448,80.2543,8.2448",
+    "geom:latitude":8.2448,
+    "geom:longitude":80.2543,
+    "gn:admin1_code":"30.0",
+    "gn:asciiname":"Laggala",
+    "gn:country_code":"LK",
+    "gn:dem":104,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7539393,
+    "gn:latitude":8.2448,
+    "gn:longitude":80.2543,
+    "gn:modification_date":"2010-10-09",
+    "gn:name":"Laggala",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632313,
+        85673751,
+        1092064279
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7539393
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"39b5870480bcc4623253c3d007f0241c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "county_id":1092064279,
+            "locality_id":1293734239,
+            "region_id":85673751
+        }
+    ],
+    "wof:id":1293734239,
+    "wof:lastmodified":1536929332,
+    "wof:name":"Laggala",
+    "wof:parent_id":1092064279,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    80.2543,
+    8.2448,
+    80.2543,
+    8.2448
+],
+  "geometry": {"coordinates":[80.2543,8.2448],"type":"Point"}
+}

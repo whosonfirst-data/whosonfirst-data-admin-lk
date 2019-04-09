@@ -1,0 +1,67 @@
+{
+  "id": 1310451871,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"80.55,8.16667,80.55,8.16667",
+    "geom:latitude":8.16667,
+    "geom:longitude":80.55,
+    "gn:admin1_code":"30.0",
+    "gn:asciiname":"Karambegama",
+    "gn:country_code":"LK",
+    "gn:dem":126,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1241312,
+    "gn:latitude":8.16667,
+    "gn:longitude":80.55,
+    "gn:modification_date":"1994-01-08",
+    "gn:name":"Karambegama",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632313,
+        85673751,
+        1092066739
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1241312
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"dee8e79d04e9314783026270490f9170",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "county_id":1092066739,
+            "locality_id":1310451871,
+            "region_id":85673751
+        }
+    ],
+    "wof:id":1310451871,
+    "wof:lastmodified":1536993607,
+    "wof:name":"Karambegama",
+    "wof:parent_id":1092066739,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    80.55,
+    8.16667,
+    80.55,
+    8.16667
+],
+  "geometry": {"coordinates":[80.55,8.16667],"type":"Point"}
+}

@@ -1,0 +1,79 @@
+{
+  "id": 421166663,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"81.1759,8.6061,81.1759,8.6061",
+    "geom:latitude":8.6061,
+    "geom:longitude":81.1759,
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:unk_x_variant":[
+        "Kanniyar"
+    ],
+    "qs:gn_country":"LK",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":1241553,
+    "qs:gn_pop":0,
+    "qs:name":"Kanniyai",
+    "qs:name_adm0":"Sri Lanka",
+    "qs:name_adm1":"North Eastern",
+    "qs:photos":9,
+    "qs:photos_1k":2,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":9,
+    "qs:photos_sr":1,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":268959,
+    "qs:woe_adm0":23424778,
+    "qs:woe_id":2179290,
+    "src:geom":"quattroshapes",
+    "wof:belongsto":[
+        102191569,
+        85632313,
+        85673747,
+        1092066907
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1241553,
+        "gp:id":2179290,
+        "qs:id":268959
+    },
+    "wof:country":"LK",
+    "wof:created":1459008698,
+    "wof:geomhash":"2d1af4cbd6a1df6c00c753f062c5bf62",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "county_id":1092066907,
+            "locality_id":421166663,
+            "region_id":85673747
+        }
+    ],
+    "wof:id":421166663,
+    "wof:lastmodified":1501217336,
+    "wof:name":"Kanniyai",
+    "wof:parent_id":1092066907,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    81.1759,
+    8.6061,
+    81.1759,
+    8.6061
+],
+  "geometry": {"coordinates":[81.1759,8.6061],"type":"Point"}
+}

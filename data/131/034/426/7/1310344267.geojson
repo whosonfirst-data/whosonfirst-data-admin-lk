@@ -1,0 +1,67 @@
+{
+  "id": 1310344267,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"81.58333,7.25,81.58333,7.25",
+    "geom:latitude":7.25,
+    "geom:longitude":81.58333,
+    "gn:admin1_code":"37.0",
+    "gn:asciiname":"Paraganakele",
+    "gn:country_code":"LK",
+    "gn:dem":63,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1231029,
+    "gn:latitude":7.25,
+    "gn:longitude":81.58333,
+    "gn:modification_date":"2012-04-05",
+    "gn:name":"Paraganakele",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632313,
+        85673733,
+        890450157
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1231029
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"19d7df4b1e99dd0b6bab5f47bf152fa4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "county_id":890450157,
+            "locality_id":1310344267,
+            "region_id":85673733
+        }
+    ],
+    "wof:id":1310344267,
+    "wof:lastmodified":1536651890,
+    "wof:name":"Paraganakele",
+    "wof:parent_id":890450157,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    81.58333,
+    7.25,
+    81.58333,
+    7.25
+],
+  "geometry": {"coordinates":[81.58333,7.25],"type":"Point"}
+}

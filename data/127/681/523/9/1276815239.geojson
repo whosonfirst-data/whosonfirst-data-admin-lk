@@ -1,0 +1,67 @@
+{
+  "id": 1276815239,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"80.6058,6.9798,80.6058,6.9798",
+    "geom:latitude":6.9798,
+    "geom:longitude":80.6058,
+    "gn:admin1_code":"29.0",
+    "gn:asciiname":"Kelliewatte",
+    "gn:country_code":"LK",
+    "gn:dem":1300,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8305107,
+    "gn:latitude":6.9798,
+    "gn:longitude":80.6058,
+    "gn:modification_date":"2012-06-07",
+    "gn:name":"Kelliewatte",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632313,
+        85673731,
+        1092064313
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8305107
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"76dcf8188beb377b68383f9a79a4d8d3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "county_id":1092064313,
+            "locality_id":1276815239,
+            "region_id":85673731
+        }
+    ],
+    "wof:id":1276815239,
+    "wof:lastmodified":1536628490,
+    "wof:name":"Kelliewatte",
+    "wof:parent_id":1092064313,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    80.6058,
+    6.9798,
+    80.6058,
+    6.9798
+],
+  "geometry": {"coordinates":[80.6058,6.9798],"type":"Point"}
+}

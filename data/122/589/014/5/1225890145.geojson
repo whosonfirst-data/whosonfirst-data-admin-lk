@@ -1,0 +1,70 @@
+{
+  "id": 1225890145,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"80.0307,7.3464,80.0307,7.3464",
+    "geom:latitude":7.3464,
+    "geom:longitude":80.0307,
+    "gn:admin1_code":"32.0",
+    "gn:asciiname":"Etadombeagra",
+    "gn:country_code":"LK",
+    "gn:dem":42,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1246858,
+    "gn:latitude":7.3464,
+    "gn:longitude":80.0307,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Etadombeagra",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Etadomba-agare"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632313,
+        85673777,
+        1092065035
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1246858
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"c0c55fc98de665f02d983930922dfe52",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "county_id":1092065035,
+            "locality_id":1225890145,
+            "region_id":85673777
+        }
+    ],
+    "wof:id":1225890145,
+    "wof:lastmodified":1537661560,
+    "wof:name":"Etadombeagra",
+    "wof:parent_id":1092065035,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    80.0307,
+    7.3464,
+    80.0307,
+    7.3464
+],
+  "geometry": {"coordinates":[80.0307,7.3464],"type":"Point"}
+}

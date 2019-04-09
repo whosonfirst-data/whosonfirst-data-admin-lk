@@ -1,0 +1,61 @@
+{
+  "id": 1209153415,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"81.6154,7.7864,81.6154,7.7864",
+    "geom:latitude":7.7864,
+    "geom:longitude":81.6154,
+    "gn:admin1_code":"37.0",
+    "gn:asciiname":"Meera Village",
+    "gn:country_code":"LK",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1235386,
+    "gn:latitude":7.7864,
+    "gn:longitude":81.6154,
+    "gn:modification_date":"2012-04-05",
+    "gn:name":"Meera Village",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632313
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1235386
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"e3818db0d301c3b1ef7ff80ed2b2b217",
+    "wof:hierarchy":[
+        {
+            "country_id":85632313,
+            "locality_id":1209153415
+        }
+    ],
+    "wof:id":1209153415,
+    "wof:lastmodified":1536296134,
+    "wof:name":"Meera Village",
+    "wof:parent_id":85632313,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    81.6154,
+    7.7864,
+    81.6154,
+    7.7864
+],
+  "geometry": {"coordinates":[81.61539999999999,7.7864],"type":"Point"}
+}

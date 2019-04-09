@@ -1,0 +1,70 @@
+{
+  "id": 1226086697,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"81.4897,6.8398,81.4897,6.8398",
+    "geom:latitude":6.8398,
+    "geom:longitude":81.4897,
+    "gn:admin1_code":"35.0",
+    "gn:asciiname":"Hamagolla",
+    "gn:country_code":"LK",
+    "gn:dem":112,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1244432,
+    "gn:latitude":6.8398,
+    "gn:longitude":81.4897,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Hamagolla",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Hemagolla"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632313,
+        85673803,
+        1092066203
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1244432
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"586c93661989201a5fa6890a86e3895d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "county_id":1092066203,
+            "locality_id":1226086697,
+            "region_id":85673803
+        }
+    ],
+    "wof:id":1226086697,
+    "wof:lastmodified":1537661539,
+    "wof:name":"Hamagolla",
+    "wof:parent_id":1092066203,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    81.4897,
+    6.8398,
+    81.4897,
+    6.8398
+],
+  "geometry": {"coordinates":[81.4897,6.8398],"type":"Point"}
+}

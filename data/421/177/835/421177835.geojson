@@ -1,0 +1,85 @@
+{
+  "id": 421177835,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"80.5563,7.2474,80.5563,7.2474",
+    "geom:latitude":7.2474,
+    "geom:longitude":80.5563,
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:dut_x_preferred":[
+        "Piligama"
+    ],
+    "name:eng_x_preferred":[
+        "Piligama"
+    ],
+    "qs:gn_country":"LK",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":1230235,
+    "qs:gn_pop":0,
+    "qs:name":"Piligama",
+    "qs:name_adm0":"Sri Lanka",
+    "qs:name_adm1":"Central",
+    "qs:photos":174,
+    "qs:photos_1k":35,
+    "qs:photos_9k":1,
+    "qs:photos_9r":4,
+    "qs:photos_all":174,
+    "qs:photos_sr":4,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":1354079,
+    "qs:woe_adm0":23424778,
+    "qs:woe_id":2185482,
+    "src:geom":"quattroshapes",
+    "wd:wordcount":45,
+    "wof:belongsto":[
+        102191569,
+        85632313,
+        85673719,
+        1092066991
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1230235,
+        "gp:id":2185482,
+        "qs:id":1354079,
+        "wd:id":"Q7194013",
+        "wk:page":"Piligama"
+    },
+    "wof:country":"LK",
+    "wof:created":1459009162,
+    "wof:geomhash":"62b3da618b88eb1b0d65b64db6534d8a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "county_id":1092066991,
+            "locality_id":421177835,
+            "region_id":85673719
+        }
+    ],
+    "wof:id":421177835,
+    "wof:lastmodified":1527716479,
+    "wof:name":"Piligama",
+    "wof:parent_id":1092066991,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    80.5563,
+    7.2474,
+    80.5563,
+    7.2474
+],
+  "geometry": {"coordinates":[80.55629999999999,7.2474],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1225890101,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"79.9445,7.8441,79.9445,7.8441",
+    "geom:latitude":7.8441,
+    "geom:longitude":79.9445,
+    "gn:admin1_code":"32.0",
+    "gn:asciiname":"Walpaluwa",
+    "gn:country_code":"LK",
+    "gn:dem":49,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1224372,
+    "gn:latitude":7.8441,
+    "gn:longitude":79.9445,
+    "gn:modification_date":"1994-01-08",
+    "gn:name":"Walpaluwa",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632313,
+        85673779,
+        1092062091
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1224372
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"f8e71ce69fd09182da19a8d9f6d8787f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "county_id":1092062091,
+            "locality_id":1225890101,
+            "region_id":85673779
+        }
+    ],
+    "wof:id":1225890101,
+    "wof:lastmodified":1536950047,
+    "wof:name":"Walpaluwa",
+    "wof:parent_id":1092062091,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    79.9445,
+    7.8441,
+    79.9445,
+    7.8441
+],
+  "geometry": {"coordinates":[79.94450000000001,7.8441],"type":"Point"}
+}

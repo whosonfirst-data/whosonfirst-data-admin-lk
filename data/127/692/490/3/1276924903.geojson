@@ -1,0 +1,67 @@
+{
+  "id": 1276924903,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"80.5332,6.6138,80.5332,6.6138",
+    "geom:latitude":6.6138,
+    "geom:longitude":80.5332,
+    "gn:admin1_code":"33.0",
+    "gn:asciiname":"Ritidolawatta",
+    "gn:country_code":"LK",
+    "gn:dem":236,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7546926,
+    "gn:latitude":6.6138,
+    "gn:longitude":80.5332,
+    "gn:modification_date":"2010-10-09",
+    "gn:name":"Ritidolawatta",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632313,
+        85673785,
+        1092065303
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7546926
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"57790eab3719e3581d904a4a64fad589",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "county_id":1092065303,
+            "locality_id":1276924903,
+            "region_id":85673785
+        }
+    ],
+    "wof:id":1276924903,
+    "wof:lastmodified":1536980342,
+    "wof:name":"Ritidolawatta",
+    "wof:parent_id":1092065303,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    80.5332,
+    6.6138,
+    80.5332,
+    6.6138
+],
+  "geometry": {"coordinates":[80.53319999999999,6.6138],"type":"Point"}
+}

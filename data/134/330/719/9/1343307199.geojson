@@ -1,0 +1,67 @@
+{
+  "id": 1343307199,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"81.3068,6.3448,81.3068,6.3448",
+    "geom:latitude":6.3448,
+    "geom:longitude":81.3068,
+    "gn:admin1_code":"34.0",
+    "gn:asciiname":"Kodigahawewa",
+    "gn:country_code":"LK",
+    "gn:dem":61,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7622625,
+    "gn:latitude":6.3448,
+    "gn:longitude":81.3068,
+    "gn:modification_date":"2010-12-04",
+    "gn:name":"Kodigahawewa",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632313,
+        85673791,
+        1092066869
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7622625
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"729108d746c0dd118a7bb37d52a008e0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "county_id":1092066869,
+            "locality_id":1343307199,
+            "region_id":85673791
+        }
+    ],
+    "wof:id":1343307199,
+    "wof:lastmodified":1536967245,
+    "wof:name":"Kodigahawewa",
+    "wof:parent_id":1092066869,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    81.3068,
+    6.3448,
+    81.3068,
+    6.3448
+],
+  "geometry": {"coordinates":[81.3068,6.3448],"type":"Point"}
+}

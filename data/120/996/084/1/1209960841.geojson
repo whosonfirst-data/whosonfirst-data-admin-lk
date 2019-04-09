@@ -1,0 +1,70 @@
+{
+  "id": 1209960841,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"80.0484,6.8479,80.0484,6.8479",
+    "geom:latitude":6.8479,
+    "geom:longitude":80.0484,
+    "gn:admin1_code":"36.0",
+    "gn:asciiname":"Meegoda",
+    "gn:country_code":"LK",
+    "gn:dem":27,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1235114,
+    "gn:latitude":6.8479,
+    "gn:longitude":80.0484,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Meegoda",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Migoda"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632313,
+        85673811,
+        1092059399
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1235114
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"9b63574dbec602353ebca2f6ca550abe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "county_id":1092059399,
+            "locality_id":1209960841,
+            "region_id":85673811
+        }
+    ],
+    "wof:id":1209960841,
+    "wof:lastmodified":1537661456,
+    "wof:name":"Meegoda",
+    "wof:parent_id":1092059399,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    80.0484,
+    6.8479,
+    80.0484,
+    6.8479
+],
+  "geometry": {"coordinates":[80.0484,6.8479],"type":"Point"}
+}

@@ -1,0 +1,66 @@
+{
+  "id": 1326645057,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"80.30179,9.33721,80.30179,9.33721",
+    "geom:latitude":9.33721,
+    "geom:longitude":80.30179,
+    "gn:asciiname":"Skanthapuram",
+    "gn:country_code":"LK",
+    "gn:dem":32,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8739904,
+    "gn:latitude":9.33721,
+    "gn:longitude":80.30179,
+    "gn:modification_date":"2014-03-17",
+    "gn:name":"Skanthapuram",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632313,
+        85673773,
+        1092060465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8739904
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"57b0a383fd162e4712eaedd8f9451f72",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "county_id":1092060465,
+            "locality_id":1326645057,
+            "region_id":85673773
+        }
+    ],
+    "wof:id":1326645057,
+    "wof:lastmodified":1536820390,
+    "wof:name":"Skanthapuram",
+    "wof:parent_id":1092060465,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    80.30179,
+    9.33721,
+    80.30179,
+    9.33721
+],
+  "geometry": {"coordinates":[80.30179,9.33721],"type":"Point"}
+}

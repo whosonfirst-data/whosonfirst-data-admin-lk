@@ -1,0 +1,67 @@
+{
+  "id": 1344216797,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"80.2324,7.9669,80.2324,7.9669",
+    "geom:latitude":7.9669,
+    "geom:longitude":80.2324,
+    "gn:admin1_code":"32.0",
+    "gn:asciiname":"Pilla",
+    "gn:country_code":"LK",
+    "gn:dem":78,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1230223,
+    "gn:latitude":7.9669,
+    "gn:longitude":80.2324,
+    "gn:modification_date":"1994-01-08",
+    "gn:name":"Pilla",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632313,
+        85673777,
+        1092056565
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1230223
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"da32579ca28d97ac78de36c5d97c56b2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "county_id":1092056565,
+            "locality_id":1344216797,
+            "region_id":85673777
+        }
+    ],
+    "wof:id":1344216797,
+    "wof:lastmodified":1536649917,
+    "wof:name":"Pilla",
+    "wof:parent_id":1092056565,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    80.2324,
+    7.9669,
+    80.2324,
+    7.9669
+],
+  "geometry": {"coordinates":[80.2324,7.9669],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1360131721,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"80.65,7.4,80.65,7.4",
+    "geom:latitude":7.4,
+    "geom:longitude":80.65,
+    "gn:admin1_code":"29.0",
+    "gn:asciiname":"Kaduwela",
+    "gn:country_code":"LK",
+    "gn:dem":400,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1242510,
+    "gn:latitude":7.4,
+    "gn:longitude":80.65,
+    "gn:modification_date":"1998-03-18",
+    "gn:name":"Kaduwela",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632313,
+        85673723,
+        1092067025
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1242510
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"145892192d1123b1aa0375e6e100f3ae",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "county_id":1092067025,
+            "locality_id":1360131721,
+            "region_id":85673723
+        }
+    ],
+    "wof:id":1360131721,
+    "wof:lastmodified":1536877634,
+    "wof:name":"Kaduwela",
+    "wof:parent_id":1092067025,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    80.65,
+    7.4,
+    80.65,
+    7.4
+],
+  "geometry": {"coordinates":[80.65000000000001,7.4],"type":"Point"}
+}

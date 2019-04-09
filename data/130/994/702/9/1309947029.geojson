@@ -1,0 +1,67 @@
+{
+  "id": 1309947029,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"80.8469,6.2164,80.8469,6.2164",
+    "geom:latitude":6.2164,
+    "geom:longitude":80.8469,
+    "gn:admin1_code":"34.0",
+    "gn:asciiname":"Suriyapokuna",
+    "gn:country_code":"LK",
+    "gn:dem":57,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1227509,
+    "gn:latitude":6.2164,
+    "gn:longitude":80.8469,
+    "gn:modification_date":"1994-01-08",
+    "gn:name":"Suriyapokuna",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632313,
+        85673791,
+        1092056653
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1227509
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"5710ca2ae7145bddeb891a423953dab7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "county_id":1092056653,
+            "locality_id":1309947029,
+            "region_id":85673791
+        }
+    ],
+    "wof:id":1309947029,
+    "wof:lastmodified":1536727978,
+    "wof:name":"Suriyapokuna",
+    "wof:parent_id":1092056653,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    80.8469,
+    6.2164,
+    80.8469,
+    6.2164
+],
+  "geometry": {"coordinates":[80.84690000000001,6.2164],"type":"Point"}
+}

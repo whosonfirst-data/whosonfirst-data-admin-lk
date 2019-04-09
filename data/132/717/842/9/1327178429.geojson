@@ -1,0 +1,70 @@
+{
+  "id": 1327178429,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"80.0038,6.9279,80.0038,6.9279",
+    "geom:latitude":6.9279,
+    "geom:longitude":80.0038,
+    "gn:admin1_code":"36.0",
+    "gn:asciiname":"Pahala Bomiriya",
+    "gn:country_code":"LK",
+    "gn:dem":13,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1249659,
+    "gn:latitude":6.9279,
+    "gn:longitude":80.0038,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Pahala Bomiriya",
+    "gn:population":0,
+    "gn:timezone":"Asia/Colombo",
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bomiriya Pahala"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632313,
+        85673811,
+        1092059875
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1249659
+    },
+    "wof:country":"LK",
+    "wof:geomhash":"55a8d957704abf94aca9734b7eb61969",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "county_id":1092059875,
+            "locality_id":1327178429,
+            "region_id":85673811
+        }
+    ],
+    "wof:id":1327178429,
+    "wof:lastmodified":1537661586,
+    "wof:name":"Pahala Bomiriya",
+    "wof:parent_id":1092059875,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    80.0038,
+    6.9279,
+    80.0038,
+    6.9279
+],
+  "geometry": {"coordinates":[80.0038,6.9279],"type":"Point"}
+}
