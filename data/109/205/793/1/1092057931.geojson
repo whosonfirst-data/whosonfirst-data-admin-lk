@@ -10,6 +10,12 @@
     "geom:latitude":7.253634,
     "geom:longitude":80.006965,
     "iso:country":"LK",
+    "label:eng_x_preferred_longname":[
+        "Divulapitiya Division"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "division"
+    ],
     "lbl:latitude":7.256563,
     "lbl:longitude":80.00489,
     "meso:admin_1":"Gampaha",
@@ -66,7 +72,7 @@
         }
     ],
     "wof:id":1092057931,
-    "wof:lastmodified":1536615142,
+    "wof:lastmodified":1553718092,
     "wof:name":"Divulapitiya",
     "wof:parent_id":85673815,
     "wof:placetype":"county",

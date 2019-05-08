@@ -10,6 +10,12 @@
     "geom:latitude":7.177968,
     "geom:longitude":81.80161,
     "iso:country":"LK",
+    "label:eng_x_preferred_longname":[
+        "Alayadiwembu Division"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "division"
+    ],
     "lbl:latitude":7.180176,
     "lbl:longitude":81.800687,
     "meso:admin_1":"Ampara",
@@ -66,7 +72,7 @@
         }
     ],
     "wof:id":1092056377,
-    "wof:lastmodified":1536615140,
+    "wof:lastmodified":1553718090,
     "wof:name":"Alayadiwembu",
     "wof:parent_id":85673733,
     "wof:placetype":"county",

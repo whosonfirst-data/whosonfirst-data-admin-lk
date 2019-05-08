@@ -10,6 +10,12 @@
     "geom:latitude":7.96239,
     "geom:longitude":81.411578,
     "iso:country":"LK",
+    "label:eng_x_preferred_longname":[
+        "Koralai Pattu Central Division"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "division"
+    ],
     "lbl:latitude":7.98249,
     "lbl:longitude":81.34409,
     "meso:admin_1":"Batticaloa",
@@ -66,7 +72,7 @@
         }
     ],
     "wof:id":1092061217,
-    "wof:lastmodified":1536615145,
+    "wof:lastmodified":1553718095,
     "wof:name":"Koralai Pattu Central",
     "wof:parent_id":85673737,
     "wof:placetype":"county",

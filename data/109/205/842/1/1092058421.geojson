@@ -10,6 +10,12 @@
     "geom:latitude":7.773981,
     "geom:longitude":81.605278,
     "iso:country":"LK",
+    "label:eng_x_preferred_longname":[
+        "Eravur Town Division"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "division"
+    ],
     "lbl:latitude":7.774409,
     "lbl:longitude":81.605278,
     "meso:admin_1":"Batticaloa",
@@ -66,7 +72,7 @@
         }
     ],
     "wof:id":1092058421,
-    "wof:lastmodified":1536615142,
+    "wof:lastmodified":1553718092,
     "wof:name":"Eravur Town",
     "wof:parent_id":85673737,
     "wof:placetype":"county",

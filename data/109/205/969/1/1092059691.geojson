@@ -10,6 +10,12 @@
     "geom:latitude":8.086756,
     "geom:longitude":80.507035,
     "iso:country":"LK",
+    "label:eng_x_preferred_longname":[
+        "Ipalogama Division"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "division"
+    ],
     "lbl:latitude":8.09622,
     "lbl:longitude":80.501499,
     "meso:admin_1":"Anuradhapura",
@@ -66,7 +72,7 @@
         }
     ],
     "wof:id":1092059691,
-    "wof:lastmodified":1536615143,
+    "wof:lastmodified":1553718094,
     "wof:name":"Ipalogama",
     "wof:parent_id":85673751,
     "wof:placetype":"county",

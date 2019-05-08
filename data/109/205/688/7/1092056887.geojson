@@ -10,6 +10,12 @@
     "geom:latitude":6.628482,
     "geom:longitude":80.767898,
     "iso:country":"LK",
+    "label:eng_x_preferred_longname":[
+        "Balangoda Division"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "division"
+    ],
     "lbl:latitude":6.624092,
     "lbl:longitude":80.831782,
     "meso:admin_1":"Rathnapura",
@@ -66,7 +72,7 @@
         }
     ],
     "wof:id":1092056887,
-    "wof:lastmodified":1536615141,
+    "wof:lastmodified":1553718091,
     "wof:name":"Balangoda",
     "wof:parent_id":85673785,
     "wof:placetype":"county",

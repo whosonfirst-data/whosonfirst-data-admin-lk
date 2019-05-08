@@ -10,6 +10,12 @@
     "geom:latitude":6.166136,
     "geom:longitude":80.131453,
     "iso:country":"LK",
+    "label:eng_x_preferred_longname":[
+        "Gonapeenuwala Division"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "division"
+    ],
     "lbl:latitude":6.168506,
     "lbl:longitude":80.133645,
     "meso:admin_1":"Galle",
@@ -66,7 +72,7 @@
         }
     ],
     "wof:id":1092058887,
-    "wof:lastmodified":1536615142,
+    "wof:lastmodified":1555220362,
     "wof:name":"Gonapeenuwala",
     "wof:parent_id":85673789,
     "wof:placetype":"county",

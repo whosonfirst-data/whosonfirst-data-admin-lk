@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003993,
-    "geom:area_square_m":49002456.243734,
+    "geom:area_square_m":49002456.24368,
     "geom:bbox":"81.0445492519,6.9447778756,81.1295170321,7.01768711658",
     "geom:latitude":6.98604,
     "geom:longitude":81.090566,
     "iso:country":"LK",
+    "label:eng_x_preferred_longname":[
+        "Badulla Division"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "division"
+    ],
     "lbl:latitude":6.988465,
     "lbl:longitude":81.099061,
     "meso:admin_1":"Badulla",
@@ -179,7 +185,7 @@
         }
     ],
     "wof:id":1092056843,
-    "wof:lastmodified":1553816445,
+    "wof:lastmodified":1555037649,
     "wof:name":"Badulla",
     "wof:parent_id":85673801,
     "wof:placetype":"county",

@@ -10,6 +10,12 @@
     "geom:latitude":6.863733,
     "geom:longitude":80.569759,
     "iso:country":"LK",
+    "label:eng_x_preferred_longname":[
+        "Ambagamuwa Division"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "division"
+    ],
     "lbl:latitude":6.845498,
     "lbl:longitude":80.572348,
     "meso:admin_1":"Nuwara Eliya",
@@ -66,7 +72,7 @@
         }
     ],
     "wof:id":1092056403,
-    "wof:lastmodified":1536615140,
+    "wof:lastmodified":1553718090,
     "wof:name":"Ambagamuwa",
     "wof:parent_id":85673731,
     "wof:placetype":"county",

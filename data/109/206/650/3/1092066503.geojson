@@ -10,6 +10,12 @@
     "geom:latitude":8.154608,
     "geom:longitude":80.317039,
     "iso:country":"LK",
+    "label:eng_x_preferred_longname":[
+        "Thambuttegama Division"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "division"
+    ],
     "lbl:latitude":8.169278,
     "lbl:longitude":80.306166,
     "meso:admin_1":"Anuradhapura",
@@ -66,7 +72,7 @@
         }
     ],
     "wof:id":1092066503,
-    "wof:lastmodified":1536615150,
+    "wof:lastmodified":1553718100,
     "wof:name":"Thambuttegama",
     "wof:parent_id":85673751,
     "wof:placetype":"county",

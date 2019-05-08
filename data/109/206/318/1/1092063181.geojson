@@ -10,6 +10,12 @@
     "geom:latitude":8.184485,
     "geom:longitude":81.040263,
     "iso:country":"LK",
+    "label:eng_x_preferred_longname":[
+        "Medirigiriya Division"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "division"
+    ],
     "lbl:latitude":8.190619,
     "lbl:longitude":81.04278,
     "meso:admin_1":"Polonnaruwa",
@@ -66,7 +72,7 @@
         }
     ],
     "wof:id":1092063181,
-    "wof:lastmodified":1536615147,
+    "wof:lastmodified":1553718097,
     "wof:name":"Medirigiriya",
     "wof:parent_id":85673743,
     "wof:placetype":"county",

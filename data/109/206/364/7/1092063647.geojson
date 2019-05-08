@@ -10,6 +10,12 @@
     "geom:latitude":8.677796,
     "geom:longitude":80.020642,
     "iso:country":"LK",
+    "label:eng_x_preferred_longname":[
+        "Musali Division"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "division"
+    ],
     "lbl:latitude":8.727318,
     "lbl:longitude":80.022553,
     "meso:admin_1":"Mannar",
@@ -66,7 +72,7 @@
         }
     ],
     "wof:id":1092063647,
-    "wof:lastmodified":1536615147,
+    "wof:lastmodified":1553718097,
     "wof:name":"Musali",
     "wof:parent_id":85673761,
     "wof:placetype":"county",

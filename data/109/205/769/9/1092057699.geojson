@@ -10,6 +10,12 @@
     "geom:latitude":9.511267,
     "geom:longitude":79.691926,
     "iso:country":"LK",
+    "label:eng_x_preferred_longname":[
+        "Delft Division"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "division"
+    ],
     "lbl:latitude":9.507983,
     "lbl:longitude":79.691156,
     "meso:admin_1":"Jaffna",
@@ -66,7 +72,7 @@
         }
     ],
     "wof:id":1092057699,
-    "wof:lastmodified":1536615141,
+    "wof:lastmodified":1553718092,
     "wof:name":"Delft",
     "wof:parent_id":85673769,
     "wof:placetype":"county",

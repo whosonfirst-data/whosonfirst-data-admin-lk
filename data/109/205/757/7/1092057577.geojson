@@ -10,6 +10,12 @@
     "geom:latitude":7.624308,
     "geom:longitude":81.086572,
     "iso:country":"LK",
+    "label:eng_x_preferred_longname":[
+        "Dehiattakandiya Division"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "division"
+    ],
     "lbl:latitude":7.618385,
     "lbl:longitude":81.088817,
     "meso:admin_1":"Ampara",
@@ -66,7 +72,7 @@
         }
     ],
     "wof:id":1092057577,
-    "wof:lastmodified":1536615141,
+    "wof:lastmodified":1553718092,
     "wof:name":"Dehiattakandiya",
     "wof:parent_id":85673733,
     "wof:placetype":"county",

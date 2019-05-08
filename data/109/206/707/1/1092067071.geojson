@@ -10,6 +10,12 @@
     "geom:latitude":9.6129,
     "geom:longitude":80.409049,
     "iso:country":"LK",
+    "label:eng_x_preferred_longname":[
+        "Vadamaradchy East Division"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "division"
+    ],
     "lbl:latitude":9.550166,
     "lbl:longitude":80.46935,
     "meso:admin_1":"Jaffna",
@@ -66,7 +72,7 @@
         }
     ],
     "wof:id":1092067071,
-    "wof:lastmodified":1536615151,
+    "wof:lastmodified":1553718101,
     "wof:name":"Vadamaradchy East",
     "wof:parent_id":85673769,
     "wof:placetype":"county",

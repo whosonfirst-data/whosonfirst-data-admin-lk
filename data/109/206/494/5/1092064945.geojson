@@ -10,6 +10,12 @@
     "geom:latitude":8.080275,
     "geom:longitude":80.719897,
     "iso:country":"LK",
+    "label:eng_x_preferred_longname":[
+        "Palugaswewa Division"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "division"
+    ],
     "lbl:latitude":8.070165,
     "lbl:longitude":80.713186,
     "meso:admin_1":"Anuradhapura",
@@ -66,7 +72,7 @@
         }
     ],
     "wof:id":1092064945,
-    "wof:lastmodified":1536615148,
+    "wof:lastmodified":1553718099,
     "wof:name":"Palugaswewa",
     "wof:parent_id":85673751,
     "wof:placetype":"county",

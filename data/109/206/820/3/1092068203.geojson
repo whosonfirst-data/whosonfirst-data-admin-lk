@@ -10,6 +10,12 @@
     "geom:latitude":6.106801,
     "geom:longitude":80.359426,
     "iso:country":"LK",
+    "label:eng_x_preferred_longname":[
+        "Yakkalamulla Division"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "division"
+    ],
     "lbl:latitude":6.109805,
     "lbl:longitude":80.364702,
     "meso:admin_1":"Galle",
@@ -66,7 +72,7 @@
         }
     ],
     "wof:id":1092068203,
-    "wof:lastmodified":1536615152,
+    "wof:lastmodified":1553718102,
     "wof:name":"Yakkalamulla",
     "wof:parent_id":85673789,
     "wof:placetype":"county",

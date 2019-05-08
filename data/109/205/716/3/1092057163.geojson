@@ -10,6 +10,12 @@
     "geom:latitude":6.968289,
     "geom:longitude":79.976701,
     "iso:country":"LK",
+    "label:eng_x_preferred_longname":[
+        "Biyagama Division"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "division"
+    ],
     "lbl:latitude":6.965946,
     "lbl:longitude":79.976701,
     "meso:admin_1":"Gampaha",
@@ -66,7 +72,7 @@
         }
     ],
     "wof:id":1092057163,
-    "wof:lastmodified":1536615141,
+    "wof:lastmodified":1553718091,
     "wof:name":"Biyagama",
     "wof:parent_id":85673815,
     "wof:placetype":"county",

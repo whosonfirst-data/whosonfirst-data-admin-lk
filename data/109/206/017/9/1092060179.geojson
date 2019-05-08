@@ -10,6 +10,12 @@
     "geom:latitude":7.413193,
     "geom:longitude":81.827652,
     "iso:country":"LK",
+    "label:eng_x_preferred_longname":[
+        "Kalmunai Division"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "division"
+    ],
     "lbl:latitude":7.410756,
     "lbl:longitude":81.829544,
     "meso:admin_1":"Ampara",
@@ -66,7 +72,7 @@
         }
     ],
     "wof:id":1092060179,
-    "wof:lastmodified":1536615144,
+    "wof:lastmodified":1553718094,
     "wof:name":"Kalmunai",
     "wof:parent_id":85673733,
     "wof:placetype":"county",

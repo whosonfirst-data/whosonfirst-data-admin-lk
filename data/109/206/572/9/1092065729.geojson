@@ -10,6 +10,12 @@
     "geom:latitude":7.32233,
     "geom:longitude":80.386556,
     "iso:country":"LK",
+    "label:eng_x_preferred_longname":[
+        "Rambukkana Division"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "division"
+    ],
     "lbl:latitude":7.322242,
     "lbl:longitude":80.387682,
     "meso:admin_1":"Kegalle",
@@ -66,7 +72,7 @@
         }
     ],
     "wof:id":1092065729,
-    "wof:lastmodified":1536615149,
+    "wof:lastmodified":1553718100,
     "wof:name":"Rambukkana",
     "wof:parent_id":85673807,
     "wof:placetype":"county",

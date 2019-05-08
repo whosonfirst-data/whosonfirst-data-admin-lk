@@ -10,6 +10,12 @@
     "geom:latitude":7.182513,
     "geom:longitude":80.700444,
     "iso:country":"LK",
+    "label:eng_x_preferred_longname":[
+        "Delthota Division"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "division"
+    ],
     "lbl:latitude":7.178077,
     "lbl:longitude":80.71326,
     "meso:admin_1":"Kandy",
@@ -66,7 +72,7 @@
         }
     ],
     "wof:id":1092057737,
-    "wof:lastmodified":1536615141,
+    "wof:lastmodified":1553718092,
     "wof:name":"Delthota",
     "wof:parent_id":85673719,
     "wof:placetype":"county",

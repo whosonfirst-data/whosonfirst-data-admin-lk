@@ -10,6 +10,12 @@
     "geom:latitude":6.32293,
     "geom:longitude":80.539799,
     "iso:country":"LK",
+    "label:eng_x_preferred_longname":[
+        "Kotapola Division"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "division"
+    ],
     "lbl:latitude":6.3338,
     "lbl:longitude":80.524804,
     "meso:admin_1":"Matara",
@@ -66,7 +72,7 @@
         }
     ],
     "wof:id":1092061375,
-    "wof:lastmodified":1536615145,
+    "wof:lastmodified":1553718095,
     "wof:name":"Kotapola",
     "wof:parent_id":85673795,
     "wof:placetype":"county",

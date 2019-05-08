@@ -10,6 +10,12 @@
     "geom:latitude":7.473978,
     "geom:longitude":80.055069,
     "iso:country":"LK",
+    "label:eng_x_preferred_longname":[
+        "Kuliyapitiya West Division"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "division"
+    ],
     "lbl:latitude":7.459541,
     "lbl:longitude":80.075696,
     "meso:admin_1":"Kurunegala",
@@ -66,7 +72,7 @@
         }
     ],
     "wof:id":1092061569,
-    "wof:lastmodified":1536615145,
+    "wof:lastmodified":1553718095,
     "wof:name":"Kuliyapitiya West",
     "wof:parent_id":85673777,
     "wof:placetype":"county",

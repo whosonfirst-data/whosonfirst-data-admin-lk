@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.019718,
-    "geom:area_square_m":241520108.806969,
+    "geom:area_square_m":241520108.80695,
     "geom:bbox":"79.7463483457,7.73140269983,79.8861460755,7.98595606013",
     "geom:latitude":7.860068,
     "geom:longitude":79.814236,
     "iso:country":"LK",
+    "label:eng_x_preferred_longname":[
+        "Mundal Division"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "division"
+    ],
     "lbl:latitude":7.871468,
     "lbl:longitude":79.809531,
     "meso:admin_1":"Puttalam",
@@ -179,7 +185,7 @@
         }
     ],
     "wof:id":1092063613,
-    "wof:lastmodified":1553816445,
+    "wof:lastmodified":1555037649,
     "wof:name":"Mundal",
     "wof:parent_id":85673779,
     "wof:placetype":"county",

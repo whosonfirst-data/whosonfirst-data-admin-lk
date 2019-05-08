@@ -10,6 +10,12 @@
     "geom:latitude":6.192972,
     "geom:longitude":80.851592,
     "iso:country":"LK",
+    "label:eng_x_preferred_longname":[
+        "Angunakolapelessa Division"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "division"
+    ],
     "lbl:latitude":6.177736,
     "lbl:longitude":80.871513,
     "meso:admin_1":"Hambantota",
@@ -66,7 +72,7 @@
         }
     ],
     "wof:id":1092056653,
-    "wof:lastmodified":1536615140,
+    "wof:lastmodified":1553718091,
     "wof:name":"Angunakolapelessa",
     "wof:parent_id":85673791,
     "wof:placetype":"county",

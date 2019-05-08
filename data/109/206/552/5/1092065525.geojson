@@ -10,6 +10,12 @@
     "geom:latitude":6.940382,
     "geom:longitude":81.800106,
     "iso:country":"LK",
+    "label:eng_x_preferred_longname":[
+        "Pottuvil Division"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "division"
+    ],
     "lbl:latitude":6.948726,
     "lbl:longitude":81.8001,
     "meso:admin_1":"Ampara",
@@ -66,7 +72,7 @@
         }
     ],
     "wof:id":1092065525,
-    "wof:lastmodified":1536615149,
+    "wof:lastmodified":1553718099,
     "wof:name":"Pottuvil",
     "wof:parent_id":85673733,
     "wof:placetype":"county",

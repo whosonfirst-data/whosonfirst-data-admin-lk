@@ -10,6 +10,12 @@
     "geom:latitude":9.589218,
     "geom:longitude":80.359103,
     "iso:country":"LK",
+    "label:eng_x_preferred_longname":[
+        "Pachchilaipalli Division"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "division"
+    ],
     "lbl:latitude":9.581734,
     "lbl:longitude":80.374336,
     "meso:admin_1":"Kilinochchi",
@@ -66,7 +72,7 @@
         }
     ],
     "wof:id":1092064543,
-    "wof:lastmodified":1536615148,
+    "wof:lastmodified":1553718098,
     "wof:name":"Pachchilaipalli",
     "wof:parent_id":85673773,
     "wof:placetype":"county",

@@ -10,6 +10,12 @@
     "geom:latitude":7.427012,
     "geom:longitude":81.261964,
     "iso:country":"LK",
+    "label:eng_x_preferred_longname":[
+        "Padiyathalawa Division"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "division"
+    ],
     "lbl:latitude":7.442122,
     "lbl:longitude":81.248414,
     "meso:admin_1":"Ampara",
@@ -66,7 +72,7 @@
         }
     ],
     "wof:id":1092064659,
-    "wof:lastmodified":1536615148,
+    "wof:lastmodified":1553718098,
     "wof:name":"Padiyathalawa",
     "wof:parent_id":85673733,
     "wof:placetype":"county",

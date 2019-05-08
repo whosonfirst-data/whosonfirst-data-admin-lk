@@ -10,6 +10,12 @@
     "geom:latitude":7.037981,
     "geom:longitude":81.188597,
     "iso:country":"LK",
+    "label:eng_x_preferred_longname":[
+        "Lunugala Division"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "division"
+    ],
     "lbl:latitude":7.039949,
     "lbl:longitude":81.195511,
     "meso:admin_1":"Badulla",
@@ -66,7 +72,7 @@
         }
     ],
     "wof:id":1092061877,
-    "wof:lastmodified":1536615145,
+    "wof:lastmodified":1553718096,
     "wof:name":"Lunugala",
     "wof:parent_id":85673801,
     "wof:placetype":"county",

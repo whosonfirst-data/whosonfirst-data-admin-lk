@@ -10,6 +10,12 @@
     "geom:latitude":6.64894,
     "geom:longitude":80.096685,
     "iso:country":"LK",
+    "label:eng_x_preferred_longname":[
+        "Madurawala Division"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "division"
+    ],
     "lbl:latitude":6.608931,
     "lbl:longitude":80.113179,
     "meso:admin_1":"Kalutara",
@@ -66,7 +72,7 @@
         }
     ],
     "wof:id":1092062035,
-    "wof:lastmodified":1536615145,
+    "wof:lastmodified":1553718096,
     "wof:name":"Madurawala",
     "wof:parent_id":85673819,
     "wof:placetype":"county",

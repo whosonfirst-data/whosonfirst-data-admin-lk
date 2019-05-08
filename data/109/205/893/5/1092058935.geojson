@@ -10,6 +10,12 @@
     "geom:latitude":5.998705,
     "geom:longitude":80.317427,
     "iso:country":"LK",
+    "label:eng_x_preferred_longname":[
+        "Habaraduwa Division"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "division"
+    ],
     "lbl:latitude":5.99689,
     "lbl:longitude":80.330095,
     "meso:admin_1":"Galle",
@@ -66,7 +72,7 @@
         }
     ],
     "wof:id":1092058935,
-    "wof:lastmodified":1536615143,
+    "wof:lastmodified":1553718093,
     "wof:name":"Habaraduwa",
     "wof:parent_id":85673789,
     "wof:placetype":"county",

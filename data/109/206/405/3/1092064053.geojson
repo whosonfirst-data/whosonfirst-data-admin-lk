@@ -10,6 +10,12 @@
     "geom:latitude":7.208399,
     "geom:longitude":79.843286,
     "iso:country":"LK",
+    "label:eng_x_preferred_longname":[
+        "Negombo Division"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "division"
+    ],
     "lbl:latitude":7.156027,
     "lbl:longitude":79.83024,
     "meso:admin_1":"Gampaha",
@@ -66,7 +72,7 @@
         }
     ],
     "wof:id":1092064053,
-    "wof:lastmodified":1536615147,
+    "wof:lastmodified":1553718098,
     "wof:name":"Negombo",
     "wof:parent_id":85673815,
     "wof:placetype":"county",

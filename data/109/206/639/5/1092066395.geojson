@@ -10,6 +10,12 @@
     "geom:latitude":8.185371,
     "geom:longitude":80.375951,
     "iso:country":"LK",
+    "label:eng_x_preferred_longname":[
+        "Thalawa Division"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "division"
+    ],
     "lbl:latitude":8.128949,
     "lbl:longitude":80.393039,
     "meso:admin_1":"Anuradhapura",
@@ -66,7 +72,7 @@
         }
     ],
     "wof:id":1092066395,
-    "wof:lastmodified":1536615150,
+    "wof:lastmodified":1553718100,
     "wof:name":"Thalawa",
     "wof:parent_id":85673751,
     "wof:placetype":"county",

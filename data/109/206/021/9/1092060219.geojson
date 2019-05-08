@@ -10,6 +10,12 @@
     "geom:latitude":8.127484,
     "geom:longitude":79.740031,
     "iso:country":"LK",
+    "label:eng_x_preferred_longname":[
+        "Kalpitiya Division"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "division"
+    ],
     "lbl:latitude":8.107808,
     "lbl:longitude":79.717378,
     "meso:admin_1":"Puttalam",
@@ -66,7 +72,7 @@
         }
     ],
     "wof:id":1092060219,
-    "wof:lastmodified":1536615144,
+    "wof:lastmodified":1553718094,
     "wof:name":"Kalpitiya",
     "wof:parent_id":85673779,
     "wof:placetype":"county",

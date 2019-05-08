@@ -10,6 +10,12 @@
     "geom:latitude":7.328926,
     "geom:longitude":80.587171,
     "iso:country":"LK",
+    "label:eng_x_preferred_longname":[
+        "Harispattuwa Division"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "division"
+    ],
     "lbl:latitude":7.330486,
     "lbl:longitude":80.591327,
     "meso:admin_1":"Kandy",
@@ -66,7 +72,7 @@
         }
     ],
     "wof:id":1092059229,
-    "wof:lastmodified":1536615143,
+    "wof:lastmodified":1553718093,
     "wof:name":"Harispattuwa",
     "wof:parent_id":85673719,
     "wof:placetype":"county",

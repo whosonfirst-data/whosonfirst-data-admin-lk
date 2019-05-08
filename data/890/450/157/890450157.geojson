@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.010173,
-    "geom:area_square_m":124777378.07695,
+    "geom:area_square_m":124777378.076978,
     "geom:bbox":"81.4881869594,7.21680527099,81.7069018864,7.32154334948",
     "geom:latitude":7.272485,
     "geom:longitude":81.591954,
@@ -13,6 +13,12 @@
     "gn:fcode":"ADM2",
     "gn:pop":614674,
     "iso:country":"LK",
+    "label:eng_x_preferred_longname":[
+        "Ampara Division"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "division"
+    ],
     "lbl:latitude":7.254801,
     "lbl:longitude":81.573769,
     "meso:admin_1":"Ampara",
@@ -196,7 +202,7 @@
         }
     ],
     "wof:id":890450157,
-    "wof:lastmodified":1553816402,
+    "wof:lastmodified":1555037024,
     "wof:name":"Ampara",
     "wof:parent_id":85673733,
     "wof:placetype":"county",

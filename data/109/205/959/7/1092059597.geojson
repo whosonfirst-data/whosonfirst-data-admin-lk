@@ -10,6 +10,12 @@
     "geom:latitude":6.715237,
     "geom:longitude":80.736914,
     "iso:country":"LK",
+    "label:eng_x_preferred_longname":[
+        "Imbulpe Division"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "division"
+    ],
     "lbl:latitude":6.704483,
     "lbl:longitude":80.738967,
     "meso:admin_1":"Rathnapura",
@@ -66,7 +72,7 @@
         }
     ],
     "wof:id":1092059597,
-    "wof:lastmodified":1536615143,
+    "wof:lastmodified":1553718094,
     "wof:name":"Imbulpe",
     "wof:parent_id":85673785,
     "wof:placetype":"county",

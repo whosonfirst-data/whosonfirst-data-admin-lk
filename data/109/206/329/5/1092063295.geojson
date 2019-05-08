@@ -10,6 +10,12 @@
     "geom:latitude":6.658068,
     "geom:longitude":80.032532,
     "iso:country":"LK",
+    "label:eng_x_preferred_longname":[
+        "Millaniya Division"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "division"
+    ],
     "lbl:latitude":6.66495,
     "lbl:longitude":80.027978,
     "meso:admin_1":"Kalutara",
@@ -66,7 +72,7 @@
         }
     ],
     "wof:id":1092063295,
-    "wof:lastmodified":1536615147,
+    "wof:lastmodified":1553718097,
     "wof:name":"Millaniya",
     "wof:parent_id":85673819,
     "wof:placetype":"county",

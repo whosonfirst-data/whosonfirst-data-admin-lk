@@ -10,6 +10,12 @@
     "geom:latitude":6.830108,
     "geom:longitude":81.00585,
     "iso:country":"LK",
+    "label:eng_x_preferred_longname":[
+        "Bandarawela Division"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "division"
+    ],
     "lbl:latitude":6.819118,
     "lbl:longitude":81.001636,
     "meso:admin_1":"Badulla",
@@ -66,7 +72,7 @@
         }
     ],
     "wof:id":1092057059,
-    "wof:lastmodified":1536615141,
+    "wof:lastmodified":1553718091,
     "wof:name":"Bandarawela",
     "wof:parent_id":85673801,
     "wof:placetype":"county",

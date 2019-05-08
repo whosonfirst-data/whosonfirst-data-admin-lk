@@ -10,6 +10,12 @@
     "geom:latitude":6.263992,
     "geom:longitude":80.716254,
     "iso:country":"LK",
+    "label:eng_x_preferred_longname":[
+        "Katuwana Division"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "division"
+    ],
     "lbl:latitude":6.268708,
     "lbl:longitude":80.696198,
     "meso:admin_1":"Hambantota",
@@ -66,7 +72,7 @@
         }
     ],
     "wof:id":1092060721,
-    "wof:lastmodified":1536615144,
+    "wof:lastmodified":1553718094,
     "wof:name":"Katuwana",
     "wof:parent_id":85673791,
     "wof:placetype":"county",

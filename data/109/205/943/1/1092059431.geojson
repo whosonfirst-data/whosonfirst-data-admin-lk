@@ -10,6 +10,12 @@
     "geom:latitude":6.756342,
     "geom:longitude":80.056074,
     "iso:country":"LK",
+    "label:eng_x_preferred_longname":[
+        "Horana Division"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "division"
+    ],
     "lbl:latitude":6.752307,
     "lbl:longitude":80.057135,
     "meso:admin_1":"Kalutara",
@@ -66,7 +72,7 @@
         }
     ],
     "wof:id":1092059431,
-    "wof:lastmodified":1536615143,
+    "wof:lastmodified":1553718093,
     "wof:name":"Horana",
     "wof:parent_id":85673819,
     "wof:placetype":"county",

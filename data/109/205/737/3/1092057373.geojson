@@ -10,6 +10,12 @@
     "geom:latitude":7.579015,
     "geom:longitude":79.838935,
     "iso:country":"LK",
+    "label:eng_x_preferred_longname":[
+        "Chilaw Division"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "division"
+    ],
     "lbl:latitude":7.586461,
     "lbl:longitude":79.845263,
     "meso:admin_1":"Puttalam",
@@ -66,7 +72,7 @@
         }
     ],
     "wof:id":1092057373,
-    "wof:lastmodified":1536615141,
+    "wof:lastmodified":1553718091,
     "wof:name":"Chilaw",
     "wof:parent_id":85673779,
     "wof:placetype":"county",

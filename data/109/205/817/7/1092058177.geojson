@@ -10,6 +10,12 @@
     "geom:latitude":7.808579,
     "geom:longitude":80.841926,
     "iso:country":"LK",
+    "label:eng_x_preferred_longname":[
+        "Elahera Division"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "division"
+    ],
     "lbl:latitude":7.80256,
     "lbl:longitude":80.847963,
     "meso:admin_1":"Polonnaruwa",
@@ -66,7 +72,7 @@
         }
     ],
     "wof:id":1092058177,
-    "wof:lastmodified":1536615142,
+    "wof:lastmodified":1553718092,
     "wof:name":"Elahera",
     "wof:parent_id":85673743,
     "wof:placetype":"county",

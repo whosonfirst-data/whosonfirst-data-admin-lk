@@ -10,6 +10,12 @@
     "geom:latitude":6.360346,
     "geom:longitude":80.410378,
     "iso:country":"LK",
+    "label:eng_x_preferred_longname":[
+        "Neluwa Division"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "division"
+    ],
     "lbl:latitude":6.371049,
     "lbl:longitude":80.386479,
     "meso:admin_1":"Galle",
@@ -66,7 +72,7 @@
         }
     ],
     "wof:id":1092064097,
-    "wof:lastmodified":1536615147,
+    "wof:lastmodified":1553718098,
     "wof:name":"Neluwa",
     "wof:parent_id":85673789,
     "wof:placetype":"county",

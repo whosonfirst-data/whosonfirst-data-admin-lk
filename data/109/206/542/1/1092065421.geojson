@@ -10,6 +10,12 @@
     "geom:latitude":7.803271,
     "geom:longitude":80.427927,
     "iso:country":"LK",
+    "label:eng_x_preferred_longname":[
+        "Polpithigama Division"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "division"
+    ],
     "lbl:latitude":7.790379,
     "lbl:longitude":80.426334,
     "meso:admin_1":"Kurunegala",
@@ -66,7 +72,7 @@
         }
     ],
     "wof:id":1092065421,
-    "wof:lastmodified":1536615149,
+    "wof:lastmodified":1553718099,
     "wof:name":"Polpithigama",
     "wof:parent_id":85673777,
     "wof:placetype":"county",

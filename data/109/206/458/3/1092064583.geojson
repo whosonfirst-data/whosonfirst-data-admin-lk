@@ -10,6 +10,12 @@
     "geom:latitude":8.915296,
     "geom:longitude":80.853083,
     "iso:country":"LK",
+    "label:eng_x_preferred_longname":[
+        "Padavi Sri Pura Division"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "division"
+    ],
     "lbl:latitude":8.923868,
     "lbl:longitude":80.859084,
     "meso:admin_1":"Trincomalee",
@@ -66,7 +72,7 @@
         }
     ],
     "wof:id":1092064583,
-    "wof:lastmodified":1536615148,
+    "wof:lastmodified":1553718098,
     "wof:name":"Padavi Sri Pura",
     "wof:parent_id":85673747,
     "wof:placetype":"county",

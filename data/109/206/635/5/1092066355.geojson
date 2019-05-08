@@ -10,6 +10,12 @@
     "geom:latitude":6.069729,
     "geom:longitude":80.825697,
     "iso:country":"LK",
+    "label:eng_x_preferred_longname":[
+        "Tangalle Division"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "division"
+    ],
     "lbl:latitude":6.083713,
     "lbl:longitude":80.844014,
     "meso:admin_1":"Hambantota",
@@ -66,7 +72,7 @@
         }
     ],
     "wof:id":1092066355,
-    "wof:lastmodified":1536615150,
+    "wof:lastmodified":1553718100,
     "wof:name":"Tangalle",
     "wof:parent_id":85673791,
     "wof:placetype":"county",

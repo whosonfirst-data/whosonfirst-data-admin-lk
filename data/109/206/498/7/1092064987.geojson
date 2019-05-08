@@ -10,6 +10,12 @@
     "geom:latitude":6.715905,
     "geom:longitude":79.918632,
     "iso:country":"LK",
+    "label:eng_x_preferred_longname":[
+        "Panadura Division"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "division"
+    ],
     "lbl:latitude":6.728836,
     "lbl:longitude":79.919215,
     "meso:admin_1":"Kalutara",
@@ -66,7 +72,7 @@
         }
     ],
     "wof:id":1092064987,
-    "wof:lastmodified":1536615148,
+    "wof:lastmodified":1553718099,
     "wof:name":"Panadura",
     "wof:parent_id":85673819,
     "wof:placetype":"county",

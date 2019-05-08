@@ -10,6 +10,12 @@
     "geom:latitude":7.86173,
     "geom:longitude":81.375768,
     "iso:country":"LK",
+    "label:eng_x_preferred_longname":[
+        "Koralai Pattu South (Kiran) Division"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "division"
+    ],
     "lbl:latitude":7.87288,
     "lbl:longitude":81.393577,
     "meso:admin_1":"Batticaloa",
@@ -66,7 +72,7 @@
         }
     ],
     "wof:id":1092061299,
-    "wof:lastmodified":1536615145,
+    "wof:lastmodified":1553718095,
     "wof:name":"Koralai Pattu South (Kiran)",
     "wof:parent_id":85673737,
     "wof:placetype":"county",

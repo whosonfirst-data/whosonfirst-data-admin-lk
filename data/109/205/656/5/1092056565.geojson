@@ -10,6 +10,12 @@
     "geom:latitude":7.907953,
     "geom:longitude":80.223917,
     "iso:country":"LK",
+    "label:eng_x_preferred_longname":[
+        "Ambanpola Division"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "division"
+    ],
     "lbl:latitude":7.908989,
     "lbl:longitude":80.222618,
     "meso:admin_1":"Kurunegala",
@@ -66,7 +72,7 @@
         }
     ],
     "wof:id":1092056565,
-    "wof:lastmodified":1536615140,
+    "wof:lastmodified":1553718090,
     "wof:name":"Ambanpola",
     "wof:parent_id":85673777,
     "wof:placetype":"county",

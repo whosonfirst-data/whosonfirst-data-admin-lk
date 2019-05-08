@@ -10,6 +10,12 @@
     "geom:latitude":8.019717,
     "geom:longitude":80.449604,
     "iso:country":"LK",
+    "label:eng_x_preferred_longname":[
+        "Galnewa Division"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "division"
+    ],
     "lbl:latitude":8.009596,
     "lbl:longitude":80.463036,
     "meso:admin_1":"Anuradhapura",
@@ -66,7 +72,7 @@
         }
     ],
     "wof:id":1092058635,
-    "wof:lastmodified":1536615142,
+    "wof:lastmodified":1553718093,
     "wof:name":"Galnewa",
     "wof:parent_id":85673751,
     "wof:placetype":"county",

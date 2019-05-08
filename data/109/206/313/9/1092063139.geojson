@@ -10,6 +10,12 @@
     "geom:latitude":8.588457,
     "geom:longitude":80.496665,
     "iso:country":"LK",
+    "label:eng_x_preferred_longname":[
+        "Medawachchiya Division"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "division"
+    ],
     "lbl:latitude":8.587229,
     "lbl:longitude":80.469374,
     "meso:admin_1":"Anuradhapura",
@@ -66,7 +72,7 @@
         }
     ],
     "wof:id":1092063139,
-    "wof:lastmodified":1536615146,
+    "wof:lastmodified":1553718097,
     "wof:name":"Medawachchiya",
     "wof:parent_id":85673751,
     "wof:placetype":"county",

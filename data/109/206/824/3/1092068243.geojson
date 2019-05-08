@@ -10,6 +10,12 @@
     "geom:latitude":7.549375,
     "geom:longitude":80.588453,
     "iso:country":"LK",
+    "label:eng_x_preferred_longname":[
+        "Yatawatta Division"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "division"
+    ],
     "lbl:latitude":7.551567,
     "lbl:longitude":80.582504,
     "meso:admin_1":"Matale",
@@ -66,7 +72,7 @@
         }
     ],
     "wof:id":1092068243,
-    "wof:lastmodified":1536615152,
+    "wof:lastmodified":1553718102,
     "wof:name":"Yatawatta",
     "wof:parent_id":85673723,
     "wof:placetype":"county",

@@ -10,6 +10,12 @@
     "geom:latitude":9.026695,
     "geom:longitude":80.11321,
     "iso:country":"LK",
+    "label:eng_x_preferred_longname":[
+        "Manthai West Division"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "division"
+    ],
     "lbl:latitude":8.993228,
     "lbl:longitude":80.115151,
     "meso:admin_1":"Mannar",
@@ -66,7 +72,7 @@
         }
     ],
     "wof:id":1092062755,
-    "wof:lastmodified":1536615146,
+    "wof:lastmodified":1553718097,
     "wof:name":"Manthai West",
     "wof:parent_id":85673761,
     "wof:placetype":"county",

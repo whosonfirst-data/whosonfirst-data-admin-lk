@@ -10,6 +10,12 @@
     "geom:latitude":9.739443,
     "geom:longitude":79.947223,
     "iso:country":"LK",
+    "label:eng_x_preferred_longname":[
+        "Valikamam West (Chankanai) Division"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "division"
+    ],
     "lbl:latitude":9.740853,
     "lbl:longitude":79.950434,
     "meso:admin_1":"Jaffna",
@@ -66,7 +72,7 @@
         }
     ],
     "wof:id":1092067255,
-    "wof:lastmodified":1536615151,
+    "wof:lastmodified":1553718101,
     "wof:name":"Valikamam West (Chankanai)",
     "wof:parent_id":85673769,
     "wof:placetype":"county",

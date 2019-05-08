@@ -10,6 +10,12 @@
     "geom:latitude":6.934365,
     "geom:longitude":79.913749,
     "iso:country":"LK",
+    "label:eng_x_preferred_longname":[
+        "Kolonnawa Division"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "division"
+    ],
     "lbl:latitude":6.932723,
     "lbl:longitude":79.905483,
     "meso:admin_1":"Colombo",
@@ -66,7 +72,7 @@
         }
     ],
     "wof:id":1092061133,
-    "wof:lastmodified":1536615145,
+    "wof:lastmodified":1553718095,
     "wof:name":"Kolonnawa",
     "wof:parent_id":85673811,
     "wof:placetype":"county",

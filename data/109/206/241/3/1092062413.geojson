@@ -10,6 +10,12 @@
     "geom:latitude":6.020081,
     "geom:longitude":80.498296,
     "iso:country":"LK",
+    "label:eng_x_preferred_longname":[
+        "Malimbada Division"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "division"
+    ],
     "lbl:latitude":6.007756,
     "lbl:longitude":80.503647,
     "meso:admin_1":"Matara",
@@ -66,7 +72,7 @@
         }
     ],
     "wof:id":1092062413,
-    "wof:lastmodified":1536615146,
+    "wof:lastmodified":1553718096,
     "wof:name":"Malimbada",
     "wof:parent_id":85673795,
     "wof:placetype":"county",

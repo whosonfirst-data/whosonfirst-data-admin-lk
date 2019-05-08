@@ -10,6 +10,12 @@
     "geom:latitude":7.22284,
     "geom:longitude":80.561107,
     "iso:country":"LK",
+    "label:eng_x_preferred_longname":[
+        "Udunuwara Division"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "division"
+    ],
     "lbl:latitude":7.224534,
     "lbl:longitude":80.561973,
     "meso:admin_1":"Kandy",
@@ -66,7 +72,7 @@
         }
     ],
     "wof:id":1092066991,
-    "wof:lastmodified":1536615150,
+    "wof:lastmodified":1553718101,
     "wof:name":"Udunuwara",
     "wof:parent_id":85673719,
     "wof:placetype":"county",

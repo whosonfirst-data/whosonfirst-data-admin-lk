@@ -10,6 +10,12 @@
     "geom:latitude":7.217239,
     "geom:longitude":81.787192,
     "iso:country":"LK",
+    "label:eng_x_preferred_longname":[
+        "Akkaraipattu Division"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "division"
+    ],
     "lbl:latitude":7.228882,
     "lbl:longitude":81.794653,
     "meso:admin_1":"Ampara",
@@ -66,7 +72,7 @@
         }
     ],
     "wof:id":1092056171,
-    "wof:lastmodified":1536615140,
+    "wof:lastmodified":1553718090,
     "wof:name":"Akkaraipattu",
     "wof:parent_id":85673733,
     "wof:placetype":"county",

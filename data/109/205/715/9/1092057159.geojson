@@ -10,6 +10,12 @@
     "geom:latitude":7.189442,
     "geom:longitude":81.29658,
     "iso:country":"LK",
+    "label:eng_x_preferred_longname":[
+        "Bibile Division"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "division"
+    ],
     "lbl:latitude":7.194488,
     "lbl:longitude":81.271876,
     "meso:admin_1":"Moneragala",
@@ -66,7 +72,7 @@
         }
     ],
     "wof:id":1092057159,
-    "wof:lastmodified":1536615141,
+    "wof:lastmodified":1553718091,
     "wof:name":"Bibile",
     "wof:parent_id":85673803,
     "wof:placetype":"county",

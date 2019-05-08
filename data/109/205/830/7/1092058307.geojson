@@ -10,6 +10,12 @@
     "geom:latitude":6.29071,
     "geom:longitude":80.186204,
     "iso:country":"LK",
+    "label:eng_x_preferred_longname":[
+        "Elpitiya Division"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "division"
+    ],
     "lbl:latitude":6.313101,
     "lbl:longitude":80.17304,
     "meso:admin_1":"Galle",
@@ -66,7 +72,7 @@
         }
     ],
     "wof:id":1092058307,
-    "wof:lastmodified":1536615142,
+    "wof:lastmodified":1553718092,
     "wof:name":"Elpitiya",
     "wof:parent_id":85673789,
     "wof:placetype":"county",

@@ -10,6 +10,12 @@
     "geom:latitude":7.604357,
     "geom:longitude":80.929003,
     "iso:country":"LK",
+    "label:eng_x_preferred_longname":[
+        "Wilgamuwa Division"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "division"
+    ],
     "lbl:latitude":7.605294,
     "lbl:longitude":80.927789,
     "meso:admin_1":"Matale",
@@ -66,7 +72,7 @@
         }
     ],
     "wof:id":1092068161,
-    "wof:lastmodified":1536615152,
+    "wof:lastmodified":1553718102,
     "wof:name":"Wilgamuwa",
     "wof:parent_id":85673723,
     "wof:placetype":"county",

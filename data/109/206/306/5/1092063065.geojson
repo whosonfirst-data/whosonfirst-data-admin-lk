@@ -10,6 +10,12 @@
     "geom:latitude":7.302896,
     "geom:longitude":80.799786,
     "iso:country":"LK",
+    "label:eng_x_preferred_longname":[
+        "Medadumbara Division"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "division"
+    ],
     "lbl:latitude":7.305832,
     "lbl:longitude":80.798601,
     "meso:admin_1":"Kandy",
@@ -66,7 +72,7 @@
         }
     ],
     "wof:id":1092063065,
-    "wof:lastmodified":1536615146,
+    "wof:lastmodified":1553718097,
     "wof:name":"Medadumbara",
     "wof:parent_id":85673719,
     "wof:placetype":"county",

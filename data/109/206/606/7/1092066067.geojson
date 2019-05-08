@@ -10,6 +10,12 @@
     "geom:latitude":7.327556,
     "geom:longitude":81.764641,
     "iso:country":"LK",
+    "label:eng_x_preferred_longname":[
+        "Sammanthurai Division"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "division"
+    ],
     "lbl:latitude":7.328873,
     "lbl:longitude":81.76463,
     "meso:admin_1":"Ampara",
@@ -66,7 +72,7 @@
         }
     ],
     "wof:id":1092066067,
-    "wof:lastmodified":1536615149,
+    "wof:lastmodified":1553718100,
     "wof:name":"Sammanthurai",
     "wof:parent_id":85673733,
     "wof:placetype":"county",

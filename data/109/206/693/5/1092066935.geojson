@@ -10,6 +10,12 @@
     "geom:latitude":7.3287,
     "geom:longitude":80.875027,
     "iso:country":"LK",
+    "label:eng_x_preferred_longname":[
+        "Udadumbara Division"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "division"
+    ],
     "lbl:latitude":7.287019,
     "lbl:longitude":80.89399,
     "meso:admin_1":"Kandy",
@@ -66,7 +72,7 @@
         }
     ],
     "wof:id":1092066935,
-    "wof:lastmodified":1536615150,
+    "wof:lastmodified":1553718101,
     "wof:name":"Udadumbara",
     "wof:parent_id":85673719,
     "wof:placetype":"county",

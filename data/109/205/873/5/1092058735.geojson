@@ -10,6 +10,12 @@
     "geom:latitude":7.110667,
     "geom:longitude":80.515454,
     "iso:country":"LK",
+    "label:eng_x_preferred_longname":[
+        "Ganga Ihala Korale Division"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "division"
+    ],
     "lbl:latitude":7.119952,
     "lbl:longitude":80.530996,
     "meso:admin_1":"Kandy",
@@ -66,7 +72,7 @@
         }
     ],
     "wof:id":1092058735,
-    "wof:lastmodified":1536615142,
+    "wof:lastmodified":1553718093,
     "wof:name":"Ganga Ihala Korale",
     "wof:parent_id":85673719,
     "wof:placetype":"county",

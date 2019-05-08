@@ -10,6 +10,12 @@
     "geom:latitude":6.611981,
     "geom:longitude":80.626974,
     "iso:country":"LK",
+    "label:eng_x_preferred_longname":[
+        "Opanayake Division"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "division"
+    ],
     "lbl:latitude":6.619301,
     "lbl:longitude":80.626974,
     "meso:admin_1":"Rathnapura",
@@ -66,7 +72,7 @@
         }
     ],
     "wof:id":1092064505,
-    "wof:lastmodified":1536615148,
+    "wof:lastmodified":1553718098,
     "wof:name":"Opanayake",
     "wof:parent_id":85673785,
     "wof:placetype":"county",

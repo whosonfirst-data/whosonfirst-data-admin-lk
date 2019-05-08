@@ -10,6 +10,12 @@
     "geom:latitude":7.906471,
     "geom:longitude":80.537922,
     "iso:country":"LK",
+    "label:eng_x_preferred_longname":[
+        "Palagala Division"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "division"
+    ],
     "lbl:latitude":7.906863,
     "lbl:longitude":80.531987,
     "meso:admin_1":"Anuradhapura",
@@ -66,7 +72,7 @@
         }
     ],
     "wof:id":1092064793,
-    "wof:lastmodified":1536615148,
+    "wof:lastmodified":1553718099,
     "wof:name":"Palagala",
     "wof:parent_id":85673751,
     "wof:placetype":"county",

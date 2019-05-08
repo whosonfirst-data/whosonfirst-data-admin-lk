@@ -10,6 +10,12 @@
     "geom:latitude":9.674473,
     "geom:longitude":79.849911,
     "iso:country":"LK",
+    "label:eng_x_preferred_longname":[
+        "Island North (Kayts) Division"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "division"
+    ],
     "lbl:latitude":9.681937,
     "lbl:longitude":79.86499,
     "meso:admin_1":"Jaffna",
@@ -66,7 +72,7 @@
         }
     ],
     "wof:id":1092059765,
-    "wof:lastmodified":1536615143,
+    "wof:lastmodified":1553718094,
     "wof:name":"Island North (Kayts)",
     "wof:parent_id":85673769,
     "wof:placetype":"county",

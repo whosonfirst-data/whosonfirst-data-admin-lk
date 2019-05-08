@@ -10,6 +10,12 @@
     "geom:latitude":8.301112,
     "geom:longitude":81.346394,
     "iso:country":"LK",
+    "label:eng_x_preferred_longname":[
+        "Verugal Eachchilampattu Division"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "division"
+    ],
     "lbl:latitude":8.292138,
     "lbl:longitude":81.369002,
     "meso:admin_1":"Trincomalee",
@@ -66,7 +72,7 @@
         }
     ],
     "wof:id":1092067467,
-    "wof:lastmodified":1536615151,
+    "wof:lastmodified":1555220362,
     "wof:name":"Verugal Eachchilampattu",
     "wof:parent_id":85673747,
     "wof:placetype":"county",

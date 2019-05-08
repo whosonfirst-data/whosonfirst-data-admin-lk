@@ -10,6 +10,12 @@
     "geom:latitude":6.653507,
     "geom:longitude":80.290437,
     "iso:country":"LK",
+    "label:eng_x_preferred_longname":[
+        "Ayagama Division"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "division"
+    ],
     "lbl:latitude":6.649996,
     "lbl:longitude":80.28903,
     "meso:admin_1":"Rathnapura",
@@ -66,7 +72,7 @@
         }
     ],
     "wof:id":1092056723,
-    "wof:lastmodified":1536615140,
+    "wof:lastmodified":1553718091,
     "wof:name":"Ayagama",
     "wof:parent_id":85673785,
     "wof:placetype":"county",

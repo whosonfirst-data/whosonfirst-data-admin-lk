@@ -10,6 +10,12 @@
     "geom:latitude":7.230852,
     "geom:longitude":80.706178,
     "iso:country":"LK",
+    "label:eng_x_preferred_longname":[
+        "Pathahewaheta Division"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "division"
+    ],
     "lbl:latitude":7.232888,
     "lbl:longitude":80.705054,
     "meso:admin_1":"Kandy",
@@ -66,7 +72,7 @@
         }
     ],
     "wof:id":1092065263,
-    "wof:lastmodified":1536615149,
+    "wof:lastmodified":1553718099,
     "wof:name":"Pathahewaheta",
     "wof:parent_id":85673719,
     "wof:placetype":"county",

@@ -10,6 +10,12 @@
     "geom:latitude":8.421798,
     "geom:longitude":80.711544,
     "iso:country":"LK",
+    "label:eng_x_preferred_longname":[
+        "Kahatagasdigiliya Division"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "division"
+    ],
     "lbl:latitude":8.416815,
     "lbl:longitude":80.709857,
     "meso:admin_1":"Anuradhapura",
@@ -66,7 +72,7 @@
         }
     ],
     "wof:id":1092060031,
-    "wof:lastmodified":1536615143,
+    "wof:lastmodified":1553718094,
     "wof:name":"Kahatagasdigiliya",
     "wof:parent_id":85673751,
     "wof:placetype":"county",

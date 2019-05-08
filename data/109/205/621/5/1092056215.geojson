@@ -10,6 +10,12 @@
     "geom:latitude":6.059189,
     "geom:longitude":80.284208,
     "iso:country":"LK",
+    "label:eng_x_preferred_longname":[
+        "Akmeemana Division"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "division"
+    ],
     "lbl:latitude":6.054556,
     "lbl:longitude":80.274357,
     "meso:admin_1":"Galle",
@@ -66,7 +72,7 @@
         }
     ],
     "wof:id":1092056215,
-    "wof:lastmodified":1536615140,
+    "wof:lastmodified":1553718090,
     "wof:name":"Akmeemana",
     "wof:parent_id":85673789,
     "wof:placetype":"county",

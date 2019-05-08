@@ -10,6 +10,12 @@
     "geom:latitude":8.012382,
     "geom:longitude":80.088804,
     "iso:country":"LK",
+    "label:eng_x_preferred_longname":[
+        "Nawagattegama Division"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "division"
+    ],
     "lbl:latitude":8.013892,
     "lbl:longitude":80.090247,
     "meso:admin_1":"Puttalam",
@@ -66,7 +72,7 @@
         }
     ],
     "wof:id":1092064025,
-    "wof:lastmodified":1536615147,
+    "wof:lastmodified":1553718098,
     "wof:name":"Nawagattegama",
     "wof:parent_id":85673779,
     "wof:placetype":"county",

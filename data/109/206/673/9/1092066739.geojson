@@ -10,6 +10,12 @@
     "geom:latitude":8.203572,
     "geom:longitude":80.557021,
     "iso:country":"LK",
+    "label:eng_x_preferred_longname":[
+        "Thirappane Division"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "division"
+    ],
     "lbl:latitude":8.216669,
     "lbl:longitude":80.558748,
     "meso:admin_1":"Anuradhapura",
@@ -66,7 +72,7 @@
         }
     ],
     "wof:id":1092066739,
-    "wof:lastmodified":1536615150,
+    "wof:lastmodified":1553718101,
     "wof:name":"Thirappane",
     "wof:parent_id":85673751,
     "wof:placetype":"county",

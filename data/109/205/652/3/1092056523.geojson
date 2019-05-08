@@ -10,6 +10,12 @@
     "geom:latitude":7.560148,
     "geom:longitude":80.677356,
     "iso:country":"LK",
+    "label:eng_x_preferred_longname":[
+        "Ambanganga Korale Division"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "division"
+    ],
     "lbl:latitude":7.559628,
     "lbl:longitude":80.676664,
     "meso:admin_1":"Matale",
@@ -66,7 +72,7 @@
         }
     ],
     "wof:id":1092056523,
-    "wof:lastmodified":1536615140,
+    "wof:lastmodified":1553718090,
     "wof:name":"Ambanganga Korale",
     "wof:parent_id":85673723,
     "wof:placetype":"county",

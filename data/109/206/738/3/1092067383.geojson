@@ -10,6 +10,12 @@
     "geom:latitude":8.833942,
     "geom:longitude":80.456652,
     "iso:country":"LK",
+    "label:eng_x_preferred_longname":[
+        "Vavuniya Division"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "division"
+    ],
     "lbl:latitude":8.835766,
     "lbl:longitude":80.458955,
     "meso:admin_1":"Vavuniya",
@@ -134,7 +140,7 @@
         }
     ],
     "wof:id":1092067383,
-    "wof:lastmodified":1536615151,
+    "wof:lastmodified":1553718102,
     "wof:name":"Vavuniya",
     "wof:parent_id":85673757,
     "wof:placetype":"county",

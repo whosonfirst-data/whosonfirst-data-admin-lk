@@ -10,6 +10,12 @@
     "geom:latitude":7.646444,
     "geom:longitude":80.598317,
     "iso:country":"LK",
+    "label:eng_x_preferred_longname":[
+        "Pallepola Division"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "division"
+    ],
     "lbl:latitude":7.645357,
     "lbl:longitude":80.597562,
     "meso:admin_1":"Matale",
@@ -66,7 +72,7 @@
         }
     ],
     "wof:id":1092064907,
-    "wof:lastmodified":1536615148,
+    "wof:lastmodified":1553718099,
     "wof:name":"Pallepola",
     "wof:parent_id":85673723,
     "wof:placetype":"county",

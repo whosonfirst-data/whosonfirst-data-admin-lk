@@ -10,6 +10,12 @@
     "geom:latitude":8.308599,
     "geom:longitude":80.446854,
     "iso:country":"LK",
+    "label:eng_x_preferred_longname":[
+        "Nuwaragam Palatha East Division"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "division"
+    ],
     "lbl:latitude":8.301105,
     "lbl:longitude":80.457735,
     "meso:admin_1":"Anuradhapura",
@@ -66,7 +72,7 @@
         }
     ],
     "wof:id":1092064393,
-    "wof:lastmodified":1536615148,
+    "wof:lastmodified":1553718098,
     "wof:name":"Nuwaragam Palatha East",
     "wof:parent_id":85673751,
     "wof:placetype":"county",

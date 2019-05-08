@@ -10,6 +10,12 @@
     "geom:latitude":7.517462,
     "geom:longitude":79.865552,
     "iso:country":"LK",
+    "label:eng_x_preferred_longname":[
+        "Madampe Division"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "division"
+    ],
     "lbl:latitude":7.517295,
     "lbl:longitude":79.866513,
     "meso:admin_1":"Puttalam",
@@ -66,7 +72,7 @@
         }
     ],
     "wof:id":1092061929,
-    "wof:lastmodified":1536615145,
+    "wof:lastmodified":1553718096,
     "wof:name":"Madampe",
     "wof:parent_id":85673779,
     "wof:placetype":"county",

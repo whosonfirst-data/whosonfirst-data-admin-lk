@@ -10,6 +10,12 @@
     "geom:latitude":6.066227,
     "geom:longitude":80.562294,
     "iso:country":"LK",
+    "label:eng_x_preferred_longname":[
+        "Kamburupitiya Division"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "division"
+    ],
     "lbl:latitude":6.06555,
     "lbl:longitude":80.563315,
     "meso:admin_1":"Matara",
@@ -66,7 +72,7 @@
         }
     ],
     "wof:id":1092060281,
-    "wof:lastmodified":1536615144,
+    "wof:lastmodified":1553718094,
     "wof:name":"Kamburupitiya",
     "wof:parent_id":85673795,
     "wof:placetype":"county",

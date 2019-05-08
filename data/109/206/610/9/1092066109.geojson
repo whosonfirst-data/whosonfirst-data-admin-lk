@@ -10,6 +10,12 @@
     "geom:latitude":6.922499,
     "geom:longitude":80.147546,
     "iso:country":"LK",
+    "label:eng_x_preferred_longname":[
+        "Seethawaka Division"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "division"
+    ],
     "lbl:latitude":6.925951,
     "lbl:longitude":80.148996,
     "meso:admin_1":"Colombo",
@@ -66,7 +72,7 @@
         }
     ],
     "wof:id":1092066109,
-    "wof:lastmodified":1536615149,
+    "wof:lastmodified":1553718100,
     "wof:name":"Seethawaka",
     "wof:parent_id":85673811,
     "wof:placetype":"county",

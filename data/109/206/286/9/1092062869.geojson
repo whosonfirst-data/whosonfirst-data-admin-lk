@@ -10,6 +10,12 @@
     "geom:latitude":7.541256,
     "geom:longitude":80.630172,
     "iso:country":"LK",
+    "label:eng_x_preferred_longname":[
+        "Matale Division"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "division"
+    ],
     "lbl:latitude":7.526144,
     "lbl:longitude":80.627574,
     "meso:admin_1":"Matale",
@@ -179,7 +185,7 @@
         }
     ],
     "wof:id":1092062869,
-    "wof:lastmodified":1536615146,
+    "wof:lastmodified":1553718097,
     "wof:name":"Matale",
     "wof:parent_id":85673723,
     "wof:placetype":"county",

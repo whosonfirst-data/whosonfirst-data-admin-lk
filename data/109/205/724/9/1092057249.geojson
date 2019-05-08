@@ -10,6 +10,12 @@
     "geom:latitude":7.096879,
     "geom:longitude":80.358416,
     "iso:country":"LK",
+    "label:eng_x_preferred_longname":[
+        "Bulathkohupitiya Division"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "division"
+    ],
     "lbl:latitude":7.10519,
     "lbl:longitude":80.344287,
     "meso:admin_1":"Kegalle",
@@ -66,7 +72,7 @@
         }
     ],
     "wof:id":1092057249,
-    "wof:lastmodified":1536615141,
+    "wof:lastmodified":1553718091,
     "wof:name":"Bulathkohupitiya",
     "wof:parent_id":85673807,
     "wof:placetype":"county",

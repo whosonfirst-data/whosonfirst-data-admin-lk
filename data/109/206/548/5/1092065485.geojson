@@ -10,6 +10,12 @@
     "geom:latitude":7.50083,
     "geom:longitude":81.710016,
     "iso:country":"LK",
+    "label:eng_x_preferred_longname":[
+        "Poratheevu Pattu Division"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "division"
+    ],
     "lbl:latitude":7.503898,
     "lbl:longitude":81.711392,
     "meso:admin_1":"Batticaloa",
@@ -66,7 +72,7 @@
         }
     ],
     "wof:id":1092065485,
-    "wof:lastmodified":1536615149,
+    "wof:lastmodified":1553718099,
     "wof:name":"Poratheevu Pattu",
     "wof:parent_id":85673737,
     "wof:placetype":"county",

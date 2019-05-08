@@ -10,6 +10,12 @@
     "geom:latitude":6.311961,
     "geom:longitude":80.050434,
     "iso:country":"LK",
+    "label:eng_x_preferred_longname":[
+        "Balapitiya Division"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "division"
+    ],
     "lbl:latitude":6.332755,
     "lbl:longitude":80.053696,
     "meso:admin_1":"Galle",
@@ -66,7 +72,7 @@
         }
     ],
     "wof:id":1092056933,
-    "wof:lastmodified":1536615141,
+    "wof:lastmodified":1553718091,
     "wof:name":"Balapitiya",
     "wof:parent_id":85673789,
     "wof:placetype":"county",

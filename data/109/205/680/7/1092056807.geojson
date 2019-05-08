@@ -10,6 +10,12 @@
     "geom:latitude":6.136669,
     "geom:longitude":80.220526,
     "iso:country":"LK",
+    "label:eng_x_preferred_longname":[
+        "Baddegama Division"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "division"
+    ],
     "lbl:latitude":6.147883,
     "lbl:longitude":80.206316,
     "meso:admin_1":"Galle",
@@ -66,7 +72,7 @@
         }
     ],
     "wof:id":1092056807,
-    "wof:lastmodified":1536615141,
+    "wof:lastmodified":1553718091,
     "wof:name":"Baddegama",
     "wof:parent_id":85673789,
     "wof:placetype":"county",

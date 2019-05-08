@@ -10,6 +10,12 @@
     "geom:latitude":6.206203,
     "geom:longitude":80.179845,
     "iso:country":"LK",
+    "label:eng_x_preferred_longname":[
+        "Welivitiya-Divithura Division"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "division"
+    ],
     "lbl:latitude":6.204494,
     "lbl:longitude":80.16568,
     "meso:admin_1":"Galle",
@@ -66,7 +72,7 @@
         }
     ],
     "wof:id":1092068045,
-    "wof:lastmodified":1536615152,
+    "wof:lastmodified":1553718102,
     "wof:name":"Welivitiya-Divithura",
     "wof:parent_id":85673789,
     "wof:placetype":"county",

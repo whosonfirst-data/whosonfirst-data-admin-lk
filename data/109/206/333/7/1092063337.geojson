@@ -10,6 +10,12 @@
     "geom:latitude":7.346575,
     "geom:longitude":80.949887,
     "iso:country":"LK",
+    "label:eng_x_preferred_longname":[
+        "Minipe Division"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "division"
+    ],
     "lbl:latitude":7.347153,
     "lbl:longitude":80.948737,
     "meso:admin_1":"Kandy",
@@ -66,7 +72,7 @@
         }
     ],
     "wof:id":1092063337,
-    "wof:lastmodified":1536615147,
+    "wof:lastmodified":1553718097,
     "wof:name":"Minipe",
     "wof:parent_id":85673719,
     "wof:placetype":"county",

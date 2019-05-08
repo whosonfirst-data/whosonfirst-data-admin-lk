@@ -10,6 +10,12 @@
     "geom:latitude":8.47642,
     "geom:longitude":80.551809,
     "iso:country":"LK",
+    "label:eng_x_preferred_longname":[
+        "Rambewa Division"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "division"
+    ],
     "lbl:latitude":8.445832,
     "lbl:longitude":80.565938,
     "meso:admin_1":"Anuradhapura",
@@ -66,7 +72,7 @@
         }
     ],
     "wof:id":1092065687,
-    "wof:lastmodified":1536615149,
+    "wof:lastmodified":1553718099,
     "wof:name":"Rambewa",
     "wof:parent_id":85673751,
     "wof:placetype":"county",

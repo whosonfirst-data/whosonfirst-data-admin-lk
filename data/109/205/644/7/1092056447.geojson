@@ -10,6 +10,12 @@
     "geom:latitude":6.22335,
     "geom:longitude":80.10263,
     "iso:country":"LK",
+    "label:eng_x_preferred_longname":[
+        "Ambalangoda Division"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "division"
+    ],
     "lbl:latitude":6.225452,
     "lbl:longitude":80.11181,
     "meso:admin_1":"Galle",
@@ -66,7 +72,7 @@
         }
     ],
     "wof:id":1092056447,
-    "wof:lastmodified":1536615140,
+    "wof:lastmodified":1553718090,
     "wof:name":"Ambalangoda",
     "wof:parent_id":85673789,
     "wof:placetype":"county",

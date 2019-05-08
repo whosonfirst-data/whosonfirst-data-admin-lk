@@ -10,6 +10,12 @@
     "geom:latitude":7.140576,
     "geom:longitude":81.627209,
     "iso:country":"LK",
+    "label:eng_x_preferred_longname":[
+        "Damana Division"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "division"
+    ],
     "lbl:latitude":7.150376,
     "lbl:longitude":81.618587,
     "meso:admin_1":"Ampara",
@@ -66,7 +72,7 @@
         }
     ],
     "wof:id":1092057459,
-    "wof:lastmodified":1536615141,
+    "wof:lastmodified":1553718092,
     "wof:name":"Damana",
     "wof:parent_id":85673733,
     "wof:placetype":"county",

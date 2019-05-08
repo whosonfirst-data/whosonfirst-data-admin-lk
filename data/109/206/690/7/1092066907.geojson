@@ -10,6 +10,12 @@
     "geom:latitude":8.578485,
     "geom:longitude":81.176396,
     "iso:country":"LK",
+    "label:eng_x_preferred_longname":[
+        "Trincomalee Town and Gravets Division"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "division"
+    ],
     "lbl:latitude":8.593476,
     "lbl:longitude":81.165862,
     "meso:admin_1":"Trincomalee",
@@ -66,7 +72,7 @@
         }
     ],
     "wof:id":1092066907,
-    "wof:lastmodified":1536615150,
+    "wof:lastmodified":1553718101,
     "wof:name":"Trincomalee Town and Gravets",
     "wof:parent_id":85673747,
     "wof:placetype":"county",

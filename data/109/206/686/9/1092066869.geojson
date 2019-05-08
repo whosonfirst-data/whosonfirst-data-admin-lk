@@ -10,6 +10,12 @@
     "geom:latitude":6.379537,
     "geom:longitude":81.456205,
     "iso:country":"LK",
+    "label:eng_x_preferred_longname":[
+        "Tissamaharama Division"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "division"
+    ],
     "lbl:latitude":6.355152,
     "lbl:longitude":81.439262,
     "meso:admin_1":"Hambantota",
@@ -66,7 +72,7 @@
         }
     ],
     "wof:id":1092066869,
-    "wof:lastmodified":1536615150,
+    "wof:lastmodified":1553718101,
     "wof:name":"Tissamaharama",
     "wof:parent_id":85673791,
     "wof:placetype":"county",

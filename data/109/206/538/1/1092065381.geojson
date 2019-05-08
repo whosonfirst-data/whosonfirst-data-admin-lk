@@ -10,6 +10,12 @@
     "geom:latitude":7.374871,
     "geom:longitude":80.310467,
     "iso:country":"LK",
+    "label:eng_x_preferred_longname":[
+        "Polgahawela Division"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "division"
+    ],
     "lbl:latitude":7.373759,
     "lbl:longitude":80.311365,
     "meso:admin_1":"Kurunegala",
@@ -66,7 +72,7 @@
         }
     ],
     "wof:id":1092065381,
-    "wof:lastmodified":1536615149,
+    "wof:lastmodified":1553718099,
     "wof:name":"Polgahawela",
     "wof:parent_id":85673777,
     "wof:placetype":"county",

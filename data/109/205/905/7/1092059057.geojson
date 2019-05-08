@@ -10,6 +10,12 @@
     "geom:latitude":6.943141,
     "geom:longitude":81.021453,
     "iso:country":"LK",
+    "label:eng_x_preferred_longname":[
+        "Hali-Ela Division"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "division"
+    ],
     "lbl:latitude":6.95257,
     "lbl:longitude":81.015614,
     "meso:admin_1":"Badulla",
@@ -66,7 +72,7 @@
         }
     ],
     "wof:id":1092059057,
-    "wof:lastmodified":1536615143,
+    "wof:lastmodified":1553718093,
     "wof:name":"Hali-Ela",
     "wof:parent_id":85673801,
     "wof:placetype":"county",

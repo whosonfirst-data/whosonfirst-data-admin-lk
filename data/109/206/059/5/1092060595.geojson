@@ -10,6 +10,12 @@
     "geom:latitude":8.118703,
     "geom:longitude":80.000957,
     "iso:country":"LK",
+    "label:eng_x_preferred_longname":[
+        "Karuwalagaswewa Division"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "division"
+    ],
     "lbl:latitude":8.144005,
     "lbl:longitude":80.008802,
     "meso:admin_1":"Puttalam",
@@ -66,7 +72,7 @@
         }
     ],
     "wof:id":1092060595,
-    "wof:lastmodified":1536615144,
+    "wof:lastmodified":1553718094,
     "wof:name":"Karuwalagaswewa",
     "wof:parent_id":85673779,
     "wof:placetype":"county",

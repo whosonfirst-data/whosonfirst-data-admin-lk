@@ -10,6 +10,12 @@
     "geom:latitude":6.37834,
     "geom:longitude":80.933347,
     "iso:country":"LK",
+    "label:eng_x_preferred_longname":[
+        "Sevanagala Division"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "division"
+    ],
     "lbl:latitude":6.369181,
     "lbl:longitude":80.944075,
     "meso:admin_1":"Moneragala",
@@ -66,7 +72,7 @@
         }
     ],
     "wof:id":1092066175,
-    "wof:lastmodified":1536615150,
+    "wof:lastmodified":1553718100,
     "wof:name":"Sevanagala",
     "wof:parent_id":85673803,
     "wof:placetype":"county",

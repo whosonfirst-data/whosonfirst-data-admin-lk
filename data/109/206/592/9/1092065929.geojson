@@ -10,6 +10,12 @@
     "geom:latitude":7.274063,
     "geom:longitude":81.129272,
     "iso:country":"LK",
+    "label:eng_x_preferred_longname":[
+        "Rideemaliyadda Division"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "division"
+    ],
     "lbl:latitude":7.275475,
     "lbl:longitude":81.118619,
     "meso:admin_1":"Badulla",
@@ -66,7 +72,7 @@
         }
     ],
     "wof:id":1092065929,
-    "wof:lastmodified":1536615149,
+    "wof:lastmodified":1553718100,
     "wof:name":"Rideemaliyadda",
     "wof:parent_id":85673801,
     "wof:placetype":"county",

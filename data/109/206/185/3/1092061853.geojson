@@ -10,6 +10,12 @@
     "geom:latitude":8.056617,
     "geom:longitude":81.096144,
     "iso:country":"LK",
+    "label:eng_x_preferred_longname":[
+        "Lankapura Division"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "division"
+    ],
     "lbl:latitude":8.044207,
     "lbl:longitude":81.089975,
     "meso:admin_1":"Polonnaruwa",
@@ -66,7 +72,7 @@
         }
     ],
     "wof:id":1092061853,
-    "wof:lastmodified":1536615145,
+    "wof:lastmodified":1553718096,
     "wof:name":"Lankapura",
     "wof:parent_id":85673743,
     "wof:placetype":"county",

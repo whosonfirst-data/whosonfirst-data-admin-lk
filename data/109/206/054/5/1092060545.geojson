@@ -10,6 +10,12 @@
     "geom:latitude":7.372003,
     "geom:longitude":81.839585,
     "iso:country":"LK",
+    "label:eng_x_preferred_longname":[
+        "Karaitheevu Division"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "division"
+    ],
     "lbl:latitude":7.370362,
     "lbl:longitude":81.842599,
     "meso:admin_1":"Ampara",
@@ -66,7 +72,7 @@
         }
     ],
     "wof:id":1092060545,
-    "wof:lastmodified":1536615144,
+    "wof:lastmodified":1553718094,
     "wof:name":"Karaitheevu",
     "wof:parent_id":85673733,
     "wof:placetype":"county",

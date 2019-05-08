@@ -10,6 +10,12 @@
     "geom:latitude":7.165918,
     "geom:longitude":80.443506,
     "iso:country":"LK",
+    "label:eng_x_preferred_longname":[
+        "Aranayaka Division"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "division"
+    ],
     "lbl:latitude":7.16027,
     "lbl:longitude":80.442571,
     "meso:admin_1":"Kegalle",
@@ -66,7 +72,7 @@
         }
     ],
     "wof:id":1092056717,
-    "wof:lastmodified":1536615140,
+    "wof:lastmodified":1553718091,
     "wof:name":"Aranayaka",
     "wof:parent_id":85673807,
     "wof:placetype":"county",

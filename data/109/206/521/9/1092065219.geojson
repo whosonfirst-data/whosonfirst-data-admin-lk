@@ -10,6 +10,12 @@
     "geom:latitude":7.348758,
     "geom:longitude":80.660866,
     "iso:country":"LK",
+    "label:eng_x_preferred_longname":[
+        "Pathadumbara Division"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "division"
+    ],
     "lbl:latitude":7.350329,
     "lbl:longitude":80.665051,
     "meso:admin_1":"Kandy",
@@ -66,7 +72,7 @@
         }
     ],
     "wof:id":1092065219,
-    "wof:lastmodified":1536615149,
+    "wof:lastmodified":1553718099,
     "wof:name":"Pathadumbara",
     "wof:parent_id":85673719,
     "wof:placetype":"county",

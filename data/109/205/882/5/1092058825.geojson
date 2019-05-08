@@ -10,6 +10,12 @@
     "geom:latitude":6.500088,
     "geom:longitude":80.64158,
     "iso:country":"LK",
+    "label:eng_x_preferred_longname":[
+        "Godakawela Division"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "division"
+    ],
     "lbl:latitude":6.496624,
     "lbl:longitude":80.628441,
     "meso:admin_1":"Rathnapura",
@@ -66,7 +72,7 @@
         }
     ],
     "wof:id":1092058825,
-    "wof:lastmodified":1536615142,
+    "wof:lastmodified":1553718093,
     "wof:name":"Godakawela",
     "wof:parent_id":85673785,
     "wof:placetype":"county",

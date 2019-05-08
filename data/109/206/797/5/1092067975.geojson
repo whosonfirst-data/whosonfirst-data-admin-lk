@@ -10,6 +10,12 @@
     "geom:latitude":8.977263,
     "geom:longitude":80.772189,
     "iso:country":"LK",
+    "label:eng_x_preferred_longname":[
+        "Welioya Division"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "division"
+    ],
     "lbl:latitude":8.981388,
     "lbl:longitude":80.747407,
     "meso:admin_1":"Mullaitivu",
@@ -66,7 +72,7 @@
         }
     ],
     "wof:id":1092067975,
-    "wof:lastmodified":1536615152,
+    "wof:lastmodified":1553718102,
     "wof:name":"Welioya",
     "wof:parent_id":85673765,
     "wof:placetype":"county",

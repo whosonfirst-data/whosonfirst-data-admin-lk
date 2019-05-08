@@ -10,6 +10,12 @@
     "geom:latitude":5.973465,
     "geom:longitude":80.613268,
     "iso:country":"LK",
+    "label:eng_x_preferred_longname":[
+        "Devinuwara Division"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "division"
+    ],
     "lbl:latitude":6.002733,
     "lbl:longitude":80.613019,
     "meso:admin_1":"Matara",
@@ -66,7 +72,7 @@
         }
     ],
     "wof:id":1092057805,
-    "wof:lastmodified":1536615142,
+    "wof:lastmodified":1553718092,
     "wof:name":"Devinuwara",
     "wof:parent_id":85673795,
     "wof:placetype":"county",

@@ -10,6 +10,12 @@
     "geom:latitude":6.046607,
     "geom:longitude":80.63744,
     "iso:country":"LK",
+    "label:eng_x_preferred_longname":[
+        "Kirinda Puhulwella Division"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "division"
+    ],
     "lbl:latitude":6.045115,
     "lbl:longitude":80.633947,
     "meso:admin_1":"Matara",
@@ -66,7 +72,7 @@
         }
     ],
     "wof:id":1092061011,
-    "wof:lastmodified":1536615144,
+    "wof:lastmodified":1553718095,
     "wof:name":"Kirinda Puhulwella",
     "wof:parent_id":85673795,
     "wof:placetype":"county",

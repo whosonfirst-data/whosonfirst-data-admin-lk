@@ -10,6 +10,12 @@
     "geom:latitude":6.612531,
     "geom:longitude":81.1231,
     "iso:country":"LK",
+    "label:eng_x_preferred_longname":[
+        "Wellawaya Division"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "division"
+    ],
     "lbl:latitude":6.580917,
     "lbl:longitude":81.13058,
     "meso:admin_1":"Moneragala",
@@ -66,7 +72,7 @@
         }
     ],
     "wof:id":1092068087,
-    "wof:lastmodified":1536615152,
+    "wof:lastmodified":1553718102,
     "wof:name":"Wellawaya",
     "wof:parent_id":85673803,
     "wof:placetype":"county",

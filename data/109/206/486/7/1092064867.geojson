@@ -10,6 +10,12 @@
     "geom:latitude":7.727702,
     "geom:longitude":79.931432,
     "iso:country":"LK",
+    "label:eng_x_preferred_longname":[
+        "Pallama Division"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "division"
+    ],
     "lbl:latitude":7.740598,
     "lbl:longitude":79.93732,
     "meso:admin_1":"Puttalam",
@@ -66,7 +72,7 @@
         }
     ],
     "wof:id":1092064867,
-    "wof:lastmodified":1536615148,
+    "wof:lastmodified":1553718099,
     "wof:name":"Pallama",
     "wof:parent_id":85673779,
     "wof:placetype":"county",

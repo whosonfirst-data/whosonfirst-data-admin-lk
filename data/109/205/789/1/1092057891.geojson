@@ -10,6 +10,12 @@
     "geom:latitude":7.788495,
     "geom:longitude":81.124299,
     "iso:country":"LK",
+    "label:eng_x_preferred_longname":[
+        "Dimbulagala Division"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "division"
+    ],
     "lbl:latitude":7.801582,
     "lbl:longitude":81.137106,
     "meso:admin_1":"Polonnaruwa",
@@ -66,7 +72,7 @@
         }
     ],
     "wof:id":1092057891,
-    "wof:lastmodified":1536615142,
+    "wof:lastmodified":1553718092,
     "wof:name":"Dimbulagala",
     "wof:parent_id":85673743,
     "wof:placetype":"county",

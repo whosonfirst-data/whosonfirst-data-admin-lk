@@ -10,6 +10,12 @@
     "geom:latitude":8.834544,
     "geom:longitude":79.996882,
     "iso:country":"LK",
+    "label:eng_x_preferred_longname":[
+        "Nanattan Division"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "division"
+    ],
     "lbl:latitude":8.834632,
     "lbl:longitude":79.987726,
     "meso:admin_1":"Mannar",
@@ -66,7 +72,7 @@
         }
     ],
     "wof:id":1092063841,
-    "wof:lastmodified":1536615147,
+    "wof:lastmodified":1553718098,
     "wof:name":"Nanattan",
     "wof:parent_id":85673761,
     "wof:placetype":"county",

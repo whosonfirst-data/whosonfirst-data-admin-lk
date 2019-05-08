@@ -10,6 +10,12 @@
     "geom:latitude":6.465392,
     "geom:longitude":80.451354,
     "iso:country":"LK",
+    "label:eng_x_preferred_longname":[
+        "Kalawana Division"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "division"
+    ],
     "lbl:latitude":6.452988,
     "lbl:longitude":80.426073,
     "meso:admin_1":"Rathnapura",
@@ -66,7 +72,7 @@
         }
     ],
     "wof:id":1092060105,
-    "wof:lastmodified":1536615143,
+    "wof:lastmodified":1553718094,
     "wof:name":"Kalawana",
     "wof:parent_id":85673785,
     "wof:placetype":"county",

@@ -10,6 +10,12 @@
     "geom:latitude":7.092658,
     "geom:longitude":80.886837,
     "iso:country":"LK",
+    "label:eng_x_preferred_longname":[
+        "Walapane Division"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "division"
+    ],
     "lbl:latitude":7.092664,
     "lbl:longitude":80.886851,
     "meso:admin_1":"Nuwara Eliya",
@@ -66,7 +72,7 @@
         }
     ],
     "wof:id":1092067535,
-    "wof:lastmodified":1536615151,
+    "wof:lastmodified":1553718102,
     "wof:name":"Walapane",
     "wof:parent_id":85673731,
     "wof:placetype":"county",

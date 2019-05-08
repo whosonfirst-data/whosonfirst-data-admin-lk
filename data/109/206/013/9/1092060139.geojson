@@ -10,6 +10,12 @@
     "geom:latitude":7.423924,
     "geom:longitude":81.808636,
     "iso:country":"LK",
+    "label:eng_x_preferred_longname":[
+        "Kalmunai Tamil Division Division"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "division"
+    ],
     "lbl:latitude":7.420974,
     "lbl:longitude":81.802226,
     "meso:admin_1":"Ampara",
@@ -66,7 +72,7 @@
         }
     ],
     "wof:id":1092060139,
-    "wof:lastmodified":1536615144,
+    "wof:lastmodified":1555220362,
     "wof:name":"Kalmunai Tamil Division",
     "wof:parent_id":85673733,
     "wof:placetype":"county",

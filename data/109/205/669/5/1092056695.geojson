@@ -10,6 +10,12 @@
     "geom:latitude":7.680754,
     "geom:longitude":79.849421,
     "iso:country":"LK",
+    "label:eng_x_preferred_longname":[
+        "Arachchikattuwa Division"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "division"
+    ],
     "lbl:latitude":7.680309,
     "lbl:longitude":79.850497,
     "meso:admin_1":"Puttalam",
@@ -66,7 +72,7 @@
         }
     ],
     "wof:id":1092056695,
-    "wof:lastmodified":1536615140,
+    "wof:lastmodified":1553718090,
     "wof:name":"Arachchikattuwa",
     "wof:parent_id":85673779,
     "wof:placetype":"county",

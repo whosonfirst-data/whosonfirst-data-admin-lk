@@ -10,6 +10,12 @@
     "geom:latitude":7.383953,
     "geom:longitude":81.831206,
     "iso:country":"LK",
+    "label:eng_x_preferred_longname":[
+        "Sainthamarathu Division"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "division"
+    ],
     "lbl:latitude":7.383739,
     "lbl:longitude":81.830979,
     "meso:admin_1":"Ampara",
@@ -66,7 +72,7 @@
         }
     ],
     "wof:id":1092066033,
-    "wof:lastmodified":1536615149,
+    "wof:lastmodified":1553718100,
     "wof:name":"Sainthamarathu",
     "wof:parent_id":85673733,
     "wof:placetype":"county",

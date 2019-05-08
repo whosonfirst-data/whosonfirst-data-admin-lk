@@ -10,6 +10,12 @@
     "geom:latitude":6.146936,
     "geom:longitude":80.586368,
     "iso:country":"LK",
+    "label:eng_x_preferred_longname":[
+        "Mulatiyana Division"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "division"
+    ],
     "lbl:latitude":6.146035,
     "lbl:longitude":80.58636,
     "meso:admin_1":"Matara",
@@ -66,7 +72,7 @@
         }
     ],
     "wof:id":1092063569,
-    "wof:lastmodified":1536615147,
+    "wof:lastmodified":1553718097,
     "wof:name":"Mulatiyana",
     "wof:parent_id":85673795,
     "wof:placetype":"county",

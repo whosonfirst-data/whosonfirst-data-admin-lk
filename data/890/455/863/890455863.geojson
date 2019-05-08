@@ -13,6 +13,12 @@
     "gn:fcode":"ADM2",
     "gn:pop":962440,
     "iso:country":"LK",
+    "label:eng_x_preferred_longname":[
+        "Jaffna Division"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "division"
+    ],
     "lbl:latitude":9.658372,
     "lbl:longitude":80.02615,
     "meso:admin_1":"Jaffna",
@@ -151,7 +157,7 @@
         }
     ],
     "wof:id":890455863,
-    "wof:lastmodified":1536617390,
+    "wof:lastmodified":1553717608,
     "wof:name":"Jaffna",
     "wof:parent_id":85673769,
     "wof:placetype":"county",

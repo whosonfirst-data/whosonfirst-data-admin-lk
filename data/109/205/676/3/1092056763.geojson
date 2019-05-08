@@ -10,6 +10,12 @@
     "geom:latitude":6.870727,
     "geom:longitude":81.217449,
     "iso:country":"LK",
+    "label:eng_x_preferred_longname":[
+        "Badalkumbura Division"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "division"
+    ],
     "lbl:latitude":6.864419,
     "lbl:longitude":81.21923,
     "meso:admin_1":"Moneragala",
@@ -66,7 +72,7 @@
         }
     ],
     "wof:id":1092056763,
-    "wof:lastmodified":1536615141,
+    "wof:lastmodified":1553718091,
     "wof:name":"Badalkumbura",
     "wof:parent_id":85673803,
     "wof:placetype":"county",

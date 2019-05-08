@@ -10,6 +10,12 @@
     "geom:latitude":9.667354,
     "geom:longitude":80.04892,
     "iso:country":"LK",
+    "label:eng_x_preferred_longname":[
+        "Nallur Division"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "division"
+    ],
     "lbl:latitude":9.689869,
     "lbl:longitude":80.021434,
     "meso:admin_1":"Jaffna",
@@ -66,7 +72,7 @@
         }
     ],
     "wof:id":1092063801,
-    "wof:lastmodified":1536615147,
+    "wof:lastmodified":1553718098,
     "wof:name":"Nallur",
     "wof:parent_id":85673769,
     "wof:placetype":"county",

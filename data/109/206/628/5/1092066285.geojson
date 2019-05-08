@@ -10,6 +10,12 @@
     "geom:latitude":7.045235,
     "geom:longitude":81.049291,
     "iso:country":"LK",
+    "label:eng_x_preferred_longname":[
+        "Soranathota Division"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "division"
+    ],
     "lbl:latitude":7.047427,
     "lbl:longitude":81.045009,
     "meso:admin_1":"Badulla",
@@ -66,7 +72,7 @@
         }
     ],
     "wof:id":1092066285,
-    "wof:lastmodified":1536615150,
+    "wof:lastmodified":1553718100,
     "wof:name":"Soranathota",
     "wof:parent_id":85673801,
     "wof:placetype":"county",

@@ -10,6 +10,12 @@
     "geom:latitude":6.943659,
     "geom:longitude":79.863469,
     "iso:country":"LK",
+    "label:eng_x_preferred_longname":[
+        "Colombo Division"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "division"
+    ],
     "lbl:latitude":6.938339,
     "lbl:longitude":79.865278,
     "meso:admin_1":"Colombo",
@@ -137,7 +143,7 @@
         }
     ],
     "wof:id":1092057419,
-    "wof:lastmodified":1536615141,
+    "wof:lastmodified":1553718091,
     "wof:name":"Colombo",
     "wof:parent_id":85673811,
     "wof:placetype":"county",

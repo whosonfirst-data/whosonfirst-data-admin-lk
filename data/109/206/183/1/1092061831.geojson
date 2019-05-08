@@ -10,6 +10,12 @@
     "geom:latitude":6.749052,
     "geom:longitude":81.69968,
     "iso:country":"LK",
+    "label:eng_x_preferred_longname":[
+        "Lahugala Division"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "division"
+    ],
     "lbl:latitude":6.752495,
     "lbl:longitude":81.710589,
     "meso:admin_1":"Ampara",
@@ -66,7 +72,7 @@
         }
     ],
     "wof:id":1092061831,
-    "wof:lastmodified":1536615145,
+    "wof:lastmodified":1553718096,
     "wof:name":"Lahugala",
     "wof:parent_id":85673733,
     "wof:placetype":"county",

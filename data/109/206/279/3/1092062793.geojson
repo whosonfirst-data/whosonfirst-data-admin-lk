@@ -10,6 +10,12 @@
     "geom:latitude":9.155987,
     "geom:longitude":80.797571,
     "iso:country":"LK",
+    "label:eng_x_preferred_longname":[
+        "Maritimepattu Division"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "division"
+    ],
     "lbl:latitude":9.158884,
     "lbl:longitude":80.794913,
     "meso:admin_1":"Mullaitivu",
@@ -66,7 +72,7 @@
         }
     ],
     "wof:id":1092062793,
-    "wof:lastmodified":1536615146,
+    "wof:lastmodified":1553718097,
     "wof:name":"Maritimepattu",
     "wof:parent_id":85673765,
     "wof:placetype":"county",

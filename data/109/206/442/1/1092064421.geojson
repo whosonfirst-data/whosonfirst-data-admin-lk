@@ -10,6 +10,12 @@
     "geom:latitude":9.187351,
     "geom:longitude":80.53136,
     "iso:country":"LK",
+    "label:eng_x_preferred_longname":[
+        "Oddusuddan Division"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "division"
+    ],
     "lbl:latitude":9.165872,
     "lbl:longitude":80.53444,
     "meso:admin_1":"Mullaitivu",
@@ -66,7 +72,7 @@
         }
     ],
     "wof:id":1092064421,
-    "wof:lastmodified":1536615148,
+    "wof:lastmodified":1553718098,
     "wof:name":"Oddusuddan",
     "wof:parent_id":85673765,
     "wof:placetype":"county",

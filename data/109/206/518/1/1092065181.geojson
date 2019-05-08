@@ -10,6 +10,12 @@
     "geom:latitude":6.965293,
     "geom:longitude":81.147181,
     "iso:country":"LK",
+    "label:eng_x_preferred_longname":[
+        "Passara Division"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "division"
+    ],
     "lbl:latitude":6.948604,
     "lbl:longitude":81.158047,
     "meso:admin_1":"Badulla",
@@ -66,7 +72,7 @@
         }
     ],
     "wof:id":1092065181,
-    "wof:lastmodified":1536615148,
+    "wof:lastmodified":1553718099,
     "wof:name":"Passara",
     "wof:parent_id":85673801,
     "wof:placetype":"county",

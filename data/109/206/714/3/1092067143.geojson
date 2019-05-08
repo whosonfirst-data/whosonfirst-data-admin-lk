@@ -10,6 +10,12 @@
     "geom:latitude":9.787566,
     "geom:longitude":80.040868,
     "iso:country":"LK",
+    "label:eng_x_preferred_longname":[
+        "Valikamam North Division"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "division"
+    ],
     "lbl:latitude":9.792893,
     "lbl:longitude":80.04087,
     "meso:admin_1":"Jaffna",
@@ -66,7 +72,7 @@
         }
     ],
     "wof:id":1092067143,
-    "wof:lastmodified":1536615151,
+    "wof:lastmodified":1553718101,
     "wof:name":"Valikamam North",
     "wof:parent_id":85673769,
     "wof:placetype":"county",

@@ -10,6 +10,12 @@
     "geom:latitude":6.515136,
     "geom:longitude":80.174865,
     "iso:country":"LK",
+    "label:eng_x_preferred_longname":[
+        "Agalawatta Division"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "division"
+    ],
     "lbl:latitude":6.550434,
     "lbl:longitude":80.155168,
     "meso:admin_1":"Kalutara",
@@ -66,7 +72,7 @@
         }
     ],
     "wof:id":1092056125,
-    "wof:lastmodified":1536615140,
+    "wof:lastmodified":1553718090,
     "wof:name":"Agalawatta",
     "wof:parent_id":85673819,
     "wof:placetype":"county",

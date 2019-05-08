@@ -10,6 +10,12 @@
     "geom:latitude":7.243151,
     "geom:longitude":81.728979,
     "iso:country":"LK",
+    "label:eng_x_preferred_longname":[
+        "Irakkamam Division"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "division"
+    ],
     "lbl:latitude":7.238526,
     "lbl:longitude":81.725797,
     "meso:admin_1":"Ampara",
@@ -66,7 +72,7 @@
         }
     ],
     "wof:id":1092059725,
-    "wof:lastmodified":1536615143,
+    "wof:lastmodified":1555220362,
     "wof:name":"Irakkamam",
     "wof:parent_id":85673733,
     "wof:placetype":"county",

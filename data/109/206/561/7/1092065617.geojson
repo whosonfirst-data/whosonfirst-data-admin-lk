@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.01491,
-    "geom:area_square_m":182560192.565797,
+    "geom:area_square_m":182560192.565879,
     "geom:bbox":"79.788749695,7.93074239705,79.923072647,8.11178486777",
     "geom:latitude":8.025122,
     "geom:longitude":79.863732,
     "iso:country":"LK",
+    "label:eng_x_preferred_longname":[
+        "Puttalam Division"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "division"
+    ],
     "lbl:latitude":8.039918,
     "lbl:longitude":79.871756,
     "meso:admin_1":"Puttalam",
@@ -179,7 +185,7 @@
         }
     ],
     "wof:id":1092065617,
-    "wof:lastmodified":1553816445,
+    "wof:lastmodified":1555037648,
     "wof:name":"Puttalam",
     "wof:parent_id":85673779,
     "wof:placetype":"county",

@@ -10,6 +10,12 @@
     "geom:latitude":9.735362,
     "geom:longitude":80.094398,
     "iso:country":"LK",
+    "label:eng_x_preferred_longname":[
+        "Valikamam East (Kopay) Division"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "division"
+    ],
     "lbl:latitude":9.742375,
     "lbl:longitude":80.111416,
     "meso:admin_1":"Jaffna",
@@ -66,7 +72,7 @@
         }
     ],
     "wof:id":1092067131,
-    "wof:lastmodified":1536615151,
+    "wof:lastmodified":1553718101,
     "wof:name":"Valikamam East (Kopay)",
     "wof:parent_id":85673769,
     "wof:placetype":"county",

@@ -10,6 +10,12 @@
     "geom:latitude":6.655503,
     "geom:longitude":81.294793,
     "iso:country":"LK",
+    "label:eng_x_preferred_longname":[
+        "Buttala Division"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "division"
+    ],
     "lbl:latitude":6.650643,
     "lbl:longitude":81.292208,
     "meso:admin_1":"Moneragala",
@@ -66,7 +72,7 @@
         }
     ],
     "wof:id":1092057329,
-    "wof:lastmodified":1536615141,
+    "wof:lastmodified":1553718091,
     "wof:name":"Buttala",
     "wof:parent_id":85673803,
     "wof:placetype":"county",

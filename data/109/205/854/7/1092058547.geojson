@@ -10,6 +10,12 @@
     "geom:latitude":8.017287,
     "geom:longitude":80.258689,
     "iso:country":"LK",
+    "label:eng_x_preferred_longname":[
+        "Galgamuwa Division"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "division"
+    ],
     "lbl:latitude":8.017461,
     "lbl:longitude":80.288108,
     "meso:admin_1":"Kurunegala",
@@ -66,7 +72,7 @@
         }
     ],
     "wof:id":1092058547,
-    "wof:lastmodified":1536615142,
+    "wof:lastmodified":1553718092,
     "wof:name":"Galgamuwa",
     "wof:parent_id":85673777,
     "wof:placetype":"county",

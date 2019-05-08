@@ -10,6 +10,12 @@
     "geom:latitude":6.386431,
     "geom:longitude":80.054016,
     "iso:country":"LK",
+    "label:eng_x_preferred_longname":[
+        "Bentota Division"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "division"
+    ],
     "lbl:latitude":6.392756,
     "lbl:longitude":80.033955,
     "meso:admin_1":"Galle",
@@ -66,7 +72,7 @@
         }
     ],
     "wof:id":1092057133,
-    "wof:lastmodified":1536615141,
+    "wof:lastmodified":1553718091,
     "wof:name":"Bentota",
     "wof:parent_id":85673789,
     "wof:placetype":"county",

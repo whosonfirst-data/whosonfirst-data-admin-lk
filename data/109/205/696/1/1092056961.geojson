@@ -10,6 +10,12 @@
     "geom:latitude":7.548016,
     "geom:longitude":80.252061,
     "iso:country":"LK",
+    "label:eng_x_preferred_longname":[
+        "Bamunakotuwa Division"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "division"
+    ],
     "lbl:latitude":7.555427,
     "lbl:longitude":80.253131,
     "meso:admin_1":"Kurunegala",
@@ -66,7 +72,7 @@
         }
     ],
     "wof:id":1092056961,
-    "wof:lastmodified":1536615141,
+    "wof:lastmodified":1553718091,
     "wof:name":"Bamunakotuwa",
     "wof:parent_id":85673777,
     "wof:placetype":"county",

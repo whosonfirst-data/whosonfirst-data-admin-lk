@@ -10,6 +10,12 @@
     "geom:latitude":6.011034,
     "geom:longitude":80.562015,
     "iso:country":"LK",
+    "label:eng_x_preferred_longname":[
+        "Thihagoda Division"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "division"
+    ],
     "lbl:latitude":6.005666,
     "lbl:longitude":80.5574,
     "meso:admin_1":"Matara",
@@ -66,7 +72,7 @@
         }
     ],
     "wof:id":1092066657,
-    "wof:lastmodified":1536615150,
+    "wof:lastmodified":1553718100,
     "wof:name":"Thihagoda",
     "wof:parent_id":85673795,
     "wof:placetype":"county",

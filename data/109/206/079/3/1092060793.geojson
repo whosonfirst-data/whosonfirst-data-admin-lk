@@ -10,6 +10,12 @@
     "geom:latitude":8.06091,
     "geom:longitude":80.624547,
     "iso:country":"LK",
+    "label:eng_x_preferred_longname":[
+        "Kekirawa Division"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "division"
+    ],
     "lbl:latitude":8.018651,
     "lbl:longitude":80.605911,
     "meso:admin_1":"Anuradhapura",
@@ -66,7 +72,7 @@
         }
     ],
     "wof:id":1092060793,
-    "wof:lastmodified":1536615144,
+    "wof:lastmodified":1553718095,
     "wof:name":"Kekirawa",
     "wof:parent_id":85673751,
     "wof:placetype":"county",

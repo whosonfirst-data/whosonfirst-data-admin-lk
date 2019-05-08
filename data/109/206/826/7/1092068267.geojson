@@ -10,6 +10,12 @@
     "geom:latitude":7.282242,
     "geom:longitude":80.537571,
     "iso:country":"LK",
+    "label:eng_x_preferred_longname":[
+        "Yatinuwara Division"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "division"
+    ],
     "lbl:latitude":7.280756,
     "lbl:longitude":80.538791,
     "meso:admin_1":"Kandy",
@@ -66,7 +72,7 @@
         }
     ],
     "wof:id":1092068267,
-    "wof:lastmodified":1536615152,
+    "wof:lastmodified":1553718102,
     "wof:name":"Yatinuwara",
     "wof:parent_id":85673719,
     "wof:placetype":"county",

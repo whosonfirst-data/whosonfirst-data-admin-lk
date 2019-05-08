@@ -10,6 +10,12 @@
     "geom:latitude":9.307828,
     "geom:longitude":80.616787,
     "iso:country":"LK",
+    "label:eng_x_preferred_longname":[
+        "Puthukudiyiruppu Division"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "division"
+    ],
     "lbl:latitude":9.304222,
     "lbl:longitude":80.629265,
     "meso:admin_1":"Mullaitivu",
@@ -66,7 +72,7 @@
         }
     ],
     "wof:id":1092065583,
-    "wof:lastmodified":1536615149,
+    "wof:lastmodified":1553718099,
     "wof:name":"Puthukudiyiruppu",
     "wof:parent_id":85673765,
     "wof:placetype":"county",

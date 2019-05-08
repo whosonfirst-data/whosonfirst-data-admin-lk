@@ -10,6 +10,12 @@
     "geom:latitude":7.366724,
     "geom:longitude":80.513315,
     "iso:country":"LK",
+    "label:eng_x_preferred_longname":[
+        "Thumpane Division"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "division"
+    ],
     "lbl:latitude":7.363187,
     "lbl:longitude":80.520817,
     "meso:admin_1":"Kandy",
@@ -66,7 +72,7 @@
         }
     ],
     "wof:id":1092066809,
-    "wof:lastmodified":1536615150,
+    "wof:lastmodified":1553718101,
     "wof:name":"Thumpane",
     "wof:parent_id":85673719,
     "wof:placetype":"county",

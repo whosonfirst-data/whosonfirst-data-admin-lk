@@ -10,6 +10,12 @@
     "geom:latitude":8.331361,
     "geom:longitude":80.125268,
     "iso:country":"LK",
+    "label:eng_x_preferred_longname":[
+        "Nochchiyagama Division"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "division"
+    ],
     "lbl:latitude":8.326456,
     "lbl:longitude":80.096962,
     "meso:admin_1":"Anuradhapura",
@@ -66,7 +72,7 @@
         }
     ],
     "wof:id":1092064279,
-    "wof:lastmodified":1536615148,
+    "wof:lastmodified":1553718098,
     "wof:name":"Nochchiyagama",
     "wof:parent_id":85673751,
     "wof:placetype":"county",

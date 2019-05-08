@@ -10,6 +10,12 @@
     "geom:latitude":9.733778,
     "geom:longitude":79.876544,
     "iso:country":"LK",
+    "label:eng_x_preferred_longname":[
+        "Karainagar Division"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "division"
+    ],
     "lbl:latitude":9.740492,
     "lbl:longitude":79.877001,
     "meso:admin_1":"Jaffna",
@@ -66,7 +72,7 @@
         }
     ],
     "wof:id":1092060507,
-    "wof:lastmodified":1536615144,
+    "wof:lastmodified":1553718094,
     "wof:name":"Karainagar",
     "wof:parent_id":85673769,
     "wof:placetype":"county",

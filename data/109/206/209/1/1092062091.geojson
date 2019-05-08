@@ -10,6 +10,12 @@
     "geom:latitude":7.844967,
     "geom:longitude":79.90489,
     "iso:country":"LK",
+    "label:eng_x_preferred_longname":[
+        "Mahakumbukkadawala Division"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "division"
+    ],
     "lbl:latitude":7.825231,
     "lbl:longitude":79.903876,
     "meso:admin_1":"Puttalam",
@@ -66,7 +72,7 @@
         }
     ],
     "wof:id":1092062091,
-    "wof:lastmodified":1536615145,
+    "wof:lastmodified":1553718096,
     "wof:name":"Mahakumbukkadawala",
     "wof:parent_id":85673779,
     "wof:placetype":"county",

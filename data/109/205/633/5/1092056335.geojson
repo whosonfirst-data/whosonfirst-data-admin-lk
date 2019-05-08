@@ -10,6 +10,12 @@
     "geom:latitude":7.328735,
     "geom:longitude":80.217671,
     "iso:country":"LK",
+    "label:eng_x_preferred_longname":[
+        "Alawwa Division"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "division"
+    ],
     "lbl:latitude":7.330519,
     "lbl:longitude":80.218979,
     "meso:admin_1":"Kurunegala",
@@ -66,7 +72,7 @@
         }
     ],
     "wof:id":1092056335,
-    "wof:lastmodified":1536615140,
+    "wof:lastmodified":1553718090,
     "wof:name":"Alawwa",
     "wof:parent_id":85673777,
     "wof:placetype":"county",

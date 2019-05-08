@@ -10,6 +10,12 @@
     "geom:latitude":6.032007,
     "geom:longitude":80.358039,
     "iso:country":"LK",
+    "label:eng_x_preferred_longname":[
+        "Imaduwa Division"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "division"
+    ],
     "lbl:latitude":6.034375,
     "lbl:longitude":80.362179,
     "meso:admin_1":"Galle",
@@ -66,7 +72,7 @@
         }
     ],
     "wof:id":1092059573,
-    "wof:lastmodified":1536615143,
+    "wof:lastmodified":1553718093,
     "wof:name":"Imaduwa",
     "wof:parent_id":85673789,
     "wof:placetype":"county",

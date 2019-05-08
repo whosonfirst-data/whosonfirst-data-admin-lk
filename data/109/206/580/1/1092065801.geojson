@@ -10,6 +10,12 @@
     "geom:latitude":6.826952,
     "geom:longitude":79.876628,
     "iso:country":"LK",
+    "label:eng_x_preferred_longname":[
+        "Rathmalana Division"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "division"
+    ],
     "lbl:latitude":6.826776,
     "lbl:longitude":79.877007,
     "meso:admin_1":"Colombo",
@@ -66,7 +72,7 @@
         }
     ],
     "wof:id":1092065801,
-    "wof:lastmodified":1536615149,
+    "wof:lastmodified":1553718099,
     "wof:name":"Rathmalana",
     "wof:parent_id":85673811,
     "wof:placetype":"county",

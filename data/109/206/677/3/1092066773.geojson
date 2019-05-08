@@ -10,6 +10,12 @@
     "geom:latitude":7.072528,
     "geom:longitude":81.770055,
     "iso:country":"LK",
+    "label:eng_x_preferred_longname":[
+        "Thirukkovil Division"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "division"
+    ],
     "lbl:latitude":7.086854,
     "lbl:longitude":81.77098,
     "meso:admin_1":"Ampara",
@@ -66,7 +72,7 @@
         }
     ],
     "wof:id":1092066773,
-    "wof:lastmodified":1536615150,
+    "wof:lastmodified":1553718101,
     "wof:name":"Thirukkovil",
     "wof:parent_id":85673733,
     "wof:placetype":"county",

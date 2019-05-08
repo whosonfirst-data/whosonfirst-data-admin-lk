@@ -10,6 +10,12 @@
     "geom:latitude":7.606081,
     "geom:longitude":79.968657,
     "iso:country":"LK",
+    "label:eng_x_preferred_longname":[
+        "Bingiriya Division"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "division"
+    ],
     "lbl:latitude":7.593642,
     "lbl:longitude":79.955823,
     "meso:admin_1":"Kurunegala",
@@ -66,7 +72,7 @@
         }
     ],
     "wof:id":1092057161,
-    "wof:lastmodified":1536615141,
+    "wof:lastmodified":1553718091,
     "wof:name":"Bingiriya",
     "wof:parent_id":85673777,
     "wof:placetype":"county",

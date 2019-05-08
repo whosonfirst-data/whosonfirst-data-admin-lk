@@ -10,6 +10,12 @@
     "geom:latitude":6.64793,
     "geom:longitude":80.175719,
     "iso:country":"LK",
+    "label:eng_x_preferred_longname":[
+        "Bulathsinhala Division"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "division"
+    ],
     "lbl:latitude":6.645191,
     "lbl:longitude":80.182392,
     "meso:admin_1":"Kalutara",
@@ -66,7 +72,7 @@
         }
     ],
     "wof:id":1092057287,
-    "wof:lastmodified":1536615141,
+    "wof:lastmodified":1553718091,
     "wof:name":"Bulathsinhala",
     "wof:parent_id":85673819,
     "wof:placetype":"county",

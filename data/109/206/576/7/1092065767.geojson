@@ -10,6 +10,12 @@
     "geom:latitude":7.763679,
     "geom:longitude":80.024479,
     "iso:country":"LK",
+    "label:eng_x_preferred_longname":[
+        "Rasnayakapura Division"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "division"
+    ],
     "lbl:latitude":7.772724,
     "lbl:longitude":80.035166,
     "meso:admin_1":"Kurunegala",
@@ -66,7 +72,7 @@
         }
     ],
     "wof:id":1092065767,
-    "wof:lastmodified":1536615149,
+    "wof:lastmodified":1553718100,
     "wof:name":"Rasnayakapura",
     "wof:parent_id":85673777,
     "wof:placetype":"county",

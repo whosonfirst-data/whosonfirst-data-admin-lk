@@ -10,6 +10,12 @@
     "geom:latitude":7.638609,
     "geom:longitude":81.602357,
     "iso:country":"LK",
+    "label:eng_x_preferred_longname":[
+        "Manmunai West Division"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "division"
+    ],
     "lbl:latitude":7.644109,
     "lbl:longitude":81.609171,
     "meso:admin_1":"Batticaloa",
@@ -66,7 +72,7 @@
         }
     ],
     "wof:id":1092062635,
-    "wof:lastmodified":1536615146,
+    "wof:lastmodified":1553718096,
     "wof:name":"Manmunai West",
     "wof:parent_id":85673737,
     "wof:placetype":"county",

@@ -10,6 +10,12 @@
     "geom:latitude":8.341712,
     "geom:longitude":79.910513,
     "iso:country":"LK",
+    "label:eng_x_preferred_longname":[
+        "Wanathavilluwa Division"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "division"
+    ],
     "lbl:latitude":8.477544,
     "lbl:longitude":79.942318,
     "meso:admin_1":"Puttalam",
@@ -66,7 +72,7 @@
         }
     ],
     "wof:id":1092067609,
-    "wof:lastmodified":1536615151,
+    "wof:lastmodified":1553718102,
     "wof:name":"Wanathavilluwa",
     "wof:parent_id":85673779,
     "wof:placetype":"county",

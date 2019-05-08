@@ -10,6 +10,12 @@
     "geom:latitude":7.324929,
     "geom:longitude":79.854483,
     "iso:country":"LK",
+    "label:eng_x_preferred_longname":[
+        "Wennappuwa Division"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "division"
+    ],
     "lbl:latitude":7.334175,
     "lbl:longitude":79.854066,
     "meso:admin_1":"Puttalam",
@@ -66,7 +72,7 @@
         }
     ],
     "wof:id":1092068121,
-    "wof:lastmodified":1536615152,
+    "wof:lastmodified":1553718102,
     "wof:name":"Wennappuwa",
     "wof:parent_id":85673779,
     "wof:placetype":"county",

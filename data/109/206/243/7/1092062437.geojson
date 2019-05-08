@@ -10,6 +10,12 @@
     "geom:latitude":7.466482,
     "geom:longitude":80.39036,
     "iso:country":"LK",
+    "label:eng_x_preferred_longname":[
+        "Mallawapitiya Division"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "division"
+    ],
     "lbl:latitude":7.431278,
     "lbl:longitude":80.386545,
     "meso:admin_1":"Kurunegala",
@@ -66,7 +72,7 @@
         }
     ],
     "wof:id":1092062437,
-    "wof:lastmodified":1536615146,
+    "wof:lastmodified":1553718096,
     "wof:name":"Mallawapitiya",
     "wof:parent_id":85673777,
     "wof:placetype":"county",

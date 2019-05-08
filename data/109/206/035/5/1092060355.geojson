@@ -10,6 +10,12 @@
     "geom:latitude":9.44931,
     "geom:longitude":80.486977,
     "iso:country":"LK",
+    "label:eng_x_preferred_longname":[
+        "Kandavalai Division"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "division"
+    ],
     "lbl:latitude":9.460239,
     "lbl:longitude":80.488915,
     "meso:admin_1":"Kilinochchi",
@@ -66,7 +72,7 @@
         }
     ],
     "wof:id":1092060355,
-    "wof:lastmodified":1536615144,
+    "wof:lastmodified":1553718094,
     "wof:name":"Kandavalai",
     "wof:parent_id":85673773,
     "wof:placetype":"county",

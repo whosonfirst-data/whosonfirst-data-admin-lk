@@ -10,6 +10,12 @@
     "geom:latitude":6.117103,
     "geom:longitude":80.509498,
     "iso:country":"LK",
+    "label:eng_x_preferred_longname":[
+        "Athuraliya Division"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "division"
+    ],
     "lbl:latitude":6.105307,
     "lbl:longitude":80.508883,
     "meso:admin_1":"Matara",
@@ -66,7 +72,7 @@
         }
     ],
     "wof:id":1092056719,
-    "wof:lastmodified":1536615140,
+    "wof:lastmodified":1553718091,
     "wof:name":"Athuraliya",
     "wof:parent_id":85673795,
     "wof:placetype":"county",

@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.026364,
-    "geom:area_square_m":323743852.892168,
+    "geom:area_square_m":323743852.892101,
     "geom:bbox":"80.3512834818,6.65785827982,80.6162363642,6.8331705061",
     "geom:latitude":6.731051,
     "geom:longitude":80.485534,
     "iso:country":"LK",
+    "label:eng_x_preferred_longname":[
+        "Ratnapura Division"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "division"
+    ],
     "lbl:latitude":6.753138,
     "lbl:longitude":80.454439,
     "meso:admin_1":"Rathnapura",
@@ -179,7 +185,7 @@
         }
     ],
     "wof:id":1092065839,
-    "wof:lastmodified":1553816445,
+    "wof:lastmodified":1555037648,
     "wof:name":"Ratnapura",
     "wof:parent_id":85673785,
     "wof:placetype":"county",

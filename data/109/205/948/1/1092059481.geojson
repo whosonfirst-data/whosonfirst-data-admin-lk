@@ -10,6 +10,12 @@
     "geom:latitude":8.513107,
     "geom:longitude":80.850527,
     "iso:country":"LK",
+    "label:eng_x_preferred_longname":[
+        "Horowpothana Division"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "division"
+    ],
     "lbl:latitude":8.556676,
     "lbl:longitude":80.838529,
     "meso:admin_1":"Anuradhapura",
@@ -66,7 +72,7 @@
         }
     ],
     "wof:id":1092059481,
-    "wof:lastmodified":1536615143,
+    "wof:lastmodified":1553718094,
     "wof:name":"Horowpothana",
     "wof:parent_id":85673751,
     "wof:placetype":"county",

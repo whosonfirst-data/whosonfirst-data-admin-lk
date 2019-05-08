@@ -10,6 +10,12 @@
     "geom:latitude":7.465801,
     "geom:longitude":80.272502,
     "iso:country":"LK",
+    "label:eng_x_preferred_longname":[
+        "Weerambugedara Division"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "division"
+    ],
     "lbl:latitude":7.462863,
     "lbl:longitude":80.272518,
     "meso:admin_1":"Kurunegala",
@@ -66,7 +72,7 @@
         }
     ],
     "wof:id":1092067783,
-    "wof:lastmodified":1536615151,
+    "wof:lastmodified":1553718102,
     "wof:name":"Weerambugedara",
     "wof:parent_id":85673777,
     "wof:placetype":"county",

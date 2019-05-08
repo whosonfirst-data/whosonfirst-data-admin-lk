@@ -10,6 +10,12 @@
     "geom:latitude":7.330847,
     "geom:longitude":80.481818,
     "iso:country":"LK",
+    "label:eng_x_preferred_longname":[
+        "Hatharaliyadda Division"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "division"
+    ],
     "lbl:latitude":7.332576,
     "lbl:longitude":80.475454,
     "meso:admin_1":"Kandy",
@@ -66,7 +72,7 @@
         }
     ],
     "wof:id":1092059275,
-    "wof:lastmodified":1536615143,
+    "wof:lastmodified":1553718093,
     "wof:name":"Hatharaliyadda",
     "wof:parent_id":85673719,
     "wof:placetype":"county",

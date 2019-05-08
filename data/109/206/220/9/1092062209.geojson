@@ -10,6 +10,12 @@
     "geom:latitude":7.031057,
     "geom:longitude":80.019849,
     "iso:country":"LK",
+    "label:eng_x_preferred_longname":[
+        "Mahara Division"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "division"
+    ],
     "lbl:latitude":7.049839,
     "lbl:longitude":80.055652,
     "meso:admin_1":"Gampaha",
@@ -66,7 +72,7 @@
         }
     ],
     "wof:id":1092062209,
-    "wof:lastmodified":1536615146,
+    "wof:lastmodified":1553718096,
     "wof:name":"Mahara",
     "wof:parent_id":85673815,
     "wof:placetype":"county",

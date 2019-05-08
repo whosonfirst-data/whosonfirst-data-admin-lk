@@ -10,6 +10,12 @@
     "geom:latitude":7.486113,
     "geom:longitude":80.686537,
     "iso:country":"LK",
+    "label:eng_x_preferred_longname":[
+        "Rattota Division"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "division"
+    ],
     "lbl:latitude":7.486272,
     "lbl:longitude":80.680074,
     "meso:admin_1":"Matale",
@@ -66,7 +72,7 @@
         }
     ],
     "wof:id":1092065885,
-    "wof:lastmodified":1536615149,
+    "wof:lastmodified":1553718100,
     "wof:name":"Rattota",
     "wof:parent_id":85673723,
     "wof:placetype":"county",

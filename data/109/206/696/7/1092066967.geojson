@@ -10,6 +10,12 @@
     "geom:latitude":7.12765,
     "geom:longitude":80.597213,
     "iso:country":"LK",
+    "label:eng_x_preferred_longname":[
+        "Udapalatha Division"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "division"
+    ],
     "lbl:latitude":7.114221,
     "lbl:longitude":80.609265,
     "meso:admin_1":"Kandy",
@@ -66,7 +72,7 @@
         }
     ],
     "wof:id":1092066967,
-    "wof:lastmodified":1536615150,
+    "wof:lastmodified":1553718101,
     "wof:name":"Udapalatha",
     "wof:parent_id":85673719,
     "wof:placetype":"county",

@@ -10,6 +10,12 @@
     "geom:latitude":7.557765,
     "geom:longitude":80.323868,
     "iso:country":"LK",
+    "label:eng_x_preferred_longname":[
+        "Maspotha Division"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "division"
+    ],
     "lbl:latitude":7.535639,
     "lbl:longitude":80.334437,
     "meso:admin_1":"Kurunegala",
@@ -66,7 +72,7 @@
         }
     ],
     "wof:id":1092062829,
-    "wof:lastmodified":1536615146,
+    "wof:lastmodified":1553718096,
     "wof:name":"Maspotha",
     "wof:parent_id":85673777,
     "wof:placetype":"county",

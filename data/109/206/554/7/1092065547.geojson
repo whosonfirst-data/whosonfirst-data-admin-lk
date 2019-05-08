@@ -10,6 +10,12 @@
     "geom:latitude":7.400896,
     "geom:longitude":80.566164,
     "iso:country":"LK",
+    "label:eng_x_preferred_longname":[
+        "Pujapitiya Division"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "division"
+    ],
     "lbl:latitude":7.39822,
     "lbl:longitude":80.566908,
     "meso:admin_1":"Kandy",
@@ -66,7 +72,7 @@
         }
     ],
     "wof:id":1092065547,
-    "wof:lastmodified":1536615149,
+    "wof:lastmodified":1553718099,
     "wof:name":"Pujapitiya",
     "wof:parent_id":85673719,
     "wof:placetype":"county",

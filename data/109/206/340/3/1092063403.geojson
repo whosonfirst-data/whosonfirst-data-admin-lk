@@ -10,6 +10,12 @@
     "geom:latitude":7.224846,
     "geom:longitude":80.123433,
     "iso:country":"LK",
+    "label:eng_x_preferred_longname":[
+        "Mirigama Division"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "division"
+    ],
     "lbl:latitude":7.198292,
     "lbl:longitude":80.111218,
     "meso:admin_1":"Gampaha",
@@ -66,7 +72,7 @@
         }
     ],
     "wof:id":1092063403,
-    "wof:lastmodified":1536615147,
+    "wof:lastmodified":1553718097,
     "wof:name":"Mirigama",
     "wof:parent_id":85673815,
     "wof:placetype":"county",

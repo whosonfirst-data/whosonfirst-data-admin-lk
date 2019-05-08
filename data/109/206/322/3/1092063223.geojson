@@ -10,6 +10,12 @@
     "geom:latitude":7.125155,
     "geom:longitude":81.083322,
     "iso:country":"LK",
+    "label:eng_x_preferred_longname":[
+        "Meegahakivula Division"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "division"
+    ],
     "lbl:latitude":7.117346,
     "lbl:longitude":81.088824,
     "meso:admin_1":"Badulla",
@@ -66,7 +72,7 @@
         }
     ],
     "wof:id":1092063223,
-    "wof:lastmodified":1536615147,
+    "wof:lastmodified":1553718097,
     "wof:name":"Meegahakivula",
     "wof:parent_id":85673801,
     "wof:placetype":"county",

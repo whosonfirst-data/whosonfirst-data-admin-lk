@@ -10,6 +10,12 @@
     "geom:latitude":7.873694,
     "geom:longitude":80.98845,
     "iso:country":"LK",
+    "label:eng_x_preferred_longname":[
+        "Thamankaduwa Division"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "division"
+    ],
     "lbl:latitude":7.909835,
     "lbl:longitude":81.006354,
     "meso:admin_1":"Polonnaruwa",
@@ -66,7 +72,7 @@
         }
     ],
     "wof:id":1092066437,
-    "wof:lastmodified":1536615150,
+    "wof:lastmodified":1553718100,
     "wof:name":"Thamankaduwa",
     "wof:parent_id":85673743,
     "wof:placetype":"county",

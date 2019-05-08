@@ -10,6 +10,12 @@
     "geom:latitude":6.13652,
     "geom:longitude":80.439239,
     "iso:country":"LK",
+    "label:eng_x_preferred_longname":[
+        "Akuressa Division"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "division"
+    ],
     "lbl:latitude":6.140449,
     "lbl:longitude":80.440128,
     "meso:admin_1":"Matara",
@@ -66,7 +72,7 @@
         }
     ],
     "wof:id":1092056289,
-    "wof:lastmodified":1536615140,
+    "wof:lastmodified":1553718090,
     "wof:name":"Akuressa",
     "wof:parent_id":85673795,
     "wof:placetype":"county",

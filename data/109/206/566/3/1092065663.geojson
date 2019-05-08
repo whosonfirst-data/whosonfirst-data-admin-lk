@@ -10,6 +10,12 @@
     "geom:latitude":8.181907,
     "geom:longitude":80.184942,
     "iso:country":"LK",
+    "label:eng_x_preferred_longname":[
+        "Rajanganaya Division"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "division"
+    ],
     "lbl:latitude":8.184483,
     "lbl:longitude":80.170157,
     "meso:admin_1":"Anuradhapura",
@@ -66,7 +72,7 @@
         }
     ],
     "wof:id":1092065663,
-    "wof:lastmodified":1536615149,
+    "wof:lastmodified":1553718099,
     "wof:name":"Rajanganaya",
     "wof:parent_id":85673751,
     "wof:placetype":"county",

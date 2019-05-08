@@ -10,6 +10,12 @@
     "geom:latitude":6.892784,
     "geom:longitude":79.897135,
     "iso:country":"LK",
+    "label:eng_x_preferred_longname":[
+        "Sri Jayawardanapura Kotte Division"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "division"
+    ],
     "lbl:latitude":6.892709,
     "lbl:longitude":79.895819,
     "meso:admin_1":"Colombo",
@@ -66,7 +72,7 @@
         }
     ],
     "wof:id":1092066319,
-    "wof:lastmodified":1536615150,
+    "wof:lastmodified":1553718100,
     "wof:name":"Sri Jayawardanapura Kotte",
     "wof:parent_id":85673811,
     "wof:placetype":"county",

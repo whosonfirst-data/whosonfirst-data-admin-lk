@@ -10,6 +10,12 @@
     "geom:latitude":6.759708,
     "geom:longitude":80.271977,
     "iso:country":"LK",
+    "label:eng_x_preferred_longname":[
+        "Kiriella Division"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "division"
+    ],
     "lbl:latitude":6.753705,
     "lbl:longitude":80.285158,
     "meso:admin_1":"Rathnapura",
@@ -66,7 +72,7 @@
         }
     ],
     "wof:id":1092060969,
-    "wof:lastmodified":1536615144,
+    "wof:lastmodified":1553718095,
     "wof:name":"Kiriella",
     "wof:parent_id":85673785,
     "wof:placetype":"county",

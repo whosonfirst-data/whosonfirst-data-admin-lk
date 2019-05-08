@@ -10,6 +10,12 @@
     "geom:latitude":8.29963,
     "geom:longitude":81.252634,
     "iso:country":"LK",
+    "label:eng_x_preferred_longname":[
+        "Seruvila Division"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "division"
+    ],
     "lbl:latitude":8.303788,
     "lbl:longitude":81.225097,
     "meso:admin_1":"Trincomalee",
@@ -66,7 +72,7 @@
         }
     ],
     "wof:id":1092066133,
-    "wof:lastmodified":1536615149,
+    "wof:lastmodified":1553718100,
     "wof:name":"Seruvila",
     "wof:parent_id":85673747,
     "wof:placetype":"county",

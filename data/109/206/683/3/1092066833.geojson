@@ -10,6 +10,12 @@
     "geom:latitude":9.220335,
     "geom:longitude":80.286597,
     "iso:country":"LK",
+    "label:eng_x_preferred_longname":[
+        "Thunukkai Division"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "division"
+    ],
     "lbl:latitude":9.229306,
     "lbl:longitude":80.279037,
     "meso:admin_1":"Mullaitivu",
@@ -66,7 +72,7 @@
         }
     ],
     "wof:id":1092066833,
-    "wof:lastmodified":1536615150,
+    "wof:lastmodified":1553718101,
     "wof:name":"Thunukkai",
     "wof:parent_id":85673765,
     "wof:placetype":"county",

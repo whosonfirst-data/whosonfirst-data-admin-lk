@@ -10,6 +10,12 @@
     "geom:latitude":6.791422,
     "geom:longitude":80.96269,
     "iso:country":"LK",
+    "label:eng_x_preferred_longname":[
+        "Haputale Division"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "division"
+    ],
     "lbl:latitude":6.793359,
     "lbl:longitude":80.950993,
     "meso:admin_1":"Badulla",
@@ -66,7 +72,7 @@
         }
     ],
     "wof:id":1092059183,
-    "wof:lastmodified":1536615143,
+    "wof:lastmodified":1553718093,
     "wof:name":"Haputale",
     "wof:parent_id":85673801,
     "wof:placetype":"county",

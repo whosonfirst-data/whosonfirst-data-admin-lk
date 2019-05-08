@@ -10,6 +10,12 @@
     "geom:latitude":7.640038,
     "geom:longitude":81.748005,
     "iso:country":"LK",
+    "label:eng_x_preferred_longname":[
+        "Manmunai Pattu (Araipattai) Division"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "division"
+    ],
     "lbl:latitude":7.646209,
     "lbl:longitude":81.744332,
     "meso:admin_1":"Batticaloa",
@@ -66,7 +72,7 @@
         }
     ],
     "wof:id":1092062517,
-    "wof:lastmodified":1536615146,
+    "wof:lastmodified":1553718096,
     "wof:name":"Manmunai Pattu (Araipattai)",
     "wof:parent_id":85673737,
     "wof:placetype":"county",

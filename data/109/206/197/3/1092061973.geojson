@@ -10,6 +10,12 @@
     "geom:latitude":8.84562,
     "geom:longitude":80.225593,
     "iso:country":"LK",
+    "label:eng_x_preferred_longname":[
+        "Madhu Division"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "division"
+    ],
     "lbl:latitude":8.889007,
     "lbl:longitude":80.250082,
     "meso:admin_1":"Mannar",
@@ -66,7 +72,7 @@
         }
     ],
     "wof:id":1092061973,
-    "wof:lastmodified":1536615145,
+    "wof:lastmodified":1553718096,
     "wof:name":"Madhu",
     "wof:parent_id":85673761,
     "wof:placetype":"county",

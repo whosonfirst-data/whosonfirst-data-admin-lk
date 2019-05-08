@@ -10,6 +10,12 @@
     "geom:latitude":7.618668,
     "geom:longitude":80.471538,
     "iso:country":"LK",
+    "label:eng_x_preferred_longname":[
+        "Ibbagamuwa Division"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "division"
+    ],
     "lbl:latitude":7.607722,
     "lbl:longitude":80.456665,
     "meso:admin_1":"Kurunegala",
@@ -66,7 +72,7 @@
         }
     ],
     "wof:id":1092059525,
-    "wof:lastmodified":1536615143,
+    "wof:lastmodified":1553718093,
     "wof:name":"Ibbagamuwa",
     "wof:parent_id":85673777,
     "wof:placetype":"county",

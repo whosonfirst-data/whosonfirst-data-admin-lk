@@ -10,6 +10,12 @@
     "geom:latitude":7.923208,
     "geom:longitude":81.491952,
     "iso:country":"LK",
+    "label:eng_x_preferred_longname":[
+        "Koralai Pattu West (Oddamavadi) Division"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "division"
+    ],
     "lbl:latitude":7.923384,
     "lbl:longitude":81.48681,
     "meso:admin_1":"Batticaloa",
@@ -29,7 +35,8 @@
         "Koralai Pattu West"
     ],
     "name:eng_x_variant":[
-        "Koralai Pattu West (Oddamavadi)"
+        "Koralai Pattu West (Oddamavadi)",
+        "Koralai Pattu  West (Oddamavadi)"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -66,8 +73,8 @@
         }
     ],
     "wof:id":1092061339,
-    "wof:lastmodified":1536615145,
-    "wof:name":"Koralai Pattu  West (Oddamavadi)",
+    "wof:lastmodified":1555092028,
+    "wof:name":"Koralai Pattu West (Oddamavadi)",
     "wof:parent_id":85673737,
     "wof:placetype":"county",
     "wof:placetype_local":"division",

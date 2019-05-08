@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.008584,
-    "geom:area_square_m":105301250.795009,
+    "geom:area_square_m":105301250.794996,
     "geom:bbox":"80.3144281755,7.11422507131,80.4131516542,7.28398137548",
     "geom:latitude":7.205342,
     "geom:longitude":80.367255,
@@ -13,6 +13,12 @@
     "gn:fcode":"ADM2",
     "gn:pop":774542,
     "iso:country":"LK",
+    "label:eng_x_preferred_longname":[
+        "Kegalle Division"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "division"
+    ],
     "lbl:latitude":7.199029,
     "lbl:longitude":80.363891,
     "meso:admin_1":"Kegalle",
@@ -196,7 +202,7 @@
         }
     ],
     "wof:id":890455861,
-    "wof:lastmodified":1553816404,
+    "wof:lastmodified":1555037018,
     "wof:name":"Kegalle",
     "wof:parent_id":85673807,
     "wof:placetype":"county",

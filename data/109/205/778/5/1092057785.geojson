@@ -10,6 +10,12 @@
     "geom:latitude":6.906778,
     "geom:longitude":80.402526,
     "iso:country":"LK",
+    "label:eng_x_preferred_longname":[
+        "Deraniyagala Division"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "division"
+    ],
     "lbl:latitude":6.907735,
     "lbl:longitude":80.385791,
     "meso:admin_1":"Kegalle",
@@ -66,7 +72,7 @@
         }
     ],
     "wof:id":1092057785,
-    "wof:lastmodified":1536615141,
+    "wof:lastmodified":1553718092,
     "wof:name":"Deraniyagala",
     "wof:parent_id":85673807,
     "wof:placetype":"county",

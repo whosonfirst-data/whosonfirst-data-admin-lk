@@ -10,6 +10,12 @@
     "geom:latitude":7.39046,
     "geom:longitude":80.619491,
     "iso:country":"LK",
+    "label:eng_x_preferred_longname":[
+        "Akurana Division"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "division"
+    ],
     "lbl:latitude":7.386635,
     "lbl:longitude":80.622045,
     "meso:admin_1":"Kandy",
@@ -66,7 +72,7 @@
         }
     ],
     "wof:id":1092056249,
-    "wof:lastmodified":1536615140,
+    "wof:lastmodified":1553718090,
     "wof:name":"Akurana",
     "wof:parent_id":85673719,
     "wof:placetype":"county",

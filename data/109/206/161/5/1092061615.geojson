@@ -10,6 +10,12 @@
     "geom:latitude":7.304066,
     "geom:longitude":80.709366,
     "iso:country":"LK",
+    "label:eng_x_preferred_longname":[
+        "Kundasale Division"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "division"
+    ],
     "lbl:latitude":7.294538,
     "lbl:longitude":80.713092,
     "meso:admin_1":"Kandy",
@@ -66,7 +72,7 @@
         }
     ],
     "wof:id":1092061615,
-    "wof:lastmodified":1536615145,
+    "wof:lastmodified":1553718095,
     "wof:name":"Kundasale",
     "wof:parent_id":85673719,
     "wof:placetype":"county",

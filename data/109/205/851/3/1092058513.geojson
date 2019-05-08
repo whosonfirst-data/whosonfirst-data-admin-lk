@@ -10,6 +10,12 @@
     "geom:latitude":7.778254,
     "geom:longitude":80.570946,
     "iso:country":"LK",
+    "label:eng_x_preferred_longname":[
+        "Galewela Division"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "division"
+    ],
     "lbl:latitude":7.79109,
     "lbl:longitude":80.563929,
     "meso:admin_1":"Matale",
@@ -66,7 +72,7 @@
         }
     ],
     "wof:id":1092058513,
-    "wof:lastmodified":1536615142,
+    "wof:lastmodified":1553718092,
     "wof:name":"Galewela",
     "wof:parent_id":85673723,
     "wof:placetype":"county",

@@ -10,6 +10,12 @@
     "geom:latitude":5.96169,
     "geom:longitude":80.561033,
     "iso:country":"LK",
+    "label:eng_x_preferred_longname":[
+        "Matara Four Gravets Division"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "division"
+    ],
     "lbl:latitude":5.965821,
     "lbl:longitude":80.581564,
     "meso:admin_1":"Matara",
@@ -66,7 +72,7 @@
         }
     ],
     "wof:id":1092062917,
-    "wof:lastmodified":1536615146,
+    "wof:lastmodified":1553718097,
     "wof:name":"Matara Four Gravets",
     "wof:parent_id":85673795,
     "wof:placetype":"county",

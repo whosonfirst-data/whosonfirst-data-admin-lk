@@ -10,6 +10,12 @@
     "geom:latitude":7.863465,
     "geom:longitude":80.122055,
     "iso:country":"LK",
+    "label:eng_x_preferred_longname":[
+        "Kotavehera Division"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "division"
+    ],
     "lbl:latitude":7.870621,
     "lbl:longitude":80.120787,
     "meso:admin_1":"Kurunegala",
@@ -66,7 +72,7 @@
         }
     ],
     "wof:id":1092061409,
-    "wof:lastmodified":1536615145,
+    "wof:lastmodified":1553718095,
     "wof:name":"Kotavehera",
     "wof:parent_id":85673777,
     "wof:placetype":"county",

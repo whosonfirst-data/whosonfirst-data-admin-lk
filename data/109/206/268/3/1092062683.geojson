@@ -10,6 +10,12 @@
     "geom:latitude":8.99085,
     "geom:longitude":79.887366,
     "iso:country":"LK",
+    "label:eng_x_preferred_longname":[
+        "Mannar Town Division"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "division"
+    ],
     "lbl:latitude":9.056058,
     "lbl:longitude":79.82422,
     "meso:admin_1":"Mannar",
@@ -66,7 +72,7 @@
         }
     ],
     "wof:id":1092062683,
-    "wof:lastmodified":1536615146,
+    "wof:lastmodified":1553718096,
     "wof:name":"Mannar Town",
     "wof:parent_id":85673761,
     "wof:placetype":"county",

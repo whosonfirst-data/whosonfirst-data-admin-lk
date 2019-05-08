@@ -10,6 +10,12 @@
     "geom:latitude":9.775662,
     "geom:longitude":80.18423,
     "iso:country":"LK",
+    "label:eng_x_preferred_longname":[
+        "Vadamaradchy South-West (Karaveddy) Division"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "division"
+    ],
     "lbl:latitude":9.77677,
     "lbl:longitude":80.183117,
     "meso:admin_1":"Jaffna",
@@ -66,7 +72,7 @@
         }
     ],
     "wof:id":1092067125,
-    "wof:lastmodified":1536615151,
+    "wof:lastmodified":1553718101,
     "wof:name":"Vadamaradchy South-West (Karaveddy)",
     "wof:parent_id":85673769,
     "wof:placetype":"county",

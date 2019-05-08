@@ -10,6 +10,12 @@
     "geom:latitude":8.745221,
     "geom:longitude":80.959888,
     "iso:country":"LK",
+    "label:eng_x_preferred_longname":[
+        "Gomarankadawala Division"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "division"
+    ],
     "lbl:latitude":8.740871,
     "lbl:longitude":80.958537,
     "meso:admin_1":"Trincomalee",
@@ -66,7 +72,7 @@
         }
     ],
     "wof:id":1092058863,
-    "wof:lastmodified":1536615142,
+    "wof:lastmodified":1553718093,
     "wof:name":"Gomarankadawala",
     "wof:parent_id":85673747,
     "wof:placetype":"county",

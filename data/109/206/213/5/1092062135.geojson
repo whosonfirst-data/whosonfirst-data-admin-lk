@@ -10,6 +10,12 @@
     "geom:latitude":7.562532,
     "geom:longitude":81.349252,
     "iso:country":"LK",
+    "label:eng_x_preferred_longname":[
+        "Mahaoya Division"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "division"
+    ],
     "lbl:latitude":7.570805,
     "lbl:longitude":81.359256,
     "meso:admin_1":"Ampara",
@@ -66,7 +72,7 @@
         }
     ],
     "wof:id":1092062135,
-    "wof:lastmodified":1536615146,
+    "wof:lastmodified":1553718096,
     "wof:name":"Mahaoya",
     "wof:parent_id":85673733,
     "wof:placetype":"county",

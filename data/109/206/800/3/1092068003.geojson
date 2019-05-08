@@ -10,6 +10,12 @@
     "geom:latitude":6.016712,
     "geom:longitude":80.438874,
     "iso:country":"LK",
+    "label:eng_x_preferred_longname":[
+        "Welipitiya Division"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "division"
+    ],
     "lbl:latitude":6.014383,
     "lbl:longitude":80.446772,
     "meso:admin_1":"Matara",
@@ -66,7 +72,7 @@
         }
     ],
     "wof:id":1092068003,
-    "wof:lastmodified":1536615152,
+    "wof:lastmodified":1553718102,
     "wof:name":"Welipitiya",
     "wof:parent_id":85673795,
     "wof:placetype":"county",

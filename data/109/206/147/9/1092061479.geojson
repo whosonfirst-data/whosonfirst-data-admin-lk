@@ -10,6 +10,12 @@
     "geom:latitude":8.814808,
     "geom:longitude":81.042382,
     "iso:country":"LK",
+    "label:eng_x_preferred_longname":[
+        "Kuchchaveli Division"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "division"
+    ],
     "lbl:latitude":8.811331,
     "lbl:longitude":81.042388,
     "meso:admin_1":"Trincomalee",
@@ -66,7 +72,7 @@
         }
     ],
     "wof:id":1092061479,
-    "wof:lastmodified":1536615145,
+    "wof:lastmodified":1553718095,
     "wof:name":"Kuchchaveli",
     "wof:parent_id":85673747,
     "wof:placetype":"county",

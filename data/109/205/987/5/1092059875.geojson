@@ -10,6 +10,12 @@
     "geom:latitude":6.903652,
     "geom:longitude":79.978153,
     "iso:country":"LK",
+    "label:eng_x_preferred_longname":[
+        "Kaduwela Division"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "division"
+    ],
     "lbl:latitude":6.904468,
     "lbl:longitude":79.983015,
     "meso:admin_1":"Colombo",
@@ -66,7 +72,7 @@
         }
     ],
     "wof:id":1092059875,
-    "wof:lastmodified":1536615143,
+    "wof:lastmodified":1553718094,
     "wof:name":"Kaduwela",
     "wof:parent_id":85673811,
     "wof:placetype":"county",

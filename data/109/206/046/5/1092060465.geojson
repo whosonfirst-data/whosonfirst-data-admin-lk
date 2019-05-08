@@ -10,6 +10,12 @@
     "geom:latitude":9.368168,
     "geom:longitude":80.36991,
     "iso:country":"LK",
+    "label:eng_x_preferred_longname":[
+        "Karachchi Division"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "division"
+    ],
     "lbl:latitude":9.358166,
     "lbl:longitude":80.359888,
     "meso:admin_1":"Kilinochchi",
@@ -66,7 +72,7 @@
         }
     ],
     "wof:id":1092060465,
-    "wof:lastmodified":1536615144,
+    "wof:lastmodified":1553718094,
     "wof:name":"Karachchi",
     "wof:parent_id":85673773,
     "wof:placetype":"county",

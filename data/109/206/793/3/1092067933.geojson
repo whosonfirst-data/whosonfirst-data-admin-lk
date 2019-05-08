@@ -10,6 +10,12 @@
     "geom:latitude":6.860151,
     "geom:longitude":80.881253,
     "iso:country":"LK",
+    "label:eng_x_preferred_longname":[
+        "Welimada Division"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "division"
+    ],
     "lbl:latitude":6.858232,
     "lbl:longitude":80.890189,
     "meso:admin_1":"Badulla",
@@ -66,7 +72,7 @@
         }
     ],
     "wof:id":1092067933,
-    "wof:lastmodified":1536615152,
+    "wof:lastmodified":1553718102,
     "wof:name":"Welimada",
     "wof:parent_id":85673801,
     "wof:placetype":"county",

@@ -10,6 +10,12 @@
     "geom:latitude":6.292376,
     "geom:longitude":81.013928,
     "iso:country":"LK",
+    "label:eng_x_preferred_longname":[
+        "Sooriyawewa Division"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "division"
+    ],
     "lbl:latitude":6.291148,
     "lbl:longitude":81.012716,
     "meso:admin_1":"Hambantota",
@@ -66,7 +72,7 @@
         }
     ],
     "wof:id":1092066245,
-    "wof:lastmodified":1536615150,
+    "wof:lastmodified":1553718100,
     "wof:name":"Sooriyawewa",
     "wof:parent_id":85673791,
     "wof:placetype":"county",

@@ -10,6 +10,12 @@
     "geom:latitude":6.762379,
     "geom:longitude":80.151285,
     "iso:country":"LK",
+    "label:eng_x_preferred_longname":[
+        "Ingiriya Division"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "division"
+    ],
     "lbl:latitude":6.761409,
     "lbl:longitude":80.156997,
     "meso:admin_1":"Kalutara",
@@ -66,7 +72,7 @@
         }
     ],
     "wof:id":1092059643,
-    "wof:lastmodified":1536615143,
+    "wof:lastmodified":1553718093,
     "wof:name":"Ingiriya",
     "wof:parent_id":85673819,
     "wof:placetype":"county",

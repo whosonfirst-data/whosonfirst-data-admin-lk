@@ -10,6 +10,12 @@
     "geom:latitude":7.418021,
     "geom:longitude":81.76738,
     "iso:country":"LK",
+    "label:eng_x_preferred_longname":[
+        "Navithanveli Division"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "division"
+    ],
     "lbl:latitude":7.418599,
     "lbl:longitude":81.762632,
     "meso:admin_1":"Ampara",
@@ -66,7 +72,7 @@
         }
     ],
     "wof:id":1092063985,
-    "wof:lastmodified":1536615147,
+    "wof:lastmodified":1553718098,
     "wof:name":"Navithanveli",
     "wof:parent_id":85673733,
     "wof:placetype":"county",

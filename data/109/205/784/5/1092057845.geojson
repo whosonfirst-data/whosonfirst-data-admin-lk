@@ -10,6 +10,12 @@
     "geom:latitude":5.982428,
     "geom:longitude":80.672807,
     "iso:country":"LK",
+    "label:eng_x_preferred_longname":[
+        "Dickwella Division"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "division"
+    ],
     "lbl:latitude":5.981057,
     "lbl:longitude":80.672068,
     "meso:admin_1":"Matara",
@@ -66,7 +72,7 @@
         }
     ],
     "wof:id":1092057845,
-    "wof:lastmodified":1536615142,
+    "wof:lastmodified":1553718092,
     "wof:name":"Dickwella",
     "wof:parent_id":85673795,
     "wof:placetype":"county",

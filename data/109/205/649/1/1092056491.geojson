@@ -10,6 +10,12 @@
     "geom:latitude":6.159831,
     "geom:longitude":80.963523,
     "iso:country":"LK",
+    "label:eng_x_preferred_longname":[
+        "Ambalantota Division"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "division"
+    ],
     "lbl:latitude":6.159058,
     "lbl:longitude":80.964874,
     "meso:admin_1":"Hambantota",
@@ -66,7 +72,7 @@
         }
     ],
     "wof:id":1092056491,
-    "wof:lastmodified":1536615140,
+    "wof:lastmodified":1553718090,
     "wof:name":"Ambalantota",
     "wof:parent_id":85673791,
     "wof:placetype":"county",

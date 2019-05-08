@@ -10,6 +10,12 @@
     "geom:latitude":7.437813,
     "geom:longitude":81.082666,
     "iso:country":"LK",
+    "label:eng_x_preferred_longname":[
+        "Mahiyanganaya Division"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "division"
+    ],
     "lbl:latitude":7.453871,
     "lbl:longitude":81.116741,
     "meso:admin_1":"Badulla",
@@ -66,7 +72,7 @@
         }
     ],
     "wof:id":1092062329,
-    "wof:lastmodified":1536615146,
+    "wof:lastmodified":1553718096,
     "wof:name":"Mahiyanganaya",
     "wof:parent_id":85673801,
     "wof:placetype":"county",
