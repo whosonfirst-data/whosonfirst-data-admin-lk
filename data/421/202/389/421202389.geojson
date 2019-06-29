@@ -28,20 +28,14 @@
     "name:ces_x_preferred":[
         "Polonnaruwa"
     ],
-    "name:chi_x_preferred":[
-        "\u6ce2\u9686\u7d0d\u9b6f\u6c83"
-    ],
-    "name:cze_x_preferred":[
-        "Polonnaruwa"
-    ],
     "name:dan_x_preferred":[
         "Polonnaruwa"
     ],
     "name:deu_x_preferred":[
         "Polonnaruwa"
     ],
-    "name:dut_x_preferred":[
-        "Polonnaruwa"
+    "name:ell_x_preferred":[
+        "\u03a0\u03bf\u03bb\u03bf\u03bd\u03b1\u03c1\u03bf\u03cd\u03b3\u03b1"
     ],
     "name:eng_x_preferred":[
         "Polonnaruwa"
@@ -54,18 +48,6 @@
     ],
     "name:fra_x_preferred":[
         "Polonn\u00e2ruv\u00e2"
-    ],
-    "name:fre_x_preferred":[
-        "Polonn\u00e2ruv\u00e2"
-    ],
-    "name:geo_x_preferred":[
-        "\u10de\u10dd\u10da\u10dd\u10dc\u10d0\u10e0\u10e3\u10d5\u10d0"
-    ],
-    "name:ger_x_preferred":[
-        "Polonnaruwa"
-    ],
-    "name:gre_x_preferred":[
-        "\u03a0\u03bf\u03bb\u03bf\u03bd\u03b1\u03c1\u03bf\u03cd\u03b3\u03b1"
     ],
     "name:guj_x_preferred":[
         "\u0aaa\u0acb\u0ab2\u0acb\u0aa8\u0ab0\u0ac1\u0ab5\u0abe"
@@ -118,7 +100,7 @@
     "name:mar_x_preferred":[
         "\u092a\u094b\u0932\u094b\u0928\u093e\u0930\u0941\u0935\u093e"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Polonnaruwa"
     ],
     "name:nep_x_preferred":[
@@ -132,9 +114,6 @@
     ],
     "name:nor_x_preferred":[
         "Polonnaruwa"
-    ],
-    "name:per_x_preferred":[
-        "\u067e\u0648\u0644\u0648\u0646\u0627\u0631\u0648\u0648\u0627"
     ],
     "name:pol_x_preferred":[
         "Polonnaruwa"
@@ -226,7 +205,7 @@
         }
     ],
     "wof:id":421202389,
-    "wof:lastmodified":1527716213,
+    "wof:lastmodified":1561830629,
     "wof:name":"Polonnaruwa",
     "wof:parent_id":1092066437,
     "wof:placetype":"locality",

@@ -22,8 +22,11 @@
     "name:dan_x_preferred":[
         "Weligama"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Weligama"
+    ],
+    "name:ell_x_preferred":[
+        "\u0393\u03bf\u03c5\u03b5\u03bb\u03b9\u03b3\u03ba\u03ac\u03bc\u03b1"
     ],
     "name:eng_x_preferred":[
         "Weligama"
@@ -36,15 +39,6 @@
     ],
     "name:fra_x_preferred":[
         "Weligama"
-    ],
-    "name:fre_x_preferred":[
-        "Weligama"
-    ],
-    "name:ger_x_preferred":[
-        "Weligama"
-    ],
-    "name:gre_x_preferred":[
-        "\u0393\u03bf\u03c5\u03b5\u03bb\u03b9\u03b3\u03ba\u03ac\u03bc\u03b1"
     ],
     "name:guj_x_preferred":[
         "\u0ab5\u0ac7\u0ab2\u0abf\u0a97\u0abe\u0aae\u0abe"
@@ -76,14 +70,14 @@
     "name:mar_x_preferred":[
         "\u0935\u0947\u0932\u093f\u0917\u092e\u093e"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
+        "Weligama"
+    ],
+    "name:nld_x_preferred":[
         "Weligama"
     ],
     "name:nob_x_preferred":[
         "Weligama"
-    ],
-    "name:per_x_preferred":[
-        "\u0648\u0644\u06cc\u06af\u0627\u0645\u0627"
     ],
     "name:pol_x_preferred":[
         "Weligama"
@@ -169,7 +163,7 @@
         }
     ],
     "wof:id":421202171,
-    "wof:lastmodified":1527716214,
+    "wof:lastmodified":1561830629,
     "wof:name":"Weligama",
     "wof:parent_id":1092067827,
     "wof:placetype":"locality",

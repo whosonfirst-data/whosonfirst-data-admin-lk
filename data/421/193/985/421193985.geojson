@@ -13,20 +13,17 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"quattroshapes points import (201603)",
-    "name:dut_x_preferred":[
-        "Lindula"
-    ],
     "name:eng_x_preferred":[
         "Lindula"
     ],
     "name:fra_x_preferred":[
         "Lindula"
     ],
-    "name:fre_x_preferred":[
-        "Lindula"
-    ],
     "name:jpn_x_preferred":[
         "\u30ea\u30f3\u30c0\u30e9\u30fb\u30bf\u30e9\u30ef\u30b1\u30ec"
+    ],
+    "name:nld_x_preferred":[
+        "Lindula"
     ],
     "name:spa_x_preferred":[
         "Lindula"
@@ -81,7 +78,7 @@
         }
     ],
     "wof:id":421193985,
-    "wof:lastmodified":1527716145,
+    "wof:lastmodified":1561830628,
     "wof:name":"Lindula",
     "wof:parent_id":1092064313,
     "wof:placetype":"locality",

@@ -16,10 +16,10 @@
     "name:cat_x_preferred":[
         "Hanwella"
     ],
-    "name:dut_x_preferred":[
+    "name:eng_x_preferred":[
         "Hanwella"
     ],
-    "name:eng_x_preferred":[
+    "name:nld_x_preferred":[
         "Hanwella"
     ],
     "name:sin_x_preferred":[
@@ -75,7 +75,7 @@
         }
     ],
     "wof:id":421192551,
-    "wof:lastmodified":1527716107,
+    "wof:lastmodified":1561830627,
     "wof:name":"Hanwella",
     "wof:parent_id":1092066109,
     "wof:placetype":"locality",

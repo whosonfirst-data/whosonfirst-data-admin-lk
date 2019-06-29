@@ -16,12 +16,6 @@
     "name:bul_x_preferred":[
         "\u041f\u043e\u0442\u0443\u0432\u0438\u043b"
     ],
-    "name:chi_x_preferred":[
-        "\u6ce2\u5716\u7dad\u52d2"
-    ],
-    "name:dut_x_preferred":[
-        "Pottuvil"
-    ],
     "name:eng_x_preferred":[
         "Pottuvil"
     ],
@@ -30,6 +24,9 @@
     ],
     "name:jpn_x_preferred":[
         "\u30dd\u30c8\u30a5\u30f4\u30a3\u30eb"
+    ],
+    "name:nld_x_preferred":[
+        "Pottuvil"
     ],
     "name:rus_x_preferred":[
         "\u041f\u043e\u0442\u0442\u0443\u0432\u0438\u043b"
@@ -45,6 +42,9 @@
     ],
     "name:unk_x_variant":[
         "Pottuville"
+    ],
+    "name:zho_x_preferred":[
+        "\u6ce2\u5716\u7dad\u52d2"
     ],
     "qs:gn_country":"LK",
     "qs:gn_fcode":"PPL",
@@ -92,7 +92,7 @@
         }
     ],
     "wof:id":421203941,
-    "wof:lastmodified":1527716194,
+    "wof:lastmodified":1561830628,
     "wof:name":"Pottuvil",
     "wof:parent_id":1092065525,
     "wof:placetype":"locality",

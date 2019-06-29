@@ -34,17 +34,14 @@
     "name:cat_x_preferred":[
         "Mullaitivu"
     ],
-    "name:chi_x_preferred":[
-        "\u7a46\u840a\u8482\u6b66\u5340"
-    ],
     "name:dan_x_preferred":[
         "Mullaitivu District"
     ],
     "name:deu_x_preferred":[
         "Mullaitivu"
     ],
-    "name:dut_x_preferred":[
-        "Mullaitivu"
+    "name:ell_x_preferred":[
+        "\u039c\u03bf\u03c5\u03bb\u03b1\u03ca\u03c4\u03b9\u03b2\u03bf\u03cd\u03bd"
     ],
     "name:eng_x_preferred":[
         "Mullaitivu"
@@ -52,23 +49,14 @@
     "name:fas_x_preferred":[
         "\u0645\u0648\u0644\u0627\u06cc\u062a\u06cc\u0648\u0648"
     ],
+    "name:fas_x_variant":[
+        "\u0646\u0627\u062d\u06cc\u0647 \u0645\u0648\u0644\u0627\u06cc\u062a\u06cc\u0648\u0648"
+    ],
     "name:fin_x_preferred":[
         "Mullaitivun piirikunta"
     ],
     "name:fra_x_preferred":[
         "Mullaitivu"
-    ],
-    "name:fre_x_preferred":[
-        "Mullaitivu"
-    ],
-    "name:geo_x_preferred":[
-        "\u10db\u10e3\u10da\u10d0\u10d8\u10e2\u10d8\u10d5\u10e3\u10e1 \u10dd\u10da\u10e5\u10d8"
-    ],
-    "name:ger_x_preferred":[
-        "Mullaitivu"
-    ],
-    "name:gre_x_preferred":[
-        "\u039c\u03bf\u03c5\u03bb\u03b1\u03ca\u03c4\u03b9\u03b2\u03bf\u03cd\u03bd"
     ],
     "name:guj_x_preferred":[
         "\u0aae\u0ac1\u0ab2\u0acd\u0ab2\u0aa4\u0abf\u0ab5\u0ac1 \u0a9c\u0abf\u0ab2\u0acd\u0ab2\u0acb"
@@ -88,6 +76,9 @@
     "name:kan_x_preferred":[
         "\u0cae\u0cc1\u0cb2\u0ccd\u0cb2\u0ca4\u0cbf\u0cb5\u0cc1 \u0c9c\u0cbf\u0cb2\u0ccd\u0cb2\u0cc6"
     ],
+    "name:kat_x_preferred":[
+        "\u10db\u10e3\u10da\u10d0\u10d8\u10e2\u10d8\u10d5\u10e3\u10e1 \u10dd\u10da\u10e5\u10d8"
+    ],
     "name:kor_x_preferred":[
         "\ubb3c\ub77c\uc774\ud2f0\ubd80 \uad6c"
     ],
@@ -100,7 +91,7 @@
     "name:mar_x_preferred":[
         "\u092e\u0941\u0932\u0948\u0924\u0940\u0935\u0942 \u091c\u093f\u0932\u094d\u0939\u093e"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Mullaitivu District"
     ],
     "name:nld_x_preferred":[
@@ -111,9 +102,6 @@
     ],
     "name:nor_x_preferred":[
         "Mullaittivu"
-    ],
-    "name:per_x_preferred":[
-        "\u0646\u0627\u062d\u06cc\u0647 \u0645\u0648\u0644\u0627\u06cc\u062a\u06cc\u0648\u0648"
     ],
     "name:pnb_x_preferred":[
         "\u0636\u0644\u0639 \u0645\u0644\u0627\u0626\u062a\u06cc\u0648\u0648"
@@ -159,6 +147,9 @@
     ],
     "name:zho_x_preferred":[
         "\u7a46\u83b1\u8482\u6b66"
+    ],
+    "name:zho_x_variant":[
+        "\u7a46\u840a\u8482\u6b66\u5340"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"LKA",
@@ -287,7 +278,7 @@
         "sin",
         "tam"
     ],
-    "wof:lastmodified":1553550448,
+    "wof:lastmodified":1561830589,
     "wof:name":"Mulativ",
     "wof:parent_id":85632313,
     "wof:placetype":"region",

@@ -21,14 +21,14 @@
     "name:ben_x_preferred":[
         "\u099a\u09c7\u09b8\u09cd\u0995\u09c7 \u09ac\u09c1\u09a6\u09c7\u099c\u09cb\u09ad\u09bf\u09b8\u09c7"
     ],
-    "name:chi_x_preferred":[
-        "\u672c\u6258\u7279"
-    ],
     "name:dan_x_preferred":[
         "Bentota"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Bentota"
+    ],
+    "name:ell_x_preferred":[
+        "\u039c\u03c0\u03b5\u03bd\u03c4\u03cc\u03c4\u03b1"
     ],
     "name:eng_x_preferred":[
         "Bentota"
@@ -36,14 +36,8 @@
     "name:fin_x_preferred":[
         "Bentota"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Bentota"
-    ],
-    "name:ger_x_preferred":[
-        "Bentota"
-    ],
-    "name:gre_x_preferred":[
-        "\u039c\u03c0\u03b5\u03bd\u03c4\u03cc\u03c4\u03b1"
     ],
     "name:guj_x_preferred":[
         "\u0aac\u0ac7\u0aa8\u0acd\u0a9f\u0acb\u0a9f\u0abe"
@@ -75,7 +69,10 @@
     "name:mar_x_preferred":[
         "\u092c\u0902\u091f\u094b\u091f\u093e"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
+        "Bentota"
+    ],
+    "name:nld_x_preferred":[
         "Bentota"
     ],
     "name:nob_x_preferred":[
@@ -120,6 +117,9 @@
     "name:vie_x_preferred":[
         "Bentota"
     ],
+    "name:zho_x_preferred":[
+        "\u672c\u6258\u7279"
+    ],
     "qs:name":"Bentota",
     "qs:photos_9r":0,
     "qs:photos_sr":0,
@@ -151,7 +151,7 @@
         }
     ],
     "wof:id":890450149,
-    "wof:lastmodified":1553816402,
+    "wof:lastmodified":1561830632,
     "wof:name":"Bentota",
     "wof:parent_id":85673789,
     "wof:placetype":"locality",

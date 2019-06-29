@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.108219,
-    "geom:area_square_m":1330473895.997404,
+    "geom:area_square_m":1330473895.99748,
     "geom:bbox":"80.3755443041,5.91455555,80.7258464031,6.40006663954",
     "geom:latitude":6.140032,
     "geom:longitude":80.540154,
@@ -31,32 +31,26 @@
     "name:ben_x_preferred":[
         "\u09ae\u09be\u09a4\u09be\u09b0\u09be \u099c\u09c7\u09b2\u09be"
     ],
-    "name:chi_x_preferred":[
-        "\u99ac\u7279\u52d2\u5340"
-    ],
     "name:dan_x_preferred":[
         "Matara District"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Matara"
+    ],
+    "name:ell_x_preferred":[
+        "\u039c\u03ac\u03c4\u03b1\u03c1\u03b1"
     ],
     "name:eng_x_preferred":[
         "Matara"
     ],
+    "name:fas_x_preferred":[
+        "\u0646\u0627\u062d\u06cc\u0647 \u0645\u0627\u062a\u0627\u0631\u0627"
+    ],
     "name:fin_x_preferred":[
         "Mataran piirikunta"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Matara"
-    ],
-    "name:geo_x_preferred":[
-        "\u10db\u10d0\u10e2\u10d0\u10e0\u10d8\u10e1 \u10dd\u10da\u10e5\u10d8"
-    ],
-    "name:ger_x_preferred":[
-        "Matara"
-    ],
-    "name:gre_x_preferred":[
-        "\u039c\u03ac\u03c4\u03b1\u03c1\u03b1"
     ],
     "name:guj_x_preferred":[
         "\u0aae\u0abe\u0aa4\u0abe\u0ab0\u0abe \u0a9c\u0abf\u0ab2\u0acd\u0ab2\u0acb"
@@ -76,6 +70,9 @@
     "name:kan_x_preferred":[
         "\u0cae\u0c9f\u0cb0\u0cbe \u0c9c\u0cbf\u0cb2\u0ccd\u0cb2\u0cc6"
     ],
+    "name:kat_x_preferred":[
+        "\u10db\u10d0\u10e2\u10d0\u10e0\u10d8\u10e1 \u10dd\u10da\u10e5\u10d8"
+    ],
     "name:kor_x_preferred":[
         "\ub9c8\ud0c0\ub77c \uad6c"
     ],
@@ -88,14 +85,14 @@
     "name:mar_x_preferred":[
         "\u092e\u093e\u0924\u0930\u093e \u091c\u093f\u0932\u094d\u0939\u093e"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Matara District"
+    ],
+    "name:nld_x_preferred":[
+        "Matara"
     ],
     "name:nob_x_preferred":[
         "Matara"
-    ],
-    "name:per_x_preferred":[
-        "\u0646\u0627\u062d\u06cc\u0647 \u0645\u0627\u062a\u0627\u0631\u0627"
     ],
     "name:pnb_x_preferred":[
         "\u0636\u0644\u0639 \u0645\u0679\u0627\u0631\u0627"
@@ -141,6 +138,9 @@
     ],
     "name:vie_x_preferred":[
         "Qu\u1eadn Matara"
+    ],
+    "name:zho_x_preferred":[
+        "\u99ac\u7279\u52d2\u5340"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"LKA",
@@ -269,7 +269,7 @@
         "sin",
         "tam"
     ],
-    "wof:lastmodified":1553814806,
+    "wof:lastmodified":1561830587,
     "wof:name":"M\u0101tara",
     "wof:parent_id":85632313,
     "wof:placetype":"region",

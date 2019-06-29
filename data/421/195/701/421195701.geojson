@@ -29,10 +29,7 @@
     "name:cat_x_preferred":[
         "Jaffna"
     ],
-    "name:chi_x_preferred":[
-        "\u8cc8\u592b\u7d0d"
-    ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "J\u00e1pan\u00e9"
     ],
     "name:dan_x_preferred":[
@@ -41,8 +38,8 @@
     "name:deu_x_preferred":[
         "Jaffna"
     ],
-    "name:dut_x_preferred":[
-        "Jaffna"
+    "name:ell_x_preferred":[
+        "\u03a4\u03b6\u03ac\u03c6\u03bd\u03b1"
     ],
     "name:eng_x_preferred":[
         "Jaffna"
@@ -61,18 +58,6 @@
     ],
     "name:fra_x_preferred":[
         "Jaffna"
-    ],
-    "name:fre_x_preferred":[
-        "Jaffna"
-    ],
-    "name:geo_x_preferred":[
-        "\u10ef\u10d0\u10e4\u10dc\u10d0"
-    ],
-    "name:ger_x_preferred":[
-        "Jaffna"
-    ],
-    "name:gre_x_preferred":[
-        "\u03a4\u03b6\u03ac\u03c6\u03bd\u03b1"
     ],
     "name:guj_x_preferred":[
         "\u0a9c\u0abe\u0aab\u0aa8\u0abe"
@@ -119,7 +104,7 @@
     "name:mar_x_preferred":[
         "\u091c\u093e\u092b\u0928\u093e"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Jaffna"
     ],
     "name:nld_x_preferred":[
@@ -139,9 +124,6 @@
     ],
     "name:pan_x_preferred":[
         "\u0a1c\u0a3e\u0a2b\u0a28\u0a3e"
-    ],
-    "name:per_x_preferred":[
-        "\u062c\u0627\u0641\u0646\u0627"
     ],
     "name:pol_x_preferred":[
         "D\u017cafna"
@@ -341,7 +323,7 @@
         }
     ],
     "wof:id":421195701,
-    "wof:lastmodified":1527716117,
+    "wof:lastmodified":1561830627,
     "wof:name":"Jaffna",
     "wof:parent_id":890455863,
     "wof:placetype":"locality",

@@ -31,32 +31,26 @@
     "name:ben_x_preferred":[
         "\u09b9\u09be\u09ae\u09cd\u09ac\u09be\u09a8\u099f\u09c1\u099f\u09be  \u099c\u09c7\u09b2\u09be"
     ],
-    "name:chi_x_preferred":[
-        "\u6f22\u73ed\u6258\u7279\u5340"
-    ],
     "name:dan_x_preferred":[
         "Hambantota District"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Hambantota"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a7\u03b1\u03bc\u03c0\u03b1\u03bd\u03c4\u03cc\u03c4\u03b1"
     ],
     "name:eng_x_preferred":[
         "Hambantota"
     ],
+    "name:fas_x_preferred":[
+        "\u0646\u0627\u062d\u06cc\u0647 \u0647\u0627\u0645\u0628\u0627\u0646\u062a\u0648\u062a\u0627"
+    ],
     "name:fin_x_preferred":[
         "Hambantotan piirikunta"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "district d'Hambantota"
-    ],
-    "name:geo_x_preferred":[
-        "\u10f0\u10d0\u10db\u10d1\u10d0\u10dc\u10e2\u10dd\u10e2\u10d8\u10e1 \u10dd\u10da\u10e5\u10d8"
-    ],
-    "name:ger_x_preferred":[
-        "Hambantota"
-    ],
-    "name:gre_x_preferred":[
-        "\u03a7\u03b1\u03bc\u03c0\u03b1\u03bd\u03c4\u03cc\u03c4\u03b1"
     ],
     "name:guj_x_preferred":[
         "\u0ab9\u0aae\u0acd\u0aac\u0abe\u0aa8\u0acd\u0a9f\u0acb\u0a9f\u0abe \u0a9c\u0abf\u0ab2\u0acd\u0ab2\u0acb"
@@ -76,6 +70,9 @@
     "name:kan_x_preferred":[
         "\u0cb9\u0c82\u0cac\u0c82\u0ca4\u0ccb\u0c9f \u0c9c\u0cbf\u0cb2\u0ccd\u0cb2\u0cc6"
     ],
+    "name:kat_x_preferred":[
+        "\u10f0\u10d0\u10db\u10d1\u10d0\u10dc\u10e2\u10dd\u10e2\u10d8\u10e1 \u10dd\u10da\u10e5\u10d8"
+    ],
     "name:kor_x_preferred":[
         "\ud568\ubc18\ud1a0\ud0c0 \uad6c"
     ],
@@ -88,14 +85,14 @@
     "name:mar_x_preferred":[
         "\u0939\u092e\u094d\u092c\u0928\u094d\u091f\u094b\u091f \u091c\u093f\u0932\u094d\u0939\u093e"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Hambantota District"
+    ],
+    "name:nld_x_preferred":[
+        "Hambantota"
     ],
     "name:nob_x_preferred":[
         "Hambantota"
-    ],
-    "name:per_x_preferred":[
-        "\u0646\u0627\u062d\u06cc\u0647 \u0647\u0627\u0645\u0628\u0627\u0646\u062a\u0648\u062a\u0627"
     ],
     "name:pnb_x_preferred":[
         "\u0636\u0644\u0639 \u06c1\u0645\u0628\u0646\u0679\u0648\u0679\u0627"
@@ -141,6 +138,9 @@
     ],
     "name:vie_x_preferred":[
         "Qu\u1eadn Hambantota"
+    ],
+    "name:zho_x_preferred":[
+        "\u6f22\u73ed\u6258\u7279\u5340"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"LKA",
@@ -269,7 +269,7 @@
         "sin",
         "tam"
     ],
-    "wof:lastmodified":1553550451,
+    "wof:lastmodified":1561830589,
     "wof:name":"Hambant\u014f\u1e6da",
     "wof:parent_id":85632313,
     "wof:placetype":"region",

@@ -24,20 +24,20 @@
     "name:dan_x_preferred":[
         "Eravur"
     ],
-    "name:dut_x_preferred":[
-        "Eravur"
+    "name:ell_x_preferred":[
+        "\u0395\u03c1\u03b1\u03b2\u03bf\u03cd\u03c1"
     ],
     "name:eng_x_preferred":[
         "Eravur"
     ],
+    "name:fas_x_preferred":[
+        "\u0627\u0631\u0627\u0648\u0648\u0631"
+    ],
     "name:fin_x_preferred":[
         "Eravur"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Eravur"
-    ],
-    "name:gre_x_preferred":[
-        "\u0395\u03c1\u03b1\u03b2\u03bf\u03cd\u03c1"
     ],
     "name:guj_x_preferred":[
         "\u0a8f\u0ab0\u0abe\u0ab5\u0ab0"
@@ -69,14 +69,14 @@
     "name:mar_x_preferred":[
         "\u0907\u0930\u093e\u090a\u0930"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
+        "Eravur"
+    ],
+    "name:nld_x_preferred":[
         "Eravur"
     ],
     "name:nob_x_preferred":[
         "Eravur"
-    ],
-    "name:per_x_preferred":[
-        "\u0627\u0631\u0627\u0648\u0648\u0631"
     ],
     "name:pol_x_preferred":[
         "Eravur"
@@ -151,7 +151,7 @@
         }
     ],
     "wof:id":890450143,
-    "wof:lastmodified":1514470185,
+    "wof:lastmodified":1561830632,
     "wof:name":"Eravur Town",
     "wof:parent_id":1092058421,
     "wof:placetype":"locality",

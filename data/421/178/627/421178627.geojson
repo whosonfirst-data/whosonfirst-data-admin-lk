@@ -13,14 +13,14 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"quattroshapes points import (201603)",
-    "name:dut_x_preferred":[
-        "Kotikawatta"
-    ],
     "name:eng_x_preferred":[
         "Kotikawatta"
     ],
     "name:jpn_x_preferred":[
         "\u30b3\u30c6\u30a3\u30ab\u30ef\u30c3\u30bf"
+    ],
+    "name:nld_x_preferred":[
+        "Kotikawatta"
     ],
     "name:sin_x_preferred":[
         "\u0d9a\u0ddc\u0da7\u0dd2\u0d9a\u0dcf\u0dc0\u0dad\u0dca\u0dad"
@@ -76,7 +76,7 @@
         }
     ],
     "wof:id":421178627,
-    "wof:lastmodified":1527717720,
+    "wof:lastmodified":1561830631,
     "wof:name":"Kotikawatta",
     "wof:parent_id":1092061133,
     "wof:placetype":"locality",

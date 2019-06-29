@@ -26,14 +26,14 @@
     "name:cat_x_preferred":[
         "Batticaloa"
     ],
-    "name:chi_x_preferred":[
-        "\u5df4\u63d0\u5361\u6d1b\u963f"
-    ],
     "name:dan_x_preferred":[
         "Batticaloa"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Batticaloa"
+    ],
+    "name:ell_x_preferred":[
+        "\u039c\u03c0\u03b1\u03c4\u03b9\u03ba\u03b1\u03bb\u03cc\u03b1"
     ],
     "name:eng_x_preferred":[
         "Batticaloa"
@@ -41,20 +41,14 @@
     "name:epo_x_preferred":[
         "Batticaloa"
     ],
+    "name:fas_x_preferred":[
+        "\u0628\u0627\u062a\u06cc\u06a9\u0627\u0644\u0648\u0627"
+    ],
     "name:fin_x_preferred":[
         "Batticaloa"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Batticaloa"
-    ],
-    "name:geo_x_preferred":[
-        "\u10d1\u10d0\u10e2\u10d8\u10d9\u10d0\u10da\u10dd\u10d0"
-    ],
-    "name:ger_x_preferred":[
-        "Batticaloa"
-    ],
-    "name:gre_x_preferred":[
-        "\u039c\u03c0\u03b1\u03c4\u03b9\u03ba\u03b1\u03bb\u03cc\u03b1"
     ],
     "name:guj_x_preferred":[
         "\u0aac\u0ac7\u0a9f\u0acd\u0a9f\u0ac0\u0a95\u0ab2\u0acb\u0a86"
@@ -92,7 +86,7 @@
     "name:mar_x_preferred":[
         "\u092c\u0945\u091f\u0940\u0915\u094b\u0932\u0949\u0906"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Batticaloa"
     ],
     "name:nld_x_preferred":[
@@ -100,9 +94,6 @@
     ],
     "name:nob_x_preferred":[
         "Batticaloa"
-    ],
-    "name:per_x_preferred":[
-        "\u0628\u0627\u062a\u06cc\u06a9\u0627\u0644\u0648\u0627"
     ],
     "name:pol_x_preferred":[
         "Madakalapuwa"
@@ -289,7 +280,7 @@
         }
     ],
     "wof:id":421195439,
-    "wof:lastmodified":1527716119,
+    "wof:lastmodified":1561830628,
     "wof:name":"Batticaloa",
     "wof:parent_id":1092062477,
     "wof:placetype":"locality",

@@ -23,17 +23,14 @@
     "name:cat_x_preferred":[
         "Moratuwa"
     ],
-    "name:chi_x_preferred":[
-        "\u83ab\u62c9\u5716\u74e6"
-    ],
     "name:dan_x_preferred":[
         "Moratuwa"
     ],
     "name:deu_x_preferred":[
         "Moratuwa"
     ],
-    "name:dut_x_preferred":[
-        "Moratuwa"
+    "name:ell_x_preferred":[
+        "\u039c\u03bf\u03c1\u03b1\u03c4\u03bf\u03cd\u03b2\u03b1"
     ],
     "name:eng_x_preferred":[
         "Moratuwa"
@@ -47,17 +44,8 @@
     "name:fra_x_preferred":[
         "Moratuwa"
     ],
-    "name:fre_x_preferred":[
-        "Moratuwa"
-    ],
     "name:fur_x_preferred":[
         "Moratuwa"
-    ],
-    "name:ger_x_preferred":[
-        "Moratuwa"
-    ],
-    "name:gre_x_preferred":[
-        "\u039c\u03bf\u03c1\u03b1\u03c4\u03bf\u03cd\u03b2\u03b1"
     ],
     "name:guj_x_preferred":[
         "\u0aae\u0acb\u0ab0\u0aa4\u0ac1\u0ab5\u0abe"
@@ -89,14 +77,14 @@
     "name:mar_x_preferred":[
         "\u092e\u0949\u0930\u091f\u0941\u0935\u093e"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
+        "Moratuwa"
+    ],
+    "name:nld_x_preferred":[
         "Moratuwa"
     ],
     "name:nob_x_preferred":[
         "Moratuwa"
-    ],
-    "name:per_x_preferred":[
-        "\u0645\u0648\u0631\u0627\u062a\u0648\u0627"
     ],
     "name:pol_x_preferred":[
         "Moratuwa"
@@ -286,7 +274,7 @@
         }
     ],
     "wof:id":421199791,
-    "wof:lastmodified":1527716409,
+    "wof:lastmodified":1561830630,
     "wof:name":"Moratuwa",
     "wof:parent_id":1092063487,
     "wof:placetype":"locality",

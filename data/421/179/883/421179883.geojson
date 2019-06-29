@@ -25,16 +25,7 @@
     "name:ces_x_preferred":[
         "Negombo"
     ],
-    "name:chi_x_preferred":[
-        "\u5167\u8ca2\u535a"
-    ],
-    "name:cze_x_preferred":[
-        "Negombo"
-    ],
     "name:deu_x_preferred":[
-        "Negombo"
-    ],
-    "name:dut_x_preferred":[
         "Negombo"
     ],
     "name:eng_x_preferred":[
@@ -50,12 +41,6 @@
         "Negombo"
     ],
     "name:fra_x_preferred":[
-        "Negombo"
-    ],
-    "name:fre_x_preferred":[
-        "Negombo"
-    ],
-    "name:ger_x_preferred":[
         "Negombo"
     ],
     "name:hun_x_preferred":[
@@ -78,9 +63,6 @@
     ],
     "name:nor_x_preferred":[
         "Negombo"
-    ],
-    "name:per_x_preferred":[
-        "\u0646\u06af\u0648\u0645\u0628\u0648"
     ],
     "name:pol_x_preferred":[
         "Negombo"
@@ -166,7 +148,7 @@
         }
     ],
     "wof:id":421179883,
-    "wof:lastmodified":1527717711,
+    "wof:lastmodified":1561830631,
     "wof:name":"Negombo",
     "wof:parent_id":1092064053,
     "wof:placetype":"locality",

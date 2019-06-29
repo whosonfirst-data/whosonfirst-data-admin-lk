@@ -28,25 +28,19 @@
     "name:cat_x_preferred":[
         "Districte de Colombo"
     ],
-    "name:chi_x_preferred":[
-        "\u53ef\u502b\u5761\u5340"
-    ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Colombo"
     ],
     "name:eng_x_preferred":[
         "Colombo"
     ],
+    "name:fas_x_preferred":[
+        "\u0646\u0627\u062d\u06cc\u0647 \u06a9\u0644\u0645\u0628\u0648"
+    ],
     "name:fin_x_preferred":[
         "Colombon piirikunta"
     ],
-    "name:fre_x_preferred":[
-        "Colombo"
-    ],
-    "name:geo_x_preferred":[
-        "\u10d9\u10dd\u10da\u10dd\u10db\u10d1\u10dd\u10e1 \u10dd\u10da\u10e5\u10d8"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Colombo"
     ],
     "name:hin_x_preferred":[
@@ -58,20 +52,23 @@
     "name:jpn_x_preferred":[
         "\u30b3\u30ed\u30f3\u30dc\u770c"
     ],
+    "name:kat_x_preferred":[
+        "\u10d9\u10dd\u10da\u10dd\u10db\u10d1\u10dd\u10e1 \u10dd\u10da\u10e5\u10d8"
+    ],
     "name:kor_x_preferred":[
         "\ucf5c\ub86c\ubcf4 \uad6c"
-    ],
-    "name:mac_x_preferred":[
-        "\u041a\u043e\u043b\u043e\u043c\u0431\u043e"
     ],
     "name:mar_x_preferred":[
         "\u0915\u094b\u0932\u0902\u092c\u094b \u091c\u093f\u0932\u094d\u0939\u093e"
     ],
-    "name:nob_x_preferred":[
+    "name:mkd_x_preferred":[
+        "\u041a\u043e\u043b\u043e\u043c\u0431\u043e"
+    ],
+    "name:nld_x_preferred":[
         "Colombo"
     ],
-    "name:per_x_preferred":[
-        "\u0646\u0627\u062d\u06cc\u0647 \u06a9\u0644\u0645\u0628\u0648"
+    "name:nob_x_preferred":[
+        "Colombo"
     ],
     "name:pnb_x_preferred":[
         "\u0636\u0644\u0639 \u06a9\u0648\u0644\u0645\u0628\u0648"
@@ -99,6 +96,9 @@
     ],
     "name:urd_x_preferred":[
         "\u06a9\u0648\u0644\u0645\u0628\u0648 \u0636\u0644\u0639"
+    ],
+    "name:zho_x_preferred":[
+        "\u53ef\u502b\u5761\u5340"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"LKA",
@@ -227,7 +227,7 @@
         "sin",
         "tam"
     ],
-    "wof:lastmodified":1553550442,
+    "wof:lastmodified":1561830589,
     "wof:name":"K\u014f\u1e37amba",
     "wof:parent_id":85632313,
     "wof:placetype":"region",
