@@ -16,16 +16,10 @@
     "name:deu_x_preferred":[
         "Unawatuna"
     ],
-    "name:dut_x_preferred":[
-        "Unawatuna"
-    ],
     "name:eng_x_preferred":[
         "Unawatuna"
     ],
-    "name:fre_x_preferred":[
-        "Unawatuna"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Unawatuna"
     ],
     "name:ita_x_preferred":[
@@ -96,7 +90,7 @@
         }
     ],
     "wof:id":421204213,
-    "wof:lastmodified":1553816390,
+    "wof:lastmodified":1561830628,
     "wof:name":"Unawatuna",
     "wof:parent_id":1092058935,
     "wof:placetype":"locality",

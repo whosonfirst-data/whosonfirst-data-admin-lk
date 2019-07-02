@@ -20,9 +20,6 @@
     "name:ben_x_preferred":[
         "\u09b0\u09a4\u09cd\u09a8\u09be\u09aa\u09c1\u09b0\u09be"
     ],
-    "name:chi_x_preferred":[
-        "\u62c9\u7279\u7d0d\u666e\u52d2"
-    ],
     "name:cym_x_preferred":[
         "Ratnapura"
     ],
@@ -32,8 +29,8 @@
     "name:deu_x_preferred":[
         "Ratnapura"
     ],
-    "name:dut_x_preferred":[
-        "Ratnapura"
+    "name:ell_x_preferred":[
+        "\u03a1\u03b1\u03c4\u03bd\u03b1\u03c0\u03bf\u03cd\u03c1\u03b1"
     ],
     "name:eng_x_preferred":[
         "Ratnapura"
@@ -46,18 +43,6 @@
     ],
     "name:fra_x_preferred":[
         "Ratnapura"
-    ],
-    "name:fre_x_preferred":[
-        "Ratnapura"
-    ],
-    "name:geo_x_preferred":[
-        "\u10e0\u10d0\u10e2\u10dc\u10d0\u10de\u10e3\u10e0\u10d0"
-    ],
-    "name:ger_x_preferred":[
-        "Ratnapura"
-    ],
-    "name:gre_x_preferred":[
-        "\u03a1\u03b1\u03c4\u03bd\u03b1\u03c0\u03bf\u03cd\u03c1\u03b1"
     ],
     "name:guj_x_preferred":[
         "\u0ab0\u0aa4\u0acd\u0aa8\u0abe\u0aaa\u0ac1\u0ab0\u0abe"
@@ -98,7 +83,7 @@
     "name:mar_x_preferred":[
         "\u0930\u0924\u094d\u0928\u093e\u092a\u0942\u0930\u093e"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Ratnapura"
     ],
     "name:nld_x_preferred":[
@@ -106,9 +91,6 @@
     ],
     "name:nob_x_preferred":[
         "Ratnapura"
-    ],
-    "name:per_x_preferred":[
-        "\u0631\u0627\u062a\u0646\u0627\u067e\u0648\u0631\u0627"
     ],
     "name:pol_x_preferred":[
         "Ratnapura"
@@ -153,9 +135,6 @@
         "Ratnapur"
     ],
     "name:vie_x_preferred":[
-        "Ratnapura"
-    ],
-    "name:wel_x_preferred":[
         "Ratnapura"
     ],
     "name:zho_x_preferred":[
@@ -301,7 +280,7 @@
         }
     ],
     "wof:id":421168827,
-    "wof:lastmodified":1527716091,
+    "wof:lastmodified":1561830627,
     "wof:name":"Ratnapura",
     "wof:parent_id":1092065839,
     "wof:placetype":"locality",

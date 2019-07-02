@@ -25,25 +25,19 @@
     "mz:is_current":1,
     "mz:max_zoom":11.0,
     "mz:min_zoom":8.7,
-    "name:chi_x_preferred":[
-        "\u5eb7\u63d0\u5340"
-    ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Kandy"
     ],
     "name:eng_x_preferred":[
         "Kandy"
     ],
+    "name:fas_x_preferred":[
+        "\u0646\u0627\u062d\u06cc\u0647 \u06a9\u0646\u062f\u06cc"
+    ],
     "name:fin_x_preferred":[
         "Kandyn piirikunta"
     ],
-    "name:fre_x_preferred":[
-        "Kandy"
-    ],
-    "name:geo_x_preferred":[
-        "\u10d9\u10d0\u10dc\u10d3\u10d8\u10e1 \u10dd\u10da\u10e5\u10d8"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Kandy"
     ],
     "name:ita_x_preferred":[
@@ -52,14 +46,17 @@
     "name:jpn_x_preferred":[
         "\u30ad\u30e3\u30f3\u30c7\u30a3\u770c"
     ],
+    "name:kat_x_preferred":[
+        "\u10d9\u10d0\u10dc\u10d3\u10d8\u10e1 \u10dd\u10da\u10e5\u10d8"
+    ],
     "name:kor_x_preferred":[
         "\uce94\ub514 \uad6c"
     ],
     "name:mar_x_preferred":[
         "\u0915\u0901\u0921\u0940 \u091c\u093f\u0932\u094d\u0939\u093e"
     ],
-    "name:per_x_preferred":[
-        "\u0646\u0627\u062d\u06cc\u0647 \u06a9\u0646\u062f\u06cc"
+    "name:nld_x_preferred":[
+        "Kandy"
     ],
     "name:pnb_x_preferred":[
         "\u0636\u0644\u0639 \u06a9\u0627\u0646\u0688\u06d2"
@@ -90,6 +87,9 @@
     ],
     "name:urd_x_preferred":[
         "\u06a9\u06cc\u0646\u0688\u06cc \u0636\u0644\u0639"
+    ],
+    "name:zho_x_preferred":[
+        "\u5eb7\u63d0\u5340"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"LKA",
@@ -218,7 +218,7 @@
         "sin",
         "tam"
     ],
-    "wof:lastmodified":1553550403,
+    "wof:lastmodified":1561830588,
     "wof:name":"Mahanuvara",
     "wof:parent_id":85632313,
     "wof:placetype":"region",

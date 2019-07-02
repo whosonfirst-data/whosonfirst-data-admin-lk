@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.213478,
-    "geom:area_square_m":2615314264.126737,
+    "geom:area_square_m":2615314264.126301,
     "geom:bbox":"81.2258768543,7.40623759465,81.8195880287,8.26702707928",
     "geom:latitude":7.791246,
     "geom:longitude":81.492913,
@@ -25,25 +25,19 @@
     "mz:is_current":1,
     "mz:max_zoom":11.0,
     "mz:min_zoom":8.7,
-    "name:chi_x_preferred":[
-        "\u62dc\u8482\u514b\u6d1b\u5340"
-    ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Batticaloa"
     ],
     "name:eng_x_preferred":[
         "Batticaloa"
     ],
+    "name:fas_x_preferred":[
+        "\u0646\u0627\u062d\u06cc\u0647 \u0628\u0627\u062a\u06cc\u06a9\u0627\u0644\u0648\u0627"
+    ],
     "name:fin_x_preferred":[
         "Batticaloan piirikunta"
     ],
-    "name:fre_x_preferred":[
-        "Batticaloa"
-    ],
-    "name:geo_x_preferred":[
-        "\u10d1\u10d0\u10e2\u10d8\u10d9\u10d0\u10da\u10dd\u10d8\u10e1 \u10dd\u10da\u10e5\u10d8"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Batticaloa"
     ],
     "name:hin_x_preferred":[
@@ -55,6 +49,9 @@
     "name:jpn_x_preferred":[
         "\u30d0\u30c3\u30c6\u30a3\u30ab\u30ed\u30a2\u770c"
     ],
+    "name:kat_x_preferred":[
+        "\u10d1\u10d0\u10e2\u10d8\u10d9\u10d0\u10da\u10dd\u10d8\u10e1 \u10dd\u10da\u10e5\u10d8"
+    ],
     "name:kor_x_preferred":[
         "\ubc14\ud2f0\uce7c\ub85c\uc544 \uad6c"
     ],
@@ -64,11 +61,11 @@
     "name:mar_x_preferred":[
         "\u092c\u091f\u094d\u091f\u093f\u0915\u0932\u094b\u0906 \u091c\u093f\u0932\u094d\u0939\u093e"
     ],
-    "name:nob_x_preferred":[
+    "name:nld_x_preferred":[
         "Batticaloa"
     ],
-    "name:per_x_preferred":[
-        "\u0646\u0627\u062d\u06cc\u0647 \u0628\u0627\u062a\u06cc\u06a9\u0627\u0644\u0648\u0627"
+    "name:nob_x_preferred":[
+        "Batticaloa"
     ],
     "name:pnb_x_preferred":[
         "\u0636\u0644\u0639 \u0628\u0627\u0679\u06cc\u06a9\u0648\u0644\u0627"
@@ -96,6 +93,9 @@
     ],
     "name:urd_x_preferred":[
         "\u0628\u0627\u0679\u06cc\u06a9\u0627\u0644\u0648\u0627 \u0636\u0644\u0639"
+    ],
+    "name:zho_x_preferred":[
+        "\u62dc\u8482\u514b\u6d1b\u5340"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"LKA",
@@ -223,7 +223,7 @@
         "sin",
         "tam"
     ],
-    "wof:lastmodified":1553814806,
+    "wof:lastmodified":1561830589,
     "wof:name":"Ma\u1e0dakalapuva",
     "wof:parent_id":85632313,
     "wof:placetype":"region",

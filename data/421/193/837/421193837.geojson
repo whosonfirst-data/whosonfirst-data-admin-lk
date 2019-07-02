@@ -16,14 +16,11 @@
     "name:deu_x_preferred":[
         "Elefantenpass"
     ],
-    "name:dut_x_preferred":[
-        "Elephant Pass"
-    ],
     "name:eng_x_preferred":[
         "Elephant Pass"
     ],
-    "name:ger_x_preferred":[
-        "Elefantenpass"
+    "name:nld_x_preferred":[
+        "Elephant Pass"
     ],
     "name:nob_x_preferred":[
         "Elephant Pass"
@@ -86,7 +83,7 @@
         }
     ],
     "wof:id":421193837,
-    "wof:lastmodified":1553816382,
+    "wof:lastmodified":1561830628,
     "wof:name":"Elephant Pass",
     "wof:parent_id":1092064543,
     "wof:placetype":"locality",

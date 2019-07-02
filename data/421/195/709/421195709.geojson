@@ -19,17 +19,14 @@
     "name:ben_x_preferred":[
         "\u09b9\u09be\u09ae\u09cd\u09ac\u09be\u09a8\u099f\u09cb\u099f\u09be"
     ],
-    "name:chi_x_preferred":[
-        "\u6c49\u73ed\u6258\u5854"
-    ],
     "name:dan_x_preferred":[
         "Hambantota"
     ],
     "name:deu_x_preferred":[
         "Hambantota"
     ],
-    "name:dut_x_preferred":[
-        "Hambantota"
+    "name:ell_x_preferred":[
+        "\u03a7\u03b1\u03bc\u03c0\u03ac\u03bd\u03c4\u03bf\u03c4\u03b1"
     ],
     "name:eng_x_preferred":[
         "Hambantota"
@@ -42,15 +39,6 @@
     ],
     "name:fra_x_preferred":[
         "Hambantota"
-    ],
-    "name:fre_x_preferred":[
-        "Hambantota"
-    ],
-    "name:ger_x_preferred":[
-        "Hambantota"
-    ],
-    "name:gre_x_preferred":[
-        "\u03a7\u03b1\u03bc\u03c0\u03ac\u03bd\u03c4\u03bf\u03c4\u03b1"
     ],
     "name:guj_x_preferred":[
         "\u0ab9\u0aae\u0acd\u0aac\u0abe\u0aa8\u0acd\u0a9f\u0acb\u0a9f\u0abe"
@@ -88,7 +76,7 @@
     "name:mar_x_preferred":[
         "\u0939\u0902\u092c\u0928\u094d\u091f\u094b\u091f\u093e"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Hambantota"
     ],
     "name:nld_x_preferred":[
@@ -96,9 +84,6 @@
     ],
     "name:nob_x_preferred":[
         "Hambantota"
-    ],
-    "name:per_x_preferred":[
-        "\u0647\u0627\u0645\u0628\u0627\u0646\u062a\u0648\u062a\u0627"
     ],
     "name:pol_x_preferred":[
         "Hambantota"
@@ -194,7 +179,7 @@
         }
     ],
     "wof:id":421195709,
-    "wof:lastmodified":1527716117,
+    "wof:lastmodified":1561830628,
     "wof:name":"Hambantota",
     "wof:parent_id":1092059101,
     "wof:placetype":"locality",

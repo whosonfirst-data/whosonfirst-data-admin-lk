@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.136112,
-    "geom:area_square_m":1670121147.12592,
+    "geom:area_square_m":1670121147.126261,
     "geom:bbox":"80.1509225029,6.8282226201,80.545551701,7.39681184836",
     "geom:latitude":7.104498,
     "geom:longitude":80.343308,
@@ -31,32 +31,26 @@
     "name:ben_x_preferred":[
         "\u0995\u09c7\u0997\u09be\u09b2\u09c7 \u099c\u09c7\u09b2\u09be"
     ],
-    "name:chi_x_preferred":[
-        "\u51f1\u683c\u52d2\u5340"
-    ],
     "name:dan_x_preferred":[
         "Kegalle District"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Kegalle"
+    ],
+    "name:ell_x_preferred":[
+        "\u039a\u03b5\u03b3\u03ba\u03ac\u03bb\u03b5"
     ],
     "name:eng_x_preferred":[
         "Kegalle"
     ],
+    "name:fas_x_preferred":[
+        "\u0646\u0627\u062d\u06cc\u0647 \u06a9\u06af\u0627\u0644\u0647"
+    ],
     "name:fin_x_preferred":[
         "Kegallen piirikunta"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Kegalle"
-    ],
-    "name:geo_x_preferred":[
-        "\u10d9\u10d4\u10d2\u10d0\u10da\u10d4\u10e1 \u10dd\u10da\u10e5\u10d8"
-    ],
-    "name:ger_x_preferred":[
-        "Kegalle"
-    ],
-    "name:gre_x_preferred":[
-        "\u039a\u03b5\u03b3\u03ba\u03ac\u03bb\u03b5"
     ],
     "name:guj_x_preferred":[
         "\u0a95\u0ac7\u0a97\u0ab2\u0ac7 \u0a9c\u0abf\u0ab2\u0acd\u0ab2\u0acb"
@@ -76,6 +70,9 @@
     "name:kan_x_preferred":[
         "\u0c95\u0cc7\u0c97\u0cb2\u0ccd \u0c9c\u0cbf\u0cb2\u0ccd\u0cb2\u0cc6"
     ],
+    "name:kat_x_preferred":[
+        "\u10d9\u10d4\u10d2\u10d0\u10da\u10d4\u10e1 \u10dd\u10da\u10e5\u10d8"
+    ],
     "name:kor_x_preferred":[
         "\ucf00\uac08\ub808 \uad6c"
     ],
@@ -88,14 +85,14 @@
     "name:mar_x_preferred":[
         "\u0915\u0947\u0917\u0932\u094d\u0932\u0947 \u091c\u093f\u0932\u094d\u0939\u093e"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Kegalle District"
+    ],
+    "name:nld_x_preferred":[
+        "Kegalle"
     ],
     "name:nob_x_preferred":[
         "Kegalle distrikt"
-    ],
-    "name:per_x_preferred":[
-        "\u0646\u0627\u062d\u06cc\u0647 \u06a9\u06af\u0627\u0644\u0647"
     ],
     "name:pnb_x_preferred":[
         "\u0636\u0644\u0639 \u06a9\u06cc\u06af\u0627\u0644\u06d2"
@@ -138,6 +135,9 @@
     ],
     "name:vie_x_preferred":[
         "Qu\u1eadn Kegalle"
+    ],
+    "name:zho_x_preferred":[
+        "\u51f1\u683c\u52d2\u5340"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"LKA",
@@ -264,7 +264,7 @@
         "sin",
         "tam"
     ],
-    "wof:lastmodified":1553814806,
+    "wof:lastmodified":1561830589,
     "wof:name":"K\u00e6galla",
     "wof:parent_id":85632313,
     "wof:placetype":"region",

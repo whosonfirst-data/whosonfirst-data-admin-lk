@@ -31,32 +31,26 @@
     "name:ben_x_preferred":[
         "\u0995\u09cd\u09b2\u09bf\u09a8\u09cb\u0995\u09be\u099a\u09bf \u099c\u09c7\u09b2\u09be"
     ],
-    "name:chi_x_preferred":[
-        "\u57fa\u5229\u8afe\u5947\u5340"
-    ],
     "name:dan_x_preferred":[
         "Kilinochchi"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Kilinochchi"
+    ],
+    "name:ell_x_preferred":[
+        "\u039a\u03b9\u03bb\u03b9\u03bd\u03cc\u03c4\u03c3\u03b9"
     ],
     "name:eng_x_preferred":[
         "Kilinochchi"
     ],
+    "name:fas_x_preferred":[
+        "\u0646\u0627\u062d\u06cc\u0647 \u06a9\u06cc\u0644\u06cc\u0646\u0648\u0686\u06cc"
+    ],
     "name:fin_x_preferred":[
         "Kilinochchin piirikunta"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Kilinochchi"
-    ],
-    "name:geo_x_preferred":[
-        "\u10d9\u10d8\u10da\u10d8\u10dc\u10dd\u10e9\u10d8\u10e1 \u10dd\u10da\u10e5\u10d8"
-    ],
-    "name:ger_x_preferred":[
-        "Kilinochchi"
-    ],
-    "name:gre_x_preferred":[
-        "\u039a\u03b9\u03bb\u03b9\u03bd\u03cc\u03c4\u03c3\u03b9"
     ],
     "name:guj_x_preferred":[
         "\u0a95\u0abf\u0ab2\u0abf\u0aa8\u0acb\u0a9a\u0acd\u0a9a\u0ac0 \u0a9c\u0abf\u0ab2\u0acd\u0ab2\u0acb"
@@ -76,6 +70,9 @@
     "name:kan_x_preferred":[
         "\u0c95\u0cbf\u0cb2\u0cbf\u0ca8\u0cca\u0c9a\u0ccd\u0c9a\u0cbf \u0c9c\u0cbf\u0cb2\u0ccd\u0cb2\u0cc6"
     ],
+    "name:kat_x_preferred":[
+        "\u10d9\u10d8\u10da\u10d8\u10dc\u10dd\u10e9\u10d8\u10e1 \u10dd\u10da\u10e5\u10d8"
+    ],
     "name:kor_x_preferred":[
         "\ud0ac\ub9ac\ub178\uce58\uce58 \uad6c"
     ],
@@ -88,14 +85,14 @@
     "name:mar_x_preferred":[
         "\u0915\u093f\u0932\u093f\u0928\u094b\u091a\u094d\u091a\u0940 \u091c\u093f\u0932\u094d\u0939\u093e"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Kilinochchi District"
+    ],
+    "name:nld_x_preferred":[
+        "Kilinochchi"
     ],
     "name:nob_x_preferred":[
         "Kilinochchi"
-    ],
-    "name:per_x_preferred":[
-        "\u0646\u0627\u062d\u06cc\u0647 \u06a9\u06cc\u0644\u06cc\u0646\u0648\u0686\u06cc"
     ],
     "name:pnb_x_preferred":[
         "\u0636\u0644\u0639 \u06a9\u0644\u0646\u0648\u0686\u06cc"
@@ -138,6 +135,9 @@
     ],
     "name:vie_x_preferred":[
         "Qu\u1eadn Kilinochchi"
+    ],
+    "name:zho_x_preferred":[
+        "\u57fa\u5229\u8afe\u5947\u5340"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"LKA",
@@ -266,7 +266,7 @@
         "sin",
         "tam"
     ],
-    "wof:lastmodified":1553550449,
+    "wof:lastmodified":1561830588,
     "wof:name":"Kilin\u014fchchi",
     "wof:parent_id":85632313,
     "wof:placetype":"region",

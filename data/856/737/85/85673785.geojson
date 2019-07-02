@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.268625,
-    "geom:area_square_m":3299660592.426304,
+    "geom:area_square_m":3299660592.426792,
     "geom:bbox":"80.1755891275,6.22847761497,80.9519123665,6.92967455932",
     "geom:latitude":6.586947,
     "geom:longitude":80.565778,
@@ -31,14 +31,14 @@
     "name:ben_x_preferred":[
         "\u09b0\u09be\u09a4\u09a8\u09be\u09aa\u09c1\u09b0\u09be \u099c\u09c7\u09b2\u09be"
     ],
-    "name:chi_x_preferred":[
-        "\u62c9\u7279\u7d0d\u666e\u52d2\u5340"
-    ],
     "name:dan_x_preferred":[
         "Ratnapura district"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Ratnapura"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a1\u03b1\u03c4\u03bd\u03b1\u03c0\u03bf\u03cd\u03c1\u03b1"
     ],
     "name:eng_x_preferred":[
         "Ratnapura"
@@ -46,20 +46,14 @@
     "name:eng_x_variant":[
         "Rathnapura"
     ],
+    "name:fas_x_preferred":[
+        "\u0646\u0627\u062d\u06cc\u0647 \u0631\u0627\u062a\u0646\u0627\u067e\u0648\u0631\u0627"
+    ],
     "name:fin_x_preferred":[
         "Ratnapuran piirikunta"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Ratnapura"
-    ],
-    "name:geo_x_preferred":[
-        "\u10e0\u10d0\u10e2\u10dc\u10d0\u10de\u10e3\u10e0\u10d8\u10e1 \u10dd\u10da\u10e5\u10d8"
-    ],
-    "name:ger_x_preferred":[
-        "Ratnapura"
-    ],
-    "name:gre_x_preferred":[
-        "\u03a1\u03b1\u03c4\u03bd\u03b1\u03c0\u03bf\u03cd\u03c1\u03b1"
     ],
     "name:guj_x_preferred":[
         "\u0ab0\u0aa4\u0acd\u0aa8\u0abe\u0aaa\u0ac1\u0ab0\u0abe \u0a9c\u0abf\u0ab2\u0acd\u0ab2\u0acb"
@@ -79,6 +73,9 @@
     "name:kan_x_preferred":[
         "\u0cb0\u0ca4\u0ccd\u0ca8\u0cbe\u0caa\u0cc1\u0cb0 \u0c9c\u0cbf\u0cb2\u0ccd\u0cb2\u0cc6"
     ],
+    "name:kat_x_preferred":[
+        "\u10e0\u10d0\u10e2\u10dc\u10d0\u10de\u10e3\u10e0\u10d8\u10e1 \u10dd\u10da\u10e5\u10d8"
+    ],
     "name:kor_x_preferred":[
         "\ub77c\ud2b8\ub098\ud478\ub77c \uad6c"
     ],
@@ -91,14 +88,14 @@
     "name:mar_x_preferred":[
         "\u0930\u0924\u094d\u0928\u092a\u0941\u0930\u093e \u091c\u093f\u0932\u094d\u0939\u093e"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Ratnapura district"
+    ],
+    "name:nld_x_preferred":[
+        "Ratnapura"
     ],
     "name:nob_x_preferred":[
         "Ratnapura distrikt"
-    ],
-    "name:per_x_preferred":[
-        "\u0646\u0627\u062d\u06cc\u0647 \u0631\u0627\u062a\u0646\u0627\u067e\u0648\u0631\u0627"
     ],
     "name:pnb_x_preferred":[
         "\u0636\u0644\u0639 \u0631\u062a\u0646\u0627\u067e\u0648\u0631\u0627"
@@ -144,6 +141,9 @@
     ],
     "name:vie_x_preferred":[
         "Qu\u1eadn Ratnapura"
+    ],
+    "name:zho_x_preferred":[
+        "\u62c9\u7279\u7d0d\u666e\u52d2\u5340"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"LKA",
@@ -272,7 +272,7 @@
         "sin",
         "tam"
     ],
-    "wof:lastmodified":1553814806,
+    "wof:lastmodified":1561830589,
     "wof:name":"Ratnapura",
     "wof:parent_id":85632313,
     "wof:placetype":"region",

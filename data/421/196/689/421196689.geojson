@@ -16,14 +16,14 @@
     "name:bul_x_preferred":[
         "\u0420\u0430\u043c\u0431\u043e\u0434\u0430"
     ],
-    "name:dut_x_preferred":[
-        "Ramboda"
-    ],
     "name:eng_x_preferred":[
         "Ramboda"
     ],
     "name:jpn_x_preferred":[
         "\u30e9\u30f3\u30dc\u30c0"
+    ],
+    "name:nld_x_preferred":[
+        "Ramboda"
     ],
     "name:sin_x_preferred":[
         "\u0dbb\u0db8\u0dca\u0db6\u0ddc\u0da9"
@@ -81,7 +81,7 @@
         }
     ],
     "wof:id":421196689,
-    "wof:lastmodified":1527716362,
+    "wof:lastmodified":1561830630,
     "wof:name":"Ramboda",
     "wof:parent_id":1092061445,
     "wof:placetype":"locality",

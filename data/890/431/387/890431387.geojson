@@ -24,14 +24,14 @@
     "name:bul_x_preferred":[
         "\u041a\u0430\u0442\u0443\u043d\u0430\u044f\u043a\u0430"
     ],
-    "name:chi_x_preferred":[
-        "\u5361\u5716\u7d0d\u8036\u514b"
-    ],
     "name:dan_x_preferred":[
         "Katunayake"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Katunayake"
+    ],
+    "name:ell_x_preferred":[
+        "\u039a\u03b1\u03c4\u03bf\u03c5\u03bd\u03b1\u03b3\u03b9\u03ac\u03ba\u03b5"
     ],
     "name:eng_x_preferred":[
         "Katunayake"
@@ -39,14 +39,8 @@
     "name:fin_x_preferred":[
         "Katunayake"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Katunayake"
-    ],
-    "name:ger_x_preferred":[
-        "Katunayake"
-    ],
-    "name:gre_x_preferred":[
-        "\u039a\u03b1\u03c4\u03bf\u03c5\u03bd\u03b1\u03b3\u03b9\u03ac\u03ba\u03b5"
     ],
     "name:guj_x_preferred":[
         "\u0a95\u0ac7\u0a9f\u0ac2\u0aa8\u0abe\u0aaf\u0abe\u0a95\u0ac7"
@@ -78,7 +72,10 @@
     "name:mar_x_preferred":[
         "\u0915\u093e\u091f\u0942\u0928\u092f\u093e\u0915\u0947"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
+        "Katunayake"
+    ],
+    "name:nld_x_preferred":[
         "Katunayake"
     ],
     "name:nob_x_preferred":[
@@ -126,6 +123,9 @@
     "name:vie_x_preferred":[
         "Katunayake"
     ],
+    "name:zho_x_preferred":[
+        "\u5361\u5716\u7d0d\u8036\u514b"
+    ],
     "qs:name":"Katunayaka North",
     "qs:photos_9r":0,
     "qs:photos_sr":0,
@@ -157,7 +157,7 @@
         }
     ],
     "wof:id":890431387,
-    "wof:lastmodified":1514470199,
+    "wof:lastmodified":1561830632,
     "wof:name":"Katunayaka North",
     "wof:parent_id":1092060643,
     "wof:placetype":"locality",

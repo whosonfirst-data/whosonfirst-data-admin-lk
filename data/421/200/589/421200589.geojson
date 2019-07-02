@@ -16,20 +16,17 @@
     "name:cat_x_preferred":[
         "Kalpitiya"
     ],
-    "name:chi_x_preferred":[
-        "\u5361\u723e\u76ae\u8482\u8036"
-    ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Kalpitiya"
     ],
     "name:eng_x_preferred":[
         "Kalpitiya"
     ],
-    "name:ger_x_preferred":[
-        "Kalpitiya"
-    ],
     "name:jpn_x_preferred":[
         "\u30ab\u30eb\u30d4\u30c6\u30a3\u30e4"
+    ],
+    "name:nld_x_preferred":[
+        "Kalpitiya"
     ],
     "name:rus_x_preferred":[
         "\u041a\u0430\u043b\u043f\u0438\u0442\u0438\u044f"
@@ -39,6 +36,9 @@
     ],
     "name:unk_x_variant":[
         "Kalpitya"
+    ],
+    "name:zho_x_preferred":[
+        "\u5361\u723e\u76ae\u8482\u8036"
     ],
     "qs:gn_country":"LK",
     "qs:gn_fcode":"PPL",
@@ -86,7 +86,7 @@
         }
     ],
     "wof:id":421200589,
-    "wof:lastmodified":1527716425,
+    "wof:lastmodified":1561830630,
     "wof:name":"Kalpitiya",
     "wof:parent_id":1092060219,
     "wof:placetype":"locality",
