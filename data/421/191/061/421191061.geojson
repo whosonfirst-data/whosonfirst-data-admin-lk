@@ -32,6 +32,9 @@
     "name:cat_x_preferred":[
         "Trincomalee"
     ],
+    "name:ceb_x_preferred":[
+        "Trincomalee"
+    ],
     "name:dan_x_preferred":[
         "Trincomalee"
     ],
@@ -94,6 +97,9 @@
     ],
     "name:mal_x_preferred":[
         "\u0d24\u0d3f\u0d30\u0d41\u0d15\u0d4d\u0d15\u0d4b\u0d23\u0d2e\u0d32"
+    ],
+    "name:mal_x_variant":[
+        "\u0d1f\u0d4d\u0d30\u0d3f\u0d19\u0d4d\u0d15\u0d4b\u0d2e\u0d3e\u0d32\u0d40"
     ],
     "name:mar_x_preferred":[
         "\u0924\u094d\u0930\u093f\u0902\u0915\u094b\u092e\u0932\u0940"
@@ -312,7 +318,7 @@
         }
     ],
     "wof:id":421191061,
-    "wof:lastmodified":1561830630,
+    "wof:lastmodified":1563573271,
     "wof:name":"Trincomalee",
     "wof:parent_id":1092066907,
     "wof:placetype":"locality",

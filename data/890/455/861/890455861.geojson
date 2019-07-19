@@ -37,8 +37,14 @@
     "name:ara_x_preferred":[
         "\u0645\u0642\u0627\u0637\u0639\u0629 \u0643\u064a\u063a\u0627\u0644"
     ],
+    "name:ara_x_variant":[
+        "\u0645\u062f\u064a\u0631\u064a\u0629 \u0643\u064a\u062c\u0627\u0644\u0644\u0627"
+    ],
     "name:ben_x_preferred":[
         "\u0995\u09c7\u0997\u09be\u09b2\u09c7 \u099c\u09c7\u09b2\u09be"
+    ],
+    "name:ceb_x_preferred":[
+        "Kegalle District"
     ],
     "name:dan_x_preferred":[
         "Kegalle District"
@@ -53,7 +59,6 @@
         "Kegalle"
     ],
     "name:eng_x_variant":[
-        "Kegalle",
         "Kegalle District"
     ],
     "name:fas_x_preferred":[
@@ -202,7 +207,7 @@
         }
     ],
     "wof:id":890455861,
-    "wof:lastmodified":1561830631,
+    "wof:lastmodified":1563573290,
     "wof:name":"Kegalle",
     "wof:parent_id":85673807,
     "wof:placetype":"county",

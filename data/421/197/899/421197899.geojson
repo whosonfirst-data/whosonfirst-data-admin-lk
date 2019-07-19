@@ -13,22 +13,82 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ara_x_preferred":[
+        "\u0645\u0627\u062a\u0627\u0644"
+    ],
+    "name:ben_x_preferred":[
+        "\u09ae\u09be\u09a5\u09be\u09b2"
+    ],
+    "name:cat_x_preferred":[
+        "Matale"
+    ],
+    "name:ceb_x_preferred":[
+        "Matale"
+    ],
     "name:dan_x_preferred":[
         "Matale"
     ],
     "name:deu_x_preferred":[
         "Matale"
     ],
+    "name:ell_x_preferred":[
+        "\u039c\u03b1\u03c4\u03ac\u03bb\u03b5"
+    ],
+    "name:eng_x_preferred":[
+        "Matale"
+    ],
     "name:fas_x_preferred":[
         "\u0645\u062a\u0627\u0644\u0647"
     ],
+    "name:fin_x_preferred":[
+        "Matale"
+    ],
     "name:fra_x_preferred":[
+        "Matale"
+    ],
+    "name:guj_x_preferred":[
+        "\u0aae\u0a9f\u0abe\u0ab2\u0ac7"
+    ],
+    "name:hin_x_preferred":[
+        "\u092e\u0924\u093e\u0932\u0947"
+    ],
+    "name:ind_x_preferred":[
+        "Matale"
+    ],
+    "name:ita_x_preferred":[
         "Matale"
     ],
     "name:jpn_x_preferred":[
         "\u30de\u30fc\u30bf\u30ec\u30fc"
     ],
+    "name:kan_x_preferred":[
+        "\u0cae\u0cbe\u0c9f\u0cb2\u0cc6"
+    ],
+    "name:kor_x_preferred":[
+        "\ub9c8\ud0c8\ub974"
+    ],
+    "name:lav_x_preferred":[
+        "Matale"
+    ],
+    "name:lit_x_preferred":[
+        "Matal\u0117"
+    ],
+    "name:mar_x_preferred":[
+        "\u092e\u091f\u093e\u0932\u0947"
+    ],
+    "name:msa_x_preferred":[
+        "Matale"
+    ],
     "name:nld_x_preferred":[
+        "Matale"
+    ],
+    "name:nob_x_preferred":[
+        "Matale"
+    ],
+    "name:pol_x_preferred":[
+        "Matale"
+    ],
+    "name:por_x_preferred":[
         "Matale"
     ],
     "name:rus_x_preferred":[
@@ -46,6 +106,15 @@
     "name:tam_x_preferred":[
         "\u0bae\u0bbe\u0ba4\u0bcd\u0ba4\u0bb3\u0bc8"
     ],
+    "name:tel_x_preferred":[
+        "\u0c2e\u0c3e\u0c1f\u0c47\u0c32\u0c4d"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e21\u0e32\u0e15\u0e32\u0e40\u0e25"
+    ],
+    "name:tur_x_preferred":[
+        "Matale"
+    ],
     "name:ukr_x_preferred":[
         "\u041c\u0430\u0442\u0430\u043b\u0435"
     ],
@@ -54,6 +123,12 @@
     ],
     "name:urd_x_preferred":[
         "\u0645\u0627\u062a\u0627\u0644\u06d2"
+    ],
+    "name:vie_x_preferred":[
+        "Matale"
+    ],
+    "name:zho_x_preferred":[
+        "\u99ac\u7279\u840a"
     ],
     "qs:gn_country":"LK",
     "qs:gn_fcode":"PPL",
@@ -102,7 +177,7 @@
         }
     ],
     "wof:id":421197899,
-    "wof:lastmodified":1527716407,
+    "wof:lastmodified":1563573274,
     "wof:name":"Matale",
     "wof:parent_id":1092062869,
     "wof:placetype":"locality",

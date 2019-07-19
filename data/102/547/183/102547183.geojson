@@ -12,20 +12,35 @@
     "iso:country":"LK",
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Weerawila Airport"
+    ],
     "name:fas_x_preferred":[
         "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0628\u06cc\u0646\u200c\u0627\u0644\u0645\u0644\u0644\u06cc \u0648\u06cc\u0631\u0627\u0648\u06cc\u0644\u0627"
     ],
     "name:jpn_x_preferred":[
         "\u30a6\u30a3\u30fc\u30e9\u30a6\u30a3\u30e9\u7a7a\u6e2f"
     ],
+    "name:msa_x_preferred":[
+        "Pengkalan Udara Wirawila"
+    ],
     "name:pol_x_preferred":[
         "Port lotniczy Weerawila"
+    ],
+    "name:ron_x_preferred":[
+        "Aeroportul Weerawila"
+    ],
+    "name:sin_x_preferred":[
+        "\u0dc0\u0dd3\u0dbb\u0dc0\u0dd2\u0dbd \u0d9c\u0dd4\u0dc0\u0db1\u0dca \u0dad\u0ddc\u0da7\u0dd4\u0db4\u0ddc\u0dbd"
     ],
     "name:tam_x_preferred":[
         "\u0bb5\u0bc0\u0bb0\u0bb5\u0bbf\u0bb2 \u0baa\u0ba9\u0bcd\u0ba9\u0bbe\u0b9f\u0bcd\u0b9f\u0bc1 \u0bb5\u0bbe\u0ba9\u0bc2\u0bb0\u0bcd\u0ba4\u0bbf \u0ba8\u0bbf\u0bb2\u0bc8\u0baf\u0bae\u0bcd"
     ],
     "name:tgk_x_preferred":[
         "\u0424\u0443\u0440\u0443\u0434\u0433\u043e\u04b3\u0438 \u0411\u0430\u0439\u043d\u200c\u0430\u043b\u043c\u0438\u043b\u043b\u0430\u043b\u0438\u0438 \u0412\u0435\u0435\u0440\u0430\u0432\u0438\u043b\u0430"
+    ],
+    "name:tgk_x_variant":[
+        "\u0424\u0443\u0440\u0443\u0434\u0433\u043e\u04b3\u0438 \u0431\u0438\u043d\u200c\u0430\u043b\u043c\u0438\u043b\u0430\u043b\u04e3 \u0432\u0438\u0440\u043e\u0432\u0438\u043b\u043e"
     ],
     "name:vie_x_preferred":[
         "S\u00e2n bay qu\u1ed1c t\u1ebf Weerawila"
@@ -63,7 +78,7 @@
         }
     ],
     "wof:id":102547183,
-    "wof:lastmodified":1543792155,
+    "wof:lastmodified":1563571525,
     "wof:name":"Wirawila Airport",
     "wof:parent_id":85673791,
     "wof:placetype":"campus",

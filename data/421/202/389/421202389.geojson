@@ -25,6 +25,9 @@
     "name:cat_x_preferred":[
         "Polonnaruwa"
     ],
+    "name:ceb_x_preferred":[
+        "Polonnaruwa"
+    ],
     "name:ces_x_preferred":[
         "Polonnaruwa"
     ],
@@ -82,6 +85,9 @@
     "name:kat_x_preferred":[
         "\u10de\u10dd\u10da\u10dd\u10dc\u10d0\u10e0\u10e3\u10d5\u10d0"
     ],
+    "name:kaz_x_preferred":[
+        "\u041f\u043e\u043b\u043e\u043d\u043d\u0430\u0440\u0443\u0432\u0430"
+    ],
     "name:kor_x_preferred":[
         "\ud50c\ub85c\ub098\uc640"
     ],
@@ -102,6 +108,9 @@
     ],
     "name:msa_x_preferred":[
         "Polonnaruwa"
+    ],
+    "name:mya_x_preferred":[
+        "\u1015\u102d\u102f\u101c\u103d\u1014\u103a\u1014\u102c\u101b\u102f\u101d\u102b\u1019\u103c\u102d\u102f\u1037"
     ],
     "name:nep_x_preferred":[
         "\u092a\u094b\u0932\u094b\u0928\u0928\u0930\u0941\u0935\u093e"
@@ -126,6 +135,15 @@
     ],
     "name:sin_x_preferred":[
         "\u0db4\u0ddc\u0dc5\u0ddc\u0db1\u0dca\u0db1\u0dbb\u0dd4\u0dc0"
+    ],
+    "name:sin_x_variant":[
+        "\u0db4\u0ddc\u0dc5\u0ddc\u0db1\u0dca\u0db1\u0dbb\u0dd4 \u0dba\u0dd4\u0d9c\u0dba"
+    ],
+    "name:slk_x_preferred":[
+        "Polonnaruwa"
+    ],
+    "name:slv_x_preferred":[
+        "Polonnaruwa"
     ],
     "name:spa_x_preferred":[
         "Polonnaruwa"
@@ -205,7 +223,7 @@
         }
     ],
     "wof:id":421202389,
-    "wof:lastmodified":1561830629,
+    "wof:lastmodified":1563573256,
     "wof:name":"Polonnaruwa",
     "wof:parent_id":1092066437,
     "wof:placetype":"locality",

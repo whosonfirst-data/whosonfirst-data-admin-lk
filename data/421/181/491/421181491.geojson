@@ -106,6 +106,9 @@
     "name:sin_x_preferred":[
         "\u0daf\u0db9\u0dd4\u0dbd\u0dca\u0dbd"
     ],
+    "name:slv_x_preferred":[
+        "Dambulla"
+    ],
     "name:spa_x_preferred":[
         "Dambulla"
     ],
@@ -187,7 +190,7 @@
         }
     ],
     "wof:id":421181491,
-    "wof:lastmodified":1561830630,
+    "wof:lastmodified":1563573268,
     "wof:name":"Dambulla",
     "wof:parent_id":1092057503,
     "wof:placetype":"locality",

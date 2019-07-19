@@ -22,6 +22,9 @@
     "name:eng_x_preferred":[
         "Kaduwela"
     ],
+    "name:fin_x_preferred":[
+        "Kaduwela"
+    ],
     "name:hin_x_preferred":[
         "\u0915\u0921\u0941\u0935\u0947\u0932"
     ],
@@ -39,6 +42,9 @@
     ],
     "name:sin_x_preferred":[
         "\u0d9a\u0da9\u0dd4\u0dc0\u0dd9\u0dbd"
+    ],
+    "name:sin_x_variant":[
+        "\u0d9a\u0da9\u0dd4\u0dc0\u0dd9\u0dbd,\u0db6\u0dc3\u0dca\u0db1\u0dcf\u0dc4\u0dd2\u0dbb \u0db4\u0dc5\u0dcf\u0dad"
     ],
     "name:tam_x_preferred":[
         "\u0b95\u0b9f\u0bc1\u0bb5\u0bb2\u0bc8"
@@ -89,7 +95,7 @@
         }
     ],
     "wof:id":421200797,
-    "wof:lastmodified":1561830630,
+    "wof:lastmodified":1563573276,
     "wof:name":"Kaduwela",
     "wof:parent_id":1092059875,
     "wof:placetype":"locality",

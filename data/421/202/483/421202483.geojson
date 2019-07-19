@@ -19,6 +19,9 @@
     "name:ben_x_preferred":[
         "\u0993\u09af\u09bc\u09be\u099f\u09be\u09b2\u09be"
     ],
+    "name:ceb_x_preferred":[
+        "Wattala"
+    ],
     "name:dan_x_preferred":[
         "Wattala"
     ],
@@ -163,7 +166,7 @@
         }
     ],
     "wof:id":421202483,
-    "wof:lastmodified":1561830629,
+    "wof:lastmodified":1563573255,
     "wof:name":"Wattala",
     "wof:parent_id":1092067725,
     "wof:placetype":"locality",

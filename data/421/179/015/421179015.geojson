@@ -16,6 +16,9 @@
     "name:bul_x_preferred":[
         "\u0410\u0445\u0443\u043d\u0433\u0430\u043b\u0430"
     ],
+    "name:ceb_x_preferred":[
+        "Ahungalla"
+    ],
     "name:deu_x_preferred":[
         "Ahungalla"
     ],
@@ -77,7 +80,7 @@
         }
     ],
     "wof:id":421179015,
-    "wof:lastmodified":1561830631,
+    "wof:lastmodified":1563573282,
     "wof:name":"Ahungalla",
     "wof:parent_id":1092056933,
     "wof:placetype":"locality",

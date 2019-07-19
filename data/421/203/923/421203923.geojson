@@ -16,6 +16,9 @@
     "name:cat_x_preferred":[
         "Kelaniya"
     ],
+    "name:ceb_x_preferred":[
+        "Kelaniya"
+    ],
     "name:eng_x_preferred":[
         "Kelaniya"
     ],
@@ -35,6 +38,9 @@
         "\u0d9a\u0dd0\u0dbd\u0dab\u0dd2\u0dba"
     ],
     "name:spa_x_preferred":[
+        "Kelaniya"
+    ],
+    "name:swe_x_preferred":[
         "Kelaniya"
     ],
     "name:tam_x_preferred":[
@@ -94,7 +100,7 @@
         }
     ],
     "wof:id":421203923,
-    "wof:lastmodified":1561830628,
+    "wof:lastmodified":1563573252,
     "wof:name":"Kelaniya",
     "wof:parent_id":1092060843,
     "wof:placetype":"locality",

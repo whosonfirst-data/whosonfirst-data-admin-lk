@@ -52,6 +52,9 @@
     "name:jpn_x_preferred":[
         "\u30d0\u30f3\u30c0\u30fc\u30e9\u30a6\u30a7\u30e9"
     ],
+    "name:jpn_x_variant":[
+        "\u30d0\u30f3\u30c0\u30e9\u30a6\u30a7\u30e9"
+    ],
     "name:kan_x_preferred":[
         "\u0cac\u0c82\u0ca1\u0cb0\u0cbe\u0cb5\u0cbe\u0cb2\u0cbe"
     ],
@@ -167,7 +170,7 @@
         }
     ],
     "wof:id":421197401,
-    "wof:lastmodified":1561830630,
+    "wof:lastmodified":1563573272,
     "wof:name":"Bandarawela",
     "wof:parent_id":1092057059,
     "wof:placetype":"locality",

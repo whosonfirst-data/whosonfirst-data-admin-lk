@@ -31,8 +31,17 @@
     "mps:longitude":79.865278,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0645\u062f\u064a\u0631\u064a\u0629 \u0643\u0648\u0644\u0648\u0645\u0628\u0648"
+    ],
+    "name:bel_x_preferred":[
+        "\u041a\u0430\u043b\u043e\u043c\u0431\u0430"
+    ],
     "name:cat_x_preferred":[
         "Districte de Colombo"
+    ],
+    "name:ceb_x_preferred":[
+        "Colombo District"
     ],
     "name:deu_x_preferred":[
         "Colombo"
@@ -41,7 +50,6 @@
         "Colombo"
     ],
     "name:eng_x_variant":[
-        "Colombo",
         "Colombo District"
     ],
     "name:fas_x_preferred":[
@@ -55,6 +63,9 @@
     ],
     "name:hin_x_preferred":[
         "\u0915\u094b\u0932\u092e\u094d\u092c\u094b"
+    ],
+    "name:ind_x_preferred":[
+        "Distrik Kolombo"
     ],
     "name:ita_x_preferred":[
         "Distretto di Colombo"
@@ -143,7 +154,7 @@
         }
     ],
     "wof:id":1092057419,
-    "wof:lastmodified":1561830623,
+    "wof:lastmodified":1563573101,
     "wof:name":"Colombo",
     "wof:parent_id":85673811,
     "wof:placetype":"county",

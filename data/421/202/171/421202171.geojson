@@ -19,6 +19,9 @@
     "name:ben_x_preferred":[
         "\u0993\u09af\u09bc\u09c7\u09b2\u09bf\u0997\u09be\u09ae\u09be"
     ],
+    "name:ceb_x_preferred":[
+        "Weligama"
+    ],
     "name:dan_x_preferred":[
         "Weligama"
     ],
@@ -163,7 +166,7 @@
         }
     ],
     "wof:id":421202171,
-    "wof:lastmodified":1561830629,
+    "wof:lastmodified":1563573256,
     "wof:name":"Weligama",
     "wof:parent_id":1092067827,
     "wof:placetype":"locality",

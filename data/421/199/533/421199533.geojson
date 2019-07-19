@@ -16,6 +16,18 @@
     "name:deu_x_preferred":[
         "Peradeniya"
     ],
+    "name:eng_x_preferred":[
+        "Peradeniya"
+    ],
+    "name:fra_x_preferred":[
+        "Peradeniya"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30da\u30e9\u30c7\u30cb\u30a2"
+    ],
+    "name:nld_x_preferred":[
+        "Peradeniya"
+    ],
     "name:sin_x_preferred":[
         "\u0db4\u0dda\u0dbb\u0dcf\u0daf\u0dd9\u0dab\u0dd2\u0dba"
     ],
@@ -75,7 +87,7 @@
         }
     ],
     "wof:id":421199533,
-    "wof:lastmodified":1527716409,
+    "wof:lastmodified":1563573274,
     "wof:name":"Peradeniya",
     "wof:parent_id":1092068267,
     "wof:placetype":"locality",

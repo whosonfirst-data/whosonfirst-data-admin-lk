@@ -16,10 +16,16 @@
     "name:cat_x_preferred":[
         "Point Pedro"
     ],
+    "name:ceb_x_preferred":[
+        "Point Pedro"
+    ],
     "name:deu_x_preferred":[
         "Point Pedro"
     ],
     "name:eng_x_preferred":[
+        "Point Pedro"
+    ],
+    "name:epo_x_preferred":[
         "Point Pedro"
     ],
     "name:fas_x_preferred":[
@@ -112,7 +118,7 @@
         }
     ],
     "wof:id":421167313,
-    "wof:lastmodified":1561830628,
+    "wof:lastmodified":1563573246,
     "wof:name":"Point Pedro",
     "wof:parent_id":1092067095,
     "wof:placetype":"locality",

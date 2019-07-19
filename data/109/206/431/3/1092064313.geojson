@@ -34,8 +34,14 @@
     "name:ara_x_preferred":[
         "\u0645\u0642\u0627\u0637\u0639\u0629 \u0646\u0648\u0627\u0631\u0627 \u0625\u0644\u064a\u0627"
     ],
+    "name:ara_x_variant":[
+        "\u0645\u062f\u064a\u0631\u064a\u0629 \u0646\u0648\u0627\u0631\u0627 \u0625\u0644\u064a\u0627"
+    ],
     "name:ben_x_preferred":[
         "\u09a8\u09cc\u09af\u09bc\u09be\u09b0\u09be \u098f\u09b2\u09bf\u09af\u09bc\u09be \u099c\u09c7\u09b2\u09be"
+    ],
+    "name:ceb_x_preferred":[
+        "Nuwara Eliya District"
     ],
     "name:dan_x_preferred":[
         "Nuwara Eliya District"
@@ -50,7 +56,6 @@
         "Nuwara Eliya"
     ],
     "name:eng_x_variant":[
-        "Nuwara Eliya",
         "Nuwara Eliya District"
     ],
     "name:fas_x_preferred":[
@@ -185,7 +190,7 @@
         }
     ],
     "wof:id":1092064313,
-    "wof:lastmodified":1561830625,
+    "wof:lastmodified":1563573125,
     "wof:name":"Nuwara Eliya",
     "wof:parent_id":85673731,
     "wof:placetype":"county",

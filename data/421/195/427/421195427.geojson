@@ -26,7 +26,13 @@
     "name:ben_x_preferred":[
         "\u0985\u09a8\u09c1\u09b0\u09be\u09a7\u09be\u09aa\u09c1\u09b0\u09be"
     ],
+    "name:bul_x_preferred":[
+        "\u0410\u043d\u0443\u0440\u0430\u0434\u0445\u0430\u043f\u0443\u0440\u0430"
+    ],
     "name:cat_x_preferred":[
+        "Anuradhapura"
+    ],
+    "name:ceb_x_preferred":[
         "Anuradhapura"
     ],
     "name:ces_x_preferred":[
@@ -89,6 +95,9 @@
     "name:jpn_x_preferred":[
         "\u30a2\u30cc\u30e9\u30fc\u30c0\u30d7\u30e9"
     ],
+    "name:jpn_x_variant":[
+        "\u30a2\u30cc\u30e9\u30c0\u30fc\u30d7\u30e9"
+    ],
     "name:kan_x_preferred":[
         "\u0c85\u0ca8\u0cc1\u0cb0\u0cbe\u0ca7\u0caa\u0cc1\u0cb0"
     ],
@@ -119,6 +128,9 @@
     "name:msa_x_preferred":[
         "Anuradhapura"
     ],
+    "name:mya_x_preferred":[
+        "\u1021\u1014\u102f\u101b\u102c\u1012\u102b\u1015\u1030\u101b\u1019\u103c\u102d\u102f\u1037"
+    ],
     "name:nep_x_preferred":[
         "\u0905\u0928\u0941\u0930\u093e\u0927\u093e\u092a\u0941\u0930\u093e"
     ],
@@ -142,6 +154,12 @@
     ],
     "name:por_x_preferred":[
         "Anuradapura"
+    ],
+    "name:por_x_variant":[
+        "Anuradhapura"
+    ],
+    "name:ron_x_preferred":[
+        "Anuradhapura"
     ],
     "name:rus_x_preferred":[
         "\u0410\u043d\u0443\u0440\u0430\u0434\u0445\u0430\u043f\u0443\u0440\u0430"
@@ -345,7 +363,7 @@
         }
     ],
     "wof:id":421195427,
-    "wof:lastmodified":1561830628,
+    "wof:lastmodified":1563573243,
     "wof:name":"Anuradhapura",
     "wof:parent_id":1092064353,
     "wof:placetype":"locality",

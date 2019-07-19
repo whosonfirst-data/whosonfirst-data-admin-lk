@@ -16,6 +16,9 @@
     "name:ara_x_preferred":[
         "\u0645\u0648\u0646\u064a\u0631\u0627\u063a\u0627\u0644\u0627"
     ],
+    "name:ara_x_variant":[
+        "\u0645\u0648\u0646\u0627\u0631\u0627\u063a\u0627\u0644\u0627"
+    ],
     "name:ben_x_preferred":[
         "\u09ae\u09a8\u09c7\u09b0\u09be\u0997\u09be\u09b2\u09be"
     ],
@@ -177,7 +180,7 @@
         }
     ],
     "wof:id":421203939,
-    "wof:lastmodified":1561830628,
+    "wof:lastmodified":1563573250,
     "wof:name":"Moneragala",
     "wof:parent_id":1092063443,
     "wof:placetype":"locality",

@@ -21,6 +21,9 @@
     "name:ben_x_preferred":[
         "\u099a\u09c7\u09b8\u09cd\u0995\u09c7 \u09ac\u09c1\u09a6\u09c7\u099c\u09cb\u09ad\u09bf\u09b8\u09c7"
     ],
+    "name:ceb_x_preferred":[
+        "Bentota"
+    ],
     "name:dan_x_preferred":[
         "Bentota"
     ],
@@ -90,6 +93,9 @@
     "name:sin_x_preferred":[
         "Bentota"
     ],
+    "name:slv_x_preferred":[
+        "Bentota"
+    ],
     "name:spa_x_preferred":[
         "Bentota"
     ],
@@ -151,7 +157,7 @@
         }
     ],
     "wof:id":890450149,
-    "wof:lastmodified":1561830632,
+    "wof:lastmodified":1563573295,
     "wof:name":"Bentota",
     "wof:parent_id":85673789,
     "wof:placetype":"locality",

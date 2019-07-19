@@ -19,6 +19,15 @@
     "name:ben_x_preferred":[
         "\u09b9\u09be\u09ae\u09cd\u09ac\u09be\u09a8\u099f\u09cb\u099f\u09be"
     ],
+    "name:bho_x_preferred":[
+        "\u0939\u0902\u092c\u0928\u091f\u094b\u091f\u093e"
+    ],
+    "name:ceb_x_preferred":[
+        "Hambantota"
+    ],
+    "name:ces_x_preferred":[
+        "Hambantota"
+    ],
     "name:dan_x_preferred":[
         "Hambantota"
     ],
@@ -48,6 +57,9 @@
     ],
     "name:hin_x_preferred":[
         "\u0939\u0902\u092c\u0928\u091f\u094b\u091f\u093e"
+    ],
+    "name:hin_x_variant":[
+        "\u0939\u092e\u094d\u092c\u0928\u091f\u094b\u091f\u093e"
     ],
     "name:ind_x_preferred":[
         "Hambantota"
@@ -179,7 +191,7 @@
         }
     ],
     "wof:id":421195709,
-    "wof:lastmodified":1561830628,
+    "wof:lastmodified":1563573240,
     "wof:name":"Hambantota",
     "wof:parent_id":1092059101,
     "wof:placetype":"locality",

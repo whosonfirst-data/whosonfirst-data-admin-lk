@@ -20,6 +20,9 @@
     "name:ben_x_preferred":[
         "\u09ac\u09be\u09a6\u09c1\u09b2\u09be"
     ],
+    "name:ceb_x_preferred":[
+        "Badulla"
+    ],
     "name:dan_x_preferred":[
         "Badulla"
     ],
@@ -280,7 +283,7 @@
         }
     ],
     "wof:id":421168829,
-    "wof:lastmodified":1561830627,
+    "wof:lastmodified":1563573233,
     "wof:name":"Badulla",
     "wof:parent_id":1092056843,
     "wof:placetype":"locality",

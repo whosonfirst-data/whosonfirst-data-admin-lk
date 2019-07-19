@@ -22,6 +22,9 @@
     "name:cat_x_preferred":[
         "Kurunegala"
     ],
+    "name:ceb_x_preferred":[
+        "Kurunegala"
+    ],
     "name:dan_x_preferred":[
         "Kurunegala"
     ],
@@ -100,6 +103,9 @@
     "name:sin_x_preferred":[
         "\u0d9a\u0dd4\u0dbb\u0dd4\u0dab\u0dd1\u0d9c\u0dbd \u0db1\u0d9c\u0dbb\u0dba"
     ],
+    "name:sin_x_variant":[
+        "\u0d9a\u0dd4\u0dbb\u0dd4\u0dab\u0dd1\u0d9c\u0dbd"
+    ],
     "name:spa_x_preferred":[
         "Kurunegala"
     ],
@@ -132,6 +138,9 @@
     ],
     "name:vie_x_preferred":[
         "Kurunegala"
+    ],
+    "name:zho_x_preferred":[
+        "\u5eab\u9b6f\u5167\u683c\u52d2"
     ],
     "qs:gn_country":"LK",
     "qs:gn_fcode":"PPLA",
@@ -181,7 +190,7 @@
         }
     ],
     "wof:id":421180071,
-    "wof:lastmodified":1561830629,
+    "wof:lastmodified":1563573259,
     "wof:name":"Kurunegala",
     "wof:parent_id":1092061649,
     "wof:placetype":"locality",

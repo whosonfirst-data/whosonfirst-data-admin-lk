@@ -31,6 +31,12 @@
     "mps:longitude":80.458955,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0645\u062f\u064a\u0631\u064a\u0629 \u0641\u0627\u0641\u0648\u0646\u064a\u0627"
+    ],
+    "name:ceb_x_preferred":[
+        "Vavuniya District"
+    ],
     "name:deu_x_preferred":[
         "Vavuniya"
     ],
@@ -41,7 +47,6 @@
         "Vavuniya"
     ],
     "name:eng_x_variant":[
-        "Vavuniya",
         "Vavuniya District"
     ],
     "name:fas_x_preferred":[
@@ -55,6 +60,9 @@
     ],
     "name:hin_x_preferred":[
         "\u0935\u093e\u0935\u0941\u0928\u093f\u092f\u093e \u091c\u093f\u0932\u093e"
+    ],
+    "name:ind_x_preferred":[
+        "Distrik Vavuniya"
     ],
     "name:ita_x_preferred":[
         "Distretto di Vavuniya"
@@ -140,7 +148,7 @@
         }
     ],
     "wof:id":1092067383,
-    "wof:lastmodified":1561830624,
+    "wof:lastmodified":1563573117,
     "wof:name":"Vavuniya",
     "wof:parent_id":85673757,
     "wof:placetype":"county",

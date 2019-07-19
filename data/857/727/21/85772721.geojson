@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":5097970.946114,
+    "geom:area_square_m":0.0,
     "geom:bbox":"79.851744,6.931896,79.851744,6.931896",
     "geom:latitude":6.931896,
     "geom:longitude":79.851744,
@@ -27,6 +27,18 @@
     "mz:tier_locality":2,
     "name:eng_x_preferred":[
         "Fort"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30d5\u30a9\u30fc\u30c8"
+    ],
+    "name:nld_x_preferred":[
+        "Fort"
+    ],
+    "name:spa_x_preferred":[
+        "fort"
+    ],
+    "name:tam_x_preferred":[
+        "\u0b95\u0bcb\u0b9f\u0bcd\u0b9f\u0bc8"
     ],
     "name:unk_x_variant":[
         "Fort"
@@ -61,10 +73,10 @@
     ],
     "src:lbl:centroid":"yerbashapes",
     "wof:belongsto":[
+        85673811,
         102191569,
         85632313,
-        1092057419,
-        85673811
+        1092057419
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -90,7 +102,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531859563,
+    "wof:lastmodified":1563571805,
     "wof:name":"Fort",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

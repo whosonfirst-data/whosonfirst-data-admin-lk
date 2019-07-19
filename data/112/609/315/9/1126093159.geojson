@@ -26,6 +26,9 @@
     "name:eng_x_variant":[
         "Pettal"
     ],
+    "name:fra_x_preferred":[
+        "Pettah"
+    ],
     "name:jpn_x_preferred":[
         "\u30da\u30bf\u30fc"
     ],
@@ -38,6 +41,9 @@
     "name:unk_x_variant":[
         "Pettal",
         "Pettah"
+    ],
+    "name:zho_x_preferred":[
+        "\u58c1\u6cf0"
     ],
     "qs_pg:aaroncc":"LK",
     "qs_pg:gn_country":"LK",
@@ -94,7 +100,7 @@
         }
     ],
     "wof:id":1126093159,
-    "wof:lastmodified":1534379376,
+    "wof:lastmodified":1563573298,
     "wof:name":"Pettah",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",
