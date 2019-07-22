@@ -35,6 +35,9 @@
     "name:cat_x_preferred":[
         "Galle"
     ],
+    "name:ceb_x_preferred":[
+        "Galle"
+    ],
     "name:ces_x_preferred":[
         "Galle"
     ],
@@ -143,6 +146,9 @@
     "name:slk_x_preferred":[
         "G\u00e1lla"
     ],
+    "name:slv_x_preferred":[
+        "Galle"
+    ],
     "name:spa_x_preferred":[
         "Galle"
     ],
@@ -166,6 +172,9 @@
     ],
     "name:urd_x_preferred":[
         "\u06af\u0627\u0644"
+    ],
+    "name:urd_x_variant":[
+        "\u06af\u0627\u0644\u06d2"
     ],
     "name:vep_x_preferred":[
         "Galle"
@@ -320,7 +329,7 @@
         }
     ],
     "wof:id":421173205,
-    "wof:lastmodified":1561830629,
+    "wof:lastmodified":1563573263,
     "wof:name":"Galle",
     "wof:parent_id":1092058633,
     "wof:placetype":"locality",

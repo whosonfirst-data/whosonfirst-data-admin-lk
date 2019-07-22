@@ -22,6 +22,9 @@
     "name:nld_x_preferred":[
         "Diyatalawa"
     ],
+    "name:sin_x_preferred":[
+        "Diyatalawa"
+    ],
     "name:tam_x_preferred":[
         "\u0ba4\u0bbf\u0baf\u0ba4\u0bcd\u0ba4\u0bb2\u0bbe\u0bb5\u0bc8"
     ],
@@ -72,7 +75,7 @@
         }
     ],
     "wof:id":421187619,
-    "wof:lastmodified":1561830629,
+    "wof:lastmodified":1563573260,
     "wof:name":"Diyatalawa",
     "wof:parent_id":1092059183,
     "wof:placetype":"locality",

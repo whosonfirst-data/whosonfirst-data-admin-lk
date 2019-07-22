@@ -13,6 +13,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ceb_x_preferred":[
+        "Minuwangoda"
+    ],
     "name:eng_x_preferred":[
         "Minuwangoda"
     ],
@@ -82,7 +85,7 @@
         }
     ],
     "wof:id":421202015,
-    "wof:lastmodified":1561830629,
+    "wof:lastmodified":1563573254,
     "wof:name":"Minuwangoda",
     "wof:parent_id":1092063369,
     "wof:placetype":"locality",

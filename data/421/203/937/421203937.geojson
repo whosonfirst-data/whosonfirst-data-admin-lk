@@ -49,6 +49,9 @@
     "name:hin_x_preferred":[
         "\u0928\u0941\u0935\u0930\u093e \u090f\u0932\u093f\u092f\u093e"
     ],
+    "name:hin_x_variant":[
+        "\u0928\u0941\u0935\u093e\u0930\u093e \u090f\u0932\u093f\u092f\u093e"
+    ],
     "name:ind_x_preferred":[
         "Nuwara Eliya"
     ],
@@ -63,6 +66,9 @@
     ],
     "name:kor_x_preferred":[
         "\ub204\uc640\ub77c \uc5d8\ub9ac\uc57c"
+    ],
+    "name:kor_x_variant":[
+        "\ub204\uc640\ub77c\uc5d8\ub9ac\uc57c"
     ],
     "name:lav_x_preferred":[
         "Nuvara Elija"
@@ -88,6 +94,9 @@
     "name:pol_x_preferred":[
         "Nuwara Elija"
     ],
+    "name:pol_x_variant":[
+        "Nuwara Eliya"
+    ],
     "name:por_x_preferred":[
         "Nuwara Eliya"
     ],
@@ -96,6 +105,9 @@
     ],
     "name:sin_x_preferred":[
         "\u0db1\u0dd4\u0dc0\u0dbb\u0d91\u0dc5\u0dd2\u0dba"
+    ],
+    "name:slv_x_preferred":[
+        "Nuwara Eliya"
     ],
     "name:spa_x_preferred":[
         "Nuwara Eliya"
@@ -180,7 +192,7 @@
         }
     ],
     "wof:id":421203937,
-    "wof:lastmodified":1561830628,
+    "wof:lastmodified":1563573250,
     "wof:name":"Nuwara Eliya",
     "wof:parent_id":1092064313,
     "wof:placetype":"locality",

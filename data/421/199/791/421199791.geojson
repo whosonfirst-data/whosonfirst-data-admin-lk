@@ -20,7 +20,13 @@
     "name:ben_x_preferred":[
         "\u09ae\u09cb\u09b0\u09be\u09a4\u09cb\u09af\u09bc\u09be"
     ],
+    "name:bre_x_preferred":[
+        "Moratuwa"
+    ],
     "name:cat_x_preferred":[
+        "Moratuwa"
+    ],
+    "name:ceb_x_preferred":[
         "Moratuwa"
     ],
     "name:dan_x_preferred":[
@@ -34,6 +40,9 @@
     ],
     "name:eng_x_preferred":[
         "Moratuwa"
+    ],
+    "name:epo_x_preferred":[
+        "Moratuva"
     ],
     "name:fas_x_preferred":[
         "\u0645\u0648\u0631\u0627\u062a\u0648\u0627"
@@ -274,7 +283,7 @@
         }
     ],
     "wof:id":421199791,
-    "wof:lastmodified":1561830630,
+    "wof:lastmodified":1563573275,
     "wof:name":"Moratuwa",
     "wof:parent_id":1092063487,
     "wof:placetype":"locality",

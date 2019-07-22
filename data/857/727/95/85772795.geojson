@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":17145891.687621,
+    "geom:area_square_m":0.0,
     "geom:bbox":"79.864449,6.855668,79.864449,6.855668",
     "geom:latitude":6.855668,
     "geom:longitude":79.864449,
@@ -27,6 +27,15 @@
     "mz:tier_locality":2,
     "name:eng_x_preferred":[
         "Wellawatta"
+    ],
+    "name:eng_x_variant":[
+        "Wellawatte"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30a6\u30a7\u30e9\u30ef\u30c3\u30bf"
+    ],
+    "name:nld_x_preferred":[
+        "Wellawatte"
     ],
     "name:sin_x_preferred":[
         "\u0dc0\u0dd0\u0dbd\u0dca\u0dbd\u0dc0\u0dad\u0dca\u0dad"
@@ -68,10 +77,10 @@
     "src:lbl:centroid":"yerbashapes",
     "wd:wordcount":356,
     "wof:belongsto":[
+        85673811,
         102191569,
         85632313,
-        1092057657,
-        85673811
+        1092057657
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -96,7 +105,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531859575,
+    "wof:lastmodified":1563571804,
     "wof:name":"Wellawatta",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

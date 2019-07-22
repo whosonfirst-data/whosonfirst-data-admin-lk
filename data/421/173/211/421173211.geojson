@@ -13,6 +13,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ceb_x_preferred":[
+        "Haputale"
+    ],
     "name:deu_x_preferred":[
         "Haputale"
     ],
@@ -38,6 +41,9 @@
         "\u0dc4\u0db4\u0dd4\u0dad\u0dbd\u0dda"
     ],
     "name:spa_x_preferred":[
+        "Haputale"
+    ],
+    "name:swe_x_preferred":[
         "Haputale"
     ],
     "name:tam_x_preferred":[
@@ -97,7 +103,7 @@
         }
     ],
     "wof:id":421173211,
-    "wof:lastmodified":1561830629,
+    "wof:lastmodified":1563573262,
     "wof:name":"Haputale",
     "wof:parent_id":1092059183,
     "wof:placetype":"locality",

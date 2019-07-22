@@ -13,6 +13,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ceb_x_preferred":[
+        "Talawakele"
+    ],
     "name:eng_x_preferred":[
         "Talawakelle"
     ],
@@ -91,7 +94,7 @@
         }
     ],
     "wof:id":421203935,
-    "wof:lastmodified":1561830628,
+    "wof:lastmodified":1563573252,
     "wof:name":"Talawakele",
     "wof:parent_id":1092064313,
     "wof:placetype":"locality",

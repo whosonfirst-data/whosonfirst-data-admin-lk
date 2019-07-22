@@ -21,8 +21,14 @@
     "name:ben_x_preferred":[
         "\u0995\u09be\u09a4\u09c1\u09a8\u09be\u09af\u09bc\u09be\u0995"
     ],
+    "name:bre_x_preferred":[
+        "Katunayake"
+    ],
     "name:bul_x_preferred":[
         "\u041a\u0430\u0442\u0443\u043d\u0430\u044f\u043a\u0430"
+    ],
+    "name:ceb_x_preferred":[
+        "Katunayaka"
     ],
     "name:dan_x_preferred":[
         "Katunayake"
@@ -157,7 +163,7 @@
         }
     ],
     "wof:id":890431387,
-    "wof:lastmodified":1561830632,
+    "wof:lastmodified":1563573291,
     "wof:name":"Katunayaka North",
     "wof:parent_id":1092060643,
     "wof:placetype":"locality",

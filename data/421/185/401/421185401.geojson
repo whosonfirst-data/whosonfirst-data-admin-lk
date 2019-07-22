@@ -13,6 +13,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ceb_x_preferred":[
+        "Mawanella"
+    ],
     "name:eng_x_preferred":[
         "Mawanella"
     ],
@@ -75,7 +78,7 @@
         }
     ],
     "wof:id":421185401,
-    "wof:lastmodified":1561830631,
+    "wof:lastmodified":1563573289,
     "wof:name":"Mawanella",
     "wof:parent_id":1092062987,
     "wof:placetype":"locality",

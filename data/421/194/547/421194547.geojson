@@ -25,7 +25,13 @@
     "name:cat_x_preferred":[
         "Kalutara"
     ],
+    "name:ceb_x_preferred":[
+        "Kalutara"
+    ],
     "name:ces_x_preferred":[
+        "Kalutara"
+    ],
+    "name:cym_x_preferred":[
         "Kalutara"
     ],
     "name:dan_x_preferred":[
@@ -187,7 +193,7 @@
         }
     ],
     "wof:id":421194547,
-    "wof:lastmodified":1561830628,
+    "wof:lastmodified":1563573244,
     "wof:name":"Kalutara",
     "wof:parent_id":1092060239,
     "wof:placetype":"locality",

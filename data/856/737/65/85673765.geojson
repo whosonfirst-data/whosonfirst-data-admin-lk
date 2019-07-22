@@ -28,11 +28,17 @@
     "name:ara_x_preferred":[
         "\u0645\u0642\u0627\u0637\u0639\u0629 \u0645\u0648\u0644\u0627\u064a\u062a\u064a\u0641\u0648"
     ],
+    "name:ara_x_variant":[
+        "\u0645\u062f\u064a\u0631\u064a\u0629 \u0645\u0648\u0644\u0627\u064a\u062a\u064a\u0641\u0648"
+    ],
     "name:ben_x_preferred":[
         "\u09ae\u09cb\u09b2\u09be\u0987\u09a4\u09bf\u09ac\u09cb \u099c\u09c7\u09b2\u09be"
     ],
     "name:cat_x_preferred":[
         "Mullaitivu"
+    ],
+    "name:ceb_x_preferred":[
+        "Mullaitivu District"
     ],
     "name:dan_x_preferred":[
         "Mullaitivu District"
@@ -45,6 +51,9 @@
     ],
     "name:eng_x_preferred":[
         "Mullaitivu"
+    ],
+    "name:eng_x_variant":[
+        "Mullaitivu District"
     ],
     "name:fas_x_preferred":[
         "\u0645\u0648\u0644\u0627\u06cc\u062a\u06cc\u0648\u0648"
@@ -67,11 +76,17 @@
     "name:ind_x_preferred":[
         "Mullaitivu"
     ],
+    "name:ind_x_variant":[
+        "Distrik Mullaitivu"
+    ],
     "name:ita_x_preferred":[
         "Distretto di Mullaitivu"
     ],
     "name:jpn_x_preferred":[
         "\u30e0\u30c3\u30e9\u30a4\u30c3\u30c6\u30a3\u30fc\u30f4\u30fc"
+    ],
+    "name:jpn_x_variant":[
+        "\u30e0\u30c3\u30e9\u30a4\u30c3\u30c6\u30a3\u30fc\u30f4\u30fc\u770c"
     ],
     "name:kan_x_preferred":[
         "\u0cae\u0cc1\u0cb2\u0ccd\u0cb2\u0ca4\u0cbf\u0cb5\u0cc1 \u0c9c\u0cbf\u0cb2\u0ccd\u0cb2\u0cc6"
@@ -127,6 +142,9 @@
     "name:tam_x_preferred":[
         "\u0bae\u0bc1\u0bb2\u0bcd\u0bb2\u0bc8\u0ba4\u0bcd\u0ba4\u0bc0\u0bb5\u0bc1"
     ],
+    "name:tam_x_variant":[
+        "\u0bae\u0bc1\u0bb2\u0bcd\u0bb2\u0bc8\u0ba4\u0bcd\u0ba4\u0bc0\u0bb5\u0bc1 \u0bae\u0bbe\u0bb5\u0b9f\u0bcd\u0b9f\u0bae\u0bcd"
+    ],
     "name:tel_x_preferred":[
         "\u0c2e\u0c41\u0c32\u0c3e\u0c2f\u0c3f\u0c1f\u0c3f\u0c35\u0c41 \u0c1c\u0c3f\u0c32\u0c4d\u0c32\u0c3e"
     ],
@@ -141,6 +159,9 @@
     ],
     "name:urd_x_preferred":[
         "\u0645\u0648\u0644\u0627\u06cc\u062a\u06cc\u0648\u0648"
+    ],
+    "name:urd_x_variant":[
+        "\u0645\u0648\u0644\u0627\u06cc\u062a\u06cc\u0648\u0648 \u0636\u0644\u0639"
     ],
     "name:vie_x_preferred":[
         "Qu\u1eadn Mullaitivu"
@@ -278,7 +299,7 @@
         "sin",
         "tam"
     ],
-    "wof:lastmodified":1561830589,
+    "wof:lastmodified":1563571813,
     "wof:name":"Mulativ",
     "wof:parent_id":85632313,
     "wof:placetype":"region",

@@ -25,11 +25,20 @@
     "mz:is_current":1,
     "mz:max_zoom":11.0,
     "mz:min_zoom":8.7,
+    "name:ara_x_preferred":[
+        "\u0645\u062f\u064a\u0631\u064a\u0629 \u062a\u0631\u064a\u0646\u0643\u0648\u0645\u0627\u0644\u064a"
+    ],
+    "name:ceb_x_preferred":[
+        "Trincomalee District"
+    ],
     "name:deu_x_preferred":[
         "Trincomalee"
     ],
     "name:eng_x_preferred":[
         "Trincomalee"
+    ],
+    "name:eng_x_variant":[
+        "Trincomalee District"
     ],
     "name:fas_x_preferred":[
         "\u0646\u0627\u062d\u06cc\u0647 \u062a\u0631\u06cc\u0646\u06a9\u0648\u0645\u0627\u0644\u06cc"
@@ -223,7 +232,7 @@
         "sin",
         "tam"
     ],
-    "wof:lastmodified":1561830589,
+    "wof:lastmodified":1563571817,
     "wof:name":"Triku\u1e47\u0101malaya",
     "wof:parent_id":85632313,
     "wof:placetype":"region",

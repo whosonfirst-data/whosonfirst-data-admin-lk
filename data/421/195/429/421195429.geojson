@@ -19,6 +19,9 @@
     "name:fra_x_preferred":[
         "Ragama"
     ],
+    "name:ita_x_preferred":[
+        "Ragama"
+    ],
     "name:jpn_x_preferred":[
         "\u30e9\u30fc\u30ac\u30de"
     ],
@@ -78,7 +81,7 @@
         }
     ],
     "wof:id":421195429,
-    "wof:lastmodified":1561830628,
+    "wof:lastmodified":1563573242,
     "wof:name":"Ragama",
     "wof:parent_id":1092059853,
     "wof:placetype":"locality",

@@ -19,6 +19,9 @@
     "name:ben_x_preferred":[
         "\u0986\u09ae\u09aa\u09be\u09b0\u09be"
     ],
+    "name:ceb_x_preferred":[
+        "Ampara"
+    ],
     "name:dan_x_preferred":[
         "Ampara"
     ],
@@ -168,7 +171,7 @@
         }
     ],
     "wof:id":421167317,
-    "wof:lastmodified":1561830628,
+    "wof:lastmodified":1563573247,
     "wof:name":"Ampara",
     "wof:parent_id":890450157,
     "wof:placetype":"locality",

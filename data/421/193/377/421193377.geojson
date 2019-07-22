@@ -22,6 +22,9 @@
     "name:bul_x_preferred":[
         "\u041f\u0430\u043d\u0430\u0434\u0443\u0440\u0430"
     ],
+    "name:ceb_x_preferred":[
+        "Panadura"
+    ],
     "name:dan_x_preferred":[
         "Panadura"
     ],
@@ -172,7 +175,7 @@
         }
     ],
     "wof:id":421193377,
-    "wof:lastmodified":1561830628,
+    "wof:lastmodified":1563573244,
     "wof:name":"Panadura",
     "wof:parent_id":1092064987,
     "wof:placetype":"locality",

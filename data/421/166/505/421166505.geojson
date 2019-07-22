@@ -13,6 +13,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ceb_x_preferred":[
+        "Kadawatha"
+    ],
     "name:eng_x_preferred":[
         "Kadawatha"
     ],
@@ -77,7 +80,7 @@
         }
     ],
     "wof:id":421166505,
-    "wof:lastmodified":1561830627,
+    "wof:lastmodified":1563573234,
     "wof:name":"Kadawata",
     "wof:parent_id":1092062209,
     "wof:placetype":"locality",

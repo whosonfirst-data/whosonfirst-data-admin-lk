@@ -28,8 +28,14 @@
     "name:ara_x_preferred":[
         "\u0645\u0642\u0627\u0637\u0639\u0629 \u0631\u0627\u062a\u0646\u0627\u0628\u0648\u0631\u0627"
     ],
+    "name:ara_x_variant":[
+        "\u0645\u062f\u064a\u0631\u064a\u0629 \u0631\u0627\u062a\u0646\u0627\u0628\u0648\u0631\u0627"
+    ],
     "name:ben_x_preferred":[
         "\u09b0\u09be\u09a4\u09a8\u09be\u09aa\u09c1\u09b0\u09be \u099c\u09c7\u09b2\u09be"
+    ],
+    "name:ceb_x_preferred":[
+        "Ratnapura District"
     ],
     "name:dan_x_preferred":[
         "Ratnapura district"
@@ -44,7 +50,8 @@
         "Ratnapura"
     ],
     "name:eng_x_variant":[
-        "Rathnapura"
+        "Rathnapura",
+        "Ratnapura district"
     ],
     "name:fas_x_preferred":[
         "\u0646\u0627\u062d\u06cc\u0647 \u0631\u0627\u062a\u0646\u0627\u067e\u0648\u0631\u0627"
@@ -272,7 +279,7 @@
         "sin",
         "tam"
     ],
-    "wof:lastmodified":1561830589,
+    "wof:lastmodified":1563571817,
     "wof:name":"Ratnapura",
     "wof:parent_id":85632313,
     "wof:placetype":"region",

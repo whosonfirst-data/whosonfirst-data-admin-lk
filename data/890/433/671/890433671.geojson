@@ -21,8 +21,14 @@
     "name:ben_x_preferred":[
         "\u09ad\u09be\u09ad\u09c1\u09a8\u09bf\u09af\u09bc\u09be"
     ],
+    "name:bre_x_preferred":[
+        "Vavuniya"
+    ],
     "name:bul_x_preferred":[
         "\u0412\u0430\u0432\u0443\u043d\u0438\u044f"
+    ],
+    "name:ceb_x_preferred":[
+        "Vavuniya"
     ],
     "name:dan_x_preferred":[
         "Vavuniya"
@@ -165,7 +171,7 @@
         }
     ],
     "wof:id":890433671,
-    "wof:lastmodified":1561830632,
+    "wof:lastmodified":1563573293,
     "wof:name":"Vavuniya",
     "wof:parent_id":1092067383,
     "wof:placetype":"locality",

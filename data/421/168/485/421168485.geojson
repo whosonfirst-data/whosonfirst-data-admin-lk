@@ -25,6 +25,9 @@
     "name:sin_x_preferred":[
         "\u0db1\u0dd4\u0d9c\u0dda\u0d9c\u0ddc\u0da9"
     ],
+    "name:spa_x_preferred":[
+        "Nugegoda"
+    ],
     "name:tam_x_preferred":[
         "\u0ba8\u0bc1\u0b95\u0bc7\u0b95\u0bca\u0b9f\u0bc8"
     ],
@@ -78,7 +81,7 @@
         }
     ],
     "wof:id":421168485,
-    "wof:lastmodified":1561830627,
+    "wof:lastmodified":1563573233,
     "wof:name":"Nugegoda",
     "wof:parent_id":1092066319,
     "wof:placetype":"locality",

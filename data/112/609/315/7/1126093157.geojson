@@ -23,6 +23,12 @@
     "name:eng_x_preferred":[
         "Maradana"
     ],
+    "name:jpn_x_preferred":[
+        "\u30de\u30e9\u30c0\u30fc\u30ca"
+    ],
+    "name:nld_x_preferred":[
+        "Maradana"
+    ],
     "name:sin_x_preferred":[
         "\u0db8\u0dbb\u0daf\u0dcf\u0db1"
     ],
@@ -87,7 +93,7 @@
         }
     ],
     "wof:id":1126093157,
-    "wof:lastmodified":1534379377,
+    "wof:lastmodified":1563573298,
     "wof:name":"Maradana",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

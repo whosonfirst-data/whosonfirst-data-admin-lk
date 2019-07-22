@@ -25,6 +25,15 @@
     "name:bos_x_preferred":[
         "Sigirija"
     ],
+    "name:bul_x_preferred":[
+        "\u0421\u0438\u0433\u0438\u0440\u0438\u044f"
+    ],
+    "name:cat_x_preferred":[
+        "Sigiriya"
+    ],
+    "name:ceb_x_preferred":[
+        "Sigiriya"
+    ],
     "name:ces_x_preferred":[
         "Sigiriya"
     ],
@@ -40,6 +49,9 @@
     "name:fra_x_preferred":[
         "Sigir\u00eeya"
     ],
+    "name:guj_x_preferred":[
+        "\u0ab8\u0ac0\u0a97\u0ac0\u0ab0\u0ac0\u0aaf\u0abe"
+    ],
     "name:hbs_x_preferred":[
         "Sigirija"
     ],
@@ -52,6 +64,12 @@
     "name:hrv_x_preferred":[
         "Sigirija"
     ],
+    "name:hun_x_preferred":[
+        "Szigirija"
+    ],
+    "name:hye_x_preferred":[
+        "\u054d\u056b\u0563\u056b\u0580\u056b\u0561"
+    ],
     "name:ind_x_preferred":[
         "Sigiriya"
     ],
@@ -60,6 +78,9 @@
     ],
     "name:jpn_x_preferred":[
         "\u30b7\u30fc\u30ae\u30ea\u30e4"
+    ],
+    "name:jpn_x_variant":[
+        "\u30b7\u30ae\u30ea\u30e4"
     ],
     "name:kat_x_preferred":[
         "\u10e1\u10d8\u10d2\u10d8\u10e0\u10d8\u10d8\u10d0"
@@ -70,8 +91,14 @@
     "name:lit_x_preferred":[
         "Sigirija"
     ],
+    "name:mai_x_preferred":[
+        "\u0938\u093f\u0917\u093f\u0930\u093f\u092f\u093e"
+    ],
     "name:mal_x_preferred":[
         "\u0d38\u0d3f\u0d17\u0d3f\u0d30\u0d3f\u0d2f"
+    ],
+    "name:mya_x_preferred":[
+        "\u1006\u102e\u1002\u102e\u101b\u102d\u101a\u1019\u103c\u102d\u102f\u1037"
     ],
     "name:nep_x_preferred":[
         "\u0938\u093f\u0917\u093f\u0930\u093f\u092f\u093e"
@@ -79,8 +106,14 @@
     "name:nld_x_preferred":[
         "Sigiriya"
     ],
+    "name:nob_x_preferred":[
+        "Sigiriya"
+    ],
     "name:nor_x_preferred":[
         "Sigiriya"
+    ],
+    "name:ori_x_preferred":[
+        "\u0b38\u0b3f\u0b17\u0b3f\u0b30\u0b3f\u0b5f\u0b3e"
     ],
     "name:pol_x_preferred":[
         "Sigirija"
@@ -100,8 +133,14 @@
     "name:slk_x_preferred":[
         "S\u00edgirija"
     ],
+    "name:slv_x_preferred":[
+        "Sigirija"
+    ],
     "name:spa_x_preferred":[
         "Sigiriya"
+    ],
+    "name:srp_x_preferred":[
+        "\u0421\u0438\u0433\u0438\u0440\u0438\u0458\u0430"
     ],
     "name:swe_x_preferred":[
         "Sigiriya"
@@ -109,8 +148,17 @@
     "name:tam_x_preferred":[
         "\u0b9a\u0bbf\u0b95\u0bbf\u0bb0\u0bbf\u0baf\u0bbe"
     ],
+    "name:tel_x_preferred":[
+        "\u0c38\u0c3f\u0c17\u0c3f\u0c30\u0c3f\u0c2f\u0c3e"
+    ],
     "name:tha_x_preferred":[
         "\u0e2a\u0e34\u0e04\u0e34\u0e23\u0e34\u0e22\u0e30"
+    ],
+    "name:tha_x_variant":[
+        "\u0e2a\u0e35\u0e04\u0e34\u0e23\u0e34\u0e22\u0e30"
+    ],
+    "name:tur_x_preferred":[
+        "Sigiriya"
     ],
     "name:ukr_x_preferred":[
         "\u0421\u0456\u0433\u0456\u0440\u0456\u044f"
@@ -172,7 +220,7 @@
         }
     ],
     "wof:id":421173209,
-    "wof:lastmodified":1527716260,
+    "wof:lastmodified":1563573263,
     "wof:name":"Sigiriya",
     "wof:parent_id":1092057503,
     "wof:placetype":"locality",

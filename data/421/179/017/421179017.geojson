@@ -16,6 +16,9 @@
     "name:bul_x_preferred":[
         "\u0427\u0435\u043d\u043a\u0430\u043b\u0430\u0434\u0439"
     ],
+    "name:ceb_x_preferred":[
+        "Chenkalady"
+    ],
     "name:eng_x_preferred":[
         "Chenkalady"
     ],
@@ -84,7 +87,7 @@
         }
     ],
     "wof:id":421179017,
-    "wof:lastmodified":1561830631,
+    "wof:lastmodified":1563573283,
     "wof:name":"Chenkalady",
     "wof:parent_id":1092058375,
     "wof:placetype":"locality",

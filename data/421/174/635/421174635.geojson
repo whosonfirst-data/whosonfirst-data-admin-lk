@@ -19,6 +19,9 @@
     "name:ben_x_preferred":[
         "\u099f\u09cd\u09af\u09be\u0982\u0997\u09c7\u09b2"
     ],
+    "name:ceb_x_preferred":[
+        "Tangalla"
+    ],
     "name:dan_x_preferred":[
         "Tangalle"
     ],
@@ -87,6 +90,9 @@
     ],
     "name:rus_x_preferred":[
         "\u0422\u0430\u043d\u0433\u0430\u043b\u043b\u0430"
+    ],
+    "name:rus_x_variant":[
+        "\u0422\u0430\u043d\u0433\u0430\u043b\u043b\u0435"
     ],
     "name:sin_x_preferred":[
         "\u0dad\u0d82\u0d9c\u0dbd\u0dca\u0dbd"
@@ -169,7 +175,7 @@
         }
     ],
     "wof:id":421174635,
-    "wof:lastmodified":1561830629,
+    "wof:lastmodified":1563573258,
     "wof:name":"Tangalla",
     "wof:parent_id":1092066355,
     "wof:placetype":"locality",

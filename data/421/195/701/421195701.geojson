@@ -167,6 +167,12 @@
     "name:urd_x_preferred":[
         "\u062c\u0627\u0641\u0646\u0627"
     ],
+    "name:urd_x_variant":[
+        "\u062c\u0641\u0641\u0646\u0627"
+    ],
+    "name:uzb_x_preferred":[
+        "Jafna"
+    ],
     "name:vep_x_preferred":[
         "D\u017eafn"
     ],
@@ -323,7 +329,7 @@
         }
     ],
     "wof:id":421195701,
-    "wof:lastmodified":1561830627,
+    "wof:lastmodified":1563573240,
     "wof:name":"Jaffna",
     "wof:parent_id":890455863,
     "wof:placetype":"locality",

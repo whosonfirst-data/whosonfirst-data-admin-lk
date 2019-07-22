@@ -122,11 +122,17 @@
     "name:mal_x_preferred":[
         "\u0d15\u0d23\u0d4d\u0d1f\u0d3f"
     ],
+    "name:mal_x_variant":[
+        "\u0d15\u0d3e\u0d7b\u0d21\u0d3f"
+    ],
     "name:mar_x_preferred":[
         "\u0915\u0945\u0928\u094d\u0921\u0940"
     ],
     "name:msa_x_preferred":[
         "Kandy"
+    ],
+    "name:mya_x_preferred":[
+        "\u1000\u1014\u1039\u1012\u102e\u1019\u103c\u102d\u102f\u1037"
     ],
     "name:nep_x_preferred":[
         "\u0915\u094d\u092f\u093e\u0928\u094d\u0921\u0940"
@@ -155,11 +161,17 @@
     "name:rus_x_preferred":[
         "\u041a\u0430\u043d\u0434\u0438"
     ],
+    "name:sco_x_preferred":[
+        "Kandy"
+    ],
     "name:sin_x_preferred":[
         "\u0db8\u0dc4\u0db1\u0dd4\u0dc0\u0dbb"
     ],
     "name:slk_x_preferred":[
         "Mahanuvara"
+    ],
+    "name:slv_x_preferred":[
+        "Kandi"
     ],
     "name:spa_x_preferred":[
         "Kandy"
@@ -342,7 +354,7 @@
         }
     ],
     "wof:id":421181497,
-    "wof:lastmodified":1561830629,
+    "wof:lastmodified":1563573267,
     "wof:name":"Kandy",
     "wof:parent_id":1092060383,
     "wof:placetype":"locality",

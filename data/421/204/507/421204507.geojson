@@ -19,6 +19,9 @@
     "name:eng_x_preferred":[
         "Habarana"
     ],
+    "name:fra_x_preferred":[
+        "Habarana"
+    ],
     "name:nld_x_preferred":[
         "Habarana"
     ],
@@ -78,7 +81,7 @@
         }
     ],
     "wof:id":421204507,
-    "wof:lastmodified":1561830628,
+    "wof:lastmodified":1563573248,
     "wof:name":"Habarane",
     "wof:parent_id":1092064945,
     "wof:placetype":"locality",

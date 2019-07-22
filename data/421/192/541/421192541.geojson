@@ -13,6 +13,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:note":"quattroshapes points import (201603)",
+    "name:eng_x_preferred":[
+        "Rambukkana"
+    ],
     "name:unk_x_variant":[
         "Rambukkana Bazaar"
     ],
@@ -62,7 +65,7 @@
         }
     ],
     "wof:id":421192541,
-    "wof:lastmodified":1527716116,
+    "wof:lastmodified":1563573238,
     "wof:name":"Rambukkana",
     "wof:parent_id":1092065729,
     "wof:placetype":"locality",

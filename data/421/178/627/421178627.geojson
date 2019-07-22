@@ -13,6 +13,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ceb_x_preferred":[
+        "Kotikawatta"
+    ],
     "name:eng_x_preferred":[
         "Kotikawatta"
     ],
@@ -76,7 +79,7 @@
         }
     ],
     "wof:id":421178627,
-    "wof:lastmodified":1561830631,
+    "wof:lastmodified":1563573284,
     "wof:name":"Kotikawatta",
     "wof:parent_id":1092061133,
     "wof:placetype":"locality",

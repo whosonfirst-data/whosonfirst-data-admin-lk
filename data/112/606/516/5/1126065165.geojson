@@ -23,6 +23,21 @@
     "name:eng_x_preferred":[
         "Mutwal"
     ],
+    "name:eng_x_variant":[
+        "Modara"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30e0\u30c8\u30a5\u30ef\u30eb"
+    ],
+    "name:nld_x_preferred":[
+        "Modara"
+    ],
+    "name:sin_x_preferred":[
+        "\u0db8\u0ddd\u0daf\u0dbb"
+    ],
+    "name:tam_x_preferred":[
+        "\u0bae\u0bc1\u0b95\u0ba4\u0bcd\u0ba4\u0bc1\u0bb5\u0bbe\u0bb0\u0bae\u0bcd"
+    ],
     "name:unk_x_variant":[
         "Mutwal"
     ],
@@ -81,7 +96,7 @@
         }
     ],
     "wof:id":1126065165,
-    "wof:lastmodified":1534379376,
+    "wof:lastmodified":1563573297,
     "wof:name":"Mutwal",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",
