@@ -25,6 +25,9 @@
     "iso:country":"LK",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:urd_x_preferred":[
+        "\u0645\u06cc\u0688\u0648\u06af\u0627\u0644\u0627"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -48,7 +51,7 @@
         }
     ],
     "wof:id":1242934273,
-    "wof:lastmodified":1537045250,
+    "wof:lastmodified":1564176882,
     "wof:name":"Madugalla",
     "wof:parent_id":1092066935,
     "wof:placetype":"locality",

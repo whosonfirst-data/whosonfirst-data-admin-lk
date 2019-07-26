@@ -37,6 +37,9 @@
     "name:eng_x_variant":[
         "Dimbulagala"
     ],
+    "name:sin_x_preferred":[
+        "\u0daf\u0dd2\u0db9\u0dd4\u0dbd\u0dcf\u0d9c\u0dbd"
+    ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
     "src:population":"statoids",
@@ -72,7 +75,7 @@
         }
     ],
     "wof:id":1092057891,
-    "wof:lastmodified":1553718092,
+    "wof:lastmodified":1564176664,
     "wof:name":"Dimbulagala",
     "wof:parent_id":85673743,
     "wof:placetype":"county",

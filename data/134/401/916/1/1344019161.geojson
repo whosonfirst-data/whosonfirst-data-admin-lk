@@ -25,6 +25,12 @@
     "iso:country":"LK",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Lewella"
+    ],
+    "name:swe_x_preferred":[
+        "Lewella"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -49,7 +55,7 @@
         }
     ],
     "wof:id":1344019161,
-    "wof:lastmodified":1537567994,
+    "wof:lastmodified":1564175184,
     "wof:name":"Lewella",
     "wof:parent_id":1092061615,
     "wof:placetype":"locality",

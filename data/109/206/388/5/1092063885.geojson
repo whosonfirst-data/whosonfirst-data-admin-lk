@@ -37,6 +37,9 @@
     "name:eng_x_variant":[
         "Narammala"
     ],
+    "name:sin_x_preferred":[
+        "\u0db1\u0dcf\u0dbb\u0db8\u0dca\u0db8\u0dbd"
+    ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
     "src:population":"statoids",
@@ -72,7 +75,7 @@
         }
     ],
     "wof:id":1092063885,
-    "wof:lastmodified":1553718097,
+    "wof:lastmodified":1564176704,
     "wof:name":"Narammala",
     "wof:parent_id":85673777,
     "wof:placetype":"county",

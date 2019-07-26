@@ -25,6 +25,15 @@
     "iso:country":"LK",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Lahugala"
+    ],
+    "name:sin_x_preferred":[
+        "\u0dbd\u0dcf\u0dc4\u0dd4\u0d9c\u0dbd"
+    ],
+    "name:swe_x_preferred":[
+        "Lahugala"
+    ],
     "name:und_x_variant":[
         "Ambagahawatta",
         "Lahugala"
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":1276806557,
-    "wof:lastmodified":1537661482,
+    "wof:lastmodified":1564175692,
     "wof:name":"Lahugala",
     "wof:parent_id":1092062135,
     "wof:placetype":"locality",

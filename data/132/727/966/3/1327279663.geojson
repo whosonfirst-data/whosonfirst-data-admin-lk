@@ -25,6 +25,12 @@
     "iso:country":"LK",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Udumulla"
+    ],
+    "name:swe_x_preferred":[
+        "Udumulla"
+    ],
     "name:und_x_variant":[
         "Udamulla"
     ],
@@ -51,7 +57,7 @@
         }
     ],
     "wof:id":1327279663,
-    "wof:lastmodified":1537661360,
+    "wof:lastmodified":1564175102,
     "wof:name":"Udumulla",
     "wof:parent_id":1092065951,
     "wof:placetype":"locality",

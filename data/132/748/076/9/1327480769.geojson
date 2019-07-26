@@ -25,6 +25,12 @@
     "iso:country":"LK",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Niyambepola"
+    ],
+    "name:swe_x_preferred":[
+        "Niyambepola"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -49,7 +55,7 @@
         }
     ],
     "wof:id":1327480769,
-    "wof:lastmodified":1537567985,
+    "wof:lastmodified":1564174982,
     "wof:name":"Niyambepola",
     "wof:parent_id":1092059229,
     "wof:placetype":"locality",

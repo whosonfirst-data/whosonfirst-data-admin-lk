@@ -25,6 +25,18 @@
     "iso:country":"LK",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0422\u0445\u0430\u043c\u0431\u0438\u043b\u0443\u0432\u0438\u043b"
+    ],
+    "name:sin_x_preferred":[
+        "\u0dad\u0db8\u0dca\u0db6\u0dd2\u0dbd\u0dd4\u0dc0\u0dd2\u0dbd\u0dca"
+    ],
+    "name:swe_x_preferred":[
+        "Thambiluvil"
+    ],
+    "name:tam_x_preferred":[
+        "\u0ba4\u0bae\u0bcd\u0baa\u0bbf\u0bb2\u0bc1\u0bb5\u0bbf\u0bb2\u0bcd"
+    ],
     "name:und_x_variant":[
         "Thambiluvil",
         "Tambiluvil"
@@ -53,7 +65,7 @@
         }
     ],
     "wof:id":1309957543,
-    "wof:lastmodified":1537661380,
+    "wof:lastmodified":1564176740,
     "wof:name":"Tambiluvil",
     "wof:parent_id":1092066773,
     "wof:placetype":"locality",

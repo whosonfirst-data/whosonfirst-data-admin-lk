@@ -37,6 +37,9 @@
     "name:eng_x_variant":[
         "Bibile"
     ],
+    "name:sin_x_preferred":[
+        "\u0db6\u0dd2\u0db6\u0dd2\u0dbd\u0dda"
+    ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
     "src:population":"statoids",
@@ -72,7 +75,7 @@
         }
     ],
     "wof:id":1092057159,
-    "wof:lastmodified":1553718091,
+    "wof:lastmodified":1564176654,
     "wof:name":"Bibile",
     "wof:parent_id":85673803,
     "wof:placetype":"county",

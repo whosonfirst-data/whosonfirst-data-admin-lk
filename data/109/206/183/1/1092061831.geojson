@@ -31,10 +31,19 @@
     "mps:longitude":81.710589,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Lahugala"
+    ],
     "name:eng_x_preferred":[
         "Lahugala"
     ],
     "name:eng_x_variant":[
+        "Lahugala"
+    ],
+    "name:sin_x_preferred":[
+        "\u0dbd\u0dcf\u0dc4\u0dd4\u0d9c\u0dbd"
+    ],
+    "name:swe_x_preferred":[
         "Lahugala"
     ],
     "src:geom":"meso",
@@ -72,7 +81,7 @@
         }
     ],
     "wof:id":1092061831,
-    "wof:lastmodified":1553718096,
+    "wof:lastmodified":1564176701,
     "wof:name":"Lahugala",
     "wof:parent_id":85673733,
     "wof:placetype":"county",

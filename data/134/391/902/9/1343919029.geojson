@@ -25,6 +25,12 @@
     "iso:country":"LK",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Dorakumbura"
+    ],
+    "name:swe_x_preferred":[
+        "Dorakumbura"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -48,7 +54,7 @@
         }
     ],
     "wof:id":1343919029,
-    "wof:lastmodified":1537076822,
+    "wof:lastmodified":1564175134,
     "wof:name":"Dorakumbura",
     "wof:parent_id":1092062869,
     "wof:placetype":"locality",

@@ -25,6 +25,12 @@
     "iso:country":"LK",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Willa"
+    ],
+    "name:ita_x_preferred":[
+        "Willa"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -48,7 +54,7 @@
         }
     ],
     "wof:id":1243594689,
-    "wof:lastmodified":1537085566,
+    "wof:lastmodified":1564176937,
     "wof:name":"Willa",
     "wof:parent_id":1092066203,
     "wof:placetype":"locality",

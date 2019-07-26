@@ -37,6 +37,18 @@
     "name:eng_x_variant":[
         "Akkaraipattu"
     ],
+    "name:fas_x_preferred":[
+        "\u0627\u06a9\u0627\u0631\u0627\u06cc\u067e\u0627\u062a\u0648"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30a2\u30c3\u30ab\u30e9\u30a4\u30d1\u30c3\u30c8\u30a5"
+    ],
+    "name:sin_x_preferred":[
+        "\u0d85\u0d9a\u0dca\u0d9a\u0dbb\u0db4\u0dad\u0dca\u0dad\u0dd4\u0dc0"
+    ],
+    "name:tam_x_preferred":[
+        "\u0b85\u0b95\u0bcd\u0b95\u0bb0\u0bc8\u0baa\u0bcd\u0baa\u0bb1\u0bcd\u0bb1\u0bc1"
+    ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
     "src:population":"statoids",
@@ -72,7 +84,7 @@
         }
     ],
     "wof:id":1092056171,
-    "wof:lastmodified":1553718090,
+    "wof:lastmodified":1564176650,
     "wof:name":"Akkaraipattu",
     "wof:parent_id":85673733,
     "wof:placetype":"county",

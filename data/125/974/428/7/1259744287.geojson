@@ -25,6 +25,12 @@
     "iso:country":"LK",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Handessa"
+    ],
+    "name:swe_x_preferred":[
+        "Handessa"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -49,7 +55,7 @@
         }
     ],
     "wof:id":1259744287,
-    "wof:lastmodified":1537568008,
+    "wof:lastmodified":1564177175,
     "wof:name":"Handessa",
     "wof:parent_id":1092066991,
     "wof:placetype":"locality",

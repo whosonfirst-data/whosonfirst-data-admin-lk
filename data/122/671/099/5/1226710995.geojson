@@ -25,6 +25,15 @@
     "iso:country":"LK",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Kandalama"
+    ],
+    "name:sin_x_preferred":[
+        "\u0d9a\u0dab\u0dca\u0da9\u0dbd\u0db8"
+    ],
+    "name:swe_x_preferred":[
+        "Kandalama"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -48,7 +57,7 @@
         }
     ],
     "wof:id":1226710995,
-    "wof:lastmodified":1536766219,
+    "wof:lastmodified":1564177394,
     "wof:name":"Kandalama",
     "wof:parent_id":1092057503,
     "wof:placetype":"locality",

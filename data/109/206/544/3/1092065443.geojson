@@ -37,6 +37,12 @@
     "name:eng_x_variant":[
         "Poonakary"
     ],
+    "name:fra_x_preferred":[
+        "Poonakari"
+    ],
+    "name:tam_x_preferred":[
+        "\u0baa\u0bc2\u0ba8\u0b95\u0bb0\u0bbf"
+    ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
     "src:population":"statoids",
@@ -72,7 +78,7 @@
         }
     ],
     "wof:id":1092065443,
-    "wof:lastmodified":1553718099,
+    "wof:lastmodified":1564176682,
     "wof:name":"Poonakary",
     "wof:parent_id":85673773,
     "wof:placetype":"county",

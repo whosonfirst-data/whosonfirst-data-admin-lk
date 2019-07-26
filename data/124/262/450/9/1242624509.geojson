@@ -25,6 +25,15 @@
     "iso:country":"LK",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0627\u0648\u062f\u0627 \u062a\u0627\u0644\u0627\u0648\u06cc\u0646\u0627\u0645\u0627\u062f\u06cc\u06af"
+    ],
+    "name:tam_x_preferred":[
+        "\u0b89\u0b9f\u0ba4\u0bcd\u0ba4\u0bb2\u0bb5\u0bbf\u0ba9\u0bcd\u0ba9 \u0bae\u0b9f\u0bbf\u0b95\u0bc7"
+    ],
+    "name:urd_x_preferred":[
+        "\u0627\u062f\u0627 \u0679\u0627\u0644\u0627\u0648\u0646\u0627\u0645\u0627\u0688\u06af\u06d2"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -49,7 +58,7 @@
         }
     ],
     "wof:id":1242624509,
-    "wof:lastmodified":1537567967,
+    "wof:lastmodified":1564177016,
     "wof:name":"Uda Talawinnamadige",
     "wof:parent_id":1092065219,
     "wof:placetype":"locality",

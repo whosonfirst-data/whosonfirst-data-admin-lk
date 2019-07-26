@@ -25,6 +25,12 @@
     "iso:country":"LK",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Alutgama"
+    ],
+    "name:swe_x_preferred":[
+        "Alutgama"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -48,7 +54,7 @@
         }
     ],
     "wof:id":1243324621,
-    "wof:lastmodified":1536980693,
+    "wof:lastmodified":1564176952,
     "wof:name":"Alutgama",
     "wof:parent_id":1092068243,
     "wof:placetype":"locality",

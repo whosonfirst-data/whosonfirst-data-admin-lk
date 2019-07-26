@@ -25,6 +25,18 @@
     "iso:country":"LK",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Uduvil"
+    ],
+    "name:sin_x_preferred":[
+        "\u0d8b\u0da9\u0dd4\u0dc0\u0dd2\u0dbd\u0dca"
+    ],
+    "name:swe_x_preferred":[
+        "Uduvil"
+    ],
+    "name:tam_x_preferred":[
+        "\u0b89\u0b9f\u0bc1\u0bb5\u0bbf\u0bb2\u0bcd"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -49,7 +61,7 @@
         }
     ],
     "wof:id":1344208685,
-    "wof:lastmodified":1537567966,
+    "wof:lastmodified":1564175342,
     "wof:name":"Uduvil",
     "wof:parent_id":1092067185,
     "wof:placetype":"locality",

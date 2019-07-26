@@ -37,6 +37,9 @@
     "name:eng_x_variant":[
         "Divulapitiya"
     ],
+    "name:sin_x_preferred":[
+        "\u0daf\u0dd2\u0dc0\u0dd4\u0dbd\u0db4\u0dd2\u0da7\u0dd2\u0dba"
+    ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
     "src:population":"statoids",
@@ -72,7 +75,7 @@
         }
     ],
     "wof:id":1092057931,
-    "wof:lastmodified":1553718092,
+    "wof:lastmodified":1564176656,
     "wof:name":"Divulapitiya",
     "wof:parent_id":85673815,
     "wof:placetype":"county",

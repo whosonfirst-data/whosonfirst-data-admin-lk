@@ -25,6 +25,18 @@
     "iso:country":"LK",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:cat_x_preferred":[
+        "Aluvihare"
+    ],
+    "name:ceb_x_preferred":[
+        "Aluvihare"
+    ],
+    "name:sin_x_preferred":[
+        "\u0d85\u0dc5\u0dd4\u0dc0\u0dd2\u0dc4\u0dcf\u0dbb\u0dba"
+    ],
+    "name:swe_x_preferred":[
+        "Aluvihare"
+    ],
     "name:und_x_variant":[
         "Aluvihare",
         "Aluwihare"
@@ -47,7 +59,7 @@
         }
     ],
     "wof:id":1209175305,
-    "wof:lastmodified":1537661602,
+    "wof:lastmodified":1564176136,
     "wof:name":"Aluwihare",
     "wof:parent_id":85632313,
     "wof:placetype":"locality",

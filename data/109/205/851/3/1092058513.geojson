@@ -37,6 +37,9 @@
     "name:eng_x_variant":[
         "Galewela"
     ],
+    "name:sin_x_preferred":[
+        "\u0d9c\u0dbd\u0dda\u0dc0\u0dd9\u0dbd"
+    ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
     "src:population":"statoids",
@@ -72,7 +75,7 @@
         }
     ],
     "wof:id":1092058513,
-    "wof:lastmodified":1553718092,
+    "wof:lastmodified":1564176653,
     "wof:name":"Galewela",
     "wof:parent_id":85673723,
     "wof:placetype":"county",

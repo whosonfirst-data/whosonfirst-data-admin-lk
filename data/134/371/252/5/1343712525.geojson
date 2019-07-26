@@ -25,6 +25,12 @@
     "iso:country":"LK",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Udupihilla"
+    ],
+    "name:swe_x_preferred":[
+        "Udupihilla"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -49,7 +55,7 @@
         }
     ],
     "wof:id":1343712525,
-    "wof:lastmodified":1537567966,
+    "wof:lastmodified":1564175236,
     "wof:name":"Udupihilla",
     "wof:parent_id":1092067025,
     "wof:placetype":"locality",

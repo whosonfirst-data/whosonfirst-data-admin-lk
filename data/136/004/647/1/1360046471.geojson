@@ -25,6 +25,12 @@
     "iso:country":"LK",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Warakadeniya"
+    ],
+    "name:swe_x_preferred":[
+        "Warakadeniya"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -48,7 +54,7 @@
         }
     ],
     "wof:id":1360046471,
-    "wof:lastmodified":1537000782,
+    "wof:lastmodified":1564176638,
     "wof:name":"Warakadeniya",
     "wof:parent_id":1092065547,
     "wof:placetype":"locality",

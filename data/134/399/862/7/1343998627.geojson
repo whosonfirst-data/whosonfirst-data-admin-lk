@@ -25,6 +25,12 @@
     "iso:country":"LK",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Galahitiyawa"
+    ],
+    "name:swe_x_preferred":[
+        "Galahitiyawa"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -48,7 +54,7 @@
         }
     ],
     "wof:id":1343998627,
-    "wof:lastmodified":1536964652,
+    "wof:lastmodified":1564175159,
     "wof:name":"Galahitiyawa",
     "wof:parent_id":1092067051,
     "wof:placetype":"locality",

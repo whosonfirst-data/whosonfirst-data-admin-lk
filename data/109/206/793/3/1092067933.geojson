@@ -37,6 +37,9 @@
     "name:eng_x_variant":[
         "Welimada"
     ],
+    "name:sin_x_preferred":[
+        "\u0dc0\u0dd0\u0dbd\u0dd2\u0db8\u0da9"
+    ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
     "src:population":"statoids",
@@ -72,7 +75,7 @@
         }
     ],
     "wof:id":1092067933,
-    "wof:lastmodified":1553718102,
+    "wof:lastmodified":1564176685,
     "wof:name":"Welimada",
     "wof:parent_id":85673801,
     "wof:placetype":"county",

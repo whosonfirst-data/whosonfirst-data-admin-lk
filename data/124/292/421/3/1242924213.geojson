@@ -25,6 +25,12 @@
     "iso:country":"LK",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Dumbukola"
+    ],
+    "name:swe_x_preferred":[
+        "Dumbukola"
+    ],
     "name:und_x_variant":[
         "Dumbukola"
     ],
@@ -52,7 +58,7 @@
         }
     ],
     "wof:id":1242924213,
-    "wof:lastmodified":1537661567,
+    "wof:lastmodified":1564176873,
     "wof:name":"Dambukkola",
     "wof:parent_id":1092067025,
     "wof:placetype":"locality",

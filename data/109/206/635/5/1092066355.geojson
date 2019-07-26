@@ -31,11 +31,38 @@
     "mps:longitude":80.844014,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Tangalla"
+    ],
+    "name:deu_x_preferred":[
+        "Tangalle"
+    ],
     "name:eng_x_preferred":[
         "Tangalle"
     ],
     "name:eng_x_variant":[
         "Tangalle"
+    ],
+    "name:fas_x_preferred":[
+        "\u062a\u0627\u0646\u06af\u0627\u0644\u0647"
+    ],
+    "name:fra_x_preferred":[
+        "Tangalle"
+    ],
+    "name:pol_x_preferred":[
+        "Tangalla"
+    ],
+    "name:sin_x_preferred":[
+        "\u0dad\u0d82\u0d9c\u0dbd\u0dca\u0dbd"
+    ],
+    "name:spa_x_preferred":[
+        "Tangalle"
+    ],
+    "name:tam_x_preferred":[
+        "\u0ba4\u0b99\u0bcd\u0b95\u0bbe\u0bb2\u0bc8"
+    ],
+    "name:urd_x_preferred":[
+        "\u062a\u0627\u0646\u06af\u0627\u0644"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -72,7 +99,7 @@
         }
     ],
     "wof:id":1092066355,
-    "wof:lastmodified":1553718100,
+    "wof:lastmodified":1564176676,
     "wof:name":"Tangalle",
     "wof:parent_id":85673791,
     "wof:placetype":"county",

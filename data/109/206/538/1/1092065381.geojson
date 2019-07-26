@@ -37,6 +37,12 @@
     "name:eng_x_variant":[
         "Polgahawela"
     ],
+    "name:sin_x_preferred":[
+        "\u0db4\u0ddc\u0dbd\u0dca\u0d9c\u0dc4\u0dc0\u0dd9\u0dbd"
+    ],
+    "name:tam_x_preferred":[
+        "\u0baa\u0bca\u0bb2\u0bcd\u0b95\u0bbe\u0bb5\u0bb2\u0bc8"
+    ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
     "src:population":"statoids",
@@ -72,7 +78,7 @@
         }
     ],
     "wof:id":1092065381,
-    "wof:lastmodified":1553718099,
+    "wof:lastmodified":1564176687,
     "wof:name":"Polgahawela",
     "wof:parent_id":85673777,
     "wof:placetype":"county",

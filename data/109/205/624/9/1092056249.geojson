@@ -37,6 +37,9 @@
     "name:eng_x_variant":[
         "Akurana"
     ],
+    "name:tam_x_preferred":[
+        "\u0b85\u0b95\u0bcd\u0b95\u0bc1\u0bb0\u0ba3\u0bc8"
+    ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
     "src:population":"statoids",
@@ -72,7 +75,7 @@
         }
     ],
     "wof:id":1092056249,
-    "wof:lastmodified":1553718090,
+    "wof:lastmodified":1564176660,
     "wof:name":"Akurana",
     "wof:parent_id":85673719,
     "wof:placetype":"county",

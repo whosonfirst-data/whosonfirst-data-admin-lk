@@ -25,6 +25,12 @@
     "iso:country":"LK",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Lewdeniya"
+    ],
+    "name:swe_x_preferred":[
+        "Lewdeniya"
+    ],
     "name:und_x_variant":[
         "Leudeniya"
     ],
@@ -51,7 +57,7 @@
         }
     ],
     "wof:id":1226711017,
-    "wof:lastmodified":1537661481,
+    "wof:lastmodified":1564177395,
     "wof:name":"Lewdeniya",
     "wof:parent_id":1092058735,
     "wof:placetype":"locality",

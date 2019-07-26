@@ -25,6 +25,9 @@
     "iso:country":"LK",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:urd_x_preferred":[
+        "\u0644\u06cc\u0646\u0688\u0648\u067e\u06cc\u0679\u0627"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85632313
@@ -43,7 +46,7 @@
         }
     ],
     "wof:id":1209365581,
-    "wof:lastmodified":1537567995,
+    "wof:lastmodified":1564175895,
     "wof:name":"Landupita",
     "wof:parent_id":85632313,
     "wof:placetype":"locality",

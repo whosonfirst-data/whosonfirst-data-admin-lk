@@ -25,6 +25,12 @@
     "iso:country":"LK",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Kuda"
+    ],
+    "name:swe_x_preferred":[
+        "Kuda"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -48,7 +54,7 @@
         }
     ],
     "wof:id":1276714025,
-    "wof:lastmodified":1536766212,
+    "wof:lastmodified":1564175837,
     "wof:name":"Kuda",
     "wof:parent_id":1092067493,
     "wof:placetype":"locality",

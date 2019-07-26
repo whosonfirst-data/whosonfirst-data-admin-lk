@@ -37,6 +37,9 @@
     "name:eng_x_variant":[
         "Madulla"
     ],
+    "name:urd_x_preferred":[
+        "\u0645\u06cc\u0688\u0648\u0644\u0627"
+    ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
     "src:population":"statoids",
@@ -72,7 +75,7 @@
         }
     ],
     "wof:id":1092062005,
-    "wof:lastmodified":1553718096,
+    "wof:lastmodified":1564176695,
     "wof:name":"Madulla",
     "wof:parent_id":85673803,
     "wof:placetype":"county",

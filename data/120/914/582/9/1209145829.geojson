@@ -25,6 +25,9 @@
     "iso:country":"LK",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:sin_x_preferred":[
+        "\u0db8\u0dc4\u0dbb \u0db6\u0db1\u0dca\u0db0\u0db1\u0dcf\u0d9c\u0dcf\u0dbb\u0dba"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85632313
@@ -43,7 +46,7 @@
         }
     ],
     "wof:id":1209145829,
-    "wof:lastmodified":1537568028,
+    "wof:lastmodified":1564176025,
     "wof:name":"Mahara Prison",
     "wof:parent_id":85632313,
     "wof:placetype":"locality",

@@ -31,11 +31,23 @@
     "mps:longitude":80.033955,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Bentota"
+    ],
     "name:eng_x_preferred":[
         "Benthota"
     ],
     "name:eng_x_variant":[
         "Bentota"
+    ],
+    "name:pol_x_preferred":[
+        "Bentota"
+    ],
+    "name:sin_x_preferred":[
+        "\u0db6\u0dd9\u0db1\u0dca\u0dad\u0ddc\u0da7"
+    ],
+    "name:tam_x_preferred":[
+        "\u0baa\u0bc6\u0ba8\u0bcd\u0ba4\u0bcb\u0b9f\u0bcd\u0b9f\u0bc8"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -72,7 +84,7 @@
         }
     ],
     "wof:id":1092057133,
-    "wof:lastmodified":1553718091,
+    "wof:lastmodified":1564176654,
     "wof:name":"Bentota",
     "wof:parent_id":85673789,
     "wof:placetype":"county",

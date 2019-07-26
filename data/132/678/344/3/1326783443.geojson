@@ -25,6 +25,15 @@
     "iso:country":"LK",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Batuwatta"
+    ],
+    "name:sin_x_preferred":[
+        "\u0db6\u0da7\u0dd4\u0dc0\u0dad\u0dca\u0dad"
+    ],
+    "name:swe_x_preferred":[
+        "Batuwatta"
+    ],
     "name:und_x_variant":[
         "Batuwatta"
     ],
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":1326783443,
-    "wof:lastmodified":1537661589,
+    "wof:lastmodified":1564175018,
     "wof:name":"Batuwatta West",
     "wof:parent_id":1092059853,
     "wof:placetype":"locality",

@@ -37,6 +37,9 @@
     "name:eng_x_variant":[
         "Hildummulla"
     ],
+    "name:nor_x_preferred":[
+        "Haldummulla"
+    ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
     "src:population":"statoids",
@@ -72,7 +75,7 @@
         }
     ],
     "wof:id":1092058997,
-    "wof:lastmodified":1553718093,
+    "wof:lastmodified":1564176662,
     "wof:name":"Haldummulla",
     "wof:parent_id":85673801,
     "wof:placetype":"county",

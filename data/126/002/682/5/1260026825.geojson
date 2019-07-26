@@ -25,6 +25,12 @@
     "iso:country":"LK",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Gallella"
+    ],
+    "name:swe_x_preferred":[
+        "Gallella"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -48,7 +54,7 @@
         }
     ],
     "wof:id":1260026825,
-    "wof:lastmodified":1537066727,
+    "wof:lastmodified":1564176394,
     "wof:name":"Gallella",
     "wof:parent_id":1092065547,
     "wof:placetype":"locality",

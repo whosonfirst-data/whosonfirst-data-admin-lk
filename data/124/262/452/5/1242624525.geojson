@@ -25,6 +25,12 @@
     "iso:country":"LK",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Uguressapitiya"
+    ],
+    "name:swe_x_preferred":[
+        "Uguressapitiya"
+    ],
     "name:und_x_variant":[
         "Uguresapitiya",
         "Uguressapitiya"
@@ -52,7 +58,7 @@
         }
     ],
     "wof:id":1242624525,
-    "wof:lastmodified":1537661356,
+    "wof:lastmodified":1564177010,
     "wof:name":"Uguressapitiya",
     "wof:parent_id":1092059229,
     "wof:placetype":"locality",

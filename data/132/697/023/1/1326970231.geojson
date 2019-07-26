@@ -25,6 +25,18 @@
     "iso:country":"LK",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:est_x_preferred":[
+        "Wadduwa"
+    ],
+    "name:fra_x_preferred":[
+        "Wadduwa"
+    ],
+    "name:sin_x_preferred":[
+        "\u0dc0\u0dcf\u0daf\u0dca\u0daf\u0dd4\u0dc0"
+    ],
+    "name:tam_x_preferred":[
+        "\u0bb5\u0bbe\u0ba4\u0bc1\u0bb5\u0bc8"
+    ],
     "name:und_x_variant":[
         "Wadduwa"
     ],
@@ -52,7 +64,7 @@
         }
     ],
     "wof:id":1326970231,
-    "wof:lastmodified":1537661347,
+    "wof:lastmodified":1564175044,
     "wof:name":"Meda Wadduwa",
     "wof:parent_id":1092064987,
     "wof:placetype":"locality",

@@ -25,6 +25,9 @@
     "iso:country":"LK",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0627\u0644\u0648\u062a\u06af\u0645\u0627 \u0645\u0627\u0647\u0627\u06a9\u0627\u0645\u0628\u0648\u0631\u06af\u0627\u0645\u062f\u0627"
+    ],
     "name:und_x_variant":[
         "Alutgama Mahakumburegammedda"
     ],
@@ -52,7 +55,7 @@
         }
     ],
     "wof:id":1310366443,
-    "wof:lastmodified":1537661602,
+    "wof:lastmodified":1564176462,
     "wof:name":"Mahakumbura",
     "wof:parent_id":1092065219,
     "wof:placetype":"locality",

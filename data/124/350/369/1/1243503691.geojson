@@ -25,9 +25,21 @@
     "iso:country":"LK",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:gom_x_preferred":[
+        "\u092a\u094b\u0924\u0928\u093e"
+    ],
+    "name:hin_x_preferred":[
+        "\u092a\u094b\u0924\u0928\u093e"
+    ],
+    "name:tel_x_preferred":[
+        "\u0c2c\u0c2e\u0c4d\u0c2e\u0c46\u0c30 \u0c2a\u0c4b\u0c24\u0c28"
+    ],
     "name:und_x_variant":[
         "Potana",
         "Pothana"
+    ],
+    "name:urd_x_preferred":[
+        "\u067e\u0648\u062a\u0646\u0627"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -52,7 +64,7 @@
         }
     ],
     "wof:id":1243503691,
-    "wof:lastmodified":1537661406,
+    "wof:lastmodified":1564176948,
     "wof:name":"Pothana",
     "wof:parent_id":1092057161,
     "wof:placetype":"locality",

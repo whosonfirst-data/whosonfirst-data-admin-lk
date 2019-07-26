@@ -25,6 +25,9 @@
     "iso:country":"LK",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:sin_x_preferred":[
+        "\u0dc0\u0dd0\u0dbd\u0dd2\u0d9a\u0da9"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -48,7 +51,7 @@
         }
     ],
     "wof:id":1293330675,
-    "wof:lastmodified":1537012313,
+    "wof:lastmodified":1564175584,
     "wof:name":"Welikada",
     "wof:parent_id":1092058643,
     "wof:placetype":"locality",

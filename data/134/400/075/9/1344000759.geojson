@@ -25,6 +25,9 @@
     "iso:country":"LK",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0648\u0627\u0648\u0648\u0646\u06cc\u0646\u067e\u0631\u06cc\u06a9\u0648\u0644\u0645"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -49,7 +52,7 @@
         }
     ],
     "wof:id":1344000759,
-    "wof:lastmodified":1537567963,
+    "wof:lastmodified":1564175202,
     "wof:name":"Vavuniyanperiyakulam",
     "wof:parent_id":1092061973,
     "wof:placetype":"locality",

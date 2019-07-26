@@ -26,6 +26,12 @@
     "iso:country":"LK",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Medawala"
+    ],
+    "name:swe_x_preferred":[
+        "Medawala"
+    ],
     "name:und_x_variant":[
         "Medawela",
         "Medawala"
@@ -53,7 +59,7 @@
         }
     ],
     "wof:id":1293639937,
-    "wof:lastmodified":1537661460,
+    "wof:lastmodified":1564175432,
     "wof:name":"Medawala",
     "wof:parent_id":1092059229,
     "wof:placetype":"locality",

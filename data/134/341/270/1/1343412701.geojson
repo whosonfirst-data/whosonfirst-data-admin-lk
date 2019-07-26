@@ -25,6 +25,18 @@
     "iso:country":"LK",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Puthukkudiyiruppu"
+    ],
+    "name:nor_x_preferred":[
+        "Puthukkudiyiruppu"
+    ],
+    "name:sin_x_preferred":[
+        "\u0db4\u0dd4\u0daf\u0dd4\u0d9a\u0dd4\u0da9\u0dd2\u0d89\u0dbb\u0dd4\u0db4\u0dca\u0db4\u0dd4"
+    ],
+    "name:tam_x_preferred":[
+        "\u0baa\u0bc1\u0ba4\u0bc1\u0b95\u0bcd\u0b95\u0bc1\u0b9f\u0bbf\u0baf\u0bbf\u0bb0\u0bc1\u0baa\u0bcd\u0baa\u0bc1"
+    ],
     "name:und_x_variant":[
         "Putukkudiyiruppu",
         "Puthukudirippu",
@@ -56,7 +68,7 @@
         }
     ],
     "wof:id":1343412701,
-    "wof:lastmodified":1537661401,
+    "wof:lastmodified":1564175214,
     "wof:name":"Puthukkudiyiruppu",
     "wof:parent_id":1092065583,
     "wof:placetype":"locality",

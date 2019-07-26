@@ -25,6 +25,9 @@
     "iso:country":"LK",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:sin_x_preferred":[
+        "\u0d9a\u0ddc\u0da7\u0dca\u0da7\u0dcf\u0dc0"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -48,7 +51,7 @@
         }
     ],
     "wof:id":1277130605,
-    "wof:lastmodified":1536699050,
+    "wof:lastmodified":1564175781,
     "wof:name":"Kottawa",
     "wof:parent_id":1092068203,
     "wof:placetype":"locality",

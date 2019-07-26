@@ -25,6 +25,12 @@
     "iso:country":"LK",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Palampiddi"
+    ],
+    "name:swe_x_preferred":[
+        "Palampiddi"
+    ],
     "name:und_x_variant":[
         "Palampiddy",
         "Palampiddi"
@@ -53,7 +59,7 @@
         }
     ],
     "wof:id":1310157095,
-    "wof:lastmodified":1537661425,
+    "wof:lastmodified":1564176406,
     "wof:name":"Palampiddi",
     "wof:parent_id":1092061973,
     "wof:placetype":"locality",

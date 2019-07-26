@@ -37,6 +37,9 @@
     "name:eng_x_variant":[
         "Homagama"
     ],
+    "name:sin_x_preferred":[
+        "\u0dc4\u0ddd\u0db8\u0dcf\u0d9c\u0db8"
+    ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
     "src:population":"statoids",
@@ -72,7 +75,7 @@
         }
     ],
     "wof:id":1092059399,
-    "wof:lastmodified":1553718093,
+    "wof:lastmodified":1564176648,
     "wof:name":"Homagama",
     "wof:parent_id":85673811,
     "wof:placetype":"county",

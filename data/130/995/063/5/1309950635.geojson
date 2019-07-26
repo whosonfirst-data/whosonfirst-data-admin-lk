@@ -25,6 +25,12 @@
     "iso:country":"LK",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:kan_x_preferred":[
+        "\u0c97\u0cc1\u0cb0\u0cc1\u0caa\u0cc1\u0cb0"
+    ],
+    "name:vie_x_preferred":[
+        "Gurupura"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -48,7 +54,7 @@
         }
     ],
     "wof:id":1309950635,
-    "wof:lastmodified":1536722819,
+    "wof:lastmodified":1564176744,
     "wof:name":"Gurupura",
     "wof:parent_id":1092066285,
     "wof:placetype":"locality",

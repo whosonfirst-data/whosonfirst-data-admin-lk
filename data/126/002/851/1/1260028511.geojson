@@ -25,6 +25,9 @@
     "iso:country":"LK",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:sin_x_preferred":[
+        "\u0dbb\u0dad\u0dca\u0d9c\u0db8"
+    ],
     "name:und_x_variant":[
         "Ratgama"
     ],
@@ -51,7 +54,7 @@
         }
     ],
     "wof:id":1260028511,
-    "wof:lastmodified":1537661396,
+    "wof:lastmodified":1564176389,
     "wof:name":"Rathgama",
     "wof:parent_id":1092065839,
     "wof:placetype":"locality",

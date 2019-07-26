@@ -25,6 +25,18 @@
     "iso:country":"LK",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Suthumalai"
+    ],
+    "name:sin_x_preferred":[
+        "\u0dc3\u0dd4\u0dad\u0dd4\u0db8\u0dbd\u0dd9\u0dba\u0dd2"
+    ],
+    "name:swe_x_preferred":[
+        "Suthumalai"
+    ],
+    "name:tam_x_preferred":[
+        "\u0b9a\u0bc1\u0ba4\u0bc1\u0bae\u0bb2\u0bc8"
+    ],
     "name:und_x_variant":[
         "Chutumalai",
         "Suthumalai"
@@ -53,7 +65,7 @@
         }
     ],
     "wof:id":1277025383,
-    "wof:lastmodified":1537661385,
+    "wof:lastmodified":1564175803,
     "wof:name":"Suthumalai",
     "wof:parent_id":1092067213,
     "wof:placetype":"locality",

@@ -26,6 +26,30 @@
     "iso:country":"LK",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bul_x_preferred":[
+        "\u041e\u043f\u0430\u0442\u0430"
+    ],
+    "name:cat_x_preferred":[
+        "\u00d3pates"
+    ],
+    "name:deu_x_preferred":[
+        "Opata"
+    ],
+    "name:fra_x_preferred":[
+        "Opata"
+    ],
+    "name:hrv_x_preferred":[
+        "\u00d3pata"
+    ],
+    "name:lit_x_preferred":[
+        "Opatai"
+    ],
+    "name:mal_x_preferred":[
+        "\u0d12\u0d2a\u0d3e\u0d31\u0d4d\u0d31"
+    ],
+    "name:spa_x_preferred":[
+        "\u00d3pata"
+    ],
     "name:und_x_variant":[
         "Opatha",
         "Opata"
@@ -53,7 +77,7 @@
         }
     ],
     "wof:id":1226482349,
-    "wof:lastmodified":1537661432,
+    "wof:lastmodified":1564177432,
     "wof:name":"Opata",
     "wof:parent_id":1092060643,
     "wof:placetype":"locality",

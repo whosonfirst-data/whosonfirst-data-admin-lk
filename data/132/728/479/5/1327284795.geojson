@@ -25,6 +25,12 @@
     "iso:country":"LK",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Kobbewehera"
+    ],
+    "name:swe_x_preferred":[
+        "Kobbewehera"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -48,7 +54,7 @@
         }
     ],
     "wof:id":1327284795,
-    "wof:lastmodified":1536893856,
+    "wof:lastmodified":1564175084,
     "wof:name":"Kobbewehera",
     "wof:parent_id":1092064907,
     "wof:placetype":"locality",

@@ -25,8 +25,23 @@
     "iso:country":"LK",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Marapana"
+    ],
+    "name:por_x_preferred":[
+        "Marapana"
+    ],
+    "name:swe_x_preferred":[
+        "Marapana"
+    ],
     "name:und_x_variant":[
         "Mapanana"
+    ],
+    "name:vie_x_preferred":[
+        "Marapana"
+    ],
+    "name:war_x_preferred":[
+        "Marapana"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -51,7 +66,7 @@
         }
     ],
     "wof:id":1360238981,
-    "wof:lastmodified":1537661465,
+    "wof:lastmodified":1564176583,
     "wof:name":"Marapana",
     "wof:parent_id":1092065303,
     "wof:placetype":"locality",

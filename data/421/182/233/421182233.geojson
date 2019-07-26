@@ -13,6 +13,12 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ceb_x_preferred":[
+        "Alutgama"
+    ],
+    "name:swe_x_preferred":[
+        "Alutgama"
+    ],
     "qs:gn_country":"LK",
     "qs:gn_fcode":"PPL",
     "qs:gn_id":1251848,
@@ -57,7 +63,7 @@
         }
     ],
     "wof:id":421182233,
-    "wof:lastmodified":1500070316,
+    "wof:lastmodified":1564176794,
     "wof:name":"Alutgama",
     "wof:parent_id":1092057009,
     "wof:placetype":"locality",

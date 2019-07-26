@@ -25,6 +25,12 @@
     "iso:country":"LK",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Ududeniya"
+    ],
+    "name:swe_x_preferred":[
+        "Ududeniya"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -48,7 +54,7 @@
         }
     ],
     "wof:id":1243324563,
-    "wof:lastmodified":1536980773,
+    "wof:lastmodified":1564176953,
     "wof:name":"Ududeniya",
     "wof:parent_id":1092058013,
     "wof:placetype":"locality",

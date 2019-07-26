@@ -31,10 +31,16 @@
     "mps:longitude":80.362179,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Imaduwa"
+    ],
     "name:eng_x_preferred":[
         "Imaduwa"
     ],
     "name:eng_x_variant":[
+        "Imaduwa"
+    ],
+    "name:swe_x_preferred":[
         "Imaduwa"
     ],
     "src:geom":"meso",
@@ -72,7 +78,7 @@
         }
     ],
     "wof:id":1092059573,
-    "wof:lastmodified":1553718093,
+    "wof:lastmodified":1564176656,
     "wof:name":"Imaduwa",
     "wof:parent_id":85673789,
     "wof:placetype":"county",

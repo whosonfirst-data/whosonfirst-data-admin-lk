@@ -25,6 +25,12 @@
     "iso:country":"LK",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bih_x_preferred":[
+        "\u092e\u0939\u0917\u093e\u092e\u093e"
+    ],
+    "name:hin_x_preferred":[
+        "\u092e\u0939\u0917\u093e\u092e\u093e"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -48,7 +54,7 @@
         }
     ],
     "wof:id":1225790875,
-    "wof:lastmodified":1537089675,
+    "wof:lastmodified":1564177507,
     "wof:name":"Mahagama",
     "wof:parent_id":1092059525,
     "wof:placetype":"locality",

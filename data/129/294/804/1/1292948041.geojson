@@ -25,6 +25,12 @@
     "iso:country":"LK",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Dunukewatta"
+    ],
+    "name:swe_x_preferred":[
+        "Dunukewatta"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -48,7 +54,7 @@
         }
     ],
     "wof:id":1292948041,
-    "wof:lastmodified":1537064770,
+    "wof:lastmodified":1564175461,
     "wof:name":"Dunukewatta",
     "wof:parent_id":1092062869,
     "wof:placetype":"locality",

@@ -25,6 +25,9 @@
     "iso:country":"LK",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:urd_x_preferred":[
+        "\u0644\u0627\u0628\u0648\u06af\u0648\u0644\u0627"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -49,7 +52,7 @@
         }
     ],
     "wof:id":1293731123,
-    "wof:lastmodified":1537567995,
+    "wof:lastmodified":1564175613,
     "wof:name":"Labugolla",
     "wof:parent_id":1092061445,
     "wof:placetype":"locality",

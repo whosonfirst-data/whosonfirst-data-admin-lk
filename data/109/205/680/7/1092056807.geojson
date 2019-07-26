@@ -37,6 +37,9 @@
     "name:eng_x_variant":[
         "Baddegama"
     ],
+    "name:sin_x_preferred":[
+        "\u0db6\u0daf\u0dca\u0daf\u0dda\u0d9c\u0db8"
+    ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
     "src:population":"statoids",
@@ -72,7 +75,7 @@
         }
     ],
     "wof:id":1092056807,
-    "wof:lastmodified":1553718091,
+    "wof:lastmodified":1564176651,
     "wof:name":"Baddegama",
     "wof:parent_id":85673789,
     "wof:placetype":"county",

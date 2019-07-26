@@ -25,6 +25,42 @@
     "iso:country":"LK",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Magura"
+    ],
+    "name:ces_x_preferred":[
+        "Magura"
+    ],
+    "name:deu_x_preferred":[
+        "Magura"
+    ],
+    "name:epo_x_preferred":[
+        "Magura"
+    ],
+    "name:nld_x_preferred":[
+        "Magura"
+    ],
+    "name:pol_x_preferred":[
+        "Magura"
+    ],
+    "name:ron_x_preferred":[
+        "Magura"
+    ],
+    "name:rus_x_preferred":[
+        "\u041c\u0430\u0433\u0443\u0440\u0430"
+    ],
+    "name:slk_x_preferred":[
+        "Magura"
+    ],
+    "name:srp_x_preferred":[
+        "\u041c\u0430\u0433\u0443\u0440\u0430"
+    ],
+    "name:swe_x_preferred":[
+        "Magura"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041c\u0430\u0491\u0443\u0440\u0430"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -48,7 +84,7 @@
         }
     ],
     "wof:id":1260327431,
-    "wof:lastmodified":1536652860,
+    "wof:lastmodified":1564176362,
     "wof:name":"Magura",
     "wof:parent_id":1092064831,
     "wof:placetype":"locality",

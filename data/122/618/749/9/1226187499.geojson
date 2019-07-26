@@ -25,6 +25,12 @@
     "iso:country":"LK",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0648\u0644\u0627\u0646\u0647"
+    ],
+    "name:urd_x_preferred":[
+        "\u0648\u0644\u0627\u0646\u06c1"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -48,7 +54,7 @@
         }
     ],
     "wof:id":1226187499,
-    "wof:lastmodified":1537016826,
+    "wof:lastmodified":1564177251,
     "wof:name":"Walana",
     "wof:parent_id":1092067827,
     "wof:placetype":"locality",

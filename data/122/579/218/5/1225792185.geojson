@@ -25,6 +25,12 @@
     "iso:country":"LK",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Ulpotagama"
+    ],
+    "name:swe_x_preferred":[
+        "Ulpotagama"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -48,7 +54,7 @@
         }
     ],
     "wof:id":1225792185,
-    "wof:lastmodified":1537087800,
+    "wof:lastmodified":1564177499,
     "wof:name":"Ulpotagama",
     "wof:parent_id":1092063337,
     "wof:placetype":"locality",

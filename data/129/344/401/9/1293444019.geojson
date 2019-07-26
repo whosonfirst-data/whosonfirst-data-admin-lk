@@ -25,6 +25,45 @@
     "iso:country":"LK",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:cat_x_preferred":[
+        "Beruwala"
+    ],
+    "name:ceb_x_preferred":[
+        "Beruwala"
+    ],
+    "name:ces_x_preferred":[
+        "Beruwala"
+    ],
+    "name:deu_x_preferred":[
+        "Beruwala"
+    ],
+    "name:eus_x_preferred":[
+        "Beruwala"
+    ],
+    "name:fas_x_preferred":[
+        "\u0628\u0631\u0648\u0648\u0627\u0644\u0627"
+    ],
+    "name:fra_x_preferred":[
+        "Beruwela"
+    ],
+    "name:ita_x_preferred":[
+        "Beruwala"
+    ],
+    "name:sin_x_preferred":[
+        "\u0db6\u0dda\u0dbb\u0dd4\u0dc0\u0dbd"
+    ],
+    "name:spa_x_preferred":[
+        "Beruwala"
+    ],
+    "name:swe_x_preferred":[
+        "Beruwala"
+    ],
+    "name:tam_x_preferred":[
+        "\u0baa\u0bc7\u0bb0\u0bc1\u0bb5\u0bb3\u0bc8"
+    ],
+    "name:urd_x_preferred":[
+        "\u0628\u06cc\u0631\u0648\u0648\u0627\u0644\u0627"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -48,7 +87,7 @@
         }
     ],
     "wof:id":1293444019,
-    "wof:lastmodified":1536848753,
+    "wof:lastmodified":1564175628,
     "wof:name":"Beruwala",
     "wof:parent_id":1092058595,
     "wof:placetype":"locality",

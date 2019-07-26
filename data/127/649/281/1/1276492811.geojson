@@ -25,6 +25,12 @@
     "iso:country":"LK",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Mawilmada"
+    ],
+    "name:swe_x_preferred":[
+        "Mawilmada"
+    ],
     "name:und_x_variant":[
         "Mawilmada"
     ],
@@ -52,7 +58,7 @@
         }
     ],
     "wof:id":1276492811,
-    "wof:lastmodified":1537661461,
+    "wof:lastmodified":1564175820,
     "wof:name":"Mavilmada",
     "wof:parent_id":1092065219,
     "wof:placetype":"locality",

@@ -25,6 +25,9 @@
     "iso:country":"LK",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:tam_x_preferred":[
+        "\u0b95\u0bc1\u0bb0\u0bc1\u0bb5\u0bbf\u0b95\u0bc1\u0bb3\u0bae\u0bcd"
+    ],
     "name:und_x_variant":[
         "Kuruwikulam",
         "Kuruvikulam"
@@ -52,7 +55,7 @@
         }
     ],
     "wof:id":1310447269,
-    "wof:lastmodified":1537661483,
+    "wof:lastmodified":1564176511,
     "wof:name":"Kuruvikulam",
     "wof:parent_id":1092065617,
     "wof:placetype":"locality",

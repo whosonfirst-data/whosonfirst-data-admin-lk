@@ -25,6 +25,12 @@
     "iso:country":"LK",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Harasgama"
+    ],
+    "name:swe_x_preferred":[
+        "Harasgama"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -49,7 +55,7 @@
         }
     ],
     "wof:id":1310166663,
-    "wof:lastmodified":1537568007,
+    "wof:lastmodified":1564176501,
     "wof:name":"Harasgama",
     "wof:parent_id":1092062869,
     "wof:placetype":"locality",

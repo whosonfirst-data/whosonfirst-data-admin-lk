@@ -26,6 +26,12 @@
     "iso:country":"LK",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Siyambalagoda"
+    ],
+    "name:swe_x_preferred":[
+        "Siyambalagoda"
+    ],
     "name:und_x_variant":[
         "Siyambalagasgoda",
         "Siyambalagoda"
@@ -53,7 +59,7 @@
         }
     ],
     "wof:id":1343402177,
-    "wof:lastmodified":1537661387,
+    "wof:lastmodified":1564175240,
     "wof:name":"Siyambalagoda",
     "wof:parent_id":1092066355,
     "wof:placetype":"locality",

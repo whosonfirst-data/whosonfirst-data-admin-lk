@@ -25,6 +25,9 @@
     "iso:country":"LK",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0627\u0644\u0627\u06af\u0627\u0644\u0627 \u06a9\u0627\u0646\u062f\u0627\u06af\u0627\u0645\u0627"
+    ],
     "name:und_x_variant":[
         "Alagalla Kondagama"
     ],
@@ -52,7 +55,7 @@
         }
     ],
     "wof:id":1343309027,
-    "wof:lastmodified":1537661605,
+    "wof:lastmodified":1564175148,
     "wof:name":"Kondagama",
     "wof:parent_id":1092059275,
     "wof:placetype":"locality",

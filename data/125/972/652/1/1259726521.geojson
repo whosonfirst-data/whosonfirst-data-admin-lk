@@ -25,6 +25,18 @@
     "iso:country":"LK",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:cat_x_preferred":[
+        "Maha Oya"
+    ],
+    "name:sin_x_preferred":[
+        "\u0db8\u0dc4 \u0d94\u0dba"
+    ],
+    "name:tam_x_preferred":[
+        "\u0bae\u0b95\u0bbe \u0b86\u0bb1\u0bc1"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041c\u0430\u0445\u0430\u043e\u044f"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -48,7 +60,7 @@
         }
     ],
     "wof:id":1259726521,
-    "wof:lastmodified":1537004403,
+    "wof:lastmodified":1564177213,
     "wof:name":"Maha Oya",
     "wof:parent_id":1092062135,
     "wof:placetype":"locality",

@@ -25,6 +25,9 @@
     "iso:country":"LK",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0627\u0645\u0628\u0627\u0646\u0644\u0627"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -48,7 +51,7 @@
         }
     ],
     "wof:id":1209977799,
-    "wof:lastmodified":1536392127,
+    "wof:lastmodified":1564175945,
     "wof:name":"Ambanella",
     "wof:parent_id":1092067535,
     "wof:placetype":"locality",

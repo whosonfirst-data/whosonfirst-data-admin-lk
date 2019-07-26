@@ -25,6 +25,12 @@
     "iso:country":"LK",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Warakawa"
+    ],
+    "name:swe_x_preferred":[
+        "Warakawa"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -49,7 +55,7 @@
         }
     ],
     "wof:id":1310448809,
-    "wof:lastmodified":1537567961,
+    "wof:lastmodified":1564176505,
     "wof:name":"Warakawa",
     "wof:parent_id":1092065105,
     "wof:placetype":"locality",

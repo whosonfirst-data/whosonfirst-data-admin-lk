@@ -25,6 +25,9 @@
     "iso:country":"LK",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0627\u06a9\u0627\u0631\u06cc\u06af\u0627\u0645\u0627"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -48,7 +51,7 @@
         }
     ],
     "wof:id":1226691109,
-    "wof:lastmodified":1536794515,
+    "wof:lastmodified":1564177282,
     "wof:name":"Acharigama",
     "wof:parent_id":1092056653,
     "wof:placetype":"locality",

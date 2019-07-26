@@ -25,6 +25,15 @@
     "iso:country":"LK",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Kuragala"
+    ],
+    "name:sin_x_preferred":[
+        "\u0d9a\u0dd6\u0dbb\u0d9c\u0dbd"
+    ],
+    "name:swe_x_preferred":[
+        "Kuragala"
+    ],
     "name:und_x_variant":[
         "Kiragala"
     ],
@@ -51,7 +60,7 @@
         }
     ],
     "wof:id":1360026797,
-    "wof:lastmodified":1537661502,
+    "wof:lastmodified":1564176644,
     "wof:name":"Kuragala",
     "wof:parent_id":1092061795,
     "wof:placetype":"locality",

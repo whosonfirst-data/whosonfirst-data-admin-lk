@@ -24,6 +24,12 @@
     "iso:country":"LK",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:sin_x_preferred":[
+        "\u0daf\u0dd2\u0db9\u0dd4\u0dbd\u0dcf\u0d9c\u0dbd \u0dbb\u0da2 \u0db8\u0dc4\u0dcf \u0dc0\u0dd2\u0dc4\u0dcf\u0dbb\u0dba"
+    ],
+    "name:tam_x_preferred":[
+        "\u0ba4\u0bbf\u0bae\u0bcd\u0baa\u0bc1\u0bb2\u0bbe\u0b95\u0bb2\u0bc8 \u0bb0\u0b9c \u0bae\u0b95\u0bbe \u0bb5\u0bbf\u0b95\u0bbe\u0bb0\u0bc8"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85632313
@@ -41,7 +47,7 @@
         }
     ],
     "wof:id":1209116661,
-    "wof:lastmodified":1536297231,
+    "wof:lastmodified":1564176092,
     "wof:name":"Dimbulagala Raja Maha Vihara",
     "wof:parent_id":85632313,
     "wof:placetype":"locality",

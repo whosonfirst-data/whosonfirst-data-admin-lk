@@ -37,6 +37,12 @@
     "name:eng_x_variant":[
         "Samanthurai"
     ],
+    "name:sin_x_preferred":[
+        "\u0dc3\u0db8\u0db1\u0dca\u0dad\u0dd4\u0dbb\u0dda"
+    ],
+    "name:tam_x_preferred":[
+        "\u0b9a\u0bae\u0bcd\u0bae\u0bbe\u0ba8\u0bcd\u0ba4\u0bc1\u0bb1\u0bc8"
+    ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
     "src:population":"statoids",
@@ -72,7 +78,7 @@
         }
     ],
     "wof:id":1092066067,
-    "wof:lastmodified":1553718100,
+    "wof:lastmodified":1564176697,
     "wof:name":"Sammanthurai",
     "wof:parent_id":85673733,
     "wof:placetype":"county",

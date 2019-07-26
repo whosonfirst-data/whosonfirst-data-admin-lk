@@ -37,6 +37,9 @@
     "name:eng_x_variant":[
         "Madhu"
     ],
+    "name:hin_x_preferred":[
+        "\u092e\u0927\u0941"
+    ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
     "src:population":"statoids",
@@ -72,7 +75,7 @@
         }
     ],
     "wof:id":1092061973,
-    "wof:lastmodified":1553718096,
+    "wof:lastmodified":1564176687,
     "wof:name":"Madhu",
     "wof:parent_id":85673761,
     "wof:placetype":"county",

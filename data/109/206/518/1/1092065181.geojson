@@ -37,6 +37,9 @@
     "name:eng_x_variant":[
         "Passara"
     ],
+    "name:sin_x_preferred":[
+        "\u0db4\u0dc3\u0dca\u0dc3\u0dbb"
+    ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
     "src:population":"statoids",
@@ -72,7 +75,7 @@
         }
     ],
     "wof:id":1092065181,
-    "wof:lastmodified":1553718099,
+    "wof:lastmodified":1564176682,
     "wof:name":"Passara",
     "wof:parent_id":85673801,
     "wof:placetype":"county",

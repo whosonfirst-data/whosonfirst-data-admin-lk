@@ -37,6 +37,9 @@
     "name:eng_x_variant":[
         "Mirigama"
     ],
+    "name:sin_x_preferred":[
+        "\u0db8\u0dd3\u0dbb\u0dd2\u0d9c\u0db8"
+    ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
     "src:population":"statoids",
@@ -72,7 +75,7 @@
         }
     ],
     "wof:id":1092063403,
-    "wof:lastmodified":1553718097,
+    "wof:lastmodified":1564176683,
     "wof:name":"Mirigama",
     "wof:parent_id":85673815,
     "wof:placetype":"county",

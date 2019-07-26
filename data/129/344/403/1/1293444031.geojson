@@ -25,6 +25,12 @@
     "iso:country":"LK",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Digala"
+    ],
+    "name:swe_x_preferred":[
+        "Digala"
+    ],
     "name:und_x_variant":[
         "Digalla",
         "Digala"
@@ -52,7 +58,7 @@
         }
     ],
     "wof:id":1293444031,
-    "wof:lastmodified":1537661572,
+    "wof:lastmodified":1564175633,
     "wof:name":"Digala",
     "wof:parent_id":1092057621,
     "wof:placetype":"locality",

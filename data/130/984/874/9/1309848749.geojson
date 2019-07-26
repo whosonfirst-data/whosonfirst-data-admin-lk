@@ -25,6 +25,45 @@
     "iso:country":"LK",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bpy_x_preferred":[
+        "\u09ae\u09be\u09a8\u09cd\u09a1\u09aa\u09ae"
+    ],
+    "name:ceb_x_preferred":[
+        "Mandapam"
+    ],
+    "name:hin_x_preferred":[
+        "\u092e\u0923\u094d\u0921\u092a\u092e"
+    ],
+    "name:ita_x_preferred":[
+        "Mandapam"
+    ],
+    "name:msa_x_preferred":[
+        "Mandapam"
+    ],
+    "name:new_x_preferred":[
+        "\u092e\u0928\u094d\u0926\u092a\u092e"
+    ],
+    "name:nld_x_preferred":[
+        "Mandapam"
+    ],
+    "name:nor_x_preferred":[
+        "Mandapam"
+    ],
+    "name:por_x_preferred":[
+        "Mandapam"
+    ],
+    "name:swe_x_preferred":[
+        "Mandapam"
+    ],
+    "name:tam_x_preferred":[
+        "\u0bae\u0ba3\u0bcd\u0b9f\u0baa\u0bae\u0bcd \u0baa\u0bc7\u0bb0\u0bc2\u0bb0\u0bbe\u0b9f\u0bcd\u0b9a\u0bbf"
+    ],
+    "name:vie_x_preferred":[
+        "Mandapam"
+    ],
+    "name:zho_x_preferred":[
+        "\u66fc\u8fbe\u5e15\u59c6"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -48,7 +87,7 @@
         }
     ],
     "wof:id":1309848749,
-    "wof:lastmodified":1536868090,
+    "wof:lastmodified":1564176709,
     "wof:name":"Mandapam",
     "wof:parent_id":1092067095,
     "wof:placetype":"locality",

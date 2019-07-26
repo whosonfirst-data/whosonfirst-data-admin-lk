@@ -25,6 +25,21 @@
     "iso:country":"LK",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Mimana"
+    ],
+    "name:pol_x_preferred":[
+        "Mimana"
+    ],
+    "name:rus_x_preferred":[
+        "\u041c\u0438\u043c\u0430\u043d\u0430"
+    ],
+    "name:spa_x_preferred":[
+        "Mimana"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041c\u0456\u043c\u0430\u043d\u0430"
+    ],
     "name:und_x_variant":[
         "Meemana",
         "Mimana",
@@ -53,7 +68,7 @@
         }
     ],
     "wof:id":1293828275,
-    "wof:lastmodified":1537661453,
+    "wof:lastmodified":1564175502,
     "wof:name":"Mimana",
     "wof:parent_id":1092059431,
     "wof:placetype":"locality",
