@@ -25,6 +25,9 @@
     "iso:country":"LK",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:urd_x_preferred":[
+        "\u062c\u0645\u0628\u0631\u06af\u0648\u062f\u06c1"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85632313
@@ -43,7 +46,7 @@
         }
     ],
     "wof:id":1209560511,
-    "wof:lastmodified":1537568004,
+    "wof:lastmodified":1564176077,
     "wof:name":"Jamburegoda",
     "wof:parent_id":85632313,
     "wof:placetype":"locality",

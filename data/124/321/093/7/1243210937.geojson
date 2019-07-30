@@ -25,6 +25,12 @@
     "iso:country":"LK",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Polmalagama"
+    ],
+    "name:swe_x_preferred":[
+        "Polmalagama"
+    ],
     "name:und_x_variant":[
         "Polmalagama"
     ],
@@ -52,7 +58,7 @@
         }
     ],
     "wof:id":1243210937,
-    "wof:lastmodified":1537661407,
+    "wof:lastmodified":1564177060,
     "wof:name":"Polmelagama",
     "wof:parent_id":1092058735,
     "wof:placetype":"locality",

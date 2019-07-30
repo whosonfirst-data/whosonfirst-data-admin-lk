@@ -25,6 +25,12 @@
     "iso:country":"LK",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Handabowa"
+    ],
+    "name:swe_x_preferred":[
+        "Handabowa"
+    ],
     "name:und_x_variant":[
         "Handabowa"
     ],
@@ -52,7 +58,7 @@
         }
     ],
     "wof:id":1226103211,
-    "wof:lastmodified":1537661543,
+    "wof:lastmodified":1564177221,
     "wof:name":"Handbowa",
     "wof:parent_id":1092059275,
     "wof:placetype":"locality",

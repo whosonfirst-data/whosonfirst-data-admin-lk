@@ -26,6 +26,12 @@
     "iso:country":"LK",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Mawatagama"
+    ],
+    "name:swe_x_preferred":[
+        "Mawatagama"
+    ],
     "name:und_x_variant":[
         "Mawathagama",
         "Mawatagama"
@@ -53,7 +59,7 @@
         }
     ],
     "wof:id":1326479689,
-    "wof:lastmodified":1537661462,
+    "wof:lastmodified":1564175002,
     "wof:name":"Mawatagama",
     "wof:parent_id":1092064137,
     "wof:placetype":"locality",

@@ -25,6 +25,24 @@
     "iso:country":"LK",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Halpe"
+    ],
+    "name:nor_x_preferred":[
+        "Halpe"
+    ],
+    "name:swe_x_preferred":[
+        "Halpe"
+    ],
+    "name:vie_x_preferred":[
+        "Halpe"
+    ],
+    "name:war_x_preferred":[
+        "Halpe"
+    ],
+    "name:zho_x_preferred":[
+        "\u9163\u5f04\u8776\u5c6c"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -48,7 +66,7 @@
         }
     ],
     "wof:id":1343606169,
-    "wof:lastmodified":1537032017,
+    "wof:lastmodified":1564175293,
     "wof:name":"Halpe",
     "wof:parent_id":1092058259,
     "wof:placetype":"locality",

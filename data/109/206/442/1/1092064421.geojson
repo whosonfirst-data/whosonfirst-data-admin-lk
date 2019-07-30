@@ -37,6 +37,12 @@
     "name:eng_x_variant":[
         "Oddusuddan"
     ],
+    "name:nor_x_preferred":[
+        "Oddusuddan"
+    ],
+    "name:tam_x_preferred":[
+        "\u0b92\u0b9f\u0bcd\u0b9f\u0bc1\u0b9a\u0bc1\u0b9f\u0bcd\u0b9f\u0bbe\u0ba9\u0bcd"
+    ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
     "src:population":"statoids",
@@ -72,7 +78,7 @@
         }
     ],
     "wof:id":1092064421,
-    "wof:lastmodified":1553718098,
+    "wof:lastmodified":1564176693,
     "wof:name":"Oddusuddan",
     "wof:parent_id":85673765,
     "wof:placetype":"county",

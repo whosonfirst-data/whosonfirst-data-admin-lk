@@ -37,6 +37,24 @@
     "name:eng_x_variant":[
         "Embilipitiya"
     ],
+    "name:fas_x_preferred":[
+        "\u0627\u0645\u0628\u06cc\u0644\u06cc\u067e\u06cc\u062a\u06cc\u06cc\u0627"
+    ],
+    "name:fra_x_preferred":[
+        "Embilipitiya"
+    ],
+    "name:sin_x_preferred":[
+        "\u0d87\u0db9\u0dd2\u0dbd\u0dd2\u0db4\u0dd2\u0da7\u0dd2\u0dba"
+    ],
+    "name:spa_x_preferred":[
+        "Embilipitiya"
+    ],
+    "name:tam_x_preferred":[
+        "\u0b8e\u0bae\u0bcd\u0baa\u0bbf\u0bb2\u0bbf\u0baa\u0bbf\u0b9f\u0bcd\u0b9f\u0bbf\u0baf\u0bbe"
+    ],
+    "name:urd_x_preferred":[
+        "\u0627\u0645\u0628\u06cc\u0644\u06cc\u067e\u06cc\u062a\u06cc\u06cc\u0627"
+    ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
     "src:population":"statoids",
@@ -72,7 +90,7 @@
         }
     ],
     "wof:id":1092058347,
-    "wof:lastmodified":1553718092,
+    "wof:lastmodified":1564176653,
     "wof:name":"Embilipitiya",
     "wof:parent_id":85673785,
     "wof:placetype":"county",

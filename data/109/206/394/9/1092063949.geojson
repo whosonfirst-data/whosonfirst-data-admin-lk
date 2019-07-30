@@ -37,6 +37,9 @@
     "name:eng_x_variant":[
         "Naula"
     ],
+    "name:sin_x_preferred":[
+        "\u0db1\u0dcf\u0d8b\u0dbd"
+    ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
     "src:population":"statoids",
@@ -72,7 +75,7 @@
         }
     ],
     "wof:id":1092063949,
-    "wof:lastmodified":1553718098,
+    "wof:lastmodified":1564176687,
     "wof:name":"Naula",
     "wof:parent_id":85673723,
     "wof:placetype":"county",

@@ -26,6 +26,9 @@
     "iso:country":"LK",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:sin_x_preferred":[
+        "\u0dc0\u0da9\u0d9a\u0db1\u0dca\u0da9\u0dbd\u0dca"
+    ],
     "name:und_x_variant":[
         "Vaddakandal",
         "Vaddakkandal"
@@ -54,7 +57,7 @@
         }
     ],
     "wof:id":1343996579,
-    "wof:lastmodified":1537661352,
+    "wof:lastmodified":1564175158,
     "wof:name":"Vaddakkandal",
     "wof:parent_id":1092062755,
     "wof:placetype":"locality",

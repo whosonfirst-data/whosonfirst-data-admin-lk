@@ -25,6 +25,15 @@
     "iso:country":"LK",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Moolai"
+    ],
+    "name:swe_x_preferred":[
+        "Moolai"
+    ],
+    "name:tam_x_preferred":[
+        "\u0bae\u0bc2\u0bb3\u0bbe\u0baf\u0bcd"
+    ],
     "name:und_x_variant":[
         "Mulai"
     ],
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":1259421523,
-    "wof:lastmodified":1537661450,
+    "wof:lastmodified":1564177185,
     "wof:name":"Moolai",
     "wof:parent_id":1092067255,
     "wof:placetype":"locality",

@@ -25,6 +25,12 @@
     "iso:country":"LK",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Eregoda"
+    ],
+    "name:swe_x_preferred":[
+        "Eregoda"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -49,7 +55,7 @@
         }
     ],
     "wof:id":1209766253,
-    "wof:lastmodified":1537568014,
+    "wof:lastmodified":1564176011,
     "wof:name":"Eregoda",
     "wof:parent_id":1092058735,
     "wof:placetype":"locality",

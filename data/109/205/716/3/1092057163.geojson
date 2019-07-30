@@ -37,6 +37,9 @@
     "name:eng_x_variant":[
         "Biyagama"
     ],
+    "name:sin_x_preferred":[
+        "\u0db6\u0dd2\u0dba\u0d9c\u0db8"
+    ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
     "src:population":"statoids",
@@ -72,7 +75,7 @@
         }
     ],
     "wof:id":1092057163,
-    "wof:lastmodified":1553718091,
+    "wof:lastmodified":1564176665,
     "wof:name":"Biyagama",
     "wof:parent_id":85673815,
     "wof:placetype":"county",

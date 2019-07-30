@@ -37,6 +37,9 @@
     "name:eng_x_variant":[
         "Padiyathalawa"
     ],
+    "name:sin_x_preferred":[
+        "\u0db4\u0daf\u0dd2\u0dba\u0dad\u0dbd\u0dcf\u0dc0"
+    ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
     "src:population":"statoids",
@@ -72,7 +75,7 @@
         }
     ],
     "wof:id":1092064659,
-    "wof:lastmodified":1553718098,
+    "wof:lastmodified":1564176678,
     "wof:name":"Padiyathalawa",
     "wof:parent_id":85673733,
     "wof:placetype":"county",

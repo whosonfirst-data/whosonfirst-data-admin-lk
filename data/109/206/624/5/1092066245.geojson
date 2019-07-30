@@ -37,6 +37,9 @@
     "name:eng_x_variant":[
         "Sooriyawewa"
     ],
+    "name:urd_x_preferred":[
+        "\u0633\u0648\u0631\u06cc\u0627\u0648\u06cc\u0648\u0627"
+    ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
     "src:population":"statoids",
@@ -72,7 +75,7 @@
         }
     ],
     "wof:id":1092066245,
-    "wof:lastmodified":1553718100,
+    "wof:lastmodified":1564176690,
     "wof:name":"Sooriyawewa",
     "wof:parent_id":85673791,
     "wof:placetype":"county",

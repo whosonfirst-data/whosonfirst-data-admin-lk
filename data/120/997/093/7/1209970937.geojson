@@ -25,6 +25,9 @@
     "iso:country":"LK",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:urd_x_preferred":[
+        "\u067e\u0646\u0688\u06c1\u0627"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -48,7 +51,7 @@
         }
     ],
     "wof:id":1209970937,
-    "wof:lastmodified":1536395066,
+    "wof:lastmodified":1564175948,
     "wof:name":"Pandaha",
     "wof:parent_id":1092057785,
     "wof:placetype":"locality",

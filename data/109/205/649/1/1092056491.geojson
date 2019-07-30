@@ -37,6 +37,15 @@
     "name:eng_x_variant":[
         "Ambalanthota"
     ],
+    "name:fas_x_preferred":[
+        "\u0627\u0645\u0628\u0627\u0644\u0627\u0646\u062a\u0648\u062a\u0627"
+    ],
+    "name:fra_x_preferred":[
+        "Ambalantota"
+    ],
+    "name:sin_x_preferred":[
+        "\u0d85\u0db8\u0dca\u0db6\u0dbd\u0db1\u0dca\u0dad\u0ddc\u0da7"
+    ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
     "src:population":"statoids",
@@ -72,7 +81,7 @@
         }
     ],
     "wof:id":1092056491,
-    "wof:lastmodified":1553718090,
+    "wof:lastmodified":1564176659,
     "wof:name":"Ambalantota",
     "wof:parent_id":85673791,
     "wof:placetype":"county",

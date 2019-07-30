@@ -25,6 +25,27 @@
     "iso:country":"LK",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "Eluvaytivu"
+    ],
+    "name:ceb_x_preferred":[
+        "Eluvaitivu"
+    ],
+    "name:pol_x_preferred":[
+        "Eluvaitivu"
+    ],
+    "name:rus_x_preferred":[
+        "\u042d\u043b\u0443\u0432\u0430\u0439\u0442\u0438\u0432\u0443"
+    ],
+    "name:spa_x_preferred":[
+        "Eluvaitivu"
+    ],
+    "name:swe_x_preferred":[
+        "Eluvaitivu"
+    ],
+    "name:tam_x_preferred":[
+        "\u0b8e\u0bb4\u0bc1\u0bb5\u0bc8\u0ba4\u0bc0\u0bb5\u0bc1"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85632313
@@ -42,7 +63,7 @@
         }
     ],
     "wof:id":1209049411,
-    "wof:lastmodified":1536299299,
+    "wof:lastmodified":1564176062,
     "wof:name":"Eluvaitivu",
     "wof:parent_id":85632313,
     "wof:placetype":"locality",

@@ -37,6 +37,12 @@
     "name:eng_x_variant":[
         "Akkaraipattu"
     ],
+    "name:tam_x_preferred":[
+        "\u0b87\u0bb1\u0b95\u0bcd\u0b95\u0bbe\u0bae\u0bae\u0bcd"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0406\u0440\u0430\u043a\u043a\u0430\u043c\u0430\u043c"
+    ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
     "src:population":"statoids",
@@ -72,7 +78,7 @@
         }
     ],
     "wof:id":1092059725,
-    "wof:lastmodified":1555220362,
+    "wof:lastmodified":1564176665,
     "wof:name":"Irakkamam",
     "wof:parent_id":85673733,
     "wof:placetype":"county",

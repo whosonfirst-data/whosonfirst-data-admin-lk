@@ -25,6 +25,9 @@
     "iso:country":"LK",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:sin_x_preferred":[
+        "\u0db6\u0dd0\u0daf\u0dca\u0daf\u0dda\u0d9c\u0db8"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -48,7 +51,7 @@
         }
     ],
     "wof:id":1259729189,
-    "wof:lastmodified":1537000556,
+    "wof:lastmodified":1564177215,
     "wof:name":"Beddegama",
     "wof:parent_id":1092061057,
     "wof:placetype":"locality",

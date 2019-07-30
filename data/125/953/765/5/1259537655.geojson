@@ -25,6 +25,78 @@
     "iso:country":"LK",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bak_x_preferred":[
+        "\u041a\u0435\u043b\u043b\u0430"
+    ],
+    "name:ceb_x_preferred":[
+        "Kella"
+    ],
+    "name:deu_x_preferred":[
+        "Kella"
+    ],
+    "name:epo_x_preferred":[
+        "Kella"
+    ],
+    "name:eus_x_preferred":[
+        "Kella"
+    ],
+    "name:fra_x_preferred":[
+        "Kella"
+    ],
+    "name:hun_x_preferred":[
+        "Kella"
+    ],
+    "name:ita_x_preferred":[
+        "Kella"
+    ],
+    "name:kaz_x_preferred":[
+        "\u041a\u0435\u043b\u043b\u0430"
+    ],
+    "name:kir_x_preferred":[
+        "\u041a\u0435\u043b\u043b\u0430"
+    ],
+    "name:mkd_x_preferred":[
+        "\u041a\u0435\u043b\u0430"
+    ],
+    "name:msa_x_preferred":[
+        "Kella"
+    ],
+    "name:nld_x_preferred":[
+        "Kella"
+    ],
+    "name:pol_x_preferred":[
+        "Kella"
+    ],
+    "name:por_x_preferred":[
+        "Kella"
+    ],
+    "name:ron_x_preferred":[
+        "Kella"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0435\u043b\u043b\u0430"
+    ],
+    "name:spa_x_preferred":[
+        "Kella"
+    ],
+    "name:srp_x_preferred":[
+        "\u041a\u0435\u043b\u0430"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041a\u0435\u043b\u043b\u0430"
+    ],
+    "name:uzb_x_preferred":[
+        "Kella"
+    ],
+    "name:vie_x_preferred":[
+        "Kella"
+    ],
+    "name:vol_x_preferred":[
+        "Kella"
+    ],
+    "name:war_x_preferred":[
+        "Kella"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -48,7 +120,7 @@
         }
     ],
     "wof:id":1259537655,
-    "wof:lastmodified":1536781497,
+    "wof:lastmodified":1564177068,
     "wof:name":"Kella",
     "wof:parent_id":1092061085,
     "wof:placetype":"locality",

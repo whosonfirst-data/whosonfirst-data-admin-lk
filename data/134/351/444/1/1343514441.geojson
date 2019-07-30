@@ -25,6 +25,9 @@
     "iso:country":"LK",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:guj_x_preferred":[
+        "\u0aaa\u0abe\u0a82\u0aa4\u0abf\u0aaf\u0abe"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -48,7 +51,7 @@
         }
     ],
     "wof:id":1343514441,
-    "wof:lastmodified":1536668459,
+    "wof:lastmodified":1564175283,
     "wof:name":"Pantiya",
     "wof:parent_id":1092062959,
     "wof:placetype":"locality",

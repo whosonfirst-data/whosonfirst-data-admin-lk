@@ -25,6 +25,12 @@
     "iso:country":"LK",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Marawila"
+    ],
+    "name:sin_x_preferred":[
+        "\u0db8\u0dcf\u0dbb\u0dc0\u0dd2\u0dbd"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -48,7 +54,7 @@
         }
     ],
     "wof:id":1326484227,
-    "wof:lastmodified":1537051164,
+    "wof:lastmodified":1564175037,
     "wof:name":"Marawila",
     "wof:parent_id":1092058307,
     "wof:placetype":"locality",

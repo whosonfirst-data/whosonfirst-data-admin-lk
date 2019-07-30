@@ -37,6 +37,9 @@
     "name:eng_x_variant":[
         "Wariyapola"
     ],
+    "name:sin_x_preferred":[
+        "\u0dc0\u0dcf\u0dbb\u0dd2\u0dba\u0db4\u0ddc\u0dbd \u0db1\u0d9c\u0dbb\u0dba"
+    ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
     "src:population":"statoids",
@@ -72,7 +75,7 @@
         }
     ],
     "wof:id":1092067685,
-    "wof:lastmodified":1553718102,
+    "wof:lastmodified":1564176688,
     "wof:name":"Wariyapola",
     "wof:parent_id":85673777,
     "wof:placetype":"county",

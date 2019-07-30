@@ -25,6 +25,12 @@
     "iso:country":"LK",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Vaddukkoddai West"
+    ],
+    "name:swe_x_preferred":[
+        "Vaddukkoddai West"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -49,7 +55,7 @@
         }
     ],
     "wof:id":1193070655,
-    "wof:lastmodified":1537567964,
+    "wof:lastmodified":1564176163,
     "wof:name":"Vaddukkoddai West",
     "wof:parent_id":1092067255,
     "wof:placetype":"locality",

@@ -25,6 +25,54 @@
     "iso:country":"LK",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Kovalam"
+    ],
+    "name:deu_x_preferred":[
+        "Kovalam"
+    ],
+    "name:fra_x_preferred":[
+        "Kovalam"
+    ],
+    "name:hin_x_preferred":[
+        "\u0915\u094b\u0935\u0932\u092e"
+    ],
+    "name:hun_x_preferred":[
+        "Kovalam"
+    ],
+    "name:ita_x_preferred":[
+        "Kovalam"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30b3\u30d0\u30e9\u30e0"
+    ],
+    "name:kor_x_preferred":[
+        "\ucf54\ubc1c\ub78c"
+    ],
+    "name:mai_x_preferred":[
+        "\u0915\u094b\u0935\u0932\u092e"
+    ],
+    "name:mal_x_preferred":[
+        "\u0d15\u0d4b\u0d35\u0d33\u0d02"
+    ],
+    "name:nor_x_preferred":[
+        "Kovalam"
+    ],
+    "name:pan_x_preferred":[
+        "\u0a15\u0a4b\u0a35\u0a32\u0a2e"
+    ],
+    "name:san_x_preferred":[
+        "\u0915\u094b\u0935\u0932\u092e\u094d"
+    ],
+    "name:swe_x_preferred":[
+        "Kovalam"
+    ],
+    "name:tam_x_preferred":[
+        "\u0b95\u0bcb\u0bb5\u0bb3\u0bae\u0bcd"
+    ],
+    "name:zho_x_preferred":[
+        "\u79d1\u74e6\u5170"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -48,7 +96,7 @@
         }
     ],
     "wof:id":1293627685,
-    "wof:lastmodified":1537078946,
+    "wof:lastmodified":1564175392,
     "wof:name":"Kovalam",
     "wof:parent_id":1092060507,
     "wof:placetype":"locality",

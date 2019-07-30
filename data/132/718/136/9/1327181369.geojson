@@ -25,6 +25,9 @@
     "iso:country":"LK",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0627\u0645\u0628\u062a\u0646\u0627"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -49,7 +52,7 @@
         }
     ],
     "wof:id":1327181369,
-    "wof:lastmodified":1537568025,
+    "wof:lastmodified":1564175113,
     "wof:name":"Ambetenna",
     "wof:parent_id":1092059139,
     "wof:placetype":"locality",

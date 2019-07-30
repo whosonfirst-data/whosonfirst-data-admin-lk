@@ -25,6 +25,12 @@
     "iso:country":"LK",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Kaikawala"
+    ],
+    "name:swe_x_preferred":[
+        "Kaikawala"
+    ],
     "name:und_x_variant":[
         "Kayikawala",
         "Kaikawella",
@@ -53,7 +59,7 @@
         }
     ],
     "wof:id":1226704015,
-    "wof:lastmodified":1537661520,
+    "wof:lastmodified":1564177421,
     "wof:name":"Kaikawala",
     "wof:parent_id":1092057133,
     "wof:placetype":"locality",

@@ -25,6 +25,9 @@
     "iso:country":"LK",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:tam_x_preferred":[
+        "\u0b85\u0bb2\u0bcd\u0bb5\u0bbe\u0baf\u0bcd"
+    ],
     "name:und_x_variant":[
         "Alvai",
         "Alvay",
@@ -54,7 +57,7 @@
         }
     ],
     "wof:id":1193179947,
-    "wof:lastmodified":1537661602,
+    "wof:lastmodified":1564176276,
     "wof:name":"Alvai North",
     "wof:parent_id":1092067125,
     "wof:placetype":"locality",

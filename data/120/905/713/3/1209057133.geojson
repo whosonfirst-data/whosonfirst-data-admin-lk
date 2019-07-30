@@ -28,6 +28,9 @@
     "name:und_x_variant":[
         "Yombuweltenna"
     ],
+    "name:urd_x_preferred":[
+        "\u06cc\u0648\u0645\u0628\u0648\u0644\u062a\u06cc\u0646\u0646\u0627"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85632313
@@ -46,7 +49,7 @@
         }
     ],
     "wof:id":1209057133,
-    "wof:lastmodified":1537661328,
+    "wof:lastmodified":1564176085,
     "wof:name":"Yombuwelthenna",
     "wof:parent_id":85632313,
     "wof:placetype":"locality",

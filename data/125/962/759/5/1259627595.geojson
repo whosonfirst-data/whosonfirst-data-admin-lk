@@ -25,6 +25,9 @@
     "iso:country":"LK",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:sin_x_preferred":[
+        "\u0db6\u0ddc\u0dbb\u0dbd\u0dd0\u0dc3\u0dca\u0d9c\u0db8\u0dd4\u0dc0"
+    ],
     "name:und_x_variant":[
         "Boralesgomuwa",
         "Boralesgamuwa",
@@ -54,7 +57,7 @@
         }
     ],
     "wof:id":1259627595,
-    "wof:lastmodified":1537661585,
+    "wof:lastmodified":1564177084,
     "wof:name":"Boralesgamuwa South",
     "wof:parent_id":1092060885,
     "wof:placetype":"locality",

@@ -25,6 +25,15 @@
     "iso:country":"LK",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:jpn_x_preferred":[
+        "\u30a2\u30eb\u30ac\u30e0\u30d9\u30a4"
+    ],
+    "name:sin_x_preferred":[
+        "\u0d86\u0dbb\u0dd4\u0d9c\u0db8\u0dca \u0db6\u0ddc\u0d9a\u0dca\u0d9a"
+    ],
+    "name:tam_x_preferred":[
+        "\u0b85\u0bb1\u0bc1\u0b95\u0bae\u0bcd \u0b95\u0bc1\u0b9f\u0bbe"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569
@@ -45,7 +54,7 @@
         }
     ],
     "wof:id":1243019973,
-    "wof:lastmodified":1537568023,
+    "wof:lastmodified":1564176824,
     "wof:name":"Arugam Bay",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

@@ -25,6 +25,12 @@
     "iso:country":"LK",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Minigamuwa"
+    ],
+    "name:swe_x_preferred":[
+        "Minigamuwa"
+    ],
     "name:und_x_variant":[
         "Minigomuwa",
         "Minigamuwa"
@@ -53,7 +59,7 @@
         }
     ],
     "wof:id":1193239455,
-    "wof:lastmodified":1537661456,
+    "wof:lastmodified":1564176212,
     "wof:name":"Minigamuwa",
     "wof:parent_id":1092059275,
     "wof:placetype":"locality",

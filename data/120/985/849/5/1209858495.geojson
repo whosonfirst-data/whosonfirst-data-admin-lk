@@ -25,6 +25,42 @@
     "iso:country":"LK",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bpy_x_preferred":[
+        "\u09aa\u09c7\u09b0\u09bf\u09af\u09bc\u09be\u0995\u09c1\u09b2\u09ae"
+    ],
+    "name:ceb_x_preferred":[
+        "Periyakulam"
+    ],
+    "name:hif_x_preferred":[
+        "Periyakulam"
+    ],
+    "name:ita_x_preferred":[
+        "Periyakulam"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30da\u30ea\u30e4\u30af\u30e9\u30e0"
+    ],
+    "name:msa_x_preferred":[
+        "Periyakulam"
+    ],
+    "name:ori_x_preferred":[
+        "\u0b2a\u0b47\u0b30\u0b3f\u0b5f\u0b3e\u0b15\u0b41\u0b32\u0b2e"
+    ],
+    "name:por_x_preferred":[
+        "Periyakulam"
+    ],
+    "name:swe_x_preferred":[
+        "Periyakulam"
+    ],
+    "name:tam_x_preferred":[
+        "\u0baa\u0bc6\u0bb0\u0bbf\u0baf\u0b95\u0bc1\u0bb3\u0bae\u0bcd"
+    ],
+    "name:vie_x_preferred":[
+        "Periyakulam"
+    ],
+    "name:zho_x_preferred":[
+        "\u4f69\u91cc\u8036\u5e93\u62c9\u59c6"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -48,7 +84,7 @@
         }
     ],
     "wof:id":1209858495,
-    "wof:lastmodified":1536385271,
+    "wof:lastmodified":1564175998,
     "wof:name":"Periyakulam",
     "wof:parent_id":1092067297,
     "wof:placetype":"locality",

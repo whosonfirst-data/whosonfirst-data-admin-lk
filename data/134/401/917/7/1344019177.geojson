@@ -25,6 +25,9 @@
     "iso:country":"LK",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:urd_x_preferred":[
+        "\u06cc\u062a\u06cc\u0648\u0644\u06c1"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -49,7 +52,7 @@
         }
     ],
     "wof:id":1344019177,
-    "wof:lastmodified":1537567957,
+    "wof:lastmodified":1564175186,
     "wof:name":"Yatiwella",
     "wof:parent_id":1092067535,
     "wof:placetype":"locality",

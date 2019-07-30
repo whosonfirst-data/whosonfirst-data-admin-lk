@@ -25,6 +25,9 @@
     "iso:country":"LK",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:swe_x_preferred":[
+        "Ragala"
+    ],
     "name:und_x_variant":[
         "Ragalla",
         "Ragala"
@@ -52,7 +55,7 @@
         }
     ],
     "wof:id":1226393129,
-    "wof:lastmodified":1537661399,
+    "wof:lastmodified":1564177457,
     "wof:name":"Ragala",
     "wof:parent_id":1092067535,
     "wof:placetype":"locality",

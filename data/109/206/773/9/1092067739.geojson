@@ -37,6 +37,12 @@
     "name:eng_x_variant":[
         "Weeraketiya"
     ],
+    "name:fra_x_preferred":[
+        "Weeraketiya"
+    ],
+    "name:sin_x_preferred":[
+        "\u0dc0\u0dd3\u0dbb\u0d9a\u0dd0\u0da7\u0dd2\u0dba"
+    ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
     "src:population":"statoids",
@@ -72,7 +78,7 @@
         }
     ],
     "wof:id":1092067739,
-    "wof:lastmodified":1553718102,
+    "wof:lastmodified":1564176702,
     "wof:name":"Weeraketiya",
     "wof:parent_id":85673791,
     "wof:placetype":"county",

@@ -25,6 +25,9 @@
     "iso:country":"LK",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:sin_x_preferred":[
+        "\u0db8\u0dcf\u0dbd\u0db6\u0dda"
+    ],
     "name:und_x_variant":[
         "Malbe"
     ],
@@ -51,7 +54,7 @@
         }
     ],
     "wof:id":1242819893,
-    "wof:lastmodified":1537661469,
+    "wof:lastmodified":1564176862,
     "wof:name":"Malabe",
     "wof:parent_id":1092065951,
     "wof:placetype":"locality",

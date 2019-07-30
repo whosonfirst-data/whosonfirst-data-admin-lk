@@ -25,6 +25,12 @@
     "iso:country":"LK",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fin_x_preferred":[
+        "Dimbula"
+    ],
+    "name:tam_x_preferred":[
+        "\u0ba4\u0bbf\u0bae\u0bcd\u0baa\u0bc1\u0bb3\u0bc8"
+    ],
     "name:und_x_variant":[
         "Devon",
         "Dimbula"
@@ -52,7 +58,7 @@
         }
     ],
     "wof:id":1326791683,
-    "wof:lastmodified":1537661571,
+    "wof:lastmodified":1564175019,
     "wof:name":"Dimbula",
     "wof:parent_id":1092064313,
     "wof:placetype":"locality",

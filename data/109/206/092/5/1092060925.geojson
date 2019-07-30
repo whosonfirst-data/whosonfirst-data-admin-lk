@@ -37,6 +37,9 @@
     "name:eng_x_variant":[
         "Kinniya"
     ],
+    "name:tam_x_preferred":[
+        "\u0b95\u0bbf\u0ba3\u0bcd\u0ba3\u0bbf\u0baf\u0bbe"
+    ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
     "src:population":"statoids",
@@ -72,7 +75,7 @@
         }
     ],
     "wof:id":1092060925,
-    "wof:lastmodified":1553718095,
+    "wof:lastmodified":1564176697,
     "wof:name":"Kinniya",
     "wof:parent_id":85673747,
     "wof:placetype":"county",

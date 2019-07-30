@@ -25,6 +25,12 @@
     "iso:country":"LK",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Kalalpitiya"
+    ],
+    "name:swe_x_preferred":[
+        "Kalalpitiya"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -48,7 +54,7 @@
         }
     ],
     "wof:id":1192969041,
-    "wof:lastmodified":1536380318,
+    "wof:lastmodified":1564176241,
     "wof:name":"Kalalpitiya",
     "wof:parent_id":1092067025,
     "wof:placetype":"locality",

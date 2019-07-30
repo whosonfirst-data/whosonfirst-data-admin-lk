@@ -25,8 +25,32 @@
     "iso:country":"LK",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Rozella"
+    ],
+    "name:deu_x_preferred":[
+        "Rozella"
+    ],
+    "name:epo_x_preferred":[
+        "Rozella"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30ed\u30bc\u30e9"
+    ],
+    "name:por_x_preferred":[
+        "Rozella"
+    ],
+    "name:spa_x_preferred":[
+        "Rozella"
+    ],
+    "name:swe_x_preferred":[
+        "Rozella"
+    ],
     "name:und_x_variant":[
         "Rozelle",
+        "Rozella"
+    ],
+    "name:war_x_preferred":[
         "Rozella"
     ],
     "src:geom":"geonames",
@@ -52,7 +76,7 @@
         }
     ],
     "wof:id":1226005845,
-    "wof:lastmodified":1537661392,
+    "wof:lastmodified":1564177467,
     "wof:name":"Rozella",
     "wof:parent_id":1092056403,
     "wof:placetype":"locality",

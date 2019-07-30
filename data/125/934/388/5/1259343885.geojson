@@ -25,6 +25,12 @@
     "iso:country":"LK",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Panwilatenna"
+    ],
+    "name:swe_x_preferred":[
+        "Panwilatenna"
+    ],
     "name:und_x_variant":[
         "Panwilatenna"
     ],
@@ -52,7 +58,7 @@
         }
     ],
     "wof:id":1259343885,
-    "wof:lastmodified":1537661417,
+    "wof:lastmodified":1564177162,
     "wof:name":"Panwilathenna",
     "wof:parent_id":1092058013,
     "wof:placetype":"locality",

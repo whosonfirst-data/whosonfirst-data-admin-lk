@@ -31,10 +31,16 @@
     "mps:longitude":79.983015,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Kaduwela"
+    ],
     "name:eng_x_preferred":[
         "Kaduwela"
     ],
     "name:eng_x_variant":[
+        "Kaduwela"
+    ],
+    "name:swe_x_preferred":[
         "Kaduwela"
     ],
     "src:geom":"meso",
@@ -72,7 +78,7 @@
         }
     ],
     "wof:id":1092059875,
-    "wof:lastmodified":1553718094,
+    "wof:lastmodified":1564176663,
     "wof:name":"Kaduwela",
     "wof:parent_id":85673811,
     "wof:placetype":"county",

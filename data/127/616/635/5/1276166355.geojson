@@ -25,6 +25,12 @@
     "iso:country":"LK",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0648\u062a\u067e\u0644\u06cc"
+    ],
+    "name:tam_x_preferred":[
+        "\u0bb5\u0bb1\u0bcd\u0bb1\u0bbe\u0baa\u0bcd\u0baa\u0bb3\u0bc8"
+    ],
     "name:und_x_variant":[
         "Vattapalai",
         "Vattappalai"
@@ -53,7 +59,7 @@
         }
     ],
     "wof:id":1276166355,
-    "wof:lastmodified":1537661350,
+    "wof:lastmodified":1564175717,
     "wof:name":"Vattappalai",
     "wof:parent_id":1092062793,
     "wof:placetype":"locality",

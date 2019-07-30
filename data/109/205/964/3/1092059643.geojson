@@ -37,6 +37,9 @@
     "name:eng_x_variant":[
         "Ingiriya"
     ],
+    "name:sin_x_preferred":[
+        "\u0d89\u0d82\u0d9c\u0dd2\u0dbb\u0dd2\u0dba"
+    ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
     "src:population":"statoids",
@@ -72,7 +75,7 @@
         }
     ],
     "wof:id":1092059643,
-    "wof:lastmodified":1553718093,
+    "wof:lastmodified":1564176649,
     "wof:name":"Ingiriya",
     "wof:parent_id":85673819,
     "wof:placetype":"county",

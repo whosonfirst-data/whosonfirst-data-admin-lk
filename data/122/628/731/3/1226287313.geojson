@@ -25,6 +25,9 @@
     "iso:country":"LK",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ita_x_preferred":[
+        "Gurutalawa"
+    ],
     "name:und_x_variant":[
         "Gurutalawa"
     ],
@@ -52,7 +55,7 @@
         }
     ],
     "wof:id":1226287313,
-    "wof:lastmodified":1537661546,
+    "wof:lastmodified":1564177222,
     "wof:name":"Guruthalawa",
     "wof:parent_id":1092067933,
     "wof:placetype":"locality",

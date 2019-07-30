@@ -37,6 +37,12 @@
     "name:eng_x_variant":[
         "Yatiyanthota"
     ],
+    "name:sin_x_preferred":[
+        "\u0dba\u0da7\u0dd2\u0dba\u0db1\u0dca\u0dad\u0ddc\u0da7"
+    ],
+    "name:tam_x_preferred":[
+        "\u0b8e\u0b9f\u0bcd\u0b9f\u0bbf\u0baf\u0bbe\u0ba8\u0bcd\u0ba4\u0bcb\u0b9f\u0bcd\u0b9f\u0bc8"
+    ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
     "src:population":"statoids",
@@ -72,7 +78,7 @@
         }
     ],
     "wof:id":1092068305,
-    "wof:lastmodified":1553718102,
+    "wof:lastmodified":1564176699,
     "wof:name":"Yatiyanthota",
     "wof:parent_id":85673807,
     "wof:placetype":"county",

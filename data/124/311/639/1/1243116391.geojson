@@ -25,6 +25,9 @@
     "iso:country":"LK",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:sin_x_preferred":[
+        "\u0d8b\u0da9\u0dd4\u0d9c\u0db8\u0dca\u0db4\u0dc5"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -48,7 +51,7 @@
         }
     ],
     "wof:id":1243116391,
-    "wof:lastmodified":1536784946,
+    "wof:lastmodified":1564177043,
     "wof:name":"Udugampola",
     "wof:parent_id":1092063369,
     "wof:placetype":"locality",

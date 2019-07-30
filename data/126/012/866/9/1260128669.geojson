@@ -25,6 +25,51 @@
     "iso:country":"LK",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bul_x_preferred":[
+        "\u041c\u0430\u0434\u0430\u0440\u0430"
+    ],
+    "name:ceb_x_preferred":[
+        "Madara"
+    ],
+    "name:deu_x_preferred":[
+        "Madara"
+    ],
+    "name:fin_x_preferred":[
+        "Madara"
+    ],
+    "name:fra_x_preferred":[
+        "Madara"
+    ],
+    "name:ind_x_preferred":[
+        "Madara"
+    ],
+    "name:ita_x_preferred":[
+        "Madara"
+    ],
+    "name:lav_x_preferred":[
+        "Madara"
+    ],
+    "name:por_x_preferred":[
+        "Madara"
+    ],
+    "name:rus_x_preferred":[
+        "\u041c\u0430\u0434\u0430\u0440\u0430"
+    ],
+    "name:slk_x_preferred":[
+        "Madara"
+    ],
+    "name:spa_x_preferred":[
+        "Madara"
+    ],
+    "name:swe_x_preferred":[
+        "Madara"
+    ],
+    "name:tgl_x_preferred":[
+        "Madara"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041c\u0430\u0434\u0430\u0440\u0430"
+    ],
     "name:und_x_variant":[
         "Madare"
     ],
@@ -51,7 +96,7 @@
         }
     ],
     "wof:id":1260128669,
-    "wof:lastmodified":1537661479,
+    "wof:lastmodified":1564176317,
     "wof:name":"Madara",
     "wof:parent_id":1092064197,
     "wof:placetype":"locality",

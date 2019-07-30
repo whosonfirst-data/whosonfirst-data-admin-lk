@@ -25,6 +25,12 @@
     "iso:country":"LK",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Rathkarawwa"
+    ],
+    "name:swe_x_preferred":[
+        "Rathkarawwa"
+    ],
     "name:und_x_variant":[
         "Ratharawwa",
         "Rathkarawwa",
@@ -53,7 +59,7 @@
         }
     ],
     "wof:id":1259737307,
-    "wof:lastmodified":1537661395,
+    "wof:lastmodified":1564177163,
     "wof:name":"Rathkarawwa",
     "wof:parent_id":1092058347,
     "wof:placetype":"locality",

@@ -25,6 +25,12 @@
     "iso:country":"LK",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Maliyadda"
+    ],
+    "name:swe_x_preferred":[
+        "Maliyadda"
+    ],
     "name:und_x_variant":[
         "Maliyadde",
         "Maliyadda"
@@ -52,7 +58,7 @@
         }
     ],
     "wof:id":1293241135,
-    "wof:lastmodified":1537661469,
+    "wof:lastmodified":1564175489,
     "wof:name":"Maliyadda",
     "wof:parent_id":1092062987,
     "wof:placetype":"locality",

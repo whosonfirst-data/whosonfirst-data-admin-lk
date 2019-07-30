@@ -25,6 +25,9 @@
     "iso:country":"LK",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0627\u0644\u0627\u06a9\u0648\u0644\u0627\u0648\u06cc\u0648\u0627"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -48,7 +51,7 @@
         }
     ],
     "wof:id":1293450877,
-    "wof:lastmodified":1536838974,
+    "wof:lastmodified":1564175604,
     "wof:name":"Alakolawewa",
     "wof:parent_id":1092059139,
     "wof:placetype":"locality",

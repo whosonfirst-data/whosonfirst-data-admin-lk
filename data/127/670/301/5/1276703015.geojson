@@ -25,6 +25,12 @@
     "iso:country":"LK",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Thanankilappu"
+    ],
+    "name:swe_x_preferred":[
+        "Thanankilappu"
+    ],
     "name:und_x_variant":[
         "Tanakallappu",
         "Tanankilappu"
@@ -53,7 +59,7 @@
         }
     ],
     "wof:id":1276703015,
-    "wof:lastmodified":1537661379,
+    "wof:lastmodified":1564175841,
     "wof:name":"Thanankilappu",
     "wof:parent_id":1092066611,
     "wof:placetype":"locality",

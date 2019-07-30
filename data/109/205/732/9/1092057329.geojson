@@ -37,6 +37,9 @@
     "name:eng_x_variant":[
         "Buttala"
     ],
+    "name:sin_x_preferred":[
+        "\u0db6\u0dd4\u0dad\u0dca\u0dad\u0dbd"
+    ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
     "src:population":"statoids",
@@ -72,7 +75,7 @@
         }
     ],
     "wof:id":1092057329,
-    "wof:lastmodified":1553718091,
+    "wof:lastmodified":1564176658,
     "wof:name":"Buttala",
     "wof:parent_id":85673803,
     "wof:placetype":"county",

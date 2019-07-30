@@ -25,6 +25,9 @@
     "iso:country":"LK",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:sin_x_preferred":[
+        "\u0dc0\u0dd9\u0db1\u0dca\u0db1\u0db4\u0dca\u0db4\u0dd4\u0dc0"
+    ],
     "name:und_x_variant":[
         "Wennappuwa"
     ],
@@ -52,7 +55,7 @@
         }
     ],
     "wof:id":1293833137,
-    "wof:lastmodified":1537661335,
+    "wof:lastmodified":1564175474,
     "wof:name":"Wennappuwa Town",
     "wof:parent_id":1092068121,
     "wof:placetype":"locality",

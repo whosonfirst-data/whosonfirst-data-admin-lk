@@ -25,6 +25,18 @@
     "iso:country":"LK",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "\u09aa\u09be\u09b2\u09cd\u09b2\u09c7\u0995\u09c7\u09b2\u09c7"
+    ],
+    "name:sin_x_preferred":[
+        "\u0db4\u0dbd\u0dca\u0dbd\u0dd9\u0d9a\u0dd0\u0dbd\u0dda"
+    ],
+    "name:tam_x_preferred":[
+        "\u0baa\u0bb2\u0bcd\u0bb2\u0bc7\u0b95\u0bb2\u0bc8"
+    ],
+    "name:urd_x_preferred":[
+        "\u067e\u0627\u0644\u06cc\u06a9\u06cc\u0644\u06d2"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -49,7 +61,7 @@
         }
     ],
     "wof:id":1343805029,
-    "wof:lastmodified":1537568028,
+    "wof:lastmodified":1564175362,
     "wof:name":"Pallekele",
     "wof:parent_id":1092061615,
     "wof:placetype":"locality",

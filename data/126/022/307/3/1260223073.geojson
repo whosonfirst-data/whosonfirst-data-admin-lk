@@ -25,6 +25,9 @@
     "iso:country":"LK",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:tam_x_preferred":[
+        "\u0b95\u0bc1\u0baa\u0bcd\u0baa\u0bbf\u0bb3\u0bbe\u0ba9\u0bcd"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -49,7 +52,7 @@
         }
     ],
     "wof:id":1260223073,
-    "wof:lastmodified":1537567995,
+    "wof:lastmodified":1564176337,
     "wof:name":"Kuppilan",
     "wof:parent_id":1092067131,
     "wof:placetype":"locality",

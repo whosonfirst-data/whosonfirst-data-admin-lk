@@ -25,6 +25,21 @@
     "iso:country":"LK",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Rote"
+    ],
+    "name:deu_x_preferred":[
+        "Rote"
+    ],
+    "name:fra_x_preferred":[
+        "Rote"
+    ],
+    "name:ind_x_preferred":[
+        "Rote"
+    ],
+    "name:wln_x_preferred":[
+        "Rote"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -48,7 +63,7 @@
         }
     ],
     "wof:id":1344198517,
-    "wof:lastmodified":1536676370,
+    "wof:lastmodified":1564175303,
     "wof:name":"Rote",
     "wof:parent_id":1092066355,
     "wof:placetype":"locality",

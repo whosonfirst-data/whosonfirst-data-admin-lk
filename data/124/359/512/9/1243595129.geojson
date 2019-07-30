@@ -25,6 +25,9 @@
     "iso:country":"LK",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Igala"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -48,7 +51,7 @@
         }
     ],
     "wof:id":1243595129,
-    "wof:lastmodified":1537084934,
+    "wof:lastmodified":1564176940,
     "wof:name":"Igala",
     "wof:parent_id":1092058307,
     "wof:placetype":"locality",

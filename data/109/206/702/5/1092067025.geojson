@@ -37,6 +37,9 @@
     "name:eng_x_variant":[
         "Ukuwela"
     ],
+    "name:sin_x_preferred":[
+        "\u0d8b\u0d9a\u0dd4\u0dc0\u0dd9\u0dbd"
+    ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
     "src:population":"statoids",
@@ -72,7 +75,7 @@
         }
     ],
     "wof:id":1092067025,
-    "wof:lastmodified":1553718101,
+    "wof:lastmodified":1564176685,
     "wof:name":"Ukuwela",
     "wof:parent_id":85673723,
     "wof:placetype":"county",

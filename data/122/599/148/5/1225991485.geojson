@@ -26,6 +26,12 @@
     "iso:country":"LK",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Kendaliyadda"
+    ],
+    "name:swe_x_preferred":[
+        "Kendaliyadda"
+    ],
     "name:und_x_variant":[
         "Kendaliadda",
         "Kendaliyadda"
@@ -53,7 +59,7 @@
         }
     ],
     "wof:id":1225991485,
-    "wof:lastmodified":1537661504,
+    "wof:lastmodified":1564177366,
     "wof:name":"Kendaliyadda",
     "wof:parent_id":1092065219,
     "wof:placetype":"locality",

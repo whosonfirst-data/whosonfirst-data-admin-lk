@@ -18,6 +18,12 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:sin_x_preferred":[
+        "\u0db8\u0da7\u0dca\u0da7\u0d9a\u0dca\u0d9a\u0dd4\u0dbd\u0dd2\u0dba"
+    ],
+    "name:tam_x_preferred":[
+        "\u0bae\u0b9f\u0bcd\u0b9f\u0b95\u0bcd\u0b95\u0bc1\u0bb3\u0bbf"
+    ],
     "qs_pg:aaroncc":"LK",
     "qs_pg:gn_country":"LK",
     "qs_pg:gn_fcode":"PPL",
@@ -45,10 +51,10 @@
     "woe:name_adm1":"Western",
     "woe:placetype":"Suburb",
     "wof:belongsto":[
+        85673811,
         102191569,
         85632313,
-        1092057419,
-        85673811
+        1092057419
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -70,7 +76,7 @@
         }
     ],
     "wof:id":1126083955,
-    "wof:lastmodified":1509411301,
+    "wof:lastmodified":1564176797,
     "wof:name":"Mattakkuliya",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

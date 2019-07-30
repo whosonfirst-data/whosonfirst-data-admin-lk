@@ -25,6 +25,9 @@
     "iso:country":"LK",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:sin_x_preferred":[
+        "\u0dc4\u0db4\u0dca\u0db4\u0dcf\u0dc0\u0dbb"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85632313
@@ -43,7 +46,7 @@
         }
     ],
     "wof:id":1209365587,
-    "wof:lastmodified":1537568008,
+    "wof:lastmodified":1564175895,
     "wof:name":"Happawara",
     "wof:parent_id":85632313,
     "wof:placetype":"locality",

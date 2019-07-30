@@ -26,6 +26,12 @@
     "iso:country":"LK",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Bokkawala"
+    ],
+    "name:swe_x_preferred":[
+        "Bokkawala"
+    ],
     "name:und_x_variant":[
         "Bokkawela",
         "Bokkawala"
@@ -54,7 +60,7 @@
         }
     ],
     "wof:id":1243214535,
-    "wof:lastmodified":1537661586,
+    "wof:lastmodified":1564177056,
     "wof:name":"Bokkawala",
     "wof:parent_id":1092065547,
     "wof:placetype":"locality",

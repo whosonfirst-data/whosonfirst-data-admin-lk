@@ -25,6 +25,129 @@
     "iso:country":"LK",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:arc_x_preferred":[
+        "\u0729\u0715\u0720\u0710"
+    ],
+    "name:arg_x_preferred":[
+        "Foyeta"
+    ],
+    "name:ava_x_preferred":[
+        "\u0413\u044a\u0432\u0430\u043d\u0449\u0430"
+    ],
+    "name:bre_x_preferred":[
+        "Kilpenn"
+    ],
+    "name:cat_x_preferred":[
+        "Clatell"
+    ],
+    "name:ces_x_preferred":[
+        "\u0160\u00edje"
+    ],
+    "name:dan_x_preferred":[
+        "Nakke"
+    ],
+    "name:deu_x_preferred":[
+        "Nacken"
+    ],
+    "name:diq_x_preferred":[
+        "M\u0131l"
+    ],
+    "name:ell_x_preferred":[
+        "\u0391\u03c5\u03c7\u03ad\u03bd\u03b1\u03c2"
+    ],
+    "name:eml_x_preferred":[
+        "Cup\u00e8t"
+    ],
+    "name:eus_x_preferred":[
+        "Garondo"
+    ],
+    "name:fas_x_preferred":[
+        "\u067e\u0633 \u06af\u0631\u062f\u0646"
+    ],
+    "name:fin_x_preferred":[
+        "Niska"
+    ],
+    "name:fra_x_preferred":[
+        "Nuque"
+    ],
+    "name:gle_x_preferred":[
+        "Baic"
+    ],
+    "name:glg_x_preferred":[
+        "Caluga"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e2\u05d5\u05e8\u05e3"
+    ],
+    "name:hun_x_preferred":[
+        "Tark\u00f3"
+    ],
+    "name:ido_x_preferred":[
+        "Nuko"
+    ],
+    "name:ind_x_preferred":[
+        "Tengkuk"
+    ],
+    "name:isl_x_preferred":[
+        "Hnakki"
+    ],
+    "name:ita_x_preferred":[
+        "Nuca"
+    ],
+    "name:jpn_x_preferred":[
+        "\u3046\u306a\u3058"
+    ],
+    "name:lbe_x_preferred":[
+        "\u041a\u044a\u0438\u043d\u0442\u0442\u0430"
+    ],
+    "name:lit_x_preferred":[
+        "Sprandas"
+    ],
+    "name:msa_x_preferred":[
+        "Tengkuk"
+    ],
+    "name:nno_x_preferred":[
+        "Nakke"
+    ],
+    "name:nor_x_preferred":[
+        "Nakke"
+    ],
+    "name:pag_x_preferred":[
+        "Tenger"
+    ],
+    "name:pol_x_preferred":[
+        "Kark"
+    ],
+    "name:por_x_preferred":[
+        "Nuca"
+    ],
+    "name:ron_x_preferred":[
+        "Ceaf\u0103"
+    ],
+    "name:rus_x_preferred":[
+        "\u0417\u0430\u0442\u044b\u043b\u043e\u043a"
+    ],
+    "name:scn_x_preferred":[
+        "Cozzu"
+    ],
+    "name:slk_x_preferred":[
+        "V\u00e4zy"
+    ],
+    "name:spa_x_preferred":[
+        "Nuca"
+    ],
+    "name:swe_x_preferred":[
+        "Nacke"
+    ],
+    "name:tgl_x_preferred":[
+        "Batok"
+    ],
+    "name:tur_x_preferred":[
+        "Ense"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041f\u043e\u0442\u0438\u043b\u0438\u0446\u044f"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85632313
@@ -42,7 +165,7 @@
         }
     ],
     "wof:id":1209168187,
-    "wof:lastmodified":1536295671,
+    "wof:lastmodified":1564176095,
     "wof:name":"Nape",
     "wof:parent_id":85632313,
     "wof:placetype":"locality",

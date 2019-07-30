@@ -25,9 +25,24 @@
     "iso:country":"LK",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Peligrosa"
+    ],
+    "name:deu_x_preferred":[
+        "Foul Point"
+    ],
+    "name:nno_x_preferred":[
+        "Foul Point"
+    ],
+    "name:swe_x_preferred":[
+        "Peligrosa"
+    ],
     "name:und_x_variant":[
         "Kevuliya",
         "Foul Point"
+    ],
+    "name:zho_x_preferred":[
+        "\u798f\u723e\u89d2"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -52,7 +67,7 @@
         }
     ],
     "wof:id":1192961271,
-    "wof:lastmodified":1537661558,
+    "wof:lastmodified":1564176239,
     "wof:name":"Foul Point",
     "wof:parent_id":1092063685,
     "wof:placetype":"locality",

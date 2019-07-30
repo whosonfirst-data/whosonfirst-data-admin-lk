@@ -25,6 +25,9 @@
     "iso:country":"LK",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:sin_x_preferred":[
+        "\u0daf\u0dd9\u0db8\u0ddd\u0daf\u0dbb"
+    ],
     "name:und_x_variant":[
         "Demodera"
     ],
@@ -52,7 +55,7 @@
         }
     ],
     "wof:id":1243217179,
-    "wof:lastmodified":1537661574,
+    "wof:lastmodified":1564177062,
     "wof:name":"Demodara",
     "wof:parent_id":1092058259,
     "wof:placetype":"locality",

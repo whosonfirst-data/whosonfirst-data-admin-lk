@@ -25,6 +25,12 @@
     "iso:country":"LK",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Manaboda"
+    ],
+    "name:swe_x_preferred":[
+        "Manaboda"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -49,7 +55,7 @@
         }
     ],
     "wof:id":1293734759,
-    "wof:lastmodified":1537567991,
+    "wof:lastmodified":1564175612,
     "wof:name":"Manaboda",
     "wof:parent_id":1092067025,
     "wof:placetype":"locality",

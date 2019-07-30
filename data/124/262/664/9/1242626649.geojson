@@ -25,6 +25,12 @@
     "iso:country":"LK",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Badabadda"
+    ],
+    "name:swe_x_preferred":[
+        "Badabadda"
+    ],
     "name:und_x_variant":[
         "Badabedda"
     ],
@@ -51,7 +57,7 @@
         }
     ],
     "wof:id":1242626649,
-    "wof:lastmodified":1537661593,
+    "wof:lastmodified":1564177015,
     "wof:name":"Badabadda",
     "wof:parent_id":1092065951,
     "wof:placetype":"locality",

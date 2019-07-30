@@ -25,6 +25,9 @@
     "iso:country":"LK",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:tam_x_preferred":[
+        "\u0b87\u0bb0\u0ba3\u0bc8\u0bae\u0b9f\u0bc1"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85632313
@@ -43,7 +46,7 @@
         }
     ],
     "wof:id":1209653885,
-    "wof:lastmodified":1537568004,
+    "wof:lastmodified":1564175917,
     "wof:name":"Iranamadu",
     "wof:parent_id":85632313,
     "wof:placetype":"locality",

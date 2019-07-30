@@ -25,6 +25,12 @@
     "iso:country":"LK",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Waturakumbura"
+    ],
+    "name:swe_x_preferred":[
+        "Waturakumbura"
+    ],
     "name:und_x_variant":[
         "Waturukumbura",
         "Waturakumbura"
@@ -53,7 +59,7 @@
         }
     ],
     "wof:id":1343819087,
-    "wof:lastmodified":1537661340,
+    "wof:lastmodified":1564175378,
     "wof:name":"Waturakumbura",
     "wof:parent_id":1092068267,
     "wof:placetype":"locality",

@@ -26,6 +26,12 @@
     "iso:country":"LK",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Medakele"
+    ],
+    "name:swe_x_preferred":[
+        "Medakele"
+    ],
     "name:und_x_variant":[
         "Medakelle",
         "Medakele"
@@ -54,7 +60,7 @@
         }
     ],
     "wof:id":1293239433,
-    "wof:lastmodified":1537661460,
+    "wof:lastmodified":1564175492,
     "wof:name":"Medakele",
     "wof:parent_id":1092063337,
     "wof:placetype":"locality",

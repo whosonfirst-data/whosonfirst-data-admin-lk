@@ -37,6 +37,9 @@
     "name:eng_x_variant":[
         "Wennappuwa"
     ],
+    "name:sin_x_preferred":[
+        "\u0dc0\u0dd9\u0db1\u0dca\u0db1\u0db4\u0dca\u0db4\u0dd4\u0dc0"
+    ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
     "src:population":"statoids",
@@ -72,7 +75,7 @@
         }
     ],
     "wof:id":1092068121,
-    "wof:lastmodified":1553718102,
+    "wof:lastmodified":1564176690,
     "wof:name":"Wennappuwa",
     "wof:parent_id":85673779,
     "wof:placetype":"county",

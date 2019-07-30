@@ -25,6 +25,15 @@
     "iso:country":"LK",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Beragala"
+    ],
+    "name:sin_x_preferred":[
+        "\u0db6\u0dd9\u0dbb\u0d9c\u0dbd"
+    ],
+    "name:swe_x_preferred":[
+        "Beragala"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -48,7 +57,7 @@
         }
     ],
     "wof:id":1277130923,
-    "wof:lastmodified":1536698583,
+    "wof:lastmodified":1564175780,
     "wof:name":"Beragala",
     "wof:parent_id":890455861,
     "wof:placetype":"locality",

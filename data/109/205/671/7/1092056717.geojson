@@ -31,10 +31,19 @@
     "mps:longitude":80.442571,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Aranayaka"
+    ],
     "name:eng_x_preferred":[
         "Aranayaka"
     ],
     "name:eng_x_variant":[
+        "Aranayaka"
+    ],
+    "name:sin_x_preferred":[
+        "\u0d85\u0dbb\u0dab\u0dcf\u0dba\u0d9a"
+    ],
+    "name:swe_x_preferred":[
         "Aranayaka"
     ],
     "src:geom":"meso",
@@ -72,7 +81,7 @@
         }
     ],
     "wof:id":1092056717,
-    "wof:lastmodified":1553718091,
+    "wof:lastmodified":1564176659,
     "wof:name":"Aranayaka",
     "wof:parent_id":85673807,
     "wof:placetype":"county",

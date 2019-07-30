@@ -25,6 +25,18 @@
     "iso:country":"LK",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Ariyalai"
+    ],
+    "name:sin_x_preferred":[
+        "\u0d85\u0dbb\u0dd2\u0dba\u0dcf\u0dbd\u0dd9\u0dba\u0dd2"
+    ],
+    "name:swe_x_preferred":[
+        "Ariyalai"
+    ],
+    "name:tam_x_preferred":[
+        "\u0b85\u0bb0\u0bbf\u0baf\u0bbe\u0bb2\u0bc8"
+    ],
     "name:und_x_variant":[
         "Arialai"
     ],
@@ -52,7 +64,7 @@
         }
     ],
     "wof:id":1193229645,
-    "wof:lastmodified":1537661596,
+    "wof:lastmodified":1564176214,
     "wof:name":"Ariyalai",
     "wof:parent_id":1092063801,
     "wof:placetype":"locality",

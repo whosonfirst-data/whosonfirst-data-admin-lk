@@ -37,6 +37,9 @@
     "name:eng_x_variant":[
         "Lunugala"
     ],
+    "name:sin_x_preferred":[
+        "\u0dbd\u0dd4\u0dab\u0dd4\u0d9c\u0dbd"
+    ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
     "src:population":"statoids",
@@ -72,7 +75,7 @@
         }
     ],
     "wof:id":1092061877,
-    "wof:lastmodified":1553718096,
+    "wof:lastmodified":1564176679,
     "wof:name":"Lunugala",
     "wof:parent_id":85673801,
     "wof:placetype":"county",

@@ -29,6 +29,9 @@
     "name:eng_x_preferred":[
         "Vidaththaltheevu"
     ],
+    "name:tam_x_preferred":[
+        "\u0bb5\u0bbf\u0b9f\u0ba4\u0bcd\u0ba4\u0bb2\u0bcd\u0ba4\u0bc0\u0bb5\u0bc1"
+    ],
     "name:und_x_variant":[
         "Vidattaitivu",
         "Vidataltivu"
@@ -53,7 +56,7 @@
         }
     ],
     "wof:id":1344099435,
-    "wof:lastmodified":1537661348,
+    "wof:lastmodified":1564175193,
     "wof:name":"Vidattaltivu",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

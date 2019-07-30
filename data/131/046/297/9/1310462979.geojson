@@ -25,6 +25,12 @@
     "iso:country":"LK",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Digana"
+    ],
+    "name:swe_x_preferred":[
+        "Digana"
+    ],
     "name:und_x_variant":[
         "Digane",
         "Digana"
@@ -52,7 +58,7 @@
         }
     ],
     "wof:id":1310462979,
-    "wof:lastmodified":1537661572,
+    "wof:lastmodified":1564176426,
     "wof:name":"Digana",
     "wof:parent_id":1092061615,
     "wof:placetype":"locality",

@@ -37,6 +37,9 @@
     "name:eng_x_variant":[
         "Ambanpola"
     ],
+    "name:sin_x_preferred":[
+        "\u0d85\u0db9\u0db1\u0dca\u0db4\u0ddc\u0dbd"
+    ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
     "src:population":"statoids",
@@ -72,7 +75,7 @@
         }
     ],
     "wof:id":1092056565,
-    "wof:lastmodified":1553718090,
+    "wof:lastmodified":1564176652,
     "wof:name":"Ambanpola",
     "wof:parent_id":85673777,
     "wof:placetype":"county",

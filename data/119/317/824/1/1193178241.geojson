@@ -25,6 +25,12 @@
     "iso:country":"LK",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Galagama"
+    ],
+    "name:swe_x_preferred":[
+        "Galagama"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -48,7 +54,7 @@
         }
     ],
     "wof:id":1193178241,
-    "wof:lastmodified":1536373022,
+    "wof:lastmodified":1564176277,
     "wof:name":"Galagama",
     "wof:parent_id":1092057133,
     "wof:placetype":"locality",

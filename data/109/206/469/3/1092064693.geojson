@@ -37,6 +37,9 @@
     "name:eng_x_variant":[
         "Padukka"
     ],
+    "name:sin_x_preferred":[
+        "\u0db4\u0dcf\u0daf\u0dd4\u0d9a\u0dca\u0d9a"
+    ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
     "src:population":"statoids",
@@ -72,7 +75,7 @@
         }
     ],
     "wof:id":1092064693,
-    "wof:lastmodified":1553718098,
+    "wof:lastmodified":1564176695,
     "wof:name":"Padukka",
     "wof:parent_id":85673811,
     "wof:placetype":"county",

@@ -25,6 +25,12 @@
     "iso:country":"LK",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Kalahe"
+    ],
+    "name:swe_x_preferred":[
+        "Kalahe"
+    ],
     "name:und_x_variant":[
         "Kalahe"
     ],
@@ -52,7 +58,7 @@
         }
     ],
     "wof:id":1326583595,
-    "wof:lastmodified":1537661519,
+    "wof:lastmodified":1564174921,
     "wof:name":"Kalahe South",
     "wof:parent_id":1092056215,
     "wof:placetype":"locality",

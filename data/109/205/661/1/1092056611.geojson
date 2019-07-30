@@ -31,10 +31,19 @@
     "mps:longitude":79.99659,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Anamaduwa"
+    ],
     "name:eng_x_preferred":[
         "Anamaduwa"
     ],
     "name:eng_x_variant":[
+        "Anamaduwa"
+    ],
+    "name:sin_x_preferred":[
+        "\u0d86\u0dab\u0db8\u0da9\u0dd4\u0dc0"
+    ],
+    "name:swe_x_preferred":[
         "Anamaduwa"
     ],
     "src:geom":"meso",
@@ -72,7 +81,7 @@
         }
     ],
     "wof:id":1092056611,
-    "wof:lastmodified":1553718091,
+    "wof:lastmodified":1564176653,
     "wof:name":"Anamaduwa",
     "wof:parent_id":85673779,
     "wof:placetype":"county",
