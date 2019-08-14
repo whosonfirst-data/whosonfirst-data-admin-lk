@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "district"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "BD"
+    ],
     "lbl:latitude":6.990732,
     "lbl:longitude":81.061654,
     "mps:latitude":7.006628,
@@ -267,9 +270,6 @@
         }
     ],
     "wof:id":85673801,
-    "wof:lang":[
-        "eng"
-    ],
     "wof:lang_x_official":[
         "sin",
         "tam"
@@ -278,7 +278,7 @@
         "sin",
         "tam"
     ],
-    "wof:lastmodified":1563571820,
+    "wof:lastmodified":1565726591,
     "wof:name":"Badulla",
     "wof:parent_id":85632313,
     "wof:placetype":"region",

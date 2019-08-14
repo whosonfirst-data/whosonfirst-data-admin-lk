@@ -16,6 +16,9 @@
     "label:eng_x_preferred_placetype":[
         "district"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "KT"
+    ],
     "lbl:latitude":6.551752,
     "lbl:longitude":80.121304,
     "mps:latitude":6.554269,
@@ -266,9 +269,6 @@
         }
     ],
     "wof:id":85673819,
-    "wof:lang":[
-        "eng"
-    ],
     "wof:lang_x_official":[
         "sin",
         "tam"
@@ -277,7 +277,7 @@
         "sin",
         "tam"
     ],
-    "wof:lastmodified":1563571819,
+    "wof:lastmodified":1565726591,
     "wof:name":"Ka\u1e37utara",
     "wof:parent_id":85632313,
     "wof:placetype":"region",

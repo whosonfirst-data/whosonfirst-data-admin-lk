@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "district"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "NW"
+    ],
     "lbl:latitude":6.988476,
     "lbl:longitude":80.707689,
     "mps:latitude":6.989816,
@@ -267,9 +270,6 @@
         }
     ],
     "wof:id":85673731,
-    "wof:lang":[
-        "eng"
-    ],
     "wof:lang_x_official":[
         "sin",
         "tam"
@@ -278,7 +278,7 @@
         "sin",
         "tam"
     ],
-    "wof:lastmodified":1563571812,
+    "wof:lastmodified":1565726590,
     "wof:name":"Nuvara \u0114liya",
     "wof:parent_id":85632313,
     "wof:placetype":"region",

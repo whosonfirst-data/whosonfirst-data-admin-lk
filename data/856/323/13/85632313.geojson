@@ -15,6 +15,9 @@
     "itu:country_code":[
         "94"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "LK"
+    ],
     "lbl:latitude":7.622919,
     "lbl:longitude":80.68822,
     "mps:latitude":7.622919,
@@ -1006,9 +1009,6 @@
         }
     ],
     "wof:id":85632313,
-    "wof:lang":[
-        "eng"
-    ],
     "wof:lang_x_official":[
         "sin",
         "tam"
@@ -1017,7 +1017,7 @@
         "sin",
         "tam"
     ],
-    "wof:lastmodified":1563571825,
+    "wof:lastmodified":1565726591,
     "wof:name":"Sri Lanka",
     "wof:parent_id":102191569,
     "wof:placetype":"country",

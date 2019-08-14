@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "district"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "KL"
+    ],
     "lbl:latitude":9.384528,
     "lbl:longitude":80.239282,
     "mps:latitude":9.3769,
@@ -264,9 +267,6 @@
         }
     ],
     "wof:id":85673773,
-    "wof:lang":[
-        "eng"
-    ],
     "wof:lang_x_official":[
         "sin",
         "tam"
@@ -275,7 +275,7 @@
         "sin",
         "tam"
     ],
-    "wof:lastmodified":1563571810,
+    "wof:lastmodified":1565726589,
     "wof:name":"Kilin\u014fchchi",
     "wof:parent_id":85632313,
     "wof:placetype":"region",

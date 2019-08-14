@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "district"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "RN"
+    ],
     "lbl:latitude":6.579552,
     "lbl:longitude":80.565741,
     "mps:latitude":6.579447,
@@ -268,9 +271,6 @@
         }
     ],
     "wof:id":85673785,
-    "wof:lang":[
-        "eng"
-    ],
     "wof:lang_x_official":[
         "sin",
         "tam"
@@ -279,7 +279,7 @@
         "sin",
         "tam"
     ],
-    "wof:lastmodified":1563571817,
+    "wof:lastmodified":1565726590,
     "wof:name":"Ratnapura",
     "wof:parent_id":85632313,
     "wof:placetype":"region",

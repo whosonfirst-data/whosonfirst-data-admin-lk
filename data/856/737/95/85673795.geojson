@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "district"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "MH"
+    ],
     "lbl:latitude":6.107596,
     "lbl:longitude":80.54346,
     "mps:latitude":6.106866,
@@ -267,9 +270,6 @@
         }
     ],
     "wof:id":85673795,
-    "wof:lang":[
-        "eng"
-    ],
     "wof:lang_x_official":[
         "sin",
         "tam"
@@ -278,7 +278,7 @@
         "sin",
         "tam"
     ],
-    "wof:lastmodified":1563571807,
+    "wof:lastmodified":1565726589,
     "wof:name":"M\u0101tara",
     "wof:parent_id":85632313,
     "wof:placetype":"region",

@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "district"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "KY"
+    ],
     "lbl:latitude":7.262114,
     "lbl:longitude":80.639504,
     "mps:latitude":7.272187,
@@ -222,9 +225,6 @@
         }
     ],
     "wof:id":85673719,
-    "wof:lang":[
-        "eng"
-    ],
     "wof:lang_x_official":[
         "sin",
         "tam"
@@ -233,7 +233,7 @@
         "sin",
         "tam"
     ],
-    "wof:lastmodified":1563571811,
+    "wof:lastmodified":1565726589,
     "wof:name":"Mahanuvara",
     "wof:parent_id":85632313,
     "wof:placetype":"region",

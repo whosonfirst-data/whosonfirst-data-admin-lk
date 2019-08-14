@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "district"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "KE"
+    ],
     "lbl:latitude":7.063049,
     "lbl:longitude":80.323621,
     "mps:latitude":7.071854,
@@ -262,9 +265,6 @@
         }
     ],
     "wof:id":85673807,
-    "wof:lang":[
-        "eng"
-    ],
     "wof:lang_x_official":[
         "sin",
         "tam"
@@ -273,7 +273,7 @@
         "sin",
         "tam"
     ],
-    "wof:lastmodified":1563571820,
+    "wof:lastmodified":1565726591,
     "wof:name":"K\u00e6galla",
     "wof:parent_id":85632313,
     "wof:placetype":"region",

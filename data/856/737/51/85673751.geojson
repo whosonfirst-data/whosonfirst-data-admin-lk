@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "district"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "AD"
+    ],
     "lbl:latitude":8.340481,
     "lbl:longitude":80.520478,
     "mps:latitude":8.342778,
@@ -222,9 +225,6 @@
         }
     ],
     "wof:id":85673751,
-    "wof:lang":[
-        "eng"
-    ],
     "wof:lang_x_official":[
         "sin",
         "tam"
@@ -233,7 +233,7 @@
         "sin",
         "tam"
     ],
-    "wof:lastmodified":1563571809,
+    "wof:lastmodified":1565726589,
     "wof:name":"Anur\u0101dhapura",
     "wof:parent_id":85632313,
     "wof:placetype":"region",

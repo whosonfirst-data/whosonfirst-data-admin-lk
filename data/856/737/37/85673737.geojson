@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "district"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "BC"
+    ],
     "lbl:latitude":7.772282,
     "lbl:longitude":81.472769,
     "mps:latitude":7.799919,
@@ -224,9 +227,6 @@
         }
     ],
     "wof:id":85673737,
-    "wof:lang":[
-        "eng"
-    ],
     "wof:lang_x_official":[
         "sin",
         "tam"
@@ -235,7 +235,7 @@
         "sin",
         "tam"
     ],
-    "wof:lastmodified":1563571814,
+    "wof:lastmodified":1565726590,
     "wof:name":"Ma\u1e0dakalapuva",
     "wof:parent_id":85632313,
     "wof:placetype":"region",

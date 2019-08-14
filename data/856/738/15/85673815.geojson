@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "district"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "GQ"
+    ],
     "lbl:latitude":7.118013,
     "lbl:longitude":80.014437,
     "mps:latitude":7.115218,
@@ -267,9 +270,6 @@
         }
     ],
     "wof:id":85673815,
-    "wof:lang":[
-        "eng"
-    ],
     "wof:lang_x_official":[
         "sin",
         "tam"
@@ -278,7 +278,7 @@
         "sin",
         "tam"
     ],
-    "wof:lastmodified":1563571821,
+    "wof:lastmodified":1565726591,
     "wof:name":"Gampaha",
     "wof:parent_id":85632313,
     "wof:placetype":"region",

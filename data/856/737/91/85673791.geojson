@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "district"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "HB"
+    ],
     "lbl:latitude":6.268658,
     "lbl:longitude":81.109386,
     "mps:latitude":6.271143,
@@ -267,9 +270,6 @@
         }
     ],
     "wof:id":85673791,
-    "wof:lang":[
-        "eng"
-    ],
     "wof:lang_x_official":[
         "sin",
         "tam"
@@ -278,7 +278,7 @@
         "sin",
         "tam"
     ],
-    "wof:lastmodified":1563571813,
+    "wof:lastmodified":1565726590,
     "wof:name":"Hambant\u014f\u1e6da",
     "wof:parent_id":85632313,
     "wof:placetype":"region",

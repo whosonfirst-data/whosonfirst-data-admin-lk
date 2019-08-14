@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "district"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "GL"
+    ],
     "lbl:latitude":6.20211,
     "lbl:longitude":80.232855,
     "mps:latitude":6.198099,
@@ -267,9 +270,6 @@
         }
     ],
     "wof:id":85673789,
-    "wof:lang":[
-        "eng"
-    ],
     "wof:lang_x_official":[
         "sin",
         "tam"
@@ -278,7 +278,7 @@
         "sin",
         "tam"
     ],
-    "wof:lastmodified":1563571810,
+    "wof:lastmodified":1565726589,
     "wof:name":"G\u0101lla",
     "wof:parent_id":85632313,
     "wof:placetype":"region",

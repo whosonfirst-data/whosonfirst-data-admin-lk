@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "district"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "CO"
+    ],
     "lbl:latitude":6.849977,
     "lbl:longitude":79.959019,
     "mps:latitude":6.847316,
@@ -231,9 +234,6 @@
         }
     ],
     "wof:id":85673811,
-    "wof:lang":[
-        "eng"
-    ],
     "wof:lang_x_official":[
         "sin",
         "tam"
@@ -242,7 +242,7 @@
         "sin",
         "tam"
     ],
-    "wof:lastmodified":1563571819,
+    "wof:lastmodified":1565726591,
     "wof:name":"K\u014f\u1e37amba",
     "wof:parent_id":85632313,
     "wof:placetype":"region",

@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "district"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "AP"
+    ],
     "lbl:latitude":7.257023,
     "lbl:longitude":81.700411,
     "mps:latitude":7.223084,
@@ -264,9 +267,6 @@
         }
     ],
     "wof:id":85673733,
-    "wof:lang":[
-        "eng"
-    ],
     "wof:lang_x_official":[
         "sin",
         "tam"
@@ -275,7 +275,7 @@
         "sin",
         "tam"
     ],
-    "wof:lastmodified":1563571809,
+    "wof:lastmodified":1565726589,
     "wof:name":"Amp\u0101ra",
     "wof:parent_id":85632313,
     "wof:placetype":"region",

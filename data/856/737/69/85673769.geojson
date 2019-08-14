@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "district"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "JA"
+    ],
     "lbl:latitude":9.734635,
     "lbl:longitude":80.199283,
     "mps:latitude":9.676334,
@@ -218,9 +221,6 @@
         }
     ],
     "wof:id":85673769,
-    "wof:lang":[
-        "eng"
-    ],
     "wof:lang_x_official":[
         "sin",
         "tam"
@@ -229,7 +229,7 @@
         "sin",
         "tam"
     ],
-    "wof:lastmodified":1563571808,
+    "wof:lastmodified":1565726589,
     "wof:name":"Y\u0101panaya",
     "wof:parent_id":85632313,
     "wof:placetype":"region",

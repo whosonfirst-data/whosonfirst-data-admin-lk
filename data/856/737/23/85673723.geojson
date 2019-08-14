@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "district"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "MT"
+    ],
     "lbl:latitude":7.597581,
     "lbl:longitude":80.692779,
     "mps:latitude":7.594027,
@@ -267,9 +270,6 @@
         }
     ],
     "wof:id":85673723,
-    "wof:lang":[
-        "eng"
-    ],
     "wof:lang_x_official":[
         "sin",
         "tam"
@@ -278,7 +278,7 @@
         "sin",
         "tam"
     ],
-    "wof:lastmodified":1563571816,
+    "wof:lastmodified":1565726590,
     "wof:name":"M\u0101tale",
     "wof:parent_id":85632313,
     "wof:placetype":"region",
