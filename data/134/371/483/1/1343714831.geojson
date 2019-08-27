@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Colombo",
     "iso:country":"LK",
+    "lbl:bbox":"79.943,7.0452,79.983,7.0852",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:fra_x_preferred":[
         "Ganemulla"
     ],
@@ -58,7 +62,7 @@
         }
     ],
     "wof:id":1343714831,
-    "wof:lastmodified":1564175231,
+    "wof:lastmodified":1566594343,
     "wof:name":"Ganemulla",
     "wof:parent_id":1092058643,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Colombo",
     "iso:country":"LK",
+    "lbl:bbox":"80.5439,7.3962,80.5839,7.4362",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Galhinna"
     ],
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":1343908687,
-    "wof:lastmodified":1564175166,
+    "wof:lastmodified":1566594300,
     "wof:name":"Galhinna",
     "wof:parent_id":1092065547,
     "wof:placetype":"locality",

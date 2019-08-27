@@ -10,8 +10,12 @@
     "geom:latitude":6.024,
     "geom:longitude":80.7911,
     "iso:country":"LK",
+    "lbl:bbox":"80.7711,6.004,80.8111,6.044",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ara_x_preferred":[
         "\u062a\u0627\u0646\u062c\u0627\u0644\u064a"
@@ -158,7 +162,7 @@
     "wof:concordances":{
         "gn:id":1227037,
         "gp:id":2189733,
-        "qs:id":890015,
+        "qs_pg:id":890015,
         "wd:id":"Q598658",
         "wk:page":"Tangalle"
     },
@@ -175,7 +179,7 @@
         }
     ],
     "wof:id":421174635,
-    "wof:lastmodified":1563573258,
+    "wof:lastmodified":1566595371,
     "wof:name":"Tangalla",
     "wof:parent_id":1092066355,
     "wof:placetype":"locality",

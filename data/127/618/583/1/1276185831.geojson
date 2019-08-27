@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Colombo",
     "iso:country":"LK",
+    "lbl:bbox":"80.6081,7.0769,80.6481,7.1169",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1276185831,
-    "wof:lastmodified":1536976150,
+    "wof:lastmodified":1566594654,
     "wof:name":"Rothschildwatta",
     "wof:parent_id":1092066967,
     "wof:placetype":"locality",

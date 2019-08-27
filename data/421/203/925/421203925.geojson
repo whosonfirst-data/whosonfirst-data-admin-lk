@@ -10,8 +10,11 @@
     "geom:latitude":6.8914,
     "geom:longitude":79.8522,
     "iso:country":"LK",
+    "lbl:bbox":"79.8472,6.8864,79.8572,6.8964",
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":15.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:eng_x_preferred":[
         "Bambalapitiya"
@@ -58,7 +61,7 @@
     "wof:concordances":{
         "gn:id":1250447,
         "gp:id":2174312,
-        "qs:id":235503,
+        "qs_pg:id":235503,
         "wd:id":"Q4853319",
         "wk:page":"Bambalapitiya"
     },
@@ -76,7 +79,7 @@
         }
     ],
     "wof:id":421203925,
-    "wof:lastmodified":1563573252,
+    "wof:lastmodified":1566595369,
     "wof:name":"Bambalapitiya",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

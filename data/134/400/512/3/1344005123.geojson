@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Colombo",
     "iso:country":"LK",
+    "lbl:bbox":"80.6276,7.4539,80.6676,7.4939",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ces_x_preferred":[
         "Dambe"
     ],
@@ -60,7 +64,7 @@
         }
     ],
     "wof:id":1344005123,
-    "wof:lastmodified":1564175205,
+    "wof:lastmodified":1566594326,
     "wof:name":"Dambe",
     "wof:parent_id":1092065885,
     "wof:placetype":"locality",

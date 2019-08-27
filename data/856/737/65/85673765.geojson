@@ -22,6 +22,7 @@
     ],
     "lbl:latitude":9.2454,
     "lbl:longitude":80.58415,
+    "lbl:min_zoom":8.0,
     "mps:latitude":9.240429,
     "mps:longitude":80.566863,
     "mz:hierarchy_label":1,
@@ -249,9 +250,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2012-03-20",
+    "src:population_date":"2012-03-20",
     "statoids:area_km":"1,580",
     "statoids:area_mi":"610",
     "statoids:as_of_date":"2012-03-20",
@@ -278,7 +279,7 @@
         "gp:id":23706505,
         "hasc:id":"LK.MP",
         "iso:id":"LK-45",
-        "qs:id":1236499,
+        "qs_pg:id":1236499,
         "wd:id":"Q1587508"
     },
     "wof:country":"LK",
@@ -299,11 +300,10 @@
         "sin",
         "tam"
     ],
-    "wof:lastmodified":1565726590,
+    "wof:lastmodified":1566594446,
     "wof:name":"Mulativ",
     "wof:parent_id":85632313,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"district",
     "wof:population":92238,
     "wof:population_rank":8,

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Colombo",
     "iso:country":"LK",
+    "lbl:bbox":"80.9819,7.0031,81.0219,7.0431",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Hadiakumbura",
         "Handiyakumbura"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1343811509,
-    "wof:lastmodified":1537661543,
+    "wof:lastmodified":1566594436,
     "wof:name":"Handiyakumbura",
     "wof:parent_id":1092059057,
     "wof:placetype":"locality",

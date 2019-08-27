@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Colombo",
     "iso:country":"LK",
+    "lbl:bbox":"79.954,6.4429,79.994,6.4829",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:sin_x_preferred":[
         "\u0db8\u0dbb\u0daf\u0dcf\u0db1"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1360237861,
-    "wof:lastmodified":1564176585,
+    "wof:lastmodified":1566595225,
     "wof:name":"Maradana",
     "wof:parent_id":1092057157,
     "wof:placetype":"locality",

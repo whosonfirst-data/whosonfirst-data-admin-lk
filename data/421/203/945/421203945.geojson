@@ -10,6 +10,9 @@
     "geom:latitude":9.3961,
     "geom:longitude":80.3982,
     "iso:country":"LK",
+    "lbl:bbox":"80.3782,9.3761,80.4182,9.4161",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.7,
@@ -134,7 +137,7 @@
     "name:ukr_x_preferred":[
         "\u041a\u0456\u043b\u0456\u043d\u043e\u0447\u0447\u0456"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Killinochchi"
     ],
     "name:urd_x_preferred":[
@@ -268,7 +271,7 @@
     "wof:concordances":{
         "gn:id":1240372,
         "gp:id":2189742,
-        "qs:id":235519,
+        "qs_pg:id":235519,
         "wd:id":"Q303317",
         "wk:page":"Kilinochchi"
     },
@@ -285,7 +288,7 @@
         }
     ],
     "wof:id":421203945,
-    "wof:lastmodified":1563573254,
+    "wof:lastmodified":1566595370,
     "wof:name":"Kilinochchi",
     "wof:parent_id":1092060465,
     "wof:placetype":"locality",

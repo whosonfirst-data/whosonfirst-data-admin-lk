@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":6.580917,
     "lbl:longitude":81.13058,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Moneragala",
     "meso:admin_1r":"Uva",
     "meso:dissme":"WellawayaMoneragalaUva",
@@ -31,6 +33,7 @@
     "mps:longitude":81.13058,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:eng_x_preferred":[
         "Wellawaya"
     ],
@@ -44,9 +47,9 @@
         "\u0bb5\u0bc6\u0bb2\u0bcd\u0bb2\u0bb5\u0bbe\u0baf\u0bbe"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2012-03-20",
+    "src:population_date":"2012-03-20",
     "statoids:area_km":"577",
     "statoids:as_of_date":"2012-03-20",
     "statoids:capital":"Wellawaya",
@@ -78,7 +81,7 @@
         }
     ],
     "wof:id":1092068087,
-    "wof:lastmodified":1564176698,
+    "wof:lastmodified":1566595310,
     "wof:name":"Wellawaya",
     "wof:parent_id":85673803,
     "wof:placetype":"county",

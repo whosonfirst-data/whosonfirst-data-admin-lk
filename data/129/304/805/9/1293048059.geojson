@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Colombo",
     "iso:country":"LK",
+    "lbl:bbox":"80.6229,7.0127,80.6629,7.0527",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Katarandena",
         "Katarandana"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1293048059,
-    "wof:lastmodified":1537661508,
+    "wof:lastmodified":1566594550,
     "wof:name":"Katarandana",
     "wof:parent_id":1092061445,
     "wof:placetype":"locality",

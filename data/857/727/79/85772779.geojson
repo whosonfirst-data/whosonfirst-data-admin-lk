@@ -5,18 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":16342082.613509,
+    "geom:area_square_m":0.0,
     "geom:bbox":"81.703719,7.712151,81.703719,7.712151",
     "geom:latitude":7.712151,
     "geom:longitude":81.703719,
-    "gn:gn_country":"LK",
-    "gn:gn_fcode":"PPLX",
-    "gn:gn_pop":0,
+    "gn:country":"LK",
+    "gn:fcode":"PPLX",
     "gn:latitude":7.71667,
     "gn:longitude":81.7,
+    "gn:population":0,
     "iso:country":"LK",
+    "lbl:bbox":"81.698719,7.707151,81.708719,7.717151",
     "lbl:latitude":7.712151,
     "lbl:longitude":81.703719,
+    "lbl:max_zoom":18.0,
     "mps:latitude":7.716435,
     "mps:longitude":81.705123,
     "mz:hierarchy_label":0,
@@ -29,9 +31,6 @@
     "mz:min_zoom":14.0,
     "mz:tier_locality":1,
     "name:eng_x_preferred":[
-        "Puliyadikuda"
-    ],
-    "name:unk_x_variant":[
         "Puliyadikuda"
     ],
     "qs:gn_adm0_cc":"LK",
@@ -82,7 +81,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         85673737,
         102191569,
@@ -93,7 +92,6 @@
     "wof:concordances":{
         "gn:id":1229554,
         "gp:id":2185869,
-        "qs:id":249057,
         "qs_pg:id":249057
     },
     "wof:country":"LK",
@@ -112,7 +110,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1534379376,
+    "wof:lastmodified":1566594443,
     "wof:name":"Puliyadikuda",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

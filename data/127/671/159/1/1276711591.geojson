@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Colombo",
     "iso:country":"LK",
+    "lbl:bbox":"80.8643,7.0441,80.9043,7.0841",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1276711591,
-    "wof:lastmodified":1536769568,
+    "wof:lastmodified":1566594744,
     "wof:name":"Holiakotuwepatana",
     "wof:parent_id":1092067535,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Colombo",
     "iso:country":"LK",
+    "lbl:bbox":"80.3761,6.6191,80.4161,6.6591",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Hangomuwa"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1310346703,
-    "wof:lastmodified":1537661542,
+    "wof:lastmodified":1566595201,
     "wof:name":"Hangumuwa",
     "wof:parent_id":1092058219,
     "wof:placetype":"locality",

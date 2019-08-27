@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":6.892709,
     "lbl:longitude":79.895819,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Colombo",
     "meso:admin_1r":"Western",
     "meso:dissme":"Sri Jayawardanapura KotteColomboWestern",
@@ -31,6 +33,7 @@
     "mps:longitude":79.895819,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:eng_x_preferred":[
         "Sri Jayawardanapura Kotte"
     ],
@@ -38,9 +41,9 @@
         "Sri Jayawardanapura Kotte"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2012-03-20",
+    "src:population_date":"2012-03-20",
     "statoids:area_km":"17",
     "statoids:as_of_date":"2012-03-20",
     "statoids:capital":"Rajagiriya",
@@ -72,7 +75,7 @@
         }
     ],
     "wof:id":1092066319,
-    "wof:lastmodified":1553718100,
+    "wof:lastmodified":1566595311,
     "wof:name":"Sri Jayawardanapura Kotte",
     "wof:parent_id":85673811,
     "wof:placetype":"county",

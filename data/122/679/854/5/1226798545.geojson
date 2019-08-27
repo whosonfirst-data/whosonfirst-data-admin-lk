@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Colombo",
     "iso:country":"LK",
+    "lbl:bbox":"79.6974,8.1897,79.7374,8.2297",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:tam_x_preferred":[
         "\u0b95\u0bb2\u0bcd\u0bb2\u0b9f\u0bbf"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1226798545,
-    "wof:lastmodified":1564177415,
+    "wof:lastmodified":1566595743,
     "wof:name":"Kalladi",
     "wof:parent_id":1092060219,
     "wof:placetype":"locality",

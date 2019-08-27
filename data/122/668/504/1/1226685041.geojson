@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Colombo",
     "iso:country":"LK",
+    "lbl:bbox":"79.83,9.69667,79.87,9.73667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Palakadu",
         "Palaikkadu"
@@ -46,7 +50,7 @@
         }
     ],
     "wof:id":1226685041,
-    "wof:lastmodified":1537661425,
+    "wof:lastmodified":1566595680,
     "wof:name":"Palaikkadu",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

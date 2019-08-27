@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":8.556676,
     "lbl:longitude":80.838529,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Anuradhapura",
     "meso:admin_1r":"North Central",
     "meso:dissme":"HorowpothanaAnuradhapuraNorth Central",
@@ -31,6 +33,7 @@
     "mps:longitude":80.838529,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:eng_x_preferred":[
         "Horowpothana"
     ],
@@ -38,9 +41,9 @@
         "Horowpothana"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2012-03-20",
+    "src:population_date":"2012-03-20",
     "statoids:area_km":"845",
     "statoids:as_of_date":"2012-03-20",
     "statoids:capital":"Horowupothana",
@@ -72,7 +75,7 @@
         }
     ],
     "wof:id":1092059481,
-    "wof:lastmodified":1553718094,
+    "wof:lastmodified":1566595271,
     "wof:name":"Horowpothana",
     "wof:parent_id":85673751,
     "wof:placetype":"county",

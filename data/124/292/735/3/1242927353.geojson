@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Colombo",
     "iso:country":"LK",
+    "lbl:bbox":"80.221,6.0113,80.261,6.0513",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Devatta"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1242927353,
-    "wof:lastmodified":1537661573,
+    "wof:lastmodified":1566595434,
     "wof:name":"Dewate",
     "wof:parent_id":1092058633,
     "wof:placetype":"locality",

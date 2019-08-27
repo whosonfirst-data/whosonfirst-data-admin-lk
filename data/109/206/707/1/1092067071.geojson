@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":9.550166,
     "lbl:longitude":80.46935,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Jaffna",
     "meso:admin_1r":"Northern",
     "meso:dissme":"Vadamaradchy EastJaffnaNorthern",
@@ -31,6 +33,7 @@
     "mps:longitude":80.46935,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:eng_x_preferred":[
         "Vadamaradchi East"
     ],
@@ -38,9 +41,9 @@
         "Vadamaradchy East"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2012-03-20",
+    "src:population_date":"2012-03-20",
     "statoids:area_km":"179",
     "statoids:as_of_date":"2012-03-20",
     "statoids:capital":"Muruthankerni",
@@ -72,7 +75,7 @@
         }
     ],
     "wof:id":1092067071,
-    "wof:lastmodified":1553718101,
+    "wof:lastmodified":1566595284,
     "wof:name":"Vadamaradchy East",
     "wof:parent_id":85673769,
     "wof:placetype":"county",

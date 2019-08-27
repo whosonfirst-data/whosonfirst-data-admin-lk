@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Colombo",
     "iso:country":"LK",
+    "lbl:bbox":"81.7466,6.6309,81.7866,6.6709",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:tam_x_preferred":[
         "\u0b89\u0b95\u0ba8\u0bcd\u0ba4\u0bc8"
     ],
@@ -56,7 +60,7 @@
         }
     ],
     "wof:id":1192957163,
-    "wof:lastmodified":1564176206,
+    "wof:lastmodified":1566594980,
     "wof:name":"Okanda",
     "wof:parent_id":1092061831,
     "wof:placetype":"locality",

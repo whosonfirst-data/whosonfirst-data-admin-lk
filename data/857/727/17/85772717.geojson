@@ -5,15 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":6539930.878088,
+    "geom:area_square_m":0.0,
     "geom:bbox":"80.57428,5.936797,80.57428,5.936797",
     "geom:latitude":5.936797,
     "geom:longitude":80.57428,
     "gn:latitude":5.95,
     "gn:longitude":80.55,
     "iso:country":"LK",
+    "lbl:bbox":"80.56928,5.931797,80.57928,5.941797",
     "lbl:latitude":5.936797,
     "lbl:longitude":80.57428,
+    "lbl:max_zoom":18.0,
     "mps:latitude":5.93829,
     "mps:longitude":80.571212,
     "mz:hierarchy_label":0,
@@ -26,9 +28,6 @@
     "mz:min_zoom":15.0,
     "mz:tier_locality":1,
     "name:eng_x_preferred":[
-        "Delkada"
-    ],
-    "name:unk_x_variant":[
         "Delkada"
     ],
     "qs:gn_adm0_cc":"LK",
@@ -59,18 +58,18 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
+        85673795,
         102191569,
         85632313,
-        1092062917,
-        85673795
+        1092062917
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1248363,
         "gp:id":2175349,
-        "qs:id":233050
+        "qs_pg:id":233050
     },
     "wof:country":"LK",
     "wof:geomhash":"c4c6df78706932dfd5615be0fe9fee5a",
@@ -88,7 +87,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531859562,
+    "wof:lastmodified":1566594443,
     "wof:name":"Delkada",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

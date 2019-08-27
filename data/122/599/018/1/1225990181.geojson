@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Colombo",
     "iso:country":"LK",
+    "lbl:bbox":"80.5202,7.4383,80.5602,7.4783",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Ambatenna"
     ],
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":1225990181,
-    "wof:lastmodified":1564177363,
+    "wof:lastmodified":1566595708,
     "wof:name":"Ambatenna",
     "wof:parent_id":1092065951,
     "wof:placetype":"locality",

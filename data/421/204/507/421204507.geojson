@@ -10,8 +10,12 @@
     "geom:latitude":8.0363,
     "geom:longitude":80.7467,
     "iso:country":"LK",
+    "lbl:bbox":"80.7267,8.0163,80.7667,8.0563",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:deu_x_preferred":[
         "Habarana"
@@ -30,9 +34,6 @@
     ],
     "name:tam_x_preferred":[
         "\u0b85\u0baa\u0bb0\u0ba3\u0bc8"
-    ],
-    "name:unk_x_variant":[
-        "Habarana"
     ],
     "qs:gn_country":"LK",
     "qs:gn_fcode":"PPL",
@@ -64,7 +65,7 @@
     "wof:concordances":{
         "gn:id":1245159,
         "gp:id":2189769,
-        "qs:id":241171,
+        "qs_pg:id":241171,
         "wd:id":"Q5636630",
         "wk:page":"Habarana"
     },
@@ -81,7 +82,7 @@
         }
     ],
     "wof:id":421204507,
-    "wof:lastmodified":1563573248,
+    "wof:lastmodified":1566595368,
     "wof:name":"Habarane",
     "wof:parent_id":1092064945,
     "wof:placetype":"locality",

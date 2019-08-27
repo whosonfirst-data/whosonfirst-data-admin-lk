@@ -22,6 +22,7 @@
     ],
     "lbl:latitude":8.800403,
     "lbl:longitude":80.495075,
+    "lbl:min_zoom":8.0,
     "mps:latitude":8.93999,
     "mps:longitude":80.502565,
     "mz:hierarchy_label":1,
@@ -119,7 +120,7 @@
     "name:ukr_x_preferred":[
         "\u0412\u0430\u0432\u0443\u043d\u0456\u044f"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Mullaittivu District"
     ],
     "name:urd_x_preferred":[
@@ -205,9 +206,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2012-03-20",
+    "src:population_date":"2012-03-20",
     "statoids:area_km":"2,642",
     "statoids:area_mi":"1,020",
     "statoids:as_of_date":"2012-03-20",
@@ -233,7 +234,7 @@
         "gp:id":23706510,
         "hasc:id":"LK.VA",
         "iso:id":"LK-44",
-        "qs:id":1236500,
+        "qs_pg:id":1236500,
         "unlc:id":"LK-44",
         "wd:id":"Q527980"
     },
@@ -255,11 +256,10 @@
         "sin",
         "tam"
     ],
-    "wof:lastmodified":1565726589,
+    "wof:lastmodified":1566594444,
     "wof:name":"Vavuniy\u0101va",
     "wof:parent_id":85632313,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"district",
     "wof:population":172115,
     "wof:population_rank":9,

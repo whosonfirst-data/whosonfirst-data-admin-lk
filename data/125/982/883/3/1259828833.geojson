@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Colombo",
     "iso:country":"LK",
+    "lbl:bbox":"80.522,7.4747,80.562,7.5147",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Malmiwala",
         "Malmiwela"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1259828833,
-    "wof:lastmodified":1537661468,
+    "wof:lastmodified":1566595572,
     "wof:name":"Malmiwela",
     "wof:parent_id":1092065951,
     "wof:placetype":"locality",

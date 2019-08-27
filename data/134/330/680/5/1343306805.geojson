@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Colombo",
     "iso:country":"LK",
+    "lbl:bbox":"81.33,6.84667,81.37,6.88667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Bootagolla",
         "Butagolla"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1343306805,
-    "wof:lastmodified":1537661583,
+    "wof:lastmodified":1566594287,
     "wof:name":"Butagolla",
     "wof:parent_id":1092063443,
     "wof:placetype":"locality",

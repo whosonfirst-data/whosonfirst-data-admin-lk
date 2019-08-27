@@ -22,6 +22,7 @@
     ],
     "lbl:latitude":8.051399,
     "lbl:longitude":79.973872,
+    "lbl:min_zoom":8.0,
     "mps:latitude":8.077445,
     "mps:longitude":79.968481,
     "mz:hierarchy_label":1,
@@ -142,7 +143,7 @@
     "name:ukr_x_preferred":[
         "\u041f\u0443\u0442\u0442\u0430\u043b\u0430\u043c"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Chilaw District"
     ],
     "name:urd_x_preferred":[
@@ -228,9 +229,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2012-03-20",
+    "src:population_date":"2012-03-20",
     "statoids:area_km":"2,976",
     "statoids:area_mi":"1,149",
     "statoids:as_of_date":"2012-03-20",
@@ -255,7 +256,7 @@
         "gp:id":23706502,
         "hasc:id":"LK.PX",
         "iso:id":"LK-62",
-        "qs:id":888262,
+        "qs_pg:id":888262,
         "unlc:id":"LK-62",
         "wd:id":"Q1665318",
         "wk:page":"Puttalam District"
@@ -278,11 +279,10 @@
         "sin",
         "tam"
     ],
-    "wof:lastmodified":1565726590,
+    "wof:lastmodified":1566594446,
     "wof:name":"Puttalama",
     "wof:parent_id":85632313,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"district",
     "wof:population":762396,
     "wof:population_rank":11,

@@ -5,15 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":26220207.933107,
+    "geom:area_square_m":0.0,
     "geom:bbox":"80.198518,6.046557,80.198518,6.046557",
     "geom:latitude":6.046557,
     "geom:longitude":80.198518,
     "gn:latitude":6.05,
     "gn:longitude":80.2,
     "iso:country":"LK",
+    "lbl:bbox":"80.193518,6.041557,80.203518,6.051557",
     "lbl:latitude":6.046557,
     "lbl:longitude":80.198518,
+    "lbl:max_zoom":18.0,
     "mps:latitude":6.060077,
     "mps:longitude":80.185092,
     "mz:hierarchy_label":0,
@@ -26,9 +28,6 @@
     "mz:min_zoom":13.0,
     "mz:tier_locality":2,
     "name:eng_x_preferred":[
-        "Bope"
-    ],
-    "name:unk_x_variant":[
         "Bope"
     ],
     "qs:gn_adm0_cc":"LK",
@@ -59,18 +58,18 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
+        85673789,
         102191569,
         85632313,
-        1092058633,
-        85673789
+        1092058633
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1249641,
         "gp:id":2174765,
-        "qs:id":317582
+        "qs_pg:id":317582
     },
     "wof:country":"LK",
     "wof:geomhash":"481b38a42e05c7cbbb0245a1af2c7bc1",
@@ -88,7 +87,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531859561,
+    "wof:lastmodified":1566594442,
     "wof:name":"Bope",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

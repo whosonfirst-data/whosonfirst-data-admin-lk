@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Colombo",
     "iso:country":"LK",
+    "lbl:bbox":"81.403,7.0548,81.443,7.0948",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Wellebokka",
         "Wellabokka"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1327474487,
-    "wof:lastmodified":1537661336,
+    "wof:lastmodified":1566594187,
     "wof:name":"Wellabokka",
     "wof:parent_id":1092062005,
     "wof:placetype":"locality",

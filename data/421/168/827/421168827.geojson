@@ -10,6 +10,9 @@
     "geom:latitude":6.68278,
     "geom:longitude":80.39917,
     "iso:country":"LK",
+    "lbl:bbox":"80.37917,6.66278,80.41917,6.70278",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":9.0,
@@ -275,7 +278,7 @@
     "wof:concordances":{
         "gn:id":1228730,
         "gp:id":2189703,
-        "qs:id":493345,
+        "qs_pg:id":493345,
         "wd:id":"Q508753",
         "wk:page":"Ratnapura"
     },
@@ -292,7 +295,7 @@
         }
     ],
     "wof:id":421168827,
-    "wof:lastmodified":1563573232,
+    "wof:lastmodified":1566595363,
     "wof:name":"Ratnapura",
     "wof:parent_id":1092065839,
     "wof:placetype":"locality",

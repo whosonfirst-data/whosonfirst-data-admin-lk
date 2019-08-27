@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":9.158884,
     "lbl:longitude":80.794913,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Mullaitivu",
     "meso:admin_1r":"Northern",
     "meso:dissme":"MaritimepattuMullaitivuNorthern",
@@ -31,6 +33,7 @@
     "mps:longitude":80.794913,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:eng_x_preferred":[
         "Maritimepattu"
     ],
@@ -38,9 +41,9 @@
         "Maritimepattu"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2012-03-20",
+    "src:population_date":"2012-03-20",
     "statoids:area_km":"789",
     "statoids:as_of_date":"2012-03-20",
     "statoids:capital":"",
@@ -72,7 +75,7 @@
         }
     ],
     "wof:id":1092062793,
-    "wof:lastmodified":1553718097,
+    "wof:lastmodified":1566595304,
     "wof:name":"Maritimepattu",
     "wof:parent_id":85673765,
     "wof:placetype":"county",

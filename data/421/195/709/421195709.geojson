@@ -10,8 +10,12 @@
     "geom:latitude":6.1241,
     "geom:longitude":81.1185,
     "iso:country":"LK",
+    "lbl:bbox":"81.0985,6.1041,81.1385,6.1441",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ara_x_preferred":[
         "\u0647\u0627\u0645\u0628\u0627\u0646\u062a\u0648\u062a\u0627"
@@ -130,7 +134,7 @@
     "name:ukr_x_preferred":[
         "\u0425\u0430\u043c\u0431\u0430\u043d\u0442\u043e\u0442\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Hambatota"
     ],
     "name:urd_x_preferred":[
@@ -174,7 +178,7 @@
     "wof:concordances":{
         "gn:id":1244926,
         "gp:id":2189729,
-        "qs:id":493347,
+        "qs_pg:id":493347,
         "wd:id":"Q1025283",
         "wk:page":"Hambantota"
     },
@@ -191,7 +195,7 @@
         }
     ],
     "wof:id":421195709,
-    "wof:lastmodified":1563573240,
+    "wof:lastmodified":1566595366,
     "wof:name":"Hambantota",
     "wof:parent_id":1092059101,
     "wof:placetype":"locality",

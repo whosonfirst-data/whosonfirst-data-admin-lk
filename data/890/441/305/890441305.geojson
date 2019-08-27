@@ -11,10 +11,14 @@
     "geom:longitude":79.883,
     "gn:country":"LK",
     "gn:fcode":"PPL",
-    "gn:pop":56978,
+    "gn:population":56978,
     "iso:country":"LK",
+    "lbl:bbox":"79.863,6.9709,79.903,7.0109",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":8.0,
     "qs:name":"Hendala",
     "qs:photos_9r":0,
     "qs:photos_sr":0,
@@ -30,7 +34,7 @@
     "wof:concordances":{
         "gn:id":1244397,
         "gp:id":2188671,
-        "qs:id":276155
+        "qs_pg:id":276155
     },
     "wof:country":"LK",
     "wof:created":1469052318,
@@ -45,7 +49,7 @@
         }
     ],
     "wof:id":890441305,
-    "wof:lastmodified":1505343581,
+    "wof:lastmodified":1566595381,
     "wof:name":"Hendala",
     "wof:parent_id":1092067725,
     "wof:placetype":"locality",

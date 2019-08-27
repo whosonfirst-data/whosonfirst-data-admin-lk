@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":8.09622,
     "lbl:longitude":80.501499,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Anuradhapura",
     "meso:admin_1r":"North Central",
     "meso:dissme":"IpalogamaAnuradhapuraNorth Central",
@@ -31,6 +33,7 @@
     "mps:longitude":80.501499,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:eng_x_preferred":[
         "Ipalogama"
     ],
@@ -38,9 +41,9 @@
         "Ipalogama"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2012-03-20",
+    "src:population_date":"2012-03-20",
     "statoids:area_km":"147",
     "statoids:as_of_date":"2012-03-20",
     "statoids:capital":"Kunchikulama",
@@ -72,7 +75,7 @@
         }
     ],
     "wof:id":1092059691,
-    "wof:lastmodified":1553718094,
+    "wof:lastmodified":1566595274,
     "wof:name":"Ipalogama",
     "wof:parent_id":85673751,
     "wof:placetype":"county",

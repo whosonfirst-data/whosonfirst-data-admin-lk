@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Colombo",
     "iso:country":"LK",
+    "lbl:bbox":"79.8429,7.0618,79.8829,7.1018",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Tarakulliya"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1293442769,
-    "wof:lastmodified":1537661378,
+    "wof:lastmodified":1566594610,
     "wof:name":"Tarakuliya",
     "wof:parent_id":1092067725,
     "wof:placetype":"locality",

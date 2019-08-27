@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Colombo",
     "iso:country":"LK",
+    "lbl:bbox":"80.02536,8.82258,80.06536,8.86258",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -49,7 +53,7 @@
         }
     ],
     "wof:id":1242616127,
-    "wof:lastmodified":1537007446,
+    "wof:lastmodified":1566595438,
     "wof:name":"Kollarsirukkulam",
     "wof:parent_id":1092062683,
     "wof:placetype":"locality",

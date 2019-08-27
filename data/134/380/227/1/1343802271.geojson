@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Colombo",
     "iso:country":"LK",
+    "lbl:bbox":"80.0536,6.4198,80.0936,6.4598",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1343802271,
-    "wof:lastmodified":1536750516,
+    "wof:lastmodified":1566594428,
     "wof:name":"Kurudippita",
     "wof:parent_id":1092062959,
     "wof:placetype":"locality",

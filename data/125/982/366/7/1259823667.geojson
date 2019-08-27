@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Colombo",
     "iso:country":"LK",
+    "lbl:bbox":"79.875,6.8527,79.915,6.8927",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1259823667,
-    "wof:lastmodified":1536864077,
+    "wof:lastmodified":1566595570,
     "wof:name":"Edirigoda",
     "wof:parent_id":1092066319,
     "wof:placetype":"locality",

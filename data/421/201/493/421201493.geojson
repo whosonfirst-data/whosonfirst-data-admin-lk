@@ -10,8 +10,12 @@
     "geom:latitude":6.8343,
     "geom:longitude":80.5676,
     "iso:country":"LK",
+    "lbl:bbox":"80.5476,6.8143,80.5876,6.8543",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:eng_x_preferred":[
         "Maskeliya"
@@ -55,7 +59,7 @@
     "wof:concordances":{
         "gn:id":1235879,
         "gp:id":2182377,
-        "qs:id":211626,
+        "qs_pg:id":211626,
         "wd:id":"Q15149922",
         "wk:page":"Maskeliya"
     },
@@ -72,7 +76,7 @@
         }
     ],
     "wof:id":421201493,
-    "wof:lastmodified":1561830630,
+    "wof:lastmodified":1566595377,
     "wof:name":"Maskeliya",
     "wof:parent_id":1092056403,
     "wof:placetype":"locality",

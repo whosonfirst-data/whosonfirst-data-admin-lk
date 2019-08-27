@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Colombo",
     "iso:country":"LK",
+    "lbl:bbox":"81.1954,6.8767,81.2354,6.9167",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Alupota Town",
         "Alupota",
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1343998645,
-    "wof:lastmodified":1537661603,
+    "wof:lastmodified":1566594296,
     "wof:name":"Alupotha",
     "wof:parent_id":1092056763,
     "wof:placetype":"locality",

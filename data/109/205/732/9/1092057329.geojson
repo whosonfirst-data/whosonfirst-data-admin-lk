@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":6.650643,
     "lbl:longitude":81.292208,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Moneragala",
     "meso:admin_1r":"Uva",
     "meso:dissme":"ButtalaMoneragalaUva",
@@ -31,6 +33,7 @@
     "mps:longitude":81.292208,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:eng_x_preferred":[
         "Buttala"
     ],
@@ -41,9 +44,9 @@
         "\u0db6\u0dd4\u0dad\u0dca\u0dad\u0dbd"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2012-03-20",
+    "src:population_date":"2012-03-20",
     "statoids:area_km":"711",
     "statoids:as_of_date":"2012-03-20",
     "statoids:capital":"Buttala",
@@ -75,7 +78,7 @@
         }
     ],
     "wof:id":1092057329,
-    "wof:lastmodified":1564176658,
+    "wof:lastmodified":1566595274,
     "wof:name":"Buttala",
     "wof:parent_id":85673803,
     "wof:placetype":"county",

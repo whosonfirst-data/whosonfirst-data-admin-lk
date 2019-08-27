@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":7.047427,
     "lbl:longitude":81.045009,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Badulla",
     "meso:admin_1r":"Uva",
     "meso:dissme":"SoranathotaBadullaUva",
@@ -31,6 +33,7 @@
     "mps:longitude":81.045009,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:eng_x_preferred":[
         "Soranathota"
     ],
@@ -38,9 +41,9 @@
         "Soranathota"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2012-03-20",
+    "src:population_date":"2012-03-20",
     "statoids:area_km":"79",
     "statoids:as_of_date":"2012-03-20",
     "statoids:capital":"Ridipana",
@@ -72,7 +75,7 @@
         }
     ],
     "wof:id":1092066285,
-    "wof:lastmodified":1553718100,
+    "wof:lastmodified":1566595286,
     "wof:name":"Soranathota",
     "wof:parent_id":85673801,
     "wof:placetype":"county",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Colombo",
     "iso:country":"LK",
+    "lbl:bbox":"79.7152,8.0262,79.7552,8.0662",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1260333619,
-    "wof:lastmodified":1536644206,
+    "wof:lastmodified":1566595090,
     "wof:name":"Nuraicholai",
     "wof:parent_id":1092060219,
     "wof:placetype":"locality",

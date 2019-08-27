@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Colombo",
     "iso:country":"LK",
+    "lbl:bbox":"80.5603,8.9543,80.6003,8.9943",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Tuvaraineri",
         "Tuvaraneri"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1310343941,
-    "wof:lastmodified":1537661362,
+    "wof:lastmodified":1566595200,
     "wof:name":"Tuvaraneri",
     "wof:parent_id":1092067297,
     "wof:placetype":"locality",

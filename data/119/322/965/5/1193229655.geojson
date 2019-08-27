@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Colombo",
     "iso:country":"LK",
+    "lbl:bbox":"80.6211,8.973,80.6611,9.013",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Nochchikkulam"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1193229655,
-    "wof:lastmodified":1537661435,
+    "wof:lastmodified":1566594984,
     "wof:name":"Nochchikulam",
     "wof:parent_id":1092067297,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Colombo",
     "iso:country":"LK",
+    "lbl:bbox":"80.5908,6.1623,80.6308,6.2023",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Gammedagama"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1225786195,
-    "wof:lastmodified":1537661554,
+    "wof:lastmodified":1566595795,
     "wof:name":"Ihala Gammedagama",
     "wof:parent_id":1092063569,
     "wof:placetype":"locality",

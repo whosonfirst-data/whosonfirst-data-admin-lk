@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Colombo",
     "iso:country":"LK",
+    "lbl:bbox":"80.19667,9.79667,80.23667,9.83667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:tam_x_preferred":[
         "\u0b85\u0bb2\u0bcd\u0bb5\u0bbe\u0baf\u0bcd"
     ],
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":1193179947,
-    "wof:lastmodified":1564176276,
+    "wof:lastmodified":1566595024,
     "wof:name":"Alvai North",
     "wof:parent_id":1092067125,
     "wof:placetype":"locality",

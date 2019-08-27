@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Colombo",
     "iso:country":"LK",
+    "lbl:bbox":"80.8408,6.1867,80.8808,6.2267",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Terunnansegama"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1209961781,
-    "wof:lastmodified":1537661373,
+    "wof:lastmodified":1566594809,
     "wof:name":"Turunnansegama",
     "wof:parent_id":1092056653,
     "wof:placetype":"locality",

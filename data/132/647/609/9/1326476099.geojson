@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Colombo",
     "iso:country":"LK",
+    "lbl:bbox":"79.8201,7.5214,79.8601,7.5614",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -49,7 +53,7 @@
         }
     ],
     "wof:id":1326476099,
-    "wof:lastmodified":1537567991,
+    "wof:lastmodified":1566594209,
     "wof:name":"Maradankulama",
     "wof:parent_id":1092061929,
     "wof:placetype":"locality",

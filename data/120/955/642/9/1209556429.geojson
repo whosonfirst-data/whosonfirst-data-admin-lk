@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Colombo",
     "iso:country":"LK",
+    "lbl:bbox":"80.49667,5.96333,80.53667,6.00333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632313
@@ -34,7 +38,7 @@
         "gn:id":1237270
     },
     "wof:country":"LK",
-    "wof:geomhash":"d7d9350e40e47978ecea75ef693af106",
+    "wof:geomhash":"4863c7c2f3116600da10214ef6111001",
     "wof:hierarchy":[
         {
             "country_id":85632313,
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":1209556429,
-    "wof:lastmodified":1536283530,
+    "wof:lastmodified":1566594824,
     "wof:name":"Maduruduwa",
     "wof:parent_id":85632313,
     "wof:placetype":"locality",
@@ -53,9 +57,9 @@
 },
   "bbox": [
     80.51666999999998,
-    5.9833300000000005,
+    5.98333,
     80.51666999999998,
-    5.9833300000000005
+    5.98333
 ],
   "geometry": {"coordinates":[80.51666999999998,5.98333],"type":"Point"}
 }

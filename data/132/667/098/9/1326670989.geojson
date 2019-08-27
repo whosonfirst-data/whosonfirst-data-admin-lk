@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Colombo",
     "iso:country":"LK",
+    "lbl:bbox":"80.0714,6.3437,80.1114,6.3837",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Galpottawella",
         "Galpottawila",
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1326670989,
-    "wof:lastmodified":1537661554,
+    "wof:lastmodified":1566594166,
     "wof:name":"Galpottawala",
     "wof:parent_id":1092060579,
     "wof:placetype":"locality",

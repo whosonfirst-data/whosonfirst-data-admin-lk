@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Colombo",
     "iso:country":"LK",
+    "lbl:bbox":"80.5988,7.611,80.6388,7.651",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Moragaspitiya"
     ],
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":1326880889,
-    "wof:lastmodified":1564174894,
+    "wof:lastmodified":1566594146,
     "wof:name":"Moragaspitiya",
     "wof:parent_id":1092064907,
     "wof:placetype":"locality",

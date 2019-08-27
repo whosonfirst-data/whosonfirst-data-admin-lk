@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Colombo",
     "iso:country":"LK",
+    "lbl:bbox":"79.9943,6.3581,80.0343,6.3981",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Kalkawalagala"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1326971157,
-    "wof:lastmodified":1537661518,
+    "wof:lastmodified":1566594237,
     "wof:name":"Kaikawalagala",
     "wof:parent_id":1092057133,
     "wof:placetype":"locality",

@@ -10,8 +10,12 @@
     "geom:latitude":6.9269,
     "geom:longitude":79.9095,
     "iso:country":"LK",
+    "lbl:bbox":"79.8895,6.9069,79.9295,6.9469",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":8.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ceb_x_preferred":[
         "Kotikawatta"
@@ -62,7 +66,7 @@
     "wof:concordances":{
         "gn:id":1239047,
         "gp:id":2189774,
-        "qs:id":131041,
+        "qs_pg:id":131041,
         "wd:id":"Q6434058",
         "wk:page":"Kotikawatta"
     },
@@ -79,7 +83,7 @@
         }
     ],
     "wof:id":421178627,
-    "wof:lastmodified":1563573284,
+    "wof:lastmodified":1566595379,
     "wof:name":"Kotikawatta",
     "wof:parent_id":1092061133,
     "wof:placetype":"locality",

@@ -22,8 +22,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Colombo",
     "iso:country":"LK",
+    "lbl:bbox":"81.10279,6.51411,81.14279,6.55411",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632313
@@ -41,7 +45,7 @@
         }
     ],
     "wof:id":1209229829,
-    "wof:lastmodified":1536293672,
+    "wof:lastmodified":1566594861,
     "wof:name":"Kuda Oya",
     "wof:parent_id":85632313,
     "wof:placetype":"locality",

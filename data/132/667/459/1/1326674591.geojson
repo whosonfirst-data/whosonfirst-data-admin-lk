@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Colombo",
     "iso:country":"LK",
+    "lbl:bbox":"81.0879,6.7853,81.1279,6.8253",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Arawa"
     ],
@@ -63,7 +67,7 @@
         }
     ],
     "wof:id":1326674591,
-    "wof:lastmodified":1564174936,
+    "wof:lastmodified":1566594170,
     "wof:name":"Arawa",
     "wof:parent_id":1092068087,
     "wof:placetype":"locality",

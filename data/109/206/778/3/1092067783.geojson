@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":7.462863,
     "lbl:longitude":80.272518,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Kurunegala",
     "meso:admin_1r":"North Western",
     "meso:dissme":"WeerambugedaraKurunegalaNorth Western",
@@ -31,6 +33,7 @@
     "mps:longitude":80.272518,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:eng_x_preferred":[
         "Weerambugedara"
     ],
@@ -38,9 +41,9 @@
         "Weerambugedara"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2012-03-20",
+    "src:population_date":"2012-03-20",
     "statoids:area_km":"88",
     "statoids:as_of_date":"2012-03-20",
     "statoids:capital":"Weerambugedara",
@@ -72,7 +75,7 @@
         }
     ],
     "wof:id":1092067783,
-    "wof:lastmodified":1553718102,
+    "wof:lastmodified":1566595296,
     "wof:name":"Weerambugedara",
     "wof:parent_id":85673777,
     "wof:placetype":"county",

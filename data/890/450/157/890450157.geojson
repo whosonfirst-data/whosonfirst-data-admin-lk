@@ -11,7 +11,7 @@
     "geom:longitude":81.591954,
     "gn:country":"LK",
     "gn:fcode":"ADM2",
-    "gn:pop":614674,
+    "gn:population":614674,
     "iso:country":"LK",
     "label:eng_x_preferred_longname":[
         "Ampara Division"
@@ -21,6 +21,8 @@
     ],
     "lbl:latitude":7.254801,
     "lbl:longitude":81.573769,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Ampara",
     "meso:admin_1r":"Eastern",
     "meso:dissme":"AmparaAmparaEastern",
@@ -34,6 +36,7 @@
     "mps:longitude":81.573769,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ara_x_preferred":[
         "\u0645\u0642\u0627\u0637\u0639\u0629 \u0623\u0645\u0628\u0627\u0631\u0627"
     ],
@@ -148,7 +151,7 @@
     "name:ukr_x_preferred":[
         "\u0410\u043c\u043f\u0430\u0440\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Ampari"
     ],
     "name:urd_x_preferred":[
@@ -168,9 +171,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2012-03-20",
+    "src:population_date":"2012-03-20",
     "statoids:area_km":"174",
     "statoids:as_of_date":"2012-03-20",
     "statoids:capital":"Ampara",
@@ -191,7 +194,7 @@
     "wof:concordances":{
         "gn:id":1251460,
         "hasc:id":"LK.AP.AM",
-        "qs:id":84436,
+        "qs_pg:id":84436,
         "wd:id":"Q474395",
         "wk:page":"Ampara District"
     },
@@ -207,7 +210,7 @@
         }
     ],
     "wof:id":890450157,
-    "wof:lastmodified":1563573294,
+    "wof:lastmodified":1566595382,
     "wof:name":"Ampara",
     "wof:parent_id":85673733,
     "wof:placetype":"county",

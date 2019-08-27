@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Colombo",
     "iso:country":"LK",
+    "lbl:bbox":"81.3503,7.0332,81.3903,7.0732",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Pangura",
         "Panguwa"
@@ -46,7 +50,7 @@
         }
     ],
     "wof:id":1209255315,
-    "wof:lastmodified":1537661418,
+    "wof:lastmodified":1566594865,
     "wof:name":"Panguwa",
     "wof:parent_id":85632313,
     "wof:placetype":"locality",

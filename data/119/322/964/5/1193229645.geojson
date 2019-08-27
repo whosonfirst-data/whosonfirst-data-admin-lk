@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Colombo",
     "iso:country":"LK",
+    "lbl:bbox":"80.0376,9.6291,80.0776,9.6691",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Ariyalai"
     ],
@@ -64,7 +68,7 @@
         }
     ],
     "wof:id":1193229645,
-    "wof:lastmodified":1564176214,
+    "wof:lastmodified":1566594984,
     "wof:name":"Ariyalai",
     "wof:parent_id":1092063801,
     "wof:placetype":"locality",

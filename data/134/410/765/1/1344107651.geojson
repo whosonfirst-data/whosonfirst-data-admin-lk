@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Colombo",
     "iso:country":"LK",
+    "lbl:bbox":"80.6104,7.0885,80.6504,7.1285",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1344107651,
-    "wof:lastmodified":1536807380,
+    "wof:lastmodified":1566594404,
     "wof:name":"Rylandwatta",
     "wof:parent_id":1092066967,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Colombo",
     "iso:country":"LK",
+    "lbl:bbox":"80.29667,8.94667,80.33667,8.98667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0641\u0627\u0644\u064a\u0628\u0627\u0644\u064a"
     ],
@@ -56,7 +60,7 @@
         }
     ],
     "wof:id":1225996045,
-    "wof:lastmodified":1564177358,
+    "wof:lastmodified":1566595705,
     "wof:name":"Valliyappalai",
     "wof:parent_id":1092062713,
     "wof:placetype":"locality",

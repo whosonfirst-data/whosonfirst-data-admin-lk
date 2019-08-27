@@ -23,15 +23,16 @@
     "gn:population":0,
     "gn:timezone":"Asia/Colombo",
     "iso:country":"LK",
+    "lbl:bbox":"80.605,7.3832,80.645,7.4232",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Nugapitiya"
     ],
     "name:swe_x_preferred":[
-        "Nugapitiya"
-    ],
-    "name:und_x_variant":[
         "Nugapitiya"
     ],
     "src:geom":"geonames",
@@ -58,7 +59,7 @@
         }
     ],
     "wof:id":1309956483,
-    "wof:lastmodified":1564176749,
+    "wof:lastmodified":1566595341,
     "wof:name":"Nugepitiya",
     "wof:parent_id":1092056249,
     "wof:placetype":"locality",

@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":6.332755,
     "lbl:longitude":80.053696,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Galle",
     "meso:admin_1r":"Southern",
     "meso:dissme":"BalapitiyaGalleSouthern",
@@ -31,6 +33,7 @@
     "mps:longitude":80.053696,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:eng_x_preferred":[
         "Balapitiya"
     ],
@@ -44,9 +47,9 @@
         "\u0db6\u0dbd\u0db4\u0dd2\u0da7\u0dd2\u0dba"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2012-03-20",
+    "src:population_date":"2012-03-20",
     "statoids:area_km":"55",
     "statoids:as_of_date":"2012-03-20",
     "statoids:capital":"Balapitiya",
@@ -78,7 +81,7 @@
         }
     ],
     "wof:id":1092056933,
-    "wof:lastmodified":1564176652,
+    "wof:lastmodified":1566595270,
     "wof:name":"Balapitiya",
     "wof:parent_id":85673789,
     "wof:placetype":"county",

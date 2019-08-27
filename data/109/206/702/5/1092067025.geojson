@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":7.42808,
     "lbl:longitude":80.631166,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Matale",
     "meso:admin_1r":"Central",
     "meso:dissme":"UkuwelaMataleCentral",
@@ -31,6 +33,7 @@
     "mps:longitude":80.631166,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:eng_x_preferred":[
         "Ukuwela"
     ],
@@ -41,9 +44,9 @@
         "\u0d8b\u0d9a\u0dd4\u0dc0\u0dd9\u0dbd"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2012-03-20",
+    "src:population_date":"2012-03-20",
     "statoids:area_km":"77",
     "statoids:as_of_date":"2012-03-20",
     "statoids:capital":"Ukuwela",
@@ -75,7 +78,7 @@
         }
     ],
     "wof:id":1092067025,
-    "wof:lastmodified":1564176685,
+    "wof:lastmodified":1566595300,
     "wof:name":"Ukuwela",
     "wof:parent_id":85673723,
     "wof:placetype":"county",

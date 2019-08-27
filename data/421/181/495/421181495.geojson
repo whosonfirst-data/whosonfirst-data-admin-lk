@@ -10,8 +10,12 @@
     "geom:latitude":6.2765,
     "geom:longitude":80.0461,
     "iso:country":"LK",
+    "lbl:bbox":"80.0261,6.2565,80.0661,6.2965",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:eng_x_preferred":[
         "Wadduwa"
@@ -61,7 +65,7 @@
     "wof:concordances":{
         "gn:id":1224301,
         "gp:id":2189635,
-        "qs:id":493355,
+        "qs_pg:id":493355,
         "wd:id":"Q7959010"
     },
     "wof:country":"LK",
@@ -77,7 +81,7 @@
         }
     ],
     "wof:id":421181495,
-    "wof:lastmodified":1561830630,
+    "wof:lastmodified":1566595374,
     "wof:name":"Wadduwa",
     "wof:parent_id":1092056933,
     "wof:placetype":"locality",

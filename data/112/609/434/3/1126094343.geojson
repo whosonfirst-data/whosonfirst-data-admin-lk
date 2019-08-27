@@ -9,21 +9,21 @@
     "geom:bbox":"80.2107,6.0358,80.2107,6.0358",
     "geom:latitude":6.0358,
     "geom:longitude":80.2107,
-    "gn:gn_country":"LK",
-    "gn:gn_fcode":"PPLX",
-    "gn:gn_pop":0,
+    "gn:country":"LK",
+    "gn:fcode":"PPLX",
     "gn:latitude":6.0358,
     "gn:longitude":80.2107,
+    "gn:population":0,
     "iso:country":"LK",
+    "lbl:bbox":"80.2057,6.0308,80.2157,6.0408",
     "lbl:latitude":6.0358,
     "lbl:longitude":80.2107,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":15.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:eng_x_preferred":[
-        "Kaluwella"
-    ],
-    "name:unk_x_variant":[
         "Kaluwella"
     ],
     "qs_pg:aaroncc":"LK",
@@ -47,7 +47,7 @@
     "qs_pg:woe_adm0":23424778,
     "qs_pg:woe_id":2179084,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "woe:adm0_id":23424778,
     "woe:name_adm0":"Sri Lanka",
     "woe:name_adm1":"Southern",
@@ -62,7 +62,6 @@
     "wof:concordances":{
         "gn:id":1241940,
         "gp:id":2179084,
-        "qs:id":1045710,
         "qs_pg:id":1045710
     },
     "wof:country":"LK",
@@ -79,7 +78,7 @@
         }
     ],
     "wof:id":1126094343,
-    "wof:lastmodified":1534379376,
+    "wof:lastmodified":1566595384,
     "wof:name":"Kaluwella",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

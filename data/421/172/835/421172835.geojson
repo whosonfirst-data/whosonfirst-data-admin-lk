@@ -10,8 +10,12 @@
     "geom:latitude":7.4688,
     "geom:longitude":80.0401,
     "iso:country":"LK",
+    "lbl:bbox":"80.0201,7.4488,80.0601,7.4888",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ceb_x_preferred":[
         "Kuliyapitiya"
@@ -68,7 +72,7 @@
     "wof:concordances":{
         "gn:id":1238427,
         "gp:id":2189664,
-        "qs:id":479392,
+        "qs_pg:id":479392,
         "wd:id":"Q6443054",
         "wk:page":"Kuliyapitiya"
     },
@@ -85,7 +89,7 @@
         }
     ],
     "wof:id":421172835,
-    "wof:lastmodified":1563573264,
+    "wof:lastmodified":1566595373,
     "wof:name":"Kuliyapitiya",
     "wof:parent_id":1092061569,
     "wof:placetype":"locality",

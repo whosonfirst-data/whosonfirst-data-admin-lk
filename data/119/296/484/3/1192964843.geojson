@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Colombo",
     "iso:country":"LK",
+    "lbl:bbox":"80.41333,8.41333,80.45333,8.45333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Pahala Parasangahawewa",
         "Pahala Parasangaswewa"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1192964843,
-    "wof:lastmodified":1537661427,
+    "wof:lastmodified":1566594998,
     "wof:name":"Pahala Parasangaswewa",
     "wof:parent_id":1092064353,
     "wof:placetype":"locality",

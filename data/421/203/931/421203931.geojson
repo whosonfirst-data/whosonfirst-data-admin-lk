@@ -10,6 +10,9 @@
     "geom:latitude":8.0362,
     "geom:longitude":79.8283,
     "iso:country":"LK",
+    "lbl:bbox":"79.8083,8.0162,79.8483,8.0562",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":7.0,
@@ -254,7 +257,7 @@
     "wof:concordances":{
         "gn:id":1229293,
         "gp:id":2185993,
-        "qs:id":235505,
+        "qs_pg:id":235505,
         "wd:id":"Q3088741",
         "wk:page":"Puttalam"
     },
@@ -271,7 +274,7 @@
         }
     ],
     "wof:id":421203931,
-    "wof:lastmodified":1563573249,
+    "wof:lastmodified":1566595369,
     "wof:name":"Puttalam",
     "wof:parent_id":1092065617,
     "wof:placetype":"locality",

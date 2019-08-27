@@ -12,8 +12,10 @@
     "gn:latitude":6.9747,
     "gn:longitude":79.8738,
     "iso:country":"LK",
+    "lbl:bbox":"79.861124,6.89806,79.871124,6.90806",
     "lbl:latitude":6.90306,
     "lbl:longitude":79.866124,
+    "lbl:max_zoom":18.0,
     "mps:latitude":6.900503,
     "mps:longitude":79.878084,
     "mz:hierarchy_label":0,
@@ -36,9 +38,6 @@
     ],
     "name:tam_x_preferred":[
         "\u0bae\u0b9f\u0bcd\u0b9f\u0b95\u0bcd\u0b95\u0bc1\u0bb3\u0bbf"
-    ],
-    "name:unk_x_variant":[
-        "Mattakkuliya"
     ],
     "qs:gn_adm0_cc":"LK",
     "qs:gn_fcode":"PPL",
@@ -68,7 +67,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wd:wordcount":30,
     "wof:belongsto":[
         85673811,
@@ -80,7 +79,7 @@
     "wof:concordances":{
         "gn:id":1235821,
         "gp:id":2182410,
-        "qs:id":894789,
+        "qs_pg:id":894789,
         "wd:id":"Q6789595",
         "wk:page":"Mattakkuliya"
     },
@@ -100,7 +99,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563571804,
+    "wof:lastmodified":1566594442,
     "wof:name":"Mattakkuliya",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

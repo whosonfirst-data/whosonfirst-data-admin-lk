@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Colombo",
     "iso:country":"LK",
+    "lbl:bbox":"80.5503,7.1992,80.5903,7.2392",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Embekka",
         "Embekke"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1293636407,
-    "wof:lastmodified":1537661562,
+    "wof:lastmodified":1566594475,
     "wof:name":"Embekke",
     "wof:parent_id":1092066991,
     "wof:placetype":"locality",

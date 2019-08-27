@@ -10,8 +10,12 @@
     "geom:latitude":8.04652,
     "geom:longitude":80.9025,
     "iso:country":"LK",
+    "lbl:bbox":"80.8825,8.02652,80.9225,8.06652",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:cat_x_preferred":[
         "Minneriya"
@@ -31,7 +35,7 @@
     "name:tam_x_preferred":[
         "\u0bae\u0bbf\u0ba9\u0bcd\u0ba9\u0bc7\u0bb0\u0bbf\u0baf\u0bbe"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Minnerya"
     ],
     "qs:gn_country":"LK",
@@ -64,7 +68,7 @@
     "wof:concordances":{
         "gn:id":1235015,
         "gp:id":2182887,
-        "qs:id":1083708,
+        "qs_pg:id":1083708,
         "wd:id":"Q4295008",
         "wk:page":"Minneriya"
     },
@@ -81,7 +85,7 @@
         }
     ],
     "wof:id":421187627,
-    "wof:lastmodified":1561830629,
+    "wof:lastmodified":1566595372,
     "wof:name":"Minneriya",
     "wof:parent_id":1092059355,
     "wof:placetype":"locality",

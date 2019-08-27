@@ -10,8 +10,12 @@
     "geom:latitude":6.9284,
     "geom:longitude":80.6061,
     "iso:country":"LK",
+    "lbl:bbox":"80.5861,6.9084,80.6261,6.9484",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:eng_x_preferred":[
         "Kotagala"
@@ -22,7 +26,7 @@
     "name:tam_x_preferred":[
         "\u0b95\u0bca\u0b9f\u0bcd\u0b9f\u0b95\u0bb2\u0bc8"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Kotagala Town"
     ],
     "qs:gn_country":"LK",
@@ -55,7 +59,7 @@
     "wof:concordances":{
         "gn:id":1239148,
         "gp:id":2180662,
-        "qs:id":1354032,
+        "qs_pg:id":1354032,
         "wd:id":"Q6433837"
     },
     "wof:country":"LK",
@@ -71,7 +75,7 @@
         }
     ],
     "wof:id":421177831,
-    "wof:lastmodified":1563573281,
+    "wof:lastmodified":1566595378,
     "wof:name":"Kotagala",
     "wof:parent_id":1092064313,
     "wof:placetype":"locality",

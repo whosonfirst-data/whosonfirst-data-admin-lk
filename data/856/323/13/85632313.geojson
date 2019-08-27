@@ -20,6 +20,8 @@
     ],
     "lbl:latitude":7.622919,
     "lbl:longitude":80.68822,
+    "lbl:max_zoom":8.0,
+    "lbl:min_zoom":4.0,
     "mps:latitude":7.622919,
     "mps:longitude":80.68822,
     "mz:hierarchy_label":1,
@@ -788,9 +790,7 @@
         "Sri-Lanka"
     ],
     "name:und_x_variant":[
-        "Sr\u00ed-Lanka"
-    ],
-    "name:unk_x_variant":[
+        "Sr\u00ed-Lanka",
         "Serendib"
     ],
     "name:urd_x_preferred":[
@@ -949,7 +949,7 @@
         "naturalearth",
         "meso"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "statoids:dial":"94",
     "statoids:ds":"CL",
@@ -993,7 +993,7 @@
         "mzb:id":"sri-lanka",
         "ne:adm0_a3":"LKA",
         "nyt:id":"51324174562611912821",
-        "qs:id":555457,
+        "qs_pg:id":555457,
         "uncrt:id":"CL",
         "wd:id":"Q854",
         "wk:page":"Sri Lanka",
@@ -1017,7 +1017,7 @@
         "sin",
         "tam"
     ],
-    "wof:lastmodified":1565726591,
+    "wof:lastmodified":1566594448,
     "wof:name":"Sri Lanka",
     "wof:parent_id":102191569,
     "wof:placetype":"country",

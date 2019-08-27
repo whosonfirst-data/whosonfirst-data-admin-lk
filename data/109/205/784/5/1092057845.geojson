@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":5.981057,
     "lbl:longitude":80.672068,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Matara",
     "meso:admin_1r":"Southern",
     "meso:dissme":"DickwellaMataraSouthern",
@@ -31,6 +33,7 @@
     "mps:longitude":80.672068,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:deu_x_preferred":[
         "Dickwella"
     ],
@@ -41,9 +44,9 @@
         "Dickwella"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2012-03-20",
+    "src:population_date":"2012-03-20",
     "statoids:area_km":"50",
     "statoids:as_of_date":"2012-03-20",
     "statoids:capital":"Dickwella",
@@ -75,7 +78,7 @@
         }
     ],
     "wof:id":1092057845,
-    "wof:lastmodified":1564176655,
+    "wof:lastmodified":1566595272,
     "wof:name":"Dickwella",
     "wof:parent_id":85673795,
     "wof:placetype":"county",

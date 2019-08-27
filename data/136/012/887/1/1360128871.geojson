@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Colombo",
     "iso:country":"LK",
+    "lbl:bbox":"80.058,6.4285,80.098,6.4685",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Walagedera",
         "Walagedara"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1360128871,
-    "wof:lastmodified":1537661345,
+    "wof:lastmodified":1566595226,
     "wof:name":"Walagedara",
     "wof:parent_id":1092062959,
     "wof:placetype":"locality",

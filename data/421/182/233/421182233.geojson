@@ -10,8 +10,12 @@
     "geom:latitude":6.7317,
     "geom:longitude":79.9673,
     "iso:country":"LK",
+    "lbl:bbox":"79.9473,6.7117,79.9873,6.7517",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ceb_x_preferred":[
         "Alutgama"
@@ -48,7 +52,7 @@
     "wof:concordances":{
         "gn:id":1251848,
         "gp:id":2189556,
-        "qs:id":894798
+        "qs_pg:id":894798
     },
     "wof:country":"LK",
     "wof:created":1459009323,
@@ -63,7 +67,7 @@
         }
     ],
     "wof:id":421182233,
-    "wof:lastmodified":1564176794,
+    "wof:lastmodified":1566595380,
     "wof:name":"Alutgama",
     "wof:parent_id":1092057009,
     "wof:placetype":"locality",

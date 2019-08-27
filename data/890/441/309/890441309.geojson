@@ -11,10 +11,14 @@
     "geom:longitude":80.0852,
     "gn:country":"LK",
     "gn:fcode":"PPL",
-    "gn:pop":22918,
+    "gn:population":22918,
     "iso:country":"LK",
+    "lbl:bbox":"80.0652,6.8812,80.1052,6.9212",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":9.0,
     "qs:name":"Hanwella Ihala",
     "qs:photos_9r":0,
     "qs:photos_sr":0,
@@ -30,7 +34,7 @@
     "wof:concordances":{
         "gn:id":1244773,
         "gp:id":2189690,
-        "qs:id":276156
+        "qs_pg:id":276156
     },
     "wof:country":"LK",
     "wof:created":1469052318,
@@ -45,7 +49,7 @@
         }
     ],
     "wof:id":890441309,
-    "wof:lastmodified":1505343581,
+    "wof:lastmodified":1566595380,
     "wof:name":"Hanwella Ihala",
     "wof:parent_id":1092066109,
     "wof:placetype":"locality",

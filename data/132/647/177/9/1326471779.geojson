@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Colombo",
     "iso:country":"LK",
+    "lbl:bbox":"80.8776,6.6354,80.9176,6.6754",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1326471779,
-    "wof:lastmodified":1537068111,
+    "wof:lastmodified":1566594210,
     "wof:name":"Medabeddagama",
     "wof:parent_id":1092056887,
     "wof:placetype":"locality",

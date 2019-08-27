@@ -12,8 +12,10 @@
     "gn:latitude":6.93917,
     "gn:longitude":79.84361,
     "iso:country":"LK",
+    "lbl:bbox":"79.846744,6.926896,79.856744,6.936896",
     "lbl:latitude":6.931896,
     "lbl:longitude":79.851744,
+    "lbl:max_zoom":18.0,
     "mps:latitude":6.935301,
     "mps:longitude":79.856131,
     "mz:hierarchy_label":0,
@@ -39,9 +41,6 @@
     ],
     "name:tam_x_preferred":[
         "\u0b95\u0bcb\u0b9f\u0bcd\u0b9f\u0bc8"
-    ],
-    "name:unk_x_variant":[
-        "Fort"
     ],
     "qs:gn_adm0_cc":"LK",
     "qs:gn_fcode":"PPLX",
@@ -71,7 +70,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         85673811,
         102191569,
@@ -82,7 +81,7 @@
     "wof:concordances":{
         "gn:id":1246686,
         "gp:id":2176278,
-        "qs:id":1117321,
+        "qs_pg:id":1117321,
         "wd:id":"Q3277589",
         "wk:page":"Fort (Colombo)"
     },
@@ -102,7 +101,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563571805,
+    "wof:lastmodified":1566594443,
     "wof:name":"Fort",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

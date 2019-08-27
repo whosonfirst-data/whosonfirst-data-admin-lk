@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":7.318514,
     "lbl:longitude":79.909046,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Puttalam",
     "meso:admin_1r":"North Western",
     "meso:dissme":"DankotuwaPuttalamNorth Western",
@@ -31,6 +33,7 @@
     "mps:longitude":79.909046,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:eng_x_preferred":[
         "Dankotuwa"
     ],
@@ -38,9 +41,9 @@
         "Dankotuwa"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2012-03-20",
+    "src:population_date":"2012-03-20",
     "statoids:area_km":"78",
     "statoids:as_of_date":"2012-03-20",
     "statoids:capital":"Dankotuwa",
@@ -72,7 +75,7 @@
         }
     ],
     "wof:id":1092057533,
-    "wof:lastmodified":1553718092,
+    "wof:lastmodified":1566595266,
     "wof:name":"Dankotuwa",
     "wof:parent_id":85673779,
     "wof:placetype":"county",

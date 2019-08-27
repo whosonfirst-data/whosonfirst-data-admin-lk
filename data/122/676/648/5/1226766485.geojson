@@ -22,8 +22,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Colombo",
     "iso:country":"LK",
+    "lbl:bbox":"80.80963,6.8968,80.84963,6.9368",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -47,7 +51,7 @@
         }
     ],
     "wof:id":1226766485,
-    "wof:lastmodified":1536685685,
+    "wof:lastmodified":1566595722,
     "wof:name":"Rendapola",
     "wof:parent_id":1092067933,
     "wof:placetype":"locality",

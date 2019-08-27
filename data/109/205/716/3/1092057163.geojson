@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":6.965946,
     "lbl:longitude":79.976701,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Gampaha",
     "meso:admin_1r":"Western",
     "meso:dissme":"BiyagamaGampahaWestern",
@@ -31,6 +33,7 @@
     "mps:longitude":79.976701,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:eng_x_preferred":[
         "Biyagama"
     ],
@@ -41,9 +44,9 @@
         "\u0db6\u0dd2\u0dba\u0d9c\u0db8"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2012-03-20",
+    "src:population_date":"2012-03-20",
     "statoids:area_km":"59",
     "statoids:as_of_date":"2012-03-20",
     "statoids:capital":"Sapugaskanda",
@@ -75,7 +78,7 @@
         }
     ],
     "wof:id":1092057163,
-    "wof:lastmodified":1564176665,
+    "wof:lastmodified":1566595280,
     "wof:name":"Biyagama",
     "wof:parent_id":85673815,
     "wof:placetype":"county",

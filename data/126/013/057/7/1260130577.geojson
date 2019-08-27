@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Colombo",
     "iso:country":"LK",
+    "lbl:bbox":"80.5564,7.2629,80.5964,7.3029",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Suriyagoda"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1260130577,
-    "wof:lastmodified":1564176334,
+    "wof:lastmodified":1566595061,
     "wof:name":"Suriyagoda",
     "wof:parent_id":1092068267,
     "wof:placetype":"locality",

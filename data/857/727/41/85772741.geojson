@@ -5,18 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":12476247.816612,
+    "geom:area_square_m":0.0,
     "geom:bbox":"80.443302,5.966812,80.443302,5.966812",
     "geom:latitude":5.966812,
     "geom:longitude":80.443302,
-    "gn:gn_country":"LK",
-    "gn:gn_fcode":"PPLX",
-    "gn:gn_pop":0,
+    "gn:country":"LK",
+    "gn:fcode":"PPLX",
     "gn:latitude":5.98333,
     "gn:longitude":80.43333,
+    "gn:population":0,
     "iso:country":"LK",
+    "lbl:bbox":"80.438302,5.961812,80.448302,5.971812",
     "lbl:latitude":5.966812,
     "lbl:longitude":80.443302,
+    "lbl:max_zoom":18.0,
     "mps:latitude":5.969293,
     "mps:longitude":80.44503,
     "mz:hierarchy_label":0,
@@ -34,10 +36,6 @@
     "name:eng_x_variant":[
         "Kohunugamuwa Muslim",
         "Kohunugamuwa Sinhalese"
-    ],
-    "name:unk_x_variant":[
-        "Kohunugamuwa Muslim",
-        "Kohunugamuwa"
     ],
     "qs:gn_adm0_cc":"LK",
     "qs:gn_fcode":"PPLX",
@@ -87,13 +85,12 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1239755,
         "gp:id":2180291,
-        "qs:id":894796,
         "qs_pg:id":894796
     },
     "wof:country":"LK",
@@ -111,7 +108,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1534379376,
+    "wof:lastmodified":1566594443,
     "wof:name":"Kohunugamuwa",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

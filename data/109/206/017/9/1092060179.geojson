@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":7.410756,
     "lbl:longitude":81.829544,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Ampara",
     "meso:admin_1r":"Eastern",
     "meso:dissme":"KalmunaiAmparaEastern",
@@ -31,6 +33,7 @@
     "mps:longitude":81.829544,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:bre_x_preferred":[
         "Kalmunai"
     ],
@@ -101,9 +104,9 @@
         "\u06a9\u0627\u0644\u0645\u0648\u0646\u0627\u0626\u06cc"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2012-03-20",
+    "src:population_date":"2012-03-20",
     "statoids:area_km":"22",
     "statoids:as_of_date":"2012-03-20",
     "statoids:capital":"Kalmunai",
@@ -135,7 +138,7 @@
         }
     ],
     "wof:id":1092060179,
-    "wof:lastmodified":1564176692,
+    "wof:lastmodified":1566595306,
     "wof:name":"Kalmunai",
     "wof:parent_id":85673733,
     "wof:placetype":"county",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Colombo",
     "iso:country":"LK",
+    "lbl:bbox":"80.4684,7.1464,80.5084,7.1864",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1193197061,
-    "wof:lastmodified":1536376764,
+    "wof:lastmodified":1566595027,
     "wof:name":"Petigammana",
     "wof:parent_id":1092056717,
     "wof:placetype":"locality",

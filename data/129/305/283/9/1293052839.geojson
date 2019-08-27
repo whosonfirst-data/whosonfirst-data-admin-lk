@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Colombo",
     "iso:country":"LK",
+    "lbl:bbox":"81.54667,7.66333,81.58667,7.70333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Aiyittiyamalai",
         "Ayittiyamalai"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1293052839,
-    "wof:lastmodified":1537661594,
+    "wof:lastmodified":1566594583,
     "wof:name":"Ayittiyamalai",
     "wof:parent_id":1092062635,
     "wof:placetype":"locality",

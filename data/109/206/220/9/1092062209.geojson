@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":7.049839,
     "lbl:longitude":80.055652,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Gampaha",
     "meso:admin_1r":"Western",
     "meso:dissme":"MaharaGampahaWestern",
@@ -31,6 +33,7 @@
     "mps:longitude":80.055652,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ceb_x_preferred":[
         "Mahara"
     ],
@@ -47,9 +50,9 @@
         "Mahara"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2012-03-20",
+    "src:population_date":"2012-03-20",
     "statoids:area_km":"94",
     "statoids:as_of_date":"2012-03-20",
     "statoids:capital":"Ranmutugala",
@@ -81,7 +84,7 @@
         }
     ],
     "wof:id":1092062209,
-    "wof:lastmodified":1564176670,
+    "wof:lastmodified":1566595285,
     "wof:name":"Mahara",
     "wof:parent_id":85673815,
     "wof:placetype":"county",

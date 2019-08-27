@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Colombo",
     "iso:country":"LK",
+    "lbl:bbox":"80.0493,6.2475,80.0893,6.2875",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1242723163,
-    "wof:lastmodified":1536853063,
+    "wof:lastmodified":1566595423,
     "wof:name":"Mahapaddawala",
     "wof:parent_id":1092060579,
     "wof:placetype":"locality",

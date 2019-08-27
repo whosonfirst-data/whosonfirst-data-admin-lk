@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Colombo",
     "iso:country":"LK",
+    "lbl:bbox":"79.9343,7.665,79.9743,7.705",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Watupola",
         "Wathupola"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1344216793,
-    "wof:lastmodified":1537661342,
+    "wof:lastmodified":1566594399,
     "wof:name":"Wathupola",
     "wof:parent_id":1092064867,
     "wof:placetype":"locality",

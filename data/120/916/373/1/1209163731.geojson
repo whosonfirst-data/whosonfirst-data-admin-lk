@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Colombo",
     "iso:country":"LK",
+    "lbl:bbox":"80.4301,7.643,80.4701,7.683",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632313
@@ -34,7 +38,7 @@
         "gn:id":1240336
     },
     "wof:country":"LK",
-    "wof:geomhash":"adc7662a4abbb69ccf6b07ccd24274b2",
+    "wof:geomhash":"7dad44a97114447c3979d00b57766f56",
     "wof:hierarchy":[
         {
             "country_id":85632313,
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":1209163731,
-    "wof:lastmodified":1536295817,
+    "wof:lastmodified":1566594916,
     "wof:name":"Kimbulwana Oya Colony",
     "wof:parent_id":85632313,
     "wof:placetype":"locality",
@@ -53,9 +57,9 @@
 },
   "bbox": [
     80.4501,
-    7.6629999999999985,
+    7.663,
     80.4501,
-    7.6629999999999985
+    7.663
 ],
   "geometry": {"coordinates":[80.45010000000001,7.663],"type":"Point"}
 }

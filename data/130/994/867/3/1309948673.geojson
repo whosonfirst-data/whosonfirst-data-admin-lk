@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Colombo",
     "iso:country":"LK",
+    "lbl:bbox":"80.448,9.436,80.488,9.476",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Pulinkatevaninurippu",
         "Pulinkthavan Murippoo",
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1309948673,
-    "wof:lastmodified":1537661404,
+    "wof:lastmodified":1566595347,
     "wof:name":"Pulinkatevanmurippu",
     "wof:parent_id":1092060355,
     "wof:placetype":"locality",

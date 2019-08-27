@@ -10,8 +10,11 @@
     "geom:latitude":6.039,
     "geom:longitude":80.2341,
     "iso:country":"LK",
+    "lbl:bbox":"80.2291,6.034,80.2391,6.044",
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":15.0,
     "mz:note":"quattroshapes points import (201603)",
     "qs:gn_country":"LK",
     "qs:gn_fcode":"PPL",
@@ -33,16 +36,16 @@
     "qs:woe_id":2179598,
     "src:geom":"quattroshapes",
     "wof:belongsto":[
+        85673789,
         102191569,
         85632313,
-        1092058633,
-        85673789
+        1092058633
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1240993,
         "gp:id":2179598,
-        "qs:id":59248
+        "qs_pg:id":59248
     },
     "wof:country":"LK",
     "wof:created":1459009675,
@@ -58,7 +61,7 @@
         }
     ],
     "wof:id":421190981,
-    "wof:lastmodified":1531858660,
+    "wof:lastmodified":1566595375,
     "wof:name":"Katugoda",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

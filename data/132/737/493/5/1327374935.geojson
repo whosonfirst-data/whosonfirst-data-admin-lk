@@ -24,8 +24,12 @@
     "gn:population":3000,
     "gn:timezone":"Asia/Colombo",
     "iso:country":"LK",
+    "lbl:bbox":"80.3086,5.9686,80.3486,6.0086",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Koggala"
     ],
@@ -72,7 +76,7 @@
         }
     ],
     "wof:id":1327374935,
-    "wof:lastmodified":1564174856,
+    "wof:lastmodified":1566594125,
     "wof:name":"Koggala",
     "wof:parent_id":1092058935,
     "wof:placetype":"locality",

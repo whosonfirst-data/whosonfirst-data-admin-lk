@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Colombo",
     "iso:country":"LK",
+    "lbl:bbox":"81.04667,6.79667,81.08667,6.83667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Pitawelagama",
         "Pitawela"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1360038845,
-    "wof:lastmodified":1537661409,
+    "wof:lastmodified":1566595254,
     "wof:name":"Pitawela",
     "wof:parent_id":1092057059,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Colombo",
     "iso:country":"LK",
+    "lbl:bbox":"81.1379,6.9159,81.1779,6.9559",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1309950631,
-    "wof:lastmodified":1536722825,
+    "wof:lastmodified":1566595337,
     "wof:name":"Thawalanmandiya",
     "wof:parent_id":1092065181,
     "wof:placetype":"locality",

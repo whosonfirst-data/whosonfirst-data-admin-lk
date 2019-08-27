@@ -12,9 +12,12 @@
     "iso:country":"LK",
     "lbl:latitude":6.934744,
     "lbl:longitude":79.842725,
+    "lbl:max_zoom":13.0,
+    "lbl:min_zoom":7.0,
     "mz:hierarchy_label":1,
     "mz:is_approximate":1,
     "mz:is_current":1,
+    "mz:min_zoom":5.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:afr_x_preferred":[
         "Colombo"
@@ -352,7 +355,7 @@
     "name:ukr_x_preferred":[
         "\u041a\u043e\u043b\u043e\u043c\u0431\u043e"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Columbo"
     ],
     "name:urd_x_preferred":[
@@ -420,7 +423,7 @@
         "gn:id":1248991,
         "gp:id":2189783,
         "loc:id":"n81028138",
-        "qs:id":211630,
+        "qs_pg:id":211630,
         "wd:id":"Q35381",
         "wk:page":"Colombo"
     },
@@ -437,7 +440,7 @@
         }
     ],
     "wof:id":421201495,
-    "wof:lastmodified":1563573279,
+    "wof:lastmodified":1566595377,
     "wof:name":"Colombo",
     "wof:parent_id":1092057419,
     "wof:placetype":"locality",

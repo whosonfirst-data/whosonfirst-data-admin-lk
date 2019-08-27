@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":9.689869,
     "lbl:longitude":80.021434,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Jaffna",
     "meso:admin_1r":"Northern",
     "meso:dissme":"NallurJaffnaNorthern",
@@ -31,6 +33,7 @@
     "mps:longitude":80.021434,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:cat_x_preferred":[
         "Nallur"
     ],
@@ -47,9 +50,9 @@
         "Nallur"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2012-03-20",
+    "src:population_date":"2012-03-20",
     "statoids:area_km":"38",
     "statoids:as_of_date":"2012-03-20",
     "statoids:capital":"Nallur",
@@ -81,7 +84,7 @@
         }
     ],
     "wof:id":1092063801,
-    "wof:lastmodified":1564176701,
+    "wof:lastmodified":1566595312,
     "wof:name":"Nallur",
     "wof:parent_id":85673769,
     "wof:placetype":"county",

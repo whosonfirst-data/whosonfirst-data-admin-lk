@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Colombo",
     "iso:country":"LK",
+    "lbl:bbox":"80.447,7.4728,80.487,7.5128",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1293729655,
-    "wof:lastmodified":1536935908,
+    "wof:lastmodified":1566594604,
     "wof:name":"Tumbana",
     "wof:parent_id":1092065951,
     "wof:placetype":"locality",

@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":6.371049,
     "lbl:longitude":80.386479,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Galle",
     "meso:admin_1r":"Southern",
     "meso:dissme":"NeluwaGalleSouthern",
@@ -31,6 +33,7 @@
     "mps:longitude":80.386479,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:eng_x_preferred":[
         "Neluwa"
     ],
@@ -38,9 +41,9 @@
         "Neluwa"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2012-03-20",
+    "src:population_date":"2012-03-20",
     "statoids:area_km":"155",
     "statoids:as_of_date":"2012-03-20",
     "statoids:capital":"Neluwa",
@@ -72,7 +75,7 @@
         }
     ],
     "wof:id":1092064097,
-    "wof:lastmodified":1553718098,
+    "wof:lastmodified":1566595292,
     "wof:name":"Neluwa",
     "wof:parent_id":85673789,
     "wof:placetype":"county",

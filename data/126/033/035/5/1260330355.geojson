@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Colombo",
     "iso:country":"LK",
+    "lbl:bbox":"79.96854,8.90026,80.00854,8.94026",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:tam_x_historical":[
         "\u0baa\u0bbe\u0bb2\u0bc8\u0b95\u0bcd\u0b95\u0bc1\u0bb3\u0bbf"
     ],
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":1260330355,
-    "wof:lastmodified":1537551698,
+    "wof:lastmodified":1566595093,
     "wof:name":"Paalaikkuly",
     "wof:parent_id":1092062755,
     "wof:placetype":"locality",

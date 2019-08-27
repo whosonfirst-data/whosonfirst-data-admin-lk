@@ -10,8 +10,12 @@
     "geom:latitude":6.97078,
     "geom:longitude":80.78286,
     "iso:country":"LK",
+    "lbl:bbox":"80.76286,6.95078,80.80286,6.99078",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ara_x_preferred":[
         "\u0646\u0648\u0627\u0631\u0627 \u0625\u0644\u064a\u0627"
@@ -130,7 +134,7 @@
     "name:ukr_x_preferred":[
         "\u041d\u0443\u0432\u0430\u0440\u0430-\u0415\u043b\u0456\u044f"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Nuwari Eliya"
     ],
     "name:urd_x_preferred":[
@@ -175,7 +179,7 @@
     "wof:concordances":{
         "gn:id":1232783,
         "gp:id":2189687,
-        "qs:id":235510,
+        "qs_pg:id":235510,
         "wd:id":"Q1340579",
         "wk:page":"Nuwara Eliya"
     },
@@ -192,7 +196,7 @@
         }
     ],
     "wof:id":421203937,
-    "wof:lastmodified":1563573250,
+    "wof:lastmodified":1566595369,
     "wof:name":"Nuwara Eliya",
     "wof:parent_id":1092064313,
     "wof:placetype":"locality",

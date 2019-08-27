@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Colombo",
     "iso:country":"LK",
+    "lbl:bbox":"80.0241,6.3138,80.0641,6.3538",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Dalgahakele"
     ],
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1226396287,
-    "wof:lastmodified":1537661579,
+    "wof:lastmodified":1566595770,
     "wof:name":"Delgahakele",
     "wof:parent_id":1092056933,
     "wof:placetype":"locality",

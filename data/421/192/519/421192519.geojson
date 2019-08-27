@@ -10,8 +10,11 @@
     "geom:latitude":6.03333,
     "geom:longitude":80.21667,
     "iso:country":"LK",
+    "lbl:bbox":"80.21167,6.02833,80.22167,6.03833",
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":15.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:eng_x_preferred":[
         "China Garden"
@@ -49,7 +52,7 @@
     "wof:concordances":{
         "gn:id":1249139,
         "gp:id":2174983,
-        "qs:id":1168339,
+        "qs_pg:id":1168339,
         "wd:id":"Q5099692",
         "wk:page":"China Garden"
     },
@@ -67,7 +70,7 @@
         }
     ],
     "wof:id":421192519,
-    "wof:lastmodified":1563573236,
+    "wof:lastmodified":1566595365,
     "wof:name":"China Garden",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

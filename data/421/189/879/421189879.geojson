@@ -10,10 +10,14 @@
     "geom:latitude":6.43333,
     "geom:longitude":80.01667,
     "iso:country":"LK",
+    "lbl:bbox":"79.99667,6.41333,80.03667,6.45333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Hetiwatta"
     ],
     "qs:gn_country":"LK",
@@ -45,7 +49,7 @@
     "wof:concordances":{
         "gn:id":1244257,
         "gp:id":2177701,
-        "qs:id":1117323
+        "qs_pg:id":1117323
     },
     "wof:country":"LK",
     "wof:created":1459009639,
@@ -60,7 +64,7 @@
         }
     ],
     "wof:id":421189879,
-    "wof:lastmodified":1501217337,
+    "wof:lastmodified":1566595373,
     "wof:name":"Hettiwatta",
     "wof:parent_id":1092057133,
     "wof:placetype":"locality",

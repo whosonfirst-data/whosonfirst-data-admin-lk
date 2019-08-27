@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Colombo",
     "iso:country":"LK",
+    "lbl:bbox":"80.01333,7.56333,80.05333,7.60333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Kanatolawa",
         "Kanatolawa Kuppayama"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1293449429,
-    "wof:lastmodified":1537661514,
+    "wof:lastmodified":1566594612,
     "wof:name":"Kanatolawa Kuppayama",
     "wof:parent_id":1092064771,
     "wof:placetype":"locality",

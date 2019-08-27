@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Colombo",
     "iso:country":"LK",
+    "lbl:bbox":"79.809,7.9362,79.849,7.9762",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Puliyankulama South"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1326679185,
-    "wof:lastmodified":1537661403,
+    "wof:lastmodified":1566594172,
     "wof:name":"Puliyankulam South",
     "wof:parent_id":1092065617,
     "wof:placetype":"locality",

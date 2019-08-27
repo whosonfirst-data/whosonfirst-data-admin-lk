@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Colombo",
     "iso:country":"LK",
+    "lbl:bbox":"80.4302,6.5995,80.4702,6.6395",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ces_x_preferred":[
         "Deleatur"
     ],
@@ -72,7 +76,7 @@
         }
     ],
     "wof:id":1344211301,
-    "wof:lastmodified":1564175312,
+    "wof:lastmodified":1566594398,
     "wof:name":"Dele",
     "wof:parent_id":1092064197,
     "wof:placetype":"locality",

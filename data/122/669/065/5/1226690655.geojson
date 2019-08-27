@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Colombo",
     "iso:country":"LK",
+    "lbl:bbox":"81.0241,7.0265,81.0641,7.0665",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:fra_x_preferred":[
         "Kohana"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1226690655,
-    "wof:lastmodified":1564177280,
+    "wof:lastmodified":1566595657,
     "wof:name":"Kohana",
     "wof:parent_id":1092066285,
     "wof:placetype":"locality",

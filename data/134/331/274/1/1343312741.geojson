@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Colombo",
     "iso:country":"LK",
+    "lbl:bbox":"80.83,7.26333,80.87,7.30333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Nugetenna",
         "Nugatenna"
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1343312741,
-    "wof:lastmodified":1537661434,
+    "wof:lastmodified":1566594272,
     "wof:name":"Nugatenna",
     "wof:parent_id":1092066935,
     "wof:placetype":"locality",
