@@ -22,6 +22,7 @@
     ],
     "lbl:latitude":8.855583,
     "lbl:longitude":80.074387,
+    "lbl:min_zoom":8.0,
     "mps:latitude":8.858169,
     "mps:longitude":80.065792,
     "mz:hierarchy_label":1,
@@ -142,9 +143,6 @@
     "name:ukr_x_preferred":[
         "\u041c\u0430\u043d\u043d\u0430\u0440"
     ],
-    "name:unk_x_variant":[
-        "Mannar District"
-    ],
     "name:urd_x_preferred":[
         "\u0645\u0627\u0646\u0627\u0631 \u0636\u0644\u0639"
     ],
@@ -228,9 +226,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2012-03-20",
+    "src:population_date":"2012-03-20",
     "statoids:area_km":"1,963",
     "statoids:area_mi":"758",
     "statoids:as_of_date":"2012-03-20",
@@ -256,7 +254,7 @@
         "gp:id":23706506,
         "hasc:id":"LK.MB",
         "iso:id":"LK-43",
-        "qs:id":953632,
+        "qs_pg:id":953632,
         "unlc:id":"LK-43",
         "wd:id":"Q178003"
     },
@@ -278,11 +276,10 @@
         "sin",
         "tam"
     ],
-    "wof:lastmodified":1565726588,
+    "wof:lastmodified":1566594443,
     "wof:name":"Mann\u0101rama",
     "wof:parent_id":85632313,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"district",
     "wof:population":99570,
     "wof:population_rank":8,

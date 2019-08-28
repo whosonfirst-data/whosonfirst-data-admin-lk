@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":7.879717,
     "lbl:longitude":80.727654,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Matale",
     "meso:admin_1r":"Central",
     "meso:dissme":"DambullaMataleCentral",
@@ -31,6 +33,7 @@
     "mps:longitude":80.727654,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ara_x_preferred":[
         "\u062f\u0627\u0645\u0628\u0648\u0644\u0627"
     ],
@@ -107,9 +110,9 @@
         "\u4e39\u5e03\u52d2"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2012-03-20",
+    "src:population_date":"2012-03-20",
     "statoids:area_km":"444",
     "statoids:as_of_date":"2012-03-20",
     "statoids:capital":"Dambulla",
@@ -141,7 +144,7 @@
         }
     ],
     "wof:id":1092057503,
-    "wof:lastmodified":1564176658,
+    "wof:lastmodified":1566595274,
     "wof:name":"Dambulla",
     "wof:parent_id":85673723,
     "wof:placetype":"county",

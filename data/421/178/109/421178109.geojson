@@ -10,8 +10,12 @@
     "geom:latitude":7.2547,
     "geom:longitude":80.5242,
     "iso:country":"LK",
+    "lbl:bbox":"80.5042,7.2347,80.5442,7.2747",
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ceb_x_preferred":[
         "Kadugannawa"
@@ -37,7 +41,7 @@
     "name:tam_x_preferred":[
         "\u0b95\u0b9f\u0bc1\u0b95\u0ba3\u0bcd\u0ba3\u0bbe\u0bb5\u0bc8"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Kadugawnawa"
     ],
     "name:urd_x_preferred":[
@@ -74,7 +78,7 @@
     "wof:concordances":{
         "gn:id":1242571,
         "gp:id":2178724,
-        "qs:id":41340,
+        "qs_pg:id":41340,
         "wd:id":"Q6345741",
         "wk:page":"Kadugannawa"
     },
@@ -91,7 +95,7 @@
         }
     ],
     "wof:id":421178109,
-    "wof:lastmodified":1563573285,
+    "wof:lastmodified":1566595379,
     "wof:name":"Kadugannawa",
     "wof:parent_id":1092068267,
     "wof:placetype":"locality",

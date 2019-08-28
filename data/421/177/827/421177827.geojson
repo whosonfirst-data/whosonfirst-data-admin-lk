@@ -10,8 +10,12 @@
     "geom:latitude":6.338,
     "geom:longitude":80.0262,
     "iso:country":"LK",
+    "lbl:bbox":"80.0062,6.318,80.0462,6.358",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:eng_x_preferred":[
         "Kosgoda"
@@ -49,7 +53,7 @@
     "wof:concordances":{
         "gn:id":1239236,
         "gp:id":2180590,
-        "qs:id":1354005,
+        "qs_pg:id":1354005,
         "wd:id":"Q15239801",
         "wk:page":"Kosgoda"
     },
@@ -66,7 +70,7 @@
         }
     ],
     "wof:id":421177827,
-    "wof:lastmodified":1561830630,
+    "wof:lastmodified":1566595378,
     "wof:name":"Kosgoda",
     "wof:parent_id":1092056933,
     "wof:placetype":"locality",

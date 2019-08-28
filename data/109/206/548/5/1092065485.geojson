@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":7.503898,
     "lbl:longitude":81.711392,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Batticaloa",
     "meso:admin_1r":"Eastern",
     "meso:dissme":"Poratheevu PattuBatticaloaEastern",
@@ -31,6 +33,7 @@
     "mps:longitude":81.711392,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:eng_x_preferred":[
         "Porativu Pattu"
     ],
@@ -38,9 +41,9 @@
         "Porativu Pattu"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2012-03-20",
+    "src:population_date":"2012-03-20",
     "statoids:area_km":"182",
     "statoids:as_of_date":"2012-03-20",
     "statoids:capital":"",
@@ -72,7 +75,7 @@
         }
     ],
     "wof:id":1092065485,
-    "wof:lastmodified":1553718099,
+    "wof:lastmodified":1566595313,
     "wof:name":"Poratheevu Pattu",
     "wof:parent_id":85673737,
     "wof:placetype":"county",

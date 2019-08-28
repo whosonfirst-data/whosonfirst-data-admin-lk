@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Colombo",
     "iso:country":"LK",
+    "lbl:bbox":"80.41333,7.79667,80.45333,7.83667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632313
@@ -34,7 +38,7 @@
         "gn:id":1242320
     },
     "wof:country":"LK",
-    "wof:geomhash":"1371781066891c14ee842f238cbeb06e",
+    "wof:geomhash":"3a2698ea4808ac13f7149a20c55436da",
     "wof:hierarchy":[
         {
             "country_id":85632313,
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":1209260323,
-    "wof:lastmodified":1536292712,
+    "wof:lastmodified":1566594932,
     "wof:name":"Kalahapokuna",
     "wof:parent_id":85632313,
     "wof:placetype":"locality",
@@ -53,9 +57,9 @@
 },
   "bbox": [
     80.43333,
-    7.8166699999999985,
+    7.81667,
     80.43333,
-    7.8166699999999985
+    7.81667
 ],
   "geometry": {"coordinates":[80.43333,7.81667],"type":"Point"}
 }

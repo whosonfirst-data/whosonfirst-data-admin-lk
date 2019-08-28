@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Colombo",
     "iso:country":"LK",
+    "lbl:bbox":"80.3966,7.4863,80.4366,7.5263",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Kongaswala"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1327293439,
-    "wof:lastmodified":1537661495,
+    "wof:lastmodified":1566594259,
     "wof:name":"Koongaswela",
     "wof:parent_id":1092063021,
     "wof:placetype":"locality",

@@ -22,6 +22,7 @@
     ],
     "lbl:latitude":7.998774,
     "lbl:longitude":81.031591,
+    "lbl:min_zoom":8.0,
     "mps:latitude":7.999882,
     "mps:longitude":81.051073,
     "mz:hierarchy_label":1,
@@ -142,9 +143,6 @@
     "name:ukr_x_preferred":[
         "\u041f\u043e\u043b\u043e\u043d\u043d\u0430\u0440\u0443\u0432\u0430"
     ],
-    "name:unk_x_variant":[
-        "Polonnaruwa District"
-    ],
     "name:urd_x_preferred":[
         "\u067e\u0648\u0644\u0648\u0646\u0627\u0631\u0648\u0648\u0627 \u0636\u0644\u0639"
     ],
@@ -228,9 +226,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2012-03-20",
+    "src:population_date":"2012-03-20",
     "statoids:area_km":"3,403",
     "statoids:area_mi":"1,314",
     "statoids:as_of_date":"2012-03-20",
@@ -255,7 +253,7 @@
         "gp:id":23706504,
         "hasc:id":"LK.PR",
         "iso:id":"LK-72",
-        "qs:id":1086139,
+        "qs_pg:id":1086139,
         "unlc:id":"LK-72",
         "wd:id":"Q931057",
         "wk:page":"Polonnaruwa District"
@@ -278,11 +276,10 @@
         "sin",
         "tam"
     ],
-    "wof:lastmodified":1565726590,
+    "wof:lastmodified":1566594445,
     "wof:name":"P\u014f\u1e37\u014fnnaruva",
     "wof:parent_id":85632313,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"district",
     "wof:population":406088,
     "wof:population_rank":10,

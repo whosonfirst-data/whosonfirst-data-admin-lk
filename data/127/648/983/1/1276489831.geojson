@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Colombo",
     "iso:country":"LK",
+    "lbl:bbox":"80.1037,6.4848,80.1437,6.5248",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1276489831,
-    "wof:lastmodified":1537063511,
+    "wof:lastmodified":1566594760,
     "wof:name":"Owitigala",
     "wof:parent_id":1092062959,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Colombo",
     "iso:country":"LK",
+    "lbl:bbox":"80.81333,7.21333,80.85333,7.25333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Mahakumbura"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1293734775,
-    "wof:lastmodified":1564175608,
+    "wof:lastmodified":1566594595,
     "wof:name":"Mahakumbura",
     "wof:parent_id":1092063065,
     "wof:placetype":"locality",

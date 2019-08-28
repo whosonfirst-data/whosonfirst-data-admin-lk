@@ -11,11 +11,14 @@
     "geom:longitude":79.85357,
     "gn:country":"LK",
     "gn:fcode":"BLDG",
-    "gn:pop":60,
+    "gn:population":60,
     "iso:country":"LK",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:is_funky":1,
+    "mz:min_zoom":11.0,
     "qs:name":"FCCISL",
     "qs:photos_9r":0,
     "qs:photos_sr":0,
@@ -31,7 +34,7 @@
     "wof:concordances":{
         "gn:id":6285796,
         "gp:id":2189783,
-        "qs:id":617157
+        "qs_pg:id":617157
     },
     "wof:country":"LK",
     "wof:created":1469051227,
@@ -46,7 +49,7 @@
         }
     ],
     "wof:id":890417941,
-    "wof:lastmodified":1505343441,
+    "wof:lastmodified":1566595382,
     "wof:name":"FCCISL",
     "wof:parent_id":1092057419,
     "wof:placetype":"locality",

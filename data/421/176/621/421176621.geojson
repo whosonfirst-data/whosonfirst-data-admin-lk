@@ -10,8 +10,11 @@
     "geom:latitude":5.95,
     "geom:longitude":80.55,
     "iso:country":"LK",
+    "lbl:bbox":"80.545,5.945,80.555,5.955",
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":15.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:eng_x_preferred":[
         "Walpola"
@@ -49,7 +52,7 @@
     "wof:concordances":{
         "gn:id":1224339,
         "gp:id":2188506,
-        "qs:id":387896,
+        "qs_pg:id":387896,
         "wd:id":"Q7963718"
     },
     "wof:country":"LK",
@@ -66,7 +69,7 @@
         }
     ],
     "wof:id":421176621,
-    "wof:lastmodified":1563573288,
+    "wof:lastmodified":1566595380,
     "wof:name":"Walpola",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

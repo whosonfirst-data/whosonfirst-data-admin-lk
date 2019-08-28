@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Colombo",
     "iso:country":"LK",
+    "lbl:bbox":"80.2959,7.4282,80.3359,7.4682",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1243503671,
-    "wof:lastmodified":1536723513,
+    "wof:lastmodified":1566595474,
     "wof:name":"Godawita",
     "wof:parent_id":1092067783,
     "wof:placetype":"locality",

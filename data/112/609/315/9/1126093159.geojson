@@ -9,16 +9,19 @@
     "geom:bbox":"79.8491,6.9376,79.8491,6.9376",
     "geom:latitude":6.9376,
     "geom:longitude":79.8491,
-    "gn:gn_country":"LK",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
+    "gn:country":"LK",
+    "gn:fcode":"PPL",
     "gn:latitude":6.9376,
     "gn:longitude":79.8491,
+    "gn:population":0,
     "iso:country":"LK",
+    "lbl:bbox":"79.8441,6.9326,79.8541,6.9426",
     "lbl:latitude":6.9376,
     "lbl:longitude":79.8491,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":15.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:eng_x_preferred":[
         "Pettah"
@@ -37,10 +40,6 @@
     ],
     "name:tam_x_preferred":[
         "\u0baa\u0bc1\u0bb1\u0b95\u0bcd\u0b95\u0bcb\u0b9f\u0bcd\u0b9f\u0bc8"
-    ],
-    "name:unk_x_variant":[
-        "Pettal",
-        "Pettah"
     ],
     "name:zho_x_preferred":[
         "\u58c1\u6cf0"
@@ -66,7 +65,7 @@
     "qs_pg:woe_adm0":23424778,
     "qs_pg:woe_id":2185432,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "woe:adm0_id":23424778,
     "woe:name_adm0":"Sri Lanka",
     "woe:name_adm1":"Western",
@@ -81,7 +80,6 @@
     "wof:concordances":{
         "gn:id":1230317,
         "gp:id":2185432,
-        "qs:id":222748,
         "qs_pg:id":222748,
         "wd:id":"Q3523274",
         "wk:page":"Pettah, Sri Lanka"
@@ -100,7 +98,7 @@
         }
     ],
     "wof:id":1126093159,
-    "wof:lastmodified":1563573298,
+    "wof:lastmodified":1566595384,
     "wof:name":"Pettah",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

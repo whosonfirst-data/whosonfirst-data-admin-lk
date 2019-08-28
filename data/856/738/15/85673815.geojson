@@ -22,6 +22,7 @@
     ],
     "lbl:latitude":7.118013,
     "lbl:longitude":80.014437,
+    "lbl:min_zoom":8.0,
     "mps:latitude":7.115218,
     "mps:longitude":80.008884,
     "mz:hierarchy_label":1,
@@ -80,7 +81,7 @@
         "\u30ac\u30f3\u30d1\u30cf\u770c"
     ],
     "name:kan_x_preferred":[
-        "\u0c97\u0cbe\u0c82\u0caa\u0cb9  \u0c9c\u0cbf\u0cb2\u0ccd\u0cb2\u0cc6"
+        "\u0c97\u0cbe\u0c82\u0caa\u0cb9 \u0c9c\u0cbf\u0cb2\u0ccd\u0cb2\u0cc6"
     ],
     "name:kat_x_preferred":[
         "\u10d2\u10d0\u10db\u10de\u10d0\u10f0\u10d8\u10e1 \u10dd\u10da\u10e5\u10d8"
@@ -141,9 +142,6 @@
     ],
     "name:ukr_x_preferred":[
         "\u0413\u0430\u043c\u043f\u0430\u0445\u0430"
-    ],
-    "name:unk_x_variant":[
-        "Gampaha District"
     ],
     "name:urd_x_preferred":[
         "\u06af\u0627\u0645\u067e\u0627\u06c1\u0627 \u0636\u0644\u0639"
@@ -228,9 +226,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2012-03-20",
+    "src:population_date":"2012-03-20",
     "statoids:area_km":"1,393",
     "statoids:area_mi":"538",
     "statoids:as_of_date":"2012-03-20",
@@ -255,7 +253,7 @@
         "gp:id":23706491,
         "hasc:id":"LK.GQ",
         "iso:id":"LK-12",
-        "qs:id":896537,
+        "qs_pg:id":896537,
         "unlc:id":"LK-12",
         "wd:id":"Q206344",
         "wk:page":"Gampaha District"
@@ -278,11 +276,10 @@
         "sin",
         "tam"
     ],
-    "wof:lastmodified":1565726591,
+    "wof:lastmodified":1566594448,
     "wof:name":"Gampaha",
     "wof:parent_id":85632313,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"district",
     "wof:population":2304833,
     "wof:population_rank":12,

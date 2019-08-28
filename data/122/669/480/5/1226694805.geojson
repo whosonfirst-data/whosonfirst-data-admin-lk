@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Colombo",
     "iso:country":"LK",
+    "lbl:bbox":"80.99667,7.39667,81.03667,7.43667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Seeniagaslanda",
         "Seenigaslanda"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1226694805,
-    "wof:lastmodified":1537661390,
+    "wof:lastmodified":1566595663,
     "wof:name":"Seenigaslanda",
     "wof:parent_id":1092062329,
     "wof:placetype":"locality",

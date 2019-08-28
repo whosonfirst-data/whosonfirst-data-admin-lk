@@ -10,6 +10,9 @@
     "geom:latitude":8.35647,
     "geom:longitude":80.41726,
     "iso:country":"LK",
+    "lbl:bbox":"80.39726,8.33647,80.43726,8.37647",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.0,
@@ -200,7 +203,7 @@
     "name:ukr_x_preferred":[
         "\u0410\u043d\u0443\u0440\u0430\u0434\u0445\u0430\u043f\u0443\u0440\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Anuradhapura Town"
     ],
     "name:urd_x_preferred":[
@@ -346,7 +349,7 @@
     "wof:concordances":{
         "gn:id":1251081,
         "gp:id":2189761,
-        "qs:id":235523,
+        "qs_pg:id":235523,
         "wd:id":"Q5724",
         "wk:page":"Anuradhapura"
     },
@@ -363,7 +366,7 @@
         }
     ],
     "wof:id":421195427,
-    "wof:lastmodified":1563573243,
+    "wof:lastmodified":1566595366,
     "wof:name":"Anuradhapura",
     "wof:parent_id":1092064353,
     "wof:placetype":"locality",

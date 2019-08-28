@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Colombo",
     "iso:country":"LK",
+    "lbl:bbox":"79.9882,9.7485,80.0282,9.7885",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:fas_x_preferred":[
         "\u0627\u0644\u0627\u0648\u062f\u06cc"
     ],
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1344208699,
-    "wof:lastmodified":1564175343,
+    "wof:lastmodified":1566594418,
     "wof:name":"Alaveddi",
     "wof:parent_id":1092067143,
     "wof:placetype":"locality",

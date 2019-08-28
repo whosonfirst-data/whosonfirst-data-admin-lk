@@ -22,6 +22,7 @@
     ],
     "lbl:latitude":6.579552,
     "lbl:longitude":80.565741,
+    "lbl:min_zoom":8.0,
     "mps:latitude":6.579447,
     "mps:longitude":80.559943,
     "mz:hierarchy_label":1,
@@ -69,7 +70,7 @@
         "\u0ab0\u0aa4\u0acd\u0aa8\u0abe\u0aaa\u0ac1\u0ab0\u0abe \u0a9c\u0abf\u0ab2\u0acd\u0ab2\u0acb"
     ],
     "name:hin_x_preferred":[
-        "\u0930\u0924\u094d\u0928\u092a\u0941\u0930  \u091c\u093f\u0932\u093e"
+        "\u0930\u0924\u094d\u0928\u092a\u0941\u0930 \u091c\u093f\u0932\u093e"
     ],
     "name:ind_x_preferred":[
         "Distrik Ratnapura"
@@ -142,9 +143,6 @@
     ],
     "name:ukr_x_preferred":[
         "\u0420\u0430\u0442\u043d\u0430\u043f\u0443\u0440\u0430"
-    ],
-    "name:unk_x_variant":[
-        "Ratnapura District"
     ],
     "name:urd_x_preferred":[
         "\u0631\u062a\u0646\u0627\u067e\u0648\u0631\u06c1 \u0636\u0644\u0639"
@@ -229,9 +227,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2012-03-20",
+    "src:population_date":"2012-03-20",
     "statoids:area_km":"3,237",
     "statoids:area_mi":"1,250",
     "statoids:as_of_date":"2012-03-20",
@@ -256,7 +254,7 @@
         "gp:id":23706494,
         "hasc:id":"LK.RN",
         "iso:id":"LK-91",
-        "qs:id":219948,
+        "qs_pg:id":219948,
         "unlc:id":"LK-91",
         "wd:id":"Q1587175",
         "wk:page":"Ratnapura District"
@@ -279,11 +277,10 @@
         "sin",
         "tam"
     ],
-    "wof:lastmodified":1565726590,
+    "wof:lastmodified":1566594447,
     "wof:name":"Ratnapura",
     "wof:parent_id":85632313,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"district",
     "wof:population":1088007,
     "wof:population_rank":12,

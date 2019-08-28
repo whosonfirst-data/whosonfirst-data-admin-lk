@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Colombo",
     "iso:country":"LK",
+    "lbl:bbox":"80.4136,6.687,80.4536,6.727",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Malwala Junction",
         "Malwala"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1327183015,
-    "wof:lastmodified":1537661468,
+    "wof:lastmodified":1566594265,
     "wof:name":"Malwala",
     "wof:parent_id":1092065839,
     "wof:placetype":"locality",

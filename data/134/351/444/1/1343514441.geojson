@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Colombo",
     "iso:country":"LK",
+    "lbl:bbox":"80.0758,6.5094,80.1158,6.5494",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:guj_x_preferred":[
         "\u0aaa\u0abe\u0a82\u0aa4\u0abf\u0aaf\u0abe"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1343514441,
-    "wof:lastmodified":1564175283,
+    "wof:lastmodified":1566594378,
     "wof:name":"Pantiya",
     "wof:parent_id":1092062959,
     "wof:placetype":"locality",

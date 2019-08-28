@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Colombo",
     "iso:country":"LK",
+    "lbl:bbox":"80.1075,6.387,80.1475,6.427",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Kuda"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1276714025,
-    "wof:lastmodified":1564175837,
+    "wof:lastmodified":1566594749,
     "wof:name":"Kuda",
     "wof:parent_id":1092067493,
     "wof:placetype":"locality",

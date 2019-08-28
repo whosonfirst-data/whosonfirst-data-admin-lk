@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Colombo",
     "iso:country":"LK",
+    "lbl:bbox":"80.2706,7.0195,80.3106,7.0595",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Mipitikande",
         "Mipitikanda"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1243113431,
-    "wof:lastmodified":1537661455,
+    "wof:lastmodified":1566595528,
     "wof:name":"Mipitikanda",
     "wof:parent_id":1092068305,
     "wof:placetype":"locality",

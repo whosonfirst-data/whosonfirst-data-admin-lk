@@ -5,15 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":9685226.949853,
+    "geom:area_square_m":0.0,
     "geom:bbox":"79.853745,6.91657,79.853745,6.91657",
     "geom:latitude":6.91657,
     "geom:longitude":79.853745,
     "gn:latitude":6.91667,
     "gn:longitude":79.85,
     "iso:country":"LK",
+    "lbl:bbox":"79.848745,6.91157,79.858745,6.92157",
     "lbl:latitude":6.91657,
     "lbl:longitude":79.853745,
+    "lbl:max_zoom":18.0,
     "mps:latitude":6.914488,
     "mps:longitude":79.852016,
     "mz:hierarchy_label":0,
@@ -36,9 +38,6 @@
     ],
     "name:tam_x_preferred":[
         "\u0b95\u0bca\u0bae\u0bcd\u0baa\u0ba9\u0bbf\u0ba4\u0bcd \u0ba4\u0bc6\u0bb0\u0bc1"
-    ],
-    "name:unk_x_variant":[
-        "Slave Island"
     ],
     "qs:gn_adm0_cc":"LK",
     "qs:gn_fcode":"PPLX",
@@ -68,19 +67,19 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wd:wordcount":278,
     "wof:belongsto":[
+        85673811,
         102191569,
         85632313,
-        1092057419,
-        85673811
+        1092057419
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1227667,
         "gp:id":2186731,
-        "qs:id":238657,
+        "qs_pg:id":238657,
         "wd:id":"Q3523211",
         "wk:page":"Slave Island"
     },
@@ -100,7 +99,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531859573,
+    "wof:lastmodified":1566594443,
     "wof:name":"Slave Island",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

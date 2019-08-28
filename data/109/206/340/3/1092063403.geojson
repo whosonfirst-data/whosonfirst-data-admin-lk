@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":7.198292,
     "lbl:longitude":80.111218,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Gampaha",
     "meso:admin_1r":"Western",
     "meso:dissme":"MirigamaGampahaWestern",
@@ -31,6 +33,7 @@
     "mps:longitude":80.111218,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:eng_x_preferred":[
         "Merigama"
     ],
@@ -41,9 +44,9 @@
         "\u0db8\u0dd3\u0dbb\u0dd2\u0d9c\u0db8"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2012-03-20",
+    "src:population_date":"2012-03-20",
     "statoids:area_km":"183",
     "statoids:as_of_date":"2012-03-20",
     "statoids:capital":"Mirigama",
@@ -75,7 +78,7 @@
         }
     ],
     "wof:id":1092063403,
-    "wof:lastmodified":1564176683,
+    "wof:lastmodified":1566595298,
     "wof:name":"Mirigama",
     "wof:parent_id":85673815,
     "wof:placetype":"county",

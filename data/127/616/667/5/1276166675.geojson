@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Colombo",
     "iso:country":"LK",
+    "lbl:bbox":"80.9803,8.33,81.0203,8.37",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:rus_x_preferred":[
         "\u041a\u0430\u043d\u0442\u0430\u043b\u0430\u0439"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1276166675,
-    "wof:lastmodified":1564175717,
+    "wof:lastmodified":1566594668,
     "wof:name":"Kantale",
     "wof:parent_id":1092060425,
     "wof:placetype":"locality",

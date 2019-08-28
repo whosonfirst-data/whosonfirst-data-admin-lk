@@ -10,6 +10,9 @@
     "geom:latitude":6.9895,
     "geom:longitude":81.0557,
     "iso:country":"LK",
+    "lbl:bbox":"81.0357,6.9695,81.0757,7.0095",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.7,
@@ -266,7 +269,7 @@
     "wof:concordances":{
         "gn:id":1250615,
         "gp:id":2189686,
-        "qs:id":1298279,
+        "qs_pg:id":1298279,
         "wd:id":"Q390096",
         "wk:page":"Badulla"
     },
@@ -283,7 +286,7 @@
         }
     ],
     "wof:id":421168829,
-    "wof:lastmodified":1563573233,
+    "wof:lastmodified":1566595363,
     "wof:name":"Badulla",
     "wof:parent_id":1092056843,
     "wof:placetype":"locality",

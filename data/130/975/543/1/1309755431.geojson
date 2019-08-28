@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Colombo",
     "iso:country":"LK",
+    "lbl:bbox":"80.24667,7.79667,80.28667,7.83667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Makulugaswewa",
         "Makullagaswewa",
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1309755431,
-    "wof:lastmodified":1537661470,
+    "wof:lastmodified":1566595354,
     "wof:name":"Makulgaswewa",
     "wof:parent_id":1092062365,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Colombo",
     "iso:country":"LK",
+    "lbl:bbox":"80.2186,8.4428,80.2586,8.4828",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Wanniya Helambewa",
         "Wanniya Helembewa"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1327194475,
-    "wof:lastmodified":1537661343,
+    "wof:lastmodified":1566594243,
     "wof:name":"Wanniya Helembewa",
     "wof:parent_id":1092062291,
     "wof:placetype":"locality",

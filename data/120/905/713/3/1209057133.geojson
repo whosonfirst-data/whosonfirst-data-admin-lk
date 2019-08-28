@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Colombo",
     "iso:country":"LK",
+    "lbl:bbox":"80.872,7.0882,80.912,7.1282",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Yombuweltenna"
     ],
@@ -49,7 +53,7 @@
         }
     ],
     "wof:id":1209057133,
-    "wof:lastmodified":1564176085,
+    "wof:lastmodified":1566594907,
     "wof:name":"Yombuwelthenna",
     "wof:parent_id":85632313,
     "wof:placetype":"locality",

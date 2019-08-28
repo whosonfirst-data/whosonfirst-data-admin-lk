@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Colombo",
     "iso:country":"LK",
+    "lbl:bbox":"80.2289,6.8446,80.2689,6.8846",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1276709469,
-    "wof:lastmodified":1536772500,
+    "wof:lastmodified":1566594753,
     "wof:name":"Beruwana",
     "wof:parent_id":1092058089,
     "wof:placetype":"locality",

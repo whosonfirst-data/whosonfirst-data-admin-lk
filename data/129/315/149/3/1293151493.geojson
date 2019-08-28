@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Colombo",
     "iso:country":"LK",
+    "lbl:bbox":"80.7313,7.1472,80.7713,7.1872",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Unantenna Pallegammedde",
         "Pallegammedda",
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1293151493,
-    "wof:lastmodified":1537661355,
+    "wof:lastmodified":1566594521,
     "wof:name":"Pallegammedda",
     "wof:parent_id":1092059139,
     "wof:placetype":"locality",

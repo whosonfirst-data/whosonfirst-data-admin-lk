@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Colombo",
     "iso:country":"LK",
+    "lbl:bbox":"80.9364,7.017,80.9764,7.057",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1310046355,
-    "wof:lastmodified":1537078601,
+    "wof:lastmodified":1566595184,
     "wof:name":"Ritikumbura",
     "wof:parent_id":1092067051,
     "wof:placetype":"locality",

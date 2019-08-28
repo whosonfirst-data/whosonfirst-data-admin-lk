@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Colombo",
     "iso:country":"LK",
+    "lbl:bbox":"80.3464,7.9462,80.3864,7.9862",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1327379665,
-    "wof:lastmodified":1536757124,
+    "wof:lastmodified":1566594123,
     "wof:name":"Nawagattegama",
     "wof:parent_id":1092058131,
     "wof:placetype":"locality",

@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Colombo",
     "iso:country":"LK",
+    "lbl:bbox":"81.06333,7.93,81.10333,7.97",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:nld_x_preferred":[
         "Pudur"
     ],
@@ -34,8 +38,7 @@
     ],
     "name:und_x_variant":[
         "Alutgama",
-        "Pudoor",
-        "Pudur"
+        "Pudoor"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -60,7 +63,7 @@
         }
     ],
     "wof:id":1343722649,
-    "wof:lastmodified":1564175387,
+    "wof:lastmodified":1566594441,
     "wof:name":"Pudur",
     "wof:parent_id":1092066437,
     "wof:placetype":"locality",

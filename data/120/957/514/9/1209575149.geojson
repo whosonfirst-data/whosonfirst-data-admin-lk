@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Colombo",
     "iso:country":"LK",
+    "lbl:bbox":"79.8059,7.682,79.8459,7.722",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632313
@@ -34,7 +38,7 @@
         "gn:id":1243268
     },
     "wof:country":"LK",
-    "wof:geomhash":"cdc5c195e955ac1c1e1d9b5a378740ca",
+    "wof:geomhash":"44a6526bf3788821555e0b21f786c25a",
     "wof:hierarchy":[
         {
             "country_id":85632313,
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":1209575149,
-    "wof:lastmodified":1536282962,
+    "wof:lastmodified":1566594871,
     "wof:name":"Ilakkattuwa",
     "wof:parent_id":85632313,
     "wof:placetype":"locality",
@@ -53,9 +57,9 @@
 },
   "bbox": [
     79.8259,
-    7.702000000000001,
+    7.702,
     79.8259,
-    7.702000000000001
+    7.702
 ],
   "geometry": {"coordinates":[79.8259,7.702],"type":"Point"}
 }

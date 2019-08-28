@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Colombo",
     "iso:country":"LK",
+    "lbl:bbox":"80.6174,7.9124,80.6574,7.9524",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Ihala Bakmigahaulpota"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1243122391,
-    "wof:lastmodified":1537661531,
+    "wof:lastmodified":1566595448,
     "wof:name":"Bakmeegahaulpota",
     "wof:parent_id":1092060793,
     "wof:placetype":"locality",

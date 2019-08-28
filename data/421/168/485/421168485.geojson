@@ -10,8 +10,12 @@
     "geom:latitude":6.8735,
     "geom:longitude":79.8899,
     "iso:country":"LK",
+    "lbl:bbox":"79.8699,6.8535,79.9099,6.8935",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:eng_x_preferred":[
         "Nugegoda"
@@ -31,7 +35,7 @@
     "name:tam_x_preferred":[
         "\u0ba8\u0bc1\u0b95\u0bc7\u0b95\u0bca\u0b9f\u0bc8"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Nugeoda"
     ],
     "qs:gn_country":"LK",
@@ -64,7 +68,7 @@
     "wof:concordances":{
         "gn:id":1232807,
         "gp:id":2184042,
-        "qs:id":894797,
+        "qs_pg:id":894797,
         "wd:id":"Q7068738",
         "wk:page":"Nugegoda"
     },
@@ -81,7 +85,7 @@
         }
     ],
     "wof:id":421168485,
-    "wof:lastmodified":1563573233,
+    "wof:lastmodified":1566595363,
     "wof:name":"Nugegoda",
     "wof:parent_id":1092066319,
     "wof:placetype":"locality",

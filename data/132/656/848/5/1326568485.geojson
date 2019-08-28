@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Colombo",
     "iso:country":"LK",
+    "lbl:bbox":"79.96205,8.80984,80.00205,8.84984",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:tam_x_preferred":[
         "\u0baa\u0bb3\u0bcd\u0bb3\u0b99\u0bcd\u0b95\u0bcb\u0b9f\u0bcd\u0b9f\u0bc8"
     ],
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1326568485,
-    "wof:lastmodified":1537551600,
+    "wof:lastmodified":1566594159,
     "wof:name":"Pallankoddai",
     "wof:parent_id":1092063841,
     "wof:placetype":"locality",

@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Colombo",
     "iso:country":"LK",
+    "lbl:bbox":"81.04667,6.84667,81.08667,6.88667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Goussa",
         "Goussagama"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1293828767,
-    "wof:lastmodified":1537661547,
+    "wof:lastmodified":1566594525,
     "wof:name":"Goussagama",
     "wof:parent_id":1092058259,
     "wof:placetype":"locality",

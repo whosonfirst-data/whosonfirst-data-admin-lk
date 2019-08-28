@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Colombo",
     "iso:country":"LK",
+    "lbl:bbox":"80.1962,7.3195,80.2362,7.3595",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Sewendana"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1193082563,
-    "wof:lastmodified":1537661390,
+    "wof:lastmodified":1566594966,
     "wof:name":"Sewendena",
     "wof:parent_id":1092056335,
     "wof:placetype":"locality",

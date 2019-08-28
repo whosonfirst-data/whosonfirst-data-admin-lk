@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Colombo",
     "iso:country":"LK",
+    "lbl:bbox":"80.4769,7.3505,80.5169,7.3905",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1276938177,
-    "wof:lastmodified":1536963129,
+    "wof:lastmodified":1566594679,
     "wof:name":"Medagoda",
     "wof:parent_id":1092066809,
     "wof:placetype":"locality",

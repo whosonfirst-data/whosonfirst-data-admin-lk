@@ -10,8 +10,12 @@
     "geom:latitude":7.40902,
     "geom:longitude":81.83472,
     "iso:country":"LK",
+    "lbl:bbox":"81.81472,7.38902,81.85472,7.42902",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":7.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:bre_x_preferred":[
         "Kalmunai"
@@ -126,7 +130,7 @@
         "gn:id":1242110,
         "gp:id":2189667,
         "loc:id":"n89266951",
-        "qs:id":479393,
+        "qs_pg:id":479393,
         "wd:id":"Q1101382",
         "wk:page":"Kalmunai"
     },
@@ -143,7 +147,7 @@
         }
     ],
     "wof:id":421172837,
-    "wof:lastmodified":1563573265,
+    "wof:lastmodified":1566595373,
     "wof:name":"Kalmunai",
     "wof:parent_id":1092060179,
     "wof:placetype":"locality",

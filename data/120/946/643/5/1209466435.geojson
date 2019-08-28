@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Colombo",
     "iso:country":"LK",
+    "lbl:bbox":"80.01454,8.92307,80.05454,8.96307",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Minnaniranchan",
         "Minnanirachan"
@@ -46,7 +50,7 @@
         }
     ],
     "wof:id":1209466435,
-    "wof:lastmodified":1537661455,
+    "wof:lastmodified":1566594829,
     "wof:name":"Minnanirachan",
     "wof:parent_id":85632313,
     "wof:placetype":"locality",

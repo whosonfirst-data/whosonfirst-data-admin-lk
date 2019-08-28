@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Colombo",
     "iso:country":"LK",
+    "lbl:bbox":"80.086,8.0214,80.126,8.0614",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1293535261,
-    "wof:lastmodified":1536718634,
+    "wof:lastmodified":1566594460,
     "wof:name":"Medderambewa",
     "wof:parent_id":1092064025,
     "wof:placetype":"locality",

@@ -22,6 +22,7 @@
     ],
     "lbl:latitude":7.772282,
     "lbl:longitude":81.472769,
+    "lbl:min_zoom":8.0,
     "mps:latitude":7.799919,
     "mps:longitude":81.455121,
     "mz:hierarchy_label":1,
@@ -186,9 +187,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2012-03-20",
+    "src:population_date":"2012-03-20",
     "statoids:area_km":"2,463",
     "statoids:area_mi":"951",
     "statoids:as_of_date":"2012-03-20",
@@ -213,7 +214,7 @@
         "gp:id":23706508,
         "hasc:id":"LK.BC",
         "iso:id":"LK-51",
-        "qs:id":888195,
+        "qs_pg:id":888195,
         "unlc:id":"LK-51",
         "wd:id":"Q810960"
     },
@@ -235,11 +236,10 @@
         "sin",
         "tam"
     ],
-    "wof:lastmodified":1565726590,
+    "wof:lastmodified":1566594446,
     "wof:name":"Ma\u1e0dakalapuva",
     "wof:parent_id":85632313,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"district",
     "wof:population":526567,
     "wof:population_rank":11,

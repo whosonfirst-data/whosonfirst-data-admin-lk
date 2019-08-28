@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":8.834632,
     "lbl:longitude":79.987726,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Mannar",
     "meso:admin_1r":"Northern",
     "meso:dissme":"NanattanMannarNorthern",
@@ -31,6 +33,7 @@
     "mps:longitude":79.987726,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:eng_x_preferred":[
         "Nanaddan"
     ],
@@ -38,9 +41,9 @@
         "Nanaddan"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2012-03-20",
+    "src:population_date":"2012-03-20",
     "statoids:area_km":"148",
     "statoids:as_of_date":"2012-03-20",
     "statoids:capital":"Nanaddan",
@@ -72,7 +75,7 @@
         }
     ],
     "wof:id":1092063841,
-    "wof:lastmodified":1553718098,
+    "wof:lastmodified":1566595295,
     "wof:name":"Nanattan",
     "wof:parent_id":85673761,
     "wof:placetype":"county",

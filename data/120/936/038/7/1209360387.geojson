@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Colombo",
     "iso:country":"LK",
+    "lbl:bbox":"80.1699,7.517,80.2099,7.557",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632313
@@ -34,7 +38,7 @@
         "gn:id":1240909
     },
     "wof:country":"LK",
-    "wof:geomhash":"9d6634b42036600b3aa1ab49d05e6cb3",
+    "wof:geomhash":"bdbd77363ec89a5a4c7cce7282109063",
     "wof:hierarchy":[
         {
             "country_id":85632313,
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":1209360387,
-    "wof:lastmodified":1536289443,
+    "wof:lastmodified":1566594789,
     "wof:name":"Katupota",
     "wof:parent_id":85632313,
     "wof:placetype":"locality",
@@ -53,9 +57,9 @@
 },
   "bbox": [
     80.1899,
-    7.537000000000001,
+    7.537,
     80.1899,
-    7.537000000000001
+    7.537
 ],
   "geometry": {"coordinates":[80.18989999999999,7.537],"type":"Point"}
 }

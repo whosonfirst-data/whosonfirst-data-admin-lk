@@ -9,21 +9,21 @@
     "geom:bbox":"80.0366,9.663,80.0366,9.663",
     "geom:latitude":9.663,
     "geom:longitude":80.0366,
-    "gn:gn_country":"LK",
-    "gn:gn_fcode":"PPLX",
-    "gn:gn_pop":0,
+    "gn:country":"LK",
+    "gn:fcode":"PPLX",
     "gn:latitude":9.663,
     "gn:longitude":80.0366,
+    "gn:population":0,
     "iso:country":"LK",
+    "lbl:bbox":"80.0316,9.658,80.0416,9.668",
     "lbl:latitude":9.663,
     "lbl:longitude":80.0366,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":15.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:eng_x_preferred":[
-        "Chiviyateru West"
-    ],
-    "name:unk_x_variant":[
         "Chiviyateru West"
     ],
     "qs_pg:aaroncc":"LK",
@@ -47,7 +47,7 @@
     "qs_pg:woe_adm0":23424778,
     "qs_pg:woe_id":2175001,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "woe:adm0_id":23424778,
     "woe:name_adm0":"Sri Lanka",
     "woe:name_adm1":"North Eastern",
@@ -62,7 +62,6 @@
     "wof:concordances":{
         "gn:id":1249070,
         "gp:id":2175001,
-        "qs:id":233047,
         "qs_pg:id":233047
     },
     "wof:country":"LK",
@@ -79,7 +78,7 @@
         }
     ],
     "wof:id":1126098057,
-    "wof:lastmodified":1534379376,
+    "wof:lastmodified":1566595384,
     "wof:name":"Chiviyateru West",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

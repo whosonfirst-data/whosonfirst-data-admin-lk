@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Colombo",
     "iso:country":"LK",
+    "lbl:bbox":"81.0436,6.93,81.0836,6.97",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1276270685,
-    "wof:lastmodified":1536861166,
+    "wof:lastmodified":1566594661,
     "wof:name":"Godegama",
     "wof:parent_id":1092059057,
     "wof:placetype":"locality",

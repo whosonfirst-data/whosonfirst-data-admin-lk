@@ -9,16 +9,19 @@
     "geom:bbox":"79.86667,6.95,79.86667,6.95",
     "geom:latitude":6.95,
     "geom:longitude":79.86667,
-    "gn:gn_country":"LK",
-    "gn:gn_fcode":"PPLX",
-    "gn:gn_pop":0,
+    "gn:country":"LK",
+    "gn:fcode":"PPLX",
     "gn:latitude":6.95,
     "gn:longitude":79.86667,
+    "gn:population":0,
     "iso:country":"LK",
+    "lbl:bbox":"79.86167,6.945,79.87167,6.955",
     "lbl:latitude":6.95,
     "lbl:longitude":79.86667,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":15.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:eng_x_preferred":[
         "Mutwal"
@@ -37,9 +40,6 @@
     ],
     "name:tam_x_preferred":[
         "\u0bae\u0bc1\u0b95\u0ba4\u0bcd\u0ba4\u0bc1\u0bb5\u0bbe\u0bb0\u0bae\u0bcd"
-    ],
-    "name:unk_x_variant":[
-        "Mutwal"
     ],
     "qs_pg:aaroncc":"LK",
     "qs_pg:gn_country":"LK",
@@ -62,7 +62,7 @@
     "qs_pg:woe_adm0":23424778,
     "qs_pg:woe_id":2183355,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "woe:adm0_id":23424778,
     "woe:name_adm0":"Sri Lanka",
     "woe:name_adm1":"Western",
@@ -77,7 +77,6 @@
     "wof:concordances":{
         "gn:id":1234132,
         "gp:id":2183355,
-        "qs:id":898612,
         "qs_pg:id":898612,
         "wd:id":"Q6888043",
         "wk:page":"Modara"
@@ -96,7 +95,7 @@
         }
     ],
     "wof:id":1126065165,
-    "wof:lastmodified":1563573297,
+    "wof:lastmodified":1566595384,
     "wof:name":"Mutwal",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

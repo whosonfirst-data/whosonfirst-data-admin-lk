@@ -5,18 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":11943245.488551,
+    "geom:area_square_m":0.0,
     "geom:bbox":"80.217949,6.03014,80.217949,6.03014",
     "geom:latitude":6.03014,
     "geom:longitude":80.217949,
-    "gn:gn_country":"LK",
-    "gn:gn_fcode":"PPLX",
-    "gn:gn_pop":0,
+    "gn:country":"LK",
+    "gn:fcode":"PPLX",
     "gn:latitude":6.03333,
     "gn:longitude":80.21667,
+    "gn:population":0,
     "iso:country":"LK",
+    "lbl:bbox":"80.212949,6.02514,80.222949,6.03514",
     "lbl:latitude":6.03014,
     "lbl:longitude":80.217949,
+    "lbl:max_zoom":18.0,
     "mps:latitude":6.028252,
     "mps:longitude":80.215819,
     "mz:hierarchy_label":0,
@@ -29,9 +31,6 @@
     "mz:min_zoom":13.0,
     "mz:tier_locality":2,
     "name:eng_x_preferred":[
-        "Fort"
-    ],
-    "name:unk_x_variant":[
         "Fort"
     ],
     "qs:gn_adm0_cc":"LK",
@@ -82,7 +81,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         85673789,
         102191569,
@@ -93,7 +92,6 @@
     "wof:concordances":{
         "gn:id":1246687,
         "gp:id":2176279,
-        "qs:id":1117322,
         "qs_pg:id":1117322
     },
     "wof:country":"LK",
@@ -112,7 +110,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1534379376,
+    "wof:lastmodified":1566594443,
     "wof:name":"Fort",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

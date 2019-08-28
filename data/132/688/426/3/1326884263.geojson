@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Colombo",
     "iso:country":"LK",
+    "lbl:bbox":"80.64667,5.99667,80.68667,6.03667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Millagasdeniya",
         "Mellagasdeniya"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1326884263,
-    "wof:lastmodified":1537661459,
+    "wof:lastmodified":1566594146,
     "wof:name":"Mellagasdeniya",
     "wof:parent_id":1092057845,
     "wof:placetype":"locality",

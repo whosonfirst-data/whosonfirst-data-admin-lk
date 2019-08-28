@@ -10,8 +10,12 @@
     "geom:latitude":7.0897,
     "geom:longitude":79.9925,
     "iso:country":"LK",
+    "lbl:bbox":"79.9725,7.0697,80.0125,7.1097",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ara_x_preferred":[
         "\u063a\u0627\u0645\u0628\u0627\u0647\u0627"
@@ -161,7 +165,7 @@
     "wof:concordances":{
         "gn:id":1246007,
         "gp:id":2189631,
-        "qs:id":479394,
+        "qs_pg:id":479394,
         "wd:id":"Q2616818",
         "wk:page":"Gampaha"
     },
@@ -178,7 +182,7 @@
         }
     ],
     "wof:id":421172839,
-    "wof:lastmodified":1563573266,
+    "wof:lastmodified":1566595373,
     "wof:name":"Gampaha",
     "wof:parent_id":1092058643,
     "wof:placetype":"locality",

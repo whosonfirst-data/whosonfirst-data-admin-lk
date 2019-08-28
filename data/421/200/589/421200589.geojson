@@ -10,8 +10,12 @@
     "geom:latitude":8.2372,
     "geom:longitude":79.7628,
     "iso:country":"LK",
+    "lbl:bbox":"79.7428,8.2172,79.7828,8.2572",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:cat_x_preferred":[
         "Kalpitiya"
@@ -34,7 +38,7 @@
     "name:sin_x_preferred":[
         "\u0d9a\u0dbd\u0dca\u0db4\u0dd2\u0da7\u0dd2\u0dba"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Kalpitya"
     ],
     "name:zho_x_preferred":[
@@ -70,7 +74,7 @@
     "wof:concordances":{
         "gn:id":1242089,
         "gp:id":2189643,
-        "qs:id":887912,
+        "qs_pg:id":887912,
         "wd:id":"Q14220105"
     },
     "wof:country":"LK",
@@ -86,7 +90,7 @@
         }
     ],
     "wof:id":421200589,
-    "wof:lastmodified":1561830630,
+    "wof:lastmodified":1566595377,
     "wof:name":"Kalpitiya",
     "wof:parent_id":1092060219,
     "wof:placetype":"locality",

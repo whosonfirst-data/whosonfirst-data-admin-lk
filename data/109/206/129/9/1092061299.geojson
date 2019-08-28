@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":7.87288,
     "lbl:longitude":81.393577,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Batticaloa",
     "meso:admin_1r":"Eastern",
     "meso:dissme":"Koralai Pattu South (Kiran)BatticaloaEastern",
@@ -31,6 +33,7 @@
     "mps:longitude":81.393577,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:eng_x_preferred":[
         "Koralai Pattu South"
     ],
@@ -38,9 +41,9 @@
         "Koralai Pattu (Valachchenai)"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2012-03-20",
+    "src:population_date":"2012-03-20",
     "statoids:area_km":"",
     "statoids:as_of_date":"2012-03-20",
     "statoids:capital":"Kiran",
@@ -72,7 +75,7 @@
         }
     ],
     "wof:id":1092061299,
-    "wof:lastmodified":1553718095,
+    "wof:lastmodified":1566595295,
     "wof:name":"Koralai Pattu South (Kiran)",
     "wof:parent_id":85673737,
     "wof:placetype":"county",

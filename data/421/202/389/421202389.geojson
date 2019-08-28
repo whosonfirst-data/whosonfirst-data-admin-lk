@@ -10,8 +10,12 @@
     "geom:latitude":7.93965,
     "geom:longitude":81.00274,
     "iso:country":"LK",
+    "lbl:bbox":"80.98274,7.91965,81.02274,7.95965",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ara_x_preferred":[
         "\u0628\u0648\u0644\u0648\u0646\u0627\u0631\u0648\u0627"
@@ -206,7 +210,7 @@
     "wof:concordances":{
         "gn:id":1229901,
         "gp:id":2189645,
-        "qs:id":221627,
+        "qs_pg:id":221627,
         "wd:id":"Q394443",
         "wk:page":"Polonnaruwa"
     },
@@ -223,7 +227,7 @@
         }
     ],
     "wof:id":421202389,
-    "wof:lastmodified":1563573256,
+    "wof:lastmodified":1566595370,
     "wof:name":"Polonnaruwa",
     "wof:parent_id":1092066437,
     "wof:placetype":"locality",

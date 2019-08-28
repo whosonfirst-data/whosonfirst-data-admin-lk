@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":6.291148,
     "lbl:longitude":81.012716,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Hambantota",
     "meso:admin_1r":"Southern",
     "meso:dissme":"SooriyawewaHambantotaSouthern",
@@ -31,6 +33,7 @@
     "mps:longitude":81.012716,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:eng_x_preferred":[
         "Sooriyawewa"
     ],
@@ -41,9 +44,9 @@
         "\u0633\u0648\u0631\u06cc\u0627\u0648\u06cc\u0648\u0627"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2012-03-20",
+    "src:population_date":"2012-03-20",
     "statoids:area_km":"192",
     "statoids:as_of_date":"2012-03-20",
     "statoids:capital":"Suriyawewa",
@@ -75,7 +78,7 @@
         }
     ],
     "wof:id":1092066245,
-    "wof:lastmodified":1564176690,
+    "wof:lastmodified":1566595305,
     "wof:name":"Sooriyawewa",
     "wof:parent_id":85673791,
     "wof:placetype":"county",

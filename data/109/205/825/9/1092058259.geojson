@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":6.871301,
     "lbl:longitude":81.072502,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Badulla",
     "meso:admin_1r":"Uva",
     "meso:dissme":"EllaBadullaUva",
@@ -31,6 +33,7 @@
     "mps:longitude":81.072502,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ceb_x_preferred":[
         "Ella"
     ],
@@ -77,9 +80,9 @@
         "Ella"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2012-03-20",
+    "src:population_date":"2012-03-20",
     "statoids:area_km":"111",
     "statoids:as_of_date":"2012-03-20",
     "statoids:capital":"Ella",
@@ -111,7 +114,7 @@
         }
     ],
     "wof:id":1092058259,
-    "wof:lastmodified":1564176661,
+    "wof:lastmodified":1566595276,
     "wof:name":"Ella",
     "wof:parent_id":85673801,
     "wof:placetype":"county",

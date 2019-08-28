@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Colombo",
     "iso:country":"LK",
+    "lbl:bbox":"80.6034,7.6084,80.6434,7.6484",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Ehelapola",
         "Ehelepola"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1326576731,
-    "wof:lastmodified":1537661565,
+    "wof:lastmodified":1566594181,
     "wof:name":"Ehelepola",
     "wof:parent_id":1092064907,
     "wof:placetype":"locality",

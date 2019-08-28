@@ -22,6 +22,7 @@
     ],
     "lbl:latitude":7.257023,
     "lbl:longitude":81.700411,
+    "lbl:min_zoom":8.0,
     "mps:latitude":7.223084,
     "mps:longitude":81.711283,
     "mz:hierarchy_label":1,
@@ -225,9 +226,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2012-03-20",
+    "src:population_date":"2012-03-20",
     "statoids:area_km":"2,984",
     "statoids:area_mi":"1,152",
     "statoids:as_of_date":"2012-03-20",
@@ -253,7 +254,7 @@
         "gp:id":23706509,
         "hasc:id":"LK.AP",
         "iso:id":"LK-52",
-        "qs:id":888196,
+        "qs_pg:id":888196,
         "unlc:id":"LK-52",
         "wd:id":"Q474395"
     },
@@ -275,11 +276,10 @@
         "sin",
         "tam"
     ],
-    "wof:lastmodified":1565726589,
+    "wof:lastmodified":1566594444,
     "wof:name":"Amp\u0101ra",
     "wof:parent_id":85632313,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"district",
     "wof:population":649402,
     "wof:population_rank":11,

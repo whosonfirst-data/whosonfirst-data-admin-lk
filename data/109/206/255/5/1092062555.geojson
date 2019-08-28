@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":7.499433,
     "lbl:longitude":81.783521,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Batticaloa",
     "meso:admin_1r":"Eastern",
     "meso:dissme":"Manmunai South & Eruvil pattuBatticaloaEastern",
@@ -31,6 +33,7 @@
     "mps:longitude":81.783521,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:eng_x_preferred":[
         "Manmunai South and Eruvil Pattu"
     ],
@@ -38,9 +41,9 @@
         "Manmunai South and Eruvilpattu"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2012-03-20",
+    "src:population_date":"2012-03-20",
     "statoids:area_km":"63",
     "statoids:as_of_date":"2012-03-20",
     "statoids:capital":"",
@@ -72,7 +75,7 @@
         }
     ],
     "wof:id":1092062555,
-    "wof:lastmodified":1553718096,
+    "wof:lastmodified":1566595311,
     "wof:name":"Manmunai South & Eruvil pattu",
     "wof:parent_id":85673737,
     "wof:placetype":"county",

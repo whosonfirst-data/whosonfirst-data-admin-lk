@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Colombo",
     "iso:country":"LK",
+    "lbl:bbox":"80.1336,7.9064,80.1736,7.9464",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1259643209,
-    "wof:lastmodified":1536626970,
+    "wof:lastmodified":1566595557,
     "wof:name":"Palugolla",
     "wof:parent_id":1092061409,
     "wof:placetype":"locality",

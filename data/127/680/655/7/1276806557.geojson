@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Colombo",
     "iso:country":"LK",
+    "lbl:bbox":"81.28,7.38,81.32,7.42",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Lahugala"
     ],
@@ -35,8 +39,7 @@
         "Lahugala"
     ],
     "name:und_x_variant":[
-        "Ambagahawatta",
-        "Lahugala"
+        "Ambagahawatta"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -61,7 +64,7 @@
         }
     ],
     "wof:id":1276806557,
-    "wof:lastmodified":1564175692,
+    "wof:lastmodified":1566594651,
     "wof:name":"Lahugala",
     "wof:parent_id":1092062135,
     "wof:placetype":"locality",

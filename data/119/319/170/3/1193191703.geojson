@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Colombo",
     "iso:country":"LK",
+    "lbl:bbox":"80.3182,6.0708,80.3582,6.1108",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Uduwitiyana"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1193191703,
-    "wof:lastmodified":1537661356,
+    "wof:lastmodified":1566595033,
     "wof:name":"Uduwitivana",
     "wof:parent_id":1092068203,
     "wof:placetype":"locality",

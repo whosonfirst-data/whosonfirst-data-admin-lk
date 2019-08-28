@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Colombo",
     "iso:country":"LK",
+    "lbl:bbox":"80.69667,8.18,80.73667,8.22",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Dambagahaulpotha",
         "Dambagahaulpota"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1293930149,
-    "wof:lastmodified":1537661579,
+    "wof:lastmodified":1566594560,
     "wof:name":"Dambagahaulpota",
     "wof:parent_id":1092058467,
     "wof:placetype":"locality",

@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":9.507983,
     "lbl:longitude":79.691156,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Jaffna",
     "meso:admin_1r":"Northern",
     "meso:dissme":"DelftJaffnaNorthern",
@@ -31,6 +33,7 @@
     "mps:longitude":79.691156,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:afr_x_preferred":[
         "Delft"
     ],
@@ -257,9 +260,9 @@
         "\u4ee3\u5c14\u592b\u7279"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2012-03-20",
+    "src:population_date":"2012-03-20",
     "statoids:area_km":"45",
     "statoids:as_of_date":"2012-03-20",
     "statoids:capital":"Delft",
@@ -291,7 +294,7 @@
         }
     ],
     "wof:id":1092057699,
-    "wof:lastmodified":1564176657,
+    "wof:lastmodified":1566595274,
     "wof:name":"Delft",
     "wof:parent_id":85673769,
     "wof:placetype":"county",

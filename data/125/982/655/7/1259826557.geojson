@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Colombo",
     "iso:country":"LK",
+    "lbl:bbox":"80.6377,7.2884,80.6777,7.3284",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Gunnepana Udagammedda"
     ],
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1259826557,
-    "wof:lastmodified":1537661547,
+    "wof:lastmodified":1566595573,
     "wof:name":"Udagammedda",
     "wof:parent_id":1092061615,
     "wof:placetype":"locality",

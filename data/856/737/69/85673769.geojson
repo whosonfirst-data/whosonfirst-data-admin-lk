@@ -22,6 +22,7 @@
     ],
     "lbl:latitude":9.734635,
     "lbl:longitude":80.199283,
+    "lbl:min_zoom":8.0,
     "mps:latitude":9.676334,
     "mps:longitude":80.243244,
     "mz:hierarchy_label":1,
@@ -180,9 +181,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2012-03-20",
+    "src:population_date":"2012-03-20",
     "statoids:area_km":"1,114",
     "statoids:area_mi":"430",
     "statoids:as_of_date":"2012-03-20",
@@ -207,7 +208,7 @@
         "gp:id":23706489,
         "hasc:id":"LK.JA",
         "iso:id":"LK-41",
-        "qs:id":1085900,
+        "qs_pg:id":1085900,
         "unlc:id":"LK-41",
         "wd:id":"Q1520182"
     },
@@ -229,11 +230,10 @@
         "sin",
         "tam"
     ],
-    "wof:lastmodified":1565726589,
+    "wof:lastmodified":1566594444,
     "wof:name":"Y\u0101panaya",
     "wof:parent_id":85632313,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"district",
     "wof:population":583882,
     "wof:population_rank":11,

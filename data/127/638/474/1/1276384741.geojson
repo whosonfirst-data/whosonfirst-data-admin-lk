@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Colombo",
     "iso:country":"LK",
+    "lbl:bbox":"81.11333,7.81333,81.15333,7.85333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Kosgahaulpota",
         "Mahaulpota"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1276384741,
-    "wof:lastmodified":1537661472,
+    "wof:lastmodified":1566594780,
     "wof:name":"Mahaulpota",
     "wof:parent_id":1092057891,
     "wof:placetype":"locality",

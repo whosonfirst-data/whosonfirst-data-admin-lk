@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Colombo",
     "iso:country":"LK",
+    "lbl:bbox":"80.1591,7.5749,80.1991,7.6149",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Erunkade",
         "Erunkada"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1327383395,
-    "wof:lastmodified":1537661560,
+    "wof:lastmodified":1566594131,
     "wof:name":"Erunkada",
     "wof:parent_id":1092064733,
     "wof:placetype":"locality",

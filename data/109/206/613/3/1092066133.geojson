@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":8.303788,
     "lbl:longitude":81.225097,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Trincomalee",
     "meso:admin_1r":"Eastern",
     "meso:dissme":"SeruvilaTrincomaleeEastern",
@@ -31,6 +33,7 @@
     "mps:longitude":81.225097,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:eng_x_preferred":[
         "Seruvila"
     ],
@@ -38,9 +41,9 @@
         "Seruvila"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2012-03-20",
+    "src:population_date":"2012-03-20",
     "statoids:area_km":"311",
     "statoids:as_of_date":"2012-03-20",
     "statoids:capital":"",
@@ -72,7 +75,7 @@
         }
     ],
     "wof:id":1092066133,
-    "wof:lastmodified":1553718100,
+    "wof:lastmodified":1566595304,
     "wof:name":"Seruvila",
     "wof:parent_id":85673747,
     "wof:placetype":"county",

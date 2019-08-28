@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Colombo",
     "iso:country":"LK",
+    "lbl:bbox":"80.7231,6.0896,80.7631,6.1296",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1360229993,
-    "wof:lastmodified":1536736667,
+    "wof:lastmodified":1566595245,
     "wof:name":"Nugawelagoda",
     "wof:parent_id":1092057099,
     "wof:placetype":"locality",

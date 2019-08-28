@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Colombo",
     "iso:country":"LK",
+    "lbl:bbox":"80.095,7.5422,80.135,7.5822",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1343406991,
-    "wof:lastmodified":1536822543,
+    "wof:lastmodified":1566594353,
     "wof:name":"Dematawa Pahala",
     "wof:parent_id":1092064733,
     "wof:placetype":"locality",

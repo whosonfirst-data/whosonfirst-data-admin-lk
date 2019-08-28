@@ -10,8 +10,12 @@
     "geom:latitude":6.8007,
     "geom:longitude":80.9546,
     "iso:country":"LK",
+    "lbl:bbox":"80.9346,6.7807,80.9746,6.8207",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:eng_x_preferred":[
         "Diyatalawa"
@@ -58,7 +62,7 @@
     "wof:concordances":{
         "gn:id":1247733,
         "gp:id":2175706,
-        "qs:id":1083702,
+        "qs_pg:id":1083702,
         "wd:id":"Q3032657",
         "wk:page":"Diyatalawa"
     },
@@ -75,7 +79,7 @@
         }
     ],
     "wof:id":421187619,
-    "wof:lastmodified":1563573260,
+    "wof:lastmodified":1566595372,
     "wof:name":"Diyatalawa",
     "wof:parent_id":1092059183,
     "wof:placetype":"locality",

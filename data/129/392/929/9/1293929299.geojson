@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Colombo",
     "iso:country":"LK",
+    "lbl:bbox":"79.7942,7.6563,79.8342,7.6963",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Vairankattuwa"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1293929299,
-    "wof:lastmodified":1537661352,
+    "wof:lastmodified":1566594547,
     "wof:name":"Wairankattuwa",
     "wof:parent_id":1092056695,
     "wof:placetype":"locality",

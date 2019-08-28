@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Colombo",
     "iso:country":"LK",
+    "lbl:bbox":"80.9916,7.1755,81.0316,7.2155",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1326970699,
-    "wof:lastmodified":1536848321,
+    "wof:lastmodified":1566594236,
     "wof:name":"Binthenna Arawa",
     "wof:parent_id":1092060319,
     "wof:placetype":"locality",

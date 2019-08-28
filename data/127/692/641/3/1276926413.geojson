@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Colombo",
     "iso:country":"LK",
+    "lbl:bbox":"80.2716,8.2656,80.3116,8.3056",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1276926413,
-    "wof:lastmodified":1536978392,
+    "wof:lastmodified":1566594698,
     "wof:name":"Sirambagamawewa",
     "wof:parent_id":1092064279,
     "wof:placetype":"locality",

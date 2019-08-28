@@ -10,8 +10,12 @@
     "geom:latitude":7.0581,
     "geom:longitude":80.7011,
     "iso:country":"LK",
+    "lbl:bbox":"80.6811,7.0381,80.7211,7.0781",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:bul_x_preferred":[
         "\u0420\u0430\u043c\u0431\u043e\u0434\u0430"
@@ -67,7 +71,7 @@
     "wof:concordances":{
         "gn:id":8302933,
         "gp:id":2186142,
-        "qs:id":887906,
+        "qs_pg:id":887906,
         "wd:id":"Q7289257",
         "wk:page":"Ramboda"
     },
@@ -84,7 +88,7 @@
         }
     ],
     "wof:id":421196689,
-    "wof:lastmodified":1563573270,
+    "wof:lastmodified":1566595374,
     "wof:name":"Ramboda",
     "wof:parent_id":1092061445,
     "wof:placetype":"locality",

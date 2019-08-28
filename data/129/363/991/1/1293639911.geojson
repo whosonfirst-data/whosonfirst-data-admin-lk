@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Colombo",
     "iso:country":"LK",
+    "lbl:bbox":"80.6034,7.5493,80.6434,7.5893",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Udawaradamana"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1293639911,
-    "wof:lastmodified":1537661359,
+    "wof:lastmodified":1566594470,
     "wof:name":"Udawaradamuna",
     "wof:parent_id":1092062869,
     "wof:placetype":"locality",

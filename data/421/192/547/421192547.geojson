@@ -10,10 +10,14 @@
     "geom:latitude":6.9067,
     "geom:longitude":81.5461,
     "iso:country":"LK",
+    "lbl:bbox":"81.5261,6.8867,81.5661,6.9267",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Siyambala-anduwa"
     ],
     "qs:gn_country":"LK",
@@ -45,7 +49,7 @@
     "wof:concordances":{
         "gn:id":1227746,
         "gp:id":2189536,
-        "qs:id":1168375
+        "qs_pg:id":1168375
     },
     "wof:country":"LK",
     "wof:created":1459009740,
@@ -60,7 +64,7 @@
         }
     ],
     "wof:id":421192547,
-    "wof:lastmodified":1501217335,
+    "wof:lastmodified":1566595365,
     "wof:name":"Siyambalanduwa",
     "wof:parent_id":1092066203,
     "wof:placetype":"locality",

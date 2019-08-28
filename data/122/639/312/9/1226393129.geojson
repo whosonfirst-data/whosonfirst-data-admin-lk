@@ -23,14 +23,17 @@
     "gn:population":0,
     "gn:timezone":"Asia/Colombo",
     "iso:country":"LK",
+    "lbl:bbox":"80.8461,6.9847,80.8861,7.0247",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:swe_x_preferred":[
         "Ragala"
     ],
     "name:und_x_variant":[
-        "Ragalla",
-        "Ragala"
+        "Ragalla"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -55,7 +58,7 @@
         }
     ],
     "wof:id":1226393129,
-    "wof:lastmodified":1564177457,
+    "wof:lastmodified":1566595772,
     "wof:name":"Ragala",
     "wof:parent_id":1092067535,
     "wof:placetype":"locality",

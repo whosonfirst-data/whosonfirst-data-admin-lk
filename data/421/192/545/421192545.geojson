@@ -10,8 +10,12 @@
     "geom:latitude":6.9704,
     "geom:longitude":80.6493,
     "iso:country":"LK",
+    "lbl:bbox":"80.6293,6.9504,80.6693,6.9904",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:eng_x_preferred":[
         "Watagoda"
@@ -49,7 +53,7 @@
     "wof:concordances":{
         "gn:id":1224133,
         "gp:id":2188639,
-        "qs:id":1168374,
+        "qs_pg:id":1168374,
         "wd:id":"Q7972974"
     },
     "wof:country":"LK",
@@ -65,7 +69,7 @@
         }
     ],
     "wof:id":421192545,
-    "wof:lastmodified":1563573236,
+    "wof:lastmodified":1566595365,
     "wof:name":"Watagoda",
     "wof:parent_id":1092064313,
     "wof:placetype":"locality",

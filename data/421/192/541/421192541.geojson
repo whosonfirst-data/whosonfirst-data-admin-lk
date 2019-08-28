@@ -10,13 +10,17 @@
     "geom:latitude":7.31639,
     "geom:longitude":80.39056,
     "iso:country":"LK",
+    "lbl:bbox":"80.37056,7.29639,80.41056,7.33639",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:eng_x_preferred":[
         "Rambukkana"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Rambukkana Bazaar"
     ],
     "qs:gn_country":"LK",
@@ -49,7 +53,7 @@
     "wof:concordances":{
         "gn:id":1228996,
         "gp:id":2186150,
-        "qs:id":1168372,
+        "qs_pg:id":1168372,
         "wd:id":"Q19604964"
     },
     "wof:country":"LK",
@@ -65,7 +69,7 @@
         }
     ],
     "wof:id":421192541,
-    "wof:lastmodified":1563573238,
+    "wof:lastmodified":1566595365,
     "wof:name":"Rambukkana",
     "wof:parent_id":1092065729,
     "wof:placetype":"locality",

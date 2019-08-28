@@ -10,8 +10,12 @@
     "geom:latitude":7.9518,
     "geom:longitude":80.7426,
     "iso:country":"LK",
+    "lbl:bbox":"80.7226,7.9318,80.7626,7.9718",
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ara_x_preferred":[
         "\u0633\u064a\u062c\u064a\u0631\u064a\u0627"
@@ -203,7 +207,7 @@
     "wof:concordances":{
         "gn:id":1228051,
         "gp:id":2189593,
-        "qs:id":493327,
+        "qs_pg:id":493327,
         "wd:id":"Q272153",
         "wk:page":"Sigiriya"
     },
@@ -220,7 +224,7 @@
         }
     ],
     "wof:id":421173209,
-    "wof:lastmodified":1563573263,
+    "wof:lastmodified":1566595373,
     "wof:name":"Sigiriya",
     "wof:parent_id":1092057503,
     "wof:placetype":"locality",

@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":9.682934,
     "lbl:longitude":80.230989,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Jaffna",
     "meso:admin_1r":"Northern",
     "meso:dissme":"Thenmaradchy (Chavakachcheri)JaffnaNorthern",
@@ -31,6 +33,7 @@
     "mps:longitude":80.230989,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:eng_x_preferred":[
         "Thenmaradchi"
     ],
@@ -38,9 +41,9 @@
         "Thenmaradchy (Chavakachcheri)"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2012-03-20",
+    "src:population_date":"2012-03-20",
     "statoids:area_km":"221",
     "statoids:as_of_date":"2012-03-20",
     "statoids:capital":"Chavakachcheri",
@@ -72,7 +75,7 @@
         }
     ],
     "wof:id":1092066611,
-    "wof:lastmodified":1553718100,
+    "wof:lastmodified":1566595293,
     "wof:name":"Thenmaradchy (Chavakachcheri)",
     "wof:parent_id":85673769,
     "wof:placetype":"county",

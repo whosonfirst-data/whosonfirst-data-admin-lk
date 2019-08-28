@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Colombo",
     "iso:country":"LK",
+    "lbl:bbox":"80.7494,7.519,80.7894,7.559",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Telgamuwa",
         "Teligama"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1209762717,
-    "wof:lastmodified":1537661376,
+    "wof:lastmodified":1566594860,
     "wof:name":"Teligama",
     "wof:parent_id":1092061819,
     "wof:placetype":"locality",

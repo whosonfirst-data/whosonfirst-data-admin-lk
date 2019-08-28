@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Colombo",
     "iso:country":"LK",
+    "lbl:bbox":"81.1156,6.3905,81.1556,6.4305",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Ranawaranawa"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1293729231,
-    "wof:lastmodified":1537661397,
+    "wof:lastmodified":1566594605,
     "wof:name":"Ranawaranawewa",
     "wof:parent_id":1092061903,
     "wof:placetype":"locality",

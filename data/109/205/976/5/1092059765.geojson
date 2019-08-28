@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":9.681937,
     "lbl:longitude":79.86499,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Jaffna",
     "meso:admin_1r":"Northern",
     "meso:dissme":"Island North (Kayts)JaffnaNorthern",
@@ -31,6 +33,7 @@
     "mps:longitude":79.86499,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:eng_x_preferred":[
         "Island North"
     ],
@@ -38,9 +41,9 @@
         "Islands North (Kayts)"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2012-03-20",
+    "src:population_date":"2012-03-20",
     "statoids:area_km":"30",
     "statoids:as_of_date":"2012-03-20",
     "statoids:capital":"Kayts",
@@ -72,7 +75,7 @@
         }
     ],
     "wof:id":1092059765,
-    "wof:lastmodified":1553718094,
+    "wof:lastmodified":1566595272,
     "wof:name":"Island North (Kayts)",
     "wof:parent_id":85673769,
     "wof:placetype":"county",

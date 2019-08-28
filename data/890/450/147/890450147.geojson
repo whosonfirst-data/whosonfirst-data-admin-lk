@@ -11,10 +11,14 @@
     "geom:longitude":79.79528,
     "gn:country":"LK",
     "gn:fcode":"PPL",
-    "gn:pop":24712,
+    "gn:population":24712,
     "iso:country":"LK",
+    "lbl:bbox":"79.77528,7.55583,79.81528,7.59583",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "name:ara_x_preferred":[
         "\u062a\u0652\u0634\u064a\u0644\u0648"
     ],
@@ -108,7 +112,7 @@
     "name:ukr_x_preferred":[
         "\u0427\u0456\u043b\u0430\u0432"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Chilan"
     ],
     "name:urd_x_preferred":[
@@ -136,7 +140,7 @@
     "wof:concordances":{
         "gn:id":1249145,
         "gp:id":2174980,
-        "qs:id":84430,
+        "qs_pg:id":84430,
         "wd:id":"Q2495639",
         "wk:page":"Chilaw"
     },
@@ -153,7 +157,7 @@
         }
     ],
     "wof:id":890450147,
-    "wof:lastmodified":1563573295,
+    "wof:lastmodified":1566595382,
     "wof:name":"Chilaw",
     "wof:parent_id":1092057373,
     "wof:placetype":"locality",

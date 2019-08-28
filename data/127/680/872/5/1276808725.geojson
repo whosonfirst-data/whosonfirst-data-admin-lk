@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Colombo",
     "iso:country":"LK",
+    "lbl:bbox":"80.88,6.19667,80.92,6.23667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:fas_x_preferred":[
         "\u0627\u0628\u06cc\u0633\u06a9\u0627\u0631\u0627\u06af\u0627\u0645\u0627"
     ],
@@ -56,7 +60,7 @@
         }
     ],
     "wof:id":1276808725,
-    "wof:lastmodified":1564175689,
+    "wof:lastmodified":1566594649,
     "wof:name":"Abeyesekaragama",
     "wof:parent_id":1092056653,
     "wof:placetype":"locality",

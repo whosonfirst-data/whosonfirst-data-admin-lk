@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Colombo",
     "iso:country":"LK",
+    "lbl:bbox":"80.4897,6.1442,80.5297,6.1842",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1226183459,
-    "wof:lastmodified":1537022290,
+    "wof:lastmodified":1566595644,
     "wof:name":"Kehelwala",
     "wof:parent_id":1092056719,
     "wof:placetype":"locality",

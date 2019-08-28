@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Colombo",
     "iso:country":"LK",
+    "lbl:bbox":"80.84667,6.91333,80.88667,6.95333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632313
@@ -34,7 +38,7 @@
         "gn:id":1230858
     },
     "wof:country":"LK",
-    "wof:geomhash":"477f8c61cfa959f887e24739d46dabc4",
+    "wof:geomhash":"56a7ee1c12e98c67c4599aabf4a57beb",
     "wof:hierarchy":[
         {
             "country_id":85632313,
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":1209555993,
-    "wof:lastmodified":1536283544,
+    "wof:lastmodified":1566594824,
     "wof:name":"Paspewela",
     "wof:parent_id":85632313,
     "wof:placetype":"locality",
@@ -53,9 +57,9 @@
 },
   "bbox": [
     80.86667,
-    6.9333300000000015,
+    6.93333,
     80.86667,
-    6.9333300000000015
+    6.93333
 ],
   "geometry": {"coordinates":[80.86667,6.93333],"type":"Point"}
 }

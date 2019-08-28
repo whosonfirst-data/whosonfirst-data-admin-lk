@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":6.904468,
     "lbl:longitude":79.983015,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Colombo",
     "meso:admin_1r":"Western",
     "meso:dissme":"KaduwelaColomboWestern",
@@ -31,6 +33,7 @@
     "mps:longitude":79.983015,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ceb_x_preferred":[
         "Kaduwela"
     ],
@@ -44,9 +47,9 @@
         "Kaduwela"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2012-03-20",
+    "src:population_date":"2012-03-20",
     "statoids:area_km":"88",
     "statoids:as_of_date":"2012-03-20",
     "statoids:capital":"Malabe",
@@ -78,7 +81,7 @@
         }
     ],
     "wof:id":1092059875,
-    "wof:lastmodified":1564176663,
+    "wof:lastmodified":1566595279,
     "wof:name":"Kaduwela",
     "wof:parent_id":85673811,
     "wof:placetype":"county",

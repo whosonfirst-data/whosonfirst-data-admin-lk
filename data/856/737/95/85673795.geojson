@@ -22,6 +22,7 @@
     ],
     "lbl:latitude":6.107596,
     "lbl:longitude":80.54346,
+    "lbl:min_zoom":8.0,
     "mps:latitude":6.106866,
     "mps:longitude":80.543937,
     "mz:hierarchy_label":1,
@@ -142,9 +143,6 @@
     "name:ukr_x_preferred":[
         "\u041c\u0430\u0442\u0430\u0440\u0430"
     ],
-    "name:unk_x_variant":[
-        "Matara District"
-    ],
     "name:urd_x_preferred":[
         "\u0645\u0627\u062a\u0627\u0631\u0627 \u0636\u0644\u0639"
     ],
@@ -228,9 +226,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2012-03-20",
+    "src:population_date":"2012-03-20",
     "statoids:area_km":"1,246",
     "statoids:area_mi":"481",
     "statoids:as_of_date":"2012-03-20",
@@ -255,7 +253,7 @@
         "gp:id":23706496,
         "hasc:id":"LK.MH",
         "iso:id":"LK-32",
-        "qs:id":888261,
+        "qs_pg:id":888261,
         "unlc:id":"LK-32",
         "wd:id":"Q1281285",
         "wk:page":"Matara District"
@@ -278,11 +276,10 @@
         "sin",
         "tam"
     ],
-    "wof:lastmodified":1565726589,
+    "wof:lastmodified":1566594443,
     "wof:name":"M\u0101tara",
     "wof:parent_id":85632313,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"district",
     "wof:population":814048,
     "wof:population_rank":11,

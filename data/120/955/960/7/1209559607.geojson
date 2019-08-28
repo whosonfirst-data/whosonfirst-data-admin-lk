@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Colombo",
     "iso:country":"LK",
+    "lbl:bbox":"79.9896,6.4326,80.0296,6.4726",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632313
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":1209559607,
-    "wof:lastmodified":1536283435,
+    "wof:lastmodified":1566594825,
     "wof:name":"Padagoda",
     "wof:parent_id":85632313,
     "wof:placetype":"locality",

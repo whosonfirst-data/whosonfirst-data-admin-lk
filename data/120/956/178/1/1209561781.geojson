@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Colombo",
     "iso:country":"LK",
+    "lbl:bbox":"81.13,7.91333,81.17,7.95333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632313
@@ -34,7 +38,7 @@
         "gn:id":1228079
     },
     "wof:country":"LK",
-    "wof:geomhash":"4d414456aed9ac0944a3beaf89a7a386",
+    "wof:geomhash":"a6594f0a396c43eb973abec8b82e4d05",
     "wof:hierarchy":[
         {
             "country_id":85632313,
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":1209561781,
-    "wof:lastmodified":1536283366,
+    "wof:lastmodified":1566594904,
     "wof:name":"Sewanpitiya",
     "wof:parent_id":85632313,
     "wof:placetype":"locality",
@@ -53,9 +57,9 @@
 },
   "bbox": [
     81.15,
-    7.9333300000000015,
+    7.93333,
     81.15,
-    7.9333300000000015
+    7.93333
 ],
   "geometry": {"coordinates":[81.15000000000001,7.93333],"type":"Point"}
 }

@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":7.086854,
     "lbl:longitude":81.77098,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Ampara",
     "meso:admin_1r":"Eastern",
     "meso:dissme":"ThirukkovilAmparaEastern",
@@ -31,6 +33,7 @@
     "mps:longitude":81.77098,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ceb_x_preferred":[
         "Thirukkovil"
     ],
@@ -53,9 +56,9 @@
         "\u0422\u0456\u0440\u0443\u043a\u043a\u043e\u0432\u0456\u043b"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2012-03-20",
+    "src:population_date":"2012-03-20",
     "statoids:area_km":"184",
     "statoids:as_of_date":"2012-03-20",
     "statoids:capital":"Thirukkovil",
@@ -87,7 +90,7 @@
         }
     ],
     "wof:id":1092066773,
-    "wof:lastmodified":1564176693,
+    "wof:lastmodified":1566595307,
     "wof:name":"Thirukkovil",
     "wof:parent_id":85673733,
     "wof:placetype":"county",

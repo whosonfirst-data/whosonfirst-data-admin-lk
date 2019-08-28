@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Colombo",
     "iso:country":"LK",
+    "lbl:bbox":"79.8414,9.6913,79.8814,9.7313",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1226181073,
-    "wof:lastmodified":1537025588,
+    "wof:lastmodified":1566595641,
     "wof:name":"Karainagar West",
     "wof:parent_id":1092060507,
     "wof:placetype":"locality",

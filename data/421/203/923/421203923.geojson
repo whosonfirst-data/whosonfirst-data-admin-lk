@@ -10,8 +10,12 @@
     "geom:latitude":6.9553,
     "geom:longitude":79.922,
     "iso:country":"LK",
+    "lbl:bbox":"79.902,6.9353,79.942,6.9753",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:cat_x_preferred":[
         "Kelaniya"
@@ -46,7 +50,7 @@
     "name:tam_x_preferred":[
         "\u0b95\u0bb3\u0ba9\u0bbf"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Kelanai"
     ],
     "name:zho_x_preferred":[
@@ -83,7 +87,7 @@
     "wof:concordances":{
         "gn:id":1240622,
         "gp:id":2179792,
-        "qs:id":235501,
+        "qs_pg:id":235501,
         "wd:id":"Q3522428",
         "wk:page":"Kelaniya"
     },
@@ -100,7 +104,7 @@
         }
     ],
     "wof:id":421203923,
-    "wof:lastmodified":1563573252,
+    "wof:lastmodified":1566595369,
     "wof:name":"Kelaniya",
     "wof:parent_id":1092060843,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Colombo",
     "iso:country":"LK",
+    "lbl:bbox":"80.7183,7.351,80.7583,7.391",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Arattana"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1226606023,
-    "wof:lastmodified":1537661596,
+    "wof:lastmodified":1566595664,
     "wof:name":"Arattana Udagammedda",
     "wof:parent_id":1092065061,
     "wof:placetype":"locality",

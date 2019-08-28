@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Colombo",
     "iso:country":"LK",
+    "lbl:bbox":"80.9885,8.6469,81.0285,8.6869",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Wilpanakulama",
         "Wilpanakulam"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1293139579,
-    "wof:lastmodified":1537661331,
+    "wof:lastmodified":1566594527,
     "wof:name":"Wilpanakulam",
     "wof:parent_id":1092058863,
     "wof:placetype":"locality",

@@ -11,10 +11,14 @@
     "geom:longitude":79.9297,
     "gn:country":"LK",
     "gn:fcode":"PPL",
-    "gn:pop":33540,
+    "gn:population":33540,
     "iso:country":"LK",
+    "lbl:bbox":"79.9097,6.913,79.9497,6.953",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":9.0,
     "qs:name":"Mulleriyawa",
     "qs:photos_9r":0,
     "qs:photos_sr":0,
@@ -30,7 +34,7 @@
     "wof:concordances":{
         "gn:id":1234378,
         "gp:id":2179792,
-        "qs:id":131036
+        "qs_pg:id":131036
     },
     "wof:country":"LK",
     "wof:created":1469051990,
@@ -45,7 +49,7 @@
         }
     ],
     "wof:id":890433679,
-    "wof:lastmodified":1505343537,
+    "wof:lastmodified":1566595382,
     "wof:name":"Mulleriyawa",
     "wof:parent_id":1092061133,
     "wof:placetype":"locality",

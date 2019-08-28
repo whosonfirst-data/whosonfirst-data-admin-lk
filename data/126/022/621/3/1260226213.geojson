@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Colombo",
     "iso:country":"LK",
+    "lbl:bbox":"79.8921,7.6591,79.9321,7.6991",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1260226213,
-    "wof:lastmodified":1536790191,
+    "wof:lastmodified":1566595065,
     "wof:name":"Pahala Kolaeliya",
     "wof:parent_id":1092064867,
     "wof:placetype":"locality",

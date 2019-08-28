@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Colombo",
     "iso:country":"LK",
+    "lbl:bbox":"80.3239,6.3244,80.3639,6.3644",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1310350423,
-    "wof:lastmodified":1536642471,
+    "wof:lastmodified":1566595190,
     "wof:name":"Nattanpitiya",
     "wof:parent_id":1092066573,
     "wof:placetype":"locality",

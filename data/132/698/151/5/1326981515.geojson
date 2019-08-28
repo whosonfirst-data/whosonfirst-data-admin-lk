@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Colombo",
     "iso:country":"LK",
+    "lbl:bbox":"80.0596,9.3276,80.0996,9.3676",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:tam_x_preferred":[
         "\u0bb5\u0bc7\u0bb0\u0bb5\u0bbf\u0bb2\u0bcd"
     ],
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1326981515,
-    "wof:lastmodified":1564175059,
+    "wof:lastmodified":1566594239,
     "wof:name":"Veravil",
     "wof:parent_id":1092065443,
     "wof:placetype":"locality",

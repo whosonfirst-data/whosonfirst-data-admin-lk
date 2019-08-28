@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Colombo",
     "iso:country":"LK",
+    "lbl:bbox":"81.2783,6.2858,81.3183,6.3258",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1293331499,
-    "wof:lastmodified":1537011146,
+    "wof:lastmodified":1566594579,
     "wof:name":"Chandanagama",
     "wof:parent_id":1092061903,
     "wof:placetype":"locality",

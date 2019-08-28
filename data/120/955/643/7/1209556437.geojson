@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Colombo",
     "iso:country":"LK",
+    "lbl:bbox":"80.1539,6.1305,80.1939,6.1705",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632313
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":1209556437,
-    "wof:lastmodified":1536283530,
+    "wof:lastmodified":1566594823,
     "wof:name":"Bambarawana",
     "wof:parent_id":85632313,
     "wof:placetype":"locality",

@@ -10,8 +10,12 @@
     "geom:latitude":7.2657,
     "geom:longitude":79.8603,
     "iso:country":"LK",
+    "lbl:bbox":"79.8403,7.2457,79.8803,7.2857",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "qs:gn_country":"LK",
     "qs:gn_fcode":"PPL",
@@ -42,7 +46,7 @@
     "wof:concordances":{
         "gn:id":1239882,
         "gp:id":2189630,
-        "qs:id":898601
+        "qs_pg:id":898601
     },
     "wof:country":"LK",
     "wof:created":1459009325,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":421182295,
-    "wof:lastmodified":1500070312,
+    "wof:lastmodified":1566595380,
     "wof:name":"Kochchikade",
     "wof:parent_id":1092060643,
     "wof:placetype":"locality",

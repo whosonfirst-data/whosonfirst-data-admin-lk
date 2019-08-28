@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Colombo",
     "iso:country":"LK",
+    "lbl:bbox":"80.28,7.79667,80.32,7.83667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632313
@@ -34,7 +38,7 @@
         "gn:id":1247460
     },
     "wof:country":"LK",
-    "wof:geomhash":"57efda3270803fc43f87445f45518c89",
+    "wof:geomhash":"2200625b7f6e528f93247c773c1b0699",
     "wof:hierarchy":[
         {
             "country_id":85632313,
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":1209564545,
-    "wof:lastmodified":1536283286,
+    "wof:lastmodified":1566594900,
     "wof:name":"Dunupothagama",
     "wof:parent_id":85632313,
     "wof:placetype":"locality",
@@ -53,9 +57,9 @@
 },
   "bbox": [
     80.3,
-    7.8166699999999985,
+    7.81667,
     80.3,
-    7.8166699999999985
+    7.81667
 ],
   "geometry": {"coordinates":[80.3,7.81667],"type":"Point"}
 }

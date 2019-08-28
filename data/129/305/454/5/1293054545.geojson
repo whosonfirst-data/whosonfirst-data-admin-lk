@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Colombo",
     "iso:country":"LK",
+    "lbl:bbox":"80.9302,7.0245,80.9702,7.0645",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Galanihegama"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1293054545,
-    "wof:lastmodified":1537661557,
+    "wof:lastmodified":1566594581,
     "wof:name":"Galaniha",
     "wof:parent_id":1092067051,
     "wof:placetype":"locality",

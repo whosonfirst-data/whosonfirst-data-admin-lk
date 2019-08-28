@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Colombo",
     "iso:country":"LK",
+    "lbl:bbox":"80.2309,9.6556,80.2709,9.6956",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Mirusuvil"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1326572427,
-    "wof:lastmodified":1537661454,
+    "wof:lastmodified":1566594180,
     "wof:name":"Mirusuvi",
     "wof:parent_id":1092066611,
     "wof:placetype":"locality",

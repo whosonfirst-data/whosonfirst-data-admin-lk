@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Colombo",
     "iso:country":"LK",
+    "lbl:bbox":"80.1578,7.3432,80.1978,7.3832",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Wewelwala"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1310649967,
-    "wof:lastmodified":1537661333,
+    "wof:lastmodified":1566595155,
     "wof:name":"Wewelwela",
     "wof:parent_id":1092063885,
     "wof:placetype":"locality",

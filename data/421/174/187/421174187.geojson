@@ -10,8 +10,12 @@
     "geom:latitude":6.5138,
     "geom:longitude":80.8734,
     "iso:country":"LK",
+    "lbl:bbox":"80.8534,6.4938,80.8934,6.5338",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "qs:gn_country":"LK",
     "qs:gn_fcode":"PPL",
@@ -42,7 +46,7 @@
     "wof:concordances":{
         "gn:id":1227914,
         "gp:id":2189549,
-        "qs:id":317702
+        "qs_pg:id":317702
     },
     "wof:country":"LK",
     "wof:created":1459009022,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":421174187,
-    "wof:lastmodified":1500070303,
+    "wof:lastmodified":1566595371,
     "wof:name":"Sinuggala",
     "wof:parent_id":1092066537,
     "wof:placetype":"locality",

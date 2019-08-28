@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Colombo",
     "iso:country":"LK",
+    "lbl:bbox":"81.1679,6.7559,81.2079,6.7959",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1310358971,
-    "wof:lastmodified":1536629304,
+    "wof:lastmodified":1566595193,
     "wof:name":"Bogahaduwa",
     "wof:parent_id":1092057329,
     "wof:placetype":"locality",

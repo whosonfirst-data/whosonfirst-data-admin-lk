@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Colombo",
     "iso:country":"LK",
+    "lbl:bbox":"81.264,6.31,81.304,6.35",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Colony No. 5"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1277121827,
-    "wof:lastmodified":1537661610,
+    "wof:lastmodified":1566594721,
     "wof:name":"Colony Number Five",
     "wof:parent_id":1092061903,
     "wof:placetype":"locality",

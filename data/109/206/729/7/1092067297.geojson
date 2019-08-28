@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":9.014349,
     "lbl:longitude":80.583651,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Vavuniya",
     "meso:admin_1r":"Northern",
     "meso:dissme":"Vavuniya NorthVavuniyaNorthern",
@@ -31,6 +33,7 @@
     "mps:longitude":80.583651,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:eng_x_preferred":[
         "Vavuniya North"
     ],
@@ -38,9 +41,9 @@
         "Vavuniya North"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2012-03-20",
+    "src:population_date":"2012-03-20",
     "statoids:area_km":"745",
     "statoids:as_of_date":"2012-03-20",
     "statoids:capital":"Nerdunkeny",
@@ -72,7 +75,7 @@
         }
     ],
     "wof:id":1092067297,
-    "wof:lastmodified":1553718101,
+    "wof:lastmodified":1566595314,
     "wof:name":"Vavuniya North",
     "wof:parent_id":85673757,
     "wof:placetype":"county",

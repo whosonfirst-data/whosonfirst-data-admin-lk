@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Colombo",
     "iso:country":"LK",
+    "lbl:bbox":"80.2108,7.4553,80.2508,7.4953",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1193223653,
-    "wof:lastmodified":1536372838,
+    "wof:lastmodified":1566594984,
     "wof:name":"Manahettiya",
     "wof:parent_id":1092067783,
     "wof:placetype":"locality",
