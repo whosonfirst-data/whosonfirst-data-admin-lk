@@ -262,6 +262,9 @@
     },
     "wof:country":"LK",
     "wof:created":1459009438,
+    "wof:geom_alt":[
+        "naturalearth"
+    ],
     "wof:geomhash":"ae69d78c7cc9b37e3338c25703fddb9a",
     "wof:hierarchy":[
         {
@@ -273,7 +276,7 @@
         }
     ],
     "wof:id":421185305,
-    "wof:lastmodified":1561830631,
+    "wof:lastmodified":1582345049,
     "wof:name":"Matara",
     "wof:parent_id":1092062917,
     "wof:placetype":"locality",

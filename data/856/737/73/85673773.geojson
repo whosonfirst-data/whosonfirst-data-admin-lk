@@ -259,6 +259,9 @@
         "wd:id":"Q1584007"
     },
     "wof:country":"LK",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"3d675775ea442e8adc247cf14817a876",
     "wof:hierarchy":[
         {
@@ -276,7 +279,7 @@
         "sin",
         "tam"
     ],
-    "wof:lastmodified":1566594445,
+    "wof:lastmodified":1582345033,
     "wof:name":"Kilin\u014fchchi",
     "wof:parent_id":85632313,
     "wof:placetype":"region",

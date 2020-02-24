@@ -259,6 +259,9 @@
         "wk:page":"Polonnaruwa District"
     },
     "wof:country":"LK",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"c555bc2cfff6e8d002869e906256ce81",
     "wof:hierarchy":[
         {
@@ -276,7 +279,7 @@
         "sin",
         "tam"
     ],
-    "wof:lastmodified":1566594445,
+    "wof:lastmodified":1582345033,
     "wof:name":"P\u014f\u1e37\u014fnnaruva",
     "wof:parent_id":85632313,
     "wof:placetype":"region",

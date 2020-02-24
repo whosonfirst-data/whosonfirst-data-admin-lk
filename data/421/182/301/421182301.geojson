@@ -519,6 +519,9 @@
     },
     "wof:country":"LK",
     "wof:created":1459009325,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"38a1f53e5b5ee5a6723aa08b3f7dd53e",
     "wof:hierarchy":[
         {
@@ -530,7 +533,7 @@
         }
     ],
     "wof:id":421182301,
-    "wof:lastmodified":1566595380,
+    "wof:lastmodified":1582345049,
     "wof:name":"Sri Jayewardenepura-Kotte",
     "wof:parent_id":1092059875,
     "wof:placetype":"locality",

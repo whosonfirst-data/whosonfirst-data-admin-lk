@@ -260,6 +260,9 @@
         "wk:page":"Ratnapura District"
     },
     "wof:country":"LK",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"8842d65dbe7f9b629bec5a19cfee18f3",
     "wof:hierarchy":[
         {
@@ -277,7 +280,7 @@
         "sin",
         "tam"
     ],
-    "wof:lastmodified":1566594447,
+    "wof:lastmodified":1582345034,
     "wof:name":"Ratnapura",
     "wof:parent_id":85632313,
     "wof:placetype":"region",

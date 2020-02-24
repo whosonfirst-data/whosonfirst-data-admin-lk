@@ -259,6 +259,9 @@
         "wk:page":"Hambantota District"
     },
     "wof:country":"LK",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"7e1d8355ccc99732beb394081da50ab1",
     "wof:hierarchy":[
         {
@@ -276,7 +279,7 @@
         "sin",
         "tam"
     ],
-    "wof:lastmodified":1566594445,
+    "wof:lastmodified":1582345033,
     "wof:name":"Hambant\u014f\u1e6da",
     "wof:parent_id":85632313,
     "wof:placetype":"region",

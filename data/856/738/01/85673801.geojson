@@ -259,6 +259,9 @@
         "wk:page":"Badulla District"
     },
     "wof:country":"LK",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"85c0154a829a7b72ff27f760107b8881",
     "wof:hierarchy":[
         {
@@ -276,7 +279,7 @@
         "sin",
         "tam"
     ],
-    "wof:lastmodified":1566594448,
+    "wof:lastmodified":1582345034,
     "wof:name":"Badulla",
     "wof:parent_id":85632313,
     "wof:placetype":"region",

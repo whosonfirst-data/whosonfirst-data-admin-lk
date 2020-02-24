@@ -259,6 +259,9 @@
         "wk:page":"Matara District"
     },
     "wof:country":"LK",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"5d439948866d7abed26e4325d8f3743a",
     "wof:hierarchy":[
         {
@@ -276,7 +279,7 @@
         "sin",
         "tam"
     ],
-    "wof:lastmodified":1566594443,
+    "wof:lastmodified":1582345033,
     "wof:name":"M\u0101tara",
     "wof:parent_id":85632313,
     "wof:placetype":"region",

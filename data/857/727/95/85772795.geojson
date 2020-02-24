@@ -89,6 +89,9 @@
         "wd:id":"Q7981177"
     },
     "wof:country":"LK",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"f01643738ef71301d2dc9d446e8eef6b",
     "wof:hierarchy":[
         {
@@ -104,7 +107,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1566594442,
+    "wof:lastmodified":1582345032,
     "wof:name":"Wellawatta",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

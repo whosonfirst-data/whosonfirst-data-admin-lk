@@ -75,6 +75,9 @@
         "qs:id":1083704
     },
     "wof:country":"LK",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"21920ed6d48be1a068b84750243e1836",
     "wof:hierarchy":[
         {
@@ -90,7 +93,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1534379376,
+    "wof:lastmodified":1582345032,
     "wof:name":"Kumbalwella",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

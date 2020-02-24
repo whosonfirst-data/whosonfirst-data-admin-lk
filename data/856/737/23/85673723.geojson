@@ -259,6 +259,9 @@
         "wk:page":"Matale District"
     },
     "wof:country":"LK",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"bf87cd455448908fd1fc35695b38e344",
     "wof:hierarchy":[
         {
@@ -276,7 +279,7 @@
         "sin",
         "tam"
     ],
-    "wof:lastmodified":1566594447,
+    "wof:lastmodified":1582345034,
     "wof:name":"M\u0101tale",
     "wof:parent_id":85632313,
     "wof:placetype":"region",

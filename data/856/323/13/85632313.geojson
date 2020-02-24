@@ -947,7 +947,8 @@
     "src:geom":"quattroshapes",
     "src:geom_alt":[
         "naturalearth",
-        "meso"
+        "meso",
+        "naturalearth"
     ],
     "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
@@ -1001,6 +1002,11 @@
     },
     "wof:country":"LK",
     "wof:country_alpha3":"LKA",
+    "wof:geom_alt":[
+        "naturalearth-display-terrestrial-zoom6",
+        "meso",
+        "naturalearth"
+    ],
     "wof:geomhash":"e60e3bbc6a44feb418ddd75365ffc60a",
     "wof:hierarchy":[
         {
@@ -1017,7 +1023,7 @@
         "sin",
         "tam"
     ],
-    "wof:lastmodified":1566594448,
+    "wof:lastmodified":1582345035,
     "wof:name":"Sri Lanka",
     "wof:parent_id":102191569,
     "wof:placetype":"country",

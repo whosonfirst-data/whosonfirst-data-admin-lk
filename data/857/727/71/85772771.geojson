@@ -77,6 +77,9 @@
         "wk:page":"Modara"
     },
     "wof:country":"LK",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"33f1665abc59b5d0dc569e43ca72aefd",
     "wof:hierarchy":[
         {
@@ -92,7 +95,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1534379376,
+    "wof:lastmodified":1582345032,
     "wof:name":"Mutwal",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

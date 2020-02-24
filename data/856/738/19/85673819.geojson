@@ -258,6 +258,9 @@
         "wk:page":"Kalutara District"
     },
     "wof:country":"LK",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"3cbcc8f9bf528c616de1b33ace5528c5",
     "wof:hierarchy":[
         {
@@ -275,7 +278,7 @@
         "sin",
         "tam"
     ],
-    "wof:lastmodified":1566594448,
+    "wof:lastmodified":1582345034,
     "wof:name":"Ka\u1e37utara",
     "wof:parent_id":85632313,
     "wof:placetype":"region",

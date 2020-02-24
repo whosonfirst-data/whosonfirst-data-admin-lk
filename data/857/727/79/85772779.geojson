@@ -95,6 +95,9 @@
         "qs_pg:id":249057
     },
     "wof:country":"LK",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"e00134dcacfc586183acd056ac871a41",
     "wof:hierarchy":[
         {
@@ -110,7 +113,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1566594443,
+    "wof:lastmodified":1582345032,
     "wof:name":"Puliyadikuda",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

@@ -152,6 +152,9 @@
     },
     "wof:country":"LK",
     "wof:created":1469052978,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"43f8b01e7ee8a1b0d7a10754f58548c7",
     "wof:hierarchy":[
         {
@@ -162,7 +165,7 @@
         }
     ],
     "wof:id":890455863,
-    "wof:lastmodified":1566595381,
+    "wof:lastmodified":1582345049,
     "wof:name":"Jaffna",
     "wof:parent_id":85673769,
     "wof:placetype":"county",

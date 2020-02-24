@@ -214,6 +214,9 @@
         "wk:page":"Anuradhapura District"
     },
     "wof:country":"LK",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"10f2e272a61c51694693004478d5711b",
     "wof:hierarchy":[
         {
@@ -231,7 +234,7 @@
         "sin",
         "tam"
     ],
-    "wof:lastmodified":1566594444,
+    "wof:lastmodified":1582345033,
     "wof:name":"Anur\u0101dhapura",
     "wof:parent_id":85632313,
     "wof:placetype":"region",

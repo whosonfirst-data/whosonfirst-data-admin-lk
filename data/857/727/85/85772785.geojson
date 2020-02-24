@@ -84,6 +84,9 @@
         "wk:page":"Slave Island"
     },
     "wof:country":"LK",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"8cedfc78e26a3a5a76f691317eeebe8c",
     "wof:hierarchy":[
         {
@@ -99,7 +102,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1566594443,
+    "wof:lastmodified":1582345032,
     "wof:name":"Slave Island",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

@@ -259,6 +259,9 @@
         "wk:page":"Gampaha District"
     },
     "wof:country":"LK",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"866eca3b5de2978983df28f659165ef1",
     "wof:hierarchy":[
         {
@@ -276,7 +279,7 @@
         "sin",
         "tam"
     ],
-    "wof:lastmodified":1566594448,
+    "wof:lastmodified":1582345034,
     "wof:name":"Gampaha",
     "wof:parent_id":85632313,
     "wof:placetype":"region",

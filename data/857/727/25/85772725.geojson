@@ -95,6 +95,9 @@
         "qs_pg:id":1117322
     },
     "wof:country":"LK",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"38d9448da9431a43424b52022e5f1acc",
     "wof:hierarchy":[
         {
@@ -110,7 +113,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1566594443,
+    "wof:lastmodified":1582345032,
     "wof:name":"Fort",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

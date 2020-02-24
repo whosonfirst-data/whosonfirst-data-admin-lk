@@ -209,6 +209,9 @@
         "wk:page":"Monaragala District"
     },
     "wof:country":"LK",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"c243ff25f545430ef9ed794943408eb6",
     "wof:hierarchy":[
         {
@@ -226,7 +229,7 @@
         "sin",
         "tam"
     ],
-    "wof:lastmodified":1566594447,
+    "wof:lastmodified":1582345034,
     "wof:name":"M\u014f\u1e47ar\u0101gala",
     "wof:parent_id":85632313,
     "wof:placetype":"region",

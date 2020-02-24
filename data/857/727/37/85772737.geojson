@@ -95,6 +95,9 @@
         "qs_pg:id":1354004
     },
     "wof:country":"LK",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"4c81e64267c73a23c91fca9cc203c6cb",
     "wof:hierarchy":[
         {
@@ -110,7 +113,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1566594443,
+    "wof:lastmodified":1582345032,
     "wof:name":"Karaiyur",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

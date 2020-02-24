@@ -75,6 +75,9 @@
         "qs:id":1045710
     },
     "wof:country":"LK",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"0e09f729a7f95c9c0417727fd4c60793",
     "wof:hierarchy":[
         {
@@ -90,7 +93,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1534379376,
+    "wof:lastmodified":1582345032,
     "wof:name":"Kaluwella",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

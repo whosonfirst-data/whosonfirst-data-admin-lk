@@ -200,6 +200,9 @@
     },
     "wof:country":"LK",
     "wof:created":1469052728,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"dea638710219dceec5517c9e2bffcf52",
     "wof:hierarchy":[
         {
@@ -210,7 +213,7 @@
         }
     ],
     "wof:id":890450157,
-    "wof:lastmodified":1566595382,
+    "wof:lastmodified":1582345049,
     "wof:name":"Ampara",
     "wof:parent_id":85673733,
     "wof:placetype":"county",

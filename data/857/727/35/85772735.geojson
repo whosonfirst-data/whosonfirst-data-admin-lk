@@ -95,6 +95,9 @@
         "qs_pg:id":1064611
     },
     "wof:country":"LK",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"6074b2fc12a86a3bc3331bb911abeb3a",
     "wof:hierarchy":[
         {
@@ -110,7 +113,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1566594442,
+    "wof:lastmodified":1582345032,
     "wof:name":"Kapparatota",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

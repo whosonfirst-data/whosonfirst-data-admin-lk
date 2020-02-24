@@ -262,6 +262,9 @@
         "wk:page":"Kurunegala District"
     },
     "wof:country":"LK",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"892143ec6429dde0b213d6afbba7518e",
     "wof:hierarchy":[
         {
@@ -279,7 +282,7 @@
         "sin",
         "tam"
     ],
-    "wof:lastmodified":1566594446,
+    "wof:lastmodified":1582345034,
     "wof:name":"Kuru\u1e47\u00e6gala",
     "wof:parent_id":85632313,
     "wof:placetype":"region",

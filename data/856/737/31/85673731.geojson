@@ -259,6 +259,9 @@
         "wk:page":"Nuwara Eliya District"
     },
     "wof:country":"LK",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"db18a9803a519d13773232d98e7d27ba",
     "wof:hierarchy":[
         {
@@ -276,7 +279,7 @@
         "sin",
         "tam"
     ],
-    "wof:lastmodified":1566594445,
+    "wof:lastmodified":1582345033,
     "wof:name":"Nuvara \u0114liya",
     "wof:parent_id":85632313,
     "wof:placetype":"region",
