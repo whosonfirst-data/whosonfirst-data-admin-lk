@@ -84,6 +84,9 @@
         "wk:page":"Mattakkuliya"
     },
     "wof:country":"LK",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"cac36ced5a4f87eacf91f4479ce0c280",
     "wof:hierarchy":[
         {
@@ -99,7 +102,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1566594442,
+    "wof:lastmodified":1582345032,
     "wof:name":"Mattakkuliya",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

@@ -213,6 +213,9 @@
         "wd:id":"Q1520182"
     },
     "wof:country":"LK",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"77220a4c56fd6f8ae6cc65e316d0fb22",
     "wof:hierarchy":[
         {
@@ -230,7 +233,7 @@
         "sin",
         "tam"
     ],
-    "wof:lastmodified":1566594444,
+    "wof:lastmodified":1582345033,
     "wof:name":"Y\u0101panaya",
     "wof:parent_id":85632313,
     "wof:placetype":"region",

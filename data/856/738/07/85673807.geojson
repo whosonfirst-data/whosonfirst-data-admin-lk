@@ -257,6 +257,9 @@
         "wd:id":"Q1737803"
     },
     "wof:country":"LK",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"56d5290c3123556091a6623a27defa29",
     "wof:hierarchy":[
         {
@@ -274,7 +277,7 @@
         "sin",
         "tam"
     ],
-    "wof:lastmodified":1566594448,
+    "wof:lastmodified":1582345034,
     "wof:name":"K\u00e6galla",
     "wof:parent_id":85632313,
     "wof:placetype":"region",

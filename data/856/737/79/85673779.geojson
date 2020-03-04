@@ -262,6 +262,9 @@
         "wk:page":"Puttalam District"
     },
     "wof:country":"LK",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"168fa7eb9e926178f54e37a3578860b8",
     "wof:hierarchy":[
         {
@@ -279,7 +282,7 @@
         "sin",
         "tam"
     ],
-    "wof:lastmodified":1566594446,
+    "wof:lastmodified":1582345034,
     "wof:name":"Puttalama",
     "wof:parent_id":85632313,
     "wof:placetype":"region",

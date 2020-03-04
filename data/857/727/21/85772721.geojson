@@ -86,6 +86,9 @@
         "wk:page":"Fort (Colombo)"
     },
     "wof:country":"LK",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"1581811af250a1f708e320dbe1edece3",
     "wof:hierarchy":[
         {
@@ -101,7 +104,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1566594443,
+    "wof:lastmodified":1582345032,
     "wof:name":"Fort",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

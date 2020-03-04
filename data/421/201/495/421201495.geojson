@@ -429,6 +429,9 @@
     },
     "wof:country":"LK",
     "wof:created":1459010074,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"b1b7f4225bee6df8a7bdbcd6ef3550f2",
     "wof:hierarchy":[
         {
@@ -440,7 +443,7 @@
         }
     ],
     "wof:id":421201495,
-    "wof:lastmodified":1566595377,
+    "wof:lastmodified":1582345049,
     "wof:name":"Colombo",
     "wof:parent_id":1092057419,
     "wof:placetype":"locality",

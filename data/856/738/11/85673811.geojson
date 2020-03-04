@@ -223,6 +223,9 @@
         "wk:page":"Colombo District"
     },
     "wof:country":"LK",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"e1709dcd0955feb635325245cfb73d35",
     "wof:hierarchy":[
         {
@@ -240,7 +243,7 @@
         "sin",
         "tam"
     ],
-    "wof:lastmodified":1566594447,
+    "wof:lastmodified":1582345034,
     "wof:name":"K\u014f\u1e37amba",
     "wof:parent_id":85632313,
     "wof:placetype":"region",

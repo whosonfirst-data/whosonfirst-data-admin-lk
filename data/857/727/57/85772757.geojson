@@ -72,6 +72,9 @@
         "qs_pg:id":898598
     },
     "wof:country":"LK",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"e6749e2b9f48a0fb4f091c8345e24816",
     "wof:hierarchy":[
         {
@@ -87,7 +90,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1566594442,
+    "wof:lastmodified":1582345032,
     "wof:name":"Magalla",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

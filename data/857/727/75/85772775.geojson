@@ -92,6 +92,9 @@
         "wk:page":"Pettah, Sri Lanka"
     },
     "wof:country":"LK",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"96823ef60645d569db557fa6831a84a1",
     "wof:hierarchy":[
         {
@@ -107,7 +110,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1534379376,
+    "wof:lastmodified":1582345032,
     "wof:name":"Pettah",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

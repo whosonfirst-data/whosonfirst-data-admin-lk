@@ -288,6 +288,7 @@
     "qs:woe_id":2189757,
     "src:geom":"quattroshapes",
     "src:geom_alt":[
+        "naturalearth",
         "quattroshapes_pg"
     ],
     "wd:elevation":8.0,
@@ -312,6 +313,10 @@
     },
     "wof:country":"LK",
     "wof:created":1459009678,
+    "wof:geom_alt":[
+        "naturalearth",
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"a7d5874b379170f73c7fb4d5763b405b",
     "wof:hierarchy":[
         {
@@ -323,7 +328,7 @@
         }
     ],
     "wof:id":421191061,
-    "wof:lastmodified":1566595375,
+    "wof:lastmodified":1582345049,
     "wof:name":"Trincomalee",
     "wof:parent_id":1092066907,
     "wof:placetype":"locality",

@@ -259,6 +259,9 @@
         "wk:page":"Galle District"
     },
     "wof:country":"LK",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"563369d888a12a136809b0f3a4da3846",
     "wof:hierarchy":[
         {
@@ -276,7 +279,7 @@
         "sin",
         "tam"
     ],
-    "wof:lastmodified":1566594445,
+    "wof:lastmodified":1582345033,
     "wof:name":"G\u0101lla",
     "wof:parent_id":85632313,
     "wof:placetype":"region",

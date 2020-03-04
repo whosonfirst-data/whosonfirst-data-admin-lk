@@ -283,6 +283,9 @@
         "wd:id":"Q1587508"
     },
     "wof:country":"LK",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"b2adbaa1f11423a5091591e6d99eb4a0",
     "wof:hierarchy":[
         {
@@ -300,7 +303,7 @@
         "sin",
         "tam"
     ],
-    "wof:lastmodified":1566594446,
+    "wof:lastmodified":1582345033,
     "wof:name":"Mulativ",
     "wof:parent_id":85632313,
     "wof:placetype":"region",

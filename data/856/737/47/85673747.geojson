@@ -213,6 +213,9 @@
         "wd:id":"Q1493318"
     },
     "wof:country":"LK",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"f2887a33f7828acd7dd2e1f00e041095",
     "wof:hierarchy":[
         {
@@ -230,7 +233,7 @@
         "sin",
         "tam"
     ],
-    "wof:lastmodified":1566594447,
+    "wof:lastmodified":1582345034,
     "wof:name":"Triku\u1e47\u0101malaya",
     "wof:parent_id":85632313,
     "wof:placetype":"region",

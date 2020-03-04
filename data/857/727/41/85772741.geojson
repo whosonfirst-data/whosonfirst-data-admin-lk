@@ -94,6 +94,9 @@
         "qs_pg:id":894796
     },
     "wof:country":"LK",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"4ae459050c3b5ad247442d74b7bbd93d",
     "wof:hierarchy":[
         {
@@ -108,7 +111,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1566594443,
+    "wof:lastmodified":1582345032,
     "wof:name":"Kohunugamuwa",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

@@ -75,6 +75,9 @@
         "qs:id":233047
     },
     "wof:country":"LK",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"28d6f4a2302e269096672c0f3525d492",
     "wof:hierarchy":[
         {
@@ -90,7 +93,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1534379376,
+    "wof:lastmodified":1582345032,
     "wof:name":"Chiviyateru West",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

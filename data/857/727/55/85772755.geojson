@@ -79,6 +79,9 @@
         "qs:id":1354027
     },
     "wof:country":"LK",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"5c0a71d0dc9a14967bf990f381e24dbf",
     "wof:hierarchy":[
         {
@@ -94,7 +97,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1534379376,
+    "wof:lastmodified":1582345032,
     "wof:name":"Kuppiyawatta",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

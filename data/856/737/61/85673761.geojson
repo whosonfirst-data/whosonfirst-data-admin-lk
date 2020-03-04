@@ -259,6 +259,9 @@
         "wd:id":"Q178003"
     },
     "wof:country":"LK",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"7709352f8b8654379e9aa2b4f77cb33c",
     "wof:hierarchy":[
         {
@@ -276,7 +279,7 @@
         "sin",
         "tam"
     ],
-    "wof:lastmodified":1566594443,
+    "wof:lastmodified":1582345033,
     "wof:name":"Mann\u0101rama",
     "wof:parent_id":85632313,
     "wof:placetype":"region",

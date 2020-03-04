@@ -200,6 +200,9 @@
     },
     "wof:country":"LK",
     "wof:created":1469052978,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"ab9190f17d0920f4774cb115f39cf4cf",
     "wof:hierarchy":[
         {
@@ -210,7 +213,7 @@
         }
     ],
     "wof:id":890455861,
-    "wof:lastmodified":1566595381,
+    "wof:lastmodified":1582345049,
     "wof:name":"Kegalle",
     "wof:parent_id":85673807,
     "wof:placetype":"county",

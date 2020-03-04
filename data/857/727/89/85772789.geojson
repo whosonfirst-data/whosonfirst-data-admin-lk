@@ -75,6 +75,9 @@
         "qs:id":1354080
     },
     "wof:country":"LK",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"f217e9f97d859fb2277c4325754b5c27",
     "wof:hierarchy":[
         {
@@ -90,7 +93,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1534379377,
+    "wof:lastmodified":1582345032,
     "wof:name":"Timbirigasyaya",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

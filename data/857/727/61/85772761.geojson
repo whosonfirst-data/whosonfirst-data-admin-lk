@@ -84,6 +84,9 @@
         "wk:page":"Maradana"
     },
     "wof:country":"LK",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"b10aa9ea3a1f8ca640302dbe5b1127f3",
     "wof:hierarchy":[
         {
@@ -99,7 +102,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1534379377,
+    "wof:lastmodified":1582345032,
     "wof:name":"Maradana",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

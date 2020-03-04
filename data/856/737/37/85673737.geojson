@@ -219,6 +219,9 @@
         "wd:id":"Q810960"
     },
     "wof:country":"LK",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"f0c756606ad0aecff509aef24b493479",
     "wof:hierarchy":[
         {
@@ -236,7 +239,7 @@
         "sin",
         "tam"
     ],
-    "wof:lastmodified":1566594446,
+    "wof:lastmodified":1582345034,
     "wof:name":"Ma\u1e0dakalapuva",
     "wof:parent_id":85632313,
     "wof:placetype":"region",

@@ -72,6 +72,9 @@
         "qs_pg:id":233050
     },
     "wof:country":"LK",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"c4c6df78706932dfd5615be0fe9fee5a",
     "wof:hierarchy":[
         {
@@ -87,7 +90,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1566594443,
+    "wof:lastmodified":1582345032,
     "wof:name":"Delkada",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

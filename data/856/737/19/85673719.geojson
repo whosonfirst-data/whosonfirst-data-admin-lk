@@ -214,6 +214,9 @@
         "wk:page":"Kandy District"
     },
     "wof:country":"LK",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"465656e5047cbc186ceb2ca750105571",
     "wof:hierarchy":[
         {
@@ -231,7 +234,7 @@
         "sin",
         "tam"
     ],
-    "wof:lastmodified":1566594445,
+    "wof:lastmodified":1582345033,
     "wof:name":"Mahanuvara",
     "wof:parent_id":85632313,
     "wof:placetype":"region",

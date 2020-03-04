@@ -259,6 +259,9 @@
         "wd:id":"Q474395"
     },
     "wof:country":"LK",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"cf1fa0ff17ae6baab3cb129d4b6f5501",
     "wof:hierarchy":[
         {
@@ -276,7 +279,7 @@
         "sin",
         "tam"
     ],
-    "wof:lastmodified":1566594444,
+    "wof:lastmodified":1582345033,
     "wof:name":"Amp\u0101ra",
     "wof:parent_id":85632313,
     "wof:placetype":"region",

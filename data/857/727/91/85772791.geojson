@@ -95,6 +95,9 @@
         "qs_pg:id":894804
     },
     "wof:country":"LK",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"4e54929c9b602eab5333b9e9ff8554ef",
     "wof:hierarchy":[
         {
@@ -110,7 +113,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1566594443,
+    "wof:lastmodified":1582345032,
     "wof:name":"Weliweriya",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",
