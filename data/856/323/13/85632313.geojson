@@ -978,9 +978,7 @@
     ],
     "wof:concordances":{
         "dbp:id":"Sri_Lanka",
-        "digitalenvoy:country_code":[
-            144
-        ],
+        "digitalenvoy:country_code":144,
         "fb:id":"en.sri_lanka",
         "fifa:id":"SRI",
         "fips:code":"CE",
@@ -1025,7 +1023,7 @@
         "sin",
         "tam"
     ],
-    "wof:lastmodified":1583529175,
+    "wof:lastmodified":1583797382,
     "wof:name":"Sri Lanka",
     "wof:parent_id":102191569,
     "wof:placetype":"country",
