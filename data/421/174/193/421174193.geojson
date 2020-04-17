@@ -27,7 +27,7 @@
         "\u09ae\u09be\u09a8\u09be\u09b0"
     ],
     "name:ben_x_variant":[
-        "\u09ae\u09be\u09a8\u09be\u09b0 "
+        "\u09ae\u09be\u09a8\u09be\u09b0"
     ],
     "name:bul_x_preferred":[
         "\u041c\u0430\u043d\u0430\u0440"
@@ -180,8 +180,8 @@
     "wof:belongsto":[
         102191569,
         85632313,
-        85673761,
-        1092062683
+        1092062683,
+        85673761
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -204,7 +204,7 @@
         }
     ],
     "wof:id":421174193,
-    "wof:lastmodified":1566595371,
+    "wof:lastmodified":1587163137,
     "wof:name":"Mannar",
     "wof:parent_id":1092062683,
     "wof:placetype":"locality",
