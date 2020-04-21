@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":5.425241,
-    "geom:area_square_m":66483187820.292938,
+    "geom:area_square_m":66483186613.261803,
     "geom:bbox":"79.521622,5.914556,81.880386,9.832084",
     "geom:latitude":7.620404,
     "geom:longitude":80.70041,
@@ -61,6 +61,9 @@
     "name:arg_x_preferred":[
         "Sri Lanka"
     ],
+    "name:ary_x_preferred":[
+        "\u0633\u0631\u064a \u0644\u0627\u0646\u0643\u0627"
+    ],
     "name:arz_x_preferred":[
         "\u0633\u0631\u064a\u0644\u0627\u0646\u0643\u0627"
     ],
@@ -87,6 +90,9 @@
     ],
     "name:bam_x_preferred":[
         "Sirilanka"
+    ],
+    "name:ban_x_preferred":[
+        "Sri Lanka"
     ],
     "name:bar_x_preferred":[
         "Sri Lanka"
@@ -172,6 +178,12 @@
     "name:dan_x_preferred":[
         "Sri Lanka"
     ],
+    "name:deu_at_x_preferred":[
+        "Sri Lanka"
+    ],
+    "name:deu_ch_x_preferred":[
+        "Sri Lanka"
+    ],
     "name:deu_x_preferred":[
         "Sri Lanka"
     ],
@@ -195,6 +207,12 @@
     ],
     "name:ell_x_preferred":[
         "\u03a3\u03c1\u03b9 \u039b\u03ac\u03bd\u03ba\u03b1"
+    ],
+    "name:eng_ca_x_preferred":[
+        "Sri Lanka"
+    ],
+    "name:eng_gb_x_preferred":[
+        "Sri Lanka"
     ],
     "name:eng_x_preferred":[
         "Sri Lanka"
@@ -257,6 +275,9 @@
     ],
     "name:gag_x_preferred":[
         "\u015eri Lanka"
+    ],
+    "name:gcr_x_preferred":[
+        "Sri Lanka"
     ],
     "name:ger_x_variant":[
         "Demokratische Sozialistische Republik Sri Lanka"
@@ -332,6 +353,9 @@
     ],
     "name:hye_x_preferred":[
         "\u0547\u0580\u056b \u053c\u0561\u0576\u056f\u0561"
+    ],
+    "name:hyw_x_preferred":[
+        "\u054d\u0580\u056b \u053c\u0561\u0576\u0584\u0561"
     ],
     "name:ido_x_preferred":[
         "Sri-Lanka"
@@ -428,6 +452,9 @@
     ],
     "name:lat_x_preferred":[
         "Taprobane"
+    ],
+    "name:lat_x_variant":[
+        "Srilanca"
     ],
     "name:lav_x_preferred":[
         "\u0160rilanka"
@@ -603,6 +630,9 @@
     "name:pol_x_preferred":[
         "Sri Lanka"
     ],
+    "name:por_br_x_preferred":[
+        "Sri Lanka"
+    ],
     "name:por_x_preferred":[
         "Sri Lanka"
     ],
@@ -705,6 +735,15 @@
     "name:sqi_x_preferred":[
         "Sri Lanka"
     ],
+    "name:srd_x_preferred":[
+        "Sri Lanka"
+    ],
+    "name:srp_ec_x_preferred":[
+        "\u0428\u0440\u0438 \u041b\u0430\u043d\u043a\u0430"
+    ],
+    "name:srp_el_x_preferred":[
+        "\u0160ri Lanka"
+    ],
     "name:srp_x_preferred":[
         "\u0428\u0440\u0438 \u041b\u0430\u043d\u043a\u0430"
     ],
@@ -725,6 +764,9 @@
     ],
     "name:szl_x_preferred":[
         "Sri Lanka"
+    ],
+    "name:szy_x_preferred":[
+        "Sri lanka"
     ],
     "name:tam_x_preferred":[
         "\u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8"
@@ -854,8 +896,26 @@
     "name:zha_x_preferred":[
         "Sri Lanka"
     ],
+    "name:zho_cn_x_preferred":[
+        "\u65af\u91cc\u5170\u5361"
+    ],
+    "name:zho_hk_x_preferred":[
+        "\u65af\u91cc\u862d\u5361"
+    ],
     "name:zho_min_nan_x_preferred":[
         "Sri Lanka"
+    ],
+    "name:zho_mo_x_preferred":[
+        "\u65af\u91cc\u862d\u5361"
+    ],
+    "name:zho_my_x_preferred":[
+        "\u65af\u91cc\u5170\u5361"
+    ],
+    "name:zho_sg_x_preferred":[
+        "\u65af\u91cc\u5170\u5361"
+    ],
+    "name:zho_tw_x_preferred":[
+        "\u65af\u91cc\u862d\u5361"
     ],
     "name:zho_x_preferred":[
         "\u65af\u91cc\u862d\u5361"
@@ -1023,7 +1083,7 @@
         "sin",
         "tam"
     ],
-    "wof:lastmodified":1583797382,
+    "wof:lastmodified":1587428303,
     "wof:name":"Sri Lanka",
     "wof:parent_id":102191569,
     "wof:placetype":"country",
