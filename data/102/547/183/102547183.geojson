@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"81.2338888889,6.25416666667,81.2338888889,6.25416666667",
+    "geom:bbox":"81.233889,6.254167,81.233889,6.254167",
     "geom:latitude":6.254167,
     "geom:longitude":81.233889,
     "iso:country":"LK",
@@ -15,6 +15,10 @@
     "mz:min_zoom":13.0,
     "name:eng_x_preferred":[
         "Weerawila Airport"
+    ],
+    "name:eng_x_variant":[
+        "WRZ",
+        "VCCW"
     ],
     "name:fas_x_preferred":[
         "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0628\u06cc\u0646\u200c\u0627\u0644\u0645\u0644\u0644\u06cc \u0648\u06cc\u0631\u0627\u0648\u06cc\u0644\u0627"
@@ -70,7 +74,7 @@
         "wd:id":"Q1931181"
     },
     "wof:country":"LK",
-    "wof:geomhash":"0ab75493e642af4dc96203474e0e3e19",
+    "wof:geomhash":"99fbcb203ddd51222f5fbc381b38477b",
     "wof:hierarchy":[
         {
             "campus_id":102547183,
@@ -79,7 +83,7 @@
         }
     ],
     "wof:id":102547183,
-    "wof:lastmodified":1566594271,
+    "wof:lastmodified":1631749947,
     "wof:name":"Wirawila Airport",
     "wof:parent_id":85673791,
     "wof:placetype":"campus",
@@ -91,10 +95,10 @@
     ]
 },
   "bbox": [
-    81.233888888889,
-    6.2541666666667,
-    81.233888888889,
-    6.2541666666667
+    81.233889,
+    6.254167,
+    81.233889,
+    6.254167
 ],
-  "geometry": {"coordinates":[81.233888888889,6.2541666666667],"type":"Point"}
+  "geometry": {"coordinates":[81.233889,6.254167],"type":"Point"}
 }

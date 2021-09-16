@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"81.6258333333,7.33722222222,81.6258333333,7.33722222222",
+    "geom:bbox":"81.625833,7.337222,81.625833,7.337222",
     "geom:latitude":7.337222,
     "geom:longitude":81.625833,
     "iso:country":"LK",
@@ -18,6 +18,10 @@
     ],
     "name:eng_x_preferred":[
         "SLAF Ampara"
+    ],
+    "name:eng_x_variant":[
+        "ADP",
+        "VCCG"
     ],
     "name:fas_x_preferred":[
         "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0627\u0633\u200c\u0627\u0644\u200c\u0627\u06cc\u200c\u0627\u0641 \u0627\u0633\u067e\u0627\u0631\u0627"
@@ -73,7 +77,7 @@
         "wd:id":"Q7390731"
     },
     "wof:country":"LK",
-    "wof:geomhash":"78cf318404b53be1b69f76f5a389c373",
+    "wof:geomhash":"be06f38b937225d5210f9a1500fe9ef1",
     "wof:hierarchy":[
         {
             "campus_id":102547177,
@@ -82,7 +86,7 @@
         }
     ],
     "wof:id":102547177,
-    "wof:lastmodified":1566594271,
+    "wof:lastmodified":1631749947,
     "wof:name":"Amparai Airport",
     "wof:parent_id":85673733,
     "wof:placetype":"campus",
@@ -94,10 +98,10 @@
     ]
 },
   "bbox": [
-    81.625833333333,
-    7.3372222222222,
-    81.625833333333,
-    7.3372222222222
+    81.625833,
+    7.337222,
+    81.625833,
+    7.337222
 ],
-  "geometry": {"coordinates":[81.62583333333301,7.3372222222222],"type":"Point"}
+  "geometry": {"coordinates":[81.625833,7.337222],"type":"Point"}
 }

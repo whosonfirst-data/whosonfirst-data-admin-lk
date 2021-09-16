@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"80.3205555556,5.99388888889,80.3205555556,5.99388888889",
+    "geom:bbox":"80.320556,5.993889,80.320556,5.993889",
     "geom:latitude":5.993889,
     "geom:longitude":80.320556,
     "iso:country":"LK",
@@ -18,6 +18,10 @@
     ],
     "name:eng_x_preferred":[
         "SLAF Koggala"
+    ],
+    "name:eng_x_variant":[
+        "KCT",
+        "VCCK"
     ],
     "name:fas_x_preferred":[
         "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0627\u0633\u200c\u0627\u0644\u200c\u0627\u06cc\u200c\u0627\u0641 \u06a9\u0648\u06af\u0627\u0644\u0627"
@@ -67,7 +71,7 @@
         "wd:id":"Q4802366"
     },
     "wof:country":"LK",
-    "wof:geomhash":"e796948f64da824847284bf920662eea",
+    "wof:geomhash":"0dbb79a8a17076dc13d9d21c9e6cefe0",
     "wof:hierarchy":[
         {
             "campus_id":102547165,
@@ -76,7 +80,7 @@
         }
     ],
     "wof:id":102547165,
-    "wof:lastmodified":1566594271,
+    "wof:lastmodified":1631749947,
     "wof:name":"Koggala Airport",
     "wof:parent_id":85673789,
     "wof:placetype":"campus",
@@ -88,10 +92,10 @@
     ]
 },
   "bbox": [
-    80.320555555556,
-    5.9938888888889,
-    80.320555555556,
-    5.9938888888889
+    80.320556,
+    5.993889,
+    80.320556,
+    5.993889
 ],
-  "geometry": {"coordinates":[80.320555555556,5.9938888888889],"type":"Point"}
+  "geometry": {"coordinates":[80.320556,5.993889],"type":"Point"}
 }
