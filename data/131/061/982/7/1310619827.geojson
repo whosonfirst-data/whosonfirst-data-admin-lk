@@ -37,6 +37,12 @@
     "name:fra_x_preferred":[
         "Yala"
     ],
+    "name:heb_x_preferred":[
+        "\u05d9\u05d0\u05dc\u05d4"
+    ],
+    "name:hun_x_preferred":[
+        "Yala"
+    ],
     "name:ita_x_preferred":[
         "Yala"
     ],
@@ -73,7 +79,7 @@
         "gn:id":8692897
     },
     "wof:country":"LK",
-    "wof:geomhash":"bc622a904a26f8fd5f5082d9adfd4855",
+    "wof:geomhash":"3ade4880e8156b97d66b8f738893147b",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -84,7 +90,7 @@
         }
     ],
     "wof:id":1310619827,
-    "wof:lastmodified":1566595194,
+    "wof:lastmodified":1636500556,
     "wof:name":"Yala",
     "wof:parent_id":1092066869,
     "wof:placetype":"locality",
@@ -94,10 +100,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    81.51760999999998,
+    81.51761,
     6.36747,
-    81.51760999999998,
+    81.51761,
     6.36747
 ],
-  "geometry": {"coordinates":[81.51760999999998,6.36747],"type":"Point"}
+  "geometry": {"coordinates":[81.51761,6.36747],"type":"Point"}
 }

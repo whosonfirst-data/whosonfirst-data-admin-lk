@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"80.5427733957,5.94897666313,80.5427733957,5.94897666313",
+    "geom:bbox":"80.542773,5.948977,80.542773,5.948977",
     "geom:latitude":5.948977,
     "geom:longitude":80.542773,
     "iso:country":"LK",
@@ -54,6 +54,9 @@
     "name:guj_x_preferred":[
         "\u0aae\u0a9f\u0abe\u0ab0\u0abe"
     ],
+    "name:heb_x_preferred":[
+        "\u05de\u05d8\u05e8\u05d4"
+    ],
     "name:hin_x_preferred":[
         "\u092e\u0924\u093e\u0930\u093e"
     ],
@@ -97,6 +100,9 @@
         "Matara"
     ],
     "name:pol_x_preferred":[
+        "Matara"
+    ],
+    "name:por_x_preferred":[
         "Matara"
     ],
     "name:rus_x_preferred":[
@@ -251,7 +257,7 @@
     },
     "wof:country":"LK",
     "wof:created":1499130665,
-    "wof:geomhash":"78ec16b5979cb1a2cc959f8915c15143",
+    "wof:geomhash":"371910a762a85e78c67b5940d66d823b",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -262,7 +268,7 @@
         }
     ],
     "wof:id":1141906987,
-    "wof:lastmodified":1566595808,
+    "wof:lastmodified":1636500558,
     "wof:name":"Matara",
     "wof:parent_id":1092062917,
     "wof:placetype":"locality",
@@ -276,10 +282,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    80.54277339571752,
-    5.94897666312619,
-    80.54277339571752,
-    5.94897666312619
+    80.542773,
+    5.948977,
+    80.542773,
+    5.948977
 ],
-  "geometry": {"coordinates":[80.54277339571752,5.94897666312619],"type":"Point"}
+  "geometry": {"coordinates":[80.542773,5.948977],"type":"Point"}
 }

@@ -41,6 +41,12 @@
     "name:fra_x_preferred":[
         "Gampaha"
     ],
+    "name:heb_x_preferred":[
+        "\u05d2\u05de\u05e4\u05d0\u05d4\u05d4"
+    ],
+    "name:hun_x_preferred":[
+        "Gampaha"
+    ],
     "name:ind_x_preferred":[
         "Gampaha"
     ],
@@ -97,7 +103,7 @@
         }
     ],
     "wof:id":1276378339,
-    "wof:lastmodified":1566594764,
+    "wof:lastmodified":1636500555,
     "wof:name":"Gampaha",
     "wof:parent_id":1092067051,
     "wof:placetype":"locality",

@@ -44,6 +44,12 @@
     "name:fra_x_preferred":[
         "Westmoreland"
     ],
+    "name:heb_x_preferred":[
+        "\u05d5\u05d5\u05e1\u05d8\u05de\u05d5\u05e8\u05dc\u05e0\u05d3"
+    ],
+    "name:hun_x_preferred":[
+        "Westmoreland"
+    ],
     "name:ita_x_preferred":[
         "Westmoreland"
     ],
@@ -106,7 +112,7 @@
         }
     ],
     "wof:id":1243314113,
-    "wof:lastmodified":1566595389,
+    "wof:lastmodified":1636500558,
     "wof:name":"Westmoreland",
     "wof:parent_id":1092056403,
     "wof:placetype":"locality",

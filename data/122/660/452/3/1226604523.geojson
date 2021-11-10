@@ -56,8 +56,14 @@
     "name:fra_x_preferred":[
         "Moratuwa"
     ],
+    "name:heb_x_preferred":[
+        "\u05de\u05d5\u05e8\u05d8\u05d5\u05d5\u05d4"
+    ],
     "name:hin_x_preferred":[
         "\u092e\u094b\u0930\u093e\u0924\u0941\u0935\u093e"
+    ],
+    "name:hun_x_preferred":[
+        "Moratuwa"
     ],
     "name:ita_x_preferred":[
         "Moratuwa"
@@ -124,7 +130,7 @@
         }
     ],
     "wof:id":1226604523,
-    "wof:lastmodified":1566595665,
+    "wof:lastmodified":1636500558,
     "wof:name":"Moratuwa",
     "wof:parent_id":1092062437,
     "wof:placetype":"locality",

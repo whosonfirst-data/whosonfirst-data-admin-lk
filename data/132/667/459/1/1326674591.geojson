@@ -29,10 +29,31 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:ara_x_preferred":[
+        "\u0623\u0631\u0627\u0648\u0627"
+    ],
+    "name:ben_x_preferred":[
+        "\u0986\u09b0\u09be\u0993\u09df\u09be"
+    ],
     "name:ceb_x_preferred":[
         "Arawa"
     ],
     "name:deu_x_preferred":[
+        "Arawa"
+    ],
+    "name:ell_x_preferred":[
+        "\u0391\u03c1\u03ac\u03b2\u03b1"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d0\u05e8\u05d5\u05d5\u05d4"
+    ],
+    "name:hin_x_preferred":[
+        "\u0905\u0930\u093e\u0935\u093e"
+    ],
+    "name:hun_x_preferred":[
+        "Arawa"
+    ],
+    "name:ind_x_preferred":[
         "Arawa"
     ],
     "name:rus_x_preferred":[
@@ -41,8 +62,14 @@
     "name:swe_x_preferred":[
         "Arawa"
     ],
+    "name:tur_x_preferred":[
+        "Arawa"
+    ],
     "name:ukr_x_preferred":[
         "\u0410\u0440\u0430\u0432\u0430"
+    ],
+    "name:vie_x_preferred":[
+        "Arawa"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -67,7 +94,7 @@
         }
     ],
     "wof:id":1326674591,
-    "wof:lastmodified":1566594170,
+    "wof:lastmodified":1636500554,
     "wof:name":"Arawa",
     "wof:parent_id":1092068087,
     "wof:placetype":"locality",

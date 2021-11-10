@@ -53,6 +53,9 @@
     "name:fra_x_preferred":[
         "Badulla"
     ],
+    "name:heb_x_preferred":[
+        "\u05d1\u05d3\u05d5\u05dc\u05d4"
+    ],
     "name:hun_x_preferred":[
         "Badulla"
     ],
@@ -78,6 +81,9 @@
         "Badulla"
     ],
     "name:pol_x_preferred":[
+        "Badulla"
+    ],
+    "name:por_x_preferred":[
         "Badulla"
     ],
     "name:rus_x_preferred":[
@@ -136,7 +142,7 @@
         }
     ],
     "wof:id":1209961765,
-    "wof:lastmodified":1566594809,
+    "wof:lastmodified":1636500555,
     "wof:name":"Badulla",
     "wof:parent_id":1092062413,
     "wof:placetype":"locality",

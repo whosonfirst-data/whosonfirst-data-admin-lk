@@ -104,6 +104,9 @@
     "name:pol_x_preferred":[
         "Badulla"
     ],
+    "name:por_x_preferred":[
+        "Badulla"
+    ],
     "name:rus_x_preferred":[
         "\u0411\u0430\u0434\u0443\u043b\u043b\u0430"
     ],
@@ -286,7 +289,7 @@
         }
     ],
     "wof:id":421168829,
-    "wof:lastmodified":1566595363,
+    "wof:lastmodified":1636500558,
     "wof:name":"Badulla",
     "wof:parent_id":1092056843,
     "wof:placetype":"locality",
