@@ -27,8 +27,14 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
+    "name:eng_x_preferred":[
+        "Malabe"
+    ],
+    "name:eng_x_variant":[
+        "Malambe"
+    ],
     "name:sin_x_preferred":[
         "\u0db8\u0dcf\u0dbd\u0db6\u0dda"
     ],
@@ -39,8 +45,8 @@
     "wof:belongsto":[
         102191569,
         85632313,
-        85673811,
-        1092059875
+        1092059875,
+        85673811
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -59,8 +65,8 @@
         }
     ],
     "wof:id":1327187161,
-    "wof:lastmodified":1566594270,
-    "wof:name":"Malambe",
+    "wof:lastmodified":1645145564,
+    "wof:name":"Malabe",
     "wof:parent_id":1092059875,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-lk",
