@@ -13,6 +13,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":13.0,
+    "name:cym_x_preferred":[
+        "Maes Awyr Weerawila"
+    ],
     "name:eng_x_preferred":[
         "Weerawila Airport"
     ],
@@ -28,6 +31,9 @@
     ],
     "name:msa_x_preferred":[
         "Pengkalan Udara Wirawila"
+    ],
+    "name:mya_x_preferred":[
+        "\u101d\u102e\u1038\u101b\u101d\u102e\u101c\u101c\u1031\u1006\u102d\u1015\u103a"
     ],
     "name:pol_x_preferred":[
         "Port lotniczy Weerawila"
@@ -83,7 +89,7 @@
         }
     ],
     "wof:id":102547183,
-    "wof:lastmodified":1631749947,
+    "wof:lastmodified":1690938534,
     "wof:name":"Wirawila Airport",
     "wof:parent_id":85673791,
     "wof:placetype":"campus",

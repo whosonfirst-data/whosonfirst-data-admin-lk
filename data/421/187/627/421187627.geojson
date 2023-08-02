@@ -23,6 +23,9 @@
     "name:eng_x_preferred":[
         "Minneriya"
     ],
+    "name:fas_x_preferred":[
+        "\u0645\u06cc\u0646\u0631\u06cc\u0627"
+    ],
     "name:jpn_x_preferred":[
         "\u30df\u30cd\u30ea\u30e4"
     ],
@@ -85,7 +88,7 @@
         }
     ],
     "wof:id":421187627,
-    "wof:lastmodified":1566595372,
+    "wof:lastmodified":1690938564,
     "wof:name":"Minneriya",
     "wof:parent_id":1092059355,
     "wof:placetype":"locality",

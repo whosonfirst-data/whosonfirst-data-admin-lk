@@ -23,8 +23,14 @@
     "name:ceb_x_preferred":[
         "Maharagama"
     ],
+    "name:deu_x_preferred":[
+        "Maharagama"
+    ],
     "name:eng_x_preferred":[
         "Maharagama"
+    ],
+    "name:fas_x_preferred":[
+        "\u0645\u0627\u0647\u0627\u0631\u0627\u06af\u0627\u0645\u0627"
     ],
     "name:jpn_x_preferred":[
         "\u30de\u30cf\u30e9\u30ac\u30de"
@@ -32,11 +38,20 @@
     "name:nld_x_preferred":[
         "Maharagama"
     ],
+    "name:pol_x_preferred":[
+        "Maharagama"
+    ],
     "name:sin_x_preferred":[
         "\u0db8\u0dc4\u0dbb\u0d9c\u0db8"
     ],
     "name:swe_x_preferred":[
         "Maharagama"
+    ],
+    "name:tam_x_preferred":[
+        "\u0bae\u0b95\u0bb0\u0b95\u0bae"
+    ],
+    "name:zho_x_preferred":[
+        "\u99ac\u54c8\u62c9\u8cc8\u99ac"
     ],
     "qs:gn_country":"LK",
     "qs:gn_fcode":"PPL",
@@ -86,7 +101,7 @@
         }
     ],
     "wof:id":421167315,
-    "wof:lastmodified":1566595367,
+    "wof:lastmodified":1690938558,
     "wof:name":"Maharagama",
     "wof:parent_id":1092062163,
     "wof:placetype":"locality",

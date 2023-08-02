@@ -22,6 +22,9 @@
     "name:ara_x_preferred":[
         "\u062a\u0652\u0634\u064a\u0644\u0648"
     ],
+    "name:arz_x_preferred":[
+        "\u062a\u0634\u064a\u0644\u0648"
+    ],
     "name:ben_x_preferred":[
         "\u099a\u09bf\u09b2\u09be\u0989"
     ],
@@ -157,7 +160,7 @@
         }
     ],
     "wof:id":890450147,
-    "wof:lastmodified":1566595382,
+    "wof:lastmodified":1690938576,
     "wof:name":"Chilaw",
     "wof:parent_id":1092057373,
     "wof:placetype":"locality",

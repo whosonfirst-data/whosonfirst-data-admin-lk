@@ -20,8 +20,14 @@
     "name:ara_x_preferred":[
         "\u0643\u064a\u0644\u064a\u0646\u0648\u062a\u0634\u064a"
     ],
+    "name:arz_x_preferred":[
+        "\u0643\u064a\u0644\u064a\u0646\u0648\u062a\u0634\u0649"
+    ],
     "name:ben_x_preferred":[
         "\u0995\u09bf\u09b2\u09bf\u09a8\u09cb\u0995\u099a\u09bf"
+    ],
+    "name:ben_x_variant":[
+        "\u0995\u09bf\u09b2\u09bf\u09a8\u09cb\u099a\u09cd\u099a\u09bf"
     ],
     "name:ceb_x_preferred":[
         "Kilinochchi"
@@ -288,7 +294,7 @@
         }
     ],
     "wof:id":421203945,
-    "wof:lastmodified":1566595370,
+    "wof:lastmodified":1690938561,
     "wof:name":"Kilinochchi",
     "wof:parent_id":1092060465,
     "wof:placetype":"locality",

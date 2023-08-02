@@ -40,11 +40,17 @@
     "name:bel_x_preferred":[
         "\u041a\u0430\u043b\u043e\u043c\u0431\u0430"
     ],
+    "name:ben_x_preferred":[
+        "\u0995\u09b2\u09ae\u09cd\u09ac\u09cb \u099c\u09c7\u09b2\u09be"
+    ],
     "name:cat_x_preferred":[
         "Districte de Colombo"
     ],
     "name:ceb_x_preferred":[
         "Colombo District"
+    ],
+    "name:cym_x_preferred":[
+        "Ardal Colombo"
     ],
     "name:deu_x_preferred":[
         "Colombo"
@@ -82,6 +88,12 @@
     "name:kor_x_preferred":[
         "\ucf5c\ub86c\ubcf4 \uad6c"
     ],
+    "name:kor_x_variant":[
+        "\ucf5c\ub86c\ubcf4\uad6c"
+    ],
+    "name:mal_x_preferred":[
+        "\u0d15\u0d4a\u0d33\u0d02\u0d2c\u0d4b \u0d1c\u0d3f\u0d32\u0d4d\u0d32"
+    ],
     "name:mar_x_preferred":[
         "\u0915\u094b\u0932\u0902\u092c\u094b \u091c\u093f\u0932\u094d\u0939\u093e"
     ],
@@ -97,8 +109,14 @@
     "name:pnb_x_preferred":[
         "\u0636\u0644\u0639 \u06a9\u0648\u0644\u0645\u0628\u0648"
     ],
+    "name:pol_x_preferred":[
+        "Kolombo"
+    ],
     "name:rus_x_preferred":[
         "\u041a\u043e\u043b\u043e\u043c\u0431\u043e"
+    ],
+    "name:sat_x_preferred":[
+        "\u1c60\u1c5a\u1c5e\u1c5a\u1c62\u1c75\u1c5a \u1c66\u1c5a\u1c71\u1c5a\u1c5b"
     ],
     "name:sin_x_preferred":[
         "\u0d9a\u0ddc\u0dc5\u0db9 \u0daf\u0dd2\u0dc3\u0dca\u0dad\u0dca \u0dbb\u0dd2\u0d9a\u0dca\u0d9a\u0dba"
@@ -160,7 +178,7 @@
         }
     ],
     "wof:id":1092057419,
-    "wof:lastmodified":1607980737,
+    "wof:lastmodified":1690938548,
     "wof:name":"Colombo",
     "wof:parent_id":85673811,
     "wof:placetype":"county",

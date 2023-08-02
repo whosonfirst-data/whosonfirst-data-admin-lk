@@ -95,11 +95,17 @@
     "name:kor_x_preferred":[
         "\ud478\ud0c8\ub78c \uad6c"
     ],
+    "name:kor_x_variant":[
+        "\ud478\ud0c8\ub78c\uad6c"
+    ],
     "name:lav_x_preferred":[
         "Puttalamas distrikts"
     ],
     "name:lit_x_preferred":[
         "Putalamo apskritis"
+    ],
+    "name:mal_x_preferred":[
+        "\u0d2a\u0d41\u0d24\u0d4d\u0d24\u0d32\u0d02 \u0d1c\u0d3f\u0d32\u0d4d\u0d32"
     ],
     "name:mar_x_preferred":[
         "\u092a\u0924\u094d\u0924\u0932\u092e \u091c\u093f\u0932\u094d\u0939\u093e"
@@ -288,7 +294,7 @@
         "sin",
         "tam"
     ],
-    "wof:lastmodified":1636500554,
+    "wof:lastmodified":1690938540,
     "wof:name":"Puttalama",
     "wof:parent_id":85632313,
     "wof:placetype":"region",

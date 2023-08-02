@@ -19,11 +19,17 @@
     "name:eng_x_preferred":[
         "Grandpass"
     ],
+    "name:fas_x_preferred":[
+        "\u06af\u0631\u0646\u062f\u067e\u0633"
+    ],
     "name:jpn_x_preferred":[
         "\u30b0\u30e9\u30f3\u30c9\u30d1\u30b9"
     ],
     "name:nld_x_preferred":[
         "Grandpass"
+    ],
+    "name:sin_x_preferred":[
+        "\u0dad\u0ddc\u0da7\u0dc5\u0d9f"
     ],
     "qs:gn_country":"LK",
     "qs:gn_fcode":"PPLX",
@@ -73,7 +79,7 @@
         }
     ],
     "wof:id":421176593,
-    "wof:lastmodified":1566595380,
+    "wof:lastmodified":1690938573,
     "wof:name":"Grandpass",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

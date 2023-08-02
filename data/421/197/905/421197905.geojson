@@ -20,6 +20,12 @@
     "name:ara_x_preferred":[
         "\u0647\u0627\u062a\u0648\u0646"
     ],
+    "name:arz_x_preferred":[
+        "\u0647\u0627\u062a\u0648\u0646"
+    ],
+    "name:ast_x_preferred":[
+        "Hatton"
+    ],
     "name:ben_x_preferred":[
         "\u09b9\u09cd\u09af\u09be\u099f\u09a8"
     ],
@@ -61,6 +67,9 @@
     ],
     "name:jpn_x_preferred":[
         "\u30cf\u30c3\u30c8\u30f3\u30fb\u30c7\u30a3\u30b3\u30e4"
+    ],
+    "name:jpn_x_variant":[
+        "\u30cf\u30c3\u30c8\u30f3"
     ],
     "name:kan_x_preferred":[
         "\u0cb9\u0ccd\u0caf\u0cbe\u0c9f\u0ca8\u0ccd"
@@ -176,7 +185,7 @@
         }
     ],
     "wof:id":421197905,
-    "wof:lastmodified":1566595376,
+    "wof:lastmodified":1690938568,
     "wof:name":"Hatton",
     "wof:parent_id":1092056403,
     "wof:placetype":"locality",

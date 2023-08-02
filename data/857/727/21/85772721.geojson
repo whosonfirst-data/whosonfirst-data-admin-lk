@@ -30,6 +30,9 @@
     "name:eng_x_preferred":[
         "Fort"
     ],
+    "name:fas_x_preferred":[
+        "\u0641\u0648\u0631\u062a"
+    ],
     "name:jpn_x_preferred":[
         "\u30d5\u30a9\u30fc\u30c8"
     ],
@@ -41,6 +44,9 @@
     ],
     "name:tam_x_preferred":[
         "\u0b95\u0bcb\u0b9f\u0bcd\u0b9f\u0bc8"
+    ],
+    "name:zho_x_preferred":[
+        "\u8981\u585e\u5340"
     ],
     "qs:gn_adm0_cc":"LK",
     "qs:gn_fcode":"PPLX",
@@ -104,7 +110,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1582345032,
+    "wof:lastmodified":1690938535,
     "wof:name":"Fort",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

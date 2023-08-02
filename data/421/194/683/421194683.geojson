@@ -17,6 +17,9 @@
     "mz:is_current":1,
     "mz:min_zoom":9.0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ceb_x_preferred":[
+        "Ja Ela"
+    ],
     "name:deu_x_preferred":[
         "Ja-Ela"
     ],
@@ -46,6 +49,9 @@
     ],
     "name:sin_x_preferred":[
         "\u0da2\u0dcf-\u0d87\u0dbd"
+    ],
+    "name:swe_x_preferred":[
+        "Ja Ela"
     ],
     "name:tam_x_preferred":[
         "\u0b9c\u0bbe-\u0b8e\u0bb2"
@@ -100,7 +106,7 @@
         }
     ],
     "wof:id":421194683,
-    "wof:lastmodified":1566595366,
+    "wof:lastmodified":1690938557,
     "wof:name":"Ja-Ela",
     "wof:parent_id":1092059853,
     "wof:placetype":"locality",

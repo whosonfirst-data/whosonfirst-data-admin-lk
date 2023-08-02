@@ -38,6 +38,9 @@
     "name:sin_x_preferred":[
         "\u0dbb\u0dcf\u0d9c\u0db8"
     ],
+    "name:tam_x_preferred":[
+        "\u0b87\u0bb0\u0bbe\u0b95\u0bae"
+    ],
     "qs:gn_country":"LK",
     "qs:gn_fcode":"PPL",
     "qs:gn_id":1229126,
@@ -85,7 +88,7 @@
         }
     ],
     "wof:id":421195429,
-    "wof:lastmodified":1566595366,
+    "wof:lastmodified":1690938556,
     "wof:name":"Ragama",
     "wof:parent_id":1092059853,
     "wof:placetype":"locality",

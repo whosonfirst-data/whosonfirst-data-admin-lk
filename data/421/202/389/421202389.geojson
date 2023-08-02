@@ -20,11 +20,20 @@
     "name:ara_x_preferred":[
         "\u0628\u0648\u0644\u0648\u0646\u0627\u0631\u0648\u0627"
     ],
+    "name:arz_x_preferred":[
+        "\u0628\u0648\u0644\u0648\u0646\u0627\u0631\u0648\u0627"
+    ],
     "name:bel_x_preferred":[
         "\u0413\u043e\u0440\u0430\u0434 \u041f\u0430\u043b\u0430\u043d\u0430\u0440\u0443\u0432\u0430"
     ],
+    "name:bel_x_variant":[
+        "\u041f\u0430\u043b\u0430\u043d\u0430\u0440\u0443\u0432\u0430"
+    ],
     "name:ben_x_preferred":[
         "\u09aa\u09cb\u09b2\u09c7\u09a8\u09be\u09b0\u0993\u09af\u09bc\u09be"
+    ],
+    "name:ben_x_variant":[
+        "\u09aa\u09b2\u09cb\u09a8\u09cd\u09a8\u09be\u09b0\u09c1\u09af\u09bc\u09be"
     ],
     "name:cat_x_preferred":[
         "Polonnaruwa"
@@ -47,6 +56,9 @@
     "name:eng_x_preferred":[
         "Polonnaruwa"
     ],
+    "name:epo_x_preferred":[
+        "Polonnaruwa"
+    ],
     "name:fas_x_preferred":[
         "\u067e\u0648\u0644\u0648\u0646\u0627\u0631\u0648\u0648\u0627"
     ],
@@ -55,6 +67,9 @@
     ],
     "name:fra_x_preferred":[
         "Polonn\u00e2ruv\u00e2"
+    ],
+    "name:glg_x_preferred":[
+        "Polonnaruva"
     ],
     "name:guj_x_preferred":[
         "\u0aaa\u0acb\u0ab2\u0acb\u0aa8\u0ab0\u0ac1\u0ab5\u0abe"
@@ -109,6 +124,9 @@
     ],
     "name:mar_x_preferred":[
         "\u092a\u094b\u0932\u094b\u0928\u093e\u0930\u0941\u0935\u093e"
+    ],
+    "name:mkd_x_preferred":[
+        "\u041f\u043e\u043b\u043e\u043d\u0430\u0440\u0443\u0432\u0430"
     ],
     "name:msa_x_preferred":[
         "Polonnaruwa"
@@ -227,7 +245,7 @@
         }
     ],
     "wof:id":421202389,
-    "wof:lastmodified":1566595370,
+    "wof:lastmodified":1690938562,
     "wof:name":"Polonnaruwa",
     "wof:parent_id":1092066437,
     "wof:placetype":"locality",

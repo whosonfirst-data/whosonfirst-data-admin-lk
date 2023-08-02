@@ -50,6 +50,9 @@
     "name:nld_x_preferred":[
         "Point Pedro"
     ],
+    "name:pol_x_preferred":[
+        "Point Pedro"
+    ],
     "name:rus_x_preferred":[
         "\u041f\u043e\u0439\u043d\u0442-\u041f\u0435\u0434\u0440\u043e"
     ],
@@ -122,7 +125,7 @@
         }
     ],
     "wof:id":421167313,
-    "wof:lastmodified":1566595367,
+    "wof:lastmodified":1690938558,
     "wof:name":"Point Pedro",
     "wof:parent_id":1092067095,
     "wof:placetype":"locality",

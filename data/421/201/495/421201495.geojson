@@ -28,14 +28,29 @@
     "name:ara_x_preferred":[
         "\u0643\u0648\u0644\u0645\u0628\u0648"
     ],
+    "name:arg_x_preferred":[
+        "Colombo"
+    ],
+    "name:ary_x_preferred":[
+        "\u0643\u0648\u0644\u0648\u0645\u0628\u0648"
+    ],
+    "name:arz_x_preferred":[
+        "\u0643\u0648\u0644\u0645\u0628\u0648"
+    ],
     "name:ast_x_preferred":[
         "Colombo"
+    ],
+    "name:ast_x_variant":[
+        "Colombu"
     ],
     "name:aze_x_preferred":[
         "Kolombo"
     ],
     "name:bak_x_preferred":[
         "\u041a\u043e\u043b\u043e\u043c\u0431\u043e"
+    ],
+    "name:ban_x_preferred":[
+        "Colombo"
     ],
     "name:bel_x_preferred":[
         "\u0413\u043e\u0440\u0430\u0434 \u041a\u0430\u043b\u043e\u043c\u0431\u0430"
@@ -45,6 +60,9 @@
     ],
     "name:ben_x_preferred":[
         "\u0995\u09b2\u09ae\u09cd\u09ac\u09cb"
+    ],
+    "name:bho_x_preferred":[
+        "\u0915\u094b\u0932\u0902\u092c\u094b"
     ],
     "name:bod_x_preferred":[
         "\u0f41\u0f7c\u0f0b\u0f63\u0f74\u0f58\u0f0b\u0f54\u0f7c\u0f0d"
@@ -76,6 +94,9 @@
     "name:deu_x_preferred":[
         "Colombo"
     ],
+    "name:diq_x_preferred":[
+        "Kolombo"
+    ],
     "name:div_x_preferred":[
         "\u0786\u07ae\u0785\u07aa\u0782\u0784\u07aa"
     ],
@@ -104,6 +125,9 @@
         "Colombo"
     ],
     "name:fra_x_preferred":[
+        "Colombo"
+    ],
+    "name:frr_x_preferred":[
         "Colombo"
     ],
     "name:fry_x_preferred":[
@@ -172,6 +196,9 @@
     "name:kat_x_preferred":[
         "\u10d9\u10dd\u10da\u10dd\u10db\u10d1\u10dd"
     ],
+    "name:khm_x_preferred":[
+        "\u1780\u17bc\u17a1\u17bb\u17c6\u1794\u17bc"
+    ],
     "name:kir_x_preferred":[
         "\u041a\u043e\u043b\u043e\u043c\u0431\u043e"
     ],
@@ -226,6 +253,9 @@
     "name:mzn_x_preferred":[
         "\u06a9\u0644\u0645\u0628\u0648"
     ],
+    "name:nah_x_preferred":[
+        "Colombo"
+    ],
     "name:nan_x_preferred":[
         "Colombo"
     ],
@@ -274,6 +304,9 @@
     "name:pus_x_preferred":[
         "\u06a9\u0648\u0644\u0645\u0628\u0648"
     ],
+    "name:rmf_x_preferred":[
+        "Colombo"
+    ],
     "name:ron_x_preferred":[
         "Colombo"
     ],
@@ -282,6 +315,9 @@
     ],
     "name:san_x_preferred":[
         "\u0915\u094b\u0932\u092e\u094d\u092c\u094b"
+    ],
+    "name:sat_x_preferred":[
+        "\u1c60\u1c5a\u1c5e\u1c5a\u1c62\u1c75\u1c5a"
     ],
     "name:scn_x_preferred":[
         "Colombo"
@@ -300,6 +336,15 @@
     ],
     "name:slv_x_preferred":[
         "Kolombo"
+    ],
+    "name:sme_x_preferred":[
+        "Colombo"
+    ],
+    "name:smn_x_preferred":[
+        "Colombo"
+    ],
+    "name:sms_x_preferred":[
+        "Colombo"
     ],
     "name:sna_x_preferred":[
         "Colombo"
@@ -349,6 +394,9 @@
     "name:tur_x_preferred":[
         "Kolombo"
     ],
+    "name:udm_x_preferred":[
+        "\u041a\u043e\u043b\u043e\u043c\u0431\u043e"
+    ],
     "name:uig_x_preferred":[
         "\u0643\u0648\u0644\u0648\u0645\u0628\u0648"
     ],
@@ -375,6 +423,12 @@
     ],
     "name:war_x_preferred":[
         "Colombo"
+    ],
+    "name:wuu_x_preferred":[
+        "\u79d1\u4f26\u5761"
+    ],
+    "name:xmf_x_preferred":[
+        "\u10d9\u10dd\u10da\u10dd\u10db\u10d1\u10dd"
     ],
     "name:yue_x_preferred":[
         "\u54e5\u6797\u5821"
@@ -415,8 +469,8 @@
     "wof:belongsto":[
         102191569,
         85632313,
-        1092057419,
-        85673811
+        85673811,
+        1092057419
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -446,7 +500,7 @@
         }
     ],
     "wof:id":421201495,
-    "wof:lastmodified":1607980737,
+    "wof:lastmodified":1690938570,
     "wof:name":"Colombo",
     "wof:parent_id":1092057419,
     "wof:placetype":"locality",

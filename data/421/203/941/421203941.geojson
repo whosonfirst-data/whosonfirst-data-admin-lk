@@ -26,6 +26,9 @@
     "name:eng_x_preferred":[
         "Pottuvil"
     ],
+    "name:fas_x_preferred":[
+        "\u067e\u0648\u062a\u0648\u0648\u06cc\u0644"
+    ],
     "name:hun_x_preferred":[
         "Pottuvil"
     ],
@@ -102,7 +105,7 @@
         }
     ],
     "wof:id":421203941,
-    "wof:lastmodified":1566595369,
+    "wof:lastmodified":1690938560,
     "wof:name":"Pottuvil",
     "wof:parent_id":1092065525,
     "wof:placetype":"locality",

@@ -100,11 +100,17 @@
     "name:kor_x_preferred":[
         "\uac10\ud30c\ud558 \uad6c"
     ],
+    "name:kor_x_variant":[
+        "\uac10\ud30c\ud558\uad6c"
+    ],
     "name:lav_x_preferred":[
         "Gampahas distrikts"
     ],
     "name:lit_x_preferred":[
         "Gampachos sritis"
+    ],
+    "name:mal_x_preferred":[
+        "\u0d17\u0d2e\u0d4d\u0d2a\u0d39 \u0d1c\u0d3f\u0d32\u0d4d\u0d32"
     ],
     "name:mar_x_preferred":[
         "\u0917\u092e\u094d\u092a\u0939\u093e \u091c\u093f\u0932\u094d\u0939\u093e"
@@ -129,6 +135,9 @@
     ],
     "name:rus_x_preferred":[
         "\u043e\u043a\u0440\u0443\u0433 \u0413\u0430\u043c\u043f\u0430\u0445\u0430"
+    ],
+    "name:sat_x_preferred":[
+        "\u1c5c\u1c5a\u1c62\u1c6f\u1c5f\u1c66\u1c5f \u1c66\u1c5a\u1c71\u1c5a\u1c5b"
     ],
     "name:sin_x_preferred":[
         "\u0d9c\u0db8\u0dca\u0db4\u0dc4 \u0db4\u0dbb\u0dd2\u0db4\u0dcf\u0dbd\u0db1 \u0daf\u0dd2\u0dc3\u0dca\u0dad\u0dca\u200d\u0dbb\u0dd2\u0d9a\u0dca\u0d9a\u0dba"
@@ -199,7 +208,7 @@
         }
     ],
     "wof:id":1092058643,
-    "wof:lastmodified":1636500557,
+    "wof:lastmodified":1690938549,
     "wof:name":"Gampaha",
     "wof:parent_id":85673815,
     "wof:placetype":"county",

@@ -20,8 +20,17 @@
     "name:ara_x_preferred":[
         "\u0628\u0627\u062f\u0648\u0644\u0627"
     ],
+    "name:arz_x_preferred":[
+        "\u0628\u0627\u062f\u0648\u0644\u0627"
+    ],
+    "name:ast_x_preferred":[
+        "Badulla"
+    ],
     "name:ben_x_preferred":[
         "\u09ac\u09be\u09a6\u09c1\u09b2\u09be"
+    ],
+    "name:ben_x_variant":[
+        "\u09ac\u09be\u09a6\u09c1\u09b2\u09cd\u09b2\u09be"
     ],
     "name:ceb_x_preferred":[
         "Badulla"
@@ -61,6 +70,9 @@
     ],
     "name:hun_x_preferred":[
         "Badulla"
+    ],
+    "name:hye_x_preferred":[
+        "\u0532\u0561\u0564\u0578\u0582\u056c\u056c\u0561"
     ],
     "name:ind_x_preferred":[
         "Badulla"
@@ -145,6 +157,9 @@
     ],
     "name:vie_x_preferred":[
         "Badulla"
+    ],
+    "name:xmf_x_preferred":[
+        "\u10d1\u10d0\u10d3\u10e3\u10da\u10d0"
     ],
     "name:zho_x_preferred":[
         "\u5df4\u675c\u52d2"
@@ -289,7 +304,7 @@
         }
     ],
     "wof:id":421168829,
-    "wof:lastmodified":1636500558,
+    "wof:lastmodified":1690938553,
     "wof:name":"Badulla",
     "wof:parent_id":1092056843,
     "wof:placetype":"locality",

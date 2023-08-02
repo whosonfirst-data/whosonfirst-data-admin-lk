@@ -20,6 +20,9 @@
     "name:ara_x_preferred":[
         "\u0645\u0648\u0631\u0627\u062a\u0648\u0627"
     ],
+    "name:arz_x_preferred":[
+        "\u0645\u0648\u0631\u0627\u062a\u0648\u0627"
+    ],
     "name:ben_x_preferred":[
         "\u09ae\u09cb\u09b0\u09be\u09a4\u09cb\u09af\u09bc\u09be"
     ],
@@ -70,6 +73,9 @@
     ],
     "name:hun_x_preferred":[
         "Moratuwa"
+    ],
+    "name:hye_x_preferred":[
+        "\u0544\u0578\u0580\u0561\u057f\u0578\u0582\u057e\u0561"
     ],
     "name:ind_x_preferred":[
         "Moratuwa"
@@ -149,8 +155,14 @@
     "name:war_x_preferred":[
         "Moratuwa"
     ],
+    "name:xmf_x_preferred":[
+        "\u10db\u10dd\u10e0\u10d0\u10e2\u10e3\u10d5\u10d0"
+    ],
     "name:zho_x_preferred":[
         "\u83ab\u62c9\u5716\u74e6"
+    ],
+    "name:zho_x_variant":[
+        "\u83ab\u52d2\u5716\u6c83"
     ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"Sri Lanka",
@@ -292,7 +304,7 @@
         }
     ],
     "wof:id":421199791,
-    "wof:lastmodified":1636500558,
+    "wof:lastmodified":1690938569,
     "wof:name":"Moratuwa",
     "wof:parent_id":1092063487,
     "wof:placetype":"locality",

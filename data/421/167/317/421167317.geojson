@@ -20,6 +20,9 @@
     "name:ara_x_preferred":[
         "\u0623\u0645\u0628\u0627\u0631\u0627"
     ],
+    "name:arz_x_preferred":[
+        "\u0627\u0645\u0628\u0627\u0631\u0627"
+    ],
     "name:ben_x_preferred":[
         "\u0986\u09ae\u09aa\u09be\u09b0\u09be"
     ],
@@ -27,6 +30,9 @@
         "Ampara"
     ],
     "name:dan_x_preferred":[
+        "Ampara"
+    ],
+    "name:deu_x_preferred":[
         "Ampara"
     ],
     "name:ell_x_preferred":[
@@ -175,7 +181,7 @@
         }
     ],
     "wof:id":421167317,
-    "wof:lastmodified":1566595367,
+    "wof:lastmodified":1690938558,
     "wof:name":"Ampara",
     "wof:parent_id":890450157,
     "wof:placetype":"locality",

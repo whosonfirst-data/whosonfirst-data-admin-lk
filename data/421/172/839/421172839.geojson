@@ -23,6 +23,9 @@
     "name:ara_x_variant":[
         "\u062c\u0627\u0645\u0628\u0627\u0647\u0627"
     ],
+    "name:arz_x_preferred":[
+        "\u062c\u0627\u0645\u0628\u0627\u0647\u0627"
+    ],
     "name:aze_x_preferred":[
         "Qampaha"
     ],
@@ -188,7 +191,7 @@
         }
     ],
     "wof:id":421172839,
-    "wof:lastmodified":1636500558,
+    "wof:lastmodified":1690938566,
     "wof:name":"Gampaha",
     "wof:parent_id":1092058643,
     "wof:placetype":"locality",
