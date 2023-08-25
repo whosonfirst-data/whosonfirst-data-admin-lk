@@ -20,6 +20,9 @@
     "name:ara_x_preferred":[
         "\u0623\u0645\u0628\u0627\u0644\u0627\u0646\u063a\u0648\u062f\u0627"
     ],
+    "name:arz_x_preferred":[
+        "\u0627\u0645\u0628\u0627\u0644\u0627\u0646\u062c\u0648\u062f\u0627"
+    ],
     "name:ben_x_preferred":[
         "\u0986\u09ae\u09ac\u09be\u09b2\u09be\u09a8\u0997\u09cb\u09a1\u09be"
     ],
@@ -52,6 +55,9 @@
     ],
     "name:guj_x_preferred":[
         "\u0a85\u0a82\u0aac\u0abe\u0ab2\u0abe\u0a82\u0a97\u0acb\u0aa1\u0abe"
+    ],
+    "name:hil_x_preferred":[
+        "Ambalango\u1e0da"
     ],
     "name:hin_x_preferred":[
         "\u0905\u0902\u092c\u0932\u093e\u0902\u0917\u094b\u0921\u093e"
@@ -131,6 +137,9 @@
     "name:vie_x_preferred":[
         "Ambalangoda"
     ],
+    "name:vie_x_variant":[
+        "Ambalango\u1e0da"
+    ],
     "qs:gn_country":"LK",
     "qs:gn_fcode":"PPL",
     "qs:gn_id":1251574,
@@ -179,7 +188,7 @@
         }
     ],
     "wof:id":421167319,
-    "wof:lastmodified":1566595368,
+    "wof:lastmodified":1690938558,
     "wof:name":"Ambalangoda",
     "wof:parent_id":1092056447,
     "wof:placetype":"locality",

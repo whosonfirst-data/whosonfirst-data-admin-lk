@@ -23,6 +23,9 @@
     "name:eng_x_preferred":[
         "Kotikawatta"
     ],
+    "name:fas_x_preferred":[
+        "\u06a9\u0648\u062a\u06cc\u06a9\u0627\u0648\u0627\u062a\u0627"
+    ],
     "name:jpn_x_preferred":[
         "\u30b3\u30c6\u30a3\u30ab\u30ef\u30c3\u30bf"
     ],
@@ -83,7 +86,7 @@
         }
     ],
     "wof:id":421178627,
-    "wof:lastmodified":1566595379,
+    "wof:lastmodified":1690938572,
     "wof:name":"Kotikawatta",
     "wof:parent_id":1092061133,
     "wof:placetype":"locality",

@@ -20,6 +20,9 @@
     "name:ara_x_preferred":[
         "\u063a\u0627\u0645\u0628\u0648\u0644\u0627"
     ],
+    "name:arz_x_preferred":[
+        "\u062c\u0627\u0645\u0628\u0648\u0644\u0627"
+    ],
     "name:ben_x_preferred":[
         "\u0997\u09be\u09ae\u09cd\u09aa\u09cb\u09b2\u09be"
     ],
@@ -30,6 +33,9 @@
         "Gampola"
     ],
     "name:dan_x_preferred":[
+        "Gampola"
+    ],
+    "name:deu_x_preferred":[
         "Gampola"
     ],
     "name:ell_x_preferred":[
@@ -185,7 +191,7 @@
         }
     ],
     "wof:id":421197199,
-    "wof:lastmodified":1566595376,
+    "wof:lastmodified":1690938568,
     "wof:name":"Gampola",
     "wof:parent_id":1092066967,
     "wof:placetype":"locality",

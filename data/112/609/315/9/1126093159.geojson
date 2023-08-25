@@ -29,17 +29,26 @@
     "name:eng_x_variant":[
         "Pettal"
     ],
+    "name:fas_x_preferred":[
+        "\u067e\u062a\u0627\u0647"
+    ],
     "name:fra_x_preferred":[
         "Pettah"
     ],
     "name:jpn_x_preferred":[
         "\u30da\u30bf\u30fc"
     ],
+    "name:nld_x_preferred":[
+        "Pettah"
+    ],
     "name:sin_x_preferred":[
         "\u0db4\u0dd2\u0da7\u0d9a\u0ddc\u0da7\u0dd4\u0dc0"
     ],
     "name:tam_x_preferred":[
         "\u0baa\u0bc1\u0bb1\u0b95\u0bcd\u0b95\u0bcb\u0b9f\u0bcd\u0b9f\u0bc8"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e40\u0e1e\u0e47\u0e15\u0e15\u0e32\u0e2e\u0e4c"
     ],
     "name:zho_x_preferred":[
         "\u58c1\u6cf0"
@@ -98,7 +107,7 @@
         }
     ],
     "wof:id":1126093159,
-    "wof:lastmodified":1566595384,
+    "wof:lastmodified":1690938577,
     "wof:name":"Pettah",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

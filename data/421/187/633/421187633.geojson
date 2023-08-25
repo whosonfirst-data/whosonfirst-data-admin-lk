@@ -23,6 +23,12 @@
     "name:ara_x_variant":[
         "\u0643\u064a\u062c\u0627\u0644\u0644\u0627"
     ],
+    "name:arz_x_preferred":[
+        "\u0643\u064a\u062c\u0627\u0644\u0644\u0627"
+    ],
+    "name:ast_x_preferred":[
+        "Kegalle"
+    ],
     "name:ben_x_preferred":[
         "\u0995\u09bf\u0997\u09b2"
     ],
@@ -137,6 +143,9 @@
     "name:vie_x_preferred":[
         "Kegalle"
     ],
+    "name:zho_x_preferred":[
+        "\u51f1\u683c\u52d2"
+    ],
     "qs:gn_country":"LK",
     "qs:gn_fcode":"PPL",
     "qs:gn_id":1240723,
@@ -183,7 +192,7 @@
         }
     ],
     "wof:id":421187633,
-    "wof:lastmodified":1566595372,
+    "wof:lastmodified":1690938564,
     "wof:name":"Kegalla",
     "wof:parent_id":890455861,
     "wof:placetype":"locality",

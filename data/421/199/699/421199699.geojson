@@ -53,6 +53,9 @@
     "name:nor_x_preferred":[
         "Hikkaduwa"
     ],
+    "name:pol_x_preferred":[
+        "Hikkaduwa"
+    ],
     "name:rus_x_preferred":[
         "\u0425\u0438\u043a\u043a\u0430\u0434\u0443\u0432\u0430"
     ],
@@ -122,7 +125,7 @@
         }
     ],
     "wof:id":421199699,
-    "wof:lastmodified":1566595377,
+    "wof:lastmodified":1690938569,
     "wof:name":"Hikkaduwa",
     "wof:parent_id":1092059311,
     "wof:placetype":"locality",

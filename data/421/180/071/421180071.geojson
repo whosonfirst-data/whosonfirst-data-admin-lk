@@ -20,6 +20,12 @@
     "name:ara_x_preferred":[
         "\u0643\u0648\u0631\u0648\u0646\u064a\u063a\u0627\u0644\u0627"
     ],
+    "name:arz_x_preferred":[
+        "\u0643\u0648\u0631\u0648\u0646\u064a\u062c\u0627\u0644\u0627"
+    ],
+    "name:ast_x_preferred":[
+        "Kurunegala"
+    ],
     "name:ben_x_preferred":[
         "\u0995\u09c1\u09b0\u09c1\u09a8\u09c7\u0997\u09be\u09b2\u09be"
     ],
@@ -50,11 +56,17 @@
     "name:fra_x_preferred":[
         "Kurunegala"
     ],
+    "name:gle_x_preferred":[
+        "Kuru\u1e47\u01e3gala"
+    ],
     "name:guj_x_preferred":[
         "\u0a95\u0ac1\u0ab0\u0ac1\u0aa8\u0ac7\u0a97\u0ab2\u0abe"
     ],
     "name:heb_x_preferred":[
         "\u05e7\u05d5\u05e8\u05d5\u05e0\u05d2\u05dc\u05d4"
+    ],
+    "name:hil_x_preferred":[
+        "Kuru\u1e47\u01e3gala"
     ],
     "name:hin_x_preferred":[
         "\u0915\u0941\u0930\u0941\u0928\u0947\u0917\u0932\u093e"
@@ -113,6 +125,9 @@
     "name:spa_x_preferred":[
         "Kurunegala"
     ],
+    "name:sqi_x_preferred":[
+        "Kuru\u1e47\u01e3gala"
+    ],
     "name:swe_x_preferred":[
         "Kurunegala"
     ],
@@ -121,6 +136,9 @@
     ],
     "name:tel_x_preferred":[
         "\u0c15\u0c41\u0c30\u0c41\u0c28\u0c47\u0c17\u0c3e\u0c32"
+    ],
+    "name:tgl_x_preferred":[
+        "Kuru\u1e47\u01e3gala"
     ],
     "name:tha_x_preferred":[
         "\u0e04\u0e39\u0e23\u0e39\u0e40\u0e19\u0e01\u0e32\u0e25\u0e32"
@@ -142,6 +160,9 @@
     ],
     "name:vie_x_preferred":[
         "Kurunegala"
+    ],
+    "name:xmf_x_preferred":[
+        "\u10d9\u10e3\u10e0\u10e3\u10dc\u10d4\u10d2\u10d0\u10da\u10d0"
     ],
     "name:zho_x_preferred":[
         "\u5eab\u9b6f\u5167\u683c\u52d2"
@@ -194,7 +215,7 @@
         }
     ],
     "wof:id":421180071,
-    "wof:lastmodified":1566595371,
+    "wof:lastmodified":1690938563,
     "wof:name":"Kurunegala",
     "wof:parent_id":1092061649,
     "wof:placetype":"locality",

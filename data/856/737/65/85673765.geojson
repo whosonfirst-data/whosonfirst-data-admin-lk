@@ -107,11 +107,17 @@
     "name:kor_x_preferred":[
         "\ubb3c\ub77c\uc774\ud2f0\ubd80 \uad6c"
     ],
+    "name:kor_x_variant":[
+        "\ubb3c\ub77c\uc774\ud2f0\ubd80\uad6c"
+    ],
     "name:lav_x_preferred":[
         "Mullaitivu distrikts"
     ],
     "name:lit_x_preferred":[
         "Mulaitivo apskritis"
+    ],
+    "name:mal_x_preferred":[
+        "\u0d2e\u0d41\u0d32\u0d4d\u0d32\u0d48\u0d1f\u0d3f\u0d35\u0d4d \u0d1c\u0d3f\u0d32\u0d4d\u0d32"
     ],
     "name:mar_x_preferred":[
         "\u092e\u0941\u0932\u0948\u0924\u0940\u0935\u0942 \u091c\u093f\u0932\u094d\u0939\u093e"
@@ -309,7 +315,7 @@
         "sin",
         "tam"
     ],
-    "wof:lastmodified":1636500554,
+    "wof:lastmodified":1690938539,
     "wof:name":"Mulativ",
     "wof:parent_id":85632313,
     "wof:placetype":"region",

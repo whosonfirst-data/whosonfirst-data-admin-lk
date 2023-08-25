@@ -43,6 +43,9 @@
     "name:ben_x_preferred":[
         "\u09ac\u09be\u09a6\u09c1\u09b2\u09be \u099c\u09c7\u09b2\u09be"
     ],
+    "name:cat_x_preferred":[
+        "Badulla"
+    ],
     "name:ceb_x_preferred":[
         "Badulla District"
     ],
@@ -94,11 +97,17 @@
     "name:kor_x_preferred":[
         "\ubc14\ub458\ub77c \uad6c"
     ],
+    "name:kor_x_variant":[
+        "\ubc14\ub458\ub77c\uad6c"
+    ],
     "name:lav_x_preferred":[
         "Badullas distrikts"
     ],
     "name:lit_x_preferred":[
         "Badulos apskritis"
+    ],
+    "name:mal_x_preferred":[
+        "\u0d2c\u0d21\u0d41\u0d32\u0d4d\u0d32 \u0d1c\u0d3f\u0d32\u0d4d\u0d32"
     ],
     "name:mar_x_preferred":[
         "\u092c\u0926\u0941\u0932\u094d\u0932\u093e \u091c\u093f\u0932\u094d\u0939\u093e"
@@ -196,7 +205,7 @@
         }
     ],
     "wof:id":1092056843,
-    "wof:lastmodified":1636500557,
+    "wof:lastmodified":1690938548,
     "wof:name":"Badulla",
     "wof:parent_id":85673801,
     "wof:placetype":"county",

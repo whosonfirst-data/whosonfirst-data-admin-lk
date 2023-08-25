@@ -30,6 +30,9 @@
     "name:eng_x_preferred":[
         "Slave Island"
     ],
+    "name:fas_x_preferred":[
+        "\u062c\u0632\u06cc\u0631\u0647 \u0627\u0633\u0644\u06cc\u0648"
+    ],
     "name:jpn_x_preferred":[
         "\u30b9\u30ec\u30a4\u30d6\u30fb\u30a2\u30a4\u30e9\u30f3\u30c9"
     ],
@@ -102,7 +105,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1582345032,
+    "wof:lastmodified":1690938535,
     "wof:name":"Slave Island",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

@@ -28,6 +28,9 @@
     "mz:is_current":1,
     "mz:max_zoom":8.0,
     "mz:min_zoom":3.0,
+    "name:abk_x_preferred":[
+        "\u0428\u0440\u0438-\u041b\u0430\u043d\u043a\u0430"
+    ],
     "name:ace_x_preferred":[
         "Srilanka"
     ],
@@ -46,11 +49,17 @@
     "name:amh_x_variant":[
         "\u1232\u122a\u120b\u1295\u12ab"
     ],
+    "name:ami_x_preferred":[
+        "Sri lanka"
+    ],
     "name:ang_x_preferred":[
         "T\u0101prabane"
     ],
     "name:ang_x_variant":[
         "Taprabane"
+    ],
+    "name:anp_x_preferred":[
+        "\u0936\u094d\u0930\u0940\u0932\u0902\u0915\u093e"
     ],
     "name:ara_x_preferred":[
         "\u0633\u0631\u064a\u0644\u0627\u0646\u0643\u0627"
@@ -75,6 +84,9 @@
     ],
     "name:ast_x_preferred":[
         "Sri Lanka"
+    ],
+    "name:awa_x_preferred":[
+        "\u0936\u094d\u0930\u0940\u0932\u0902\u0915\u093e"
     ],
     "name:azb_x_preferred":[
         "\u0633\u0631\u06cc \u0644\u0627\u0646\u06a9\u0627"
@@ -108,6 +120,9 @@
     ],
     "name:bho_x_preferred":[
         "\u0936\u094d\u0930\u0940 \u0932\u0902\u0915\u093e"
+    ],
+    "name:blk_x_preferred":[
+        "\u101e\u102e\u101b\u102d\u101c\u1004\u103a\u108f\u1000\u102c\u108f\u1001\u1019\u103a\u1038\u1011\u102e"
     ],
     "name:bod_x_preferred":[
         "\u0f66\u0f7a\u0f44\u0f0b\u0f42\u0f0b\u0f42\u0fb3\u0f72\u0f44\u0f0b\u0f0d"
@@ -160,6 +175,9 @@
     "name:cor_x_preferred":[
         "Shri Lanka"
     ],
+    "name:cos_x_preferred":[
+        "Sri Lanka"
+    ],
     "name:crh_x_preferred":[
         "\u015eri Lanka"
     ],
@@ -174,6 +192,9 @@
     ],
     "name:cze_x_variant":[
         "Sr\u00ed Lanka"
+    ],
+    "name:dag_x_preferred":[
+        "Sri Lanka"
     ],
     "name:dan_x_preferred":[
         "Sri Lanka"
@@ -273,6 +294,9 @@
     "name:ful_x_preferred":[
         "Siri Lanka"
     ],
+    "name:ful_x_variant":[
+        "Sirlanka"
+    ],
     "name:gag_x_preferred":[
         "\u015eri Lanka"
     ],
@@ -299,6 +323,9 @@
     ],
     "name:got_x_preferred":[
         "\ud800\udf43\ud800\udf42\ud800\udf39-\ud800\udf3b\ud800\udf30\ud800\udf3d\ud800\udf3a\ud800\udf30"
+    ],
+    "name:gpe_x_preferred":[
+        "Sri Lanka"
     ],
     "name:grn_x_preferred":[
         "Seil\u00e3u"
@@ -387,6 +414,9 @@
     "name:jav_x_preferred":[
         "Sri Lanka"
     ],
+    "name:jav_x_variant":[
+        "C\u00e8ylon"
+    ],
     "name:jpn_x_preferred":[
         "\u30b9\u30ea\u30e9\u30f3\u30ab"
     ],
@@ -396,6 +426,9 @@
     "name:kaa_x_preferred":[
         "Shri Lanka"
     ],
+    "name:kab_x_preferred":[
+        "Sri Lanka"
+    ],
     "name:kal_x_preferred":[
         "Sri Lanka"
     ],
@@ -404,6 +437,9 @@
     ],
     "name:kas_x_preferred":[
         "\u0938\u093f\u0930\u0940\u0932\u0902\u0915\u093e"
+    ],
+    "name:kas_x_variant":[
+        "\u0633\u0650\u0631\u06cc \u0644\u0646\u065b\u06a9\u0627"
     ],
     "name:kat_x_preferred":[
         "\u10e8\u10e0\u10d8-\u10da\u10d0\u10dc\u10d9\u10d0"
@@ -437,6 +473,9 @@
     ],
     "name:kor_x_preferred":[
         "\uc2a4\ub9ac\ub791\uce74"
+    ],
+    "name:krj_x_preferred":[
+        "Esrilangka"
     ],
     "name:kur_x_preferred":[
         "Sr\u00ee Lanka"
@@ -480,6 +519,9 @@
     "name:lit_x_preferred":[
         "\u0160ri Lanka"
     ],
+    "name:lld_x_preferred":[
+        "Sri Lanka"
+    ],
     "name:lmo_x_preferred":[
         "Sri Lanka"
     ],
@@ -519,6 +561,9 @@
     "name:mlt_x_preferred":[
         "Sri Lanka"
     ],
+    "name:mni_x_preferred":[
+        "\uabc1\uabed\uabd4\uabe4 \uabc2\uabea\uabc0\uabe5"
+    ],
     "name:mon_x_preferred":[
         "\u0428\u0440\u0438-\u041b\u0430\u043d\u043a\u0430"
     ],
@@ -527,6 +572,9 @@
     ],
     "name:mri_x_preferred":[
         "H\u012braka"
+    ],
+    "name:mri_x_variant":[
+        "Hiri R\u0101naka"
     ],
     "name:msa_x_preferred":[
         "Sri Lanka"
@@ -687,6 +735,9 @@
     "name:sgs_x_preferred":[
         "\u0160ri Lanka"
     ],
+    "name:shn_x_preferred":[
+        "\u1019\u102d\u1030\u1004\u103a\u1038\u101e\u102e\u1087\u101b\u102d\u101c\u1004\u103a\u1038\u1075\u1083"
+    ],
     "name:sin_x_preferred":[
         "\u0dc1\u0dca\u200d\u0dbb\u0dd3 \u0dbd\u0d82\u0d9a\u0dcf\u0dc0"
     ],
@@ -706,7 +757,13 @@
     "name:sme_x_preferred":[
         "Sri Lanka"
     ],
+    "name:smn_x_preferred":[
+        "Sri Lanka"
+    ],
     "name:smo_x_preferred":[
+        "Sri Lanka"
+    ],
+    "name:sms_x_preferred":[
         "Sri Lanka"
     ],
     "name:sna_x_preferred":[
@@ -801,10 +858,19 @@
     "name:tir_x_preferred":[
         "\u1232\u122a\u120b\u1295\u12ab"
     ],
+    "name:tok_x_preferred":[
+        "ma Lanka"
+    ],
     "name:ton_x_preferred":[
         "Silangik\u0101"
     ],
+    "name:ton_x_variant":[
+        "S\u012blangik\u0101"
+    ],
     "name:tpi_x_preferred":[
+        "Sri Lanka"
+    ],
+    "name:trv_x_preferred":[
         "Sri Lanka"
     ],
     "name:tuk_x_preferred":[
@@ -1148,7 +1214,7 @@
         "sin",
         "tam"
     ],
-    "wof:lastmodified":1617827484,
+    "wof:lastmodified":1690938543,
     "wof:name":"Sri Lanka",
     "wof:parent_id":102191569,
     "wof:placetype":"country",

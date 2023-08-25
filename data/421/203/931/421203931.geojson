@@ -20,6 +20,9 @@
     "name:ara_x_preferred":[
         "\u0628\u0648\u062a\u0627\u0644\u0627\u0645"
     ],
+    "name:arz_x_preferred":[
+        "\u0628\u0648\u062a\u0627\u0644\u0627\u0645"
+    ],
     "name:ben_x_preferred":[
         "\u09aa\u09c1\u099f\u09cd\u099f\u09be\u09b2\u09be\u09ae"
     ],
@@ -130,6 +133,9 @@
     ],
     "name:yue_x_preferred":[
         "\u666e\u5854\u52d2\u59c6\u5340"
+    ],
+    "name:zho_x_preferred":[
+        "\u666e\u5854\u52d2\u59c6"
     ],
     "name:zho_yue_x_preferred":[
         "\u666e\u5854\u52d2\u59c6\u5340"
@@ -274,7 +280,7 @@
         }
     ],
     "wof:id":421203931,
-    "wof:lastmodified":1566595369,
+    "wof:lastmodified":1690938559,
     "wof:name":"Puttalam",
     "wof:parent_id":1092065617,
     "wof:placetype":"locality",

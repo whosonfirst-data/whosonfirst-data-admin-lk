@@ -23,10 +23,16 @@
     "name:ara_x_variant":[
         "\u0645\u0648\u0646\u0627\u0631\u0627\u063a\u0627\u0644\u0627"
     ],
+    "name:arz_x_preferred":[
+        "\u0645\u0648\u0646\u0627\u0631\u0627\u062c\u0627\u0644\u0627"
+    ],
     "name:ben_x_preferred":[
         "\u09ae\u09a8\u09c7\u09b0\u09be\u0997\u09be\u09b2\u09be"
     ],
     "name:cat_x_preferred":[
+        "Monaragala"
+    ],
+    "name:ceb_x_preferred":[
         "Monaragala"
     ],
     "name:dan_x_preferred":[
@@ -137,6 +143,9 @@
     "name:vie_x_preferred":[
         "Moneragala"
     ],
+    "name:zho_x_preferred":[
+        "\u83ab\u8a25\u52d2\u683c\u52d2"
+    ],
     "qs:gn_country":"LK",
     "qs:gn_fcode":"PPL",
     "qs:gn_id":1234808,
@@ -184,7 +193,7 @@
         }
     ],
     "wof:id":421203939,
-    "wof:lastmodified":1566595369,
+    "wof:lastmodified":1690938559,
     "wof:name":"Moneragala",
     "wof:parent_id":1092063443,
     "wof:placetype":"locality",

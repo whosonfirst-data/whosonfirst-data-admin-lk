@@ -23,11 +23,17 @@
     "name:ara_x_variant":[
         "\u0645\u0646\u0627\u0631"
     ],
+    "name:arz_x_preferred":[
+        "\u0645\u0646\u0627\u0631"
+    ],
+    "name:ast_x_preferred":[
+        "Mannar"
+    ],
     "name:ben_x_preferred":[
         "\u09ae\u09be\u09a8\u09be\u09b0"
     ],
     "name:ben_x_variant":[
-        "\u09ae\u09be\u09a8\u09be\u09b0"
+        "\u09ae\u09be\u09a8\u09be\u09b0 "
     ],
     "name:bul_x_preferred":[
         "\u041c\u0430\u043d\u0430\u0440"
@@ -46,6 +52,9 @@
     ],
     "name:ell_x_preferred":[
         "\u039c\u03ac\u03bd\u03bd\u03b1\u03c1"
+    ],
+    "name:ell_x_variant":[
+        "\u039c\u03b1\u03bd\u03ac\u03c1"
     ],
     "name:eng_x_preferred":[
         "Mannar"
@@ -180,8 +189,8 @@
     "wof:belongsto":[
         102191569,
         85632313,
-        1092062683,
-        85673761
+        85673761,
+        1092062683
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -204,7 +213,7 @@
         }
     ],
     "wof:id":421174193,
-    "wof:lastmodified":1587163137,
+    "wof:lastmodified":1690938563,
     "wof:name":"Mannar",
     "wof:parent_id":1092062683,
     "wof:placetype":"locality",

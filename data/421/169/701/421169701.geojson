@@ -41,6 +41,9 @@
     "name:jpn_x_preferred":[
         "\u30df\u30d2\u30f3\u30bf\u30ec\u30fc"
     ],
+    "name:lld_x_preferred":[
+        "Mihintale"
+    ],
     "name:mal_x_preferred":[
         "\u0d2e\u0d3f\u0d39\u0d3f\u0d28\u0d4d\u0d31\u0d47\u0d7d \u0d15\u0d41\u0d28\u0d4d\u0d28\u0d4d"
     ],
@@ -61,6 +64,9 @@
     ],
     "name:tam_x_preferred":[
         "\u0bae\u0bbf\u0b95\u0bbf\u0ba8\u0bcd\u0ba4\u0bb2\u0bc8"
+    ],
+    "name:vec_x_preferred":[
+        "Mihintale"
     ],
     "qs:gn_country":"LK",
     "qs:gn_fcode":"PPL",
@@ -108,7 +114,7 @@
         }
     ],
     "wof:id":421169701,
-    "wof:lastmodified":1566595368,
+    "wof:lastmodified":1690938558,
     "wof:name":"Mihintale",
     "wof:parent_id":1092063257,
     "wof:placetype":"locality",

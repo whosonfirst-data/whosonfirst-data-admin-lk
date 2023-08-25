@@ -20,6 +20,9 @@
     "name:ara_x_preferred":[
         "\u0633\u064a\u062c\u064a\u0631\u064a\u0627"
     ],
+    "name:arz_x_preferred":[
+        "\u0633\u064a\u062c\u064a\u0631\u064a\u0627"
+    ],
     "name:bel_x_preferred":[
         "\u0421\u0456\u0433\u0456\u0440\u044b\u044f"
     ],
@@ -41,8 +44,14 @@
     "name:ces_x_preferred":[
         "Sigiriya"
     ],
+    "name:dan_x_preferred":[
+        "Sigiriya"
+    ],
     "name:deu_x_preferred":[
         "Sigiriya"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a3\u03b9\u03b3\u03ba\u03b9\u03c1\u03af\u03b3\u03b9\u03b1"
     ],
     "name:eng_x_preferred":[
         "Sigiriya"
@@ -89,6 +98,9 @@
     "name:kat_x_preferred":[
         "\u10e1\u10d8\u10d2\u10d8\u10e0\u10d8\u10d8\u10d0"
     ],
+    "name:kaz_x_preferred":[
+        "\u0421\u0438\u0433\u0438\u0440\u0438\u044f"
+    ],
     "name:kor_x_preferred":[
         "\uc2dc\uae30\ub9ac\uc57c"
     ],
@@ -100,6 +112,12 @@
     ],
     "name:mal_x_preferred":[
         "\u0d38\u0d3f\u0d17\u0d3f\u0d30\u0d3f\u0d2f"
+    ],
+    "name:mkd_x_preferred":[
+        "\u0421\u0438\u0433\u0438\u0440\u0438\u0458\u0430"
+    ],
+    "name:mlt_x_preferred":[
+        "Sigiriya"
     ],
     "name:mya_x_preferred":[
         "\u1006\u102e\u1002\u102e\u101b\u102d\u101a\u1019\u103c\u102d\u102f\u1037"
@@ -224,7 +242,7 @@
         }
     ],
     "wof:id":421173209,
-    "wof:lastmodified":1566595373,
+    "wof:lastmodified":1690938565,
     "wof:name":"Sigiriya",
     "wof:parent_id":1092057503,
     "wof:placetype":"locality",
