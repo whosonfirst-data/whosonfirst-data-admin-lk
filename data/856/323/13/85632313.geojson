@@ -1144,7 +1144,7 @@
     ],
     "src:lbl_centroid":"mapshaper",
     "src:population":"naturalearth",
-    "src:population_year":"2019",
+    "src:population_date":"2019",
     "statoids:dial":"94",
     "statoids:ds":"CL",
     "statoids:fifa":"SRI",
@@ -1218,7 +1218,7 @@
         "sin",
         "tam"
     ],
-    "wof:lastmodified":1694492074,
+    "wof:lastmodified":1694639527,
     "wof:name":"Sri Lanka",
     "wof:parent_id":102191569,
     "wof:placetype":"country",
