@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":5.425241,
-    "geom:area_square_m":66483186613.261803,
+    "geom:area_square_m":66483186613.258659,
     "geom:bbox":"79.521622,5.914556,81.880386,9.832084",
     "geom:latitude":7.620404,
     "geom:longitude":80.70041,
@@ -14,6 +14,9 @@
     "iso:country":"LK",
     "itu:country_code":[
         "94"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "country"
     ],
     "label:eng_x_preferred_shortcode":[
         "LK"
@@ -1140,7 +1143,8 @@
         "meso"
     ],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"geonames",
+    "src:population":"naturalearth",
+    "src:population_date":"2019",
     "statoids:dial":"94",
     "statoids:ds":"CL",
     "statoids:fifa":"SRI",
@@ -1198,7 +1202,7 @@
         "meso",
         "naturalearth"
     ],
-    "wof:geomhash":"f3e334e182e66d4ae65d34b5fce2f6cf",
+    "wof:geomhash":"33bcab6bd370caef3c4bfa97e4285592",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -1214,12 +1218,12 @@
         "sin",
         "tam"
     ],
-    "wof:lastmodified":1690938543,
+    "wof:lastmodified":1694639527,
     "wof:name":"Sri Lanka",
     "wof:parent_id":102191569,
     "wof:placetype":"country",
-    "wof:population":21513990,
-    "wof:population_rank":15,
+    "wof:population":21803000,
+    "wof:population_rank":18,
     "wof:repo":"whosonfirst-data-admin-lk",
     "wof:shortcode":"LK",
     "wof:superseded_by":[],
