@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.258961,
-    "geom:area_square_m":3171089004.641731,
+    "geom:area_square_m":3171088550.869703,
     "geom:bbox":"79.695389,7.270788,80.15397,8.572059",
     "geom:latitude":7.975155,
     "geom:longitude":79.913508,
@@ -267,17 +267,19 @@
         "gn:id":1229292,
         "gp:id":23706502,
         "hasc:id":"LK.PX",
+        "iso:code":"LK-62",
         "iso:id":"LK-62",
         "qs_pg:id":888262,
         "unlc:id":"LK-62",
         "wd:id":"Q1665318",
         "wk:page":"Puttalam District"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"LK",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"0c47dad93c8ceb74b434b6d466742db9",
+    "wof:geomhash":"fea92c25e7e92c2d1da322be2c1fc880",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -294,7 +296,7 @@
         "sin",
         "tam"
     ],
-    "wof:lastmodified":1690938540,
+    "wof:lastmodified":1695884871,
     "wof:name":"Puttalama",
     "wof:parent_id":85632313,
     "wof:placetype":"region",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.136154,
-    "geom:area_square_m":1672489021.240275,
+    "geom:area_square_m":1672488435.820205,
     "geom:bbox":"79.878959,6.327663,80.380548,6.826418",
     "geom:latitude":6.578199,
     "geom:longitude":80.125037,
@@ -257,17 +257,19 @@
         "gn:id":1241963,
         "gp:id":23706492,
         "hasc:id":"LK.KT",
+        "iso:code":"LK-13",
         "iso:id":"LK-13",
         "qs_pg:id":896538,
         "unlc:id":"LK-13",
         "wd:id":"Q728935",
         "wk:page":"Kalutara District"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"LK",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"2b7e08b60b841f61b2a17a68ca5b0986",
+    "wof:geomhash":"b86bd3d21ea704b8b87ea022fa414ec5",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -284,7 +286,7 @@
         "sin",
         "tam"
     ],
-    "wof:lastmodified":1690938542,
+    "wof:lastmodified":1695884362,
     "wof:name":"Ka\u1e37utara",
     "wof:parent_id":85632313,
     "wof:placetype":"region",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.108219,
-    "geom:area_square_m":1330473895.99748,
+    "geom:area_square_m":1330474105.137689,
     "geom:bbox":"80.375544,5.914556,80.725846,6.400067",
     "geom:latitude":6.140032,
     "geom:longitude":80.540154,
@@ -258,17 +258,19 @@
         "gn:id":1235845,
         "gp:id":23706496,
         "hasc:id":"LK.MH",
+        "iso:code":"LK-32",
         "iso:id":"LK-32",
         "qs_pg:id":888261,
         "unlc:id":"LK-32",
         "wd:id":"Q1281285",
         "wk:page":"Matara District"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"LK",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"04df57ac25d021dd9628df89761ff562",
+    "wof:geomhash":"208accfe4b150a9d7900daecc23766c2",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -285,7 +287,7 @@
         "sin",
         "tam"
     ],
-    "wof:lastmodified":1690938536,
+    "wof:lastmodified":1695884361,
     "wof:name":"M\u0101tara",
     "wof:parent_id":85632313,
     "wof:placetype":"region",

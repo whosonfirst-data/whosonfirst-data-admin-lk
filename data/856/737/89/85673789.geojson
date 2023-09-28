@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.134356,
-    "geom:area_square_m":1651557151.865984,
+    "geom:area_square_m":1651556975.91669,
     "geom:bbox":"79.986252,5.957056,80.496828,6.438573",
     "geom:latitude":6.221199,
     "geom:longitude":80.250335,
@@ -258,17 +258,19 @@
         "gn:id":1246292,
         "gp:id":23706498,
         "hasc:id":"LK.GL",
+        "iso:code":"LK-31",
         "iso:id":"LK-31",
         "qs_pg:id":1086136,
         "unlc:id":"LK-31",
         "wd:id":"Q647649",
         "wk:page":"Galle District"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"LK",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"c87d7836a23a02e6c4007c5587ca13f4",
+    "wof:geomhash":"4150d788b6476434c09b8575f86de333",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -285,7 +287,7 @@
         "sin",
         "tam"
     ],
-    "wof:lastmodified":1690938537,
+    "wof:lastmodified":1695884361,
     "wof:name":"G\u0101lla",
     "wof:parent_id":85632313,
     "wof:placetype":"region",

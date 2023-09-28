@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.157892,
-    "geom:area_square_m":1936656928.928636,
+    "geom:area_square_m":1936656264.17239,
     "geom:bbox":"80.420983,6.939025,81.017836,7.491384",
     "geom:latitude":7.272767,
     "geom:longitude":80.709578,
@@ -228,17 +228,19 @@
         "gn:id":1241621,
         "gp:id":23706513,
         "hasc:id":"LK.KY",
+        "iso:code":"LK-21",
         "iso:id":"LK-21",
         "qs_pg:id":1192924,
         "unlc:id":"LK-21",
         "wd:id":"Q723002",
         "wk:page":"Kandy District"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"LK",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"ebae9fa2d1631ed5789ef425ae901ee4",
+    "wof:geomhash":"5b8d731c29d163a6436dba85ee763885",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -255,7 +257,7 @@
         "sin",
         "tam"
     ],
-    "wof:lastmodified":1690938538,
+    "wof:lastmodified":1695884871,
     "wof:name":"Mahanuvara",
     "wof:parent_id":85632313,
     "wof:placetype":"region",

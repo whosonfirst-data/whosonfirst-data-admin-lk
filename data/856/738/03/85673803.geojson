@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.471217,
-    "geom:area_square_m":5785795178.110086,
+    "geom:area_square_m":5785794549.652345,
     "geom:bbox":"80.829088,6.297704,81.636608,7.458746",
     "geom:latitude":6.787145,
     "geom:longitude":81.303769,
@@ -212,16 +212,18 @@
         "gn:id":1234818,
         "gp:id":23706500,
         "hasc:id":"LK.MJ",
+        "iso:code":"LK-82",
         "iso:id":"LK-82",
         "qs_pg:id":219951,
         "wd:id":"Q923420",
         "wk:page":"Monaragala District"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"LK",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"54cdbb39d111f08293229079cd91fec9",
+    "wof:geomhash":"64ec31e0dbb99cb7b7871415418fb43c",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -238,7 +240,7 @@
         "sin",
         "tam"
     ],
-    "wof:lastmodified":1690938541,
+    "wof:lastmodified":1695884362,
     "wof:name":"M\u014f\u1e47ar\u0101gala",
     "wof:parent_id":85632313,
     "wof:placetype":"region",

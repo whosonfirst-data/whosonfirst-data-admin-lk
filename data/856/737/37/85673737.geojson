@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.213478,
-    "geom:area_square_m":2615314264.126301,
+    "geom:area_square_m":2615314030.607331,
     "geom:bbox":"81.225877,7.406238,81.819588,8.267027",
     "geom:latitude":7.791246,
     "geom:longitude":81.492913,
@@ -225,16 +225,18 @@
         "gn:id":1250159,
         "gp:id":23706508,
         "hasc:id":"LK.BC",
+        "iso:code":"LK-51",
         "iso:id":"LK-51",
         "qs_pg:id":888195,
         "unlc:id":"LK-51",
         "wd:id":"Q810960"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"LK",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"2770c1a4ee40661468a04197ab963c2a",
+    "wof:geomhash":"64ffef3bd3011255f720bd8838eff962",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -251,7 +253,7 @@
         "sin",
         "tam"
     ],
-    "wof:lastmodified":1690938539,
+    "wof:lastmodified":1695884362,
     "wof:name":"Ma\u1e0dakalapuva",
     "wof:parent_id":85632313,
     "wof:placetype":"region",

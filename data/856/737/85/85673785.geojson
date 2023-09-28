@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.268625,
-    "geom:area_square_m":3299660592.426792,
+    "geom:area_square_m":3299660544.675487,
     "geom:bbox":"80.175589,6.228478,80.951912,6.929675",
     "geom:latitude":6.586947,
     "geom:longitude":80.565778,
@@ -268,17 +268,19 @@
         "gn:id":1228729,
         "gp:id":23706494,
         "hasc:id":"LK.RN",
+        "iso:code":"LK-91",
         "iso:id":"LK-91",
         "qs_pg:id":219948,
         "unlc:id":"LK-91",
         "wd:id":"Q1587175",
         "wk:page":"Ratnapura District"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"LK",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"6576fa76cb3add12a7ac9ee8dc2b3412",
+    "wof:geomhash":"cb2b573c67ebce493566ca629198820a",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -295,7 +297,7 @@
         "sin",
         "tam"
     ],
-    "wof:lastmodified":1690938540,
+    "wof:lastmodified":1695884871,
     "wof:name":"Ratnapura",
     "wof:parent_id":85632313,
     "wof:placetype":"region",

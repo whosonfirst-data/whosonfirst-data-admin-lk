@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.592285,
-    "geom:area_square_m":7245243014.690964,
+    "geom:area_square_m":7245243486.229672,
     "geom:bbox":"79.951692,7.817885,80.993661,8.921778",
     "geom:latitude":8.39227,
     "geom:longitude":80.512727,
@@ -216,17 +216,19 @@
         "gn:id":1251080,
         "gp:id":23706503,
         "hasc:id":"LK.AD",
+        "iso:code":"LK-71",
         "iso:id":"LK-71",
         "qs_pg:id":1086138,
         "unlc:id":"LK-71",
         "wd:id":"Q612614",
         "wk:page":"Anuradhapura District"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"LK",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"9e5a24378c1dee9543d20600f8fb4ee2",
+    "wof:geomhash":"b999808b7f213daf5645be37eb36aa67",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -243,7 +245,7 @@
         "sin",
         "tam"
     ],
-    "wof:lastmodified":1690938537,
+    "wof:lastmodified":1695884361,
     "wof:name":"Anur\u0101dhapura",
     "wof:parent_id":85632313,
     "wof:placetype":"region",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.218426,
-    "geom:area_square_m":2684776116.972408,
+    "geom:area_square_m":2684776883.05719,
     "geom:bbox":"80.608318,5.969584,81.709587,6.576289",
     "geom:latitude":6.258842,
     "geom:longitude":81.101191,
@@ -261,17 +261,19 @@
         "gn:id":1244925,
         "gp:id":23706497,
         "hasc:id":"LK.HB",
+        "iso:code":"LK-33",
         "iso:id":"LK-33",
         "qs_pg:id":219949,
         "unlc:id":"LK-33",
         "wd:id":"Q723006",
         "wk:page":"Hambantota District"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"LK",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"74af01d65504cb51fd003c3c43cf5653",
+    "wof:geomhash":"d4bdcff4b4ab04c97760d5b69486f98a",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -288,7 +290,7 @@
         "sin",
         "tam"
     ],
-    "wof:lastmodified":1690938539,
+    "wof:lastmodified":1695884361,
     "wof:name":"Hambant\u014f\u1e6da",
     "wof:parent_id":85632313,
     "wof:placetype":"region",
