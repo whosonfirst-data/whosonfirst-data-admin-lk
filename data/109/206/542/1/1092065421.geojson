@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.034222,
-    "geom:area_square_m":419237372.790796,
+    "geom:area_square_m":419237672.974927,
     "geom:bbox":"80.33164,7.675541,80.54,7.965959",
     "geom:latitude":7.803271,
     "geom:longitude":80.427927,
@@ -66,9 +66,10 @@
     "wof:concordances":{
         "hasc:id":"LK.KG.PP"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"LK",
     "wof:created":1473899119,
-    "wof:geomhash":"34d4967741ece9901033583d22d1e9c8",
+    "wof:geomhash":"ef6abe42e0483fa21a97efeca11b9a0a",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -78,7 +79,7 @@
         }
     ],
     "wof:id":1092065421,
-    "wof:lastmodified":1627522340,
+    "wof:lastmodified":1695886794,
     "wof:name":"Polpithigama",
     "wof:parent_id":85673777,
     "wof:placetype":"county",

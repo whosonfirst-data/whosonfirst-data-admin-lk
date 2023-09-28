@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.017891,
-    "geom:area_square_m":219266805.470297,
+    "geom:area_square_m":219266983.02845,
     "geom:bbox":"80.392228,7.505011,80.555621,7.717574",
     "geom:latitude":7.618668,
     "geom:longitude":80.471538,
@@ -66,9 +66,10 @@
     "wof:concordances":{
         "hasc:id":"LK.KG.IB"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"LK",
     "wof:created":1473898881,
-    "wof:geomhash":"9b4f343a044ecf11f2d1d0a9eededc5f",
+    "wof:geomhash":"3603e886273a6d7864653100479b9e7b",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -78,7 +79,7 @@
         }
     ],
     "wof:id":1092059525,
-    "wof:lastmodified":1627522331,
+    "wof:lastmodified":1695886789,
     "wof:name":"Ibbagamuwa",
     "wof:parent_id":85673777,
     "wof:placetype":"county",

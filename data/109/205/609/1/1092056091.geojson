@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.005234,
-    "geom:area_square_m":64202114.455885,
+    "geom:area_square_m":64202175.582557,
     "geom:bbox":"81.769918,7.240902,81.870415,7.307024",
     "geom:latitude":7.273897,
     "geom:longitude":81.821166,
@@ -66,9 +66,10 @@
     "wof:concordances":{
         "hasc:id":"LK.AP.AD"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"LK",
     "wof:created":1473898747,
-    "wof:geomhash":"aa8cb49e4e95ea15c1fe74b2c54bfce0",
+    "wof:geomhash":"e94a518348ecf7b9674f8e1c21c47a61",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -78,7 +79,7 @@
         }
     ],
     "wof:id":1092056091,
-    "wof:lastmodified":1627522326,
+    "wof:lastmodified":1695886786,
     "wof:name":"Addalachchenai",
     "wof:parent_id":85673733,
     "wof:placetype":"county",

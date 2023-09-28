@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00656,
-    "geom:area_square_m":80398519.752196,
+    "geom:area_square_m":80398641.898504,
     "geom:bbox":"80.54633,7.584518,80.646714,7.708671",
     "geom:latitude":7.646444,
     "geom:longitude":80.598317,
@@ -72,9 +72,10 @@
     "wof:concordances":{
         "hasc:id":"LK.MT.PA"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"LK",
     "wof:created":1473899099,
-    "wof:geomhash":"1217db94bbc837a9440927950f5736a4",
+    "wof:geomhash":"a23d1324faba641149ceb9c0bee7b804",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -84,7 +85,7 @@
         }
     ],
     "wof:id":1092064907,
-    "wof:lastmodified":1627522339,
+    "wof:lastmodified":1695886794,
     "wof:name":"Pallepola",
     "wof:parent_id":85673723,
     "wof:placetype":"county",

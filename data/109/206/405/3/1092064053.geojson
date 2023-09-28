@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002278,
-    "geom:area_square_m":27946061.542191,
+    "geom:area_square_m":27946061.542192,
     "geom:bbox":"79.816802979,7.10958951722,79.8632946799,7.27167536396",
     "geom:latitude":7.208399,
     "geom:longitude":79.843286,
@@ -150,9 +150,10 @@
     "wof:concordances":{
         "hasc:id":"LK.GQ.NE"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"LK",
     "wof:created":1473899066,
-    "wof:geomhash":"d35a4deaa55f414a92295c23bce3cd31",
+    "wof:geomhash":"7d96a57c786ac59d8342d56d8dc93de0",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -162,7 +163,7 @@
         }
     ],
     "wof:id":1092064053,
-    "wof:lastmodified":1566595308,
+    "wof:lastmodified":1695886708,
     "wof:name":"Negombo",
     "wof:parent_id":85673815,
     "wof:placetype":"county",

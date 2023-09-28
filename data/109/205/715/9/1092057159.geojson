@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.039407,
-    "geom:area_square_m":483448725.681953,
+    "geom:area_square_m":483448387.384218,
     "geom:bbox":"81.120239,7.083481,81.446362,7.339649",
     "geom:latitude":7.189442,
     "geom:longitude":81.29658,
@@ -69,9 +69,10 @@
     "wof:concordances":{
         "hasc:id":"LK.MJ.BI"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"LK",
     "wof:created":1473898792,
-    "wof:geomhash":"9859cad259103c5bf3c30ae628a60fac",
+    "wof:geomhash":"d6d50c072318cb989a92dc479828ef9e",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -81,7 +82,7 @@
         }
     ],
     "wof:id":1092057159,
-    "wof:lastmodified":1627522328,
+    "wof:lastmodified":1695886787,
     "wof:name":"Bibile",
     "wof:parent_id":85673803,
     "wof:placetype":"county",

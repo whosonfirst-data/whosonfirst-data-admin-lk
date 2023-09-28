@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.015251,
-    "geom:area_square_m":187411126.64164,
+    "geom:area_square_m":187411023.721434,
     "geom:bbox":"80.608668,6.304469,80.768708,6.459294",
     "geom:latitude":6.389634,
     "geom:longitude":80.681914,
@@ -66,9 +66,10 @@
     "wof:concordances":{
         "hasc:id":"LK.RN.KO"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"LK",
     "wof:created":1473898944,
-    "wof:geomhash":"3a6feed4c1dfd299ec83dc2d4034f392",
+    "wof:geomhash":"460702307f126684058171c9e3754011",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -78,7 +79,7 @@
         }
     ],
     "wof:id":1092061085,
-    "wof:lastmodified":1627522333,
+    "wof:lastmodified":1695886791,
     "wof:name":"Kolonna",
     "wof:parent_id":85673785,
     "wof:placetype":"county",

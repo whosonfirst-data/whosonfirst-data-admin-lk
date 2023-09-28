@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.016426,
-    "geom:area_square_m":201785879.217946,
+    "geom:area_square_m":201785893.105715,
     "geom:bbox":"80.645316,6.474087,80.834506,6.611001",
     "geom:latitude":6.541661,
     "geom:longitude":80.744442,
@@ -66,9 +66,10 @@
     "wof:concordances":{
         "hasc:id":"LK.RN.WE"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"LK",
     "wof:created":1473899225,
-    "wof:geomhash":"7fd4cccc4e4fad2fd02fca8d6cc95f2b",
+    "wof:geomhash":"bd3c5c84ff51c7a17d2fefd275551a96",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -78,7 +79,7 @@
         }
     ],
     "wof:id":1092067851,
-    "wof:lastmodified":1627522344,
+    "wof:lastmodified":1695886796,
     "wof:name":"Weligepola",
     "wof:parent_id":85673785,
     "wof:placetype":"county",

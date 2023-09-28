@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.010269,
-    "geom:area_square_m":126031543.930919,
+    "geom:area_square_m":126031490.036635,
     "geom:bbox":"80.457976,6.939025,80.602157,7.092589",
     "geom:latitude":7.018041,
     "geom:longitude":80.537638,
@@ -66,9 +66,10 @@
     "wof:concordances":{
         "hasc:id":"LK.KY.PK"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"LK",
     "wof:created":1473899107,
-    "wof:geomhash":"593ac6a45c90a4ba6d30910ea4f945a0",
+    "wof:geomhash":"b8ee0811436665e33794c3257959ed03",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -78,7 +79,7 @@
         }
     ],
     "wof:id":1092065105,
-    "wof:lastmodified":1627522339,
+    "wof:lastmodified":1695886794,
     "wof:name":"Pasbage Korale",
     "wof:parent_id":85673719,
     "wof:placetype":"county",

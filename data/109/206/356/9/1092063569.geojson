@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.009903,
-    "geom:area_square_m":121748713.789226,
+    "geom:area_square_m":121748714.850371,
     "geom:bbox":"80.526364,6.095785,80.660825,6.20573",
     "geom:latitude":6.146936,
     "geom:longitude":80.586368,
@@ -66,9 +66,10 @@
     "wof:concordances":{
         "hasc:id":"LK.MH.MU"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"LK",
     "wof:created":1473899047,
-    "wof:geomhash":"34aed86af942d163cf6aba1a25cbde1f",
+    "wof:geomhash":"2810f5f473da256eec457afb94be6e86",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -78,7 +79,7 @@
         }
     ],
     "wof:id":1092063569,
-    "wof:lastmodified":1627522337,
+    "wof:lastmodified":1695886793,
     "wof:name":"Mulatiyana",
     "wof:parent_id":85673795,
     "wof:placetype":"county",

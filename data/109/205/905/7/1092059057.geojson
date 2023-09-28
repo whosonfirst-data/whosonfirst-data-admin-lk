@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.013814,
-    "geom:area_square_m":169565393.543288,
+    "geom:area_square_m":169564956.976614,
     "geom:bbox":"80.951919,6.866535,81.123116,7.030732",
     "geom:latitude":6.943141,
     "geom:longitude":81.021454,
@@ -66,9 +66,10 @@
     "wof:concordances":{
         "hasc:id":"LK.BD.HE"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"LK",
     "wof:created":1473898866,
-    "wof:geomhash":"61f55d4bf6d1e434a777145d34dfd4ad",
+    "wof:geomhash":"7971cd78f3af7ca48356c52a3222b0b2",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -78,7 +79,7 @@
         }
     ],
     "wof:id":1092059057,
-    "wof:lastmodified":1627522330,
+    "wof:lastmodified":1695886789,
     "wof:name":"Hali-Ela",
     "wof:parent_id":85673801,
     "wof:placetype":"county",

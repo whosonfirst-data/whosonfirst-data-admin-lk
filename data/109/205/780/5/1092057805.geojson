@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003074,
-    "geom:area_square_m":37800615.576979,
+    "geom:area_square_m":37800607.191657,
     "geom:bbox":"80.575228,5.914556,80.650344,6.025859",
     "geom:latitude":5.973465,
     "geom:longitude":80.613268,
@@ -66,9 +66,10 @@
     "wof:concordances":{
         "hasc:id":"LK.MH.DE"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"LK",
     "wof:created":1473898819,
-    "wof:geomhash":"6ab0041db697b1625ff1bf655f164c43",
+    "wof:geomhash":"a6baf146eef50f07ca1943ddd3158f6e",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -78,7 +79,7 @@
         }
     ],
     "wof:id":1092057805,
-    "wof:lastmodified":1627522329,
+    "wof:lastmodified":1695886788,
     "wof:name":"Devinuwara",
     "wof:parent_id":85673795,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.024688,
-    "geom:area_square_m":301939614.793894,
+    "geom:area_square_m":301939870.281933,
     "geom:bbox":"80.393451,8.394484,80.680964,8.587699",
     "geom:latitude":8.47642,
     "geom:longitude":80.551809,
@@ -66,9 +66,10 @@
     "wof:concordances":{
         "hasc:id":"LK.AD.RB"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"LK",
     "wof:created":1473899130,
-    "wof:geomhash":"7b5479b3b4c75effd392010866134960",
+    "wof:geomhash":"b39b55a79af65b41f73ce6d704fa98df",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -78,7 +79,7 @@
         }
     ],
     "wof:id":1092065687,
-    "wof:lastmodified":1627522340,
+    "wof:lastmodified":1695886794,
     "wof:name":"Rambewa",
     "wof:parent_id":85673751,
     "wof:placetype":"county",

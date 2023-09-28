@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.034062,
-    "geom:area_square_m":418310328.832961,
+    "geom:area_square_m":418310314.402658,
     "geom:bbox":"80.807177,6.547505,81.08388,6.810146",
     "geom:latitude":6.701393,
     "geom:longitude":80.963744,
@@ -69,9 +69,10 @@
     "wof:concordances":{
         "hasc:id":"LK.BD.HI"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"LK",
     "wof:created":1473898864,
-    "wof:geomhash":"e17780bd0c7e8a61e476ee63858851da",
+    "wof:geomhash":"62a8a8e2d05bbe98698358f996d0d701",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -81,7 +82,7 @@
         }
     ],
     "wof:id":1092058997,
-    "wof:lastmodified":1627522330,
+    "wof:lastmodified":1695886789,
     "wof:name":"Haldummulla",
     "wof:parent_id":85673801,
     "wof:placetype":"county",

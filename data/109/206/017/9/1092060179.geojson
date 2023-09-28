@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000815,
-    "geom:area_square_m":9988657.089824,
+    "geom:area_square_m":9988657.089808,
     "geom:bbox":"81.8085906794,7.3928930737,81.8469966677,7.44262065605",
     "geom:latitude":7.413193,
     "geom:longitude":81.827652,
@@ -126,9 +126,10 @@
     "wof:concordances":{
         "hasc:id":"LK.AP.KL"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"LK",
     "wof:created":1473898906,
-    "wof:geomhash":"4f3b1bfc5eff04755f6c84fb31557a52",
+    "wof:geomhash":"55fd7aa7ea8b5c23ceb4a33dc0f5f5cf",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -138,7 +139,7 @@
         }
     ],
     "wof:id":1092060179,
-    "wof:lastmodified":1566595306,
+    "wof:lastmodified":1695886708,
     "wof:name":"Kalmunai",
     "wof:parent_id":85673733,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.026614,
-    "geom:area_square_m":324832507.136522,
+    "geom:area_square_m":324832900.270236,
     "geom:bbox":"80.19,9.094048,80.411545,9.309991",
     "geom:latitude":9.220335,
     "geom:longitude":80.286597,
@@ -66,9 +66,10 @@
     "wof:concordances":{
         "hasc:id":"LK.MP.TH"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"LK",
     "wof:created":1473899175,
-    "wof:geomhash":"0fceb0a662530bce0692f7c30f41d0ea",
+    "wof:geomhash":"6db25562993d029ed2ebd6e4633182f2",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -78,7 +79,7 @@
         }
     ],
     "wof:id":1092066833,
-    "wof:lastmodified":1627522342,
+    "wof:lastmodified":1695886795,
     "wof:name":"Thunukkai",
     "wof:parent_id":85673765,
     "wof:placetype":"county",

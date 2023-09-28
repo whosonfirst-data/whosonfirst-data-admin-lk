@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000661,
-    "geom:area_square_m":8109461.84676,
+    "geom:area_square_m":8109395.654554,
     "geom:bbox":"81.7925,7.404266,81.826026,7.449964",
     "geom:latitude":7.423924,
     "geom:longitude":81.808636,
@@ -66,9 +66,10 @@
     "wof:concordances":{
         "hasc:id":"LK.AP.KT"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"LK",
     "wof:created":1473898905,
-    "wof:geomhash":"056926b149246e5880f5ccf493ea9998",
+    "wof:geomhash":"d4fccf1075518381ad2a39ce12afe96d",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -78,7 +79,7 @@
         }
     ],
     "wof:id":1092060139,
-    "wof:lastmodified":1627522332,
+    "wof:lastmodified":1695886790,
     "wof:name":"Kalmunai Tamil Division",
     "wof:parent_id":85673733,
     "wof:placetype":"county",

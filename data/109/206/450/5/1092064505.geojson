@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.006326,
-    "geom:area_square_m":77704569.605847,
+    "geom:area_square_m":77704532.614142,
     "geom:bbox":"80.577179,6.548943,80.675836,6.662294",
     "geom:latitude":6.611981,
     "geom:longitude":80.626974,
@@ -66,9 +66,10 @@
     "wof:concordances":{
         "hasc:id":"LK.RN.OP"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"LK",
     "wof:created":1473899083,
-    "wof:geomhash":"ecca162a4f82e99f900ed467613b69d8",
+    "wof:geomhash":"9f31aca57983d956aaff3cd7370cdeaa",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -78,7 +79,7 @@
         }
     ],
     "wof:id":1092064505,
-    "wof:lastmodified":1627522338,
+    "wof:lastmodified":1695886793,
     "wof:name":"Opanayake",
     "wof:parent_id":85673785,
     "wof:placetype":"county",

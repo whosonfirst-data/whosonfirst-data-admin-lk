@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.005627,
-    "geom:area_square_m":69195848.034561,
+    "geom:area_square_m":69195888.695586,
     "geom:bbox":"80.236531,6.004199,80.354765,6.102954",
     "geom:latitude":6.059189,
     "geom:longitude":80.284208,
@@ -66,9 +66,10 @@
     "wof:concordances":{
         "hasc:id":"LK.GL.AK"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"LK",
     "wof:created":1473898752,
-    "wof:geomhash":"fe529e9fc4e2feed7c631f276c9c6784",
+    "wof:geomhash":"6583a326c93a62cf6aecd66a64c13b92",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -78,7 +79,7 @@
         }
     ],
     "wof:id":1092056215,
-    "wof:lastmodified":1627522326,
+    "wof:lastmodified":1695886786,
     "wof:name":"Akmeemana",
     "wof:parent_id":85673789,
     "wof:placetype":"county",

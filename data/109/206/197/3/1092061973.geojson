@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.046729,
-    "geom:area_square_m":570936612.967562,
+    "geom:area_square_m":570936590.00414,
     "geom:bbox":"80.07859,8.65716,80.401262,8.961429",
     "geom:latitude":8.84562,
     "geom:longitude":80.225593,
@@ -69,9 +69,10 @@
     "wof:concordances":{
         "hasc:id":"LK.MB.MA"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"LK",
     "wof:created":1473898982,
-    "wof:geomhash":"6e3b7f721fcd0bfa781224d4cbad48c6",
+    "wof:geomhash":"29b2f20e87570eb7ba17a9b5ef0495a0",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -81,7 +82,7 @@
         }
     ],
     "wof:id":1092061973,
-    "wof:lastmodified":1627522334,
+    "wof:lastmodified":1695886791,
     "wof:name":"Madhu",
     "wof:parent_id":85673761,
     "wof:placetype":"county",

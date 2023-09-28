@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.029967,
-    "geom:area_square_m":366546408.784399,
+    "geom:area_square_m":366546420.155657,
     "geom:bbox":"80.59773,8.327328,80.823303,8.563125",
     "geom:latitude":8.421798,
     "geom:longitude":80.711545,
@@ -66,9 +66,10 @@
     "wof:concordances":{
         "hasc:id":"LK.AD.KA"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"LK",
     "wof:created":1473898896,
-    "wof:geomhash":"3f60228b41c68bb6d96a980e5132f8af",
+    "wof:geomhash":"9a13fe61e8bef1bc735b4b43caae6a34",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -78,7 +79,7 @@
         }
     ],
     "wof:id":1092060031,
-    "wof:lastmodified":1627522331,
+    "wof:lastmodified":1695886790,
     "wof:name":"Kahatagasdigiliya",
     "wof:parent_id":85673751,
     "wof:placetype":"county",

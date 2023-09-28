@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.022841,
-    "geom:area_square_m":280123694.801018,
+    "geom:area_square_m":280123719.098469,
     "geom:bbox":"80.788164,7.188846,80.94966,7.474806",
     "geom:latitude":7.3287,
     "geom:longitude":80.875027,
@@ -66,9 +66,10 @@
     "wof:concordances":{
         "hasc:id":"LK.KY.UD"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"LK",
     "wof:created":1473899180,
-    "wof:geomhash":"1801d748f0f53511b0a0dc92b6e2d397",
+    "wof:geomhash":"d408f8260f31daa47dace701d5d1b9dc",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -78,7 +79,7 @@
         }
     ],
     "wof:id":1092066935,
-    "wof:lastmodified":1627522342,
+    "wof:lastmodified":1695886795,
     "wof:name":"Udadumbara",
     "wof:parent_id":85673719,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00463,
-    "geom:area_square_m":56856685.154349,
+    "geom:area_square_m":56856558.683308,
     "geom:bbox":"79.928407,6.683442,80.024264,6.764726",
     "geom:latitude":6.718444,
     "geom:longitude":79.976645,
@@ -66,9 +66,10 @@
     "wof:concordances":{
         "hasc:id":"LK.KT.BA"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"LK",
     "wof:created":1473898785,
-    "wof:geomhash":"5fef1f9adafa2564a3361f3450373b2d",
+    "wof:geomhash":"239d0f33b13b731b2aa8247542f0d4f6",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -78,7 +79,7 @@
         }
     ],
     "wof:id":1092057009,
-    "wof:lastmodified":1627522327,
+    "wof:lastmodified":1695886787,
     "wof:name":"Bandaragama",
     "wof:parent_id":85673819,
     "wof:placetype":"county",

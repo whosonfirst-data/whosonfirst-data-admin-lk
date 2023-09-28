@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003967,
-    "geom:area_square_m":48643447.711565,
+    "geom:area_square_m":48643380.262591,
     "geom:bbox":"80.466083,7.330253,80.565114,7.409602",
     "geom:latitude":7.366724,
     "geom:longitude":80.513315,
@@ -66,9 +66,10 @@
     "wof:concordances":{
         "hasc:id":"LK.KY.TH"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"LK",
     "wof:created":1473899174,
-    "wof:geomhash":"661a90de8c031b529acb9a5d5fdbfd46",
+    "wof:geomhash":"6eaa621b35980b887c3e72fea00f925b",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -78,7 +79,7 @@
         }
     ],
     "wof:id":1092066809,
-    "wof:lastmodified":1627522342,
+    "wof:lastmodified":1695886795,
     "wof:name":"Thumpane",
     "wof:parent_id":85673719,
     "wof:placetype":"county",

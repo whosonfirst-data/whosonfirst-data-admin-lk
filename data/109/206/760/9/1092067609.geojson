@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.060398,
-    "geom:area_square_m":738928411.248962,
+    "geom:area_square_m":738928392.042434,
     "geom:bbox":"79.787918,8.08678,80.043116,8.572059",
     "geom:latitude":8.341712,
     "geom:longitude":79.910513,
@@ -66,9 +66,10 @@
     "wof:concordances":{
         "hasc:id":"LK.PX.VA"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"LK",
     "wof:created":1473899215,
-    "wof:geomhash":"13787720498d48f49702e4d262401bfd",
+    "wof:geomhash":"016df8a1663585099ed3567bbe934e4d",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -78,7 +79,7 @@
         }
     ],
     "wof:id":1092067609,
-    "wof:lastmodified":1627522343,
+    "wof:lastmodified":1695886796,
     "wof:name":"Wanathavilluwa",
     "wof:parent_id":85673779,
     "wof:placetype":"county",

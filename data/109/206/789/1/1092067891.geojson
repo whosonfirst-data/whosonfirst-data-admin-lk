@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.047315,
-    "geom:area_square_m":579310142.093691,
+    "geom:area_square_m":579309890.872605,
     "geom:bbox":"81.119373,7.863821,81.341634,8.260279",
     "geom:latitude":8.040919,
     "geom:longitude":81.2344,
@@ -66,9 +66,10 @@
     "wof:concordances":{
         "hasc:id":"LK.PR.WE"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"LK",
     "wof:created":1473899226,
-    "wof:geomhash":"01870c942576f75ff6a51804725a855d",
+    "wof:geomhash":"5c1626af3e7c28e1e5810da832ca82d5",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -78,7 +79,7 @@
         }
     ],
     "wof:id":1092067891,
-    "wof:lastmodified":1627522344,
+    "wof:lastmodified":1695886796,
     "wof:name":"Welikanda",
     "wof:parent_id":85673743,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.017682,
-    "geom:area_square_m":217373856.142288,
+    "geom:area_square_m":217373856.142302,
     "geom:bbox":"80.8923607922,6.072083473,81.0348011582,6.2529107797",
     "geom:latitude":6.159831,
     "geom:longitude":80.963523,
@@ -72,9 +72,10 @@
     "wof:concordances":{
         "hasc:id":"LK.HB.AM"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"LK",
     "wof:created":1473898762,
-    "wof:geomhash":"ba922aa17b2d739c2503c9f511b21681",
+    "wof:geomhash":"a3370ca8d5995927bdf2cd18a6e52eed",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -84,7 +85,7 @@
         }
     ],
     "wof:id":1092056491,
-    "wof:lastmodified":1566595275,
+    "wof:lastmodified":1695886707,
     "wof:name":"Ambalantota",
     "wof:parent_id":85673791,
     "wof:placetype":"county",

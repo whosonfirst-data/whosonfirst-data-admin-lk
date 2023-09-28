@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00683,
-    "geom:area_square_m":83764406.088638,
+    "geom:area_square_m":83764264.628852,
     "geom:bbox":"80.645953,7.24989,80.755222,7.362991",
     "geom:latitude":7.304066,
     "geom:longitude":80.709367,
@@ -72,9 +72,10 @@
     "wof:concordances":{
         "hasc:id":"LK.KY.KU"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"LK",
     "wof:created":1473898963,
-    "wof:geomhash":"6daf61973b9eea6af6815141e380689e",
+    "wof:geomhash":"74cf54f606778c0996ffbf1490020a98",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -84,7 +85,7 @@
         }
     ],
     "wof:id":1092061615,
-    "wof:lastmodified":1627522334,
+    "wof:lastmodified":1695886791,
     "wof:name":"Kundasale",
     "wof:parent_id":85673719,
     "wof:placetype":"county",

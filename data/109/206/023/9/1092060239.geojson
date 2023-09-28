@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.006743,
-    "geom:area_square_m":82817799.678899,
+    "geom:area_square_m":82817830.263178,
     "geom:bbox":"79.926852,6.539034,80.009924,6.690765",
     "geom:latitude":6.618665,
     "geom:longitude":79.970219,
@@ -188,9 +188,10 @@
         "hasc:id":"LK.KT.KA",
         "wd:id":"Q728935"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"LK",
     "wof:created":1473898909,
-    "wof:geomhash":"12a36bc88712a98806061fc5300124f7",
+    "wof:geomhash":"15f3245e8a7225ec7226884967df7231",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -200,7 +201,7 @@
         }
     ],
     "wof:id":1092060239,
-    "wof:lastmodified":1690938550,
+    "wof:lastmodified":1695886707,
     "wof:name":"Kalutara",
     "wof:parent_id":85673819,
     "wof:placetype":"county",

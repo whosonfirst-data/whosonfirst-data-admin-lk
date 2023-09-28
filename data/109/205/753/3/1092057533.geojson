@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.006301,
-    "geom:area_square_m":77272875.542253,
+    "geom:area_square_m":77272893.84448,
     "geom:bbox":"79.861829,7.271943,79.948076,7.381772",
     "geom:latitude":7.320758,
     "geom:longitude":79.905557,
@@ -66,9 +66,10 @@
     "wof:concordances":{
         "hasc:id":"LK.PX.DA"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"LK",
     "wof:created":1473898809,
-    "wof:geomhash":"076da9652fd299cc43cb52ed33be03ba",
+    "wof:geomhash":"496b8c70d7f3ee68ac3024215ae59438",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -78,7 +79,7 @@
         }
     ],
     "wof:id":1092057533,
-    "wof:lastmodified":1627522328,
+    "wof:lastmodified":1695886788,
     "wof:name":"Dankotuwa",
     "wof:parent_id":85673779,
     "wof:placetype":"county",

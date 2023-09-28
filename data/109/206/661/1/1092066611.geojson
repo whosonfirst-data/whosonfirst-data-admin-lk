@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.018863,
-    "geom:area_square_m":229926812.357995,
+    "geom:area_square_m":229926770.581232,
     "geom:bbox":"80.073323,9.605389,80.299576,9.761118",
     "geom:latitude":9.678222,
     "geom:longitude":80.191558,
@@ -66,9 +66,10 @@
     "wof:concordances":{
         "hasc:id":"LK.JA.TH"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"LK",
     "wof:created":1473899166,
-    "wof:geomhash":"ea51398cb9b9482a55d59d1f7350f9b4",
+    "wof:geomhash":"f20141ae60a6bac15893e515ad5c3335",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -78,7 +79,7 @@
         }
     ],
     "wof:id":1092066611,
-    "wof:lastmodified":1627522341,
+    "wof:lastmodified":1695886795,
     "wof:name":"Thenmaradchy (Chavakachcheri)",
     "wof:parent_id":85673769,
     "wof:placetype":"county",

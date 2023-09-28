@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.010268,
-    "geom:area_square_m":125972362.629381,
+    "geom:area_square_m":125972357.580089,
     "geom:bbox":"80.388889,7.086386,80.512606,7.231925",
     "geom:latitude":7.165917,
     "geom:longitude":80.443506,
@@ -75,9 +75,10 @@
     "wof:concordances":{
         "hasc:id":"LK.KE.AR"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"LK",
     "wof:created":1473898771,
-    "wof:geomhash":"4ecc2fcf62b2a250d2c72b81d1c4a33b",
+    "wof:geomhash":"a953680e821f62692fa03c6c39e571d3",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -87,7 +88,7 @@
         }
     ],
     "wof:id":1092056717,
-    "wof:lastmodified":1627522327,
+    "wof:lastmodified":1695886787,
     "wof:name":"Aranayaka",
     "wof:parent_id":85673807,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.03773,
-    "geom:area_square_m":461196290.371068,
+    "geom:area_square_m":461196143.205421,
     "geom:bbox":"79.919586,8.522652,80.144972,8.807074",
     "geom:latitude":8.677796,
     "geom:longitude":80.020642,
@@ -66,9 +66,10 @@
     "wof:concordances":{
         "hasc:id":"LK.MB.MU"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"LK",
     "wof:created":1473899050,
-    "wof:geomhash":"0f93df23e1ddbf8b790612be71b3c6c3",
+    "wof:geomhash":"4c6336be888c8ec3f2f9d607275206b0",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -78,7 +79,7 @@
         }
     ],
     "wof:id":1092063647,
-    "wof:lastmodified":1627522337,
+    "wof:lastmodified":1695886793,
     "wof:name":"Musali",
     "wof:parent_id":85673761,
     "wof:placetype":"county",

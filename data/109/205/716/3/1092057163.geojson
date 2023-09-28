@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004912,
-    "geom:area_square_m":60293147.994063,
+    "geom:area_square_m":60293105.163822,
     "geom:bbox":"79.925628,6.936769,80.029468,7.004368",
     "geom:latitude":6.968289,
     "geom:longitude":79.976701,
@@ -69,9 +69,10 @@
     "wof:concordances":{
         "hasc:id":"LK.GQ.BI"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"LK",
     "wof:created":1473898795,
-    "wof:geomhash":"a0a1030f24cc2916dfabc42134da9b33",
+    "wof:geomhash":"d832e151c008db46814f41578b2ab7b7",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -81,7 +82,7 @@
         }
     ],
     "wof:id":1092057163,
-    "wof:lastmodified":1627522328,
+    "wof:lastmodified":1695886787,
     "wof:name":"Biyagama",
     "wof:parent_id":85673815,
     "wof:placetype":"county",

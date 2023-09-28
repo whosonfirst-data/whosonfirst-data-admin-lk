@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.01291,
-    "geom:area_square_m":158562274.079131,
+    "geom:area_square_m":158562372.984874,
     "geom:bbox":"80.2019,6.555132,80.385458,6.734003",
     "geom:latitude":6.653507,
     "geom:longitude":80.290437,
@@ -66,9 +66,10 @@
     "wof:concordances":{
         "hasc:id":"LK.RN.AY"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"LK",
     "wof:created":1473898775,
-    "wof:geomhash":"38362966ae3120fe275549b1da5a0681",
+    "wof:geomhash":"c241c742203ce6dbcfee6e7ebb0ead8d",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -78,7 +79,7 @@
         }
     ],
     "wof:id":1092056723,
-    "wof:lastmodified":1627522327,
+    "wof:lastmodified":1695886787,
     "wof:name":"Ayagama",
     "wof:parent_id":85673785,
     "wof:placetype":"county",

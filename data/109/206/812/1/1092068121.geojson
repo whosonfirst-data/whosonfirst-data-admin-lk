@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003265,
-    "geom:area_square_m":40042421.671641,
+    "geom:area_square_m":40042428.422158,
     "geom:bbox":"79.827805,7.270788,79.882847,7.371889",
     "geom:latitude":7.324929,
     "geom:longitude":79.854483,
@@ -69,9 +69,10 @@
     "wof:concordances":{
         "hasc:id":"LK.PX.WE"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"LK",
     "wof:created":1473899235,
-    "wof:geomhash":"cf71c31e975910e7fb2fadc6c286b4e3",
+    "wof:geomhash":"facaa202089c738f4f2f81870498cc18",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -81,7 +82,7 @@
         }
     ],
     "wof:id":1092068121,
-    "wof:lastmodified":1627522344,
+    "wof:lastmodified":1695886797,
     "wof:name":"Wennappuwa",
     "wof:parent_id":85673779,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.017407,
-    "geom:area_square_m":213894726.300914,
+    "geom:area_square_m":213894633.979597,
     "geom:bbox":"80.061818,6.327663,80.301206,6.472011",
     "geom:latitude":6.40756,
     "geom:longitude":80.187168,
@@ -66,9 +66,10 @@
     "wof:concordances":{
         "hasc:id":"LK.KT.WA"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"LK",
     "wof:created":1473899210,
-    "wof:geomhash":"1761495d7cca84c90f4a4420c4c110d5",
+    "wof:geomhash":"324305b9cd448a0af2cd579d16fd14a3",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -78,7 +79,7 @@
         }
     ],
     "wof:id":1092067493,
-    "wof:lastmodified":1627522343,
+    "wof:lastmodified":1695886796,
     "wof:name":"Walallavita",
     "wof:parent_id":85673819,
     "wof:placetype":"county",

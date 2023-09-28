@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.022739,
-    "geom:area_square_m":278222975.793224,
+    "geom:area_square_m":278222780.517248,
     "geom:bbox":"81.162016,8.149927,81.369436,8.410407",
     "geom:latitude":8.29963,
     "geom:longitude":81.252634,
@@ -66,9 +66,10 @@
     "wof:concordances":{
         "hasc:id":"LK.TC.SE"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"LK",
     "wof:created":1473899147,
-    "wof:geomhash":"7b9c24c27269020a9a491342228a893f",
+    "wof:geomhash":"793b89e273592e326f572bd2c9d04614",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -78,7 +79,7 @@
         }
     ],
     "wof:id":1092066133,
-    "wof:lastmodified":1627522341,
+    "wof:lastmodified":1695886795,
     "wof:name":"Seruvila",
     "wof:parent_id":85673747,
     "wof:placetype":"county",

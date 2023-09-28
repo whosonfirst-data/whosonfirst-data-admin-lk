@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.006162,
-    "geom:area_square_m":75701714.864426,
+    "geom:area_square_m":75701714.864405,
     "geom:bbox":"79.9663527421,6.42906205643,80.0411024142,6.55592726981",
     "geom:latitude":6.489576,
     "geom:longitude":80.003503,
@@ -102,9 +102,10 @@
     "wof:concordances":{
         "hasc:id":"LK.KT.BE"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"LK",
     "wof:created":1473898791,
-    "wof:geomhash":"c4432ce44b94625f831020c027dc578a",
+    "wof:geomhash":"2582d1bcaf867daca37f44bd005aa569",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -114,7 +115,7 @@
         }
     ],
     "wof:id":1092057157,
-    "wof:lastmodified":1566595271,
+    "wof:lastmodified":1695886707,
     "wof:name":"Beruwala",
     "wof:parent_id":85673819,
     "wof:placetype":"county",

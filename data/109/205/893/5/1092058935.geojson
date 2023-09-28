@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004522,
-    "geom:area_square_m":55604545.374478,
+    "geom:area_square_m":55604663.854418,
     "geom:bbox":"80.23378,5.957056,80.385532,6.032926",
     "geom:latitude":5.998705,
     "geom:longitude":80.317427,
@@ -69,9 +69,10 @@
     "wof:concordances":{
         "hasc:id":"LK.GL.HA"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"LK",
     "wof:created":1473898861,
-    "wof:geomhash":"36acd278fb50c31a442a8ae7e044f1c3",
+    "wof:geomhash":"16f00c1b850e06bdd1d18fd7fe80b95f",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -81,7 +82,7 @@
         }
     ],
     "wof:id":1092058935,
-    "wof:lastmodified":1627522330,
+    "wof:lastmodified":1695886789,
     "wof:name":"Habaraduwa",
     "wof:parent_id":85673789,
     "wof:placetype":"county",

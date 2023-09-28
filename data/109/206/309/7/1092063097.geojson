@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.019648,
-    "geom:area_square_m":241113182.036143,
+    "geom:area_square_m":241113521.486186,
     "geom:bbox":"81.225644,6.933465,81.383301,7.152323",
     "geom:latitude":7.053121,
     "geom:longitude":81.292638,
@@ -66,9 +66,10 @@
     "wof:concordances":{
         "hasc:id":"LK.MJ.ME"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"LK",
     "wof:created":1473899029,
-    "wof:geomhash":"087111dad21b5fe5e65e2d2bc7802fae",
+    "wof:geomhash":"07372a865ff5800a67f437e13b77764b",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -78,7 +79,7 @@
         }
     ],
     "wof:id":1092063097,
-    "wof:lastmodified":1627522336,
+    "wof:lastmodified":1695886792,
     "wof:name":"Medagama",
     "wof:parent_id":85673803,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.007602,
-    "geom:area_square_m":93179319.354869,
+    "geom:area_square_m":93179197.716795,
     "geom:bbox":"79.787193,7.514047,79.908301,7.631357",
     "geom:latitude":7.579015,
     "geom:longitude":79.838935,
@@ -87,9 +87,10 @@
     "wof:concordances":{
         "hasc:id":"LK.PX.CH"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"LK",
     "wof:created":1473898803,
-    "wof:geomhash":"da6b2f61c69f2cde5fda9c98265fb256",
+    "wof:geomhash":"67d3b77a206cc75c4aee4bd02c0017fb",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -99,7 +100,7 @@
         }
     ],
     "wof:id":1092057373,
-    "wof:lastmodified":1627522328,
+    "wof:lastmodified":1695886788,
     "wof:name":"Chilaw",
     "wof:parent_id":85673779,
     "wof:placetype":"county",

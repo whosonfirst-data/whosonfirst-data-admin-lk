@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.018304,
-    "geom:area_square_m":224389188.416952,
+    "geom:area_square_m":224389149.483718,
     "geom:bbox":"80.440102,7.411461,80.577423,7.634206",
     "geom:latitude":7.516787,
     "geom:longitude":80.519099,
@@ -66,9 +66,10 @@
     "wof:concordances":{
         "hasc:id":"LK.KG.RI"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"LK",
     "wof:created":1473899140,
-    "wof:geomhash":"4c08f0a9f8e88a9efff5b8800b1eb093",
+    "wof:geomhash":"4b8e0e097e1d91108dea390d25aef017",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -78,7 +79,7 @@
         }
     ],
     "wof:id":1092065951,
-    "wof:lastmodified":1627522340,
+    "wof:lastmodified":1695886795,
     "wof:name":"Ridigama",
     "wof:parent_id":85673777,
     "wof:placetype":"county",

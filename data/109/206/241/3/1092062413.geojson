@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003725,
-    "geom:area_square_m":45807832.967091,
+    "geom:area_square_m":45807671.118031,
     "geom:bbox":"80.463969,5.966699,80.534605,6.065976",
     "geom:latitude":6.020081,
     "geom:longitude":80.498296,
@@ -66,9 +66,10 @@
     "wof:concordances":{
         "hasc:id":"LK.MH.MA"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"LK",
     "wof:created":1473898998,
-    "wof:geomhash":"13636aafac070412062dacd85b67aa27",
+    "wof:geomhash":"be0cc90ae1fd621a462201a7c2ba5e6c",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -78,7 +79,7 @@
         }
     ],
     "wof:id":1092062413,
-    "wof:lastmodified":1627522335,
+    "wof:lastmodified":1695886792,
     "wof:name":"Malimbada",
     "wof:parent_id":85673795,
     "wof:placetype":"county",

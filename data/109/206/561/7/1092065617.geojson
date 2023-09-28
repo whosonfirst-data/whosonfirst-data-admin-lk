@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.01491,
-    "geom:area_square_m":182560192.565879,
+    "geom:area_square_m":182560194.934119,
     "geom:bbox":"79.78875,7.930742,79.923073,8.111785",
     "geom:latitude":8.025122,
     "geom:longitude":79.863732,
@@ -187,9 +187,10 @@
         "hasc:id":"LK.PX.PU",
         "wd:id":"Q1665318"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"LK",
     "wof:created":1473899127,
-    "wof:geomhash":"22687ac482d00b0fae363668592fae2d",
+    "wof:geomhash":"1d020dcc9a21c1b5d4139c008e289473",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -199,7 +200,7 @@
         }
     ],
     "wof:id":1092065617,
-    "wof:lastmodified":1690938549,
+    "wof:lastmodified":1695886707,
     "wof:name":"Puttalam",
     "wof:parent_id":85673779,
     "wof:placetype":"county",

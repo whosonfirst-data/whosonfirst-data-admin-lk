@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.061503,
-    "geom:area_square_m":752898772.979798,
+    "geom:area_square_m":752898568.151012,
     "geom:bbox":"80.749645,7.911623,81.02893,8.348873",
     "geom:latitude":8.105854,
     "geom:longitude":80.872593,
@@ -66,9 +66,10 @@
     "wof:concordances":{
         "hasc:id":"LK.PR.HI"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"LK",
     "wof:created":1473898876,
-    "wof:geomhash":"e0c3e71a50884bbce212b01ba1859675",
+    "wof:geomhash":"f63d6ef8222ca157fe76cbf381bd8001",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -78,7 +79,7 @@
         }
     ],
     "wof:id":1092059355,
-    "wof:lastmodified":1627522331,
+    "wof:lastmodified":1695886789,
     "wof:name":"Hingurakgoda",
     "wof:parent_id":85673743,
     "wof:placetype":"county",

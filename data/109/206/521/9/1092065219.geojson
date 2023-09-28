@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004055,
-    "geom:area_square_m":49726367.61849,
+    "geom:area_square_m":49726241.824174,
     "geom:bbox":"80.612875,7.308267,80.697851,7.39",
     "geom:latitude":7.348757,
     "geom:longitude":80.660866,
@@ -66,9 +66,10 @@
     "wof:concordances":{
         "hasc:id":"LK.KY.PD"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"LK",
     "wof:created":1473899111,
-    "wof:geomhash":"b66ad9432430151efb5011b0cff06629",
+    "wof:geomhash":"cc179cc2a57ca7f6a39689cc1900b2c2",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -78,7 +79,7 @@
         }
     ],
     "wof:id":1092065219,
-    "wof:lastmodified":1627522339,
+    "wof:lastmodified":1695886794,
     "wof:name":"Pathadumbara",
     "wof:parent_id":85673719,
     "wof:placetype":"county",

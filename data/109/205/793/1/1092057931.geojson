@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.016701,
-    "geom:area_square_m":204852929.944628,
+    "geom:area_square_m":204853182.241567,
     "geom:bbox":"79.903976,7.193177,80.120206,7.319267",
     "geom:latitude":7.253634,
     "geom:longitude":80.006965,
@@ -69,9 +69,10 @@
     "wof:concordances":{
         "hasc:id":"LK.GQ.DI"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"LK",
     "wof:created":1473898823,
-    "wof:geomhash":"959fca6204b9f424dad61db327df64f3",
+    "wof:geomhash":"c3ec56533cc307d629d96f1552f478f2",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -81,7 +82,7 @@
         }
     ],
     "wof:id":1092057931,
-    "wof:lastmodified":1627522329,
+    "wof:lastmodified":1695886788,
     "wof:name":"Divulapitiya",
     "wof:parent_id":85673815,
     "wof:placetype":"county",

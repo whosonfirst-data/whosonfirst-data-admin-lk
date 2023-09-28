@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.007094,
-    "geom:area_square_m":87185399.072502,
+    "geom:area_square_m":87185475.538777,
     "geom:bbox":"80.062412,6.245528,80.150136,6.379311",
     "geom:latitude":6.300902,
     "geom:longitude":80.100697,
@@ -66,9 +66,10 @@
     "wof:concordances":{
         "hasc:id":"LK.GL.KA"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"LK",
     "wof:created":1473898923,
-    "wof:geomhash":"ddac4e294b96956456a8c23605824e0d",
+    "wof:geomhash":"9ddd72f7c6ea4be31280feb0f136a1d9",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -78,7 +79,7 @@
         }
     ],
     "wof:id":1092060579,
-    "wof:lastmodified":1627522332,
+    "wof:lastmodified":1695886790,
     "wof:name":"Karandeniya",
     "wof:parent_id":85673789,
     "wof:placetype":"county",

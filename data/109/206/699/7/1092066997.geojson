@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.04533,
-    "geom:area_square_m":555849469.325366,
+    "geom:area_square_m":555848816.540997,
     "geom:bbox":"81.463215,7.267071,81.745149,7.518269",
     "geom:latitude":7.397832,
     "geom:longitude":81.593618,
@@ -66,9 +66,10 @@
     "wof:concordances":{
         "hasc:id":"LK.AP.UH"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"LK",
     "wof:created":1473899185,
-    "wof:geomhash":"e767dc95ae6233cafb35cd4b8e6582f4",
+    "wof:geomhash":"7f0bf8b744f412c62ae97c955dc64e9b",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -78,7 +79,7 @@
         }
     ],
     "wof:id":1092066997,
-    "wof:lastmodified":1627522342,
+    "wof:lastmodified":1695886795,
     "wof:name":"Uhana",
     "wof:parent_id":85673733,
     "wof:placetype":"county",

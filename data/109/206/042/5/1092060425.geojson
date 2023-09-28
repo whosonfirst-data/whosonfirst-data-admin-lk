@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.033279,
-    "geom:area_square_m":407147998.796783,
+    "geom:area_square_m":407147980.220097,
     "geom:bbox":"80.926047,8.231087,81.204726,8.452083",
     "geom:latitude":8.345989,
     "geom:longitude":81.057152,
@@ -66,9 +66,10 @@
     "wof:concordances":{
         "hasc:id":"LK.TC.KA"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"LK",
     "wof:created":1473898917,
-    "wof:geomhash":"5b81179b73227eddbecf1f876cab1149",
+    "wof:geomhash":"ae85bf76bd6d18cf808db5bf986c6671",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -78,7 +79,7 @@
         }
     ],
     "wof:id":1092060425,
-    "wof:lastmodified":1627522332,
+    "wof:lastmodified":1695886790,
     "wof:name":"Kanthalai",
     "wof:parent_id":85673747,
     "wof:placetype":"county",

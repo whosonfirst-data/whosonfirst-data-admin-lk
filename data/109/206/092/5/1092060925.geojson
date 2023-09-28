@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.012434,
-    "geom:area_square_m":152084149.024799,
+    "geom:area_square_m":152084005.611659,
     "geom:bbox":"81.098462,8.366697,81.226698,8.524216",
     "geom:latitude":8.434787,
     "geom:longitude":81.162397,
@@ -69,9 +69,10 @@
     "wof:concordances":{
         "hasc:id":"LK.TC.KI"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"LK",
     "wof:created":1473898938,
-    "wof:geomhash":"9566a1d919cfb080e6c83f8d9157fd46",
+    "wof:geomhash":"1b42fa8278abf56196b1def280fd4079",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -81,7 +82,7 @@
         }
     ],
     "wof:id":1092060925,
-    "wof:lastmodified":1627522333,
+    "wof:lastmodified":1695886790,
     "wof:name":"Kinniya",
     "wof:parent_id":85673747,
     "wof:placetype":"county",

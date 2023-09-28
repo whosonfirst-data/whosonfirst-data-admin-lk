@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.009201,
-    "geom:area_square_m":113019651.298815,
+    "geom:area_square_m":113019642.073936,
     "geom:bbox":"79.981251,6.482387,80.113121,6.632628",
     "geom:latitude":6.570364,
     "geom:longitude":80.046563,
@@ -66,9 +66,10 @@
     "wof:concordances":{
         "hasc:id":"LK.KT.DO"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"LK",
     "wof:created":1473898825,
-    "wof:geomhash":"75c9fc01a56ab50edbf98d7f3fd7d353",
+    "wof:geomhash":"e0859691da165d01473e6e264550223a",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -78,7 +79,7 @@
         }
     ],
     "wof:id":1092057971,
-    "wof:lastmodified":1627522329,
+    "wof:lastmodified":1695886788,
     "wof:name":"Dodangoda",
     "wof:parent_id":85673819,
     "wof:placetype":"county",

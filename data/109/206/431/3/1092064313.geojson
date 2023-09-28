@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.039545,
-    "geom:area_square_m":485437313.65875,
+    "geom:area_square_m":485437307.463833,
     "geom:bbox":"80.576625,6.772883,80.861684,7.023229",
     "geom:latitude":6.906734,
     "geom:longitude":80.731965,
@@ -193,9 +193,10 @@
         "hasc:id":"LK.NW.NE",
         "wd:id":"Q1583950"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"LK",
     "wof:created":1473899076,
-    "wof:geomhash":"0053070100d3dfb19fd3d6599092235b",
+    "wof:geomhash":"a2b85f4984fea66be247aa7ac16f29b9",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -205,7 +206,7 @@
         }
     ],
     "wof:id":1092064313,
-    "wof:lastmodified":1690938550,
+    "wof:lastmodified":1695886707,
     "wof:name":"Nuwara Eliya",
     "wof:parent_id":85673731,
     "wof:placetype":"county",

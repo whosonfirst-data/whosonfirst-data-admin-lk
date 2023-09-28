@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.011914,
-    "geom:area_square_m":146004519.458236,
+    "geom:area_square_m":146004475.484987,
     "geom:bbox":"80.283895,7.573012,80.452632,7.745903",
     "geom:latitude":7.655929,
     "geom:longitude":80.370903,
@@ -66,9 +66,10 @@
     "wof:concordances":{
         "hasc:id":"LK.KG.GN"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"LK",
     "wof:created":1473898852,
-    "wof:geomhash":"3f80f7b4058b973932fb64e2f96babd4",
+    "wof:geomhash":"5455c940f7238bb2d2a48d46f384c13e",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -78,7 +79,7 @@
         }
     ],
     "wof:id":1092058689,
-    "wof:lastmodified":1627522330,
+    "wof:lastmodified":1695886788,
     "wof:name":"Ganewatta",
     "wof:parent_id":85673777,
     "wof:placetype":"county",

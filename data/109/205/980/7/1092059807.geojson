@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00708,
-    "geom:area_square_m":86314991.734404,
+    "geom:area_square_m":86314920.615626,
     "geom:bbox":"79.762886,9.565389,80.011253,9.677083",
     "geom:latitude":9.620134,
     "geom:longitude":79.894552,
@@ -66,9 +66,10 @@
     "wof:concordances":{
         "hasc:id":"LK.JA.IS"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"LK",
     "wof:created":1473898891,
-    "wof:geomhash":"ef3e7e7814cc4e353e093b0be2549a8e",
+    "wof:geomhash":"5afc590dafcc38bd697f6c3919632714",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -78,7 +79,7 @@
         }
     ],
     "wof:id":1092059807,
-    "wof:lastmodified":1627522331,
+    "wof:lastmodified":1695886789,
     "wof:name":"Island South (Velanai)",
     "wof:parent_id":85673769,
     "wof:placetype":"county",

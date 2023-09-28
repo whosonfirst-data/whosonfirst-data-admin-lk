@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00115,
-    "geom:area_square_m":14115820.69889,
+    "geom:area_square_m":14115658.29979,
     "geom:bbox":"79.881488,6.866215,79.920091,6.920399",
     "geom:latitude":6.892784,
     "geom:longitude":79.897135,
@@ -66,9 +66,10 @@
     "wof:concordances":{
         "hasc:id":"LK.CO.SJ"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"LK",
     "wof:created":1473899154,
-    "wof:geomhash":"084f33acb2077e76af064fcc3f4f9c4c",
+    "wof:geomhash":"37ab141225832cb63dfe4bab591af607",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -78,7 +79,7 @@
         }
     ],
     "wof:id":1092066319,
-    "wof:lastmodified":1627522341,
+    "wof:lastmodified":1695886795,
     "wof:name":"Sri Jayawardanapura Kotte",
     "wof:parent_id":85673811,
     "wof:placetype":"county",

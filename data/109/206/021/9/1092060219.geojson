@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.013534,
-    "geom:area_square_m":165663193.5024,
+    "geom:area_square_m":165663473.471726,
     "geom:bbox":"79.695389,7.92993,79.811583,8.527056",
     "geom:latitude":8.127485,
     "geom:longitude":79.740031,
@@ -72,9 +72,10 @@
     "wof:concordances":{
         "hasc:id":"LK.PX.KP"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"LK",
     "wof:created":1473898908,
-    "wof:geomhash":"b3f5736ec8038eb3c34c3b52adbf702b",
+    "wof:geomhash":"2e8fbf08ce2f0c9c284b1b03fef3c645",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -84,7 +85,7 @@
         }
     ],
     "wof:id":1092060219,
-    "wof:lastmodified":1627522332,
+    "wof:lastmodified":1695886790,
     "wof:name":"Kalpitiya",
     "wof:parent_id":85673779,
     "wof:placetype":"county",

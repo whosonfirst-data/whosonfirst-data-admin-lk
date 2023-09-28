@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.048057,
-    "geom:area_square_m":590279641.630275,
+    "geom:area_square_m":590279366.395021,
     "geom:bbox":"81.020152,6.44765,81.239647,6.833211",
     "geom:latitude":6.612531,
     "geom:longitude":81.1231,
@@ -72,9 +72,10 @@
     "wof:concordances":{
         "hasc:id":"LK.MJ.WE"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"LK",
     "wof:created":1473899233,
-    "wof:geomhash":"99707cdaf99e7f5d12be825a0ba927b0",
+    "wof:geomhash":"66c8880cc45bca3d0e382999f8103dd0",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -84,7 +85,7 @@
         }
     ],
     "wof:id":1092068087,
-    "wof:lastmodified":1627522344,
+    "wof:lastmodified":1695886797,
     "wof:name":"Wellawaya",
     "wof:parent_id":85673803,
     "wof:placetype":"county",

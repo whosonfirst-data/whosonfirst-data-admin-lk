@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.021324,
-    "geom:area_square_m":261667490.156812,
+    "geom:area_square_m":261667333.534814,
     "geom:bbox":"81.671777,6.969709,81.876442,7.193279",
     "geom:latitude":7.072528,
     "geom:longitude":81.770055,
@@ -81,9 +81,10 @@
     "wof:concordances":{
         "hasc:id":"LK.AP.TH"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"LK",
     "wof:created":1473899172,
-    "wof:geomhash":"02b91031deffd52edd0750f513b7ae13",
+    "wof:geomhash":"26ad03dfa8b380d3830e68560e1ed22b",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -93,7 +94,7 @@
         }
     ],
     "wof:id":1092066773,
-    "wof:lastmodified":1627522342,
+    "wof:lastmodified":1695886795,
     "wof:name":"Thirukkovil",
     "wof:parent_id":85673733,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.009704,
-    "geom:area_square_m":119138284.613882,
+    "geom:area_square_m":119138328.423971,
     "geom:bbox":"79.949468,6.758893,80.081115,6.913605",
     "geom:latitude":6.832987,
     "geom:longitude":80.015969,
@@ -69,9 +69,10 @@
     "wof:concordances":{
         "hasc:id":"LK.CO.HO"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"LK",
     "wof:created":1473898877,
-    "wof:geomhash":"c5a238a48dbbff5b9a07e50c98173e0d",
+    "wof:geomhash":"d48b698f24c928c4a61932446cc14fc3",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -81,7 +82,7 @@
         }
     ],
     "wof:id":1092059399,
-    "wof:lastmodified":1627522331,
+    "wof:lastmodified":1695886789,
     "wof:name":"Homagama",
     "wof:parent_id":85673811,
     "wof:placetype":"county",

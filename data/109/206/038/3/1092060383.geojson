@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004294,
-    "geom:area_square_m":52668779.464941,
+    "geom:area_square_m":52669034.770636,
     "geom:bbox":"80.588432,7.218917,80.688491,7.328247",
     "geom:latitude":7.273907,
     "geom:longitude":80.631581,
@@ -66,9 +66,10 @@
     "wof:concordances":{
         "hasc:id":"LK.KY.KG"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"LK",
     "wof:created":1473898915,
-    "wof:geomhash":"85acb7deca99447735ba6e09af6b0593",
+    "wof:geomhash":"8919a4721a442acc3fedb093f6c66576",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -78,7 +79,7 @@
         }
     ],
     "wof:id":1092060383,
-    "wof:lastmodified":1627522332,
+    "wof:lastmodified":1695886790,
     "wof:name":"Kandy Four Gravets & Gangawata Korale",
     "wof:parent_id":85673719,
     "wof:placetype":"county",

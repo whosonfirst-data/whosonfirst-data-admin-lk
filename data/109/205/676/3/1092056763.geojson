@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.019398,
-    "geom:area_square_m":238136820.213011,
+    "geom:area_square_m":238136842.345482,
     "geom:bbox":"81.114562,6.786939,81.300506,6.96381",
     "geom:latitude":6.870727,
     "geom:longitude":81.217449,
@@ -66,9 +66,10 @@
     "wof:concordances":{
         "hasc:id":"LK.MJ.BA"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"LK",
     "wof:created":1473898776,
-    "wof:geomhash":"d71f1d9454522c970f369136478cbed0",
+    "wof:geomhash":"e2e65aafeb17f8dcb0309d5797b80393",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -78,7 +79,7 @@
         }
     ],
     "wof:id":1092056763,
-    "wof:lastmodified":1627522327,
+    "wof:lastmodified":1695886787,
     "wof:name":"Badalkumbura",
     "wof:parent_id":85673803,
     "wof:placetype":"county",

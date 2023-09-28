@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004394,
-    "geom:area_square_m":53862092.985248,
+    "geom:area_square_m":53861842.243391,
     "geom:bbox":"81.762414,7.429901,81.819588,7.600809",
     "geom:latitude":7.513533,
     "geom:longitude":81.790234,
@@ -66,9 +66,10 @@
     "wof:concordances":{
         "hasc:id":"LK.BC.ME"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"LK",
     "wof:created":1473899004,
-    "wof:geomhash":"e8ac5fcff3c8d1d94ff14b8b7247f48b",
+    "wof:geomhash":"1226242a0367af08bd716a9704b1ab2b",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -78,7 +79,7 @@
         }
     ],
     "wof:id":1092062555,
-    "wof:lastmodified":1627522335,
+    "wof:lastmodified":1695886792,
     "wof:name":"Manmunai South & Eruvil pattu",
     "wof:parent_id":85673737,
     "wof:placetype":"county",

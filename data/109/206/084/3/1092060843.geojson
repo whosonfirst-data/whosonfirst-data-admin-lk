@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001974,
-    "geom:area_square_m":24229531.41621,
+    "geom:area_square_m":24229562.505086,
     "geom:bbox":"79.879948,6.946877,79.94,6.999336",
     "geom:latitude":6.972839,
     "geom:longitude":79.911213,
@@ -87,9 +87,10 @@
     "wof:concordances":{
         "hasc:id":"LK.GQ.KE"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"LK",
     "wof:created":1473898936,
-    "wof:geomhash":"f669090812d619dd7861abe385558677",
+    "wof:geomhash":"2cbbec0d13157c8e84daafa4ea294978",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -99,7 +100,7 @@
         }
     ],
     "wof:id":1092060843,
-    "wof:lastmodified":1627522333,
+    "wof:lastmodified":1695886790,
     "wof:name":"Kelaniya",
     "wof:parent_id":85673815,
     "wof:placetype":"county",

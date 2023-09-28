@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.008745,
-    "geom:area_square_m":107503179.987148,
+    "geom:area_square_m":107503304.102262,
     "geom:bbox":"80.608318,6.14692,80.751412,6.252773",
     "geom:latitude":6.200884,
     "geom:longitude":80.680905,
@@ -66,9 +66,10 @@
     "wof:concordances":{
         "hasc:id":"LK.HB.WM"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"LK",
     "wof:created":1473899213,
-    "wof:geomhash":"474132ccf02956583ff209a18bba89b5",
+    "wof:geomhash":"0c4b787f092eb408035af4054e053b60",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -78,7 +79,7 @@
         }
     ],
     "wof:id":1092067573,
-    "wof:lastmodified":1627522343,
+    "wof:lastmodified":1695886796,
     "wof:name":"Walasmulla",
     "wof:parent_id":85673791,
     "wof:placetype":"county",

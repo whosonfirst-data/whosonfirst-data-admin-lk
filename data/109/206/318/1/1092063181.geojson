@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.046636,
-    "geom:area_square_m":570783651.923336,
+    "geom:area_square_m":570783626.085769,
     "geom:bbox":"80.88157,8.06484,81.209122,8.318519",
     "geom:latitude":8.184485,
     "geom:longitude":81.040263,
@@ -69,9 +69,10 @@
     "wof:concordances":{
         "hasc:id":"LK.PR.ME"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"LK",
     "wof:created":1473899032,
-    "wof:geomhash":"cbef16a170851f2da14faa255011e3d1",
+    "wof:geomhash":"a59409a661093c108a34d8aec8db3e2d",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -81,7 +82,7 @@
         }
     ],
     "wof:id":1092063181,
-    "wof:lastmodified":1627522336,
+    "wof:lastmodified":1695886793,
     "wof:name":"Medirigiriya",
     "wof:parent_id":85673743,
     "wof:placetype":"county",

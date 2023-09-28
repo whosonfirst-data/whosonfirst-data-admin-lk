@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003993,
-    "geom:area_square_m":49002456.24368,
+    "geom:area_square_m":49002430.379348,
     "geom:bbox":"81.044549,6.944778,81.129517,7.017687",
     "geom:latitude":6.98604,
     "geom:longitude":81.090566,
@@ -193,9 +193,10 @@
         "hasc:id":"LK.BD.BD",
         "wd:id":"Q799713"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"LK",
     "wof:created":1473898779,
-    "wof:geomhash":"9cbf130defde9e34fc44d53d410a5c21",
+    "wof:geomhash":"619cdcdef3549550cbfa48a9298344e2",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -205,7 +206,7 @@
         }
     ],
     "wof:id":1092056843,
-    "wof:lastmodified":1690938548,
+    "wof:lastmodified":1695886759,
     "wof:name":"Badulla",
     "wof:parent_id":85673801,
     "wof:placetype":"county",

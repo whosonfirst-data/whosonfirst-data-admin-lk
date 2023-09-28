@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003577,
-    "geom:area_square_m":43973469.157147,
+    "geom:area_square_m":43973353.609044,
     "geom:bbox":"80.647767,6.095397,80.731938,6.168086",
     "geom:latitude":6.131203,
     "geom:longitude":80.692768,
@@ -66,9 +66,10 @@
     "wof:concordances":{
         "hasc:id":"LK.HB.OK"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"LK",
     "wof:created":1473899081,
-    "wof:geomhash":"72e1090417b220ec4dcb2655b9890c60",
+    "wof:geomhash":"93f99e499d633a1f7ba70cd6591ec69a",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -78,7 +79,7 @@
         }
     ],
     "wof:id":1092064463,
-    "wof:lastmodified":1627522338,
+    "wof:lastmodified":1695886793,
     "wof:name":"Okewela",
     "wof:parent_id":85673791,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001827,
-    "geom:area_square_m":22426908.101534,
+    "geom:area_square_m":22426934.523213,
     "geom:bbox":"79.845413,6.861385,79.889463,6.933513",
     "geom:latitude":6.898067,
     "geom:longitude":79.868802,
@@ -66,9 +66,10 @@
     "wof:concordances":{
         "hasc:id":"LK.CO.TH"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"LK",
     "wof:created":1473899169,
-    "wof:geomhash":"884be24381d374ab08397c33eabf0b45",
+    "wof:geomhash":"6ff30542a88ec1533401b224edc47c8a",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -78,7 +79,7 @@
         }
     ],
     "wof:id":1092066701,
-    "wof:lastmodified":1627522342,
+    "wof:lastmodified":1695886795,
     "wof:name":"Thimbirigasyaya",
     "wof:parent_id":85673811,
     "wof:placetype":"county",

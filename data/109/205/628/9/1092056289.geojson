@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.012227,
-    "geom:area_square_m":150319187.830955,
+    "geom:area_square_m":150319338.591344,
     "geom:bbox":"80.380374,6.043197,80.497374,6.226004",
     "geom:latitude":6.13652,
     "geom:longitude":80.439239,
@@ -72,9 +72,10 @@
     "wof:concordances":{
         "hasc:id":"LK.MH.AK"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"LK",
     "wof:created":1473898755,
-    "wof:geomhash":"79075982d588d8feaee61c9e40e95f23",
+    "wof:geomhash":"618ddf8084fce8b1868e6210e8a9e568",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -84,7 +85,7 @@
         }
     ],
     "wof:id":1092056289,
-    "wof:lastmodified":1627522326,
+    "wof:lastmodified":1695886786,
     "wof:name":"Akuressa",
     "wof:parent_id":85673795,
     "wof:placetype":"county",

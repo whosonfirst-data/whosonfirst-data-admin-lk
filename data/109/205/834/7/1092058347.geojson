@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.030956,
-    "geom:area_square_m":380427993.901306,
+    "geom:area_square_m":380427993.901329,
     "geom:bbox":"80.6951852197,6.22847761497,80.9519123665,6.48763316734",
     "geom:latitude":6.354362,
     "geom:longitude":80.816042,
@@ -81,9 +81,10 @@
     "wof:concordances":{
         "hasc:id":"LK.RN.EM"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"LK",
     "wof:created":1473898837,
-    "wof:geomhash":"013d26ca09f222d907bcbbc1e6f4a578",
+    "wof:geomhash":"c6af5f755366ae556acf9166bddd6ca2",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -93,7 +94,7 @@
         }
     ],
     "wof:id":1092058347,
-    "wof:lastmodified":1566595271,
+    "wof:lastmodified":1695886707,
     "wof:name":"Embilipitiya",
     "wof:parent_id":85673785,
     "wof:placetype":"county",

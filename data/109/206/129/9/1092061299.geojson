@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.048819,
-    "geom:area_square_m":597978365.584508,
+    "geom:area_square_m":597978906.175212,
     "geom:bbox":"81.225877,7.76853,81.582528,7.96886",
     "geom:latitude":7.86173,
     "geom:longitude":81.375768,
@@ -66,9 +66,10 @@
     "wof:concordances":{
         "hasc:id":"LK.BC.KS"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"LK",
     "wof:created":1473898951,
-    "wof:geomhash":"7ae96dd95770f9807a762cc5409acfda",
+    "wof:geomhash":"b022d2917da738a1df0ca2c2ef882b33",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -78,7 +79,7 @@
         }
     ],
     "wof:id":1092061299,
-    "wof:lastmodified":1627522333,
+    "wof:lastmodified":1695886791,
     "wof:name":"Koralai Pattu South (Kiran)",
     "wof:parent_id":85673737,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.039955,
-    "geom:area_square_m":487901158.123761,
+    "geom:area_square_m":487901084.625711,
     "geom:bbox":"80.175165,8.945973,80.433636,9.213362",
     "geom:latitude":9.053019,
     "geom:longitude":80.309689,
@@ -66,9 +66,10 @@
     "wof:concordances":{
         "hasc:id":"LK.MP.ME"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"LK",
     "wof:created":1473899010,
-    "wof:geomhash":"6b900b55c6aa97735d57c09f891a8406",
+    "wof:geomhash":"5507a0112b0a0323cf3a87b18fc1aa23",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -78,7 +79,7 @@
         }
     ],
     "wof:id":1092062713,
-    "wof:lastmodified":1627522335,
+    "wof:lastmodified":1695886792,
     "wof:name":"Manthai East",
     "wof:parent_id":85673765,
     "wof:placetype":"county",

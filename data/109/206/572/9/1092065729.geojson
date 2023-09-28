@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.011224,
-    "geom:area_square_m":137660209.88956,
+    "geom:area_square_m":137660296.584999,
     "geom:bbox":"80.311203,7.241311,80.462266,7.396812",
     "geom:latitude":7.32233,
     "geom:longitude":80.386556,
@@ -66,9 +66,10 @@
     "wof:concordances":{
         "hasc:id":"LK.KE.RA"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"LK",
     "wof:created":1473899131,
-    "wof:geomhash":"ca22e57d4bb264d2cc5f46a6af115b9b",
+    "wof:geomhash":"d72086f1af93620995a0e18bb18c484f",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -78,7 +79,7 @@
         }
     ],
     "wof:id":1092065729,
-    "wof:lastmodified":1627522340,
+    "wof:lastmodified":1695886794,
     "wof:name":"Rambukkana",
     "wof:parent_id":85673807,
     "wof:placetype":"county",

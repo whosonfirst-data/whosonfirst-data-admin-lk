@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.009,
-    "geom:area_square_m":110318385.443129,
+    "geom:area_square_m":110318257.411191,
     "geom:bbox":"80.172071,7.488105,80.312075,7.598281",
     "geom:latitude":7.548016,
     "geom:longitude":80.252061,
@@ -66,9 +66,10 @@
     "wof:concordances":{
         "hasc:id":"LK.KG.BA"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"LK",
     "wof:created":1473898783,
-    "wof:geomhash":"e984e09e3e55ce6308eef8234ba72594",
+    "wof:geomhash":"b68c25950e3189c1e2393a759bb8caa9",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -78,7 +79,7 @@
         }
     ],
     "wof:id":1092056961,
-    "wof:lastmodified":1627522327,
+    "wof:lastmodified":1695886787,
     "wof:name":"Bamunakotuwa",
     "wof:parent_id":85673777,
     "wof:placetype":"county",

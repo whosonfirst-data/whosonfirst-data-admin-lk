@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.006103,
-    "geom:area_square_m":74830787.594605,
+    "geom:area_square_m":74830256.313923,
     "geom:bbox":"79.793824,7.407608,79.920967,7.520285",
     "geom:latitude":7.45469,
     "geom:longitude":79.851159,
@@ -66,9 +66,10 @@
     "wof:concordances":{
         "hasc:id":"LK.PX.MW"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"LK",
     "wof:created":1473898992,
-    "wof:geomhash":"ef8874506501d6d6a4c94df31bcc91ff",
+    "wof:geomhash":"293446419e82e5f9eb3cd3076324f5f0",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -78,7 +79,7 @@
         }
     ],
     "wof:id":1092062251,
-    "wof:lastmodified":1627522335,
+    "wof:lastmodified":1695886792,
     "wof:name":"Mahawewa",
     "wof:parent_id":85673779,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.014687,
-    "geom:area_square_m":180500694.765363,
+    "geom:area_square_m":180500903.611139,
     "geom:bbox":"80.46034,6.22837,80.625265,6.400067",
     "geom:latitude":6.32293,
     "geom:longitude":80.539799,
@@ -66,9 +66,10 @@
     "wof:concordances":{
         "hasc:id":"LK.MH.KO"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"LK",
     "wof:created":1473898954,
-    "wof:geomhash":"8c5cf185c393d40e81147ebebe924197",
+    "wof:geomhash":"c99d8c53ba8b4b0731e8ee8dd2217af7",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -78,7 +79,7 @@
         }
     ],
     "wof:id":1092061375,
-    "wof:lastmodified":1627522333,
+    "wof:lastmodified":1695886791,
     "wof:name":"Kotapola",
     "wof:parent_id":85673795,
     "wof:placetype":"county",

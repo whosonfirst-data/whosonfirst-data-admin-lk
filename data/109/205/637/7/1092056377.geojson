@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.005931,
-    "geom:area_square_m":72768087.699531,
+    "geom:area_square_m":72768061.76727,
     "geom:bbox":"81.741743,7.128529,81.862915,7.223224",
     "geom:latitude":7.177968,
     "geom:longitude":81.80161,
@@ -66,9 +66,10 @@
     "wof:concordances":{
         "hasc:id":"LK.AP.AL"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"LK",
     "wof:created":1473898758,
-    "wof:geomhash":"d584e56723942202effc42a34b778a13",
+    "wof:geomhash":"7ca4f37c7bb2424ae973311d35323f7a",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -78,7 +79,7 @@
         }
     ],
     "wof:id":1092056377,
-    "wof:lastmodified":1627522326,
+    "wof:lastmodified":1695886786,
     "wof:name":"Alayadiwembu",
     "wof:parent_id":85673733,
     "wof:placetype":"county",

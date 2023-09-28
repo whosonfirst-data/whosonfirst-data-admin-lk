@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.046131,
-    "geom:area_square_m":562787916.644127,
+    "geom:area_square_m":562787916.6442,
     "geom:bbox":"79.971221924,9.20771409763,80.3192051943,9.609611511",
     "geom:latitude":9.38377,
     "geom:longitude":80.181704,
@@ -69,9 +69,10 @@
     "wof:concordances":{
         "hasc:id":"LK.KL.PO"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"LK",
     "wof:created":1473899120,
-    "wof:geomhash":"763aeca6a6d95fe44973728a6676f81e",
+    "wof:geomhash":"827803e94295b6927cd195aa95d71a03",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -81,7 +82,7 @@
         }
     ],
     "wof:id":1092065443,
-    "wof:lastmodified":1566595297,
+    "wof:lastmodified":1695886708,
     "wof:name":"Poonakary",
     "wof:parent_id":85673773,
     "wof:placetype":"county",

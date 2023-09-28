@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.008354,
-    "geom:area_square_m":102243425.186884,
+    "geom:area_square_m":102243499.811112,
     "geom:bbox":"80.082101,8.113901,80.278157,8.236809",
     "geom:latitude":8.181907,
     "geom:longitude":80.184942,
@@ -66,9 +66,10 @@
     "wof:concordances":{
         "hasc:id":"LK.AD.RJ"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"LK",
     "wof:created":1473899129,
-    "wof:geomhash":"6b7677add9220715a6c8eb6bab62f2cb",
+    "wof:geomhash":"ab626018bcec9aed04fc0dbb3fa50ee4",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -78,7 +79,7 @@
         }
     ],
     "wof:id":1092065663,
-    "wof:lastmodified":1627522340,
+    "wof:lastmodified":1695886794,
     "wof:name":"Rajanganaya",
     "wof:parent_id":85673751,
     "wof:placetype":"county",

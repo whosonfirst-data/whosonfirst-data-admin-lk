@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.042732,
-    "geom:area_square_m":523124794.165009,
+    "geom:area_square_m":523124998.496242,
     "geom:bbox":"81.306861,7.943335,81.55542,8.267027",
     "geom:latitude":8.090772,
     "geom:longitude":81.393717,
@@ -66,9 +66,10 @@
     "wof:concordances":{
         "hasc:id":"LK.BC.KO"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"LK",
     "wof:created":1473898950,
-    "wof:geomhash":"99aef52ba38cf2dc65d78f9864675a33",
+    "wof:geomhash":"c29e9505a4d9d9dc885ba6c4611c342d",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -78,7 +79,7 @@
         }
     ],
     "wof:id":1092061255,
-    "wof:lastmodified":1627522333,
+    "wof:lastmodified":1695886791,
     "wof:name":"Koralai Pattu North (Vaharai)",
     "wof:parent_id":85673737,
     "wof:placetype":"county",

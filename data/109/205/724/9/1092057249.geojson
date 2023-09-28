@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.010597,
-    "geom:area_square_m":130024542.577747,
+    "geom:area_square_m":130024841.765141,
     "geom:bbox":"80.280886,7.04178,80.467443,7.168401",
     "geom:latitude":7.096879,
     "geom:longitude":80.358416,
@@ -66,9 +66,10 @@
     "wof:concordances":{
         "hasc:id":"LK.KE.BU"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"LK",
     "wof:created":1473898798,
-    "wof:geomhash":"9b1aafba197c74a4c142e88a37593d02",
+    "wof:geomhash":"0d35800d34729d45089f10eec10f8061",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -78,7 +79,7 @@
         }
     ],
     "wof:id":1092057249,
-    "wof:lastmodified":1627522328,
+    "wof:lastmodified":1695886787,
     "wof:name":"Bulathkohupitiya",
     "wof:parent_id":85673807,
     "wof:placetype":"county",

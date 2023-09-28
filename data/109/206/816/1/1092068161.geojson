@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.023495,
-    "geom:area_square_m":287965459.383519,
+    "geom:area_square_m":287965740.712469,
     "geom:bbox":"80.869908,7.461259,80.998496,7.71922",
     "geom:latitude":7.604357,
     "geom:longitude":80.929003,
@@ -66,9 +66,10 @@
     "wof:concordances":{
         "hasc:id":"LK.MT.WI"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"LK",
     "wof:created":1473899236,
-    "wof:geomhash":"2eff848b8ade605558344bc088bef849",
+    "wof:geomhash":"8f0b2161fde42e4c9bfe7e12101cca8b",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -78,7 +79,7 @@
         }
     ],
     "wof:id":1092068161,
-    "wof:lastmodified":1627522344,
+    "wof:lastmodified":1695886797,
     "wof:name":"Wilgamuwa",
     "wof:parent_id":85673723,
     "wof:placetype":"county",

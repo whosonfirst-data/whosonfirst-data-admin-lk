@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.018238,
-    "geom:area_square_m":223883764.668919,
+    "geom:area_square_m":223883827.750829,
     "geom:bbox":"80.310085,6.828223,80.510816,7.001644",
     "geom:latitude":6.906778,
     "geom:longitude":80.402526,
@@ -66,9 +66,10 @@
     "wof:concordances":{
         "hasc:id":"LK.KE.DR"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"LK",
     "wof:created":1473898817,
-    "wof:geomhash":"6ba39266840670d58372e133409383f8",
+    "wof:geomhash":"bded1d589a8cd7c64e2f631dd99a3218",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -78,7 +79,7 @@
         }
     ],
     "wof:id":1092057785,
-    "wof:lastmodified":1627522328,
+    "wof:lastmodified":1695886788,
     "wof:name":"Deraniyagala",
     "wof:parent_id":85673807,
     "wof:placetype":"county",

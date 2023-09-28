@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.009211,
-    "geom:area_square_m":112926160.354176,
+    "geom:area_square_m":112926157.847217,
     "geom:bbox":"80.11647,7.388316,80.228741,7.546438",
     "geom:latitude":7.469846,
     "geom:longitude":80.169448,
@@ -66,9 +66,10 @@
     "wof:concordances":{
         "hasc:id":"LK.KG.KE"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"LK",
     "wof:created":1473898960,
-    "wof:geomhash":"45c4967e65edf60cdbb822d793946a30",
+    "wof:geomhash":"f7af1c256c886abfeba76bd3b6fe4c31",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -78,7 +79,7 @@
         }
     ],
     "wof:id":1092061525,
-    "wof:lastmodified":1627522334,
+    "wof:lastmodified":1695886791,
     "wof:name":"Kuliyapitiya East",
     "wof:parent_id":85673777,
     "wof:placetype":"county",

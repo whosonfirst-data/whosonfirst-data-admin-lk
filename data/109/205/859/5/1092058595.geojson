@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.01027,
-    "geom:area_square_m":125979980.39233,
+    "geom:area_square_m":125979511.067852,
     "geom:bbox":"80.26402,7.109641,80.350054,7.32013",
     "geom:latitude":7.214877,
     "geom:longitude":80.304571,
@@ -66,9 +66,10 @@
     "wof:concordances":{
         "hasc:id":"LK.KE.GA"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"LK",
     "wof:created":1473898846,
-    "wof:geomhash":"af5b805c0ff3f0f32a76acc0b650bf9b",
+    "wof:geomhash":"62bf241b35ea049fb78731fab65798fd",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -78,7 +79,7 @@
         }
     ],
     "wof:id":1092058595,
-    "wof:lastmodified":1627522330,
+    "wof:lastmodified":1695886788,
     "wof:name":"Galigamuwa",
     "wof:parent_id":85673807,
     "wof:placetype":"county",

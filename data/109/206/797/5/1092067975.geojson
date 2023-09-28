@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.015135,
-    "geom:area_square_m":184856768.073671,
+    "geom:area_square_m":184856943.203984,
     "geom:bbox":"80.691809,8.894181,80.878799,9.053815",
     "geom:latitude":8.977263,
     "geom:longitude":80.772189,
@@ -66,9 +66,10 @@
     "wof:concordances":{
         "hasc:id":"LK.MP.WE"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"LK",
     "wof:created":1473899229,
-    "wof:geomhash":"836a2bbf37073555b0c3850fcb9dfdca",
+    "wof:geomhash":"b4be2e64cd51c867617a1d762c0a1d55",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -78,7 +79,7 @@
         }
     ],
     "wof:id":1092067975,
-    "wof:lastmodified":1627522344,
+    "wof:lastmodified":1695886797,
     "wof:name":"Welioya",
     "wof:parent_id":85673765,
     "wof:placetype":"county",

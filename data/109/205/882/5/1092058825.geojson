@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.012945,
-    "geom:area_square_m":159039824.003749,
+    "geom:area_square_m":159039786.615578,
     "geom:bbox":"80.577281,6.435983,80.750888,6.585963",
     "geom:latitude":6.500088,
     "geom:longitude":80.64158,
@@ -66,9 +66,10 @@
     "wof:concordances":{
         "hasc:id":"LK.RN.GO"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"LK",
     "wof:created":1473898856,
-    "wof:geomhash":"a2b3488ec8c7accfe9b89d764dbfdb33",
+    "wof:geomhash":"35d06c338e7c257d6a062a2224855142",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -78,7 +79,7 @@
         }
     ],
     "wof:id":1092058825,
-    "wof:lastmodified":1627522330,
+    "wof:lastmodified":1695886789,
     "wof:name":"Godakawela",
     "wof:parent_id":85673785,
     "wof:placetype":"county",

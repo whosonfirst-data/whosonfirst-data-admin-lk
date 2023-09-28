@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004825,
-    "geom:area_square_m":59170481.331095,
+    "geom:area_square_m":59170476.094911,
     "geom:bbox":"80.516554,7.349326,80.615753,7.459986",
     "geom:latitude":7.400896,
     "geom:longitude":80.566164,
@@ -66,9 +66,10 @@
     "wof:concordances":{
         "hasc:id":"LK.KY.PO"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"LK",
     "wof:created":1473899124,
-    "wof:geomhash":"7973eb5260df66de1abea85e4a91b199",
+    "wof:geomhash":"d17b96081d3a82fc79ea361b30be9b5d",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -78,7 +79,7 @@
         }
     ],
     "wof:id":1092065547,
-    "wof:lastmodified":1627522340,
+    "wof:lastmodified":1695886794,
     "wof:name":"Pujapitiya",
     "wof:parent_id":85673719,
     "wof:placetype":"county",

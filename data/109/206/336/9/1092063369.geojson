@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.011386,
-    "geom:area_square_m":139699065.437663,
+    "geom:area_square_m":139699152.941094,
     "geom:bbox":"79.910602,7.093105,80.047343,7.215784",
     "geom:latitude":7.153768,
     "geom:longitude":79.977649,
@@ -81,9 +81,10 @@
     "wof:concordances":{
         "hasc:id":"LK.GQ.MN"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"LK",
     "wof:created":1473899039,
-    "wof:geomhash":"bedcc64a54ed56fabdc698058c39628c",
+    "wof:geomhash":"07ac598e84676d7ccb54cdf607376f5c",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -93,7 +94,7 @@
         }
     ],
     "wof:id":1092063369,
-    "wof:lastmodified":1627522336,
+    "wof:lastmodified":1695886793,
     "wof:name":"Minuwangoda",
     "wof:parent_id":85673815,
     "wof:placetype":"county",

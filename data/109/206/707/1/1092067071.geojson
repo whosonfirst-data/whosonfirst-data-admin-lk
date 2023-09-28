@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.014338,
-    "geom:area_square_m":174804911.584844,
+    "geom:area_square_m":174804961.703987,
     "geom:bbox":"80.238665,9.452203,80.62152,9.784393",
     "geom:latitude":9.6129,
     "geom:longitude":80.409049,
@@ -66,9 +66,10 @@
     "wof:concordances":{
         "hasc:id":"LK.JA.VE"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"LK",
     "wof:created":1473899190,
-    "wof:geomhash":"7a04df5e4ec1c5ea3fdefb7e725bb4ff",
+    "wof:geomhash":"3647db00ad8f102aef31294e149b8b5e",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -78,7 +79,7 @@
         }
     ],
     "wof:id":1092067071,
-    "wof:lastmodified":1627522342,
+    "wof:lastmodified":1695886796,
     "wof:name":"Vadamaradchy East",
     "wof:parent_id":85673769,
     "wof:placetype":"county",

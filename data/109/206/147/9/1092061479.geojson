@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.037734,
-    "geom:area_square_m":461079833.052579,
+    "geom:area_square_m":461079526.882632,
     "geom:bbox":"80.876967,8.630804,81.218256,8.989754",
     "geom:latitude":8.814808,
     "geom:longitude":81.042382,
@@ -72,9 +72,10 @@
     "wof:concordances":{
         "hasc:id":"LK.TC.KU"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"LK",
     "wof:created":1473898959,
-    "wof:geomhash":"8afc03403e3a940b6d4bfb8a97f9bb18",
+    "wof:geomhash":"cd285961c37a651b083479376b1bfe17",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -84,7 +85,7 @@
         }
     ],
     "wof:id":1092061479,
-    "wof:lastmodified":1627522334,
+    "wof:lastmodified":1695886791,
     "wof:name":"Kuchchaveli",
     "wof:parent_id":85673747,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.087481,
-    "geom:area_square_m":1073994672.941078,
+    "geom:area_square_m":1073995035.250527,
     "geom:bbox":"81.368879,6.589349,81.636608,7.171551",
     "geom:latitude":6.85104,
     "geom:longitude":81.526975,
@@ -66,9 +66,10 @@
     "wof:concordances":{
         "hasc:id":"LK.MJ.SI"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"LK",
     "wof:created":1473899150,
-    "wof:geomhash":"eb0d96eb2fd97fb42967585e66d01ca2",
+    "wof:geomhash":"d25d2a551f689bb915d2847f50ebddbf",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -78,7 +79,7 @@
         }
     ],
     "wof:id":1092066203,
-    "wof:lastmodified":1627522341,
+    "wof:lastmodified":1695886795,
     "wof:name":"Siyambalanduwa",
     "wof:parent_id":85673803,
     "wof:placetype":"county",

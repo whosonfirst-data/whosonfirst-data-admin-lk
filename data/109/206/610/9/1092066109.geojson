@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.012,
-    "geom:area_square_m":147305157.59733,
+    "geom:area_square_m":147305595.946713,
     "geom:bbox":"80.066678,6.858486,80.223043,6.978828",
     "geom:latitude":6.922499,
     "geom:longitude":80.147546,
@@ -66,9 +66,10 @@
     "wof:concordances":{
         "hasc:id":"LK.CO.HA"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"LK",
     "wof:created":1473899146,
-    "wof:geomhash":"35ef10e5ef97eca324358fabc14daedc",
+    "wof:geomhash":"3fa13eebe751c55397be2760ac1b42f5",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -78,7 +79,7 @@
         }
     ],
     "wof:id":1092066109,
-    "wof:lastmodified":1627522341,
+    "wof:lastmodified":1695886795,
     "wof:name":"Seethawaka",
     "wof:parent_id":85673811,
     "wof:placetype":"county",

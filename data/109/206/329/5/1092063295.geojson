@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.006616,
-    "geom:area_square_m":81256625.143588,
+    "geom:area_square_m":81256626.915221,
     "geom:bbox":"79.983238,6.588511,80.0757,6.718312",
     "geom:latitude":6.658068,
     "geom:longitude":80.032532,
@@ -66,9 +66,10 @@
     "wof:concordances":{
         "hasc:id":"LK.KT.MI"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"LK",
     "wof:created":1473899036,
-    "wof:geomhash":"65791023c4da92d32d9d6c8e519cf92d",
+    "wof:geomhash":"cf08b28fdf936860bd4f1c7b3d5b06ae",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -78,7 +79,7 @@
         }
     ],
     "wof:id":1092063295,
-    "wof:lastmodified":1627522336,
+    "wof:lastmodified":1695886793,
     "wof:name":"Millaniya",
     "wof:parent_id":85673819,
     "wof:placetype":"county",

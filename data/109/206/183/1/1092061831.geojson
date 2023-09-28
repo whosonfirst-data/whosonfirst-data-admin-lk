@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.068182,
-    "geom:area_square_m":837235575.208586,
+    "geom:area_square_m":837235706.930219,
     "geom:bbox":"81.606028,6.508267,81.827888,6.993243",
     "geom:latitude":6.749052,
     "geom:longitude":81.69968,
@@ -75,9 +75,10 @@
     "wof:concordances":{
         "hasc:id":"LK.AP.LA"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"LK",
     "wof:created":1473898974,
-    "wof:geomhash":"425221579dafa40810ebf16cbac58123",
+    "wof:geomhash":"699ea48737b96c96530d7caefd80f118",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -87,7 +88,7 @@
         }
     ],
     "wof:id":1092061831,
-    "wof:lastmodified":1627522334,
+    "wof:lastmodified":1695886791,
     "wof:name":"Lahugala",
     "wof:parent_id":85673733,
     "wof:placetype":"county",

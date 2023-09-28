@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.069298,
-    "geom:area_square_m":847437475.573024,
+    "geom:area_square_m":847437280.772055,
     "geom:bbox":"80.705873,8.277939,80.993661,8.759928",
     "geom:latitude":8.513107,
     "geom:longitude":80.850527,
@@ -66,9 +66,10 @@
     "wof:concordances":{
         "hasc:id":"LK.AD.HO"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"LK",
     "wof:created":1473898880,
-    "wof:geomhash":"2d8cf0949242b67aeff9035b3388039b",
+    "wof:geomhash":"eaf5dfb78fcfda9bc041a25a8de6dfc9",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -78,7 +79,7 @@
         }
     ],
     "wof:id":1092059481,
-    "wof:lastmodified":1627522331,
+    "wof:lastmodified":1695886789,
     "wof:name":"Horowpothana",
     "wof:parent_id":85673751,
     "wof:placetype":"county",

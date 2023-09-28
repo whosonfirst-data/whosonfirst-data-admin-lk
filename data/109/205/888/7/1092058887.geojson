@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00213,
-    "geom:area_square_m":26189896.620028,
+    "geom:area_square_m":26189819.911353,
     "geom:bbox":"80.100296,6.130092,80.15294,6.205452",
     "geom:latitude":6.166136,
     "geom:longitude":80.131453,
@@ -66,9 +66,10 @@
     "wof:concordances":{
         "hasc:id":"LK.GL.GO"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"LK",
     "wof:created":1473898859,
-    "wof:geomhash":"3647d1ce1323c5c81587aec76d695814",
+    "wof:geomhash":"0f906629888a0aa5dd8c29f7f092923a",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -78,7 +79,7 @@
         }
     ],
     "wof:id":1092058887,
-    "wof:lastmodified":1627522330,
+    "wof:lastmodified":1695886789,
     "wof:name":"Gonapeenuwala",
     "wof:parent_id":85673789,
     "wof:placetype":"county",

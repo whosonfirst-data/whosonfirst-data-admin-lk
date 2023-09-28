@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.009213,
-    "geom:area_square_m":113261745.758615,
+    "geom:area_square_m":113262164.645779,
     "geom:bbox":"80.148013,6.084945,80.304345,6.191203",
     "geom:latitude":6.136669,
     "geom:longitude":80.220526,
@@ -69,9 +69,10 @@
     "wof:concordances":{
         "hasc:id":"LK.GL.BD"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"LK",
     "wof:created":1473898778,
-    "wof:geomhash":"07f672e76e642c16d89b9c1fdc4c41a6",
+    "wof:geomhash":"308b9d68b147eb8a373536b3aa2c9aac",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -81,7 +82,7 @@
         }
     ],
     "wof:id":1092056807,
-    "wof:lastmodified":1627522327,
+    "wof:lastmodified":1695886787,
     "wof:name":"Baddegama",
     "wof:parent_id":85673789,
     "wof:placetype":"county",

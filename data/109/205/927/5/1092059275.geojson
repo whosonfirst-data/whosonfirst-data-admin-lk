@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.005364,
-    "geom:area_square_m":65785244.906081,
+    "geom:area_square_m":65785435.45479,
     "geom:bbox":"80.420983,7.294026,80.550111,7.377938",
     "geom:latitude":7.330847,
     "geom:longitude":80.481818,
@@ -66,9 +66,10 @@
     "wof:concordances":{
         "hasc:id":"LK.KY.HY"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"LK",
     "wof:created":1473898873,
-    "wof:geomhash":"a6c1d26f2be289f9395cd7836dd4636f",
+    "wof:geomhash":"1e82848d090e2905b0d1cf1241ccf626",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -78,7 +79,7 @@
         }
     ],
     "wof:id":1092059275,
-    "wof:lastmodified":1627522331,
+    "wof:lastmodified":1695886789,
     "wof:name":"Hatharaliyadda",
     "wof:parent_id":85673719,
     "wof:placetype":"county",

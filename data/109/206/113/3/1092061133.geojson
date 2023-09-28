@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002095,
-    "geom:area_square_m":25720278.506433,
+    "geom:area_square_m":25720278.50643,
     "geom:bbox":"79.8739371476,6.91501590023,79.9563293392,6.95700560897",
     "geom:latitude":6.934365,
     "geom:longitude":79.913749,
@@ -87,9 +87,10 @@
     "wof:concordances":{
         "hasc:id":"LK.CO.KO"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"LK",
     "wof:created":1473898946,
-    "wof:geomhash":"be2cdd34420600cbb3ff09a360299f17",
+    "wof:geomhash":"7be2c442758bc44aa0f785febdc48681",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -99,7 +100,7 @@
         }
     ],
     "wof:id":1092061133,
-    "wof:lastmodified":1566595313,
+    "wof:lastmodified":1695886708,
     "wof:name":"Kolonnawa",
     "wof:parent_id":85673811,
     "wof:placetype":"county",

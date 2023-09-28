@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.036293,
-    "geom:area_square_m":442863347.620742,
+    "geom:area_square_m":442863331.019151,
     "geom:bbox":"80.497633,9.197499,80.747194,9.430945",
     "geom:latitude":9.307828,
     "geom:longitude":80.616787,
@@ -66,9 +66,10 @@
     "wof:concordances":{
         "hasc:id":"LK.MP.PU"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"LK",
     "wof:created":1473899126,
-    "wof:geomhash":"f495dd226796cf1ade58e710dfded236",
+    "wof:geomhash":"0ebdb01c75b2278160f0c9e3f7feeed7",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -78,7 +79,7 @@
         }
     ],
     "wof:id":1092065583,
-    "wof:lastmodified":1627522340,
+    "wof:lastmodified":1695886794,
     "wof:name":"Puthukudiyiruppu",
     "wof:parent_id":85673765,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.030499,
-    "geom:area_square_m":373854544.453312,
+    "geom:area_square_m":373854339.412604,
     "geom:bbox":"80.707767,7.424815,80.899879,7.697386",
     "geom:latitude":7.554922,
     "geom:longitude":80.808765,
@@ -66,9 +66,10 @@
     "wof:concordances":{
         "hasc:id":"LK.MT.LP"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"LK",
     "wof:created":1473898973,
-    "wof:geomhash":"04f579580093b104d20021d440c25b67",
+    "wof:geomhash":"fb324afdd850bc0d9ed2e2f11984c386",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -78,7 +79,7 @@
         }
     ],
     "wof:id":1092061819,
-    "wof:lastmodified":1627522334,
+    "wof:lastmodified":1695886791,
     "wof:name":"Laggala-Pallegama",
     "wof:parent_id":85673723,
     "wof:placetype":"county",

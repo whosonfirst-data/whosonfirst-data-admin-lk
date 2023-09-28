@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.012883,
-    "geom:area_square_m":158256213.898608,
+    "geom:area_square_m":158256519.336571,
     "geom:bbox":"80.369466,6.477592,80.524823,6.641532",
     "geom:latitude":6.570573,
     "geom:longitude":80.457466,
@@ -66,9 +66,10 @@
     "wof:concordances":{
         "hasc:id":"LK.RN.NI"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"LK",
     "wof:created":1473899071,
-    "wof:geomhash":"607661e4303e2285c0164e769e5df207",
+    "wof:geomhash":"a046789e0c174eb42bea0d2cc6cac9db",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -78,7 +79,7 @@
         }
     ],
     "wof:id":1092064197,
-    "wof:lastmodified":1627522338,
+    "wof:lastmodified":1695886793,
     "wof:name":"Nivithigala",
     "wof:parent_id":85673785,
     "wof:placetype":"county",

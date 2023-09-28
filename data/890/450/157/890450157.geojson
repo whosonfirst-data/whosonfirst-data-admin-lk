@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.010173,
-    "geom:area_square_m":124777378.076978,
+    "geom:area_square_m":124777648.024846,
     "geom:bbox":"81.488187,7.216805,81.706902,7.321543",
     "geom:latitude":7.272485,
     "geom:longitude":81.591954,
@@ -210,12 +210,13 @@
         "wd:id":"Q474395",
         "wk:page":"Ampara District"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"LK",
     "wof:created":1469052728,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"8a413dcc9744d6dc078a320658294e69",
+    "wof:geomhash":"e1dcea33d97bcbbb51bcfe819735abfc",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -225,7 +226,7 @@
         }
     ],
     "wof:id":890450157,
-    "wof:lastmodified":1690938576,
+    "wof:lastmodified":1695886782,
     "wof:name":"Ampara",
     "wof:parent_id":85673733,
     "wof:placetype":"county",

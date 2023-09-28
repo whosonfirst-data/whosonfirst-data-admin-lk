@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004068,
-    "geom:area_square_m":50029399.071298,
+    "geom:area_square_m":50029427.55164,
     "geom:bbox":"80.51733,5.969972,80.611119,6.04675",
     "geom:latitude":6.011034,
     "geom:longitude":80.562015,
@@ -66,9 +66,10 @@
     "wof:concordances":{
         "hasc:id":"LK.MH.TH"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"LK",
     "wof:created":1473899168,
-    "wof:geomhash":"27a1dce5a5455b0e2841b32073cd56f4",
+    "wof:geomhash":"ab142c82e657aa4d8cf10c13d47eab2f",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -78,7 +79,7 @@
         }
     ],
     "wof:id":1092066657,
-    "wof:lastmodified":1627522341,
+    "wof:lastmodified":1695886795,
     "wof:name":"Thihagoda",
     "wof:parent_id":85673795,
     "wof:placetype":"county",

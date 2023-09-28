@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.005005,
-    "geom:area_square_m":61392153.049969,
+    "geom:area_square_m":61391934.541524,
     "geom:bbox":"81.707918,7.170389,81.865448,7.25",
     "geom:latitude":7.217239,
     "geom:longitude":81.787192,
@@ -78,9 +78,10 @@
     "wof:concordances":{
         "hasc:id":"LK.AP.AK"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"LK",
     "wof:created":1473898750,
-    "wof:geomhash":"cec9e4acb805a073b3a024d8aebd36ef",
+    "wof:geomhash":"f23271b76d992d0e94740adbe2915c3d",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -90,7 +91,7 @@
         }
     ],
     "wof:id":1092056171,
-    "wof:lastmodified":1627522326,
+    "wof:lastmodified":1695886786,
     "wof:name":"Akkaraipattu",
     "wof:parent_id":85673733,
     "wof:placetype":"county",

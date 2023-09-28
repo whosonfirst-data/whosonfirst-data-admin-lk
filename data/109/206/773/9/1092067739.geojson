@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.009478,
-    "geom:area_square_m":116523041.911808,
+    "geom:area_square_m":116523041.911851,
     "geom:bbox":"80.7170625736,6.09568078701,80.8422596212,6.24662727251",
     "geom:latitude":6.171908,
     "geom:longitude":80.772033,
@@ -69,9 +69,10 @@
     "wof:concordances":{
         "hasc:id":"LK.HB.WE"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"LK",
     "wof:created":1473899220,
-    "wof:geomhash":"277c7fe9457ee0f11f678cabbf883835",
+    "wof:geomhash":"9603b1d1d31f28c79230d499a91dfdf9",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -81,7 +82,7 @@
         }
     ],
     "wof:id":1092067739,
-    "wof:lastmodified":1566595312,
+    "wof:lastmodified":1695886708,
     "wof:name":"Weeraketiya",
     "wof:parent_id":85673791,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.005273,
-    "geom:area_square_m":64828209.80359,
+    "geom:area_square_m":64828147.35847,
     "geom:bbox":"80.477139,6.057542,80.542102,6.18",
     "geom:latitude":6.117103,
     "geom:longitude":80.509498,
@@ -66,9 +66,10 @@
     "wof:concordances":{
         "hasc:id":"LK.MH.AT"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"LK",
     "wof:created":1473898772,
-    "wof:geomhash":"26bf177e731eb8f9574768f60cceed35",
+    "wof:geomhash":"ccdb16df59b495fd6092ad977bf956b9",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -78,7 +79,7 @@
         }
     ],
     "wof:id":1092056719,
-    "wof:lastmodified":1627522327,
+    "wof:lastmodified":1695886787,
     "wof:name":"Athuraliya",
     "wof:parent_id":85673795,
     "wof:placetype":"county",

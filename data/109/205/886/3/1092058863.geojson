@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.022901,
-    "geom:area_square_m":279877660.291188,
+    "geom:area_square_m":279877819.322234,
     "geom:bbox":"80.878418,8.64312,81.055996,8.865384",
     "geom:latitude":8.745221,
     "geom:longitude":80.959888,
@@ -66,9 +66,10 @@
     "wof:concordances":{
         "hasc:id":"LK.TC.GO"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"LK",
     "wof:created":1473898858,
-    "wof:geomhash":"981b8a43b33163577729cf13acf7a913",
+    "wof:geomhash":"60fc64396ae785ce94e5050342d585eb",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -78,7 +79,7 @@
         }
     ],
     "wof:id":1092058863,
-    "wof:lastmodified":1627522330,
+    "wof:lastmodified":1695886789,
     "wof:name":"Gomarankadawala",
     "wof:parent_id":85673747,
     "wof:placetype":"county",

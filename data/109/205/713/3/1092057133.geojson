@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.006098,
-    "geom:area_square_m":74934560.09603,
+    "geom:area_square_m":74934164.692203,
     "geom:bbox":"79.986252,6.331322,80.137843,6.438573",
     "geom:latitude":6.386431,
     "geom:longitude":80.054016,
@@ -78,9 +78,10 @@
     "wof:concordances":{
         "hasc:id":"LK.GL.BE"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"LK",
     "wof:created":1473898789,
-    "wof:geomhash":"2c5db5c205de44222a28068d2d21d693",
+    "wof:geomhash":"48e407760c6ef3a92d0a7dfc28fea108",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -90,7 +91,7 @@
         }
     ],
     "wof:id":1092057133,
-    "wof:lastmodified":1627522328,
+    "wof:lastmodified":1695886787,
     "wof:name":"Bentota",
     "wof:parent_id":85673789,
     "wof:placetype":"county",

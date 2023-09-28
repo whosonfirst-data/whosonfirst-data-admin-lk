@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.016256,
-    "geom:area_square_m":199019004.758623,
+    "geom:area_square_m":199018771.835113,
     "geom:bbox":"80.654341,7.956662,80.790324,8.230862",
     "geom:latitude":8.080274,
     "geom:longitude":80.719896,
@@ -66,9 +66,10 @@
     "wof:concordances":{
         "hasc:id":"LK.AD.PS"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"LK",
     "wof:created":1473899101,
-    "wof:geomhash":"7799724af4bd2ac21928b9321203d094",
+    "wof:geomhash":"571f41429525985a1972bfb6c12bac7b",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -78,7 +79,7 @@
         }
     ],
     "wof:id":1092064945,
-    "wof:lastmodified":1627522339,
+    "wof:lastmodified":1695886794,
     "wof:name":"Palugaswewa",
     "wof:parent_id":85673751,
     "wof:placetype":"county",

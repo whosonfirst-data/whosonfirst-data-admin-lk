@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.050473,
-    "geom:area_square_m":616893102.67607,
+    "geom:area_square_m":616893494.582684,
     "geom:bbox":"80.569805,8.549133,80.911788,8.872124",
     "geom:latitude":8.717272,
     "geom:longitude":80.709436,
@@ -66,9 +66,10 @@
     "wof:concordances":{
         "hasc:id":"LK.AD.KB"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"LK",
     "wof:created":1473898932,
-    "wof:geomhash":"4729be7bb2b29d1a536c0b6860549ac5",
+    "wof:geomhash":"e349efca5a925862d23a4f9ceb02b7de",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -78,7 +79,7 @@
         }
     ],
     "wof:id":1092060761,
-    "wof:lastmodified":1627522333,
+    "wof:lastmodified":1695886790,
     "wof:name":"Kebithigollewa",
     "wof:parent_id":85673751,
     "wof:placetype":"county",

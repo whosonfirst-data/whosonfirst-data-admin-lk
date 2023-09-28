@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.011025,
-    "geom:area_square_m":135514174.599011,
+    "geom:area_square_m":135514216.280619,
     "geom:bbox":"80.375544,6.159163,80.554766,6.335005",
     "geom:latitude":6.239713,
     "geom:longitude":80.473039,
@@ -66,9 +66,10 @@
     "wof:concordances":{
         "hasc:id":"LK.MH.PI"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"LK",
     "wof:created":1473899116,
-    "wof:geomhash":"866b3dd042afc498e05d76ae6b8db634",
+    "wof:geomhash":"4f6952ab4c0d559ec7d65cab1f9db210",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -78,7 +79,7 @@
         }
     ],
     "wof:id":1092065343,
-    "wof:lastmodified":1627522339,
+    "wof:lastmodified":1695886794,
     "wof:name":"Pitabeddara",
     "wof:parent_id":85673795,
     "wof:placetype":"county",

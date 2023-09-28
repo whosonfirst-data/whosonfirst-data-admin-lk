@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.011001,
-    "geom:area_square_m":135030051.019296,
+    "geom:area_square_m":135029970.583802,
     "geom:bbox":"81.089711,6.876284,81.220515,7.079593",
     "geom:latitude":6.965293,
     "geom:longitude":81.147181,
@@ -69,9 +69,10 @@
     "wof:concordances":{
         "hasc:id":"LK.BD.PA"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"LK",
     "wof:created":1473899110,
-    "wof:geomhash":"57e40aa21b8b207afa67e601d1643b1c",
+    "wof:geomhash":"6205009f44b9697df5375ede861b7bf5",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -81,7 +82,7 @@
         }
     ],
     "wof:id":1092065181,
-    "wof:lastmodified":1627522339,
+    "wof:lastmodified":1695886794,
     "wof:name":"Passara",
     "wof:parent_id":85673801,
     "wof:placetype":"county",

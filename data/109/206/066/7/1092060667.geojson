@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.04403,
-    "geom:area_square_m":540946215.817359,
+    "geom:area_square_m":540946148.569895,
     "geom:bbox":"81.24935,6.3686,81.609954,6.618729",
     "geom:latitude":6.497327,
     "geom:longitude":81.41074,
@@ -66,9 +66,10 @@
     "wof:concordances":{
         "hasc:id":"LK.MJ.KA"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"LK",
     "wof:created":1473898928,
-    "wof:geomhash":"23b4e9503593f30cc3a5fae263a91204",
+    "wof:geomhash":"2673ef54e9c1c7000774a9c0560b0fc0",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -78,7 +79,7 @@
         }
     ],
     "wof:id":1092060667,
-    "wof:lastmodified":1627522332,
+    "wof:lastmodified":1695886790,
     "wof:name":"Katharagama",
     "wof:parent_id":85673803,
     "wof:placetype":"county",

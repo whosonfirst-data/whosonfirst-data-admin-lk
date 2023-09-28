@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002777,
-    "geom:area_square_m":34028395.717883,
+    "geom:area_square_m":34028227.756817,
     "geom:bbox":"81.710179,7.595237,81.784762,7.681092",
     "geom:latitude":7.640038,
     "geom:longitude":81.748005,
@@ -66,9 +66,10 @@
     "wof:concordances":{
         "hasc:id":"LK.BC.MP"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"LK",
     "wof:created":1473899002,
-    "wof:geomhash":"7ee90ab93a34a1c9812d16160f88bc27",
+    "wof:geomhash":"40ce183f265286249dc3257b2f444647",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -78,7 +79,7 @@
         }
     ],
     "wof:id":1092062517,
-    "wof:lastmodified":1627522335,
+    "wof:lastmodified":1695886792,
     "wof:name":"Manmunai Pattu (Araipattai)",
     "wof:parent_id":85673737,
     "wof:placetype":"county",

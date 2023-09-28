@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.007172,
-    "geom:area_square_m":88011524.120395,
+    "geom:area_square_m":88011562.780407,
     "geom:bbox":"79.924,7.011728,80.054216,7.115657",
     "geom:latitude":7.068745,
     "geom:longitude":79.995588,
@@ -196,9 +196,10 @@
         "hasc:id":"LK.GQ.GA",
         "wd:id":"Q206344"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"LK",
     "wof:created":1473898850,
-    "wof:geomhash":"28b5776fe0102a99f42f4425c4ac29fa",
+    "wof:geomhash":"d1fb0e2ba802779c0bfb88f4e3a01e39",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -208,7 +209,7 @@
         }
     ],
     "wof:id":1092058643,
-    "wof:lastmodified":1690938549,
+    "wof:lastmodified":1695886759,
     "wof:name":"Gampaha",
     "wof:parent_id":85673815,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.037531,
-    "geom:area_square_m":459695367.311932,
+    "geom:area_square_m":459695367.312018,
     "geom:bbox":"80.6072621001,7.73585699514,80.8478918169,8.01159206949",
     "geom:latitude":7.875643,
     "geom:longitude":80.719454,
@@ -132,9 +132,10 @@
     "wof:concordances":{
         "hasc:id":"LK.MT.DA"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"LK",
     "wof:created":1473898807,
-    "wof:geomhash":"2aa11cc71802e61134d4059b0e2cc1a1",
+    "wof:geomhash":"945745fcb3d52ee6b5302b577bad7e74",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -144,7 +145,7 @@
         }
     ],
     "wof:id":1092057503,
-    "wof:lastmodified":1566595274,
+    "wof:lastmodified":1695886707,
     "wof:name":"Dambulla",
     "wof:parent_id":85673723,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.014149,
-    "geom:area_square_m":173418999.255219,
+    "geom:area_square_m":173419126.098329,
     "geom:bbox":"79.99811,7.486851,80.194745,7.678813",
     "geom:latitude":7.600363,
     "geom:longitude":80.077154,
@@ -66,9 +66,10 @@
     "wof:concordances":{
         "hasc:id":"LK.KG.PD"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"LK",
     "wof:created":1473899093,
-    "wof:geomhash":"c79168d7390b25b33a75f3089101fca8",
+    "wof:geomhash":"d2410666c3b582c2c82b532e7324434d",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -78,7 +79,7 @@
         }
     ],
     "wof:id":1092064771,
-    "wof:lastmodified":1627522339,
+    "wof:lastmodified":1695886794,
     "wof:name":"Paduwasnuwara West",
     "wof:parent_id":85673777,
     "wof:placetype":"county",

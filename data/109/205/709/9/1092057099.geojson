@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.008251,
-    "geom:area_square_m":101453672.708828,
+    "geom:area_square_m":101453794.202684,
     "geom:bbox":"80.65693,5.99,80.774948,6.116994",
     "geom:latitude":6.051111,
     "geom:longitude":80.720259,
@@ -66,9 +66,10 @@
     "wof:concordances":{
         "hasc:id":"LK.HB.BE"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"LK",
     "wof:created":1473898788,
-    "wof:geomhash":"9fdb577af316b5b0492ca19feee3fc2a",
+    "wof:geomhash":"c7e82aedc42ab455d997deedc2131bae",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -78,7 +79,7 @@
         }
     ],
     "wof:id":1092057099,
-    "wof:lastmodified":1627522327,
+    "wof:lastmodified":1695886787,
     "wof:name":"Beliatta",
     "wof:parent_id":85673791,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.005588,
-    "geom:area_square_m":68544215.884482,
+    "geom:area_square_m":68544456.868258,
     "geom:bbox":"81.680843,7.189539,81.773357,7.296455",
     "geom:latitude":7.243151,
     "geom:longitude":81.728979,
@@ -72,9 +72,10 @@
     "wof:concordances":{
         "hasc:id":"LK.AP.ER"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"LK",
     "wof:created":1473898888,
-    "wof:geomhash":"9712065cfa699949fd0d24afa5f9b385",
+    "wof:geomhash":"54ca85cc7e4b57bd0bc9f41203c49648",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -84,7 +85,7 @@
         }
     ],
     "wof:id":1092059725,
-    "wof:lastmodified":1627522331,
+    "wof:lastmodified":1695886789,
     "wof:name":"Irakkamam",
     "wof:parent_id":85673733,
     "wof:placetype":"county",

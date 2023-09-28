@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.011409,
-    "geom:area_square_m":140000968.38189,
+    "geom:area_square_m":140001068.770685,
     "geom:bbox":"80.165006,6.976227,80.284019,7.157577",
     "geom:latitude":7.063486,
     "geom:longitude":80.218854,
@@ -66,9 +66,10 @@
     "wof:concordances":{
         "hasc:id":"LK.KE.RU"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"LK",
     "wof:created":1473899141,
-    "wof:geomhash":"fe45f0989c3b5c95ed2649806487d0c1",
+    "wof:geomhash":"00e9aa1149ab84a4a0e05be075ec59bf",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -78,7 +79,7 @@
         }
     ],
     "wof:id":1092065993,
-    "wof:lastmodified":1627522340,
+    "wof:lastmodified":1695886795,
     "wof:name":"Ruwanwella",
     "wof:parent_id":85673807,
     "wof:placetype":"county",

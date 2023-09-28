@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.006298,
-    "geom:area_square_m":77225988.846275,
+    "geom:area_square_m":77225977.370468,
     "geom:bbox":"80.566946,7.381617,80.711946,7.491402",
     "geom:latitude":7.428392,
     "geom:longitude":80.638399,
@@ -69,9 +69,10 @@
     "wof:concordances":{
         "hasc:id":"LK.MT.UK"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"LK",
     "wof:created":1473899187,
-    "wof:geomhash":"da9640edb005412f004f50149ab2f9e2",
+    "wof:geomhash":"4ab070f88b7ee5c3ac669963583570d5",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -81,7 +82,7 @@
         }
     ],
     "wof:id":1092067025,
-    "wof:lastmodified":1627522342,
+    "wof:lastmodified":1695886795,
     "wof:name":"Ukuwela",
     "wof:parent_id":85673723,
     "wof:placetype":"county",

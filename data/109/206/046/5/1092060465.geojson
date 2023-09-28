@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.02561,
-    "geom:area_square_m":312454727.798221,
+    "geom:area_square_m":312454532.198521,
     "geom:bbox":"80.227976,9.297241,80.521382,9.467055",
     "geom:latitude":9.368168,
     "geom:longitude":80.36991,
@@ -66,9 +66,10 @@
     "wof:concordances":{
         "hasc:id":"LK.KL.KR"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"LK",
     "wof:created":1473898918,
-    "wof:geomhash":"aa9eba1e46769a2baaa27c908a28d141",
+    "wof:geomhash":"c831fd9cd78ec1358a3e3c367cc27a01",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -78,7 +79,7 @@
         }
     ],
     "wof:id":1092060465,
-    "wof:lastmodified":1627522332,
+    "wof:lastmodified":1695886790,
     "wof:name":"Karachchi",
     "wof:parent_id":85673773,
     "wof:placetype":"county",

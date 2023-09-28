@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.027397,
-    "geom:area_square_m":334944911.231613,
+    "geom:area_square_m":334944971.436203,
     "geom:bbox":"80.888131,8.537581,81.141442,8.738136",
     "geom:latitude":8.62032,
     "geom:longitude":81.022332,
@@ -66,9 +66,10 @@
     "wof:concordances":{
         "hasc:id":"LK.TC.MO"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"LK",
     "wof:created":1473899045,
-    "wof:geomhash":"a4f203ed0bfb33213ae7bf952cadfabd",
+    "wof:geomhash":"422cd57c636815cc35ae353a48de515f",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -78,7 +79,7 @@
         }
     ],
     "wof:id":1092063515,
-    "wof:lastmodified":1627522337,
+    "wof:lastmodified":1695886793,
     "wof:name":"Morawewa",
     "wof:parent_id":85673747,
     "wof:placetype":"county",

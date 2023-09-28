@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.026001,
-    "geom:area_square_m":319051012.349433,
+    "geom:area_square_m":319051501.24609,
     "geom:bbox":"80.796688,6.971583,80.965365,7.202805",
     "geom:latitude":7.092658,
     "geom:longitude":80.886837,
@@ -66,9 +66,10 @@
     "wof:concordances":{
         "hasc:id":"LK.NW.WA"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"LK",
     "wof:created":1473899212,
-    "wof:geomhash":"e8dd42db1f090c64b30d74670a135430",
+    "wof:geomhash":"f3ab5db992586b9fb761530aa57ff0fb",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -78,7 +79,7 @@
         }
     ],
     "wof:id":1092067535,
-    "wof:lastmodified":1627522343,
+    "wof:lastmodified":1695886796,
     "wof:name":"Walapane",
     "wof:parent_id":85673731,
     "wof:placetype":"county",

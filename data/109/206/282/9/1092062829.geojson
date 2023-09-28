@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.005717,
-    "geom:area_square_m":70081299.758805,
+    "geom:area_square_m":70081141.449182,
     "geom:bbox":"80.289451,7.488098,80.369165,7.660217",
     "geom:latitude":7.557765,
     "geom:longitude":80.323868,
@@ -66,9 +66,10 @@
     "wof:concordances":{
         "hasc:id":"LK.KG.MS"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"LK",
     "wof:created":1473899014,
-    "wof:geomhash":"b40e4b0da619603a43c1b4354c5902ea",
+    "wof:geomhash":"9cde6c50fc026a86223884d8647b0159",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -78,7 +79,7 @@
         }
     ],
     "wof:id":1092062829,
-    "wof:lastmodified":1627522336,
+    "wof:lastmodified":1695886792,
     "wof:name":"Maspotha",
     "wof:parent_id":85673777,
     "wof:placetype":"county",

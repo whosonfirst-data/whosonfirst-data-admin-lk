@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.029054,
-    "geom:area_square_m":355929012.721253,
+    "geom:area_square_m":355929030.534747,
     "geom:bbox":"80.760964,7.672287,80.910858,7.977683",
     "geom:latitude":7.808579,
     "geom:longitude":80.841926,
@@ -66,9 +66,10 @@
     "wof:concordances":{
         "hasc:id":"LK.PR.EL"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"LK",
     "wof:created":1473898832,
-    "wof:geomhash":"1b8b971a4ffface16a9b29a392795ad6",
+    "wof:geomhash":"5c2e5b56ae9cdaececf9b628b6f0e0b2",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -78,7 +79,7 @@
         }
     ],
     "wof:id":1092058177,
-    "wof:lastmodified":1627522329,
+    "wof:lastmodified":1695886788,
     "wof:name":"Elahera",
     "wof:parent_id":85673743,
     "wof:placetype":"county",

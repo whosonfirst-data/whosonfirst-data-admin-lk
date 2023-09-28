@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.011372,
-    "geom:area_square_m":139582616.00721,
+    "geom:area_square_m":139582594.745777,
     "geom:bbox":"80.83067,6.907498,80.987248,7.064111",
     "geom:latitude":6.967405,
     "geom:longitude":80.91745,
@@ -66,9 +66,10 @@
     "wof:concordances":{
         "hasc:id":"LK.BD.UP"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"LK",
     "wof:created":1473899188,
-    "wof:geomhash":"df83108c2b525851bbc0a3f7e6b17573",
+    "wof:geomhash":"e5733a0b4a037352a4a37ae256b8f0a5",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -78,7 +79,7 @@
         }
     ],
     "wof:id":1092067051,
-    "wof:lastmodified":1627522342,
+    "wof:lastmodified":1695886796,
     "wof:name":"Uva Paranagama",
     "wof:parent_id":85673801,
     "wof:placetype":"county",

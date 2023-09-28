@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.007945,
-    "geom:area_square_m":97434399.860873,
+    "geom:area_square_m":97434200.909164,
     "geom:bbox":"80.262361,7.316618,80.357239,7.439746",
     "geom:latitude":7.374871,
     "geom:longitude":80.310467,
@@ -72,9 +72,10 @@
     "wof:concordances":{
         "hasc:id":"LK.KG.PH"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"LK",
     "wof:created":1473899117,
-    "wof:geomhash":"439b94fa3f21085e151f4840c7711b4b",
+    "wof:geomhash":"9c6df412fb93585c7f10f7338eacb46a",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -84,7 +85,7 @@
         }
     ],
     "wof:id":1092065381,
-    "wof:lastmodified":1627522340,
+    "wof:lastmodified":1695886794,
     "wof:name":"Polgahawela",
     "wof:parent_id":85673777,
     "wof:placetype":"county",

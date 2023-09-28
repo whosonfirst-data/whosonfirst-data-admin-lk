@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.055051,
-    "geom:area_square_m":674788966.989265,
+    "geom:area_square_m":674789310.551899,
     "geom:bbox":"81.20682,7.356559,81.500253,7.738533",
     "geom:latitude":7.562532,
     "geom:longitude":81.349252,
@@ -66,9 +66,10 @@
     "wof:concordances":{
         "hasc:id":"LK.AP.MA"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"LK",
     "wof:created":1473898988,
-    "wof:geomhash":"d0fb57cad58ffbdf0edef5c0c3da1dbb",
+    "wof:geomhash":"58172c33be080d19d3060f4f6134b63b",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -78,7 +79,7 @@
         }
     ],
     "wof:id":1092062135,
-    "wof:lastmodified":1627522335,
+    "wof:lastmodified":1695886792,
     "wof:name":"Mahaoya",
     "wof:parent_id":85673733,
     "wof:placetype":"county",

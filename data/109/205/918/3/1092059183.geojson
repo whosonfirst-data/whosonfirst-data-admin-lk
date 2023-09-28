@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.005623,
-    "geom:area_square_m":69038855.382224,
+    "geom:area_square_m":69038801.560566,
     "geom:bbox":"80.906037,6.750133,81.034416,6.839361",
     "geom:latitude":6.791422,
     "geom:longitude":80.96269,
@@ -84,9 +84,10 @@
     "wof:concordances":{
         "hasc:id":"LK.BD.HA"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"LK",
     "wof:created":1473898870,
-    "wof:geomhash":"89b79ada8ac6efb89a5fe8e693cb505a",
+    "wof:geomhash":"f270a2ede5a2e385a94971a26645d769",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -96,7 +97,7 @@
         }
     ],
     "wof:id":1092059183,
-    "wof:lastmodified":1627522330,
+    "wof:lastmodified":1695886789,
     "wof:name":"Haputale",
     "wof:parent_id":85673801,
     "wof:placetype":"county",

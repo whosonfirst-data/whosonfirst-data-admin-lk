@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003724,
-    "geom:area_square_m":45783550.23715,
+    "geom:area_square_m":45783674.021386,
     "geom:bbox":"80.598027,6.065344,80.697626,6.1319",
     "geom:latitude":6.09606,
     "geom:longitude":80.651448,
@@ -66,9 +66,10 @@
     "wof:concordances":{
         "hasc:id":"LK.MH.HA"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"LK",
     "wof:created":1473898862,
-    "wof:geomhash":"db6ddec5bf5a1362c42e54977f6d6230",
+    "wof:geomhash":"1aa455e658e3147126b97d068b0223c5",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -78,7 +79,7 @@
         }
     ],
     "wof:id":1092058979,
-    "wof:lastmodified":1627522330,
+    "wof:lastmodified":1695886789,
     "wof:name":"Hakmana",
     "wof:parent_id":85673795,
     "wof:placetype":"county",

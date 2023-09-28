@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.012262,
-    "geom:area_square_m":149920245.723712,
+    "geom:area_square_m":149920581.81798,
     "geom:bbox":"81.109945,8.502889,81.24958,8.660849",
     "geom:latitude":8.578484,
     "geom:longitude":81.176396,
@@ -66,9 +66,10 @@
     "wof:concordances":{
         "hasc:id":"LK.TC.TT"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"LK",
     "wof:created":1473899178,
-    "wof:geomhash":"91f32dc9e7915ae33cc7039af8576f30",
+    "wof:geomhash":"49168cccd6f6fc31b4e7840f1f8918da",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -78,7 +79,7 @@
         }
     ],
     "wof:id":1092066907,
-    "wof:lastmodified":1627522342,
+    "wof:lastmodified":1695886795,
     "wof:name":"Trincomalee Town and Gravets",
     "wof:parent_id":85673747,
     "wof:placetype":"county",

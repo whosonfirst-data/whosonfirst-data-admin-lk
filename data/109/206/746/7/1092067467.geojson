@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.008331,
-    "geom:area_square_m":101938855.784297,
+    "geom:area_square_m":101938757.241363,
     "geom:bbox":"81.268738,8.25215,81.404556,8.410573",
     "geom:latitude":8.301112,
     "geom:longitude":81.346394,
@@ -66,9 +66,10 @@
     "wof:concordances":{
         "hasc:id":"LK.TC.VE"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"LK",
     "wof:created":1473899209,
-    "wof:geomhash":"8a01583c59aae6618c0c10fd54fe7793",
+    "wof:geomhash":"f07e4e61dbbc45d7866522405b68bf7c",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -78,7 +79,7 @@
         }
     ],
     "wof:id":1092067467,
-    "wof:lastmodified":1627522343,
+    "wof:lastmodified":1695886796,
     "wof:name":"Verugal Eachchilampattu",
     "wof:parent_id":85673747,
     "wof:placetype":"county",

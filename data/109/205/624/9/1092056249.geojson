@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002474,
-    "geom:area_square_m":30337620.864622,
+    "geom:area_square_m":30337820.418181,
     "geom:bbox":"80.585984,7.357848,80.660927,7.429074",
     "geom:latitude":7.39046,
     "geom:longitude":80.619491,
@@ -69,9 +69,10 @@
     "wof:concordances":{
         "hasc:id":"LK.KY.AK"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"LK",
     "wof:created":1473898753,
-    "wof:geomhash":"7e7a8e121e0bf3f2b6d86a1d82073a5a",
+    "wof:geomhash":"53fabf551498bb381c0bf6b6760301de",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -81,7 +82,7 @@
         }
     ],
     "wof:id":1092056249,
-    "wof:lastmodified":1627522326,
+    "wof:lastmodified":1695886786,
     "wof:name":"Akurana",
     "wof:parent_id":85673719,
     "wof:placetype":"county",

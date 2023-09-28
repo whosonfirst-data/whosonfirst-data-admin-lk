@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.009362,
-    "geom:area_square_m":114714696.996401,
+    "geom:area_square_m":114714757.212671,
     "geom:bbox":"79.860309,7.624148,80.001295,7.783984",
     "geom:latitude":7.727702,
     "geom:longitude":79.931432,
@@ -66,9 +66,10 @@
     "wof:concordances":{
         "hasc:id":"LK.PX.PA"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"LK",
     "wof:created":1473899098,
-    "wof:geomhash":"ad5a3804a67ede3b3b0f696bccdf811c",
+    "wof:geomhash":"2f8653385a307b7f8c4614d6c8ff5127",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -78,7 +79,7 @@
         }
     ],
     "wof:id":1092064867,
-    "wof:lastmodified":1627522339,
+    "wof:lastmodified":1695886794,
     "wof:name":"Pallama",
     "wof:parent_id":85673779,
     "wof:placetype":"county",

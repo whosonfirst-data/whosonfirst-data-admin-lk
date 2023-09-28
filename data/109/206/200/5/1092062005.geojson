@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.059276,
-    "geom:area_square_m":727242832.557274,
+    "geom:area_square_m":727242281.114617,
     "geom:bbox":"81.309775,6.904405,81.552494,7.458746",
     "geom:latitude":7.159191,
     "geom:longitude":81.429519,
@@ -69,9 +69,10 @@
     "wof:concordances":{
         "hasc:id":"LK.MJ.MA"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"LK",
     "wof:created":1473898983,
-    "wof:geomhash":"60ba4c1cd556bf9c788d09597c4b989d",
+    "wof:geomhash":"8ef682c70cefd49543af4a044b767182",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -81,7 +82,7 @@
         }
     ],
     "wof:id":1092062005,
-    "wof:lastmodified":1627522334,
+    "wof:lastmodified":1695886791,
     "wof:name":"Madulla",
     "wof:parent_id":85673803,
     "wof:placetype":"county",

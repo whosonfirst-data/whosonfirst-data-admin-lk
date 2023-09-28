@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00553,
-    "geom:area_square_m":67841110.512263,
+    "geom:area_square_m":67841020.411876,
     "geom:bbox":"80.513498,7.18118,80.604529,7.263393",
     "geom:latitude":7.22284,
     "geom:longitude":80.561107,
@@ -66,9 +66,10 @@
     "wof:concordances":{
         "hasc:id":"LK.KY.UN"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"LK",
     "wof:created":1473899184,
-    "wof:geomhash":"f98c13563d1cdcd7f8198c5e741aa6a8",
+    "wof:geomhash":"cb2e8ba543d7600164db901df2582269",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -78,7 +79,7 @@
         }
     ],
     "wof:id":1092066991,
-    "wof:lastmodified":1627522342,
+    "wof:lastmodified":1695886795,
     "wof:name":"Udunuwara",
     "wof:parent_id":85673719,
     "wof:placetype":"county",

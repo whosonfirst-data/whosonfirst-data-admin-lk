@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.015779,
-    "geom:area_square_m":193908892.237183,
+    "geom:area_square_m":193908582.990581,
     "geom:bbox":"80.841364,6.297704,81.021496,6.445085",
     "geom:latitude":6.37834,
     "geom:longitude":80.933347,
@@ -66,9 +66,10 @@
     "wof:concordances":{
         "hasc:id":"LK.MJ.SE"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"LK",
     "wof:created":1473899149,
-    "wof:geomhash":"37c87b1db7f1089aa3c3c7cca63f1635",
+    "wof:geomhash":"08077f72ec1d468575123b9bead332f8",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -78,7 +79,7 @@
         }
     ],
     "wof:id":1092066175,
-    "wof:lastmodified":1627522341,
+    "wof:lastmodified":1695886795,
     "wof:name":"Sevanagala",
     "wof:parent_id":85673803,
     "wof:placetype":"county",

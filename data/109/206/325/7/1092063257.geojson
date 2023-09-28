@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.019273,
-    "geom:area_square_m":235791052.276995,
+    "geom:area_square_m":235790971.093404,
     "geom:bbox":"80.430663,8.273006,80.660105,8.432348",
     "geom:latitude":8.350194,
     "geom:longitude":80.543354,
@@ -66,9 +66,10 @@
     "wof:concordances":{
         "hasc:id":"LK.AD.MI"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"LK",
     "wof:created":1473899035,
-    "wof:geomhash":"865126f3c458ef598ff140a701ec23fd",
+    "wof:geomhash":"b8700162010a69dadb0153e03ea198fc",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -78,7 +79,7 @@
         }
     ],
     "wof:id":1092063257,
-    "wof:lastmodified":1627522336,
+    "wof:lastmodified":1695886793,
     "wof:name":"Mihinthale",
     "wof:parent_id":85673751,
     "wof:placetype":"county",

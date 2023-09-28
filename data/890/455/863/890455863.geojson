@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000906,
-    "geom:area_square_m":11040715.340612,
+    "geom:area_square_m":11040559.468685,
     "geom:bbox":"80.000137,9.642889,80.044492,9.681768",
     "geom:latitude":9.660149,
     "geom:longitude":80.022453,
@@ -156,12 +156,13 @@
         "wd:id":"Q1520182",
         "wk:page":"Jaffna District"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"LK",
     "wof:created":1469052978,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"abe0268fb66ac064d1da7d4382bd4716",
+    "wof:geomhash":"8bdcc8275bac719216bd81ea8de698ef",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -171,7 +172,7 @@
         }
     ],
     "wof:id":890455863,
-    "wof:lastmodified":1690938574,
+    "wof:lastmodified":1695886782,
     "wof:name":"Jaffna",
     "wof:parent_id":85673769,
     "wof:placetype":"county",

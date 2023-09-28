@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.060345,
-    "geom:area_square_m":741145176.557281,
+    "geom:area_square_m":741145169.039191,
     "geom:bbox":"81.142014,6.460978,81.487719,6.811109",
     "geom:latitude":6.655503,
     "geom:longitude":81.294792,
@@ -69,9 +69,10 @@
     "wof:concordances":{
         "hasc:id":"LK.MJ.BU"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"LK",
     "wof:created":1473898801,
-    "wof:geomhash":"b4a85bac22145c1cfa52fa8304fb5409",
+    "wof:geomhash":"6898fd523726765474e8a4a26f35115f",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -81,7 +82,7 @@
         }
     ],
     "wof:id":1092057329,
-    "wof:lastmodified":1627522328,
+    "wof:lastmodified":1695886788,
     "wof:name":"Buttala",
     "wof:parent_id":85673803,
     "wof:placetype":"county",

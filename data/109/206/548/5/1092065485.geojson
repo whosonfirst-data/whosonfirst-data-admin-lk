@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.014507,
-    "geom:area_square_m":177848723.349405,
+    "geom:area_square_m":177848956.883948,
     "geom:bbox":"81.640452,7.406238,81.784015,7.573104",
     "geom:latitude":7.50083,
     "geom:longitude":81.710016,
@@ -66,9 +66,10 @@
     "wof:concordances":{
         "hasc:id":"LK.BC.PP"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"LK",
     "wof:created":1473899122,
-    "wof:geomhash":"5e7fcdb2dc5855e7d8c9a6de5885e0d7",
+    "wof:geomhash":"b3cf2bf9092e670abe9b80280b188c4f",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -78,7 +79,7 @@
         }
     ],
     "wof:id":1092065485,
-    "wof:lastmodified":1627522340,
+    "wof:lastmodified":1695886794,
     "wof:name":"Poratheevu Pattu",
     "wof:parent_id":85673737,
     "wof:placetype":"county",

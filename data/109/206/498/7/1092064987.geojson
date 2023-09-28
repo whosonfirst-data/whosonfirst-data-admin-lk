@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004758,
-    "geom:area_square_m":58429558.517939,
+    "geom:area_square_m":58429506.030187,
     "geom:bbox":"79.878959,6.64697,79.955867,6.773583",
     "geom:latitude":6.715905,
     "geom:longitude":79.918633,
@@ -84,9 +84,10 @@
     "wof:concordances":{
         "hasc:id":"LK.KT.PN"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"LK",
     "wof:created":1473899102,
-    "wof:geomhash":"cd081dbf29b6b3f61a4bb7d4b97d4d15",
+    "wof:geomhash":"dfa9da98a5b77bd973d6d160c53ab783",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -96,7 +97,7 @@
         }
     ],
     "wof:id":1092064987,
-    "wof:lastmodified":1627522339,
+    "wof:lastmodified":1695886794,
     "wof:name":"Panadura",
     "wof:parent_id":85673819,
     "wof:placetype":"county",

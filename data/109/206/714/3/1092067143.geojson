@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004576,
-    "geom:area_square_m":55765302.639814,
+    "geom:area_square_m":55765266.681866,
     "geom:bbox":"79.987802,9.751787,80.094872,9.814584",
     "geom:latitude":9.787566,
     "geom:longitude":80.040868,
@@ -66,9 +66,10 @@
     "wof:concordances":{
         "hasc:id":"LK.JA.VN"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"LK",
     "wof:created":1473899197,
-    "wof:geomhash":"1542e6bc6b29cb89f83e16a139205b0a",
+    "wof:geomhash":"f9c369dfbf3b1cd835faa6b06d94d704",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -78,7 +79,7 @@
         }
     ],
     "wof:id":1092067143,
-    "wof:lastmodified":1627522343,
+    "wof:lastmodified":1695886796,
     "wof:name":"Valikamam North",
     "wof:parent_id":85673769,
     "wof:placetype":"county",

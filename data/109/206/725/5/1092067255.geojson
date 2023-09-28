@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003786,
-    "geom:area_square_m":46134192.098051,
+    "geom:area_square_m":46133993.57967,
     "geom:bbox":"79.906219,9.687889,79.98328,9.781616",
     "geom:latitude":9.739443,
     "geom:longitude":79.947223,
@@ -66,9 +66,10 @@
     "wof:concordances":{
         "hasc:id":"LK.JA.VW"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"LK",
     "wof:created":1473899201,
-    "wof:geomhash":"551c2353151928431d2e729aa0e28aea",
+    "wof:geomhash":"d2e260a505901fbab22bac0ab2ed1ed2",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -78,7 +79,7 @@
         }
     ],
     "wof:id":1092067255,
-    "wof:lastmodified":1627522343,
+    "wof:lastmodified":1695886796,
     "wof:name":"Valikamam West (Chankanai)",
     "wof:parent_id":85673769,
     "wof:placetype":"county",

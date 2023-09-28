@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.023547,
-    "geom:area_square_m":288138361.153809,
+    "geom:area_square_m":288138309.265317,
     "geom:bbox":"80.606984,8.163237,80.808429,8.353461",
     "geom:latitude":8.267199,
     "geom:longitude":80.706915,
@@ -66,9 +66,10 @@
     "wof:concordances":{
         "hasc:id":"LK.AD.GB"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"LK",
     "wof:created":1473898842,
-    "wof:geomhash":"ae74bb0bae7c58f0dac375874555e22a",
+    "wof:geomhash":"fd3a9e64cc8057b1a6313db9d36494fb",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -78,7 +79,7 @@
         }
     ],
     "wof:id":1092058467,
-    "wof:lastmodified":1627522329,
+    "wof:lastmodified":1695886788,
     "wof:name":"Galenbindunuwewa",
     "wof:parent_id":85673751,
     "wof:placetype":"county",

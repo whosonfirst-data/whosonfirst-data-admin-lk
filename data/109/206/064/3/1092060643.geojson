@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.008805,
-    "geom:area_square_m":108013632.906315,
+    "geom:area_square_m":108013632.906395,
     "geom:bbox":"79.8516651571,7.10687042921,79.9331685994,7.28042286838",
     "geom:latitude":7.195906,
     "geom:longitude":79.888874,
@@ -231,9 +231,10 @@
     "wof:concordances":{
         "hasc:id":"LK.GQ.KA"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"LK",
     "wof:created":1473898926,
-    "wof:geomhash":"44809f1fd7105bce3178bc2efa9825c2",
+    "wof:geomhash":"d5b59dd0ffd417ad78492a7e70d4e3f2",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -243,7 +244,7 @@
         }
     ],
     "wof:id":1092060643,
-    "wof:lastmodified":1566595293,
+    "wof:lastmodified":1695886708,
     "wof:name":"Katana",
     "wof:parent_id":85673815,
     "wof:placetype":"county",

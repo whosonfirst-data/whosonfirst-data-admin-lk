@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.014242,
-    "geom:area_square_m":175071480.744738,
+    "geom:area_square_m":175071385.515333,
     "geom:bbox":"80.236724,6.135636,80.401491,6.28722",
     "geom:latitude":6.199971,
     "geom:longitude":80.312656,
@@ -66,9 +66,10 @@
     "wof:concordances":{
         "hasc:id":"LK.GL.NA"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"LK",
     "wof:created":1473899054,
-    "wof:geomhash":"0306eaf88a1d87efc348b1e7b9845f76",
+    "wof:geomhash":"c9d8e5f8ea76b2a681d7a561e63d89da",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -78,7 +79,7 @@
         }
     ],
     "wof:id":1092063765,
-    "wof:lastmodified":1627522337,
+    "wof:lastmodified":1695886793,
     "wof:name":"Nagoda",
     "wof:parent_id":85673789,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.010924,
-    "geom:area_square_m":133470112.358395,
+    "geom:area_square_m":133470212.385328,
     "geom:bbox":"79.911224,8.785819,80.097266,8.939006",
     "geom:latitude":8.834544,
     "geom:longitude":79.996882,
@@ -66,9 +66,10 @@
     "wof:concordances":{
         "hasc:id":"LK.MB.NA"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"LK",
     "wof:created":1473899057,
-    "wof:geomhash":"d9d4acde2686fafe23d689f993a436da",
+    "wof:geomhash":"226fde3c27c96c54db4aa52adafde073",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -78,7 +79,7 @@
         }
     ],
     "wof:id":1092063841,
-    "wof:lastmodified":1627522337,
+    "wof:lastmodified":1695886793,
     "wof:name":"Nanattan",
     "wof:parent_id":85673761,
     "wof:placetype":"county",

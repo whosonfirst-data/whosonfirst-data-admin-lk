@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.024442,
-    "geom:area_square_m":300386647.338407,
+    "geom:area_square_m":300386822.914159,
     "geom:bbox":"81.045321,6.192084,81.30849,6.42242",
     "geom:latitude":6.331008,
     "geom:longitude":81.166586,
@@ -66,9 +66,10 @@
     "wof:concordances":{
         "hasc:id":"LK.HB.LU"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"LK",
     "wof:created":1473898979,
-    "wof:geomhash":"1470a471773f6d31813c25a2029f8e61",
+    "wof:geomhash":"f2ce4c863033a202f0cda591d480fbf9",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -78,7 +79,7 @@
         }
     ],
     "wof:id":1092061903,
-    "wof:lastmodified":1627522334,
+    "wof:lastmodified":1695886791,
     "wof:name":"Lunugamvehera",
     "wof:parent_id":85673791,
     "wof:placetype":"county",

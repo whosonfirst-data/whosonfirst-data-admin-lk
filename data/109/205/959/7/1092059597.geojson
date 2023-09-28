@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.020961,
-    "geom:area_square_m":257412496.463923,
+    "geom:area_square_m":257412536.596893,
     "geom:bbox":"80.587762,6.632263,80.858944,6.788483",
     "geom:latitude":6.715237,
     "geom:longitude":80.736914,
@@ -66,9 +66,10 @@
     "wof:concordances":{
         "hasc:id":"LK.RN.IM"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"LK",
     "wof:created":1473898884,
-    "wof:geomhash":"45c7fce273fddd63336db5acca38f7e1",
+    "wof:geomhash":"7de263231b59857177bbe873e45e1b11",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -78,7 +79,7 @@
         }
     ],
     "wof:id":1092059597,
-    "wof:lastmodified":1627522331,
+    "wof:lastmodified":1695886789,
     "wof:name":"Imbulpe",
     "wof:parent_id":85673785,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.011597,
-    "geom:area_square_m":141997844.18462,
+    "geom:area_square_m":141997955.583699,
     "geom:bbox":"80.358296,7.946034,80.519507,8.090183",
     "geom:latitude":8.019717,
     "geom:longitude":80.449604,
@@ -66,9 +66,10 @@
     "wof:concordances":{
         "hasc:id":"LK.AD.GN"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"LK",
     "wof:created":1473898849,
-    "wof:geomhash":"41f47f9cef08dbaabc788289ef261df7",
+    "wof:geomhash":"f87db3a1005c53cf8b78765097c6f6ca",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -78,7 +79,7 @@
         }
     ],
     "wof:id":1092058635,
-    "wof:lastmodified":1627522330,
+    "wof:lastmodified":1695886788,
     "wof:name":"Galnewa",
     "wof:parent_id":85673751,
     "wof:placetype":"county",

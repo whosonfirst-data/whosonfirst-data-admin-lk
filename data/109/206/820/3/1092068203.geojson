@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.008939,
-    "geom:area_square_m":109911069.905087,
+    "geom:area_square_m":109910823.405119,
     "geom:bbox":"80.281406,6.053446,80.43722,6.162181",
     "geom:latitude":6.106801,
     "geom:longitude":80.359426,
@@ -72,9 +72,10 @@
     "wof:concordances":{
         "hasc:id":"LK.GL.YA"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"LK",
     "wof:created":1473899238,
-    "wof:geomhash":"62624d8d1c3ec2d5ffeac62713e341f1",
+    "wof:geomhash":"756944fa39407b78e19f3638ee2abb62",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -84,7 +85,7 @@
         }
     ],
     "wof:id":1092068203,
-    "wof:lastmodified":1627522344,
+    "wof:lastmodified":1695886797,
     "wof:name":"Yakkalamulla",
     "wof:parent_id":85673789,
     "wof:placetype":"county",

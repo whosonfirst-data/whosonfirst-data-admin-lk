@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.050698,
-    "geom:area_square_m":619457333.104082,
+    "geom:area_square_m":619457354.117159,
     "geom:bbox":"80.275697,8.665499,80.61766,8.977662",
     "geom:latitude":8.833942,
     "geom:longitude":80.456652,
@@ -145,9 +145,10 @@
         "hasc:id":"LK.VA.VA",
         "wd:id":"Q527980"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"LK",
     "wof:created":1473899206,
-    "wof:geomhash":"df35e182e2df109fb30d4304d14d7e8e",
+    "wof:geomhash":"32b71a69577dd3c09bacfef12ecca7aa",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -157,7 +158,7 @@
         }
     ],
     "wof:id":1092067383,
-    "wof:lastmodified":1690938549,
+    "wof:lastmodified":1695886707,
     "wof:name":"Vavuniya",
     "wof:parent_id":85673757,
     "wof:placetype":"county",
