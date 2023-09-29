@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.006681,
-    "geom:area_square_m":81919644.632998,
+    "geom:area_square_m":81919774.848054,
     "geom:bbox":"81.712494,7.362491,81.826442,7.478883",
     "geom:latitude":7.418021,
     "geom:longitude":81.76738,
@@ -66,9 +66,10 @@
     "wof:concordances":{
         "hasc:id":"LK.AP.NA"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"LK",
     "wof:created":1473899063,
-    "wof:geomhash":"227d414caba1b365585088f0bb0d6f2b",
+    "wof:geomhash":"51b958f366ecbab50e2584896eecff37",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -78,7 +79,7 @@
         }
     ],
     "wof:id":1092063985,
-    "wof:lastmodified":1627522337,
+    "wof:lastmodified":1695886793,
     "wof:name":"Navithanveli",
     "wof:parent_id":85673733,
     "wof:placetype":"county",

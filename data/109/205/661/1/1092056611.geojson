@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.02102,
-    "geom:area_square_m":257452855.195524,
+    "geom:area_square_m":257452703.782214,
     "geom:bbox":"79.910198,7.778525,80.110456,7.999929",
     "geom:latitude":7.903041,
     "geom:longitude":79.998089,
@@ -75,9 +75,10 @@
     "wof:concordances":{
         "hasc:id":"LK.PX.AN"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"LK",
     "wof:created":1473898766,
-    "wof:geomhash":"5528d235754f06caab2fa0a0284b4abb",
+    "wof:geomhash":"770e29c3f105ca86a3695005977efd9f",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -87,7 +88,7 @@
         }
     ],
     "wof:id":1092056611,
-    "wof:lastmodified":1627522327,
+    "wof:lastmodified":1695886787,
     "wof:name":"Anamaduwa",
     "wof:parent_id":85673779,
     "wof:placetype":"county",

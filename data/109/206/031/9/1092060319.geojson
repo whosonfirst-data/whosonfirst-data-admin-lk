@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.012566,
-    "geom:area_square_m":154176620.224402,
+    "geom:area_square_m":154176547.327663,
     "geom:bbox":"80.944927,7.018744,81.041548,7.228217",
     "geom:latitude":7.129745,
     "geom:longitude":80.993873,
@@ -66,9 +66,10 @@
     "wof:concordances":{
         "hasc:id":"LK.BD.KA"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"LK",
     "wof:created":1473898912,
-    "wof:geomhash":"05bcca1b2ffa9b1ec7415184daa732ff",
+    "wof:geomhash":"d2486dfebeda03dbdf21d51a48b769f1",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -78,7 +79,7 @@
         }
     ],
     "wof:id":1092060319,
-    "wof:lastmodified":1627522332,
+    "wof:lastmodified":1695886790,
     "wof:name":"Kandaketiya",
     "wof:parent_id":85673801,
     "wof:placetype":"county",

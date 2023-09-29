@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.007449,
-    "geom:area_square_m":91516579.876689,
+    "geom:area_square_m":91516567.338832,
     "geom:bbox":"80.116914,6.438093,80.235102,6.580306",
     "geom:latitude":6.515136,
     "geom:longitude":80.174865,
@@ -66,9 +66,10 @@
     "wof:concordances":{
         "hasc:id":"LK.KT.AG"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"LK",
     "wof:created":1473898749,
-    "wof:geomhash":"9a10fde1add6dd5dda55cc6fb4b4c347",
+    "wof:geomhash":"a8668a91f890e36664c9c2c4179c0920",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -78,7 +79,7 @@
         }
     ],
     "wof:id":1092056125,
-    "wof:lastmodified":1627522326,
+    "wof:lastmodified":1695886786,
     "wof:name":"Agalawatta",
     "wof:parent_id":85673819,
     "wof:placetype":"county",

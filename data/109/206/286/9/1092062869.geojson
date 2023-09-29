@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.006184,
-    "geom:area_square_m":75802487.7146,
+    "geom:area_square_m":75802155.478073,
     "geom:bbox":"80.593553,7.447987,80.668652,7.636472",
     "geom:latitude":7.541255,
     "geom:longitude":80.630172,
@@ -193,9 +193,10 @@
         "hasc:id":"LK.MT.MA",
         "wd:id":"Q787421"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"LK",
     "wof:created":1473899016,
-    "wof:geomhash":"cf4d2d2f6e935de9d7fb2c36123c86ad",
+    "wof:geomhash":"961841f7e14c3a54c87ab9a14c793889",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -205,7 +206,7 @@
         }
     ],
     "wof:id":1092062869,
-    "wof:lastmodified":1690938550,
+    "wof:lastmodified":1695886707,
     "wof:name":"Matale",
     "wof:parent_id":85673723,
     "wof:placetype":"county",

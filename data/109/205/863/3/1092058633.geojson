@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002204,
-    "geom:area_square_m":27102318.785598,
+    "geom:area_square_m":27102175.162142,
     "geom:bbox":"80.170251,6.018722,80.242336,6.088909",
     "geom:latitude":6.050704,
     "geom:longitude":80.207919,
@@ -66,9 +66,10 @@
     "wof:concordances":{
         "hasc:id":"LK.GL.GF"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"LK",
     "wof:created":1473898847,
-    "wof:geomhash":"8d0d9ee653b154ee7f7dcf985adead43",
+    "wof:geomhash":"413524c3a5a2bf4390b8f40770b4f482",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -78,7 +79,7 @@
         }
     ],
     "wof:id":1092058633,
-    "wof:lastmodified":1627522330,
+    "wof:lastmodified":1695886788,
     "wof:name":"Galle Four Gravets",
     "wof:parent_id":85673789,
     "wof:placetype":"county",

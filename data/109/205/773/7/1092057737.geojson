@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004054,
-    "geom:area_square_m":49729930.278682,
+    "geom:area_square_m":49730195.381771,
     "geom:bbox":"80.642875,7.128181,80.752033,7.224357",
     "geom:latitude":7.182513,
     "geom:longitude":80.700444,
@@ -66,9 +66,10 @@
     "wof:concordances":{
         "hasc:id":"LK.KY.DE"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"LK",
     "wof:created":1473898816,
-    "wof:geomhash":"0fcf06859a08271c859ae7e3827088e1",
+    "wof:geomhash":"48dfbfad6ee399c09fee7acdcfe88ea5",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -78,7 +79,7 @@
         }
     ],
     "wof:id":1092057737,
-    "wof:lastmodified":1627522328,
+    "wof:lastmodified":1695886788,
     "wof:name":"Delthota",
     "wof:parent_id":85673719,
     "wof:placetype":"county",

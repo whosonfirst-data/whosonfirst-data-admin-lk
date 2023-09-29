@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.009209,
-    "geom:area_square_m":113084702.295801,
+    "geom:area_square_m":113084477.544098,
     "geom:bbox":"79.971322,6.691328,80.111728,6.820216",
     "geom:latitude":6.756342,
     "geom:longitude":80.056074,
@@ -81,9 +81,10 @@
     "wof:concordances":{
         "hasc:id":"LK.KT.HO"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"LK",
     "wof:created":1473898878,
-    "wof:geomhash":"9cef927ca650b68ea15dce40ebd8cce2",
+    "wof:geomhash":"91ab85ad672bbcbb726f94e82baa9193",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -93,7 +94,7 @@
         }
     ],
     "wof:id":1092059431,
-    "wof:lastmodified":1627522331,
+    "wof:lastmodified":1695886789,
     "wof:name":"Horana",
     "wof:parent_id":85673819,
     "wof:placetype":"county",

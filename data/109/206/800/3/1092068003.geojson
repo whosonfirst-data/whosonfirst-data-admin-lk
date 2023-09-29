@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.005491,
-    "geom:area_square_m":67520084.156693,
+    "geom:area_square_m":67519858.025087,
     "geom:bbox":"80.386524,5.964569,80.490784,6.068399",
     "geom:latitude":6.016712,
     "geom:longitude":80.438874,
@@ -66,9 +66,10 @@
     "wof:concordances":{
         "hasc:id":"LK.MH.WP"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"LK",
     "wof:created":1473899230,
-    "wof:geomhash":"efa97b4eddeadd1d09b7e5f04c84bffc",
+    "wof:geomhash":"6d969a1083cf6f5b5eff390f00f252e8",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -78,7 +79,7 @@
         }
     ],
     "wof:id":1092068003,
-    "wof:lastmodified":1627522344,
+    "wof:lastmodified":1695886797,
     "wof:name":"Welipitiya",
     "wof:parent_id":85673795,
     "wof:placetype":"county",

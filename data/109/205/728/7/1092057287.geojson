@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.016986,
-    "geom:area_square_m":208622632.207137,
+    "geom:area_square_m":208622741.408259,
     "geom:bbox":"80.088805,6.567465,80.253351,6.728036",
     "geom:latitude":6.64793,
     "geom:longitude":80.175719,
@@ -66,9 +66,10 @@
     "wof:concordances":{
         "hasc:id":"LK.KT.BU"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"LK",
     "wof:created":1473898800,
-    "wof:geomhash":"9cdd2a19c07fda6633cee0cf90696f88",
+    "wof:geomhash":"cfd56b0709d2b0ed8107145d766497df",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -78,7 +79,7 @@
         }
     ],
     "wof:id":1092057287,
-    "wof:lastmodified":1627522328,
+    "wof:lastmodified":1695886788,
     "wof:name":"Bulathsinhala",
     "wof:parent_id":85673819,
     "wof:placetype":"county",

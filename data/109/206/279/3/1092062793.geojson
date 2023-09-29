@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.049002,
-    "geom:area_square_m":598200114.181855,
+    "geom:area_square_m":598200131.212093,
     "geom:bbox":"80.608878,8.969585,80.963722,9.458844",
     "geom:latitude":9.155987,
     "geom:longitude":80.797571,
@@ -66,9 +66,10 @@
     "wof:concordances":{
         "hasc:id":"LK.MP.MP"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"LK",
     "wof:created":1473899012,
-    "wof:geomhash":"480be60dada2fea12f9206843876cb3c",
+    "wof:geomhash":"1f8e16694f4c9cc07f0cdb2b203c2283",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -78,7 +79,7 @@
         }
     ],
     "wof:id":1092062793,
-    "wof:lastmodified":1627522336,
+    "wof:lastmodified":1695886792,
     "wof:name":"Maritimepattu",
     "wof:parent_id":85673765,
     "wof:placetype":"county",

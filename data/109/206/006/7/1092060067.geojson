@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.008376,
-    "geom:area_square_m":102904007.155701,
+    "geom:area_square_m":102904109.144586,
     "geom:bbox":"80.484131,6.460437,80.599614,6.583305",
     "geom:latitude":6.528492,
     "geom:longitude":80.545447,
@@ -66,9 +66,10 @@
     "wof:concordances":{
         "hasc:id":"LK.RN.KH"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"LK",
     "wof:created":1473898902,
-    "wof:geomhash":"1de665d3e912b06a655fe088fffe42eb",
+    "wof:geomhash":"31c120858118790dee5811c86515d3b3",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -78,7 +79,7 @@
         }
     ],
     "wof:id":1092060067,
-    "wof:lastmodified":1627522332,
+    "wof:lastmodified":1695886790,
     "wof:name":"Kahawatta",
     "wof:parent_id":85673785,
     "wof:placetype":"county",

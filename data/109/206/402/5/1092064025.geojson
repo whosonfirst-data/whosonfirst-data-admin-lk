@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.013938,
-    "geom:area_square_m":170661655.3941,
+    "geom:area_square_m":170661475.764884,
     "geom:bbox":"80.001561,7.936648,80.15397,8.081116",
     "geom:latitude":8.012382,
     "geom:longitude":80.088804,
@@ -66,9 +66,10 @@
     "wof:concordances":{
         "hasc:id":"LK.PX.NW"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"LK",
     "wof:created":1473899064,
-    "wof:geomhash":"8d6d41a4e84071ae73dd1a31507ddaf2",
+    "wof:geomhash":"5f622fc032f2c9e8ca51d812060bcf71",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -78,7 +79,7 @@
         }
     ],
     "wof:id":1092064025,
-    "wof:lastmodified":1627522337,
+    "wof:lastmodified":1695886793,
     "wof:name":"Nawagattegama",
     "wof:parent_id":85673779,
     "wof:placetype":"county",

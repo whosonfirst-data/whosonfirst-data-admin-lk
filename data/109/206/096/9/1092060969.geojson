@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.006448,
-    "geom:area_square_m":79180359.252082,
+    "geom:area_square_m":79180499.568193,
     "geom:bbox":"80.198292,6.715777,80.343273,6.826575",
     "geom:latitude":6.759708,
     "geom:longitude":80.271977,
@@ -66,9 +66,10 @@
     "wof:concordances":{
         "hasc:id":"LK.RN.KI"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"LK",
     "wof:created":1473898940,
-    "wof:geomhash":"351f9f1b806ee775408949cf16b75f38",
+    "wof:geomhash":"9c911cc0d928e4d575b79b71e3177358",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -78,7 +79,7 @@
         }
     ],
     "wof:id":1092060969,
-    "wof:lastmodified":1627522333,
+    "wof:lastmodified":1695886791,
     "wof:name":"Kiriella",
     "wof:parent_id":85673785,
     "wof:placetype":"county",

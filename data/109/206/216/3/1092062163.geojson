@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003181,
-    "geom:area_square_m":39047576.932124,
+    "geom:area_square_m":39047890.193249,
     "geom:bbox":"79.898512,6.82829,79.992551,6.885073",
     "geom:latitude":6.857175,
     "geom:longitude":79.941742,
@@ -78,9 +78,10 @@
     "wof:concordances":{
         "hasc:id":"LK.CO.MA"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"LK",
     "wof:created":1473898989,
-    "wof:geomhash":"32e501e13d75ee514a2ad77456c9291b",
+    "wof:geomhash":"54833c5599bd7c11fb710b32c46b489f",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -90,7 +91,7 @@
         }
     ],
     "wof:id":1092062163,
-    "wof:lastmodified":1627522335,
+    "wof:lastmodified":1695886792,
     "wof:name":"Maharagama",
     "wof:parent_id":85673811,
     "wof:placetype":"county",

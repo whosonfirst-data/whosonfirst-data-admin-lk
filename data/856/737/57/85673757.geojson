@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.156073,
-    "geom:area_square_m":1906884643.802758,
+    "geom:area_square_m":1906884798.70709,
     "geom:bbox":"80.171013,8.547635,80.731663,9.128546",
     "geom:latitude":8.852353,
     "geom:longitude":80.467473,
@@ -239,16 +239,18 @@
         "gn:id":1225017,
         "gp:id":23706510,
         "hasc:id":"LK.VA",
+        "iso:code":"LK-44",
         "iso:id":"LK-44",
         "qs_pg:id":1236500,
         "unlc:id":"LK-44",
         "wd:id":"Q527980"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"LK",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"28bb7258955e4b33b4d94f81612d58e1",
+    "wof:geomhash":"aaa20f3fe7a5e1c0b917aafa2df17384",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -265,7 +267,7 @@
         "sin",
         "tam"
     ],
-    "wof:lastmodified":1690938536,
+    "wof:lastmodified":1695884361,
     "wof:name":"Vavuniy\u0101va",
     "wof:parent_id":85632313,
     "wof:placetype":"region",

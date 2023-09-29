@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.008736,
-    "geom:area_square_m":107122361.460595,
+    "geom:area_square_m":107122404.005585,
     "geom:bbox":"80.124605,7.31287,80.26366,7.480114",
     "geom:latitude":7.397428,
     "geom:longitude":80.193098,
@@ -69,9 +69,10 @@
     "wof:concordances":{
         "hasc:id":"LK.KG.NA"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"LK",
     "wof:created":1473899058,
-    "wof:geomhash":"e969f390051ae92e5803d748bf07e3f6",
+    "wof:geomhash":"d2ee2b42cea765cc46541986b0209a9d",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -81,7 +82,7 @@
         }
     ],
     "wof:id":1092063885,
-    "wof:lastmodified":1627522337,
+    "wof:lastmodified":1695886793,
     "wof:name":"Narammala",
     "wof:parent_id":85673777,
     "wof:placetype":"county",

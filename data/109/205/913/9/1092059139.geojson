@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.019032,
-    "geom:area_square_m":233520200.454159,
+    "geom:area_square_m":233520512.337145,
     "geom:bbox":"80.698501,6.999175,80.845778,7.268516",
     "geom:latitude":7.119567,
     "geom:longitude":80.778075,
@@ -66,9 +66,10 @@
     "wof:concordances":{
         "hasc:id":"LK.NW.HA"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"LK",
     "wof:created":1473898868,
-    "wof:geomhash":"36ba5889955a71d9014ab986285597d1",
+    "wof:geomhash":"48fc5c9f2123f49e5d8248de8b460dee",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -78,7 +79,7 @@
         }
     ],
     "wof:id":1092059139,
-    "wof:lastmodified":1627522330,
+    "wof:lastmodified":1695886789,
     "wof:name":"Hanguranketha",
     "wof:parent_id":85673731,
     "wof:placetype":"county",

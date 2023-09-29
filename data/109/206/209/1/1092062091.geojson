@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.014713,
-    "geom:area_square_m":180226828.061686,
+    "geom:area_square_m":180226609.671098,
     "geom:bbox":"79.840668,7.765618,79.975102,7.973483",
     "geom:latitude":7.844967,
     "geom:longitude":79.90489,
@@ -66,9 +66,10 @@
     "wof:concordances":{
         "hasc:id":"LK.PX.MK"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"LK",
     "wof:created":1473898987,
-    "wof:geomhash":"c7e100bbfc95fd713c4db063fa1539a2",
+    "wof:geomhash":"8e2f233b39ca2698593c025e0770f5a3",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -78,7 +79,7 @@
         }
     ],
     "wof:id":1092062091,
-    "wof:lastmodified":1627522334,
+    "wof:lastmodified":1695886792,
     "wof:name":"Mahakumbukkadawala",
     "wof:parent_id":85673779,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.011631,
-    "geom:area_square_m":142733753.878018,
+    "geom:area_square_m":142733608.999189,
     "geom:bbox":"81.106482,6.955537,81.246915,7.10636",
     "geom:latitude":7.037981,
     "geom:longitude":81.188597,
@@ -69,9 +69,10 @@
     "wof:concordances":{
         "hasc:id":"LK.BD.LU"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"LK",
     "wof:created":1473898977,
-    "wof:geomhash":"4be16a175a89e450695afcd8d49eeeba",
+    "wof:geomhash":"8a33038b33af8ac18c6ad3527eb7ce3a",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -81,7 +82,7 @@
         }
     ],
     "wof:id":1092061877,
-    "wof:lastmodified":1627522334,
+    "wof:lastmodified":1695886791,
     "wof:name":"Lunugala",
     "wof:parent_id":85673801,
     "wof:placetype":"county",

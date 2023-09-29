@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.065984,
-    "geom:area_square_m":810851310.083419,
+    "geom:area_square_m":810851174.738598,
     "geom:bbox":"81.217459,6.19125,81.709587,6.576289",
     "geom:latitude":6.379537,
     "geom:longitude":81.456205,
@@ -72,9 +72,10 @@
     "wof:concordances":{
         "hasc:id":"LK.HB.TH"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"LK",
     "wof:created":1473899177,
-    "wof:geomhash":"3b99624c82d0c8a78ca5212b624e3a6e",
+    "wof:geomhash":"9f9eb96fac3c2d4ca0687cd78069be17",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -84,7 +85,7 @@
         }
     ],
     "wof:id":1092066869,
-    "wof:lastmodified":1627522342,
+    "wof:lastmodified":1695886795,
     "wof:name":"Tissamaharama",
     "wof:parent_id":85673791,
     "wof:placetype":"county",

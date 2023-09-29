@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.022092,
-    "geom:area_square_m":269467241.692113,
+    "geom:area_square_m":269467391.16616,
     "geom:bbox":"80.348798,9.359225,80.61587,9.523869",
     "geom:latitude":9.44931,
     "geom:longitude":80.486977,
@@ -66,9 +66,10 @@
     "wof:concordances":{
         "hasc:id":"LK.KL.KN"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"LK",
     "wof:created":1473898913,
-    "wof:geomhash":"13f2e4adaf876c15fba41b7da92df7cd",
+    "wof:geomhash":"f4d3154d3b12fa450fce554bce1de4d0",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -78,7 +79,7 @@
         }
     ],
     "wof:id":1092060355,
-    "wof:lastmodified":1627522332,
+    "wof:lastmodified":1695886790,
     "wof:name":"Kandavalai",
     "wof:parent_id":85673773,
     "wof:placetype":"county",

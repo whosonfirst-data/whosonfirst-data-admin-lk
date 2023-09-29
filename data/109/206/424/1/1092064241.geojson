@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.008456,
-    "geom:area_square_m":103925494.928565,
+    "geom:area_square_m":103925497.954769,
     "geom:bbox":"80.20636,6.200639,80.304722,6.382106",
     "geom:latitude":6.30296,
     "geom:longitude":80.252499,
@@ -66,9 +66,10 @@
     "wof:concordances":{
         "hasc:id":"LK.GL.NI"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"LK",
     "wof:created":1473899073,
-    "wof:geomhash":"92ab46257102331728402908845ab057",
+    "wof:geomhash":"8b71808d45e8d4b302ef8ef5b3415937",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -78,7 +79,7 @@
         }
     ],
     "wof:id":1092064241,
-    "wof:lastmodified":1627522338,
+    "wof:lastmodified":1695886793,
     "wof:name":"Niyagama",
     "wof:parent_id":85673789,
     "wof:placetype":"county",

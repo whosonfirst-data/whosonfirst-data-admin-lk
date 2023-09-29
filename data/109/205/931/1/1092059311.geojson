@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.006039,
-    "geom:area_square_m":74250908.441745,
+    "geom:area_square_m":74250908.441742,
     "geom:bbox":"80.048721313,6.06038848412,80.183113136,6.22995280102",
     "geom:latitude":6.140121,
     "geom:longitude":80.119898,
@@ -102,9 +102,10 @@
     "wof:concordances":{
         "hasc:id":"LK.GL.HI"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"LK",
     "wof:created":1473898874,
-    "wof:geomhash":"9fa4ae093cc1217026389e48ce72cc72",
+    "wof:geomhash":"4e8a7cc2397d864a0e1bb609e7cb51e2",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -114,7 +115,7 @@
         }
     ],
     "wof:id":1092059311,
-    "wof:lastmodified":1566595266,
+    "wof:lastmodified":1695886706,
     "wof:name":"Hikkaduwa",
     "wof:parent_id":85673789,
     "wof:placetype":"county",

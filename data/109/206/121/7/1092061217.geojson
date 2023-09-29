@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001864,
-    "geom:area_square_m":22825643.584223,
+    "geom:area_square_m":22825545.260665,
     "geom:bbox":"81.324336,7.902232,81.534555,8.001397",
     "geom:latitude":7.96239,
     "geom:longitude":81.411577,
@@ -66,9 +66,10 @@
     "wof:concordances":{
         "hasc:id":"LK.BC.KC"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"LK",
     "wof:created":1473898949,
-    "wof:geomhash":"faf1bdf2a9674c2e18e92afe9cbeeaff",
+    "wof:geomhash":"d3b796cc9d6ef99dac4a46ac7e6c46f4",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -78,7 +79,7 @@
         }
     ],
     "wof:id":1092061217,
-    "wof:lastmodified":1627522333,
+    "wof:lastmodified":1695886791,
     "wof:name":"Koralai Pattu Central",
     "wof:parent_id":85673737,
     "wof:placetype":"county",

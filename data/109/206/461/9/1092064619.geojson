@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.019969,
-    "geom:area_square_m":243982685.474018,
+    "geom:area_square_m":243982671.471432,
     "geom:bbox":"80.671058,8.775907,80.907211,8.921778",
     "geom:latitude":8.853477,
     "geom:longitude":80.783872,
@@ -66,9 +66,10 @@
     "wof:concordances":{
         "hasc:id":"LK.AD.PD"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"LK",
     "wof:created":1473899088,
-    "wof:geomhash":"51653994125557a28826e6b76b450c73",
+    "wof:geomhash":"370021142c5a2f74e83d1b15d6a7f785",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -78,7 +79,7 @@
         }
     ],
     "wof:id":1092064619,
-    "wof:lastmodified":1627522338,
+    "wof:lastmodified":1695886794,
     "wof:name":"Padaviya",
     "wof:parent_id":85673751,
     "wof:placetype":"county",

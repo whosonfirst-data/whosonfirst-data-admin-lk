@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003985,
-    "geom:area_square_m":48979391.864124,
+    "geom:area_square_m":48979262.30607,
     "geom:bbox":"80.044218,6.17588,80.145221,6.255959",
     "geom:latitude":6.22335,
     "geom:longitude":80.10263,
@@ -96,9 +96,10 @@
     "wof:concordances":{
         "hasc:id":"LK.GL.AB"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"LK",
     "wof:created":1473898760,
-    "wof:geomhash":"264071659ef16d079dbdf13af84b4554",
+    "wof:geomhash":"a354f51d92288fd0d8763201c112eeb4",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -108,7 +109,7 @@
         }
     ],
     "wof:id":1092056447,
-    "wof:lastmodified":1627522326,
+    "wof:lastmodified":1695886787,
     "wof:name":"Ambalangoda",
     "wof:parent_id":85673789,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.032379,
-    "geom:area_square_m":397010949.148726,
+    "geom:area_square_m":397011461.13634,
     "geom:bbox":"81.184823,7.244158,81.363256,7.604899",
     "geom:latitude":7.427012,
     "geom:longitude":81.261964,
@@ -69,9 +69,10 @@
     "wof:concordances":{
         "hasc:id":"LK.AP.PA"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"LK",
     "wof:created":1473899089,
-    "wof:geomhash":"5e0f4c006480aa288d59d49acd0e8ed8",
+    "wof:geomhash":"12d787c35e1d26b5f745c03dca5d6221",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -81,7 +82,7 @@
         }
     ],
     "wof:id":1092064659,
-    "wof:lastmodified":1627522338,
+    "wof:lastmodified":1695886794,
     "wof:name":"Padiyathalawa",
     "wof:parent_id":85673733,
     "wof:placetype":"county",

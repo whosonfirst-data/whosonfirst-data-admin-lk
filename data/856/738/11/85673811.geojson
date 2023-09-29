@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.055901,
-    "geom:area_square_m":686264547.183241,
+    "geom:area_square_m":686265296.746038,
     "geom:bbox":"79.840385,6.746444,80.223043,6.983537",
     "geom:latitude":6.86958,
     "geom:longitude":80.019675,
@@ -234,17 +234,19 @@
         "gn:id":1248990,
         "gp:id":23706493,
         "hasc:id":"LK.CO",
+        "iso:code":"LK-11",
         "iso:id":"LK-11",
         "qs_pg:id":896539,
         "unlc:id":"LK-11",
         "wd:id":"Q606287",
         "wk:page":"Colombo District"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"LK",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"1c8840fc4e536b1465f9e6a45b1b8b89",
+    "wof:geomhash":"5447b91cbe61a7643828748b4a721094",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -261,7 +263,7 @@
         "sin",
         "tam"
     ],
-    "wof:lastmodified":1690938541,
+    "wof:lastmodified":1695884362,
     "wof:name":"K\u014f\u1e37amba",
     "wof:parent_id":85632313,
     "wof:placetype":"region",

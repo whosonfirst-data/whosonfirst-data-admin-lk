@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004007,
-    "geom:area_square_m":48831590.647032,
+    "geom:area_square_m":48831878.138913,
     "geom:bbox":"79.943691,9.682531,80.012787,9.807898",
     "geom:latitude":9.747204,
     "geom:longitude":79.982182,
@@ -66,9 +66,10 @@
     "wof:concordances":{
         "hasc:id":"LK.JA.SA"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"LK",
     "wof:created":1473899200,
-    "wof:geomhash":"d23241195d80b74799f8cff2c706ad04",
+    "wof:geomhash":"636a5b2eae0d741e3b72711221f2c16b",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -78,7 +79,7 @@
         }
     ],
     "wof:id":1092067213,
-    "wof:lastmodified":1627522343,
+    "wof:lastmodified":1695886796,
     "wof:name":"Valikamam South-West (Sandilipay)",
     "wof:parent_id":85673769,
     "wof:placetype":"county",

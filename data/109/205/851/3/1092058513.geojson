@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.016334,
-    "geom:area_square_m":200114933.671081,
+    "geom:area_square_m":200115093.772383,
     "geom:bbox":"80.496324,7.669837,80.638815,7.870879",
     "geom:latitude":7.778254,
     "geom:longitude":80.570946,
@@ -69,9 +69,10 @@
     "wof:concordances":{
         "hasc:id":"LK.MT.GA"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"LK",
     "wof:created":1473898843,
-    "wof:geomhash":"ede18d98c0fd89d2bd52b0631af4f7e2",
+    "wof:geomhash":"dd2869ee30e83b9484330ab30ad9ce19",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -81,7 +82,7 @@
         }
     ],
     "wof:id":1092058513,
-    "wof:lastmodified":1627522329,
+    "wof:lastmodified":1695886788,
     "wof:name":"Galewela",
     "wof:parent_id":85673723,
     "wof:placetype":"county",

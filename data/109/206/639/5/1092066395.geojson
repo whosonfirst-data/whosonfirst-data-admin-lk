@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.017896,
-    "geom:area_square_m":219036338.848193,
+    "geom:area_square_m":219036295.282641,
     "geom:bbox":"80.279242,8.083902,80.46708,8.300699",
     "geom:latitude":8.185371,
     "geom:longitude":80.375951,
@@ -66,9 +66,10 @@
     "wof:concordances":{
         "hasc:id":"LK.AD.TL"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"LK",
     "wof:created":1473899157,
-    "wof:geomhash":"244cfbf7182c3563667d7be81c4e56a6",
+    "wof:geomhash":"633ee46883b6ebdb188e9311a37270eb",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -78,7 +79,7 @@
         }
     ],
     "wof:id":1092066395,
-    "wof:lastmodified":1627522341,
+    "wof:lastmodified":1695886795,
     "wof:name":"Thalawa",
     "wof:parent_id":85673751,
     "wof:placetype":"county",

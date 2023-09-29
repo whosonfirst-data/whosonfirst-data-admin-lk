@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.007752,
-    "geom:area_square_m":95040170.646226,
+    "geom:area_square_m":95040287.045785,
     "geom:bbox":"80.215263,7.408561,80.331183,7.526222",
     "geom:latitude":7.465801,
     "geom:longitude":80.272502,
@@ -66,9 +66,10 @@
     "wof:concordances":{
         "hasc:id":"LK.KG.WE"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"LK",
     "wof:created":1473899222,
-    "wof:geomhash":"13593f0ce5194b437cbdd8a90921f27b",
+    "wof:geomhash":"cf952690a6d8052d311dd1d02c3a419e",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -78,7 +79,7 @@
         }
     ],
     "wof:id":1092067783,
-    "wof:lastmodified":1627522344,
+    "wof:lastmodified":1695886796,
     "wof:name":"Weerambugedara",
     "wof:parent_id":85673777,
     "wof:placetype":"county",

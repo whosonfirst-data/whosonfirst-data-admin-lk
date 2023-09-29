@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.007424,
-    "geom:area_square_m":91095240.605577,
+    "geom:area_square_m":91095055.740005,
     "geom:bbox":"80.529766,7.073742,80.662396,7.191836",
     "geom:latitude":7.12765,
     "geom:longitude":80.597213,
@@ -66,9 +66,10 @@
     "wof:concordances":{
         "hasc:id":"LK.KY.UP"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"LK",
     "wof:created":1473899181,
-    "wof:geomhash":"0c64cfbad2d9d2c2a42715b2878ee9f8",
+    "wof:geomhash":"fe7a16ae7ce3f8eec019ae61bc6b1e30",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -78,7 +79,7 @@
         }
     ],
     "wof:id":1092066967,
-    "wof:lastmodified":1627522342,
+    "wof:lastmodified":1695886795,
     "wof:name":"Udapalatha",
     "wof:parent_id":85673719,
     "wof:placetype":"county",

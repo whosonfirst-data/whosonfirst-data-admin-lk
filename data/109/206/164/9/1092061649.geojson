@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.007425,
-    "geom:area_square_m":91026867.394354,
+    "geom:area_square_m":91026985.462495,
     "geom:bbox":"80.311969,7.397781,80.407048,7.626513",
     "geom:latitude":7.517478,
     "geom:longitude":80.35471,
@@ -187,9 +187,10 @@
         "hasc:id":"LK.KG.KU",
         "wd:id":"Q745073"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"LK",
     "wof:created":1473898965,
-    "wof:geomhash":"7eae2041f6fec54a68a6753a225687ed",
+    "wof:geomhash":"ef613e6ee1ac0afac6e438228567f1ff",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -199,7 +200,7 @@
         }
     ],
     "wof:id":1092061649,
-    "wof:lastmodified":1690938551,
+    "wof:lastmodified":1695886708,
     "wof:name":"Kurunegala",
     "wof:parent_id":85673777,
     "wof:placetype":"county",

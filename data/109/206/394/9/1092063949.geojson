@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.02336,
-    "geom:area_square_m":286253851.050661,
+    "geom:area_square_m":286253940.144542,
     "geom:bbox":"80.614923,7.596346,80.792798,7.803306",
     "geom:latitude":7.68739,
     "geom:longitude":80.707674,
@@ -69,9 +69,10 @@
     "wof:concordances":{
         "hasc:id":"LK.MT.NA"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"LK",
     "wof:created":1473899061,
-    "wof:geomhash":"691eb2a1d33abdae38829f577ffa0e93",
+    "wof:geomhash":"8083379cff36f0ecefdd1433315a5c45",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -81,7 +82,7 @@
         }
     ],
     "wof:id":1092063949,
-    "wof:lastmodified":1627522337,
+    "wof:lastmodified":1695886793,
     "wof:name":"Naula",
     "wof:parent_id":85673723,
     "wof:placetype":"county",

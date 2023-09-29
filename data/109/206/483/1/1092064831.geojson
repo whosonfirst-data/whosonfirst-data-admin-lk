@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.022983,
-    "geom:area_square_m":282361976.037744,
+    "geom:area_square_m":282361794.25712,
     "geom:bbox":"80.168192,6.397388,80.380548,6.62295",
     "geom:latitude":6.50534,
     "geom:longitude":80.274773,
@@ -66,9 +66,10 @@
     "wof:concordances":{
         "hasc:id":"LK.KT.PL"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"LK",
     "wof:created":1473899096,
-    "wof:geomhash":"e4729ad2f2bf2cd76b9f2f651f91b723",
+    "wof:geomhash":"377dce3dbce6b1220513b55386db6489",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -78,7 +79,7 @@
         }
     ],
     "wof:id":1092064831,
-    "wof:lastmodified":1627522339,
+    "wof:lastmodified":1695886794,
     "wof:name":"Palindanuwara",
     "wof:parent_id":85673819,
     "wof:placetype":"county",

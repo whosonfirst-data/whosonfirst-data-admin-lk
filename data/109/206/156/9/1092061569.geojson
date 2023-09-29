@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.013507,
-    "geom:area_square_m":165596167.490448,
+    "geom:area_square_m":165596063.323946,
     "geom:bbox":"79.986372,7.40214,80.141927,7.559746",
     "geom:latitude":7.473978,
     "geom:longitude":80.055069,
@@ -66,9 +66,10 @@
     "wof:concordances":{
         "hasc:id":"LK.KG.KW"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"LK",
     "wof:created":1473898962,
-    "wof:geomhash":"656c845b0e25811af7c884e22e37a4b1",
+    "wof:geomhash":"da8d352c8be1123ff3448146ed6964ea",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -78,7 +79,7 @@
         }
     ],
     "wof:id":1092061569,
-    "wof:lastmodified":1627522334,
+    "wof:lastmodified":1695886791,
     "wof:name":"Kuliyapitiya West",
     "wof:parent_id":85673777,
     "wof:placetype":"county",

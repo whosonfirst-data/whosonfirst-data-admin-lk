@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004008,
-    "geom:area_square_m":48876226.207785,
+    "geom:area_square_m":48876226.20778,
     "geom:bbox":"79.652030945,9.474555969,79.732887268,9.553777695",
     "geom:latitude":9.511267,
     "geom:longitude":79.691926,
@@ -282,9 +282,10 @@
     "wof:concordances":{
         "hasc:id":"LK.JA.DE"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"LK",
     "wof:created":1473898815,
-    "wof:geomhash":"03a5fa79c55c7425eda15bd54c6bbf73",
+    "wof:geomhash":"7c635f0bcd3f4b594eba1ac0bdf4f0a7",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -294,7 +295,7 @@
         }
     ],
     "wof:id":1092057699,
-    "wof:lastmodified":1566595274,
+    "wof:lastmodified":1695886707,
     "wof:name":"Delft",
     "wof:parent_id":85673769,
     "wof:placetype":"county",

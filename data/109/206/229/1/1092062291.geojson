@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.051565,
-    "geom:area_square_m":630540373.762178,
+    "geom:area_square_m":630540895.079822,
     "geom:bbox":"80.047513,8.381675,80.306148,8.681438",
     "geom:latitude":8.538771,
     "geom:longitude":80.180993,
@@ -66,9 +66,10 @@
     "wof:concordances":{
         "hasc:id":"LK.AD.MV"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"LK",
     "wof:created":1473898994,
-    "wof:geomhash":"54ecc853a633469644d4077c6b06307e",
+    "wof:geomhash":"840d96e45dd49213c6a94b364bad23df",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -78,7 +79,7 @@
         }
     ],
     "wof:id":1092062291,
-    "wof:lastmodified":1627522335,
+    "wof:lastmodified":1695886792,
     "wof:name":"Mahawilachchiya",
     "wof:parent_id":85673751,
     "wof:placetype":"county",

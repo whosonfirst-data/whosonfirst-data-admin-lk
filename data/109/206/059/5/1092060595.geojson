@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.041191,
-    "geom:area_square_m":504228518.31555,
+    "geom:area_square_m":504228438.097213,
     "geom:bbox":"79.894617,7.95834,80.125075,8.285742",
     "geom:latitude":8.118703,
     "geom:longitude":80.000957,
@@ -66,9 +66,10 @@
     "wof:concordances":{
         "hasc:id":"LK.PX.KG"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"LK",
     "wof:created":1473898924,
-    "wof:geomhash":"81e137b1aa44f49f3a8fa8bc60236d71",
+    "wof:geomhash":"33abec9de9f3ae7040a12f2ef81cde42",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -78,7 +79,7 @@
         }
     ],
     "wof:id":1092060595,
-    "wof:lastmodified":1627522332,
+    "wof:lastmodified":1695886790,
     "wof:name":"Karuwalagaswewa",
     "wof:parent_id":85673779,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.018057,
-    "geom:area_square_m":221598446.881061,
+    "geom:area_square_m":221598547.327123,
     "geom:bbox":"80.540043,6.967764,80.750865,7.108501",
     "geom:latitude":7.039322,
     "geom:longitude":80.656355,
@@ -66,9 +66,10 @@
     "wof:concordances":{
         "hasc:id":"LK.NW.KO"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"LK",
     "wof:created":1473898957,
-    "wof:geomhash":"a96e64207ca56bf87859712278ac9041",
+    "wof:geomhash":"ab279b3b6fe4b37924110403f8639f66",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -78,7 +79,7 @@
         }
     ],
     "wof:id":1092061445,
-    "wof:lastmodified":1627522334,
+    "wof:lastmodified":1695886791,
     "wof:name":"Kothmale",
     "wof:parent_id":85673731,
     "wof:placetype":"county",

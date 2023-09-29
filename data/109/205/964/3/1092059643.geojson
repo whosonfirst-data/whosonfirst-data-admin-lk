@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.007766,
-    "geom:area_square_m":95355607.371068,
+    "geom:area_square_m":95355603.039801,
     "geom:bbox":"80.107721,6.698067,80.203725,6.826418",
     "geom:latitude":6.762379,
     "geom:longitude":80.151285,
@@ -69,9 +69,10 @@
     "wof:concordances":{
         "hasc:id":"LK.KT.IN"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"LK",
     "wof:created":1473898886,
-    "wof:geomhash":"c7ea4a3f0a08346c33a8781855ccc2aa",
+    "wof:geomhash":"ed0b6be7a3a34d67a4498ad973f45323",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -81,7 +82,7 @@
         }
     ],
     "wof:id":1092059643,
-    "wof:lastmodified":1627522331,
+    "wof:lastmodified":1695886789,
     "wof:name":"Ingiriya",
     "wof:parent_id":85673819,
     "wof:placetype":"county",

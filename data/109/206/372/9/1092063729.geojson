@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.009682,
-    "geom:area_square_m":118478297.627584,
+    "geom:area_square_m":118478054.815096,
     "geom:bbox":"80.337386,8.164486,80.517574,8.322481",
     "geom:latitude":8.251407,
     "geom:longitude":80.424435,
@@ -66,9 +66,10 @@
     "wof:concordances":{
         "hasc:id":"LK.AD.NA"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"LK",
     "wof:created":1473899052,
-    "wof:geomhash":"7b3e545953b001f32f12052c7b1241ea",
+    "wof:geomhash":"32033d7d44cf1e9194e9ed5bc8a8f775",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -78,7 +79,7 @@
         }
     ],
     "wof:id":1092063729,
-    "wof:lastmodified":1627522337,
+    "wof:lastmodified":1695886793,
     "wof:name":"Nachchaduwa",
     "wof:parent_id":85673751,
     "wof:placetype":"county",

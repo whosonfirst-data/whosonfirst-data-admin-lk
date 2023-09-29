@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.008608,
-    "geom:area_square_m":105534363.286469,
+    "geom:area_square_m":105534357.867727,
     "geom:bbox":"80.632007,7.421633,80.740438,7.55081",
     "geom:latitude":7.486113,
     "geom:longitude":80.686537,
@@ -75,9 +75,10 @@
     "wof:concordances":{
         "hasc:id":"LK.MT.RA"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"LK",
     "wof:created":1473899137,
-    "wof:geomhash":"82c72feb46270fd0d3efb74f5692a83a",
+    "wof:geomhash":"126f857a1876438cb4c3b9b2109f9a83",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -87,7 +88,7 @@
         }
     ],
     "wof:id":1092065885,
-    "wof:lastmodified":1627522340,
+    "wof:lastmodified":1695886794,
     "wof:name":"Rattota",
     "wof:parent_id":85673723,
     "wof:placetype":"county",

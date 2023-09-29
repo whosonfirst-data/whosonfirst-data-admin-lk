@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.086846,
-    "geom:area_square_m":1058558525.017946,
+    "geom:area_square_m":1058558115.13041,
     "geom:bbox":"79.652031,9.452203,80.62152,9.832084",
     "geom:latitude":9.687581,
     "geom:longitude":80.114216,
@@ -213,16 +213,18 @@
         "gn:id":1242831,
         "gp:id":23706489,
         "hasc:id":"LK.JA",
+        "iso:code":"LK-41",
         "iso:id":"LK-41",
         "qs_pg:id":1085900,
         "unlc:id":"LK-41",
         "wd:id":"Q1520182"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"LK",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"022bc6e75f19d19f6b95910735d33a39",
+    "wof:geomhash":"c84c0ee5fe7d497a6b4aa86c229abe85",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -239,7 +241,7 @@
         "sin",
         "tam"
     ],
-    "wof:lastmodified":1690938536,
+    "wof:lastmodified":1695884361,
     "wof:name":"Y\u0101panaya",
     "wof:parent_id":85632313,
     "wof:placetype":"region",

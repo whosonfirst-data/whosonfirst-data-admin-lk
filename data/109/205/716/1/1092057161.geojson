@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.016218,
-    "geom:area_square_m":198774662.234643,
+    "geom:area_square_m":198774608.244345,
     "geom:bbox":"79.899346,7.518038,80.041235,7.697512",
     "geom:latitude":7.606081,
     "geom:longitude":79.968657,
@@ -66,9 +66,10 @@
     "wof:concordances":{
         "hasc:id":"LK.KG.BI"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"LK",
     "wof:created":1473898794,
-    "wof:geomhash":"960df0435b4d9ed6df96f7d0673668f1",
+    "wof:geomhash":"c5c453b809f563c190f3bea7b3f8683e",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -78,7 +79,7 @@
         }
     ],
     "wof:id":1092057161,
-    "wof:lastmodified":1627522328,
+    "wof:lastmodified":1695886787,
     "wof:name":"Bingiriya",
     "wof:parent_id":85673777,
     "wof:placetype":"county",

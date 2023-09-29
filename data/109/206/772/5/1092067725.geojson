@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.005007,
-    "geom:area_square_m":61442699.646574,
+    "geom:area_square_m":61442474.092639,
     "geom:bbox":"79.841328,6.971214,79.939432,7.1169",
     "geom:latitude":7.036039,
     "geom:longitude":79.881962,
@@ -87,9 +87,10 @@
     "wof:concordances":{
         "hasc:id":"LK.GQ.WA"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"LK",
     "wof:created":1473899219,
-    "wof:geomhash":"48a1ca401aba97bdf7823268f1929923",
+    "wof:geomhash":"242342503e3e6ed7c0552e73af08fab8",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -99,7 +100,7 @@
         }
     ],
     "wof:id":1092067725,
-    "wof:lastmodified":1627522343,
+    "wof:lastmodified":1695886796,
     "wof:name":"Wattala",
     "wof:parent_id":85673815,
     "wof:placetype":"county",

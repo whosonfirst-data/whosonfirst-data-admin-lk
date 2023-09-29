@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.402193,
-    "geom:area_square_m":4928732264.173626,
+    "geom:area_square_m":4928732193.883037,
     "geom:bbox":"79.899324,7.256488,80.577423,8.192452",
     "geom:latitude":7.664687,
     "geom:longitude":80.23677,
@@ -261,17 +261,19 @@
         "gn:id":1237978,
         "gp:id":23706501,
         "hasc:id":"LK.KG",
+        "iso:code":"LK-61",
         "iso:id":"LK-61",
         "qs_pg:id":219952,
         "unlc:id":"LK-61",
         "wd:id":"Q745073",
         "wk:page":"Kurunegala District"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"LK",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"eea228c13cc8ebbd339db2122ac81d36",
+    "wof:geomhash":"bd952ec81c5c9342d0fc7daace802d27",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -288,7 +290,7 @@
         "sin",
         "tam"
     ],
-    "wof:lastmodified":1690938540,
+    "wof:lastmodified":1695884362,
     "wof:name":"Kuru\u1e47\u00e6gala",
     "wof:parent_id":85632313,
     "wof:placetype":"region",

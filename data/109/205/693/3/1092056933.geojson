@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00483,
-    "geom:area_square_m":59355888.075308,
+    "geom:area_square_m":59355732.527426,
     "geom:bbox":"80.014666,6.23942,80.080942,6.372096",
     "geom:latitude":6.311961,
     "geom:longitude":80.050434,
@@ -72,9 +72,10 @@
     "wof:concordances":{
         "hasc:id":"LK.GL.BL"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"LK",
     "wof:created":1473898782,
-    "wof:geomhash":"276c2e7889d184dc4f20bd1acd5518b3",
+    "wof:geomhash":"a446f35b7868399cb2526cd1df5d03de",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -84,7 +85,7 @@
         }
     ],
     "wof:id":1092056933,
-    "wof:lastmodified":1627522327,
+    "wof:lastmodified":1695886787,
     "wof:name":"Balapitiya",
     "wof:parent_id":85673789,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.11351,
-    "geom:area_square_m":1392742585.657601,
+    "geom:area_square_m":1392742841.177447,
     "geom:bbox":"79.816803,6.908089,80.209734,7.330748",
     "geom:latitude":7.123189,
     "geom:longitude":80.018146,
@@ -267,17 +267,19 @@
         "gn:id":1246005,
         "gp:id":23706491,
         "hasc:id":"LK.GQ",
+        "iso:code":"LK-12",
         "iso:id":"LK-12",
         "qs_pg:id":896537,
         "unlc:id":"LK-12",
         "wd:id":"Q206344",
         "wk:page":"Gampaha District"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"LK",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"090da83d3dbd9845a213873a4691e2b1",
+    "wof:geomhash":"f1b19a2c92691a1a9086b23d93d24f60",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -294,7 +296,7 @@
         "sin",
         "tam"
     ],
-    "wof:lastmodified":1690938542,
+    "wof:lastmodified":1695884871,
     "wof:name":"Gampaha",
     "wof:parent_id":85632313,
     "wof:placetype":"region",

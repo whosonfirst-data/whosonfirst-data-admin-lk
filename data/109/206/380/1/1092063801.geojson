@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002983,
-    "geom:area_square_m":36363862.839101,
+    "geom:area_square_m":36363939.835392,
     "geom:bbox":"80.000041,9.604584,80.137085,9.718682",
     "geom:latitude":9.667354,
     "geom:longitude":80.04892,
@@ -75,9 +75,10 @@
     "wof:concordances":{
         "hasc:id":"LK.JA.NA"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"LK",
     "wof:created":1473899055,
-    "wof:geomhash":"d5506f75b999ad00d6ea39236e13ce1b",
+    "wof:geomhash":"61be175e37323ed651e965187b6de2ad",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -87,7 +88,7 @@
         }
     ],
     "wof:id":1092063801,
-    "wof:lastmodified":1627522337,
+    "wof:lastmodified":1695886793,
     "wof:name":"Nallur",
     "wof:parent_id":85673769,
     "wof:placetype":"county",

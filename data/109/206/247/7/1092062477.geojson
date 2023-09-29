@@ -51,6 +51,7 @@
     "wof:concordances":{
         "hasc:id":"LK.BC.MN\t"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"LK",
     "wof:created":1473899001,
     "wof:geomhash":"5ea7855d5046d4a0780f19a07f71dcfb",
@@ -63,7 +64,7 @@
         }
     ],
     "wof:id":1092062477,
-    "wof:lastmodified":1694492704,
+    "wof:lastmodified":1695886792,
     "wof:name":"Manmunai North",
     "wof:parent_id":85673737,
     "wof:placetype":"county",

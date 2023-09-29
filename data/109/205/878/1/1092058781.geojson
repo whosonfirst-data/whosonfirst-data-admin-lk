@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.017076,
-    "geom:area_square_m":209038569.331931,
+    "geom:area_square_m":209038664.172982,
     "geom:bbox":"80.098412,8.023828,80.271598,8.192452",
     "geom:latitude":8.103782,
     "geom:longitude":80.183949,
@@ -66,9 +66,10 @@
     "wof:concordances":{
         "hasc:id":"LK.KG.GI"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"LK",
     "wof:created":1473898855,
-    "wof:geomhash":"d45b68125cd0f57c0b58e31fad072c14",
+    "wof:geomhash":"c0bc77342b8a9e841c489a35dcf05874",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -78,7 +79,7 @@
         }
     ],
     "wof:id":1092058781,
-    "wof:lastmodified":1627522330,
+    "wof:lastmodified":1695886789,
     "wof:name":"Giribawa",
     "wof:parent_id":85673777,
     "wof:placetype":"county",

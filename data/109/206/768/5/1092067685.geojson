@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.016592,
-    "geom:area_square_m":203327314.393532,
+    "geom:area_square_m":203327053.808176,
     "geom:bbox":"80.156015,7.587438,80.340549,7.737614",
     "geom:latitude":7.66329,
     "geom:longitude":80.239459,
@@ -69,9 +69,10 @@
     "wof:concordances":{
         "hasc:id":"LK.KG.WA"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"LK",
     "wof:created":1473899217,
-    "wof:geomhash":"e82eadbf5c0675a026b7006eff10e051",
+    "wof:geomhash":"2b35d3a824004af40152eb2144efa429",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -81,7 +82,7 @@
         }
     ],
     "wof:id":1092067685,
-    "wof:lastmodified":1627522343,
+    "wof:lastmodified":1695886796,
     "wof:name":"Wariyapola",
     "wof:parent_id":85673777,
     "wof:placetype":"county",

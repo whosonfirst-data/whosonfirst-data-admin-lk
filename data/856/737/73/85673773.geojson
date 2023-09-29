@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.108791,
-    "geom:area_square_m":1327070741.230597,
+    "geom:area_square_m":1327070267.466948,
     "geom:bbox":"79.971222,9.207714,80.61587,9.680803",
     "geom:latitude":9.421652,
     "geom:longitude":80.312391,
@@ -259,16 +259,18 @@
         "gn:id":1240371,
         "gp:id":23706490,
         "hasc:id":"LK.KL",
+        "iso:code":"LK-42",
         "iso:id":"LK-42",
         "qs_pg:id":891828,
         "unlc:id":"LK-42",
         "wd:id":"Q1584007"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"LK",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"8e4389b139ba65308342529ccda21149",
+    "wof:geomhash":"0d1aace0a79867414bf2a9ee2cc79b56",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -285,7 +287,7 @@
         "sin",
         "tam"
     ],
-    "wof:lastmodified":1690938538,
+    "wof:lastmodified":1695884361,
     "wof:name":"Kilin\u014fchchi",
     "wof:parent_id":85632313,
     "wof:placetype":"region",

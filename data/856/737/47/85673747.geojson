@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.221059,
-    "geom:area_square_m":2703015185.246001,
+    "geom:area_square_m":2703014794.348717,
     "geom:bbox":"80.756156,8.149927,81.404556,8.989754",
     "geom:latitude":8.554005,
     "geom:longitude":81.09165,
@@ -216,16 +216,18 @@
         "gn:id":1226258,
         "gp:id":23706507,
         "hasc:id":"LK.TC",
+        "iso:code":"LK-53",
         "iso:id":"LK-53",
         "qs_pg:id":212352,
         "unlc:id":"LK-53",
         "wd:id":"Q1493318"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"LK",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"fe93bcf3d20884aaae759e324c228435",
+    "wof:geomhash":"524b8208f8dd0ee08bd694305f99423c",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -242,7 +244,7 @@
         "sin",
         "tam"
     ],
-    "wof:lastmodified":1690938541,
+    "wof:lastmodified":1695884362,
     "wof:name":"Triku\u1e47\u0101malaya",
     "wof:parent_id":85632313,
     "wof:placetype":"region",

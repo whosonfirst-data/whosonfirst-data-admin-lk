@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.010819,
-    "geom:area_square_m":132686916.804337,
+    "geom:area_square_m":132686841.64333,
     "geom:bbox":"80.148646,7.256488,80.279943,7.396199",
     "geom:latitude":7.328735,
     "geom:longitude":80.217671,
@@ -66,9 +66,10 @@
     "wof:concordances":{
         "hasc:id":"LK.KG.AL"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"LK",
     "wof:created":1473898756,
-    "wof:geomhash":"6819e47bd748ea2935c8fbc002f93ee8",
+    "wof:geomhash":"95e23256c79f5da36673907c0a2cf743",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -78,7 +79,7 @@
         }
     ],
     "wof:id":1092056335,
-    "wof:lastmodified":1627522326,
+    "wof:lastmodified":1695886786,
     "wof:name":"Alawwa",
     "wof:parent_id":85673777,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.031605,
-    "geom:area_square_m":388312273.44021,
+    "geom:area_square_m":388312224.021832,
     "geom:bbox":"80.295834,6.367738,80.629103,6.580711",
     "geom:latitude":6.465392,
     "geom:longitude":80.451353,
@@ -66,9 +66,10 @@
     "wof:concordances":{
         "hasc:id":"LK.RN.KL"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"LK",
     "wof:created":1473898903,
-    "wof:geomhash":"d783ce94dc252ede1af5dd73894e9661",
+    "wof:geomhash":"01678abc7bd3b06407688333dd6dcd62",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -78,7 +79,7 @@
         }
     ],
     "wof:id":1092060105,
-    "wof:lastmodified":1627522332,
+    "wof:lastmodified":1695886790,
     "wof:name":"Kalawana",
     "wof:parent_id":85673785,
     "wof:placetype":"county",

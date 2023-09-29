@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001956,
-    "geom:area_square_m":23839212.588931,
+    "geom:area_square_m":23839212.588903,
     "geom:bbox":"79.852027893,9.702055931,79.900390625,9.764611244",
     "geom:latitude":9.733778,
     "geom:longitude":79.876544,
@@ -78,9 +78,10 @@
     "wof:concordances":{
         "hasc:id":"LK.JA.KA"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"LK",
     "wof:created":1473898920,
-    "wof:geomhash":"2c61e69f0b149b5afcd9728d2e04ec70",
+    "wof:geomhash":"5aa1bef369609e9256eabe0fb0af2159",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -90,7 +91,7 @@
         }
     ],
     "wof:id":1092060507,
-    "wof:lastmodified":1566595309,
+    "wof:lastmodified":1695886708,
     "wof:name":"Karainagar",
     "wof:parent_id":85673769,
     "wof:placetype":"county",

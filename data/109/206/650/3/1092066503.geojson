@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00883,
-    "geom:area_square_m":108083602.063351,
+    "geom:area_square_m":108083511.901321,
     "geom:bbox":"80.256554,8.073594,80.387653,8.225966",
     "geom:latitude":8.154608,
     "geom:longitude":80.317039,
@@ -66,9 +66,10 @@
     "wof:concordances":{
         "hasc:id":"LK.AD.TB"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"LK",
     "wof:created":1473899161,
-    "wof:geomhash":"4165421d19e5ab18dd9f4d7f7296c0f2",
+    "wof:geomhash":"847decbc96991e0d735eb51113f72e63",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -78,7 +79,7 @@
         }
     ],
     "wof:id":1092066503,
-    "wof:lastmodified":1627522341,
+    "wof:lastmodified":1695886795,
     "wof:name":"Thambuttegama",
     "wof:parent_id":85673751,
     "wof:placetype":"county",

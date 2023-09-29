@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.01576,
-    "geom:area_square_m":193449941.448573,
+    "geom:area_square_m":193449534.761509,
     "geom:bbox":"80.207841,6.830333,80.360073,7.041762",
     "geom:latitude":6.939309,
     "geom:longitude":80.281563,
@@ -66,9 +66,10 @@
     "wof:concordances":{
         "hasc:id":"LK.KE.DH"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"LK",
     "wof:created":1473898812,
-    "wof:geomhash":"701faa000a1f0c7961b3e33327990438",
+    "wof:geomhash":"943a17a35f1b2d1f451f1c609dc7e640",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -78,7 +79,7 @@
         }
     ],
     "wof:id":1092057621,
-    "wof:lastmodified":1627522328,
+    "wof:lastmodified":1695886788,
     "wof:name":"Dehiovita",
     "wof:parent_id":85673807,
     "wof:placetype":"county",

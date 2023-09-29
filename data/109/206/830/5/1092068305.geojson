@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.014231,
-    "geom:area_square_m":174653148.469208,
+    "geom:area_square_m":174652814.167556,
     "geom:bbox":"80.262784,6.955314,80.467046,7.112039",
     "geom:latitude":7.027195,
     "geom:longitude":80.370879,
@@ -72,9 +72,10 @@
     "wof:concordances":{
         "hasc:id":"LK.KE.YA"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"LK",
     "wof:created":1473899242,
-    "wof:geomhash":"14c81f4b593675f3495814d9625e810f",
+    "wof:geomhash":"dfca1013c7df2af294907564f4462a77",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -84,7 +85,7 @@
         }
     ],
     "wof:id":1092068305,
-    "wof:lastmodified":1627522344,
+    "wof:lastmodified":1695886797,
     "wof:name":"Yatiyanthota",
     "wof:parent_id":85673807,
     "wof:placetype":"county",

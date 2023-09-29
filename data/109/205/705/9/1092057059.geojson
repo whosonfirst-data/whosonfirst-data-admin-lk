@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.005813,
-    "geom:area_square_m":71367353.716983,
+    "geom:area_square_m":71367437.332582,
     "geom:bbox":"80.949027,6.788776,81.072728,6.875613",
     "geom:latitude":6.830108,
     "geom:longitude":81.00585,
@@ -81,9 +81,10 @@
     "wof:concordances":{
         "hasc:id":"LK.BD.BN"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"LK",
     "wof:created":1473898786,
-    "wof:geomhash":"73da1d776a8149bebdf5809a04018f08",
+    "wof:geomhash":"f718f5559a7ecf6b4f352709e9c58e7c",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -93,7 +94,7 @@
         }
     ],
     "wof:id":1092057059,
-    "wof:lastmodified":1627522327,
+    "wof:lastmodified":1695886787,
     "wof:name":"Bandarawela",
     "wof:parent_id":85673801,
     "wof:placetype":"county",

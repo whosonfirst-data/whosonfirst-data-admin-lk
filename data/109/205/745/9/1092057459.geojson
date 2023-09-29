@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.037685,
-    "geom:area_square_m":462363627.027683,
+    "geom:area_square_m":462363627.027733,
     "geom:bbox":"81.4989769382,6.98488625016,81.7510415145,7.27848256131",
     "geom:latitude":7.140576,
     "geom:longitude":81.627209,
@@ -72,9 +72,10 @@
     "wof:concordances":{
         "hasc:id":"LK.AP.DA"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"LK",
     "wof:created":1473898806,
-    "wof:geomhash":"9bf9f692b1bc467af242729a267d6c88",
+    "wof:geomhash":"06fb84af4b7f630c945b3ca03c480024",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -84,7 +85,7 @@
         }
     ],
     "wof:id":1092057459,
-    "wof:lastmodified":1566595280,
+    "wof:lastmodified":1695886707,
     "wof:name":"Damana",
     "wof:parent_id":85673733,
     "wof:placetype":"county",

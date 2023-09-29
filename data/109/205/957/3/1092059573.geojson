@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004998,
-    "geom:area_square_m":61455536.274828,
+    "geom:area_square_m":61455538.642436,
     "geom:bbox":"80.299071,5.992727,80.420174,6.071416",
     "geom:latitude":6.032007,
     "geom:longitude":80.358039,
@@ -72,9 +72,10 @@
     "wof:concordances":{
         "hasc:id":"LK.GL.IM"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"LK",
     "wof:created":1473898883,
-    "wof:geomhash":"210d5ca02b79168a0da653d98126150f",
+    "wof:geomhash":"f453407ce677a1a6749fc74efc7ba373",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -84,7 +85,7 @@
         }
     ],
     "wof:id":1092059573,
-    "wof:lastmodified":1627522331,
+    "wof:lastmodified":1695886789,
     "wof:name":"Imaduwa",
     "wof:parent_id":85673789,
     "wof:placetype":"county",

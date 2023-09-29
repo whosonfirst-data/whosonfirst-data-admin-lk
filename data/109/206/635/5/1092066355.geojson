@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.013185,
-    "geom:area_square_m":162122603.778041,
+    "geom:area_square_m":162122603.778018,
     "geom:bbox":"80.7132156607,5.969583511,80.9336877896,6.1365021482",
     "geom:latitude":6.069729,
     "geom:longitude":80.825697,
@@ -90,9 +90,10 @@
     "wof:concordances":{
         "hasc:id":"LK.HB.TA"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"LK",
     "wof:created":1473899156,
-    "wof:geomhash":"9950de894b07abf9ea0048902f76b3e1",
+    "wof:geomhash":"05e7fe41a234970de140cb3ae549dc9f",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -102,7 +103,7 @@
         }
     ],
     "wof:id":1092066355,
-    "wof:lastmodified":1566595292,
+    "wof:lastmodified":1695886707,
     "wof:name":"Tangalle",
     "wof:parent_id":85673791,
     "wof:placetype":"county",

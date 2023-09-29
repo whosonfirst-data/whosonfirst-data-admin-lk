@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000786,
-    "geom:area_square_m":9645310.910619,
+    "geom:area_square_m":9645392.55674,
     "geom:bbox":"79.855932,6.841385,79.89435,6.873813",
     "geom:latitude":6.858159,
     "geom:longitude":79.874554,
@@ -69,9 +69,10 @@
     "wof:concordances":{
         "hasc:id":"LK.CO.DM"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"LK",
     "wof:created":1473898813,
-    "wof:geomhash":"ec88e0141b25cabc629e05ee5d8fc9ce",
+    "wof:geomhash":"ca49b02762ea7649f32fa92978402dfa",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -81,7 +82,7 @@
         }
     ],
     "wof:id":1092057657,
-    "wof:lastmodified":1627522328,
+    "wof:lastmodified":1695886788,
     "wof:name":"Dehiwala",
     "wof:parent_id":85673811,
     "wof:placetype":"county",

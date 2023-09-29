@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.008594,
-    "geom:area_square_m":105628280.165096,
+    "geom:area_square_m":105628514.106719,
     "geom:bbox":"80.646704,6.215534,80.807465,6.311062",
     "geom:latitude":6.263992,
     "geom:longitude":80.716254,
@@ -66,9 +66,10 @@
     "wof:concordances":{
         "hasc:id":"LK.HB.KT"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"LK",
     "wof:created":1473898931,
-    "wof:geomhash":"c40f393ed6e4840709714b29991db89d",
+    "wof:geomhash":"4e390d44ce1fdc1f892cf7864763a407",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -78,7 +79,7 @@
         }
     ],
     "wof:id":1092060721,
-    "wof:lastmodified":1627522332,
+    "wof:lastmodified":1695886790,
     "wof:name":"Katuwana",
     "wof:parent_id":85673791,
     "wof:placetype":"county",

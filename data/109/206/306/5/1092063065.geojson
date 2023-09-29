@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.015433,
-    "geom:area_square_m":189281276.307441,
+    "geom:area_square_m":189280937.954185,
     "geom:bbox":"80.735366,7.189752,80.858445,7.396345",
     "geom:latitude":7.302897,
     "geom:longitude":80.799786,
@@ -66,9 +66,10 @@
     "wof:concordances":{
         "hasc:id":"LK.KY.ME"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"LK",
     "wof:created":1473899028,
-    "wof:geomhash":"b48f02701eba479e4a3bc65db1ea55bd",
+    "wof:geomhash":"eaa45515ffd542645bc126145c1dfac9",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -78,7 +79,7 @@
         }
     ],
     "wof:id":1092063065,
-    "wof:lastmodified":1627522336,
+    "wof:lastmodified":1695886792,
     "wof:name":"Medadumbara",
     "wof:parent_id":85673719,
     "wof:placetype":"county",

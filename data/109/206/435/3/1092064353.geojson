@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.032245,
-    "geom:area_square_m":394424232.187355,
+    "geom:area_square_m":394424144.529788,
     "geom:bbox":"80.268513,8.277763,80.462842,8.5609",
     "geom:latitude":8.415366,
     "geom:longitude":80.352809,
@@ -66,9 +66,10 @@
     "wof:concordances":{
         "hasc:id":"LK.AD.NC"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"LK",
     "wof:created":1473899077,
-    "wof:geomhash":"af135960dca6f677cabc2a2335677e9c",
+    "wof:geomhash":"61a67e722f5dfdef60f0d127041412d6",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -78,7 +79,7 @@
         }
     ],
     "wof:id":1092064353,
-    "wof:lastmodified":1627522338,
+    "wof:lastmodified":1695886793,
     "wof:name":"Nuwaragam Palatha Central",
     "wof:parent_id":85673751,
     "wof:placetype":"county",

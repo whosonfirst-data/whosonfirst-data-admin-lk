@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.014811,
-    "geom:area_square_m":181777730.792991,
+    "geom:area_square_m":181777767.847267,
     "geom:bbox":"80.013385,6.908089,80.181922,7.071584",
     "geom:latitude":6.990459,
     "geom:longitude":80.098532,
@@ -66,9 +66,10 @@
     "wof:concordances":{
         "hasc:id":"LK.GQ.DO"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"LK",
     "wof:created":1473898828,
-    "wof:geomhash":"1cc2a19535f8e593f9b5432d06860dc9",
+    "wof:geomhash":"800e822f0588aa7ad9f4072b6156bf9f",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -78,7 +79,7 @@
         }
     ],
     "wof:id":1092058055,
-    "wof:lastmodified":1627522329,
+    "wof:lastmodified":1695886788,
     "wof:name":"Dompe",
     "wof:parent_id":85673815,
     "wof:placetype":"county",

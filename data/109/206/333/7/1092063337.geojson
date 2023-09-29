@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.020418,
-    "geom:area_square_m":250405362.673285,
+    "geom:area_square_m":250405129.729943,
     "geom:bbox":"80.865429,7.196454,81.017836,7.491384",
     "geom:latitude":7.346576,
     "geom:longitude":80.949887,
@@ -69,9 +69,10 @@
     "wof:concordances":{
         "hasc:id":"LK.KY.MI"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"LK",
     "wof:created":1473899038,
-    "wof:geomhash":"e0e72301cb82b53ec5343cb7fd17adf2",
+    "wof:geomhash":"67cfac4944c9cf9484631625f0f75771",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -81,7 +82,7 @@
         }
     ],
     "wof:id":1092063337,
-    "wof:lastmodified":1627522336,
+    "wof:lastmodified":1695886793,
     "wof:name":"Minipe",
     "wof:parent_id":85673719,
     "wof:placetype":"county",

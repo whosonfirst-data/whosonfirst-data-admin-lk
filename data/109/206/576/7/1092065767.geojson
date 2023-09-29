@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.010123,
-    "geom:area_square_m":124026912.221287,
+    "geom:area_square_m":124026767.692755,
     "geom:bbox":"79.948966,7.684415,80.090465,7.841043",
     "geom:latitude":7.763679,
     "geom:longitude":80.024479,
@@ -66,9 +66,10 @@
     "wof:concordances":{
         "hasc:id":"LK.KG.RA"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"LK",
     "wof:created":1473899133,
-    "wof:geomhash":"f5308479885d412e0eb35d9769e2e2e6",
+    "wof:geomhash":"b7dff0da4c5e4c47cc4ca2c8b87ae74c",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -78,7 +79,7 @@
         }
     ],
     "wof:id":1092065767,
-    "wof:lastmodified":1627522340,
+    "wof:lastmodified":1695886794,
     "wof:name":"Rasnayakapura",
     "wof:parent_id":85673777,
     "wof:placetype":"county",

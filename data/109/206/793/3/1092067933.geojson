@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.015773,
-    "geom:area_square_m":193637954.609363,
+    "geom:area_square_m":193638092.057187,
     "geom:bbox":"80.778202,6.776627,80.959311,6.929276",
     "geom:latitude":6.860151,
     "geom:longitude":80.881253,
@@ -69,9 +69,10 @@
     "wof:concordances":{
         "hasc:id":"LK.BD.WE"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"LK",
     "wof:created":1473899228,
-    "wof:geomhash":"a1ce0256c8dde9d5c6b6ce0b569329f0",
+    "wof:geomhash":"0345cc486a05696bbd18cc5392fc4bed",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -81,7 +82,7 @@
         }
     ],
     "wof:id":1092067933,
-    "wof:lastmodified":1627522344,
+    "wof:lastmodified":1695886796,
     "wof:name":"Welimada",
     "wof:parent_id":85673801,
     "wof:placetype":"county",

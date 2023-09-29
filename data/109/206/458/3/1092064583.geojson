@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.008652,
-    "geom:area_square_m":105688822.414951,
+    "geom:area_square_m":105688701.376675,
     "geom:bbox":"80.756156,8.836813,80.932207,8.966746",
     "geom:latitude":8.915296,
     "geom:longitude":80.853083,
@@ -66,9 +66,10 @@
     "wof:concordances":{
         "hasc:id":"LK.TC.PS"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"LK",
     "wof:created":1473899086,
-    "wof:geomhash":"fa720092bc60a1421e73256bb37fb734",
+    "wof:geomhash":"a72a43279598fc622f88dd8116cfe10d",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -78,7 +79,7 @@
         }
     ],
     "wof:id":1092064583,
-    "wof:lastmodified":1627522338,
+    "wof:lastmodified":1695886794,
     "wof:name":"Padavi Sri Pura",
     "wof:parent_id":85673747,
     "wof:placetype":"county",

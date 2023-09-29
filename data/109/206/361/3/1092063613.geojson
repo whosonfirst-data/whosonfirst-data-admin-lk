@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.019717,
-    "geom:area_square_m":241520108.80695,
+    "geom:area_square_m":241519903.065747,
     "geom:bbox":"79.746348,7.731403,79.886146,7.985956",
     "geom:latitude":7.860068,
     "geom:longitude":79.814236,
@@ -188,9 +188,10 @@
         "hasc:id":"LK.PX.MU",
         "wd:id":"Q1665318"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"LK",
     "wof:created":1473899048,
-    "wof:geomhash":"a56697ac0bc3bb689552e24d29376285",
+    "wof:geomhash":"0c3b6e5448b9fad18fd3a417cdf20619",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -200,7 +201,7 @@
         }
     ],
     "wof:id":1092063613,
-    "wof:lastmodified":1690938551,
+    "wof:lastmodified":1695886708,
     "wof:name":"Mundal",
     "wof:parent_id":85673779,
     "wof:placetype":"county",

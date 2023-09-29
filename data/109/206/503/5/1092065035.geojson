@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.023522,
-    "geom:area_square_m":288454054.643409,
+    "geom:area_square_m":288454124.584188,
     "geom:bbox":"79.92646,7.283031,80.160969,7.432257",
     "geom:latitude":7.362954,
     "geom:longitude":80.03182,
@@ -66,9 +66,10 @@
     "wof:concordances":{
         "hasc:id":"LK.KG.PL"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"LK",
     "wof:created":1473899104,
-    "wof:geomhash":"e8ef26a7f78768155a9558fc09ed5bd0",
+    "wof:geomhash":"331ad81f960eef5473a5a5ecd652713c",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -78,7 +79,7 @@
         }
     ],
     "wof:id":1092065035,
-    "wof:lastmodified":1627522339,
+    "wof:lastmodified":1695886794,
     "wof:name":"Pannala",
     "wof:parent_id":85673777,
     "wof:placetype":"county",

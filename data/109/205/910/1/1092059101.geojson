@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.028851,
-    "geom:area_square_m":354655946.825498,
+    "geom:area_square_m":354656009.116493,
     "geom:bbox":"81.016345,6.102564,81.298713,6.340844",
     "geom:latitude":6.202897,
     "geom:longitude":81.123146,
@@ -190,9 +190,10 @@
         "hasc:id":"LK.HB.HA",
         "wd:id":"Q723006"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"LK",
     "wof:created":1473898867,
-    "wof:geomhash":"9ad754be2e9342a075fb24624df97d8f",
+    "wof:geomhash":"d42830b7f6ab1673b6c2f7135bafc7cf",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -202,7 +203,7 @@
         }
     ],
     "wof:id":1092059101,
-    "wof:lastmodified":1690938549,
+    "wof:lastmodified":1695886707,
     "wof:name":"Hambantota",
     "wof:parent_id":85673791,
     "wof:placetype":"county",

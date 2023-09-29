@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.008914,
-    "geom:area_square_m":109426775.183643,
+    "geom:area_square_m":109426775.183615,
     "geom:bbox":"80.996937271,6.80683172988,81.1362539983,6.91307520269",
     "geom:latitude":6.867323,
     "geom:longitude":81.066871,
@@ -102,9 +102,10 @@
     "wof:concordances":{
         "hasc:id":"LK.BD.EL"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"LK",
     "wof:created":1473898835,
-    "wof:geomhash":"f3a6884b43d4b1170defacb133d2387b",
+    "wof:geomhash":"bf7a53dda224dcd4f851e3728c2bd447",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -114,7 +115,7 @@
         }
     ],
     "wof:id":1092058259,
-    "wof:lastmodified":1566595276,
+    "wof:lastmodified":1695886707,
     "wof:name":"Ella",
     "wof:parent_id":85673801,
     "wof:placetype":"county",

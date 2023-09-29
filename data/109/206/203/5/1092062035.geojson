@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.005214,
-    "geom:area_square_m":64039516.781259,
+    "geom:area_square_m":64039613.029322,
     "geom:bbox":"80.057101,6.576605,80.139304,6.723556",
     "geom:latitude":6.64894,
     "geom:longitude":80.096685,
@@ -66,9 +66,10 @@
     "wof:concordances":{
         "hasc:id":"LK.KT.MD"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"LK",
     "wof:created":1473898985,
-    "wof:geomhash":"98aede00bfa2a5bb5a9a721fd6a6763e",
+    "wof:geomhash":"1018355be955771ebe714b09281e9082",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -78,7 +79,7 @@
         }
     ],
     "wof:id":1092062035,
-    "wof:lastmodified":1627522334,
+    "wof:lastmodified":1695886791,
     "wof:name":"Madurawala",
     "wof:parent_id":85673819,
     "wof:placetype":"county",

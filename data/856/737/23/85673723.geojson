@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.168565,
-    "geom:area_square_m":2065690735.958346,
+    "geom:area_square_m":2065690643.316071,
     "geom:bbox":"80.496324,7.381617,80.998496,8.011592",
     "geom:latitude":7.667999,
     "geom:longitude":80.730874,
@@ -264,17 +264,19 @@
         "gn:id":1235854,
         "gp:id":23706512,
         "hasc:id":"LK.MT",
+        "iso:code":"LK-22",
         "iso:id":"LK-22",
         "qs_pg:id":1192923,
         "unlc:id":"LK-22",
         "wd:id":"Q787421",
         "wk:page":"Matale District"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"LK",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"45012f112d41239aa6e302342006a104",
+    "wof:geomhash":"7a07a2ed6a427a7b24c71b21f99e841f",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -291,7 +293,7 @@
         "sin",
         "tam"
     ],
-    "wof:lastmodified":1690938540,
+    "wof:lastmodified":1695884362,
     "wof:name":"M\u0101tale",
     "wof:parent_id":85632313,
     "wof:placetype":"region",

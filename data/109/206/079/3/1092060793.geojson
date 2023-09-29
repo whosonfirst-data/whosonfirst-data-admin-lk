@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.028275,
-    "geom:area_square_m":346172211.927879,
+    "geom:area_square_m":346172647.995532,
     "geom:bbox":"80.531655,7.900042,80.736439,8.211855",
     "geom:latitude":8.06091,
     "geom:longitude":80.624547,
@@ -66,9 +66,10 @@
     "wof:concordances":{
         "hasc:id":"LK.AD.KK"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"LK",
     "wof:created":1473898934,
-    "wof:geomhash":"402390ff3e7c2b1939ff3c4af1296b0c",
+    "wof:geomhash":"988de4fe10981a0eca63e2720ef98c42",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -78,7 +79,7 @@
         }
     ],
     "wof:id":1092060793,
-    "wof:lastmodified":1627522333,
+    "wof:lastmodified":1695886790,
     "wof:name":"Kekirawa",
     "wof:parent_id":85673751,
     "wof:placetype":"county",

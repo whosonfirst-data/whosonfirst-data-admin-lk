@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.008584,
-    "geom:area_square_m":105301250.794996,
+    "geom:area_square_m":105301416.013948,
     "geom:bbox":"80.314428,7.114225,80.413152,7.283981",
     "geom:latitude":7.205342,
     "geom:longitude":80.367255,
@@ -204,12 +204,13 @@
         "wd:id":"Q1737803",
         "wk:page":"Kegalle District"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"LK",
     "wof:created":1469052978,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"537164a0afb5b4f3de2cfbf0fc081242",
+    "wof:geomhash":"7cb6359c505d37ba403428679acbfd79",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -219,7 +220,7 @@
         }
     ],
     "wof:id":890455861,
-    "wof:lastmodified":1690938574,
+    "wof:lastmodified":1695886782,
     "wof:name":"Kegalle",
     "wof:parent_id":85673807,
     "wof:placetype":"county",

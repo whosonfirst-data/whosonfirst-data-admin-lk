@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00443,
-    "geom:area_square_m":54460837.727551,
+    "geom:area_square_m":54460545.140626,
     "geom:bbox":"80.136416,6.169588,80.243272,6.258647",
     "geom:latitude":6.206203,
     "geom:longitude":80.179845,
@@ -66,9 +66,10 @@
     "wof:concordances":{
         "hasc:id":"LK.GL.WD"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"LK",
     "wof:created":1473899232,
-    "wof:geomhash":"5d22832b6fec4bae752aa24a6c1575b3",
+    "wof:geomhash":"eacbc106c65773f7239c5411499d4090",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -78,7 +79,7 @@
         }
     ],
     "wof:id":1092068045,
-    "wof:lastmodified":1627522344,
+    "wof:lastmodified":1695886797,
     "wof:name":"Welivitiya-Divithura",
     "wof:parent_id":85673789,
     "wof:placetype":"county",

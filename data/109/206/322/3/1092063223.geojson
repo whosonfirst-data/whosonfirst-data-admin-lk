@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.008897,
-    "geom:area_square_m":109157794.946919,
+    "geom:area_square_m":109158111.43812,
     "geom:bbox":"81.026628,7.068295,81.159776,7.210416",
     "geom:latitude":7.125155,
     "geom:longitude":81.083322,
@@ -66,9 +66,10 @@
     "wof:concordances":{
         "hasc:id":"LK.BD.ME"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"LK",
     "wof:created":1473899034,
-    "wof:geomhash":"537220e0e9a63c72c834f4074b76512b",
+    "wof:geomhash":"5725be863011deec62862960d2ba00e6",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -78,7 +79,7 @@
         }
     ],
     "wof:id":1092063223,
-    "wof:lastmodified":1627522336,
+    "wof:lastmodified":1695886793,
     "wof:name":"Meegahakivula",
     "wof:parent_id":85673801,
     "wof:placetype":"county",

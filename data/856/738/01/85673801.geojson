@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.235188,
-    "geom:area_square_m":2885975816.44275,
+    "geom:area_square_m":2885975255.6508,
     "geom:bbox":"80.778202,6.547505,81.272934,7.613972",
     "geom:latitude":7.074683,
     "geom:longitude":81.044773,
@@ -264,17 +264,19 @@
         "gn:id":1250614,
         "gp:id":23706499,
         "hasc:id":"LK.BD",
+        "iso:code":"LK-81",
         "iso:id":"LK-81",
         "qs_pg:id":219950,
         "unlc:id":"LK-81",
         "wd:id":"Q799713",
         "wk:page":"Badulla District"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"LK",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"730dcef3d5e99538fc32b3681ecebdf2",
+    "wof:geomhash":"0667f0e8fe3c7a357d952c8bf096b7bc",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -291,7 +293,7 @@
         "sin",
         "tam"
     ],
-    "wof:lastmodified":1690938542,
+    "wof:lastmodified":1695884871,
     "wof:name":"Badulla",
     "wof:parent_id":85632313,
     "wof:placetype":"region",

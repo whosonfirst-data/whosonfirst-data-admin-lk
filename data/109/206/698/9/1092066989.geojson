@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.009409,
-    "geom:area_square_m":115355477.99242,
+    "geom:area_square_m":115355460.29138,
     "geom:bbox":"79.899324,7.407189,79.995234,7.560347",
     "geom:latitude":7.47968,
     "geom:longitude":79.946789,
@@ -66,9 +66,10 @@
     "wof:concordances":{
         "hasc:id":"LK.KG.UD"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"LK",
     "wof:created":1473899182,
-    "wof:geomhash":"16bf36b16cbd92f1fbcd1589210474ea",
+    "wof:geomhash":"fa113ba63218870cf2d85a02a24cf0e3",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -78,7 +79,7 @@
         }
     ],
     "wof:id":1092066989,
-    "wof:lastmodified":1627522342,
+    "wof:lastmodified":1695886795,
     "wof:name":"Udubaddawa",
     "wof:parent_id":85673777,
     "wof:placetype":"county",

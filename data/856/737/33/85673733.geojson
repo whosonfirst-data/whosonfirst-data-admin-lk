@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.368117,
-    "geom:area_square_m":4515523403.06983,
+    "geom:area_square_m":4515523553.427711,
     "geom:bbox":"80.979898,6.508267,81.880386,7.738533",
     "geom:latitude":7.236253,
     "geom:longitude":81.550369,
@@ -265,16 +265,18 @@
         "gn:id":1251460,
         "gp:id":23706509,
         "hasc:id":"LK.AP",
+        "iso:code":"LK-52",
         "iso:id":"LK-52",
         "qs_pg:id":888196,
         "unlc:id":"LK-52",
         "wd:id":"Q474395"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"LK",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"b6c835c1af6f324c0045c6ad44aaef03",
+    "wof:geomhash":"d1ef4e4076640b2d581c0039aff92e13",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -291,7 +293,7 @@
         "sin",
         "tam"
     ],
-    "wof:lastmodified":1690938537,
+    "wof:lastmodified":1695884361,
     "wof:name":"Amp\u0101ra",
     "wof:parent_id":85632313,
     "wof:placetype":"region",

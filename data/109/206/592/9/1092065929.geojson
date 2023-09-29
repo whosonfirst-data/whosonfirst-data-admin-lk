@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.035661,
-    "geom:area_square_m":437405049.888202,
+    "geom:area_square_m":437404785.437836,
     "geom:bbox":"81.017761,7.150788,81.272934,7.412859",
     "geom:latitude":7.274063,
     "geom:longitude":81.129272,
@@ -66,9 +66,10 @@
     "wof:concordances":{
         "hasc:id":"LK.BD.RI"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"LK",
     "wof:created":1473899139,
-    "wof:geomhash":"09c7797b4cc6a4883c3f7a6e7c222a91",
+    "wof:geomhash":"7b1b9c86607228cdf1a9ffd4696e6b70",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -78,7 +79,7 @@
         }
     ],
     "wof:id":1092065929,
-    "wof:lastmodified":1627522340,
+    "wof:lastmodified":1695886794,
     "wof:name":"Rideemaliyadda",
     "wof:parent_id":85673801,
     "wof:placetype":"county",

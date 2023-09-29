@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00118,
-    "geom:area_square_m":14488804.811861,
+    "geom:area_square_m":14488946.71035,
     "geom:bbox":"79.858719,6.804488,79.898544,6.847923",
     "geom:latitude":6.826952,
     "geom:longitude":79.876628,
@@ -66,9 +66,10 @@
     "wof:concordances":{
         "hasc:id":"LK.CO.RA"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"LK",
     "wof:created":1473899134,
-    "wof:geomhash":"54e4722fe88e00e7857a4bae03ea3fa7",
+    "wof:geomhash":"451ebd77ebe72af83ed98c8858fcd19b",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -78,7 +79,7 @@
         }
     ],
     "wof:id":1092065801,
-    "wof:lastmodified":1627522340,
+    "wof:lastmodified":1695886794,
     "wof:name":"Rathmalana",
     "wof:parent_id":85673811,
     "wof:placetype":"county",

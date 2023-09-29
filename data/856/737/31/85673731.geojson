@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.142339,
-    "geom:area_square_m":1747028391.459455,
+    "geom:area_square_m":1747029012.573438,
     "geom:bbox":"80.42967,6.74985,80.965365,7.268516",
     "geom:latitude":6.97398,
     "geom:longitude":80.711584,
@@ -264,17 +264,19 @@
         "gn:id":1232781,
         "gp:id":23706511,
         "hasc:id":"LK.NW",
+        "iso:code":"LK-23",
         "iso:id":"LK-23",
         "qs_pg:id":1192922,
         "unlc:id":"LK-23",
         "wd:id":"Q1583950",
         "wk:page":"Nuwara Eliya District"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"LK",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"a02f023eb7d05c87a7fbf77c4f1e1348",
+    "wof:geomhash":"f33f577d89a1db43bc13d3196ad16029",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -291,7 +293,7 @@
         "sin",
         "tam"
     ],
-    "wof:lastmodified":1690938538,
+    "wof:lastmodified":1695884361,
     "wof:name":"Nuvara \u0114liya",
     "wof:parent_id":85632313,
     "wof:placetype":"region",

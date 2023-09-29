@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.007621,
-    "geom:area_square_m":93428472.03055,
+    "geom:area_square_m":93428785.586988,
     "geom:bbox":"79.808435,7.468004,79.910044,7.58659",
     "geom:latitude":7.517462,
     "geom:longitude":79.865552,
@@ -75,9 +75,10 @@
     "wof:concordances":{
         "hasc:id":"LK.PX.MD"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"LK",
     "wof:created":1473898980,
-    "wof:geomhash":"e52d877af775d05e4a811e0efeb25732",
+    "wof:geomhash":"7c6e53e0d8b32fcb38a08512ede603c2",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -87,7 +88,7 @@
         }
     ],
     "wof:id":1092061929,
-    "wof:lastmodified":1627522334,
+    "wof:lastmodified":1695886791,
     "wof:name":"Madampe",
     "wof:parent_id":85673779,
     "wof:placetype":"county",

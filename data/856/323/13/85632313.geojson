@@ -1182,6 +1182,7 @@
         "hasc:id":"LK",
         "icao:code":"4R",
         "ioc:id":"SRI",
+        "iso:code":"LK",
         "itu:id":"CLN",
         "m49:code":"144",
         "marc:id":"ce",
@@ -1195,6 +1196,7 @@
         "wk:page":"Sri Lanka",
         "wmo:id":"SB"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"LK",
     "wof:country_alpha3":"LKA",
     "wof:geom_alt":[
@@ -1218,7 +1220,7 @@
         "sin",
         "tam"
     ],
-    "wof:lastmodified":1694639527,
+    "wof:lastmodified":1695881183,
     "wof:name":"Sri Lanka",
     "wof:parent_id":102191569,
     "wof:placetype":"country",

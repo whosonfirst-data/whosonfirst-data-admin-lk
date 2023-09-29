@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.01404,
-    "geom:area_square_m":171928506.751077,
+    "geom:area_square_m":171928559.141717,
     "geom:bbox":"80.267427,7.881347,80.426562,8.057048",
     "geom:latitude":7.964764,
     "geom:longitude":80.35783,
@@ -66,9 +66,10 @@
     "wof:concordances":{
         "hasc:id":"LK.KG.EH"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"LK",
     "wof:created":1473898830,
-    "wof:geomhash":"b2b5ee4805412f829d2db0c0e8064472",
+    "wof:geomhash":"f928613e7a49990d74701ae00811e16c",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -78,7 +79,7 @@
         }
     ],
     "wof:id":1092058131,
-    "wof:lastmodified":1627522329,
+    "wof:lastmodified":1695886788,
     "wof:name":"Ehetuwewa",
     "wof:parent_id":85673777,
     "wof:placetype":"county",

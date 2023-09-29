@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.221127,
-    "geom:area_square_m":2699363086.421017,
+    "geom:area_square_m":2699363676.307877,
     "geom:bbox":"80.175165,8.894181,80.963722,9.458844",
     "geom:latitude":9.165492,
     "geom:longitude":80.551345,
@@ -290,15 +290,17 @@
         "gn:id":1234392,
         "gp:id":23706505,
         "hasc:id":"LK.MP",
+        "iso:code":"LK-45",
         "iso:id":"LK-45",
         "qs_pg:id":1236499,
         "wd:id":"Q1587508"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"LK",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"fa785631242eebdfd0920cd25729aa73",
+    "wof:geomhash":"321ac74135df5c96121c21d703829aa9",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -315,7 +317,7 @@
         "sin",
         "tam"
     ],
-    "wof:lastmodified":1690938539,
+    "wof:lastmodified":1695884871,
     "wof:name":"Mulativ",
     "wof:parent_id":85632313,
     "wof:placetype":"region",

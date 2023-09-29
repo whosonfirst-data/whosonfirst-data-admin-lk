@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.005594,
-    "geom:area_square_m":68609513.845015,
+    "geom:area_square_m":68609384.215136,
     "geom:bbox":"80.472815,7.246205,80.601866,7.318729",
     "geom:latitude":7.282242,
     "geom:longitude":80.537571,
@@ -66,9 +66,10 @@
     "wof:concordances":{
         "hasc:id":"LK.KY.YA"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"LK",
     "wof:created":1473899240,
-    "wof:geomhash":"444b64a9a95225d32651c0b7f46e4a83",
+    "wof:geomhash":"1fd7b5ab67bfd8d7ef697c5e4a329649",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -78,7 +79,7 @@
         }
     ],
     "wof:id":1092068267,
-    "wof:lastmodified":1627522344,
+    "wof:lastmodified":1695886797,
     "wof:name":"Yatinuwara",
     "wof:parent_id":85673719,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.005105,
-    "geom:area_square_m":62787456.877025,
+    "geom:area_square_m":62787596.783981,
     "geom:bbox":"80.501103,5.929555,80.630103,5.99684",
     "geom:latitude":5.96169,
     "geom:longitude":80.561033,
@@ -66,9 +66,10 @@
     "wof:concordances":{
         "hasc:id":"LK.MH.MF"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"LK",
     "wof:created":1473899017,
-    "wof:geomhash":"33762da67db5aa231b07d3b0e04da3a3",
+    "wof:geomhash":"27c54a12f1e23fd848d876eace5ffd48",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -78,7 +79,7 @@
         }
     ],
     "wof:id":1092062917,
-    "wof:lastmodified":1627522336,
+    "wof:lastmodified":1695886792,
     "wof:name":"Matara Four Gravets",
     "wof:parent_id":85673795,
     "wof:placetype":"county",

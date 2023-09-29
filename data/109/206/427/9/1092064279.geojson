@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.069365,
-    "geom:area_square_m":848655575.829792,
+    "geom:area_square_m":848655615.65321,
     "geom:bbox":"79.951692,8.176809,80.324992,8.524043",
     "geom:latitude":8.331361,
     "geom:longitude":80.125268,
@@ -66,9 +66,10 @@
     "wof:concordances":{
         "hasc:id":"LK.AD.NO"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"LK",
     "wof:created":1473899074,
-    "wof:geomhash":"9c141c37f69c186933ed2d70603c15f6",
+    "wof:geomhash":"e41feb3456e72a6ff02c6f6925948b56",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -78,7 +79,7 @@
         }
     ],
     "wof:id":1092064279,
-    "wof:lastmodified":1627522338,
+    "wof:lastmodified":1695886793,
     "wof:name":"Nochchiyagama",
     "wof:parent_id":85673751,
     "wof:placetype":"county",

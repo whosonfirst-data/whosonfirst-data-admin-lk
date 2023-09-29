@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00759,
-    "geom:area_square_m":93065716.08095,
+    "geom:area_square_m":93065750.372259,
     "geom:bbox":"80.685593,7.348049,80.809438,7.473331",
     "geom:latitude":7.410427,
     "geom:longitude":80.741091,
@@ -66,9 +66,10 @@
     "wof:concordances":{
         "hasc:id":"LK.KY.PV"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"LK",
     "wof:created":1473899105,
-    "wof:geomhash":"1f75725f85737c3f0550cff16534c82c",
+    "wof:geomhash":"158de70ea355b22c0f14a7579504b5ae",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -78,7 +79,7 @@
         }
     ],
     "wof:id":1092065061,
-    "wof:lastmodified":1627522339,
+    "wof:lastmodified":1695886794,
     "wof:name":"Panvila",
     "wof:parent_id":85673719,
     "wof:placetype":"county",

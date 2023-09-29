@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.011765,
-    "geom:area_square_m":144503344.395028,
+    "geom:area_square_m":144503159.129027,
     "geom:bbox":"80.400198,6.574908,80.606528,6.700859",
     "geom:latitude":6.636353,
     "geom:longitude":80.510251,
@@ -66,9 +66,10 @@
     "wof:concordances":{
         "hasc:id":"LK.RN.PE"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"LK",
     "wof:created":1473899114,
-    "wof:geomhash":"85a8d1faec7c6f2564b2f06ef20f013e",
+    "wof:geomhash":"e8d59eb0ef384f212ccda38a777e16f8",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -78,7 +79,7 @@
         }
     ],
     "wof:id":1092065303,
-    "wof:lastmodified":1627522339,
+    "wof:lastmodified":1695886794,
     "wof:name":"Pelmadulla",
     "wof:parent_id":85673785,
     "wof:placetype":"county",

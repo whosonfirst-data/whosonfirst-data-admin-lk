@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.008556,
-    "geom:area_square_m":105042900.477011,
+    "geom:area_square_m":105043093.985224,
     "geom:bbox":"80.039872,6.769923,80.203363,6.888059",
     "geom:latitude":6.834352,
     "geom:longitude":80.122963,
@@ -69,9 +69,10 @@
     "wof:concordances":{
         "hasc:id":"LK.CO.PA"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"LK",
     "wof:created":1473899090,
-    "wof:geomhash":"4e6d46c55fc8334f52b2b2aca08a042a",
+    "wof:geomhash":"ff99da4d5554912155a41af93d7c3201",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -81,7 +82,7 @@
         }
     ],
     "wof:id":1092064693,
-    "wof:lastmodified":1627522338,
+    "wof:lastmodified":1695886794,
     "wof:name":"Padukka",
     "wof:parent_id":85673811,
     "wof:placetype":"county",

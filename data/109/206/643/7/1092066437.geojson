@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.036385,
-    "geom:area_square_m":445668257.064397,
+    "geom:area_square_m":445668515.718097,
     "geom:bbox":"80.885496,7.708871,81.122065,8.013645",
     "geom:latitude":7.873694,
     "geom:longitude":80.98845,
@@ -66,9 +66,10 @@
     "wof:concordances":{
         "hasc:id":"LK.PR.TH"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"LK",
     "wof:created":1473899159,
-    "wof:geomhash":"0e687c668cfff4d0f1ea2dc1c7511e0c",
+    "wof:geomhash":"81c9093c8a2c139e7277c6a6554d8baa",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -78,7 +79,7 @@
         }
     ],
     "wof:id":1092066437,
-    "wof:lastmodified":1627522341,
+    "wof:lastmodified":1695886795,
     "wof:name":"Thamankaduwa",
     "wof:parent_id":85673743,
     "wof:placetype":"county",

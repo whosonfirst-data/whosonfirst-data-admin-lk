@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001552,
-    "geom:area_square_m":19055533.796453,
+    "geom:area_square_m":19055510.494973,
     "geom:bbox":"79.866018,6.758651,79.911052,6.817603",
     "geom:latitude":6.790538,
     "geom:longitude":79.888578,
@@ -141,9 +141,10 @@
     "wof:concordances":{
         "hasc:id":"LK.CO.MO"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"LK",
     "wof:created":1473899044,
-    "wof:geomhash":"6ee16c9b40f3808a57169933c3208af1",
+    "wof:geomhash":"dd6b9e0bdd3d826fe8318c77688db199",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -153,7 +154,7 @@
         }
     ],
     "wof:id":1092063487,
-    "wof:lastmodified":1636500557,
+    "wof:lastmodified":1695886759,
     "wof:name":"Moratuwa",
     "wof:parent_id":85673811,
     "wof:placetype":"county",

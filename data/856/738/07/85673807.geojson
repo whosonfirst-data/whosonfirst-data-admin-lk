@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.136112,
-    "geom:area_square_m":1670121147.126261,
+    "geom:area_square_m":1670120929.632138,
     "geom:bbox":"80.150923,6.828223,80.545552,7.396812",
     "geom:latitude":7.104498,
     "geom:longitude":80.343308,
@@ -258,15 +258,17 @@
         "gn:id":1240722,
         "gp:id":23706495,
         "hasc:id":"LK.KE",
+        "iso:code":"LK-92",
         "iso:id":"LK-92",
         "qs_pg:id":891829,
         "wd:id":"Q1737803"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"LK",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"2264e47fcdb8af9fe60fa24aaf07b995",
+    "wof:geomhash":"848b5d22a14be143d189cf24615dfd85",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -283,7 +285,7 @@
         "sin",
         "tam"
     ],
-    "wof:lastmodified":1690938542,
+    "wof:lastmodified":1695884362,
     "wof:name":"K\u00e6galla",
     "wof:parent_id":85632313,
     "wof:placetype":"region",

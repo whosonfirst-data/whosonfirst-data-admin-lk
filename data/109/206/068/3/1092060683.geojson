@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000444,
-    "geom:area_square_m":5439194.306833,
+    "geom:area_square_m":5439194.306832,
     "geom:bbox":"81.7074188483,7.67239731071,81.7437595784,7.69360047823",
     "geom:latitude":7.68142,
     "geom:longitude":81.726511,
@@ -87,9 +87,10 @@
     "wof:concordances":{
         "hasc:id":"LK.BC.MN"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"LK",
     "wof:created":1473898929,
-    "wof:geomhash":"0e5466c798b435f9685c9017929c3f3f",
+    "wof:geomhash":"8a5db877063784a2a6763b08eecf5997",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -99,7 +100,7 @@
         }
     ],
     "wof:id":1092060683,
-    "wof:lastmodified":1566595310,
+    "wof:lastmodified":1695886708,
     "wof:name":"Kattankudy",
     "wof:parent_id":85673737,
     "wof:placetype":"county",

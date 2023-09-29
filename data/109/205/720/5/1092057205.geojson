@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002355,
-    "geom:area_square_m":28949913.648592,
+    "geom:area_square_m":28950052.57428,
     "geom:bbox":"80.182347,6.057599,80.24891,6.115224",
     "geom:latitude":6.084415,
     "geom:longitude":80.216144,
@@ -66,9 +66,10 @@
     "wof:concordances":{
         "hasc:id":"LK.GL.BP"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"LK",
     "wof:created":1473898796,
-    "wof:geomhash":"8d96de6e4988da7273dfa8bc6fb90b28",
+    "wof:geomhash":"2264218333b6b127fc71845996a4821f",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -78,7 +79,7 @@
         }
     ],
     "wof:id":1092057205,
-    "wof:lastmodified":1627522328,
+    "wof:lastmodified":1695886787,
     "wof:name":"Bope-Poddala",
     "wof:parent_id":85673789,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.017464,
-    "geom:area_square_m":213288791.292651,
+    "geom:area_square_m":213289139.242411,
     "geom:bbox":"79.683746,8.838099,80.080652,9.106222",
     "geom:latitude":8.99085,
     "geom:longitude":79.887366,
@@ -66,9 +66,10 @@
     "wof:concordances":{
         "hasc:id":"LK.MB.MT"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"LK",
     "wof:created":1473899008,
-    "wof:geomhash":"c28d37561f1cacdec3b0fd344fdced49",
+    "wof:geomhash":"2f0036a8991fa5107a0e3fe2dd0e33bd",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -78,7 +79,7 @@
         }
     ],
     "wof:id":1092062683,
-    "wof:lastmodified":1627522335,
+    "wof:lastmodified":1695886792,
     "wof:name":"Mannar Town",
     "wof:parent_id":85673761,
     "wof:placetype":"county",

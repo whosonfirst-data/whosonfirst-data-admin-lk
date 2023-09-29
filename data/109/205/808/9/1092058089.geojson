@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.011734,
-    "geom:area_square_m":144067807.866964,
+    "geom:area_square_m":144067412.561123,
     "geom:bbox":"80.175589,6.751227,80.290332,6.929675",
     "geom:latitude":6.837374,
     "geom:longitude":80.22742,
@@ -66,9 +66,10 @@
     "wof:concordances":{
         "hasc:id":"LK.RN.EH"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"LK",
     "wof:created":1473898829,
-    "wof:geomhash":"8b7c82c177afefbab07e4aed2ae7a60c",
+    "wof:geomhash":"db60ca59e289353f8b7a37598402995e",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -78,7 +79,7 @@
         }
     ],
     "wof:id":1092058089,
-    "wof:lastmodified":1627522329,
+    "wof:lastmodified":1695886788,
     "wof:name":"Eheliyagoda",
     "wof:parent_id":85673785,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.162138,
-    "geom:area_square_m":1980843942.464025,
+    "geom:area_square_m":1980843897.17685,
     "geom:bbox":"79.683746,8.522652,80.401262,9.233184",
     "geom:latitude":8.876512,
     "geom:longitude":80.091896,
@@ -262,16 +262,18 @@
         "gn:id":1236148,
         "gp:id":23706506,
         "hasc:id":"LK.MB",
+        "iso:code":"LK-43",
         "iso:id":"LK-43",
         "qs_pg:id":953632,
         "unlc:id":"LK-43",
         "wd:id":"Q178003"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"LK",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"16dd05d5d49dfa5f31d8935597fd3999",
+    "wof:geomhash":"4b1f1d208758e6aee13de718058fe1e6",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -288,7 +290,7 @@
         "sin",
         "tam"
     ],
-    "wof:lastmodified":1690938536,
+    "wof:lastmodified":1695884361,
     "wof:name":"Mann\u0101rama",
     "wof:parent_id":85632313,
     "wof:placetype":"region",

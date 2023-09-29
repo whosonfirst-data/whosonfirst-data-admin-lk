@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.015212,
-    "geom:area_square_m":186602128.453299,
+    "geom:area_square_m":186602118.200603,
     "geom:bbox":"80.037001,7.137678,80.197906,7.330748",
     "geom:latitude":7.224846,
     "geom:longitude":80.123433,
@@ -69,9 +69,10 @@
     "wof:concordances":{
         "hasc:id":"LK.GQ.MR"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"LK",
     "wof:created":1473899041,
-    "wof:geomhash":"7dffb7202576e969801f47a665c58c40",
+    "wof:geomhash":"ce9af18a69b6708d7fe56957b8d2e95d",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -81,7 +82,7 @@
         }
     ],
     "wof:id":1092063403,
-    "wof:lastmodified":1627522337,
+    "wof:lastmodified":1695886793,
     "wof:name":"Mirigama",
     "wof:parent_id":85673815,
     "wof:placetype":"county",

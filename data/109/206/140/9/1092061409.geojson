@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.015178,
-    "geom:area_square_m":185912983.254078,
+    "geom:area_square_m":185913184.812046,
     "geom:bbox":"80.035633,7.796524,80.203723,7.9517",
     "geom:latitude":7.863465,
     "geom:longitude":80.122055,
@@ -66,9 +66,10 @@
     "wof:concordances":{
         "hasc:id":"LK.KG.KT"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"LK",
     "wof:created":1473898956,
-    "wof:geomhash":"b4f33106e575611a6c3560f5447c44f1",
+    "wof:geomhash":"4edd003fae2441f096769634b4b8f9fa",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -78,7 +79,7 @@
         }
     ],
     "wof:id":1092061409,
-    "wof:lastmodified":1627522333,
+    "wof:lastmodified":1695886791,
     "wof:name":"Kotavehera",
     "wof:parent_id":85673777,
     "wof:placetype":"county",

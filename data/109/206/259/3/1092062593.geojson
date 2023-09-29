@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.012629,
-    "geom:area_square_m":154801816.768979,
+    "geom:area_square_m":154801907.113081,
     "geom:bbox":"81.524868,7.506992,81.774586,7.651389",
     "geom:latitude":7.56847,
     "geom:longitude":81.661028,
@@ -66,9 +66,10 @@
     "wof:concordances":{
         "hasc:id":"LK.BC.MS"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"LK",
     "wof:created":1473899005,
-    "wof:geomhash":"b7c79e9fa39f6ca6c7b67b35d26b0932",
+    "wof:geomhash":"93cc448e72603f45ad550ef51ac3e4f0",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -78,7 +79,7 @@
         }
     ],
     "wof:id":1092062593,
-    "wof:lastmodified":1627522335,
+    "wof:lastmodified":1695886792,
     "wof:name":"Manmunai South-West",
     "wof:parent_id":85673737,
     "wof:placetype":"county",

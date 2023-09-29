@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.022554,
-    "geom:area_square_m":276155712.368073,
+    "geom:area_square_m":276155687.749378,
     "geom:bbox":"80.132847,7.937958,80.368081,8.12",
     "geom:latitude":8.017287,
     "geom:longitude":80.258689,
@@ -66,9 +66,10 @@
     "wof:concordances":{
         "hasc:id":"LK.KG.GG"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"LK",
     "wof:created":1473898845,
-    "wof:geomhash":"abd2838a858d96b7c7c767d574b61e42",
+    "wof:geomhash":"b59e06cd34de08d7565e414e134c0f12",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -78,7 +79,7 @@
         }
     ],
     "wof:id":1092058547,
-    "wof:lastmodified":1627522330,
+    "wof:lastmodified":1695886788,
     "wof:name":"Galgamuwa",
     "wof:parent_id":85673777,
     "wof:placetype":"county",

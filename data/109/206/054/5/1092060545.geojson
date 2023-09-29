@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00058,
-    "geom:area_square_m":7117195.809498,
+    "geom:area_square_m":7117114.996488,
     "geom:bbox":"81.821418,7.358873,81.854588,7.395144",
     "geom:latitude":7.372003,
     "geom:longitude":81.839585,
@@ -66,9 +66,10 @@
     "wof:concordances":{
         "hasc:id":"LK.AP.KR"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"LK",
     "wof:created":1473898922,
-    "wof:geomhash":"81ee990278ed8c6b76bd29c3599db12f",
+    "wof:geomhash":"c486abdfbcde43063a19baa62fab9c05",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -78,7 +79,7 @@
         }
     ],
     "wof:id":1092060545,
-    "wof:lastmodified":1627522332,
+    "wof:lastmodified":1695886790,
     "wof:name":"Karaitheevu",
     "wof:parent_id":85673733,
     "wof:placetype":"county",

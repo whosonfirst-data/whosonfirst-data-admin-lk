@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.018553,
-    "geom:area_square_m":227226297.178774,
+    "geom:area_square_m":227226324.326281,
     "geom:bbox":"80.459788,7.817885,80.633971,8.003878",
     "geom:latitude":7.906471,
     "geom:longitude":80.537922,
@@ -66,9 +66,10 @@
     "wof:concordances":{
         "hasc:id":"LK.AD.PL"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"LK",
     "wof:created":1473899095,
-    "wof:geomhash":"d4ae45483b9bef8defc4fd51227038fc",
+    "wof:geomhash":"bf44063ffd9fa3a88df002ff145d7d93",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -78,7 +79,7 @@
         }
     ],
     "wof:id":1092064793,
-    "wof:lastmodified":1627522339,
+    "wof:lastmodified":1695886794,
     "wof:name":"Palagala",
     "wof:parent_id":85673751,
     "wof:placetype":"county",

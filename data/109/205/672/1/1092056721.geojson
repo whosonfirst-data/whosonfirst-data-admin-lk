@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.012743,
-    "geom:area_square_m":156357980.33318,
+    "geom:area_square_m":156358013.711245,
     "geom:bbox":"80.011175,7.057031,80.209734,7.169021",
     "geom:latitude":7.114624,
     "geom:longitude":80.111283,
@@ -72,9 +72,10 @@
     "wof:concordances":{
         "hasc:id":"LK.GQ.AT"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"LK",
     "wof:created":1473898773,
-    "wof:geomhash":"66b859187d885da43b3a78842dc4b8d0",
+    "wof:geomhash":"8bd0b5295fab26f1feb40324c406069d",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -84,7 +85,7 @@
         }
     ],
     "wof:id":1092056721,
-    "wof:lastmodified":1627522327,
+    "wof:lastmodified":1695886787,
     "wof:name":"Attanagalla",
     "wof:parent_id":85673815,
     "wof:placetype":"county",

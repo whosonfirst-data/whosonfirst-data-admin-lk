@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.014329,
-    "geom:area_square_m":175930191.782643,
+    "geom:area_square_m":175930684.026086,
     "geom:bbox":"80.275904,6.708312,80.451929,6.862681",
     "geom:latitude":6.797389,
     "geom:longitude":80.356948,
@@ -66,9 +66,10 @@
     "wof:concordances":{
         "hasc:id":"LK.RN.KU"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"LK",
     "wof:created":1473898966,
-    "wof:geomhash":"4b047228677c5e075711e90d027dae45",
+    "wof:geomhash":"e1eb39afcea08b9eaf12bd68cadb9c52",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -78,7 +79,7 @@
         }
     ],
     "wof:id":1092061795,
-    "wof:lastmodified":1627522334,
+    "wof:lastmodified":1695886791,
     "wof:name":"Kuruvita",
     "wof:parent_id":85673785,
     "wof:placetype":"county",

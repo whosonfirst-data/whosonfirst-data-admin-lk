@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.032942,
-    "geom:area_square_m":403727162.586864,
+    "geom:area_square_m":403727021.676815,
     "geom:bbox":"80.979898,7.504739,81.215502,7.730413",
     "geom:latitude":7.624308,
     "geom:longitude":81.086572,
@@ -66,9 +66,10 @@
     "wof:concordances":{
         "hasc:id":"LK.AP.DE"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"LK",
     "wof:created":1473898810,
-    "wof:geomhash":"dc0ece14cbb0d4fe8c2c73b1d9b36c7d",
+    "wof:geomhash":"22a298687d99f8670c1174d69813fca5",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -78,7 +79,7 @@
         }
     ],
     "wof:id":1092057577,
-    "wof:lastmodified":1627522328,
+    "wof:lastmodified":1695886788,
     "wof:name":"Dehiattakandiya",
     "wof:parent_id":85673733,
     "wof:placetype":"county",

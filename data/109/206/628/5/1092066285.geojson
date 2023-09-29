@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.006695,
-    "geom:area_square_m":82158714.917821,
+    "geom:area_square_m":82158495.428938,
     "geom:bbox":"80.998087,6.997651,81.103872,7.089512",
     "geom:latitude":7.045235,
     "geom:longitude":81.049291,
@@ -66,9 +66,10 @@
     "wof:concordances":{
         "hasc:id":"LK.BD.SO"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"LK",
     "wof:created":1473899153,
-    "wof:geomhash":"baf6cd43283d6fd84396cd92d3e8e1f9",
+    "wof:geomhash":"f8d9c7742b949710d8dbb4598c297fbe",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -78,7 +79,7 @@
         }
     ],
     "wof:id":1092066285,
-    "wof:lastmodified":1627522341,
+    "wof:lastmodified":1695886795,
     "wof:name":"Soranathota",
     "wof:parent_id":85673801,
     "wof:placetype":"county",

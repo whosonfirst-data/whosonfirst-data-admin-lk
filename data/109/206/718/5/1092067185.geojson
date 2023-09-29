@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002503,
-    "geom:area_square_m":30500734.59203,
+    "geom:area_square_m":30500663.965292,
     "geom:bbox":"79.990815,9.708936,80.083081,9.772245",
     "geom:latitude":9.746599,
     "geom:longitude":80.034678,
@@ -66,9 +66,10 @@
     "wof:concordances":{
         "hasc:id":"LK.JA.VS"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"LK",
     "wof:created":1473899199,
-    "wof:geomhash":"8ad7fca3a98488cbef465c8976a85fbc",
+    "wof:geomhash":"be5355550b17d03975382866a7441892",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -78,7 +79,7 @@
         }
     ],
     "wof:id":1092067185,
-    "wof:lastmodified":1627522343,
+    "wof:lastmodified":1695886796,
     "wof:name":"Valikamam South (Uduvil)",
     "wof:parent_id":85673769,
     "wof:placetype":"county",

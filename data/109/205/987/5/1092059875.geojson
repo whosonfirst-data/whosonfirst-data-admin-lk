@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.007204,
-    "geom:area_square_m":88435677.353089,
+    "geom:area_square_m":88435353.3255,
     "geom:bbox":"79.903064,6.856886,80.045668,6.947825",
     "geom:latitude":6.903652,
     "geom:longitude":79.978154,
@@ -72,9 +72,10 @@
     "wof:concordances":{
         "hasc:id":"LK.CO.KA"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"LK",
     "wof:created":1473898894,
-    "wof:geomhash":"87d6768a0cacadf298142e0f963c677d",
+    "wof:geomhash":"a67a08156b8615fbcff30ed06856d5a2",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -84,7 +85,7 @@
         }
     ],
     "wof:id":1092059875,
-    "wof:lastmodified":1627522331,
+    "wof:lastmodified":1695886790,
     "wof:name":"Kaduwela",
     "wof:parent_id":85673811,
     "wof:placetype":"county",

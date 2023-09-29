@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.021429,
-    "geom:area_square_m":262523038.423048,
+    "geom:area_square_m":262523038.423083,
     "geom:bbox":"80.1972270488,7.70271995037,80.3708422564,7.89639845247",
     "geom:latitude":7.805543,
     "geom:longitude":80.290828,
@@ -78,9 +78,10 @@
     "wof:concordances":{
         "hasc:id":"LK.KG.MH"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"LK",
     "wof:created":1473898997,
-    "wof:geomhash":"31a840c826052f34d40fb6f5895dee5e",
+    "wof:geomhash":"78a6cf13751d4f8ac26b701c331b4cb7",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -90,7 +91,7 @@
         }
     ],
     "wof:id":1092062365,
-    "wof:lastmodified":1566595308,
+    "wof:lastmodified":1695886708,
     "wof:name":"Maho",
     "wof:parent_id":85673777,
     "wof:placetype":"county",

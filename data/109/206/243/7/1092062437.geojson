@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.006721,
-    "geom:area_square_m":82406604.519154,
+    "geom:area_square_m":82406666.08385,
     "geom:bbox":"80.352891,7.387586,80.430373,7.546798",
     "geom:latitude":7.466482,
     "geom:longitude":80.39036,
@@ -66,9 +66,10 @@
     "wof:concordances":{
         "hasc:id":"LK.KG.ML"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"LK",
     "wof:created":1473899000,
-    "wof:geomhash":"1536315c8cbb98908cb01d9baa67d313",
+    "wof:geomhash":"946d66779cdccba24eed7ee9d31e8b70",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -78,7 +79,7 @@
         }
     ],
     "wof:id":1092062437,
-    "wof:lastmodified":1627522335,
+    "wof:lastmodified":1695886792,
     "wof:name":"Mallawapitiya",
     "wof:parent_id":85673777,
     "wof:placetype":"county",

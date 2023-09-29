@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001563,
-    "geom:area_square_m":19186616.469263,
+    "geom:area_square_m":19186616.469244,
     "geom:bbox":"79.840385,6.914368,79.884613,6.983537",
     "geom:latitude":6.943659,
     "geom:longitude":79.863469,
@@ -163,12 +163,13 @@
         "hasc:id":"LK.CO.CO",
         "wd:id":"Q606287"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:coterminous":[
         421201495
     ],
     "wof:country":"LK",
     "wof:created":1473898804,
-    "wof:geomhash":"94eebcf59172a034e80d83c484b7e245",
+    "wof:geomhash":"705d64891b6f19140bee5119957a874d",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -178,7 +179,7 @@
         }
     ],
     "wof:id":1092057419,
-    "wof:lastmodified":1690938548,
+    "wof:lastmodified":1695886403,
     "wof:name":"Colombo",
     "wof:parent_id":85673811,
     "wof:placetype":"county",

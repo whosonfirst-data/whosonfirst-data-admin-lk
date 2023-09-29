@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.015541,
-    "geom:area_square_m":190090918.682216,
+    "geom:area_square_m":190090888.195443,
     "geom:bbox":"81.211194,8.324956,81.37263,8.522056",
     "geom:latitude":8.428065,
     "geom:longitude":81.29134,
@@ -66,9 +66,10 @@
     "wof:concordances":{
         "hasc:id":"LK.TC.MU"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"LK",
     "wof:created":1473899051,
-    "wof:geomhash":"ac4be36885ef4c5ec640d0dd924cbd1e",
+    "wof:geomhash":"382430a182a5c966f9952f2add36ae6e",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -78,7 +79,7 @@
         }
     ],
     "wof:id":1092063685,
-    "wof:lastmodified":1627522337,
+    "wof:lastmodified":1695886793,
     "wof:name":"Muttur",
     "wof:parent_id":85673747,
     "wof:placetype":"county",

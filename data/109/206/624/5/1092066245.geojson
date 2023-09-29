@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.01549,
-    "geom:area_square_m":190380529.45209,
+    "geom:area_square_m":190380794.222781,
     "geom:bbox":"80.92282,6.189901,81.081232,6.396842",
     "geom:latitude":6.292376,
     "geom:longitude":81.013928,
@@ -69,9 +69,10 @@
     "wof:concordances":{
         "hasc:id":"LK.HB.SO"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"LK",
     "wof:created":1473899151,
-    "wof:geomhash":"78accb40ea789a4df1f729843b3c04d6",
+    "wof:geomhash":"e36abe9e900d85fef9d1bed122e16ad0",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -81,7 +82,7 @@
         }
     ],
     "wof:id":1092066245,
-    "wof:lastmodified":1627522341,
+    "wof:lastmodified":1695886795,
     "wof:name":"Sooriyawewa",
     "wof:parent_id":85673791,
     "wof:placetype":"county",

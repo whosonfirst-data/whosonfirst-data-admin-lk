@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002472,
-    "geom:area_square_m":30272377.220037,
+    "geom:area_square_m":30272098.93838,
     "geom:bbox":"81.516808,7.871613,81.584587,7.94661",
     "geom:latitude":7.902667,
     "geom:longitude":81.546849,
@@ -66,9 +66,10 @@
     "wof:concordances":{
         "hasc:id":"LK.BC.KU"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"LK",
     "wof:created":1473898947,
-    "wof:geomhash":"d387c193ba1d995d68454561df3d66bd",
+    "wof:geomhash":"ce196f14d6bcb4a14bbc094f63fc9e02",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -78,7 +79,7 @@
         }
     ],
     "wof:id":1092061175,
-    "wof:lastmodified":1627522333,
+    "wof:lastmodified":1695886791,
     "wof:name":"Koralai Pattu (Valachchenai)",
     "wof:parent_id":85673737,
     "wof:placetype":"county",

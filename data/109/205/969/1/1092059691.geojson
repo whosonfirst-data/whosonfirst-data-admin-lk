@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.011576,
-    "geom:area_square_m":141711479.016487,
+    "geom:area_square_m":141711710.34699,
     "geom:bbox":"80.418077,7.990904,80.580485,8.152407",
     "geom:latitude":8.086756,
     "geom:longitude":80.507035,
@@ -66,9 +66,10 @@
     "wof:concordances":{
         "hasc:id":"LK.AD.IP"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"LK",
     "wof:created":1473898887,
-    "wof:geomhash":"a54df1e6cd466227cdac6b1b3469d966",
+    "wof:geomhash":"079733856e4a673d3917b248d3365a51",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -78,7 +79,7 @@
         }
     ],
     "wof:id":1092059691,
-    "wof:lastmodified":1627522331,
+    "wof:lastmodified":1695886789,
     "wof:name":"Ipalogama",
     "wof:parent_id":85673751,
     "wof:placetype":"county",

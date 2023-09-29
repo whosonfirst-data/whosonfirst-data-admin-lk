@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.007548,
-    "geom:area_square_m":91983198.429671,
+    "geom:area_square_m":91982883.42721,
     "geom:bbox":"80.130371,9.716509,80.246562,9.823876",
     "geom:latitude":9.775662,
     "geom:longitude":80.18423,
@@ -66,9 +66,10 @@
     "wof:concordances":{
         "hasc:id":"LK.JA.VD"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"LK",
     "wof:created":1473899193,
-    "wof:geomhash":"f9b18b83a5cf77460316448c124a3a67",
+    "wof:geomhash":"25810b08e7224d3a7b98bb2efcf3f808",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -78,7 +79,7 @@
         }
     ],
     "wof:id":1092067125,
-    "wof:lastmodified":1627522343,
+    "wof:lastmodified":1695886796,
     "wof:name":"Vadamaradchy South-West (Karaveddy)",
     "wof:parent_id":85673769,
     "wof:placetype":"county",

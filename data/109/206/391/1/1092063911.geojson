@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.006188,
-    "geom:area_square_m":75879509.753617,
+    "geom:area_square_m":75879614.955697,
     "geom:bbox":"79.81775,7.355125,79.930316,7.434665",
     "geom:latitude":7.396269,
     "geom:longitude":79.874581,
@@ -66,9 +66,10 @@
     "wof:concordances":{
         "hasc:id":"LK.PX.NT"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"LK",
     "wof:created":1473899060,
-    "wof:geomhash":"5e4aec5caac40d8e9a3e6c85d635ce94",
+    "wof:geomhash":"f989f3d280b6ed55c3bf2af064085a82",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -78,7 +79,7 @@
         }
     ],
     "wof:id":1092063911,
-    "wof:lastmodified":1627522337,
+    "wof:lastmodified":1695886793,
     "wof:name":"Nattandiya",
     "wof:parent_id":85673779,
     "wof:placetype":"county",

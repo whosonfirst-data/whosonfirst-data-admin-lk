@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001611,
-    "geom:area_square_m":19727176.609764,
+    "geom:area_square_m":19727221.258881,
     "geom:bbox":"81.469113,7.899638,81.530646,7.949143",
     "geom:latitude":7.923208,
     "geom:longitude":81.491952,
@@ -66,9 +66,10 @@
     "wof:concordances":{
         "hasc:id":"LK.BC.KT"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"LK",
     "wof:created":1473898953,
-    "wof:geomhash":"7b0ac8852506af2e0d25429ffaf48784",
+    "wof:geomhash":"8b268b19c0aa33f847d76d93296a0271",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -78,7 +79,7 @@
         }
     ],
     "wof:id":1092061339,
-    "wof:lastmodified":1627522333,
+    "wof:lastmodified":1695886791,
     "wof:name":"Koralai Pattu West (Oddamavadi)",
     "wof:parent_id":85673737,
     "wof:placetype":"county",

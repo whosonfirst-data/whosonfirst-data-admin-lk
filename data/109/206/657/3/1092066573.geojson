@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.014147,
-    "geom:area_square_m":173876647.648811,
+    "geom:area_square_m":173876727.668346,
     "geom:bbox":"80.289959,6.213635,80.440858,6.398527",
     "geom:latitude":6.292735,
     "geom:longitude":80.355979,
@@ -66,9 +66,10 @@
     "wof:concordances":{
         "hasc:id":"LK.GL.TH"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"LK",
     "wof:created":1473899164,
-    "wof:geomhash":"d2c905b565b93d08fab6e957a2913383",
+    "wof:geomhash":"52c39ba1f9d61fffdbeb5b56590a744b",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -78,7 +79,7 @@
         }
     ],
     "wof:id":1092066573,
-    "wof:lastmodified":1627522341,
+    "wof:lastmodified":1695886795,
     "wof:name":"Thawalama",
     "wof:parent_id":85673789,
     "wof:placetype":"county",

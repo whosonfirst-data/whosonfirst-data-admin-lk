@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.007445,
-    "geom:area_square_m":91362444.035346,
+    "geom:area_square_m":91362444.035331,
     "geom:bbox":"79.9268404143,6.98783844511,80.0924976177,7.0883537745",
     "geom:latitude":7.031057,
     "geom:longitude":80.019849,
@@ -72,9 +72,10 @@
     "wof:concordances":{
         "hasc:id":"LK.GQ.MA"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"LK",
     "wof:created":1473898991,
-    "wof:geomhash":"98a8ed0dd0581080e7f5d1a3d07f2153",
+    "wof:geomhash":"72d91a438ca8b22a0af7c98228eabe33",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -84,7 +85,7 @@
         }
     ],
     "wof:id":1092062209,
-    "wof:lastmodified":1566595285,
+    "wof:lastmodified":1695886707,
     "wof:name":"Mahara",
     "wof:parent_id":85673815,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.007222,
-    "geom:area_square_m":88694279.612451,
+    "geom:area_square_m":88694154.522413,
     "geom:bbox":"80.295635,6.597975,80.408611,6.720629",
     "geom:latitude":6.662496,
     "geom:longitude":80.355647,
@@ -66,9 +66,10 @@
     "wof:concordances":{
         "hasc:id":"LK.RN.EL"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"LK",
     "wof:created":1473898833,
-    "wof:geomhash":"d0955ddfa5cb352a59f92fa6ee10f5d5",
+    "wof:geomhash":"f166191ad49b1900525a9a7a06254451",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -78,7 +79,7 @@
         }
     ],
     "wof:id":1092058219,
-    "wof:lastmodified":1627522329,
+    "wof:lastmodified":1695886788,
     "wof:name":"Elapatha",
     "wof:parent_id":85673785,
     "wof:placetype":"county",

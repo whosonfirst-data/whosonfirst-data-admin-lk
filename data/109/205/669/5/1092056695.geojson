@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.013097,
-    "geom:area_square_m":160499150.704015,
+    "geom:area_square_m":160499442.295999,
     "geom:bbox":"79.792358,7.602623,79.912519,7.749938",
     "geom:latitude":7.680754,
     "geom:longitude":79.849421,
@@ -66,9 +66,10 @@
     "wof:concordances":{
         "hasc:id":"LK.PX.AR"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"LK",
     "wof:created":1473898769,
-    "wof:geomhash":"67b210969de8dc138b905120bc17aee3",
+    "wof:geomhash":"19f78d5b3a8b0b84a4a16cda53498754",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -78,7 +79,7 @@
         }
     ],
     "wof:id":1092056695,
-    "wof:lastmodified":1627522327,
+    "wof:lastmodified":1695886787,
     "wof:name":"Arachchikattuwa",
     "wof:parent_id":85673779,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.04554,
-    "geom:area_square_m":557920737.749042,
+    "geom:area_square_m":557920793.73851,
     "geom:bbox":"80.980707,7.646209,81.241872,7.944968",
     "geom:latitude":7.788495,
     "geom:longitude":81.124299,
@@ -69,9 +69,10 @@
     "wof:concordances":{
         "hasc:id":"LK.PR.DI"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"LK",
     "wof:created":1473898822,
-    "wof:geomhash":"d162598f80b6e51d4a614b0f72f15bd5",
+    "wof:geomhash":"5afda9be13de9a0fc597f41db55e3932",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -81,7 +82,7 @@
         }
     ],
     "wof:id":1092057891,
-    "wof:lastmodified":1627522329,
+    "wof:lastmodified":1695886788,
     "wof:name":"Dimbulagala",
     "wof:parent_id":85673743,
     "wof:placetype":"county",

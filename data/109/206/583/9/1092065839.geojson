@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.026364,
-    "geom:area_square_m":323743852.892101,
+    "geom:area_square_m":323743641.525856,
     "geom:bbox":"80.351283,6.657858,80.616236,6.833171",
     "geom:latitude":6.731051,
     "geom:longitude":80.485534,
@@ -196,9 +196,10 @@
         "hasc:id":"LK.RN.RA",
         "wd:id":"Q1587175"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"LK",
     "wof:created":1473899136,
-    "wof:geomhash":"84b6b91beba5a21bc14d318f7a6b05eb",
+    "wof:geomhash":"633ac96d335b171279682b8fae30e6c6",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -208,7 +209,7 @@
         }
     ],
     "wof:id":1092065839,
-    "wof:lastmodified":1690938551,
+    "wof:lastmodified":1695886760,
     "wof:name":"Ratnapura",
     "wof:parent_id":85673785,
     "wof:placetype":"county",

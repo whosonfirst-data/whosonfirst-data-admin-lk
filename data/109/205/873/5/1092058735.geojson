@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.007237,
-    "geom:area_square_m":88799864.215139,
+    "geom:area_square_m":88799780.720398,
     "geom:bbox":"80.446591,7.063391,80.578914,7.156723",
     "geom:latitude":7.110667,
     "geom:longitude":80.515454,
@@ -66,9 +66,10 @@
     "wof:concordances":{
         "hasc:id":"LK.KY.GI"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"LK",
     "wof:created":1473898853,
-    "wof:geomhash":"3654cb7a3321e18ac8f50956765c1b76",
+    "wof:geomhash":"638fe610f7ba44ac9bff77b155fed6ea",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -78,7 +79,7 @@
         }
     ],
     "wof:id":1092058735,
-    "wof:lastmodified":1627522330,
+    "wof:lastmodified":1695886788,
     "wof:name":"Ganga Ihala Korale",
     "wof:parent_id":85673719,
     "wof:placetype":"county",

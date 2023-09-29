@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.005103,
-    "geom:area_square_m":62655619.230502,
+    "geom:area_square_m":62655648.38306,
     "geom:bbox":"79.885198,6.746444,79.967052,6.866535",
     "geom:latitude":6.804344,
     "geom:longitude":79.928296,
@@ -66,9 +66,10 @@
     "wof:concordances":{
         "hasc:id":"LK.CO.KE"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"LK",
     "wof:created":1473898937,
-    "wof:geomhash":"cb2ed34ed7ca9a16222e55ed07395303",
+    "wof:geomhash":"0bf08f182bc21b9ac9e92db91bc05a1a",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -78,7 +79,7 @@
         }
     ],
     "wof:id":1092060885,
-    "wof:lastmodified":1627522333,
+    "wof:lastmodified":1695886790,
     "wof:name":"Kesbewa",
     "wof:parent_id":85673811,
     "wof:placetype":"county",

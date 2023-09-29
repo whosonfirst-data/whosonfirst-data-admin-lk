@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.012549,
-    "geom:area_square_m":154210579.873267,
+    "geom:area_square_m":154210601.369829,
     "geom:bbox":"80.316766,6.280561,80.496828,6.427912",
     "geom:latitude":6.360346,
     "geom:longitude":80.410378,
@@ -66,9 +66,10 @@
     "wof:concordances":{
         "hasc:id":"LK.GL.NE"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"LK",
     "wof:created":1473899067,
-    "wof:geomhash":"14b1a5cbbcbd759de37f513b9fc9df8f",
+    "wof:geomhash":"8a39040ef5a89bbf3ea05109c13bd626",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -78,7 +79,7 @@
         }
     ],
     "wof:id":1092064097,
-    "wof:lastmodified":1627522337,
+    "wof:lastmodified":1695886793,
     "wof:name":"Neluwa",
     "wof:parent_id":85673789,
     "wof:placetype":"county",

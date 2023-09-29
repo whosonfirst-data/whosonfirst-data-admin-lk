@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004187,
-    "geom:area_square_m":51355701.354259,
+    "geom:area_square_m":51355710.613651,
     "geom:bbox":"80.540619,7.280391,80.625012,7.374831",
     "geom:latitude":7.328926,
     "geom:longitude":80.587171,
@@ -66,9 +66,10 @@
     "wof:concordances":{
         "hasc:id":"LK.KY.HP"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"LK",
     "wof:created":1473898871,
-    "wof:geomhash":"8d8dac8e56d8f3037a3fbc24c3805aaa",
+    "wof:geomhash":"bf3a55d40b5f889f8501a2e603b95f35",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -78,7 +79,7 @@
         }
     ],
     "wof:id":1092059229,
-    "wof:lastmodified":1627522330,
+    "wof:lastmodified":1695886789,
     "wof:name":"Harispattuwa",
     "wof:parent_id":85673719,
     "wof:placetype":"county",

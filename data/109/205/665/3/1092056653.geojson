@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.014146,
-    "geom:area_square_m":173900176.42794,
+    "geom:area_square_m":173900402.441661,
     "geom:bbox":"80.777517,6.118263,80.91935,6.273153",
     "geom:latitude":6.192971,
     "geom:longitude":80.851592,
@@ -66,9 +66,10 @@
     "wof:concordances":{
         "hasc:id":"LK.HB.AN"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"LK",
     "wof:created":1473898768,
-    "wof:geomhash":"ce1078c67ce370a78995e05317e19595",
+    "wof:geomhash":"d20b105c2a8ed84823015f8f615d1986",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -78,7 +79,7 @@
         }
     ],
     "wof:id":1092056653,
-    "wof:lastmodified":1627522327,
+    "wof:lastmodified":1695886787,
     "wof:name":"Angunakolapelessa",
     "wof:parent_id":85673791,
     "wof:placetype":"county",

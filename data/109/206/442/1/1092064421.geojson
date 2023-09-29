@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.054127,
-    "geom:area_square_m":660709191.283533,
+    "geom:area_square_m":660709285.975913,
     "geom:bbox":"80.339232,9.030094,80.750576,9.3472",
     "geom:latitude":9.187351,
     "geom:longitude":80.53136,
@@ -72,9 +72,10 @@
     "wof:concordances":{
         "hasc:id":"LK.MP.OD"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"LK",
     "wof:created":1473899080,
-    "wof:geomhash":"685f8f961be26ab06f4a1d2c5aeb4342",
+    "wof:geomhash":"ce5ce1e9cd6eaeaf025f855ae6c1ccd3",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -84,7 +85,7 @@
         }
     ],
     "wof:id":1092064421,
-    "wof:lastmodified":1627522338,
+    "wof:lastmodified":1695886793,
     "wof:name":"Oddusuddan",
     "wof:parent_id":85673765,
     "wof:placetype":"county",

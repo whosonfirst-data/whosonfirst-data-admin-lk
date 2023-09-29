@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.008984,
-    "geom:area_square_m":110159715.261562,
+    "geom:area_square_m":110159356.423051,
     "geom:bbox":"80.404734,7.352623,80.517707,7.517401",
     "geom:latitude":7.425575,
     "geom:longitude":80.44582,
@@ -66,9 +66,10 @@
     "wof:concordances":{
         "hasc:id":"LK.KG.MW"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"LK",
     "wof:created":1473899021,
-    "wof:geomhash":"1220e810a8929334d8bfeae260606cfe",
+    "wof:geomhash":"a41e7c7d92d721494af2783e87c21106",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -78,7 +79,7 @@
         }
     ],
     "wof:id":1092063021,
-    "wof:lastmodified":1627522336,
+    "wof:lastmodified":1695886792,
     "wof:name":"Mawathagama",
     "wof:parent_id":85673777,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.033894,
-    "geom:area_square_m":414293330.100334,
+    "geom:area_square_m":414293663.13664,
     "geom:bbox":"80.171013,8.547635,80.450707,8.827603",
     "geom:latitude":8.693086,
     "geom:longitude":80.29677,
@@ -66,9 +66,10 @@
     "wof:concordances":{
         "hasc:id":"LK.VA.VE"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"LK",
     "wof:created":1473899208,
-    "wof:geomhash":"35370c4f42e151c1d946f3638a70033e",
+    "wof:geomhash":"315c1759bec8406ae14d934e77fce296",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -78,7 +79,7 @@
         }
     ],
     "wof:id":1092067431,
-    "wof:lastmodified":1627522343,
+    "wof:lastmodified":1695886796,
     "wof:name":"Vengalacheddikulam",
     "wof:parent_id":85673757,
     "wof:placetype":"county",

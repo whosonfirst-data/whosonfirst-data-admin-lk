@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.050501,
-    "geom:area_square_m":618813241.132361,
+    "geom:area_square_m":618812654.468092,
     "geom:bbox":"81.23289,7.507903,81.659591,7.842853",
     "geom:latitude":7.711231,
     "geom:longitude":81.47034,
@@ -66,9 +66,10 @@
     "wof:concordances":{
         "hasc:id":"LK.BC.EP"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"LK",
     "wof:created":1473898839,
-    "wof:geomhash":"09593a71e5a1f9cf3986972552901abe",
+    "wof:geomhash":"8b99d1c9c4acaa225826e5f45a60ab2c",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -78,7 +79,7 @@
         }
     ],
     "wof:id":1092058375,
-    "wof:lastmodified":1627522329,
+    "wof:lastmodified":1695886788,
     "wof:name":"Eravur Pattu",
     "wof:parent_id":85673737,
     "wof:placetype":"county",

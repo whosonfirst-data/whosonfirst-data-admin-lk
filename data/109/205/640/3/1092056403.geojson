@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.039703,
-    "geom:area_square_m":487421418.11589,
+    "geom:area_square_m":487421144.199438,
     "geom:bbox":"80.42967,6.74985,80.774929,7.035525",
     "geom:latitude":6.863733,
     "geom:longitude":80.569759,
@@ -66,9 +66,10 @@
     "wof:concordances":{
         "hasc:id":"LK.NW.AM"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"LK",
     "wof:created":1473898759,
-    "wof:geomhash":"52bff366c91832eb1af955eeedc1fedf",
+    "wof:geomhash":"f502306fbf62ce0f7ecf774fbd36e6a9",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -78,7 +79,7 @@
         }
     ],
     "wof:id":1092056403,
-    "wof:lastmodified":1627522326,
+    "wof:lastmodified":1695886786,
     "wof:name":"Ambagamuwa",
     "wof:parent_id":85673731,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.049374,
-    "geom:area_square_m":605382098.048228,
+    "geom:area_square_m":605382124.029069,
     "geom:bbox":"80.968792,7.235755,81.225795,7.613972",
     "geom:latitude":7.437813,
     "geom:longitude":81.082666,
@@ -66,9 +66,10 @@
     "wof:concordances":{
         "hasc:id":"LK.BD.MA"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"LK",
     "wof:created":1473898995,
-    "wof:geomhash":"bf0d1c3a2d239310a0c7552240cebc60",
+    "wof:geomhash":"36a305b0cef1eb7ff353664841917ead",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -78,7 +79,7 @@
         }
     ],
     "wof:id":1092062329,
-    "wof:lastmodified":1627522335,
+    "wof:lastmodified":1695886792,
     "wof:name":"Mahiyanganaya",
     "wof:parent_id":85673801,
     "wof:placetype":"county",

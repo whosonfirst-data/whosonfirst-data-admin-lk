@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004734,
-    "geom:area_square_m":58220534.92168,
+    "geom:area_square_m":58220492.902567,
     "geom:bbox":"80.625207,5.940389,80.725846,6.02812",
     "geom:latitude":5.982428,
     "geom:longitude":80.672807,
@@ -69,9 +69,10 @@
     "wof:concordances":{
         "hasc:id":"LK.MH.DI"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"LK",
     "wof:created":1473898820,
-    "wof:geomhash":"ff77612269db5811d1a8dfe02bcfd441",
+    "wof:geomhash":"86e515993ae498bb1ed8aa4b897b71ba",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -81,7 +82,7 @@
         }
     ],
     "wof:id":1092057845,
-    "wof:lastmodified":1627522329,
+    "wof:lastmodified":1695886788,
     "wof:name":"Dickwella",
     "wof:parent_id":85673795,
     "wof:placetype":"county",

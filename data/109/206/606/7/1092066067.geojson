@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.008771,
-    "geom:area_square_m":107569725.618848,
+    "geom:area_square_m":107569764.626142,
     "geom:bbox":"81.697583,7.268005,81.822583,7.386895",
     "geom:latitude":7.327556,
     "geom:longitude":81.764641,
@@ -72,9 +72,10 @@
     "wof:concordances":{
         "hasc:id":"LK.AP.SM"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"LK",
     "wof:created":1473899144,
-    "wof:geomhash":"96dfc38f4a023b10a8818cea513fd9e9",
+    "wof:geomhash":"d20faa9cd3599129acf692d87d2b4227",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -84,7 +85,7 @@
         }
     ],
     "wof:id":1092066067,
-    "wof:lastmodified":1627522341,
+    "wof:lastmodified":1695886795,
     "wof:name":"Sammanthurai",
     "wof:parent_id":85673733,
     "wof:placetype":"county",

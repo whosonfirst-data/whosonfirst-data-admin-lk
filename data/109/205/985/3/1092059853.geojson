@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.005065,
-    "geom:area_square_m":62153709.035073,
+    "geom:area_square_m":62153795.142622,
     "geom:bbox":"79.865695,7.019632,79.952645,7.122265",
     "geom:latitude":7.071461,
     "geom:longitude":79.909754,
@@ -84,9 +84,10 @@
     "wof:concordances":{
         "hasc:id":"LK.GQ.JE"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"LK",
     "wof:created":1473898893,
-    "wof:geomhash":"599ac39f89b574fac31a164065f307fa",
+    "wof:geomhash":"13721b2bd448d364912fb6d1874104af",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -96,7 +97,7 @@
         }
     ],
     "wof:id":1092059853,
-    "wof:lastmodified":1627522331,
+    "wof:lastmodified":1695886789,
     "wof:name":"Ja-Ela",
     "wof:parent_id":85673815,
     "wof:placetype":"county",

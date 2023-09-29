@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.023706,
-    "geom:area_square_m":291051676.218745,
+    "geom:area_square_m":291051741.053163,
     "geom:bbox":"81.266549,6.720595,81.455819,6.957563",
     "geom:latitude":6.831408,
     "geom:longitude":81.355644,
@@ -142,9 +142,10 @@
         "hasc:id":"LK.MJ.MO",
         "wd:id":"Q923420"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"LK",
     "wof:created":1473899042,
-    "wof:geomhash":"dc122fb61420ddb7a5efab7439d24ea7",
+    "wof:geomhash":"c618ff6977a6659baea8b3338292c046",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -154,7 +155,7 @@
         }
     ],
     "wof:id":1092063443,
-    "wof:lastmodified":1690938552,
+    "wof:lastmodified":1695886708,
     "wof:name":"Moneragala",
     "wof:parent_id":85673803,
     "wof:placetype":"county",

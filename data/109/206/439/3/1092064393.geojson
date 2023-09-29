@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.007538,
-    "geom:area_square_m":92229359.884145,
+    "geom:area_square_m":92229226.351268,
     "geom:bbox":"80.357016,8.263119,80.504608,8.356188",
     "geom:latitude":8.308599,
     "geom:longitude":80.446854,
@@ -66,9 +66,10 @@
     "wof:concordances":{
         "hasc:id":"LK.AD.NE"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"LK",
     "wof:created":1473899078,
-    "wof:geomhash":"b48d85b4751854cb51f21b7a9735c00f",
+    "wof:geomhash":"a08d62956890fa3ab9cfd1b4d66edb84",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -78,7 +79,7 @@
         }
     ],
     "wof:id":1092064393,
-    "wof:lastmodified":1627522338,
+    "wof:lastmodified":1695886793,
     "wof:name":"Nuwaragam Palatha East",
     "wof:parent_id":85673751,
     "wof:placetype":"county",

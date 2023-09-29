@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.012392,
-    "geom:area_square_m":151830510.833588,
+    "geom:area_square_m":151830816.809355,
     "geom:bbox":"80.054673,7.716098,80.241815,7.823356",
     "geom:latitude":7.76333,
     "geom:longitude":80.146826,
@@ -66,9 +66,10 @@
     "wof:concordances":{
         "hasc:id":"LK.KG.NI"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"LK",
     "wof:created":1473899068,
-    "wof:geomhash":"d5964dbe664089a397a412140123b36c",
+    "wof:geomhash":"ad9f6d21a868376c0d87b386515ee7f0",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -78,7 +79,7 @@
         }
     ],
     "wof:id":1092064137,
-    "wof:lastmodified":1627522337,
+    "wof:lastmodified":1695886793,
     "wof:name":"Nikaweratiya",
     "wof:parent_id":85673777,
     "wof:placetype":"county",

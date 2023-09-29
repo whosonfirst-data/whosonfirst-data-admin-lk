@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.008193,
-    "geom:area_square_m":100517978.845775,
+    "geom:area_square_m":100517880.956757,
     "geom:bbox":"80.578194,7.091148,80.708733,7.241152",
     "geom:latitude":7.164363,
     "geom:longitude":80.647891,
@@ -66,9 +66,10 @@
     "wof:concordances":{
         "hasc:id":"LK.KY.DO"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"LK",
     "wof:created":1473898826,
-    "wof:geomhash":"834f9ead8a0834b097ed99f73bf1c324",
+    "wof:geomhash":"73aeffa7b9c40da7f4a39b53b7606713",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -78,7 +79,7 @@
         }
     ],
     "wof:id":1092058013,
-    "wof:lastmodified":1627522329,
+    "wof:lastmodified":1695886788,
     "wof:name":"Doluwa",
     "wof:parent_id":85673719,
     "wof:placetype":"county",

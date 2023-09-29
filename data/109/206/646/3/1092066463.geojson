@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.019788,
-    "geom:area_square_m":241994863.256316,
+    "geom:area_square_m":241994825.165231,
     "geom:bbox":"80.947334,8.406159,81.141389,8.572771",
     "geom:latitude":8.49289,
     "geom:longitude":81.050324,
@@ -66,9 +66,10 @@
     "wof:concordances":{
         "hasc:id":"LK.TC.TH"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"LK",
     "wof:created":1473899160,
-    "wof:geomhash":"6d4db1814a8bb9fef14c5136c93b8d70",
+    "wof:geomhash":"6dc5e71401f004ff7f36514389678612",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -78,7 +79,7 @@
         }
     ],
     "wof:id":1092066463,
-    "wof:lastmodified":1627522341,
+    "wof:lastmodified":1695886795,
     "wof:name":"Thambalagamuwa",
     "wof:parent_id":85673747,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.011031,
-    "geom:area_square_m":135531245.71176,
+    "geom:area_square_m":135531240.496132,
     "geom:bbox":"80.023066,6.410326,80.153758,6.574842",
     "geom:latitude":6.4878,
     "geom:longitude":80.09059,
@@ -66,9 +66,10 @@
     "wof:concordances":{
         "hasc:id":"LK.KT.MT"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"LK",
     "wof:created":1473899018,
-    "wof:geomhash":"b2550beddd60b714bd544faacf80fb72",
+    "wof:geomhash":"ee4d11d8fa46056e9206c7ceb6021780",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -78,7 +79,7 @@
         }
     ],
     "wof:id":1092062959,
-    "wof:lastmodified":1627522336,
+    "wof:lastmodified":1695886792,
     "wof:name":"Mathugama",
     "wof:parent_id":85673819,
     "wof:placetype":"county",

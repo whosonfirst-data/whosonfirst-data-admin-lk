@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00405,
-    "geom:area_square_m":49806484.657864,
+    "geom:area_square_m":49806484.657857,
     "geom:bbox":"80.380077466,5.932055473,80.5066570878,6.00138486708",
     "geom:latitude":5.965803,
     "geom:longitude":80.444028,
@@ -96,9 +96,10 @@
     "wof:concordances":{
         "hasc:id":"LK.MH.WG"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"LK",
     "wof:created":1473899223,
-    "wof:geomhash":"1e0dc44615d85a842596f2b65dd6abe0",
+    "wof:geomhash":"53a02296e57da1cb601e15f60fafc3c4",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -108,7 +109,7 @@
         }
     ],
     "wof:id":1092067827,
-    "wof:lastmodified":1566595297,
+    "wof:lastmodified":1695886708,
     "wof:name":"Weligama",
     "wof:parent_id":85673795,
     "wof:placetype":"county",

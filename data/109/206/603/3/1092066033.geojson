@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000323,
-    "geom:area_square_m":3956831.55923,
+    "geom:area_square_m":3956927.99073,
     "geom:bbox":"81.820549,7.372783,81.844377,7.393702",
     "geom:latitude":7.383953,
     "geom:longitude":81.831206,
@@ -66,9 +66,10 @@
     "wof:concordances":{
         "hasc:id":"LK.AP.SI"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"LK",
     "wof:created":1473899143,
-    "wof:geomhash":"dcb85e3e0e9e85e475bb319be73cf4d3",
+    "wof:geomhash":"ff4c8557fdf150ae89a755e32a45aa84",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -78,7 +79,7 @@
         }
     ],
     "wof:id":1092066033,
-    "wof:lastmodified":1627522340,
+    "wof:lastmodified":1695886795,
     "wof:name":"Sainthamarathu",
     "wof:parent_id":85673733,
     "wof:placetype":"county",

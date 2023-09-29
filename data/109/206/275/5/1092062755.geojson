@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.049292,
-    "geom:area_square_m":601952135.474235,
+    "geom:area_square_m":601951812.339678,
     "geom:bbox":"79.970488,8.842737,80.225482,9.233184",
     "geom:latitude":9.026695,
     "geom:longitude":80.11321,
@@ -66,9 +66,10 @@
     "wof:concordances":{
         "hasc:id":"LK.MB.MW"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"LK",
     "wof:created":1473899011,
-    "wof:geomhash":"5dee583dc292931dcc8ba810de990da5",
+    "wof:geomhash":"c2b4804f130cc2eabbbe8617a9e1ed6c",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -78,7 +79,7 @@
         }
     ],
     "wof:id":1092062755,
-    "wof:lastmodified":1627522335,
+    "wof:lastmodified":1695886792,
     "wof:name":"Manthai West",
     "wof:parent_id":85673761,
     "wof:placetype":"county",

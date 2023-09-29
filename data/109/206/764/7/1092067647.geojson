@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.016116,
-    "geom:area_square_m":197705672.492411,
+    "geom:area_square_m":197705736.254736,
     "geom:bbox":"80.150923,7.094939,80.290833,7.317696",
     "geom:latitude":7.203928,
     "geom:longitude":80.23188,
@@ -66,9 +66,10 @@
     "wof:concordances":{
         "hasc:id":"LK.KE.WA"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"LK",
     "wof:created":1473899216,
-    "wof:geomhash":"34e9691e8bd562097f34961b5d6e5e07",
+    "wof:geomhash":"0ab79cbb3578a4ed1892c4f50b0bd067",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -78,7 +79,7 @@
         }
     ],
     "wof:id":1092067647,
-    "wof:lastmodified":1627522343,
+    "wof:lastmodified":1695886796,
     "wof:name":"Warakapola",
     "wof:parent_id":85673807,
     "wof:placetype":"county",

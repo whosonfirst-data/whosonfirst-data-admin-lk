@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.022823,
-    "geom:area_square_m":280148098.36766,
+    "geom:area_square_m":280148009.483371,
     "geom:bbox":"81.709784,6.808621,81.880386,7.04563",
     "geom:latitude":6.940382,
     "geom:longitude":81.800106,
@@ -87,9 +87,10 @@
     "wof:concordances":{
         "hasc:id":"LK.AP.PO"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"LK",
     "wof:created":1473899123,
-    "wof:geomhash":"af30558fc1bed5f42b1f3af3b170c03e",
+    "wof:geomhash":"e453a273df3bac0359c479fba703bbd2",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -99,7 +100,7 @@
         }
     ],
     "wof:id":1092065525,
-    "wof:lastmodified":1627522340,
+    "wof:lastmodified":1695886794,
     "wof:name":"Pottuvil",
     "wof:parent_id":85673733,
     "wof:placetype":"county",

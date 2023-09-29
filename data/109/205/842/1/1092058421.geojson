@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000273,
-    "geom:area_square_m":3339464.28119,
+    "geom:area_square_m":3339613.903267,
     "geom:bbox":"81.596455,7.762413,81.613166,7.784783",
     "geom:latitude":7.77398,
     "geom:longitude":81.605278,
@@ -66,9 +66,10 @@
     "wof:concordances":{
         "hasc:id":"LK.BC.ET"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"LK",
     "wof:created":1473898840,
-    "wof:geomhash":"940b407d61671bc8826a67502578bde3",
+    "wof:geomhash":"31c9f6628cd067cee30099c877df7a28",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -78,7 +79,7 @@
         }
     ],
     "wof:id":1092058421,
-    "wof:lastmodified":1627522329,
+    "wof:lastmodified":1695886788,
     "wof:name":"Eravur Town",
     "wof:parent_id":85673737,
     "wof:placetype":"county",

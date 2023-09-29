@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.022123,
-    "geom:area_square_m":271724098.216718,
+    "geom:area_square_m":271724111.290069,
     "geom:bbox":"80.595327,6.511741,80.91342,6.727356",
     "geom:latitude":6.628482,
     "geom:longitude":80.767898,
@@ -93,9 +93,10 @@
     "wof:concordances":{
         "hasc:id":"LK.RN.BA"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"LK",
     "wof:created":1473898781,
-    "wof:geomhash":"f31998e995ef5bcc581d0f9e8ae9ee98",
+    "wof:geomhash":"d7367c31be357b3c6f59520272e67f18",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -105,7 +106,7 @@
         }
     ],
     "wof:id":1092056887,
-    "wof:lastmodified":1627522327,
+    "wof:lastmodified":1695886787,
     "wof:name":"Balangoda",
     "wof:parent_id":85673785,
     "wof:placetype":"county",

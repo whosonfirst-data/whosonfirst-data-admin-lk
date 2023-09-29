@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002641,
-    "geom:area_square_m":32386598.532819,
+    "geom:area_square_m":32386662.599386,
     "geom:bbox":"81.817563,7.299618,81.868752,7.364454",
     "geom:latitude":7.330358,
     "geom:longitude":81.841491,
@@ -66,9 +66,10 @@
     "wof:concordances":{
         "hasc:id":"LK.AP.NI"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"LK",
     "wof:created":1473899070,
-    "wof:geomhash":"aaaaa43377b2017dc4a77b23deb65d5e",
+    "wof:geomhash":"7a5c679e6c4919e449c4f7475034dad7",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -78,7 +79,7 @@
         }
     ],
     "wof:id":1092064155,
-    "wof:lastmodified":1627522338,
+    "wof:lastmodified":1695886793,
     "wof:name":"Ninthavur",
     "wof:parent_id":85673733,
     "wof:placetype":"county",

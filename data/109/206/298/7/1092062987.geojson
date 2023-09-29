@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.009415,
-    "geom:area_square_m":115489305.381029,
+    "geom:area_square_m":115489524.914335,
     "geom:bbox":"80.389186,7.149028,80.545552,7.302846",
     "geom:latitude":7.229934,
     "geom:longitude":80.474404,
@@ -75,9 +75,10 @@
     "wof:concordances":{
         "hasc:id":"LK.KE.MA"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"LK",
     "wof:created":1473899020,
-    "wof:geomhash":"ff730f62dacedc9ec2cb62b281f3ae80",
+    "wof:geomhash":"5010493a42a18cb2210590414925d816",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -87,7 +88,7 @@
         }
     ],
     "wof:id":1092062987,
-    "wof:lastmodified":1627522336,
+    "wof:lastmodified":1695886792,
     "wof:name":"Mawanella",
     "wof:parent_id":85673807,
     "wof:placetype":"county",

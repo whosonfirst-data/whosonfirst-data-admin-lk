@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.012529,
-    "geom:area_square_m":153992545.44372,
+    "geom:area_square_m":153992407.423213,
     "geom:bbox":"80.542507,6.18755,80.673396,6.353991",
     "geom:latitude":6.276026,
     "geom:longitude":80.60851,
@@ -66,9 +66,10 @@
     "wof:concordances":{
         "hasc:id":"LK.MH.PA"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"LK",
     "wof:created":1473899108,
-    "wof:geomhash":"ac516da233d7bfab21d9d2da863f331e",
+    "wof:geomhash":"4212dba01831de7104222a537cb6b797",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -78,7 +79,7 @@
         }
     ],
     "wof:id":1092065159,
-    "wof:lastmodified":1627522339,
+    "wof:lastmodified":1695886794,
     "wof:name":"Pasgoda",
     "wof:parent_id":85673795,
     "wof:placetype":"county",

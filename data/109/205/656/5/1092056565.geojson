@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.011682,
-    "geom:area_square_m":143078321.749266,
+    "geom:area_square_m":143078328.971719,
     "geom:bbox":"80.158723,7.838913,80.295155,7.978815",
     "geom:latitude":7.907953,
     "geom:longitude":80.223917,
@@ -69,9 +69,10 @@
     "wof:concordances":{
         "hasc:id":"LK.KG.AM"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"LK",
     "wof:created":1473898765,
-    "wof:geomhash":"a04bf2f57809eb68cea537614743dc2d",
+    "wof:geomhash":"531d67518678b54df733febb8e0e3071",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -81,7 +82,7 @@
         }
     ],
     "wof:id":1092056565,
-    "wof:lastmodified":1627522327,
+    "wof:lastmodified":1695886787,
     "wof:name":"Ambanpola",
     "wof:parent_id":85673777,
     "wof:placetype":"county",

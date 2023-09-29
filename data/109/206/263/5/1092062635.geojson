@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.026079,
-    "geom:area_square_m":319605203.134162,
+    "geom:area_square_m":319605010.488305,
     "geom:bbox":"81.511975,7.523172,81.711799,7.746483",
     "geom:latitude":7.638609,
     "geom:longitude":81.602357,
@@ -66,9 +66,10 @@
     "wof:concordances":{
         "hasc:id":"LK.BC.MW"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"LK",
     "wof:created":1473899007,
-    "wof:geomhash":"a543b8383686d8e8514786b502f2521a",
+    "wof:geomhash":"6c7ab4ffc2587b4a82d5121e551b1a0c",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -78,7 +79,7 @@
         }
     ],
     "wof:id":1092062635,
-    "wof:lastmodified":1627522335,
+    "wof:lastmodified":1695886792,
     "wof:name":"Manmunai West",
     "wof:parent_id":85673737,
     "wof:placetype":"county",

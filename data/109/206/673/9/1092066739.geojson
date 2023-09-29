@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.022942,
-    "geom:area_square_m":280780272.663287,
+    "geom:area_square_m":280780029.142743,
     "geom:bbox":"80.43708,8.108934,80.66236,8.305684",
     "geom:latitude":8.203572,
     "geom:longitude":80.557021,
@@ -66,9 +66,10 @@
     "wof:concordances":{
         "hasc:id":"LK.AD.TP"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"LK",
     "wof:created":1473899171,
-    "wof:geomhash":"340845473b52824aa7b1191a1691711b",
+    "wof:geomhash":"073d4516bd98dd3d43418242ef19cb54",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -78,7 +79,7 @@
         }
     ],
     "wof:id":1092066739,
-    "wof:lastmodified":1627522342,
+    "wof:lastmodified":1695886795,
     "wof:name":"Thirappane",
     "wof:parent_id":85673751,
     "wof:placetype":"county",

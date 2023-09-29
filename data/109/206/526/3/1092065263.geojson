@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.007313,
-    "geom:area_square_m":89703647.49364,
+    "geom:area_square_m":89703555.486958,
     "geom:bbox":"80.62415,7.182179,80.772575,7.267935",
     "geom:latitude":7.230852,
     "geom:longitude":80.706178,
@@ -66,9 +66,10 @@
     "wof:concordances":{
         "hasc:id":"LK.KY.PH"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"LK",
     "wof:created":1473899113,
-    "wof:geomhash":"073cd403a31121db67cc33c058975809",
+    "wof:geomhash":"32f94bdb55afab9c6e879d92b21898b7",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -78,7 +79,7 @@
         }
     ],
     "wof:id":1092065263,
-    "wof:lastmodified":1627522339,
+    "wof:lastmodified":1695886794,
     "wof:name":"Pathahewaheta",
     "wof:parent_id":85673719,
     "wof:placetype":"county",

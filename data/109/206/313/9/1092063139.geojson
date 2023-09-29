@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.040397,
-    "geom:area_square_m":493915998.83929,
+    "geom:area_square_m":493915785.9526,
     "geom:bbox":"80.339608,8.49,80.641436,8.701866",
     "geom:latitude":8.588457,
     "geom:longitude":80.496665,
@@ -66,9 +66,10 @@
     "wof:concordances":{
         "hasc:id":"LK.AD.ME"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"LK",
     "wof:created":1473899031,
-    "wof:geomhash":"40fba3dd1b134d7d006b9226b5a1a981",
+    "wof:geomhash":"598be56e337762fe00dc234dc3b60794",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -78,7 +79,7 @@
         }
     ],
     "wof:id":1092063139,
-    "wof:lastmodified":1627522336,
+    "wof:lastmodified":1695886792,
     "wof:name":"Medawachchiya",
     "wof:parent_id":85673751,
     "wof:placetype":"county",

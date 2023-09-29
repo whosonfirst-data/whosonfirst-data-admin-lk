@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.282699,
-    "geom:area_square_m":3461645446.039036,
+    "geom:area_square_m":3461645501.053278,
     "geom:bbox":"80.749645,7.646209,81.341634,8.348873",
     "geom:latitude":7.993568,
     "geom:longitude":81.025978,
@@ -264,17 +264,19 @@
         "gn:id":1229899,
         "gp:id":23706504,
         "hasc:id":"LK.PR",
+        "iso:code":"LK-72",
         "iso:id":"LK-72",
         "qs_pg:id":1086139,
         "unlc:id":"LK-72",
         "wd:id":"Q931057",
         "wk:page":"Polonnaruwa District"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"LK",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"376112a04a15677dabc991fe9212a420",
+    "wof:geomhash":"91d484326d0fc4746878d095cbcc4684",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -291,7 +293,7 @@
         "sin",
         "tam"
     ],
-    "wof:lastmodified":1690938538,
+    "wof:lastmodified":1695884361,
     "wof:name":"P\u014f\u1e37\u014fnnaruva",
     "wof:parent_id":85632313,
     "wof:placetype":"region",

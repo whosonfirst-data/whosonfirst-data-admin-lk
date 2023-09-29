@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.053798,
-    "geom:area_square_m":657018677.035102,
+    "geom:area_square_m":657018820.459559,
     "geom:bbox":"80.375819,8.868015,80.731663,9.128546",
     "geom:latitude":9.007963,
     "geom:longitude":80.568862,
@@ -66,9 +66,10 @@
     "wof:concordances":{
         "hasc:id":"LK.VA.VN"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"LK",
     "wof:created":1473899203,
-    "wof:geomhash":"410d3bdc9a70650d878f03372f2ba51d",
+    "wof:geomhash":"a0de30d0c0f03e14fdbf13abca583b2d",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -78,7 +79,7 @@
         }
     ],
     "wof:id":1092067297,
-    "wof:lastmodified":1627522343,
+    "wof:lastmodified":1695886796,
     "wof:name":"Vavuniya North",
     "wof:parent_id":85673757,
     "wof:placetype":"county",
