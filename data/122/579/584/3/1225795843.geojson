@@ -48,7 +48,7 @@
         "wk:page":"Mahaiyawa"
     },
     "wof:country":"LK",
-    "wof:geomhash":"e483633c405aa10eca70f7b3e45536bc",
+    "wof:geomhash":"db2e249c1946964c78f8f0d677611381",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -74,5 +74,5 @@
     80.63179000000002,
     7.30492
 ],
-  "geometry": {"coordinates":[80.63179000000002,7.30492],"type":"Point"}
+  "geometry": {"coordinates":[80.63179,7.30492],"type":"Point"}
 }

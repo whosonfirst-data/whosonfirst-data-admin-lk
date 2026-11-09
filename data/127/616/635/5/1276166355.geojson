@@ -52,7 +52,7 @@
         "wk:page":"Vattappalai"
     },
     "wof:country":"LK",
-    "wof:geomhash":"8aa90305b54dad3f527e5c0b6278f743",
+    "wof:geomhash":"48f8e391ebc622b069c2ebf7e508c1b7",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -78,5 +78,5 @@
     80.76666999999998,
     9.25
 ],
-  "geometry": {"coordinates":[80.76666999999998,9.25],"type":"Point"}
+  "geometry": {"coordinates":[80.76667,9.25],"type":"Point"}
 }

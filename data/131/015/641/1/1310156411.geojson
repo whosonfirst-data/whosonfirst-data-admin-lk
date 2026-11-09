@@ -42,7 +42,7 @@
         "wk:page":"Medapihilla"
     },
     "wof:country":"LK",
-    "wof:geomhash":"6cc00d6cd4105ea918ea82a2248c0233",
+    "wof:geomhash":"8e3feb2040eaead6a592bf7ee27e2598",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -68,5 +68,5 @@
     80.73083000000003,
     7.69139
 ],
-  "geometry": {"coordinates":[80.73083000000003,7.69139],"type":"Point"}
+  "geometry": {"coordinates":[80.73083,7.69139],"type":"Point"}
 }

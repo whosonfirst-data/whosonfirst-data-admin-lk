@@ -55,7 +55,7 @@
         "wk:page":"Vellavely"
     },
     "wof:country":"LK",
-    "wof:geomhash":"d221688adfd036407f7ca3b0ac80762b",
+    "wof:geomhash":"bb81c3ba4020fb84395e9e6d35352446",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -81,5 +81,5 @@
     81.73333000000002,
     7.5
 ],
-  "geometry": {"coordinates":[81.73333000000002,7.5],"type":"Point"}
+  "geometry": {"coordinates":[81.73333,7.5],"type":"Point"}
 }

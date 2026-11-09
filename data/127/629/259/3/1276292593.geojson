@@ -42,7 +42,7 @@
         "wk:page":"Naranpanawa_Egodagammedda"
     },
     "wof:country":"LK",
-    "wof:geomhash":"d844a927d51b22290d4fac3125675044",
+    "wof:geomhash":"239ebd1aa97852a6a231ddfdfd83dff1",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -68,5 +68,5 @@
     80.73333000000002,
     7.35
 ],
-  "geometry": {"coordinates":[80.73333000000002,7.35],"type":"Point"}
+  "geometry": {"coordinates":[80.73333,7.35],"type":"Point"}
 }

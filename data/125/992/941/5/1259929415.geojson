@@ -41,7 +41,7 @@
         "gn:id":1229920
     },
     "wof:country":"LK",
-    "wof:geomhash":"70a9c1c695cb35cf7315323ae5efe70f",
+    "wof:geomhash":"0a069d9c12c1cc2b4b95d47af2efcd0f",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -67,5 +67,5 @@
     80.48333000000002,
     7.7
 ],
-  "geometry": {"coordinates":[80.48333000000002,7.7],"type":"Point"}
+  "geometry": {"coordinates":[80.48333,7.7],"type":"Point"}
 }

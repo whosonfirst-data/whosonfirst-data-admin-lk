@@ -45,7 +45,7 @@
         "wk:page":"Veddayamurippu"
     },
     "wof:country":"LK",
-    "wof:geomhash":"f62703e7aaeed1431e215390eda39690",
+    "wof:geomhash":"785b3e6383371846bbf2f6011f6faa41",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -71,5 +71,5 @@
     79.98333000000002,
     8.96667
 ],
-  "geometry": {"coordinates":[79.98333000000002,8.96667],"type":"Point"}
+  "geometry": {"coordinates":[79.98333,8.96667],"type":"Point"}
 }

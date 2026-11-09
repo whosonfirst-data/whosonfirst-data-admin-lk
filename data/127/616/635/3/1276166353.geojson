@@ -42,7 +42,7 @@
         "wk:page":"Uluvaneri"
     },
     "wof:country":"LK",
-    "wof:geomhash":"047d7676c1b6cb4fecbf43f49f9d8a6e",
+    "wof:geomhash":"a06df4dc2ff0f51425ff77ded5096674",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -68,5 +68,5 @@
     80.26666999999998,
     9.05
 ],
-  "geometry": {"coordinates":[80.26666999999998,9.05],"type":"Point"}
+  "geometry": {"coordinates":[80.26667,9.05],"type":"Point"}
 }

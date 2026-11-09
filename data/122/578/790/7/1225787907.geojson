@@ -45,7 +45,7 @@
         "wk:page":"Velakulam"
     },
     "wof:country":"LK",
-    "wof:geomhash":"d6f95d3fff51dac90c77b8babf0b7cb9",
+    "wof:geomhash":"8e75cb9c352c62030b76826374ca44d2",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -71,5 +71,5 @@
     80.01666999999998,
     8.91667
 ],
-  "geometry": {"coordinates":[80.01666999999998,8.91667],"type":"Point"}
+  "geometry": {"coordinates":[80.01667,8.91667],"type":"Point"}
 }

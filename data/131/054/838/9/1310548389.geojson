@@ -54,7 +54,7 @@
         "wk:page":"Mahiyangana"
     },
     "wof:country":"LK",
-    "wof:geomhash":"477242702da741061f5908c8698d2a9b",
+    "wof:geomhash":"eb8c6eda4de814a89f4e1de253dfdecd",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -80,5 +80,5 @@
     80.98333000000002,
     7.31667
 ],
-  "geometry": {"coordinates":[80.98333000000002,7.31667],"type":"Point"}
+  "geometry": {"coordinates":[80.98333,7.31667],"type":"Point"}
 }

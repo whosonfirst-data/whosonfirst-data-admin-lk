@@ -42,7 +42,7 @@
         "wk:page":"Handaganawa"
     },
     "wof:country":"LK",
-    "wof:geomhash":"14d74742d133d59afb11a591a923e43b",
+    "wof:geomhash":"bb4f5336922ca139455c08f5a9ed60fa",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -68,5 +68,5 @@
     80.98333000000002,
     7.28333
 ],
-  "geometry": {"coordinates":[80.98333000000002,7.28333],"type":"Point"}
+  "geometry": {"coordinates":[80.98333,7.28333],"type":"Point"}
 }

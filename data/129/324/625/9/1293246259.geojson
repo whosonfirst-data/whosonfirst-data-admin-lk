@@ -42,7 +42,7 @@
         "wk:page":"Waduborala"
     },
     "wof:country":"LK",
-    "wof:geomhash":"33cfbcc5dcd28eaff7d21cdfa492e27b",
+    "wof:geomhash":"c84dfec195f6944bb7572b81e23e3505",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -68,5 +68,5 @@
     80.41667,
     6.0
 ],
-  "geometry": {"coordinates":[80.41667,6.0],"type":"Point"}
+  "geometry": {"coordinates":[80.41667,6],"type":"Point"}
 }

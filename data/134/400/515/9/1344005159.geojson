@@ -42,7 +42,7 @@
         "wk:page":"Napatawela"
     },
     "wof:country":"LK",
-    "wof:geomhash":"ac423ba3965b13b8ddc8dcbb18c364d1",
+    "wof:geomhash":"93e5d32d75b11dc174e4c28dae886dc1",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -68,5 +68,5 @@
     80.79899999999998,
     7.0987
 ],
-  "geometry": {"coordinates":[80.79899999999998,7.0987],"type":"Point"}
+  "geometry": {"coordinates":[80.799,7.0987],"type":"Point"}
 }

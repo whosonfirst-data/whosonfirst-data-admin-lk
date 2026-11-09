@@ -42,7 +42,7 @@
         "wk:page":"Gomagoda"
     },
     "wof:country":"LK",
-    "wof:geomhash":"694de5bcfb0bd2ddd34d0d356f5a41cc",
+    "wof:geomhash":"7e77688a0251fa360b2150733461fa72",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -68,5 +68,5 @@
     81.08333,
     7.0
 ],
-  "geometry": {"coordinates":[81.08333,7.0],"type":"Point"}
+  "geometry": {"coordinates":[81.08333,7],"type":"Point"}
 }

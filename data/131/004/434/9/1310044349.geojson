@@ -81,7 +81,7 @@
         "wk:page":"Chavakachcheri"
     },
     "wof:country":"LK",
-    "wof:geomhash":"6cc4aa2631f1cc1df1b417a155ed6982",
+    "wof:geomhash":"5c14e794236c9f61db98ba45fb6ac274",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -107,5 +107,5 @@
     80.15100000000002,
     9.66
 ],
-  "geometry": {"coordinates":[80.15100000000002,9.66],"type":"Point"}
+  "geometry": {"coordinates":[80.151,9.66],"type":"Point"}
 }

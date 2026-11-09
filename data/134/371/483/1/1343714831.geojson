@@ -51,7 +51,7 @@
         "wk:page":"Ganemulla"
     },
     "wof:country":"LK",
-    "wof:geomhash":"42781f39e805334941f66d936bec95b4",
+    "wof:geomhash":"5dec3d73f6c4c187dfe45a4c9bcb0417",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -77,5 +77,5 @@
     79.96300000000002,
     7.0652
 ],
-  "geometry": {"coordinates":[79.96300000000002,7.0652],"type":"Point"}
+  "geometry": {"coordinates":[79.963,7.0652],"type":"Point"}
 }

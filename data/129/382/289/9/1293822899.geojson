@@ -42,7 +42,7 @@
         "wk:page":"Kurukkalmadam"
     },
     "wof:country":"LK",
-    "wof:geomhash":"73d77d11927a94ae86ecf642c31e0f1b",
+    "wof:geomhash":"8a0ad9ebac61a9fac815b8380016ec97",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -68,5 +68,5 @@
     81.78289000000002,
     7.58757
 ],
-  "geometry": {"coordinates":[81.78289000000002,7.58757],"type":"Point"}
+  "geometry": {"coordinates":[81.78289,7.58757],"type":"Point"}
 }

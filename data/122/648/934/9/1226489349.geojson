@@ -42,7 +42,7 @@
         "wk:page":"Kaluganga"
     },
     "wof:country":"LK",
-    "wof:geomhash":"c6b63338a28a5b67a3123b2fa0b86c78",
+    "wof:geomhash":"c7f041bcc2918ca60d35bb694dcd1a57",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -68,5 +68,5 @@
     80.83471999999998,
     7.64444
 ],
-  "geometry": {"coordinates":[80.83471999999998,7.64444],"type":"Point"}
+  "geometry": {"coordinates":[80.83472,7.64444],"type":"Point"}
 }

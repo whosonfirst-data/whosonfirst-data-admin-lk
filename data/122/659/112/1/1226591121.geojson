@@ -48,7 +48,7 @@
         "wk:page":"Wetakepotha"
     },
     "wof:country":"LK",
-    "wof:geomhash":"c2f505b37f1127c6a8be466b8e63c3e7",
+    "wof:geomhash":"b156b7def714067da07c3849f9adf4ab",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -74,5 +74,5 @@
     80.62899999999998,
     7.038
 ],
-  "geometry": {"coordinates":[80.62899999999998,7.038],"type":"Point"}
+  "geometry": {"coordinates":[80.629,7.038],"type":"Point"}
 }

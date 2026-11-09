@@ -46,7 +46,7 @@
         "wk:page":"Kokkilai"
     },
     "wof:country":"LK",
-    "wof:geomhash":"965300010d4f9a91f6c3ea56ab9e0d0f",
+    "wof:geomhash":"9530ed7ff709bcc4d585a762807c0bf2",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -72,5 +72,5 @@
     80.95,
     9.0
 ],
-  "geometry": {"coordinates":[80.95,9.0],"type":"Point"}
+  "geometry": {"coordinates":[80.95,9],"type":"Point"}
 }

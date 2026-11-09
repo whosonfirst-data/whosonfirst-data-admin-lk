@@ -42,7 +42,7 @@
         "wk:page":"Nagalawewa"
     },
     "wof:country":"LK",
-    "wof:geomhash":"7925ec6f8aec5426a219fe7fc440d202",
+    "wof:geomhash":"1456a12997eef990c7698864ccc9f753",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -68,5 +68,5 @@
     80.73333000000002,
     7.96667
 ],
-  "geometry": {"coordinates":[80.73333000000002,7.96667],"type":"Point"}
+  "geometry": {"coordinates":[80.73333,7.96667],"type":"Point"}
 }

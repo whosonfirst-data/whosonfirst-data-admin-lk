@@ -42,7 +42,7 @@
         "wk:page":"Ekkassa"
     },
     "wof:country":"LK",
-    "wof:geomhash":"e0d08b89bc8dc4e79c3c14c757fd6e83",
+    "wof:geomhash":"6b87f206229629e2c969e712ef1b9b40",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -68,5 +68,5 @@
     81.0,
     6.11667
 ],
-  "geometry": {"coordinates":[81.0,6.11667],"type":"Point"}
+  "geometry": {"coordinates":[81,6.11667],"type":"Point"}
 }

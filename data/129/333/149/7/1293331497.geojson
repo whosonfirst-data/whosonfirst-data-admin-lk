@@ -42,7 +42,7 @@
         "wk:page":"Kadduwa"
     },
     "wof:country":"LK",
-    "wof:geomhash":"09a3b6b0ee62365ea9a7d34eb536a095",
+    "wof:geomhash":"2af304a179cf4f95011fb92a0fbccbe9",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -68,5 +68,5 @@
     80.51666999999998,
     6.03333
 ],
-  "geometry": {"coordinates":[80.51666999999998,6.03333],"type":"Point"}
+  "geometry": {"coordinates":[80.51667,6.03333],"type":"Point"}
 }

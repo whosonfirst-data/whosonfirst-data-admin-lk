@@ -45,7 +45,7 @@
         "wk:page":"Seenimodera"
     },
     "wof:country":"LK",
-    "wof:geomhash":"e85cddc4a54070d68a47b57b6b4102b9",
+    "wof:geomhash":"393cfde4ffc305f0d568e0e17f00717b",
     "wof:hierarchy":[
         {
             "country_id":85632313,
@@ -68,5 +68,5 @@
     80.75,
     6.0
 ],
-  "geometry": {"coordinates":[80.75,6.0],"type":"Point"}
+  "geometry": {"coordinates":[80.75,6],"type":"Point"}
 }

@@ -49,7 +49,7 @@
         "wk:page":"Madulkele"
     },
     "wof:country":"LK",
-    "wof:geomhash":"0dbb4aba637964c5ba1f7ba588f764a8",
+    "wof:geomhash":"69489a0281e9be547a73a02ac3e8449c",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -75,5 +75,5 @@
     80.73100000000002,
     7.3979
 ],
-  "geometry": {"coordinates":[80.73100000000002,7.3979],"type":"Point"}
+  "geometry": {"coordinates":[80.731,7.3979],"type":"Point"}
 }

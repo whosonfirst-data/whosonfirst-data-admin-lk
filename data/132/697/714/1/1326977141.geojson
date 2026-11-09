@@ -45,7 +45,7 @@
         "wk:page":"Tispane"
     },
     "wof:country":"LK",
-    "wof:geomhash":"c4e5c8b1595d2743e188270ad4fb015a",
+    "wof:geomhash":"b64b5a686d1d58ae0491dbbf10e80229",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -71,5 +71,5 @@
     80.61399999999998,
     7.0533
 ],
-  "geometry": {"coordinates":[80.61399999999998,7.0533],"type":"Point"}
+  "geometry": {"coordinates":[80.614,7.0533],"type":"Point"}
 }

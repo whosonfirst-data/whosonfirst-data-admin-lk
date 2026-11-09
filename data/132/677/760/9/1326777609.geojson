@@ -47,7 +47,7 @@
         "wk:page":"Naranpanawa_Karagastenna"
     },
     "wof:country":"LK",
-    "wof:geomhash":"17d1ebd04e39bc45ef1ae5bdb3e0aa62",
+    "wof:geomhash":"d9b4f279679640455163d0f12db5d6c7",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -73,5 +73,5 @@
     80.73333000000002,
     7.33333
 ],
-  "geometry": {"coordinates":[80.73333000000002,7.33333],"type":"Point"}
+  "geometry": {"coordinates":[80.73333,7.33333],"type":"Point"}
 }

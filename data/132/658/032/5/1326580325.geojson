@@ -42,7 +42,7 @@
         "wk:page":"Ginnoruwa"
     },
     "wof:country":"LK",
-    "wof:geomhash":"52aa360039c6b9c10af5d1ca6353e42a",
+    "wof:geomhash":"735fb6c91e00900307ee1de32d3cf213",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -68,5 +68,5 @@
     80.98333000000002,
     7.5
 ],
-  "geometry": {"coordinates":[80.98333000000002,7.5],"type":"Point"}
+  "geometry": {"coordinates":[80.98333,7.5],"type":"Point"}
 }

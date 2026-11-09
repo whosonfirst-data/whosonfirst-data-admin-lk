@@ -48,7 +48,7 @@
         "wk:page":"Uda_Aludeniya"
     },
     "wof:country":"LK",
-    "wof:geomhash":"0862c401c9e6d0513fdce8e2b988dc90",
+    "wof:geomhash":"9a2772f6c7402f173eb42d16f065c07b",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -74,5 +74,5 @@
     80.58800000000002,
     7.1929
 ],
-  "geometry": {"coordinates":[80.58800000000002,7.1929],"type":"Point"}
+  "geometry": {"coordinates":[80.588,7.1929],"type":"Point"}
 }

@@ -42,7 +42,7 @@
         "wk:page":"Ihala_Beligalla"
     },
     "wof:country":"LK",
-    "wof:geomhash":"8846332d64c8797dc0b5e2883ee239fb",
+    "wof:geomhash":"16965dc4c28a0b06964d2f8affc1194f",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -68,5 +68,5 @@
     80.74110999999998,
     6.09472
 ],
-  "geometry": {"coordinates":[80.74110999999998,6.09472],"type":"Point"}
+  "geometry": {"coordinates":[80.74111,6.09472],"type":"Point"}
 }
