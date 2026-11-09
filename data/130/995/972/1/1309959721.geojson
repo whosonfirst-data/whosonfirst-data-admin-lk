@@ -48,7 +48,7 @@
         "wk:page":"Uda_Aparekka"
     },
     "wof:country":"LK",
-    "wof:geomhash":"c4365dbec1128190686bd3d73056b752",
+    "wof:geomhash":"45f6d13bb625f5b009dc6ec06aaf7b3f",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -74,5 +74,5 @@
     80.61667,
     6.0
 ],
-  "geometry": {"coordinates":[80.61667,6.0],"type":"Point"}
+  "geometry": {"coordinates":[80.61667,6],"type":"Point"}
 }

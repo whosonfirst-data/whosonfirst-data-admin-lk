@@ -49,7 +49,7 @@
         "wk:page":"Boralanda"
     },
     "wof:country":"LK",
-    "wof:geomhash":"0664b2ebb50ca3e05c2f5c2464c2c694",
+    "wof:geomhash":"5e9c2387d19ff2814ca7a5752be154ce",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -75,5 +75,5 @@
     80.89399999999998,
     6.827
 ],
-  "geometry": {"coordinates":[80.89399999999998,6.827],"type":"Point"}
+  "geometry": {"coordinates":[80.894,6.827],"type":"Point"}
 }

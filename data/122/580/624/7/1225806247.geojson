@@ -42,7 +42,7 @@
         "wk:page":"Hilton_Colony"
     },
     "wof:country":"LK",
-    "wof:geomhash":"ba0df594543140150927f7508e1da44b",
+    "wof:geomhash":"24f5c1c729f6c984d62f515a1cd8b5c3",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -68,5 +68,5 @@
     80.61399999999998,
     7.5418
 ],
-  "geometry": {"coordinates":[80.61399999999998,7.5418],"type":"Point"}
+  "geometry": {"coordinates":[80.614,7.5418],"type":"Point"}
 }

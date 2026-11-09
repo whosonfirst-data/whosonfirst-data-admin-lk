@@ -42,7 +42,7 @@
         "wk:page":"Owilana"
     },
     "wof:country":"LK",
-    "wof:geomhash":"579b872fa804e5e4d446b53132089f81",
+    "wof:geomhash":"9bb80dba13871c0c3e2c7bf76f177671",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -68,5 +68,5 @@
     80.73333000000002,
     6.01667
 ],
-  "geometry": {"coordinates":[80.73333000000002,6.01667],"type":"Point"}
+  "geometry": {"coordinates":[80.73333,6.01667],"type":"Point"}
 }

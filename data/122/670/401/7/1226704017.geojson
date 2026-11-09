@@ -47,7 +47,7 @@
         "wk:page":"Pahajjawa"
     },
     "wof:country":"LK",
-    "wof:geomhash":"87c2bfc0132d482cef551d6272d3befd",
+    "wof:geomhash":"c91e767dce3739eba4dd58564ae3458a",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -73,5 +73,5 @@
     80.71667,
     6.0
 ],
-  "geometry": {"coordinates":[80.71666999999999,6.0],"type":"Point"}
+  "geometry": {"coordinates":[80.71667,6],"type":"Point"}
 }

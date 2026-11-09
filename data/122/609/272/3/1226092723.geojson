@@ -45,7 +45,7 @@
         "wk:page":"Yodagannawa"
     },
     "wof:country":"LK",
-    "wof:geomhash":"fee799b330afe55b4f23c252e1b60095",
+    "wof:geomhash":"8f0cfae0d5a4937e247bbd04167f2363",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -71,5 +71,5 @@
     80.98333000000002,
     7.66667
 ],
-  "geometry": {"coordinates":[80.98333000000002,7.66667],"type":"Point"}
+  "geometry": {"coordinates":[80.98333,7.66667],"type":"Point"}
 }

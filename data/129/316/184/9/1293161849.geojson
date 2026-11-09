@@ -42,7 +42,7 @@
         "wk:page":"Mandaran_Newara"
     },
     "wof:country":"LK",
-    "wof:geomhash":"eaafb679b4a534e789e17e5dbec50283",
+    "wof:geomhash":"c934f21e3ed27b23dd50a81edbfef441",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -68,5 +68,5 @@
     80.76666999999998,
     7.05
 ],
-  "geometry": {"coordinates":[80.76666999999998,7.05],"type":"Point"}
+  "geometry": {"coordinates":[80.76667,7.05],"type":"Point"}
 }

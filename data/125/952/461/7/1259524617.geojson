@@ -45,7 +45,7 @@
         "wk:page":"Mabotuwana"
     },
     "wof:country":"LK",
-    "wof:geomhash":"6fce95b3073dc148af11d7e9256f66b3",
+    "wof:geomhash":"1ed48c7f35b7f20e2ac41d9363df06f5",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -71,5 +71,5 @@
     80.28399999999998,
     6.1266
 ],
-  "geometry": {"coordinates":[80.28399999999998,6.1266],"type":"Point"}
+  "geometry": {"coordinates":[80.284,6.1266],"type":"Point"}
 }

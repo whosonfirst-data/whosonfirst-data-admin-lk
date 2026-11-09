@@ -46,7 +46,7 @@
         "wk:page":"Paduangoda"
     },
     "wof:country":"LK",
-    "wof:geomhash":"6246818c8e33e65d3814226bcd46143e",
+    "wof:geomhash":"e89f32f7a39dca3e1f0bf31d12902e59",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -72,5 +72,5 @@
     80.57600000000002,
     7.2196
 ],
-  "geometry": {"coordinates":[80.57600000000002,7.2196],"type":"Point"}
+  "geometry": {"coordinates":[80.576,7.2196],"type":"Point"}
 }

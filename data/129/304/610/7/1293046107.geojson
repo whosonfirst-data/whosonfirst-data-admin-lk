@@ -48,7 +48,7 @@
         "wk:page":"Aparekka"
     },
     "wof:country":"LK",
-    "wof:geomhash":"45fa5b3773136940f992f41661cf0ba1",
+    "wof:geomhash":"2e70f96270a91d63ec498afa19e28bc9",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -74,5 +74,5 @@
     80.6,
     6.0
 ],
-  "geometry": {"coordinates":[80.59999999999999,6.0],"type":"Point"}
+  "geometry": {"coordinates":[80.6,6],"type":"Point"}
 }

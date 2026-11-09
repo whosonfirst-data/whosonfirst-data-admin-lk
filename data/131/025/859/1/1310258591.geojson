@@ -42,7 +42,7 @@
         "wk:page":"Walasgala"
     },
     "wof:country":"LK",
-    "wof:geomhash":"d43863e248b3d33c53d8e6928280ceca",
+    "wof:geomhash":"6f6257f1fe190eddbe36c478ed43a9e5",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -68,5 +68,5 @@
     80.70194000000002,
     5.99111
 ],
-  "geometry": {"coordinates":[80.70194000000002,5.99111],"type":"Point"}
+  "geometry": {"coordinates":[80.70194,5.99111],"type":"Point"}
 }

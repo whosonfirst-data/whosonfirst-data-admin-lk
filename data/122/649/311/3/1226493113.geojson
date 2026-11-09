@@ -42,7 +42,7 @@
         "wk:page":"Wepatana"
     },
     "wof:country":"LK",
-    "wof:geomhash":"2b510d4898a085745a5479b64147c0e4",
+    "wof:geomhash":"e1f0794e0c7ec3094d44c5528336d927",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -68,5 +68,5 @@
     80.73333000000002,
     7.31667
 ],
-  "geometry": {"coordinates":[80.73333000000002,7.31667],"type":"Point"}
+  "geometry": {"coordinates":[80.73333,7.31667],"type":"Point"}
 }

@@ -47,7 +47,7 @@
         "wk:page":"Vetastenna"
     },
     "wof:country":"LK",
-    "wof:geomhash":"b99fbc3d9de4b26b36fa9bc30ec468df",
+    "wof:geomhash":"7e07a5eb5cd2b34eaba0ed9d2908c158",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -73,5 +73,5 @@
     80.73333000000002,
     7.13333
 ],
-  "geometry": {"coordinates":[80.73333000000002,7.13333],"type":"Point"}
+  "geometry": {"coordinates":[80.73333,7.13333],"type":"Point"}
 }

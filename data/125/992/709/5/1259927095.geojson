@@ -42,7 +42,7 @@
         "wk:page":"Malgandeniya"
     },
     "wof:country":"LK",
-    "wof:geomhash":"132d659a2c138bb916cf946b26470c2e",
+    "wof:geomhash":"eded21ecd040ac6d4003acedbad976c9",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -68,5 +68,5 @@
     80.62899999999998,
     7.3945
 ],
-  "geometry": {"coordinates":[80.62899999999998,7.3945],"type":"Point"}
+  "geometry": {"coordinates":[80.629,7.3945],"type":"Point"}
 }

@@ -39,7 +39,7 @@
         "wk:page":"Vakkappaddankandal-Metpuliyankulam"
     },
     "wof:country":"LK",
-    "wof:geomhash":"3a9e8fac17e583f0ab3f5c6fc83bcd08",
+    "wof:geomhash":"5aee4ef55663b1a9addeb7a583593a9f",
     "wof:hierarchy":[
         {
             "country_id":85632313,
@@ -62,5 +62,5 @@
     79.98333000000002,
     8.81667
 ],
-  "geometry": {"coordinates":[79.98333000000002,8.81667],"type":"Point"}
+  "geometry": {"coordinates":[79.98333,8.81667],"type":"Point"}
 }

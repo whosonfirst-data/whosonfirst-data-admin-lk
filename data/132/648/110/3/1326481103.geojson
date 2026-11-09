@@ -42,7 +42,7 @@
         "wk:page":"Idamelanda"
     },
     "wof:country":"LK",
-    "wof:geomhash":"c7779c516f5f09fbed0a2a50eb61e331",
+    "wof:geomhash":"dbdffb8c8435692fe1a0e168cfef559c",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -68,5 +68,5 @@
     80.76666999999998,
     7.2
 ],
-  "geometry": {"coordinates":[80.76666999999998,7.2],"type":"Point"}
+  "geometry": {"coordinates":[80.76667,7.2],"type":"Point"}
 }

@@ -46,7 +46,7 @@
         "wk:page":"Tharakundu"
     },
     "wof:country":"LK",
-    "wof:geomhash":"7765e540261da84fd2bf59437bd33bff",
+    "wof:geomhash":"fa8032dd7c4a681dd654a731ae034b0a",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -72,5 +72,5 @@
     79.86667,
     9.0
 ],
-  "geometry": {"coordinates":[79.86667,9.0],"type":"Point"}
+  "geometry": {"coordinates":[79.86667,9],"type":"Point"}
 }

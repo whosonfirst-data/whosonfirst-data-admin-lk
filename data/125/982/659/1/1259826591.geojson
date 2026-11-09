@@ -48,7 +48,7 @@
         "wk:page":"Dekinda"
     },
     "wof:country":"LK",
-    "wof:geomhash":"a95464696753692cfa05bc268df35782",
+    "wof:geomhash":"f1737cc293922c09296ef76f54da41de",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -74,5 +74,5 @@
     80.51666999999998,
     7.01667
 ],
-  "geometry": {"coordinates":[80.51666999999998,7.01667],"type":"Point"}
+  "geometry": {"coordinates":[80.51667,7.01667],"type":"Point"}
 }

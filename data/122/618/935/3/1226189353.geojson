@@ -42,7 +42,7 @@
         "wk:page":"Kiriwan_Eliya"
     },
     "wof:country":"LK",
-    "wof:geomhash":"eefc7262b012a840fc2f1cd6a1e3694c",
+    "wof:geomhash":"e3da0cafade8fba22e697ae545cfa215",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -68,5 +68,5 @@
     80.49600000000002,
     6.9166
 ],
-  "geometry": {"coordinates":[80.49600000000002,6.9166],"type":"Point"}
+  "geometry": {"coordinates":[80.496,6.9166],"type":"Point"}
 }

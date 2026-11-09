@@ -47,7 +47,7 @@
         "wk:page":"Urugalakadawidiya"
     },
     "wof:country":"LK",
-    "wof:geomhash":"3fd4a4128b16ceffbf390921caa8a9d8",
+    "wof:geomhash":"de3f22496916bc715806636b834e62c3",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -73,5 +73,5 @@
     80.82139000000002,
     7.28611
 ],
-  "geometry": {"coordinates":[80.82139000000002,7.28611],"type":"Point"}
+  "geometry": {"coordinates":[80.82139,7.28611],"type":"Point"}
 }

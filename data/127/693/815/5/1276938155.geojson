@@ -42,7 +42,7 @@
         "wk:page":"Pubbarawela"
     },
     "wof:country":"LK",
-    "wof:geomhash":"6ffbd7a7898d4fe0a6f3d062de6141ea",
+    "wof:geomhash":"dc313657cf5a62f1867cee81ebc59e10",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -68,5 +68,5 @@
     80.76666999999998,
     7.55
 ],
-  "geometry": {"coordinates":[80.76666999999998,7.55],"type":"Point"}
+  "geometry": {"coordinates":[80.76667,7.55],"type":"Point"}
 }
