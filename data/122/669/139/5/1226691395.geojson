@@ -34,7 +34,8 @@
         102191569,
         85632313,
         85673785,
-        1092064505
+        1092064505,
+        9895094861
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,11 +49,12 @@
             "country_id":85632313,
             "county_id":1092064505,
             "locality_id":1226691395,
+            "macroregion_id":9895094861,
             "region_id":85673785
         }
     ],
     "wof:id":1226691395,
-    "wof:lastmodified":1566595661,
+    "wof:lastmodified":1795802560,
     "wof:name":"Thalagahawatta",
     "wof:parent_id":1092064505,
     "wof:placetype":"locality",

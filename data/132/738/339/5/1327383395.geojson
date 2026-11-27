@@ -38,7 +38,8 @@
         102191569,
         85632313,
         85673777,
-        1092064733
+        1092064733,
+        9895094858
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,11 +53,12 @@
             "country_id":85632313,
             "county_id":1092064733,
             "locality_id":1327383395,
+            "macroregion_id":9895094858,
             "region_id":85673777
         }
     ],
     "wof:id":1327383395,
-    "wof:lastmodified":1566594131,
+    "wof:lastmodified":1795802560,
     "wof:name":"Erunkada",
     "wof:parent_id":1092064733,
     "wof:placetype":"locality",

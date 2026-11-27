@@ -40,7 +40,8 @@
         102191569,
         85632313,
         85673779,
-        1092068121
+        1092068121,
+        9895094858
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -55,11 +56,12 @@
             "country_id":85632313,
             "county_id":1092068121,
             "locality_id":1293833137,
+            "macroregion_id":9895094858,
             "region_id":85673779
         }
     ],
     "wof:id":1293833137,
-    "wof:lastmodified":1566594502,
+    "wof:lastmodified":1795802560,
     "wof:name":"Wennappuwa Town",
     "wof:parent_id":1092068121,
     "wof:placetype":"locality",

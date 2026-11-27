@@ -37,7 +37,8 @@
         102191569,
         85632313,
         85673815,
-        1092059853
+        1092059853,
+        9895094853
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,11 +52,12 @@
             "country_id":85632313,
             "county_id":1092059853,
             "locality_id":1209969805,
+            "macroregion_id":9895094853,
             "region_id":85673815
         }
     ],
     "wof:id":1209969805,
-    "wof:lastmodified":1566594808,
+    "wof:lastmodified":1795802560,
     "wof:name":"Wahatiyagama",
     "wof:parent_id":1092059853,
     "wof:placetype":"locality",

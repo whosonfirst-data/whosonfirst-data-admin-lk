@@ -34,7 +34,8 @@
         102191569,
         85632313,
         85673815,
-        1092062209
+        1092062209,
+        9895094853
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,11 +49,12 @@
             "country_id":85632313,
             "county_id":1092062209,
             "locality_id":1360224795,
+            "macroregion_id":9895094853,
             "region_id":85673815
         }
     ],
     "wof:id":1360224795,
-    "wof:lastmodified":1566595246,
+    "wof:lastmodified":1795802560,
     "wof:name":"Doranediwala",
     "wof:parent_id":1092062209,
     "wof:placetype":"locality",

@@ -34,7 +34,8 @@
         102191569,
         85632313,
         85673737,
-        1092062555
+        1092062555,
+        9895094857
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,11 +50,12 @@
             "country_id":85632313,
             "county_id":1092062555,
             "locality_id":1293822899,
+            "macroregion_id":9895094857,
             "region_id":85673737
         }
     ],
     "wof:id":1293822899,
-    "wof:lastmodified":1566594522,
+    "wof:lastmodified":1795802560,
     "wof:name":"Kurukkalmadam",
     "wof:parent_id":1092062555,
     "wof:placetype":"locality",

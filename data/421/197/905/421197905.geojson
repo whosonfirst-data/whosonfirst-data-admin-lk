@@ -162,7 +162,8 @@
         102191569,
         85632313,
         85673731,
-        1092056403
+        1092056403,
+        9895094854
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -181,11 +182,12 @@
             "country_id":85632313,
             "county_id":1092056403,
             "locality_id":421197905,
+            "macroregion_id":9895094854,
             "region_id":85673731
         }
     ],
     "wof:id":421197905,
-    "wof:lastmodified":1690938568,
+    "wof:lastmodified":1795802560,
     "wof:name":"Hatton",
     "wof:parent_id":1092056403,
     "wof:placetype":"locality",

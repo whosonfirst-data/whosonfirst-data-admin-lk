@@ -41,7 +41,8 @@
         102191569,
         85632313,
         85673733,
-        1092066067
+        1092066067,
+        9895094857
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -56,11 +57,12 @@
             "country_id":85632313,
             "county_id":1092066067,
             "locality_id":1226701885,
+            "macroregion_id":9895094857,
             "region_id":85673733
         }
     ],
     "wof:id":1226701885,
-    "wof:lastmodified":1566595748,
+    "wof:lastmodified":1795802560,
     "wof:name":"Veeramunai",
     "wof:parent_id":1092066067,
     "wof:placetype":"locality",

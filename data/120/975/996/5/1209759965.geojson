@@ -37,7 +37,8 @@
         102191569,
         85632313,
         85673819,
-        1092062959
+        1092062959,
+        9895094853
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,11 +52,12 @@
             "country_id":85632313,
             "county_id":1092062959,
             "locality_id":1209759965,
+            "macroregion_id":9895094853,
             "region_id":85673819
         }
     ],
     "wof:id":1209759965,
-    "wof:lastmodified":1566594937,
+    "wof:lastmodified":1795802560,
     "wof:name":"Danwattagoda",
     "wof:parent_id":1092062959,
     "wof:placetype":"locality",

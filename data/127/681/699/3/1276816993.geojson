@@ -34,7 +34,8 @@
         102191569,
         85632313,
         85673785,
-        1092058219
+        1092058219,
+        9895094861
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,11 +49,12 @@
             "country_id":85632313,
             "county_id":1092058219,
             "locality_id":1276816993,
+            "macroregion_id":9895094861,
             "region_id":85673785
         }
     ],
     "wof:id":1276816993,
-    "wof:lastmodified":1566594634,
+    "wof:lastmodified":1795802560,
     "wof:name":"Maraliya",
     "wof:parent_id":1092058219,
     "wof:placetype":"locality",

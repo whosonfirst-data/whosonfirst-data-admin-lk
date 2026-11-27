@@ -226,7 +226,8 @@
     "unlc:subdivision":"LK-11",
     "wof:belongsto":[
         102191569,
-        85632313
+        85632313,
+        9895094853
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -251,6 +252,7 @@
         {
             "continent_id":102191569,
             "country_id":85632313,
+            "macroregion_id":9895094853,
             "region_id":85673811
         }
     ],
@@ -263,9 +265,9 @@
         "sin",
         "tam"
     ],
-    "wof:lastmodified":1695884362,
+    "wof:lastmodified":1795802560,
     "wof:name":"K\u014f\u1e37amba",
-    "wof:parent_id":85632313,
+    "wof:parent_id":9895094853,
     "wof:placetype":"region",
     "wof:placetype_local":"district",
     "wof:population":2324349,

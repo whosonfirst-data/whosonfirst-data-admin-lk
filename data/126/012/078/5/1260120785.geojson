@@ -67,7 +67,8 @@
         102191569,
         85632313,
         85673803,
-        1092060667
+        1092060667,
+        9895094860
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -81,11 +82,12 @@
             "country_id":85632313,
             "county_id":1092060667,
             "locality_id":1260120785,
+            "macroregion_id":9895094860,
             "region_id":85673803
         }
     ],
     "wof:id":1260120785,
-    "wof:lastmodified":1566595048,
+    "wof:lastmodified":1795802560,
     "wof:name":"Madam",
     "wof:parent_id":1092060667,
     "wof:placetype":"locality",

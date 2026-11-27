@@ -43,7 +43,8 @@
         102191569,
         85632313,
         85673719,
-        1092061615
+        1092061615,
+        9895094854
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -58,11 +59,12 @@
             "country_id":85632313,
             "county_id":1092061615,
             "locality_id":1293151475,
+            "macroregion_id":9895094854,
             "region_id":85673719
         }
     ],
     "wof:id":1293151475,
-    "wof:lastmodified":1566594520,
+    "wof:lastmodified":1795802560,
     "wof:name":"Alakolamaditta",
     "wof:parent_id":1092061615,
     "wof:placetype":"locality",

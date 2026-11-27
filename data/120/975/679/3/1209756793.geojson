@@ -40,7 +40,8 @@
         102191569,
         85632313,
         85673791,
-        1092066869
+        1092066869,
+        9895094855
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -54,11 +55,12 @@
             "country_id":85632313,
             "county_id":1092066869,
             "locality_id":1209756793,
+            "macroregion_id":9895094855,
             "region_id":85673791
         }
     ],
     "wof:id":1209756793,
-    "wof:lastmodified":1566594940,
+    "wof:lastmodified":1795802560,
     "wof:name":"Kirinda",
     "wof:parent_id":1092066869,
     "wof:placetype":"locality",

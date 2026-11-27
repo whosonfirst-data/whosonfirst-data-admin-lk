@@ -34,7 +34,8 @@
         102191569,
         85632313,
         85673803,
-        1092057329
+        1092057329,
+        9895094860
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,11 +49,12 @@
             "country_id":85632313,
             "county_id":1092057329,
             "locality_id":1259636973,
+            "macroregion_id":9895094860,
             "region_id":85673803
         }
     ],
     "wof:id":1259636973,
-    "wof:lastmodified":1566595555,
+    "wof:lastmodified":1795802560,
     "wof:name":"Veheragala Gemunugama",
     "wof:parent_id":1092057329,
     "wof:placetype":"locality",

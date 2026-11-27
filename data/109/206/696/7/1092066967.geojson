@@ -60,7 +60,8 @@
     "wof:belongsto":[
         102191569,
         85632313,
-        85673719
+        85673719,
+        9895094854
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -75,11 +76,12 @@
             "continent_id":102191569,
             "country_id":85632313,
             "county_id":1092066967,
+            "macroregion_id":9895094854,
             "region_id":85673719
         }
     ],
     "wof:id":1092066967,
-    "wof:lastmodified":1695886795,
+    "wof:lastmodified":1795802560,
     "wof:name":"Udapalatha",
     "wof:parent_id":85673719,
     "wof:placetype":"county",

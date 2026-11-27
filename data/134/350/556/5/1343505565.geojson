@@ -40,7 +40,8 @@
         102191569,
         85632313,
         85673819,
-        1092057287
+        1092057287,
+        9895094853
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -54,11 +55,12 @@
             "country_id":85632313,
             "county_id":1092057287,
             "locality_id":1343505565,
+            "macroregion_id":9895094853,
             "region_id":85673819
         }
     ],
     "wof:id":1343505565,
-    "wof:lastmodified":1566594362,
+    "wof:lastmodified":1795802560,
     "wof:name":"Opalla",
     "wof:parent_id":1092057287,
     "wof:placetype":"locality",

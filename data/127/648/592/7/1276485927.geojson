@@ -40,7 +40,8 @@
         102191569,
         85632313,
         85673801,
-        1092057059
+        1092057059,
+        9895094860
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -54,11 +55,12 @@
             "country_id":85632313,
             "county_id":1092057059,
             "locality_id":1276485927,
+            "macroregion_id":9895094860,
             "region_id":85673801
         }
     ],
     "wof:id":1276485927,
-    "wof:lastmodified":1566594759,
+    "wof:lastmodified":1795802560,
     "wof:name":"Kirioruwa",
     "wof:parent_id":1092057059,
     "wof:placetype":"locality",

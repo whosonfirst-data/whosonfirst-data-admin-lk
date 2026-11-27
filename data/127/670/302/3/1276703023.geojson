@@ -39,7 +39,8 @@
         102191569,
         85632313,
         85673761,
-        1092062755
+        1092062755,
+        9895094856
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,11 +54,12 @@
             "country_id":85632313,
             "county_id":1092062755,
             "locality_id":1276703023,
+            "macroregion_id":9895094856,
             "region_id":85673761
         }
     ],
     "wof:id":1276703023,
-    "wof:lastmodified":1566594756,
+    "wof:lastmodified":1795802560,
     "wof:name":"Putukkulam",
     "wof:parent_id":1092062755,
     "wof:placetype":"locality",

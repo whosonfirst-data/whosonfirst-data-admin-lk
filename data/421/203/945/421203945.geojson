@@ -271,7 +271,8 @@
         102191569,
         85632313,
         85673773,
-        1092060465
+        1092060465,
+        9895094856
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -290,11 +291,12 @@
             "country_id":85632313,
             "county_id":1092060465,
             "locality_id":421203945,
+            "macroregion_id":9895094856,
             "region_id":85673773
         }
     ],
     "wof:id":421203945,
-    "wof:lastmodified":1690938561,
+    "wof:lastmodified":1795802560,
     "wof:name":"Kilinochchi",
     "wof:parent_id":1092060465,
     "wof:placetype":"locality",

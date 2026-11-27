@@ -542,7 +542,8 @@
         102191569,
         85632313,
         85673811,
-        1092059875
+        1092059875,
+        9895094853
     ],
     "wof:breaches":[],
     "wof:capital_of":[
@@ -567,11 +568,12 @@
             "country_id":85632313,
             "county_id":1092059875,
             "locality_id":421182301,
+            "macroregion_id":9895094853,
             "region_id":85673811
         }
     ],
     "wof:id":421182301,
-    "wof:lastmodified":1690938573,
+    "wof:lastmodified":1795802560,
     "wof:name":"Sri Jayewardenepura-Kotte",
     "wof:parent_id":1092059875,
     "wof:placetype":"locality",

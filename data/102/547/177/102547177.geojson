@@ -69,7 +69,8 @@
     },
     "wof:belongsto":[
         85632313,
-        85673733
+        85673733,
+        9895094857
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -85,11 +86,12 @@
         {
             "campus_id":102547177,
             "country_id":85632313,
+            "macroregion_id":9895094857,
             "region_id":85673733
         }
     ],
     "wof:id":102547177,
-    "wof:lastmodified":1690938533,
+    "wof:lastmodified":1795802560,
     "wof:name":"Amparai Airport",
     "wof:parent_id":85673733,
     "wof:placetype":"campus",

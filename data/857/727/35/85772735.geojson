@@ -86,7 +86,8 @@
         85673795,
         102191569,
         85632313,
-        1092067827
+        1092067827,
+        9895094855
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -105,6 +106,7 @@
             "country_id":85632313,
             "county_id":1092067827,
             "locality_id":-1,
+            "macroregion_id":9895094855,
             "neighbourhood_id":85772735,
             "region_id":85673795
         }
@@ -113,7 +115,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1582345032,
+    "wof:lastmodified":1795802560,
     "wof:name":"Kapparatota",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

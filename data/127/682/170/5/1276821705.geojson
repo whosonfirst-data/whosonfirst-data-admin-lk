@@ -34,7 +34,8 @@
         102191569,
         85632313,
         85673815,
-        1092063369
+        1092063369,
+        9895094853
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,11 +50,12 @@
             "country_id":85632313,
             "county_id":1092063369,
             "locality_id":1276821705,
+            "macroregion_id":9895094853,
             "region_id":85673815
         }
     ],
     "wof:id":1276821705,
-    "wof:lastmodified":1566594735,
+    "wof:lastmodified":1795802560,
     "wof:name":"Kalawana",
     "wof:parent_id":1092063369,
     "wof:placetype":"locality",

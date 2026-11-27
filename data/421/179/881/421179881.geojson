@@ -40,7 +40,8 @@
         102191569,
         85632313,
         85673733,
-        1092064659
+        1092064659,
+        9895094857
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -57,11 +58,12 @@
             "country_id":85632313,
             "county_id":1092064659,
             "locality_id":421179881,
+            "macroregion_id":9895094857,
             "region_id":85673733
         }
     ],
     "wof:id":421179881,
-    "wof:lastmodified":1566595379,
+    "wof:lastmodified":1795802560,
     "wof:name":"Kumana",
     "wof:parent_id":1092064659,
     "wof:placetype":"locality",

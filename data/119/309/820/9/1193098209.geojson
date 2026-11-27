@@ -34,7 +34,8 @@
         102191569,
         85632313,
         85673723,
-        1092064907
+        1092064907,
+        9895094854
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,11 +49,12 @@
             "country_id":85632313,
             "county_id":1092064907,
             "locality_id":1193098209,
+            "macroregion_id":9895094854,
             "region_id":85673723
         }
     ],
     "wof:id":1193098209,
-    "wof:lastmodified":1566594959,
+    "wof:lastmodified":1795802560,
     "wof:name":"Polwatta",
     "wof:parent_id":1092064907,
     "wof:placetype":"locality",

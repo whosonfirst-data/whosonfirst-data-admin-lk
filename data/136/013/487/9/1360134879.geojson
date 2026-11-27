@@ -40,7 +40,8 @@
         102191569,
         85632313,
         85673751,
-        1092063257
+        1092063257,
+        9895094859
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -54,11 +55,12 @@
             "country_id":85632313,
             "county_id":1092063257,
             "locality_id":1360134879,
+            "macroregion_id":9895094859,
             "region_id":85673751
         }
     ],
     "wof:id":1360134879,
-    "wof:lastmodified":1566595238,
+    "wof:lastmodified":1795802560,
     "wof:name":"Kahapatwilagama",
     "wof:parent_id":1092063257,
     "wof:placetype":"locality",

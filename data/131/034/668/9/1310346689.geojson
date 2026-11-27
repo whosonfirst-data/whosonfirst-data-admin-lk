@@ -49,7 +49,8 @@
         102191569,
         85632313,
         85673807,
-        1092065729
+        1092065729,
+        9895094861
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -64,11 +65,12 @@
             "country_id":85632313,
             "county_id":1092065729,
             "locality_id":1310346689,
+            "macroregion_id":9895094861,
             "region_id":85673807
         }
     ],
     "wof:id":1310346689,
-    "wof:lastmodified":1566595199,
+    "wof:lastmodified":1795802560,
     "wof:name":"Pinnawala",
     "wof:parent_id":1092065729,
     "wof:placetype":"locality",

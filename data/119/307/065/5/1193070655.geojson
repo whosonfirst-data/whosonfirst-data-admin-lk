@@ -40,7 +40,8 @@
         102191569,
         85632313,
         85673769,
-        1092067255
+        1092067255,
+        9895094856
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -55,11 +56,12 @@
             "country_id":85632313,
             "county_id":1092067255,
             "locality_id":1193070655,
+            "macroregion_id":9895094856,
             "region_id":85673769
         }
     ],
     "wof:id":1193070655,
-    "wof:lastmodified":1566594952,
+    "wof:lastmodified":1795802560,
     "wof:name":"Vaddukkoddai West",
     "wof:parent_id":1092067255,
     "wof:placetype":"locality",

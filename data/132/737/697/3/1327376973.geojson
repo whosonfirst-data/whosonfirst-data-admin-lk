@@ -34,7 +34,8 @@
         102191569,
         85632313,
         85673747,
-        1092064583
+        1092064583,
+        9895094857
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,11 +49,12 @@
             "country_id":85632313,
             "county_id":1092064583,
             "locality_id":1327376973,
+            "macroregion_id":9895094857,
             "region_id":85673747
         }
     ],
     "wof:id":1327376973,
-    "wof:lastmodified":1566594125,
+    "wof:lastmodified":1795802560,
     "wof:name":"Padavi Siripura",
     "wof:parent_id":1092064583,
     "wof:placetype":"locality",

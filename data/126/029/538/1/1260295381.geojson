@@ -33,7 +33,8 @@
         102191569,
         85632313,
         85673777,
-        1092065421
+        1092065421,
+        9895094858
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,11 +48,12 @@
             "country_id":85632313,
             "county_id":1092065421,
             "locality_id":1260295381,
+            "macroregion_id":9895094858,
             "region_id":85673777
         }
     ],
     "wof:id":1260295381,
-    "wof:lastmodified":1566595070,
+    "wof:lastmodified":1795802560,
     "wof:name":"Handungamuwa",
     "wof:parent_id":1092065421,
     "wof:placetype":"locality",

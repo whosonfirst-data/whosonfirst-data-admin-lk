@@ -231,7 +231,8 @@
     "wd:wordcount":75,
     "wof:belongsto":[
         102191569,
-        85632313
+        85632313,
+        9895094856
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -255,6 +256,7 @@
         {
             "continent_id":102191569,
             "country_id":85632313,
+            "macroregion_id":9895094856,
             "region_id":85673757
         }
     ],
@@ -267,9 +269,9 @@
         "sin",
         "tam"
     ],
-    "wof:lastmodified":1695884361,
+    "wof:lastmodified":1795802560,
     "wof:name":"Vavuniy\u0101va",
-    "wof:parent_id":85632313,
+    "wof:parent_id":9895094856,
     "wof:placetype":"region",
     "wof:placetype_local":"district",
     "wof:population":172115,

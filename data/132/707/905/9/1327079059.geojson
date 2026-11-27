@@ -37,7 +37,8 @@
         102191569,
         85632313,
         85673801,
-        1092061877
+        1092061877,
+        9895094860
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,11 +52,12 @@
             "country_id":85632313,
             "county_id":1092061877,
             "locality_id":1327079059,
+            "macroregion_id":9895094860,
             "region_id":85673801
         }
     ],
     "wof:id":1327079059,
-    "wof:lastmodified":1566594140,
+    "wof:lastmodified":1795802560,
     "wof:name":"Waragoda",
     "wof:parent_id":1092061877,
     "wof:placetype":"locality",

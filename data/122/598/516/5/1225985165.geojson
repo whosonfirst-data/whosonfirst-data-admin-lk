@@ -43,7 +43,8 @@
         102191569,
         85632313,
         85673801,
-        1092065181
+        1092065181,
+        9895094860
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -57,11 +58,12 @@
             "country_id":85632313,
             "county_id":1092065181,
             "locality_id":1225985165,
+            "macroregion_id":9895094860,
             "region_id":85673801
         }
     ],
     "wof:id":1225985165,
-    "wof:lastmodified":1566595717,
+    "wof:lastmodified":1795802560,
     "wof:name":"Panagoda",
     "wof:parent_id":1092065181,
     "wof:placetype":"locality",

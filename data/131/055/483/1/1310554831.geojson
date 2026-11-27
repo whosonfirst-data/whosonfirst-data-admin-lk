@@ -38,7 +38,8 @@
         102191569,
         85632313,
         85673803,
-        1092066203
+        1092066203,
+        9895094860
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,11 +53,12 @@
             "country_id":85632313,
             "county_id":1092066203,
             "locality_id":1310554831,
+            "macroregion_id":9895094860,
             "region_id":85673803
         }
     ],
     "wof:id":1310554831,
-    "wof:lastmodified":1566595151,
+    "wof:lastmodified":1795802560,
     "wof:name":"Kiwuleyaya",
     "wof:parent_id":1092066203,
     "wof:placetype":"locality",

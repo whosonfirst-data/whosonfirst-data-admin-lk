@@ -40,7 +40,8 @@
         102191569,
         85632313,
         85673743,
-        1092061853
+        1092061853,
+        9895094859
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -54,11 +55,12 @@
             "country_id":85632313,
             "county_id":1092061853,
             "locality_id":1243210431,
+            "macroregion_id":9895094859,
             "region_id":85673743
         }
     ],
     "wof:id":1243210431,
-    "wof:lastmodified":1566595534,
+    "wof:lastmodified":1795802560,
     "wof:name":"Kurinchamunai",
     "wof:parent_id":1092061853,
     "wof:placetype":"locality",

@@ -87,7 +87,8 @@
         102191569,
         85632313,
         85673801,
-        1092059183
+        1092059183,
+        9895094860
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -106,11 +107,12 @@
             "country_id":85632313,
             "county_id":1092059183,
             "locality_id":421173211,
+            "macroregion_id":9895094860,
             "region_id":85673801
         }
     ],
     "wof:id":421173211,
-    "wof:lastmodified":1690938564,
+    "wof:lastmodified":1795802560,
     "wof:name":"Haputale",
     "wof:parent_id":1092059183,
     "wof:placetype":"locality",

@@ -40,7 +40,8 @@
         102191569,
         85632313,
         85673795,
-        1092058979
+        1092058979,
+        9895094855
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -54,11 +55,12 @@
             "country_id":85632313,
             "county_id":1092058979,
             "locality_id":1243508341,
+            "macroregion_id":9895094855,
             "region_id":85673795
         }
     ],
     "wof:id":1243508341,
-    "wof:lastmodified":1566595471,
+    "wof:lastmodified":1795802560,
     "wof:name":"Badabadda",
     "wof:parent_id":1092058979,
     "wof:placetype":"locality",

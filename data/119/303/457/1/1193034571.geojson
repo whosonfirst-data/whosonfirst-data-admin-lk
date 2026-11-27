@@ -33,7 +33,8 @@
         102191569,
         85632313,
         85673743,
-        1092057891
+        1092057891,
+        9895094859
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,11 +48,12 @@
             "country_id":85632313,
             "county_id":1092057891,
             "locality_id":1193034571,
+            "macroregion_id":9895094859,
             "region_id":85673743
         }
     ],
     "wof:id":1193034571,
-    "wof:lastmodified":1566594993,
+    "wof:lastmodified":1795802560,
     "wof:name":"Aralaganwila",
     "wof:parent_id":1092057891,
     "wof:placetype":"locality",

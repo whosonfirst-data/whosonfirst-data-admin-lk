@@ -281,7 +281,8 @@
         102191569,
         85632313,
         85673811,
-        1092063487
+        1092063487,
+        9895094853
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -300,11 +301,12 @@
             "country_id":85632313,
             "county_id":1092063487,
             "locality_id":421199791,
+            "macroregion_id":9895094853,
             "region_id":85673811
         }
     ],
     "wof:id":421199791,
-    "wof:lastmodified":1690938569,
+    "wof:lastmodified":1795802560,
     "wof:name":"Moratuwa",
     "wof:parent_id":1092063487,
     "wof:placetype":"locality",

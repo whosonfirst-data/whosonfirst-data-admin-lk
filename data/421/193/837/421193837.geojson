@@ -77,7 +77,8 @@
         102191569,
         85632313,
         85673773,
-        1092064543
+        1092064543,
+        9895094856
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -95,11 +96,12 @@
             "country_id":85632313,
             "county_id":1092064543,
             "locality_id":421193837,
+            "macroregion_id":9895094856,
             "region_id":85673773
         }
     ],
     "wof:id":421193837,
-    "wof:lastmodified":1690938557,
+    "wof:lastmodified":1795802560,
     "wof:name":"Elephant Pass",
     "wof:parent_id":1092064543,
     "wof:placetype":"locality",

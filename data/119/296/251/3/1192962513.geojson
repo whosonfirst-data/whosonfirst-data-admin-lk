@@ -38,7 +38,8 @@
         102191569,
         85632313,
         85673815,
-        1092067725
+        1092067725,
+        9895094853
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,11 +53,12 @@
             "country_id":85632313,
             "county_id":1092067725,
             "locality_id":1192962513,
+            "macroregion_id":9895094853,
             "region_id":85673815
         }
     ],
     "wof:id":1192962513,
-    "wof:lastmodified":1566595000,
+    "wof:lastmodified":1795802560,
     "wof:name":"Weliketiya",
     "wof:parent_id":1092067725,
     "wof:placetype":"locality",

@@ -39,7 +39,8 @@
         102191569,
         85632313,
         85673769,
-        1092067125
+        1092067125,
+        9895094856
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,11 +54,12 @@
             "country_id":85632313,
             "county_id":1092067125,
             "locality_id":1276927873,
+            "macroregion_id":9895094856,
             "region_id":85673769
         }
     ],
     "wof:id":1276927873,
-    "wof:lastmodified":1566594701,
+    "wof:lastmodified":1795802560,
     "wof:name":"Puloli South",
     "wof:parent_id":1092067125,
     "wof:placetype":"locality",

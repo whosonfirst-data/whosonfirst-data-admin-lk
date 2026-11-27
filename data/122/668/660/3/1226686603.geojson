@@ -34,7 +34,8 @@
         102191569,
         85632313,
         85673811,
-        1092059399
+        1092059399,
+        9895094853
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,11 +50,12 @@
             "country_id":85632313,
             "county_id":1092059399,
             "locality_id":1226686603,
+            "macroregion_id":9895094853,
             "region_id":85673811
         }
     ],
     "wof:id":1226686603,
-    "wof:lastmodified":1566595680,
+    "wof:lastmodified":1795802560,
     "wof:name":"Mattegoda",
     "wof:parent_id":1092059399,
     "wof:placetype":"locality",

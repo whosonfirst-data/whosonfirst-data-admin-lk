@@ -46,7 +46,8 @@
         102191569,
         85632313,
         85673819,
-        1092064987
+        1092064987,
+        9895094853
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -61,11 +62,12 @@
             "country_id":85632313,
             "county_id":1092064987,
             "locality_id":1326970231,
+            "macroregion_id":9895094853,
             "region_id":85673819
         }
     ],
     "wof:id":1326970231,
-    "wof:lastmodified":1566594230,
+    "wof:lastmodified":1795802560,
     "wof:name":"Meda Wadduwa",
     "wof:parent_id":1092064987,
     "wof:placetype":"locality",

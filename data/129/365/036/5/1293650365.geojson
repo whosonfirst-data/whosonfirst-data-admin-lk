@@ -37,7 +37,8 @@
         102191569,
         85632313,
         85673731,
-        1092059139
+        1092059139,
+        9895094854
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,11 +52,12 @@
             "country_id":85632313,
             "county_id":1092059139,
             "locality_id":1293650365,
+            "macroregion_id":9895094854,
             "region_id":85673731
         }
     ],
     "wof:id":1293650365,
-    "wof:lastmodified":1566594450,
+    "wof:lastmodified":1795802560,
     "wof:name":"Uduwellagama",
     "wof:parent_id":1092059139,
     "wof:placetype":"locality",

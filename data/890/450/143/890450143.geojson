@@ -139,7 +139,8 @@
         102191569,
         85632313,
         85673737,
-        1092058421
+        1092058421,
+        9895094857
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -157,11 +158,12 @@
             "country_id":85632313,
             "county_id":1092058421,
             "locality_id":890450143,
+            "macroregion_id":9895094857,
             "region_id":85673737
         }
     ],
     "wof:id":890450143,
-    "wof:lastmodified":1690938576,
+    "wof:lastmodified":1795802560,
     "wof:name":"Eravur Town",
     "wof:parent_id":1092058421,
     "wof:placetype":"locality",

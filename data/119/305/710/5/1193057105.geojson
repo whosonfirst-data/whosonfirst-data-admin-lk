@@ -34,7 +34,8 @@
         102191569,
         85632313,
         85673761,
-        1092061973
+        1092061973,
+        9895094856
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,11 +50,12 @@
             "country_id":85632313,
             "county_id":1092061973,
             "locality_id":1193057105,
+            "macroregion_id":9895094856,
             "region_id":85673761
         }
     ],
     "wof:id":1193057105,
-    "wof:lastmodified":1566594995,
+    "wof:lastmodified":1795802560,
     "wof:name":"Umayartuvarankulam",
     "wof:parent_id":1092061973,
     "wof:placetype":"locality",

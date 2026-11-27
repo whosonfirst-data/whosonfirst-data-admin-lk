@@ -253,7 +253,8 @@
     "unlc:subdivision":"LK-61",
     "wof:belongsto":[
         102191569,
-        85632313
+        85632313,
+        9895094858
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -278,6 +279,7 @@
         {
             "continent_id":102191569,
             "country_id":85632313,
+            "macroregion_id":9895094858,
             "region_id":85673777
         }
     ],
@@ -290,9 +292,9 @@
         "sin",
         "tam"
     ],
-    "wof:lastmodified":1695884362,
+    "wof:lastmodified":1795802560,
     "wof:name":"Kuru\u1e47\u00e6gala",
-    "wof:parent_id":85632313,
+    "wof:parent_id":9895094858,
     "wof:placetype":"region",
     "wof:placetype_local":"district",
     "wof:population":1618465,

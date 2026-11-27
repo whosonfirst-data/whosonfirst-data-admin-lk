@@ -34,7 +34,8 @@
         102191569,
         85632313,
         85673723,
-        1092058513
+        1092058513,
+        9895094854
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,11 +50,12 @@
             "country_id":85632313,
             "county_id":1092058513,
             "locality_id":1226089013,
+            "macroregion_id":9895094854,
             "region_id":85673723
         }
     ],
     "wof:id":1226089013,
-    "wof:lastmodified":1566595760,
+    "wof:lastmodified":1795802560,
     "wof:name":"Beligamuwa",
     "wof:parent_id":1092058513,
     "wof:placetype":"locality",

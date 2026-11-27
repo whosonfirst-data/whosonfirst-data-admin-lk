@@ -60,7 +60,8 @@
     },
     "wof:belongsto":[
         85632313,
-        85673789
+        85673789,
+        9895094855
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -76,11 +77,12 @@
         {
             "campus_id":102547165,
             "country_id":85632313,
+            "macroregion_id":9895094855,
             "region_id":85673789
         }
     ],
     "wof:id":102547165,
-    "wof:lastmodified":1631749947,
+    "wof:lastmodified":1795802560,
     "wof:name":"Koggala Airport",
     "wof:parent_id":85673789,
     "wof:placetype":"campus",

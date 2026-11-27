@@ -66,7 +66,8 @@
     "wof:belongsto":[
         102191569,
         85632313,
-        85673723
+        85673723,
+        9895094854
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -81,11 +82,12 @@
             "continent_id":102191569,
             "country_id":85632313,
             "county_id":1092064907,
+            "macroregion_id":9895094854,
             "region_id":85673723
         }
     ],
     "wof:id":1092064907,
-    "wof:lastmodified":1695886794,
+    "wof:lastmodified":1795802560,
     "wof:name":"Pallepola",
     "wof:parent_id":85673723,
     "wof:placetype":"county",

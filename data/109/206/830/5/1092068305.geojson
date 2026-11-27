@@ -66,7 +66,8 @@
     "wof:belongsto":[
         102191569,
         85632313,
-        85673807
+        85673807,
+        9895094861
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -81,11 +82,12 @@
             "continent_id":102191569,
             "country_id":85632313,
             "county_id":1092068305,
+            "macroregion_id":9895094861,
             "region_id":85673807
         }
     ],
     "wof:id":1092068305,
-    "wof:lastmodified":1695886797,
+    "wof:lastmodified":1795802560,
     "wof:name":"Yatiyanthota",
     "wof:parent_id":85673807,
     "wof:placetype":"county",

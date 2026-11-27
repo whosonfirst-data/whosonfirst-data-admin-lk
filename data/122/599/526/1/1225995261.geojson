@@ -40,7 +40,8 @@
         102191569,
         85632313,
         85673719,
-        1092066935
+        1092066935,
+        9895094854
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -54,11 +55,12 @@
             "country_id":85632313,
             "county_id":1092066935,
             "locality_id":1225995261,
+            "macroregion_id":9895094854,
             "region_id":85673719
         }
     ],
     "wof:id":1225995261,
-    "wof:lastmodified":1566595705,
+    "wof:lastmodified":1795802560,
     "wof:name":"Kaikawala",
     "wof:parent_id":1092066935,
     "wof:placetype":"locality",

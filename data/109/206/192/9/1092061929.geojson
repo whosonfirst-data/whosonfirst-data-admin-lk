@@ -69,7 +69,8 @@
     "wof:belongsto":[
         102191569,
         85632313,
-        85673779
+        85673779,
+        9895094858
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -84,11 +85,12 @@
             "continent_id":102191569,
             "country_id":85632313,
             "county_id":1092061929,
+            "macroregion_id":9895094858,
             "region_id":85673779
         }
     ],
     "wof:id":1092061929,
-    "wof:lastmodified":1695886791,
+    "wof:lastmodified":1795802560,
     "wof:name":"Madampe",
     "wof:parent_id":85673779,
     "wof:placetype":"county",

@@ -34,7 +34,8 @@
         102191569,
         85632313,
         85673791,
-        1092060721
+        1092060721,
+        9895094855
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,11 +49,12 @@
             "country_id":85632313,
             "county_id":1092060721,
             "locality_id":1242918601,
+            "macroregion_id":9895094855,
             "region_id":85673791
         }
     ],
     "wof:id":1242918601,
-    "wof:lastmodified":1566595513,
+    "wof:lastmodified":1795802560,
     "wof:name":"Ambagasara",
     "wof:parent_id":1092060721,
     "wof:placetype":"locality",

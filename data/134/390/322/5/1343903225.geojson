@@ -39,7 +39,8 @@
         102191569,
         85632313,
         85673791,
-        1092059101
+        1092059101,
+        9895094855
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,11 +54,12 @@
             "country_id":85632313,
             "county_id":1092059101,
             "locality_id":1343903225,
+            "macroregion_id":9895094855,
             "region_id":85673791
         }
     ],
     "wof:id":1343903225,
-    "wof:lastmodified":1566594305,
+    "wof:lastmodified":1795802560,
     "wof:name":"Kudabolana",
     "wof:parent_id":1092059101,
     "wof:placetype":"locality",

@@ -34,7 +34,8 @@
         102191569,
         85632313,
         85673779,
-        1092064867
+        1092064867,
+        9895094858
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,11 +49,12 @@
             "country_id":85632313,
             "county_id":1092064867,
             "locality_id":1292950183,
+            "macroregion_id":9895094858,
             "region_id":85673779
         }
     ],
     "wof:id":1292950183,
-    "wof:lastmodified":1566594490,
+    "wof:lastmodified":1795802560,
     "wof:name":"Periyamaduwa",
     "wof:parent_id":1092064867,
     "wof:placetype":"locality",

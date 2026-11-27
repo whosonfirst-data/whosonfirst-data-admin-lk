@@ -40,7 +40,8 @@
         102191569,
         85632313,
         85673747,
-        1092058863
+        1092058863,
+        9895094857
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -54,11 +55,12 @@
             "country_id":85632313,
             "county_id":1092058863,
             "locality_id":1193211159,
+            "macroregion_id":9895094857,
             "region_id":85673747
         }
     ],
     "wof:id":1193211159,
-    "wof:lastmodified":1566595039,
+    "wof:lastmodified":1795802560,
     "wof:name":"Tirappanal",
     "wof:parent_id":1092058863,
     "wof:placetype":"locality",

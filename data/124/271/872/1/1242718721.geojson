@@ -40,7 +40,8 @@
         102191569,
         85632313,
         85673801,
-        1092062329
+        1092062329,
+        9895094860
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -54,11 +55,12 @@
             "country_id":85632313,
             "county_id":1092062329,
             "locality_id":1242718721,
+            "macroregion_id":9895094860,
             "region_id":85673801
         }
     ],
     "wof:id":1242718721,
-    "wof:lastmodified":1566595502,
+    "wof:lastmodified":1795802560,
     "wof:name":"Giranduwa",
     "wof:parent_id":1092062329,
     "wof:placetype":"locality",

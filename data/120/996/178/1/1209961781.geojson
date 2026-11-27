@@ -37,7 +37,8 @@
         102191569,
         85632313,
         85673791,
-        1092056653
+        1092056653,
+        9895094855
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,11 +52,12 @@
             "country_id":85632313,
             "county_id":1092056653,
             "locality_id":1209961781,
+            "macroregion_id":9895094855,
             "region_id":85673791
         }
     ],
     "wof:id":1209961781,
-    "wof:lastmodified":1566594809,
+    "wof:lastmodified":1795802560,
     "wof:name":"Turunnansegama",
     "wof:parent_id":1092056653,
     "wof:placetype":"locality",
