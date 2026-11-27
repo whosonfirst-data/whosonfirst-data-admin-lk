@@ -43,7 +43,8 @@
         102191569,
         85632313,
         85673751,
-        1092064619
+        1092064619,
+        9895094859
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -57,11 +58,12 @@
             "country_id":85632313,
             "county_id":1092064619,
             "locality_id":1326576233,
+            "macroregion_id":9895094859,
             "region_id":85673751
         }
     ],
     "wof:id":1326576233,
-    "wof:lastmodified":1566594183,
+    "wof:lastmodified":1795802560,
     "wof:name":"Alutgama",
     "wof:parent_id":1092064619,
     "wof:placetype":"locality",

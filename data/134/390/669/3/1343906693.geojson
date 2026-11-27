@@ -34,7 +34,8 @@
         102191569,
         85632313,
         85673807,
-        1092057621
+        1092057621,
+        9895094861
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,11 +49,12 @@
             "country_id":85632313,
             "county_id":1092057621,
             "locality_id":1343906693,
+            "macroregion_id":9895094861,
             "region_id":85673807
         }
     ],
     "wof:id":1343906693,
-    "wof:lastmodified":1566594301,
+    "wof:lastmodified":1795802560,
     "wof:name":"Godagampola",
     "wof:parent_id":1092057621,
     "wof:placetype":"locality",

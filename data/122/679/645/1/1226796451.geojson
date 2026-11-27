@@ -39,7 +39,8 @@
         102191569,
         85632313,
         85673719,
-        1092063065
+        1092063065,
+        9895094854
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,11 +54,12 @@
             "country_id":85632313,
             "county_id":1092063065,
             "locality_id":1226796451,
+            "macroregion_id":9895094854,
             "region_id":85673719
         }
     ],
     "wof:id":1226796451,
-    "wof:lastmodified":1566595737,
+    "wof:lastmodified":1795802560,
     "wof:name":"Poddalgoda Megodagama",
     "wof:parent_id":1092063065,
     "wof:placetype":"locality",

@@ -82,7 +82,8 @@
         85673811,
         102191569,
         85632313,
-        1092057657
+        1092057657,
+        9895094853
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -102,6 +103,7 @@
             "country_id":85632313,
             "county_id":1092057657,
             "locality_id":-1,
+            "macroregion_id":9895094853,
             "neighbourhood_id":85772795,
             "region_id":85673811
         }
@@ -110,7 +112,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1690938535,
+    "wof:lastmodified":1795802560,
     "wof:name":"Wellawatta",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

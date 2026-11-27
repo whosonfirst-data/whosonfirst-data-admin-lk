@@ -46,7 +46,8 @@
         102191569,
         85632313,
         85673789,
-        1092059573
+        1092059573,
+        9895094855
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -60,11 +61,12 @@
             "country_id":85632313,
             "county_id":1092059573,
             "locality_id":1243117343,
+            "macroregion_id":9895094855,
             "region_id":85673789
         }
     ],
     "wof:id":1243117343,
-    "wof:lastmodified":1566595524,
+    "wof:lastmodified":1795802560,
     "wof:name":"Kambala",
     "wof:parent_id":1092059573,
     "wof:placetype":"locality",

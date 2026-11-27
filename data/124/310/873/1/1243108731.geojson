@@ -37,7 +37,8 @@
         102191569,
         85632313,
         85673785,
-        1092056887
+        1092056887,
+        9895094861
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,11 +52,12 @@
             "country_id":85632313,
             "county_id":1092056887,
             "locality_id":1243108731,
+            "macroregion_id":9895094861,
             "region_id":85673785
         }
     ],
     "wof:id":1243108731,
-    "wof:lastmodified":1566595529,
+    "wof:lastmodified":1795802560,
     "wof:name":"Ballapanathenna",
     "wof:parent_id":1092056887,
     "wof:placetype":"locality",

@@ -69,7 +69,8 @@
     },
     "wof:belongsto":[
         85632313,
-        85673791
+        85673791,
+        9895094855
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -85,11 +86,12 @@
         {
             "campus_id":102547183,
             "country_id":85632313,
+            "macroregion_id":9895094855,
             "region_id":85673791
         }
     ],
     "wof:id":102547183,
-    "wof:lastmodified":1690938534,
+    "wof:lastmodified":1795802560,
     "wof:name":"Wirawila Airport",
     "wof:parent_id":85673791,
     "wof:placetype":"campus",

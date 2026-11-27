@@ -37,7 +37,8 @@
         102191569,
         85632313,
         85673811,
-        1092059399
+        1092059399,
+        9895094853
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,11 +52,12 @@
             "country_id":85632313,
             "county_id":1092059399,
             "locality_id":1344201767,
+            "macroregion_id":9895094853,
             "region_id":85673811
         }
     ],
     "wof:id":1344201767,
-    "wof:lastmodified":1566594422,
+    "wof:lastmodified":1795802560,
     "wof:name":"Beddegedaramalla",
     "wof:parent_id":1092059399,
     "wof:placetype":"locality",

@@ -38,7 +38,8 @@
         102191569,
         85632313,
         85673733,
-        1092062135
+        1092062135,
+        9895094857
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,11 +53,12 @@
             "country_id":85632313,
             "county_id":1092062135,
             "locality_id":1226181359,
+            "macroregion_id":9895094857,
             "region_id":85673733
         }
     ],
     "wof:id":1226181359,
-    "wof:lastmodified":1566595638,
+    "wof:lastmodified":1795802560,
     "wof:name":"Kurunduwinna",
     "wof:parent_id":1092062135,
     "wof:placetype":"locality",

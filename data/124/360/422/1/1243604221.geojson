@@ -38,7 +38,8 @@
         102191569,
         85632313,
         85673751,
-        1092060031
+        1092060031,
+        9895094859
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,11 +53,12 @@
             "country_id":85632313,
             "county_id":1092060031,
             "locality_id":1243604221,
+            "macroregion_id":9895094859,
             "region_id":85673751
         }
     ],
     "wof:id":1243604221,
-    "wof:lastmodified":1566595483,
+    "wof:lastmodified":1795802560,
     "wof:name":"Konwewa",
     "wof:parent_id":1092060031,
     "wof:placetype":"locality",

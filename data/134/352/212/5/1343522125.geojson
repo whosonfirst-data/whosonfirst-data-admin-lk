@@ -40,7 +40,8 @@
         102191569,
         85632313,
         85673743,
-        1092061853
+        1092061853,
+        9895094859
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -54,11 +55,12 @@
             "country_id":85632313,
             "county_id":1092061853,
             "locality_id":1343522125,
+            "macroregion_id":9895094859,
             "region_id":85673743
         }
     ],
     "wof:id":1343522125,
-    "wof:lastmodified":1566594298,
+    "wof:lastmodified":1795802560,
     "wof:name":"Thambala",
     "wof:parent_id":1092061853,
     "wof:placetype":"locality",

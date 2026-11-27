@@ -34,7 +34,8 @@
         102191569,
         85632313,
         85673777,
-        1092058131
+        1092058131,
+        9895094858
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,11 +49,12 @@
             "country_id":85632313,
             "county_id":1092058131,
             "locality_id":1360031061,
+            "macroregion_id":9895094858,
             "region_id":85673777
         }
     ],
     "wof:id":1360031061,
-    "wof:lastmodified":1566595254,
+    "wof:lastmodified":1795802560,
     "wof:name":"Weliyawa",
     "wof:parent_id":1092058131,
     "wof:placetype":"locality",

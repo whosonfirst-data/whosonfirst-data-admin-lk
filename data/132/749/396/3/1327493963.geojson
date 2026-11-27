@@ -40,7 +40,8 @@
         102191569,
         85632313,
         85673743,
-        1092066437
+        1092066437,
+        9895094859
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -54,11 +55,12 @@
             "country_id":85632313,
             "county_id":1092066437,
             "locality_id":1327493963,
+            "macroregion_id":9895094859,
             "region_id":85673743
         }
     ],
     "wof:id":1327493963,
-    "wof:lastmodified":1566594192,
+    "wof:lastmodified":1795802560,
     "wof:name":"Divulana",
     "wof:parent_id":1092066437,
     "wof:placetype":"locality",

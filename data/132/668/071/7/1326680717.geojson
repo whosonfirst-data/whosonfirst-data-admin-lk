@@ -43,7 +43,8 @@
         102191569,
         85632313,
         85673723,
-        1092061819
+        1092061819,
+        9895094854
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -57,11 +58,12 @@
             "country_id":85632313,
             "county_id":1092061819,
             "locality_id":1326680717,
+            "macroregion_id":9895094854,
             "region_id":85673723
         }
     ],
     "wof:id":1326680717,
-    "wof:lastmodified":1566594175,
+    "wof:lastmodified":1795802560,
     "wof:name":"Hanwella",
     "wof:parent_id":1092061819,
     "wof:placetype":"locality",

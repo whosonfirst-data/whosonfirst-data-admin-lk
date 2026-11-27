@@ -137,7 +137,8 @@
         102191569,
         85632313,
         85673779,
-        1092057373
+        1092057373,
+        9895094858
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -156,11 +157,12 @@
             "country_id":85632313,
             "county_id":1092057373,
             "locality_id":890450147,
+            "macroregion_id":9895094858,
             "region_id":85673779
         }
     ],
     "wof:id":890450147,
-    "wof:lastmodified":1690938576,
+    "wof:lastmodified":1795802560,
     "wof:name":"Chilaw",
     "wof:parent_id":1092057373,
     "wof:placetype":"locality",

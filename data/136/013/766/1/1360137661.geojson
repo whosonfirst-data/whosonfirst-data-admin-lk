@@ -38,7 +38,8 @@
         102191569,
         85632313,
         85673815,
-        1092057931
+        1092057931,
+        9895094853
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,11 +53,12 @@
             "country_id":85632313,
             "county_id":1092057931,
             "locality_id":1360137661,
+            "macroregion_id":9895094853,
             "region_id":85673815
         }
     ],
     "wof:id":1360137661,
-    "wof:lastmodified":1566595236,
+    "wof:lastmodified":1795802560,
     "wof:name":"Andimulla",
     "wof:parent_id":1092057931,
     "wof:placetype":"locality",

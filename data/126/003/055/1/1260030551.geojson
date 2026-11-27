@@ -40,7 +40,8 @@
         102191569,
         85632313,
         85673731,
-        1092059139
+        1092059139,
+        9895094854
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -55,11 +56,12 @@
             "country_id":85632313,
             "county_id":1092059139,
             "locality_id":1260030551,
+            "macroregion_id":9895094854,
             "region_id":85673731
         }
     ],
     "wof:id":1260030551,
-    "wof:lastmodified":1566595073,
+    "wof:lastmodified":1795802560,
     "wof:name":"Udagalauda",
     "wof:parent_id":1092059139,
     "wof:placetype":"locality",

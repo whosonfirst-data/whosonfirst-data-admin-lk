@@ -35,7 +35,8 @@
         102191569,
         85632313,
         85673789,
-        1092058935
+        1092058935,
+        9895094855
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,11 +50,12 @@
             "country_id":85632313,
             "county_id":1092058935,
             "locality_id":1276168957,
+            "macroregion_id":9895094855,
             "region_id":85673789
         }
     ],
     "wof:id":1276168957,
-    "wof:lastmodified":1566594667,
+    "wof:lastmodified":1795802560,
     "wof:name":"Talpe",
     "wof:parent_id":1092058935,
     "wof:placetype":"locality",

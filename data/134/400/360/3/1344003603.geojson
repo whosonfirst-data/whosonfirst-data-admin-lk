@@ -39,7 +39,8 @@
         102191569,
         85632313,
         85673779,
-        1092063613
+        1092063613,
+        9895094858
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,11 +54,12 @@
             "country_id":85632313,
             "county_id":1092063613,
             "locality_id":1344003603,
+            "macroregion_id":9895094858,
             "region_id":85673779
         }
     ],
     "wof:id":1344003603,
-    "wof:lastmodified":1566594323,
+    "wof:lastmodified":1795802560,
     "wof:name":"Mandimativu",
     "wof:parent_id":1092063613,
     "wof:placetype":"locality",

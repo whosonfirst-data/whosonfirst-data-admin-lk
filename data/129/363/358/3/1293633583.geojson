@@ -38,7 +38,8 @@
         102191569,
         85632313,
         85673815,
-        1092056721
+        1092056721,
+        9895094853
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,11 +53,12 @@
             "country_id":85632313,
             "county_id":1092056721,
             "locality_id":1293633583,
+            "macroregion_id":9895094853,
             "region_id":85673815
         }
     ],
     "wof:id":1293633583,
-    "wof:lastmodified":1566594475,
+    "wof:lastmodified":1795802560,
     "wof:name":"Bonegala",
     "wof:parent_id":1092056721,
     "wof:placetype":"locality",

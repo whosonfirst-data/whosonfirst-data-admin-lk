@@ -329,7 +329,8 @@
         102191569,
         85632313,
         85673769,
-        890455863
+        890455863,
+        9895094856
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -349,11 +350,12 @@
             "country_id":85632313,
             "county_id":890455863,
             "locality_id":421195701,
+            "macroregion_id":9895094856,
             "region_id":85673769
         }
     ],
     "wof:id":421195701,
-    "wof:lastmodified":1690938555,
+    "wof:lastmodified":1795802560,
     "wof:name":"Jaffna",
     "wof:parent_id":890455863,
     "wof:placetype":"locality",

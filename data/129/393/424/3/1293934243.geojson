@@ -40,7 +40,8 @@
         102191569,
         85632313,
         85673723,
-        1092067025
+        1092067025,
+        9895094854
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -55,11 +56,12 @@
             "country_id":85632313,
             "county_id":1092067025,
             "locality_id":1293934243,
+            "macroregion_id":9895094854,
             "region_id":85673723
         }
     ],
     "wof:id":1293934243,
-    "wof:lastmodified":1566594561,
+    "wof:lastmodified":1795802560,
     "wof:name":"Galaudahena",
     "wof:parent_id":1092067025,
     "wof:placetype":"locality",

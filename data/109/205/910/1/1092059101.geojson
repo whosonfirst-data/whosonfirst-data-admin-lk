@@ -183,7 +183,8 @@
     "wof:belongsto":[
         102191569,
         85632313,
-        85673791
+        85673791,
+        9895094855
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -199,11 +200,12 @@
             "continent_id":102191569,
             "country_id":85632313,
             "county_id":1092059101,
+            "macroregion_id":9895094855,
             "region_id":85673791
         }
     ],
     "wof:id":1092059101,
-    "wof:lastmodified":1695886707,
+    "wof:lastmodified":1795802560,
     "wof:name":"Hambantota",
     "wof:parent_id":85673791,
     "wof:placetype":"county",

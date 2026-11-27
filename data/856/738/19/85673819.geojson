@@ -249,7 +249,8 @@
     "unlc:subdivision":"LK-13",
     "wof:belongsto":[
         102191569,
-        85632313
+        85632313,
+        9895094853
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -274,6 +275,7 @@
         {
             "continent_id":102191569,
             "country_id":85632313,
+            "macroregion_id":9895094853,
             "region_id":85673819
         }
     ],
@@ -286,9 +288,9 @@
         "sin",
         "tam"
     ],
-    "wof:lastmodified":1695884362,
+    "wof:lastmodified":1795802560,
     "wof:name":"Ka\u1e37utara",
-    "wof:parent_id":85632313,
+    "wof:parent_id":9895094853,
     "wof:placetype":"region",
     "wof:placetype_local":"district",
     "wof:population":1221948,

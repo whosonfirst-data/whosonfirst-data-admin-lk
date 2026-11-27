@@ -37,7 +37,8 @@
         102191569,
         85632313,
         85673777,
-        1092059525
+        1092059525,
+        9895094858
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,11 +52,12 @@
             "country_id":85632313,
             "county_id":1092059525,
             "locality_id":1344216837,
+            "macroregion_id":9895094858,
             "region_id":85673777
         }
     ],
     "wof:id":1344216837,
-    "wof:lastmodified":1566594400,
+    "wof:lastmodified":1795802560,
     "wof:name":"Dehelvehera",
     "wof:parent_id":1092059525,
     "wof:placetype":"locality",

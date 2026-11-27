@@ -53,7 +53,8 @@
         102191569,
         85632313,
         85673803,
-        1092066203
+        1092066203,
+        9895094860
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -72,11 +73,12 @@
             "country_id":85632313,
             "county_id":1092066203,
             "locality_id":890421529,
+            "macroregion_id":9895094860,
             "region_id":85673803
         }
     ],
     "wof:id":890421529,
-    "wof:lastmodified":1690938575,
+    "wof:lastmodified":1795802560,
     "wof:name":"Wattegama",
     "wof:parent_id":1092066203,
     "wof:placetype":"locality",

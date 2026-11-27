@@ -257,7 +257,8 @@
         102191569,
         85632313,
         85673779,
-        1092065617
+        1092065617,
+        9895094858
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -276,11 +277,12 @@
             "country_id":85632313,
             "county_id":1092065617,
             "locality_id":421203931,
+            "macroregion_id":9895094858,
             "region_id":85673779
         }
     ],
     "wof:id":421203931,
-    "wof:lastmodified":1690938559,
+    "wof:lastmodified":1795802560,
     "wof:name":"Puttalam",
     "wof:parent_id":1092065617,
     "wof:placetype":"locality",

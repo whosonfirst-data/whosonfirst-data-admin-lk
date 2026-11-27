@@ -39,7 +39,8 @@
         102191569,
         85632313,
         85673773,
-        1092060355
+        1092060355,
+        9895094856
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,11 +54,12 @@
             "country_id":85632313,
             "county_id":1092060355,
             "locality_id":1309948673,
+            "macroregion_id":9895094856,
             "region_id":85673773
         }
     ],
     "wof:id":1309948673,
-    "wof:lastmodified":1566595347,
+    "wof:lastmodified":1795802560,
     "wof:name":"Pulinkatevanmurippu",
     "wof:parent_id":1092060355,
     "wof:placetype":"locality",

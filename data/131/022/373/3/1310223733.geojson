@@ -48,7 +48,8 @@
         102191569,
         85632313,
         85673815,
-        1092057163
+        1092057163,
+        9895094853
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -62,11 +63,12 @@
             "country_id":85632313,
             "county_id":1092057163,
             "locality_id":1310223733,
+            "macroregion_id":9895094853,
             "region_id":85673815
         }
     ],
     "wof:id":1310223733,
-    "wof:lastmodified":1566595126,
+    "wof:lastmodified":1795802560,
     "wof:name":"Kadawatha",
     "wof:parent_id":1092057163,
     "wof:placetype":"locality",

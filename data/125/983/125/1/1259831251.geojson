@@ -34,7 +34,8 @@
         102191569,
         85632313,
         85673737,
-        1092058375
+        1092058375,
+        9895094857
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,11 +49,12 @@
             "country_id":85632313,
             "county_id":1092058375,
             "locality_id":1259831251,
+            "macroregion_id":9895094857,
             "region_id":85673737
         }
     ],
     "wof:id":1259831251,
-    "wof:lastmodified":1566595566,
+    "wof:lastmodified":1795802560,
     "wof:name":"Sittandi",
     "wof:parent_id":1092058375,
     "wof:placetype":"locality",

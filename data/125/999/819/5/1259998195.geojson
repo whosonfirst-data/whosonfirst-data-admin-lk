@@ -33,7 +33,8 @@
         102191569,
         85632313,
         85673777,
-        1092064771
+        1092064771,
+        9895094858
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,11 +48,12 @@
             "country_id":85632313,
             "county_id":1092064771,
             "locality_id":1259998195,
+            "macroregion_id":9895094858,
             "region_id":85673777
         }
     ],
     "wof:id":1259998195,
-    "wof:lastmodified":1566595563,
+    "wof:lastmodified":1795802560,
     "wof:name":"Bandara Koswatta",
     "wof:parent_id":1092064771,
     "wof:placetype":"locality",

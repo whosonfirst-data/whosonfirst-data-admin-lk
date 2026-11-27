@@ -34,7 +34,8 @@
         102191569,
         85632313,
         85673785,
-        1092056887
+        1092056887,
+        9895094861
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,11 +49,12 @@
             "country_id":85632313,
             "county_id":1092056887,
             "locality_id":1277028307,
+            "macroregion_id":9895094861,
             "region_id":85673785
         }
     ],
     "wof:id":1277028307,
-    "wof:lastmodified":1566594727,
+    "wof:lastmodified":1795802560,
     "wof:name":"Ellewatta",
     "wof:parent_id":1092056887,
     "wof:placetype":"locality",

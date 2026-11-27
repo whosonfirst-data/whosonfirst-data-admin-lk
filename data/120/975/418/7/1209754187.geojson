@@ -37,7 +37,8 @@
         102191569,
         85632313,
         85673769,
-        1092063801
+        1092063801,
+        9895094856
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,11 +52,12 @@
             "country_id":85632313,
             "county_id":1092063801,
             "locality_id":1209754187,
+            "macroregion_id":9895094856,
             "region_id":85673769
         }
     ],
     "wof:id":1209754187,
-    "wof:lastmodified":1566594940,
+    "wof:lastmodified":1795802560,
     "wof:name":"Chiviyatheru East",
     "wof:parent_id":1092063801,
     "wof:placetype":"locality",

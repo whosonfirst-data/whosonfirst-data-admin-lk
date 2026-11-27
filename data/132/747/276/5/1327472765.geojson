@@ -38,7 +38,8 @@
         102191569,
         85632313,
         85673733,
-        1092057459
+        1092057459,
+        9895094857
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,11 +53,12 @@
             "country_id":85632313,
             "county_id":1092057459,
             "locality_id":1327472765,
+            "macroregion_id":9895094857,
             "region_id":85673733
         }
     ],
     "wof:id":1327472765,
-    "wof:lastmodified":1566594191,
+    "wof:lastmodified":1795802560,
     "wof:name":"Kubukgolla",
     "wof:parent_id":1092057459,
     "wof:placetype":"locality",

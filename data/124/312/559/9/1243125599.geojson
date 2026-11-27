@@ -46,7 +46,8 @@
         102191569,
         85632313,
         85673801,
-        1092065181
+        1092065181,
+        9895094860
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -60,11 +61,12 @@
             "country_id":85632313,
             "county_id":1092065181,
             "locality_id":1243125599,
+            "macroregion_id":9895094860,
             "region_id":85673801
         }
     ],
     "wof:id":1243125599,
-    "wof:lastmodified":1566595443,
+    "wof:lastmodified":1795802560,
     "wof:name":"Namunukula",
     "wof:parent_id":1092065181,
     "wof:placetype":"locality",

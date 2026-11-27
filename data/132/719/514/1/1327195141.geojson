@@ -37,7 +37,8 @@
         102191569,
         85632313,
         85673723,
-        1092064907
+        1092064907,
+        9895094854
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,11 +52,12 @@
             "country_id":85632313,
             "county_id":1092064907,
             "locality_id":1327195141,
+            "macroregion_id":9895094854,
             "region_id":85673723
         }
     ],
     "wof:id":1327195141,
-    "wof:lastmodified":1566594244,
+    "wof:lastmodified":1795802560,
     "wof:name":"Ambokudena",
     "wof:parent_id":1092064907,
     "wof:placetype":"locality",

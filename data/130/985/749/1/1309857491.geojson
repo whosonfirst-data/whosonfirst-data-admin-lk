@@ -38,7 +38,8 @@
         102191569,
         85632313,
         85673733,
-        1092057577
+        1092057577,
+        9895094857
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,11 +53,12 @@
             "country_id":85632313,
             "county_id":1092057577,
             "locality_id":1309857491,
+            "macroregion_id":9895094857,
             "region_id":85673733
         }
     ],
     "wof:id":1309857491,
-    "wof:lastmodified":1566595323,
+    "wof:lastmodified":1795802560,
     "wof:name":"Dehiattekandiya",
     "wof:parent_id":1092057577,
     "wof:placetype":"locality",

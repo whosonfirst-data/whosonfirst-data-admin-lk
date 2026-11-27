@@ -34,7 +34,8 @@
         102191569,
         85632313,
         85673811,
-        1092066319
+        1092066319,
+        9895094853
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,11 +49,12 @@
             "country_id":85632313,
             "county_id":1092066319,
             "locality_id":1310145943,
+            "macroregion_id":9895094853,
             "region_id":85673811
         }
     ],
     "wof:id":1310145943,
-    "wof:lastmodified":1566595124,
+    "wof:lastmodified":1795802560,
     "wof:name":"Jubilee Post",
     "wof:parent_id":1092066319,
     "wof:placetype":"locality",

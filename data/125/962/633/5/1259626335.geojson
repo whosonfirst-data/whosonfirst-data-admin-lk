@@ -38,7 +38,8 @@
         102191569,
         85632313,
         85673733,
-        1092056377
+        1092056377,
+        9895094857
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,11 +53,12 @@
             "country_id":85632313,
             "county_id":1092056377,
             "locality_id":1259626335,
+            "macroregion_id":9895094857,
             "region_id":85673733
         }
     ],
     "wof:id":1259626335,
-    "wof:lastmodified":1566595546,
+    "wof:lastmodified":1795802560,
     "wof:name":"Kolavil",
     "wof:parent_id":1092056377,
     "wof:placetype":"locality",

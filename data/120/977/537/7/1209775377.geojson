@@ -97,7 +97,8 @@
         102191569,
         85632313,
         85673779,
-        1092060219
+        1092060219,
+        9895094858
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -111,11 +112,12 @@
             "country_id":85632313,
             "county_id":1092060219,
             "locality_id":1209775377,
+            "macroregion_id":9895094858,
             "region_id":85673779
         }
     ],
     "wof:id":1209775377,
-    "wof:lastmodified":1566594826,
+    "wof:lastmodified":1795802560,
     "wof:name":"Kalmunai",
     "wof:parent_id":1092060219,
     "wof:placetype":"locality",

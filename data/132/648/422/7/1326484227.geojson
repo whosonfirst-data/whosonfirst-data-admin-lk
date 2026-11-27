@@ -40,7 +40,8 @@
         102191569,
         85632313,
         85673789,
-        1092058307
+        1092058307,
+        9895094855
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -54,11 +55,12 @@
             "country_id":85632313,
             "county_id":1092058307,
             "locality_id":1326484227,
+            "macroregion_id":9895094855,
             "region_id":85673789
         }
     ],
     "wof:id":1326484227,
-    "wof:lastmodified":1566594226,
+    "wof:lastmodified":1795802560,
     "wof:name":"Marawila",
     "wof:parent_id":1092058307,
     "wof:placetype":"locality",

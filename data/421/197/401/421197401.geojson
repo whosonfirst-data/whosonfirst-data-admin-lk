@@ -163,7 +163,8 @@
         102191569,
         85632313,
         85673801,
-        1092057059
+        1092057059,
+        9895094860
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -182,11 +183,12 @@
             "country_id":85632313,
             "county_id":1092057059,
             "locality_id":421197401,
+            "macroregion_id":9895094860,
             "region_id":85673801
         }
     ],
     "wof:id":421197401,
-    "wof:lastmodified":1690938568,
+    "wof:lastmodified":1795802560,
     "wof:name":"Bandarawela",
     "wof:parent_id":1092057059,
     "wof:placetype":"locality",

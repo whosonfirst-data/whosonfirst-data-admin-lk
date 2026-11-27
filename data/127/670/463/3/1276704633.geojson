@@ -38,7 +38,8 @@
         102191569,
         85632313,
         85673819,
-        1092057157
+        1092057157,
+        9895094853
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,11 +53,12 @@
             "country_id":85632313,
             "county_id":1092057157,
             "locality_id":1276704633,
+            "macroregion_id":9895094853,
             "region_id":85673819
         }
     ],
     "wof:id":1276704633,
-    "wof:lastmodified":1566594753,
+    "wof:lastmodified":1795802560,
     "wof:name":"Beruwala Town",
     "wof:parent_id":1092057157,
     "wof:placetype":"locality",

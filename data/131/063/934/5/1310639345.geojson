@@ -39,7 +39,8 @@
         102191569,
         85632313,
         85673757,
-        1092067341
+        1092067341,
+        9895094856
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,11 +54,12 @@
             "country_id":85632313,
             "county_id":1092067341,
             "locality_id":1310639345,
+            "macroregion_id":9895094856,
             "region_id":85673757
         }
     ],
     "wof:id":1310639345,
-    "wof:lastmodified":1566595155,
+    "wof:lastmodified":1795802560,
     "wof:name":"Kurundankulam",
     "wof:parent_id":1092067341,
     "wof:placetype":"locality",

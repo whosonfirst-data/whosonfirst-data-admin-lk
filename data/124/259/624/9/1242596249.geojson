@@ -33,7 +33,8 @@
         102191569,
         85632313,
         85673807,
-        890455861
+        890455861,
+        9895094861
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,11 +48,12 @@
             "country_id":85632313,
             "county_id":890455861,
             "locality_id":1242596249,
+            "macroregion_id":9895094861,
             "region_id":85673807
         }
     ],
     "wof:id":1242596249,
-    "wof:lastmodified":1566595436,
+    "wof:lastmodified":1795802560,
     "wof:name":"Karandupana",
     "wof:parent_id":890455861,
     "wof:placetype":"locality",

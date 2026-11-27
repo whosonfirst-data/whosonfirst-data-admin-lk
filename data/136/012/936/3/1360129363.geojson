@@ -40,7 +40,8 @@
         102191569,
         85632313,
         85673803,
-        1092063443
+        1092063443,
+        9895094860
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -54,11 +55,12 @@
             "country_id":85632313,
             "county_id":1092063443,
             "locality_id":1360129363,
+            "macroregion_id":9895094860,
             "region_id":85673803
         }
     ],
     "wof:id":1360129363,
-    "wof:lastmodified":1566595225,
+    "wof:lastmodified":1795802560,
     "wof:name":"Udawela",
     "wof:parent_id":1092063443,
     "wof:placetype":"locality",

@@ -39,7 +39,8 @@
         102191569,
         85632313,
         85673751,
-        1092058635
+        1092058635,
+        9895094859
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,11 +54,12 @@
             "country_id":85632313,
             "county_id":1092058635,
             "locality_id":1260130047,
+            "macroregion_id":9895094859,
             "region_id":85673751
         }
     ],
     "wof:id":1260130047,
-    "wof:lastmodified":1566595060,
+    "wof:lastmodified":1795802560,
     "wof:name":"Ihala Timbirigaswewa",
     "wof:parent_id":1092058635,
     "wof:placetype":"locality",

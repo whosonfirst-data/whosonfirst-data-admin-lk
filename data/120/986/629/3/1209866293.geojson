@@ -33,7 +33,8 @@
         102191569,
         85632313,
         85673751,
-        1092063139
+        1092063139,
+        9895094859
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,11 +48,12 @@
             "country_id":85632313,
             "county_id":1092063139,
             "locality_id":1209866293,
+            "macroregion_id":9895094859,
             "region_id":85673751
         }
     ],
     "wof:id":1209866293,
-    "wof:lastmodified":1537661356,
+    "wof:lastmodified":1795802560,
     "wof:name":"Ulpathgama",
     "wof:parent_id":1092063139,
     "wof:placetype":"locality",

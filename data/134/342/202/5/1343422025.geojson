@@ -34,7 +34,8 @@
         102191569,
         85632313,
         85673719,
-        1092066809
+        1092066809,
+        9895094854
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,11 +50,12 @@
             "country_id":85632313,
             "county_id":1092066809,
             "locality_id":1343422025,
+            "macroregion_id":9895094854,
             "region_id":85673719
         }
     ],
     "wof:id":1343422025,
-    "wof:lastmodified":1566594423,
+    "wof:lastmodified":1795802560,
     "wof:name":"Kaluwane",
     "wof:parent_id":1092066809,
     "wof:placetype":"locality",

@@ -38,7 +38,8 @@
         102191569,
         85632313,
         85673785,
-        1092061085
+        1092061085,
+        9895094861
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,11 +53,12 @@
             "country_id":85632313,
             "county_id":1092061085,
             "locality_id":1193226823,
+            "macroregion_id":9895094861,
             "region_id":85673785
         }
     ],
     "wof:id":1193226823,
-    "wof:lastmodified":1566594989,
+    "wof:lastmodified":1795802560,
     "wof:name":"Eggodakanda",
     "wof:parent_id":1092061085,
     "wof:placetype":"locality",

@@ -58,7 +58,8 @@
         85673811,
         102191569,
         85632313,
-        1092066701
+        1092066701,
+        9895094853
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -77,12 +78,13 @@
             "country_id":85632313,
             "county_id":1092066701,
             "locality_id":-1,
+            "macroregion_id":9895094853,
             "neighbourhood_id":421203925,
             "region_id":85673811
         }
     ],
     "wof:id":421203925,
-    "wof:lastmodified":1690938561,
+    "wof:lastmodified":1795802560,
     "wof:name":"Bambalapitiya",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

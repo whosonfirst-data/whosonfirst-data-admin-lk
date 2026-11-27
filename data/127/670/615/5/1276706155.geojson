@@ -37,7 +37,8 @@
         102191569,
         85632313,
         85673779,
-        1092068121
+        1092068121,
+        9895094858
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,11 +52,12 @@
             "country_id":85632313,
             "county_id":1092068121,
             "locality_id":1276706155,
+            "macroregion_id":9895094858,
             "region_id":85673779
         }
     ],
     "wof:id":1276706155,
-    "wof:lastmodified":1566594756,
+    "wof:lastmodified":1795802560,
     "wof:name":"Boralessa East",
     "wof:parent_id":1092068121,
     "wof:placetype":"locality",

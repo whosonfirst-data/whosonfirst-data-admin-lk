@@ -34,7 +34,8 @@
         102191569,
         85632313,
         85673751,
-        1092065687
+        1092065687,
+        9895094859
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,11 +49,12 @@
             "country_id":85632313,
             "county_id":1092065687,
             "locality_id":1327280543,
+            "macroregion_id":9895094859,
             "region_id":85673751
         }
     ],
     "wof:id":1327280543,
-    "wof:lastmodified":1566594252,
+    "wof:lastmodified":1795802560,
     "wof:name":"Yaya Five",
     "wof:parent_id":1092065687,
     "wof:placetype":"locality",

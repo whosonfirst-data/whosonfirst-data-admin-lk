@@ -62,7 +62,8 @@
         102191569,
         85632313,
         85673719,
-        1092065105
+        1092065105,
+        9895094854
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -81,11 +82,12 @@
             "country_id":85632313,
             "county_id":1092065105,
             "locality_id":421204505,
+            "macroregion_id":9895094854,
             "region_id":85673719
         }
     ],
     "wof:id":421204505,
-    "wof:lastmodified":1566595368,
+    "wof:lastmodified":1795802560,
     "wof:name":"Nawalapitiya",
     "wof:parent_id":1092065105,
     "wof:placetype":"locality",

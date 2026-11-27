@@ -37,7 +37,8 @@
         102191569,
         85632313,
         85673777,
-        1092065035
+        1092065035,
+        9895094858
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,11 +52,12 @@
             "country_id":85632313,
             "county_id":1092065035,
             "locality_id":1326675503,
+            "macroregion_id":9895094858,
             "region_id":85673777
         }
     ],
     "wof:id":1326675503,
-    "wof:lastmodified":1566594164,
+    "wof:lastmodified":1795802560,
     "wof:name":"Uthurawela",
     "wof:parent_id":1092065035,
     "wof:placetype":"locality",

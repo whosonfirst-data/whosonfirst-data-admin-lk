@@ -38,7 +38,8 @@
         102191569,
         85632313,
         85673779,
-        1092057373
+        1092057373,
+        9895094858
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,11 +53,12 @@
             "country_id":85632313,
             "county_id":1092057373,
             "locality_id":1277125899,
+            "macroregion_id":9895094858,
             "region_id":85673779
         }
     ],
     "wof:id":1277125899,
-    "wof:lastmodified":1566594715,
+    "wof:lastmodified":1795802560,
     "wof:name":"Wattawana",
     "wof:parent_id":1092057373,
     "wof:placetype":"locality",

@@ -34,7 +34,8 @@
         102191569,
         85632313,
         85673719,
-        1092065219
+        1092065219,
+        9895094854
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,11 +49,12 @@
             "country_id":85632313,
             "county_id":1092065219,
             "locality_id":1259444099,
+            "macroregion_id":9895094854,
             "region_id":85673719
         }
     ],
     "wof:id":1259444099,
-    "wof:lastmodified":1566595606,
+    "wof:lastmodified":1795802560,
     "wof:name":"Pannagama",
     "wof:parent_id":1092065219,
     "wof:placetype":"locality",

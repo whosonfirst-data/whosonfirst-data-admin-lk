@@ -38,7 +38,8 @@
         102191569,
         85632313,
         85673723,
-        1092068243
+        1092068243,
+        9895094854
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,11 +54,12 @@
             "country_id":85632313,
             "county_id":1092068243,
             "locality_id":1243401469,
+            "macroregion_id":9895094854,
             "region_id":85673723
         }
     ],
     "wof:id":1243401469,
-    "wof:lastmodified":1566595459,
+    "wof:lastmodified":1795802560,
     "wof:name":"Ovitipana",
     "wof:parent_id":1092068243,
     "wof:placetype":"locality",

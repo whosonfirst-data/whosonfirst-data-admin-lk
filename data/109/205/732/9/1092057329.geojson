@@ -63,7 +63,8 @@
     "wof:belongsto":[
         102191569,
         85632313,
-        85673803
+        85673803,
+        9895094860
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -78,11 +79,12 @@
             "continent_id":102191569,
             "country_id":85632313,
             "county_id":1092057329,
+            "macroregion_id":9895094860,
             "region_id":85673803
         }
     ],
     "wof:id":1092057329,
-    "wof:lastmodified":1695886788,
+    "wof:lastmodified":1795802560,
     "wof:name":"Buttala",
     "wof:parent_id":85673803,
     "wof:placetype":"county",

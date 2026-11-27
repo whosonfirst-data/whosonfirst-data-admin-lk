@@ -190,7 +190,8 @@
         102191569,
         85632313,
         85673761,
-        1092062683
+        1092062683,
+        9895094856
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -209,11 +210,12 @@
             "country_id":85632313,
             "county_id":1092062683,
             "locality_id":421174193,
+            "macroregion_id":9895094856,
             "region_id":85673761
         }
     ],
     "wof:id":421174193,
-    "wof:lastmodified":1690938563,
+    "wof:lastmodified":1795802560,
     "wof:name":"Mannar",
     "wof:parent_id":1092062683,
     "wof:placetype":"locality",

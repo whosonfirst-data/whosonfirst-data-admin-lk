@@ -40,7 +40,8 @@
         102191569,
         85632313,
         85673747,
-        1092060425
+        1092060425,
+        9895094857
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -54,11 +55,12 @@
             "country_id":85632313,
             "county_id":1092060425,
             "locality_id":1276166675,
+            "macroregion_id":9895094857,
             "region_id":85673747
         }
     ],
     "wof:id":1276166675,
-    "wof:lastmodified":1566594668,
+    "wof:lastmodified":1795802560,
     "wof:name":"Kantale",
     "wof:parent_id":1092060425,
     "wof:placetype":"locality",

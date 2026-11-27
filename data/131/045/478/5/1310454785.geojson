@@ -39,7 +39,8 @@
         102191569,
         85632313,
         85673815,
-        1092060643
+        1092060643,
+        9895094853
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,11 +54,12 @@
             "country_id":85632313,
             "county_id":1092060643,
             "locality_id":1310454785,
+            "macroregion_id":9895094853,
             "region_id":85673815
         }
     ],
     "wof:id":1310454785,
-    "wof:lastmodified":1566595166,
+    "wof:lastmodified":1795802560,
     "wof:name":"Kandagammulla",
     "wof:parent_id":1092060643,
     "wof:placetype":"locality",

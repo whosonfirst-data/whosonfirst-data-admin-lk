@@ -75,7 +75,8 @@
         102191569,
         85632313,
         85673731,
-        1092064313
+        1092064313,
+        9895094854
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -94,11 +95,12 @@
             "country_id":85632313,
             "county_id":1092064313,
             "locality_id":421203935,
+            "macroregion_id":9895094854,
             "region_id":85673731
         }
     ],
     "wof:id":421203935,
-    "wof:lastmodified":1566595369,
+    "wof:lastmodified":1795802560,
     "wof:name":"Talawakele",
     "wof:parent_id":1092064313,
     "wof:placetype":"locality",

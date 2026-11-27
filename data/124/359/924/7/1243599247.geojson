@@ -41,7 +41,8 @@
         102191569,
         85632313,
         85673723,
-        1092067025
+        1092067025,
+        9895094854
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -55,11 +56,12 @@
             "country_id":85632313,
             "county_id":1092067025,
             "locality_id":1243599247,
+            "macroregion_id":9895094854,
             "region_id":85673723
         }
     ],
     "wof:id":1243599247,
-    "wof:lastmodified":1566595467,
+    "wof:lastmodified":1795802560,
     "wof:name":"Elwala",
     "wof:parent_id":1092067025,
     "wof:placetype":"locality",

@@ -145,7 +145,8 @@
     "wof:belongsto":[
         102191569,
         85632313,
-        85673789
+        85673789,
+        9895094855
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -163,11 +164,12 @@
             "continent_id":102191569,
             "country_id":85632313,
             "locality_id":890450149,
+            "macroregion_id":9895094855,
             "region_id":85673789
         }
     ],
     "wof:id":890450149,
-    "wof:lastmodified":1690938576,
+    "wof:lastmodified":1795802560,
     "wof:name":"Bentota",
     "wof:parent_id":85673789,
     "wof:placetype":"locality",
